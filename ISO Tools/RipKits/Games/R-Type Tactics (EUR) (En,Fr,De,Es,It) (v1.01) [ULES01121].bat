@@ -1,0 +1,15 @@
+@ECHO OFF 
+ 
+SET ZEROB=COPY "U:\Games\PSP\_RIPs\_RipKits\Bin\zero.file" 
+ 
+%ZEROB% "U:\Games\PSP\R-Type Tactics (EUR)\PSP_GAME\SYSDIR\UPDATE\DATA.BIN" /Y 
+%ZEROB% "U:\Games\PSP\R-Type Tactics (EUR)\PSP_GAME\SYSDIR\UPDATE\EBOOT.BIN" /Y 
+%ZEROB% "U:\Games\PSP\R-Type Tactics (EUR)\PSP_GAME\SYSDIR\UPDATE\PARAM.SFO" /Y 
+%ZEROB% "U:\Games\PSP\R-Type Tactics (EUR)\PSP_GAME\USRDIR\CMN\CMN_F.DAT" /Y 
+%ZEROB% "U:\Games\PSP\R-Type Tactics (EUR)\PSP_GAME\USRDIR\CMN\CMN_F.FAT" /Y 
+%ZEROB% "U:\Games\PSP\R-Type Tactics (EUR)\PSP_GAME\USRDIR\CMN\CMN_G.DAT" /Y 
+%ZEROB% "U:\Games\PSP\R-Type Tactics (EUR)\PSP_GAME\USRDIR\CMN\CMN_G.FAT" /Y 
+%ZEROB% "U:\Games\PSP\R-Type Tactics (EUR)\PSP_GAME\USRDIR\CMN\CMN_I.DAT" /Y 
+%ZEROB% "U:\Games\PSP\R-Type Tactics (EUR)\PSP_GAME\USRDIR\CMN\CMN_I.FAT" /Y 
+%ZEROB% "U:\Games\PSP\R-Type Tactics (EUR)\PSP_GAME\USRDIR\CMN\CMN_S.DAT" /Y 
+%ZEROB% "U:\Games\PSP\R-Type Tactics (EUR)\PSP_GAME\USRDIR\CMN\CMN_S.FAT" /Y 

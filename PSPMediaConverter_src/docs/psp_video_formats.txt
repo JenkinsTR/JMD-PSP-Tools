@@ -1,0 +1,44 @@
+Before you can watch movie downloads on your PSP, you need to understand the folder structure, file types and naming conventions. The PSP does not play standard formats like wmv or quick time mov files. It uses MPEG-4 codecs, and its own file naming convention to complicate things a little. Once you understand these basics, you are well on the way to download any movie,music,games and more stuffs that you like on your PSP.
+
+When the PSP was first launched it would only accept one format of movie - the MPEG-4 SP standard. With later updates however the superior AVC format (also known as H.264, or MPEG-4 Part 10) is also playable on the PSP.
+
+============================
+MPEG-4 AAC files.
+============================
+
+This is the default format initially used for the PSP. It is more properly known as MPEG -4 Simple Profile, or as MPEG -4 Part 2, and MPEG -4 AAC.
+
+MPEG-4 AAC movies should be placed in the MP_ROOT100MNV01 folder and must be named with a M4V prefix followed by a random number, like this; M4V00001, M4V00002, M4V00003, etc., with an .MP4 extension.
+
+When browsing your list of movies on your PSP, this type of file will be listed with a MPG4 tag.
+
+============================
+MPEG-4 AVC files (Advanced Video Coding).
+============================
+
+This format is playable on the PSP after firmware update 2.0 or later is installed. AVC files are also known as MPEG-4 Part 10, or more commonly H.264.
+
+AVC files are of superior quality to plain vanilla MPEG-4 files, and are in fact a variant of the exact same format used for the superb UMD Video disc movies.
+
+MPEG-4 AVC movies should be put in the MP_ROOT100ANV01 folder and must be named with a MAQ prefix followed by a 5 digit random number like this, MAQ00001,MAQ00002,MAQ00003 etc., with an .MP4 extension.
+
+When browsing your list of movies on your PSP, this type of file will be listed with an AVC tag.
+
+============================
+Important Notes
+============================
+
+Using lower case filenames will mean your PSP will not recognise the file at all.
+
+Always remember which folder to put the movie type and what naming convention to use so you must name all files using CAPS only.
+
+PSP consoles also support some compression schemes of the AVI format such as Motion JPEG. 
+
+If you are not sure which formats to use on the device, you can use a converter.
+
+Note that PSP consoles are not able to play videos files which have over 6 hours and 30 minutes of data.
+
+You may even have difficulty in playing files which have some playback limitations.
+
+Article Source: https://ezinearticles.com/?Tips-About-PSP-Video-Formats-And-Folders&id=944366
+Article Source: https://techspirited.com/psp-video-formats
