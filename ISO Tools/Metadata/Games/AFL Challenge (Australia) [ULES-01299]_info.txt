@@ -1,0 +1,1242 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: AFL Challenge   
+Title ID: ULES-01299 
+Region: Australia  
+Languages:   
+Volume Creation Date: 2009-07-29 12:00:00 
+Volume Size: 149 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 1
+Volume set id: 1
+Publisher id: TRU BLU
+Data preparer id: WICKED WITCH SOFTWARE
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 76544
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Jul 29 2009 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 29 2009 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Apr 29 2009 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Apr 29 2009 [     95 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Apr 29 2009 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 29 2009 [     22 02] .. 
+-r-xr-xr-x   1    0    0      26915 Jul 28 2009 [  54240 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        472 Jul 29 2009 [  55216 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     163645 Jun 18 2009 [  54256 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Apr 29 2009 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Apr 29 2009 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Apr 29 2009 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 29 2009 [     23 02] .. 
+-r-xr-xr-x   1    0    0    1770008 Jul 30 2009 [  54336 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    1770352 Jul 30 2009 [     96 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Apr 29 2009 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Apr 29 2009 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 29 2009 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 12 2009 [     27 02] data 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Apr 29 2009 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 29 2009 [     24 02] .. 
+-r-xr-xr-x   1    0    0   22054496 Apr 29 2009 [   5088 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5476384 Apr 29 2009 [    992 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Apr 29 2009 [    976 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/data/
+dr-xr-xr-x   1    0    0       2048 Jun 12 2009 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 29 2009 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 30 2009 [     28 02] database 
+dr-xr-xr-x   1    0    0       2048 Jul  9 2009 [     29 02] mascots 
+dr-xr-xr-x   1    0    0       2048 Mar 17 2009 [     30 02] props 
+dr-xr-xr-x   1    0    0       2048 Jun 30 2009 [     31 02] savedata 
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     32 02] sounds 
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     33 02] textures 
+dr-xr-xr-x   1    0    0       2048 Jul 17 2009 [     34 02] ui 
+dr-xr-xr-x   1    0    0       2048 Mar 17 2009 [     35 02] worlds 
+
+Directory listing of /PSP_GAME/USRDIR/data/database/
+dr-xr-xr-x   1    0    0       2048 Jun 30 2009 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 12 2009 [     27 02] .. 
+-r-xr-xr-x   1    0    0      26386 Jul 27 2009 [  55232 00] card.dat 
+-r-xr-xr-x   1    0    0        963 Jun 30 2009 [  55248 00] collisionattr.dat 
+-r-xr-xr-x   1    0    0       2236 Jul 16 2009 [  55264 00] credits.dat 
+-r-xr-xr-x   1    0    0       2984 Jul 27 2009 [  55280 00] fixture.dat 
+-r-xr-xr-x   1    0    0       9796 Jul 13 2009 [  55296 00] footballer.dat 
+-r-xr-xr-x   1    0    0       3691 Jul 30 2009 [  55312 00] instructions.dat 
+-r-xr-xr-x   1    0    0        573 Jun 30 2009 [  55328 00] level.dat 
+-r-xr-xr-x   1    0    0        597 Jul 16 2009 [  55344 00] prop.dat 
+-r-xr-xr-x   1    0    0       2557 Jul 27 2009 [  55360 00] team.dat 
+
+Directory listing of /PSP_GAME/USRDIR/data/mascots/
+dr-xr-xr-x   1    0    0       2048 Jul  9 2009 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 12 2009 [     27 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jul 14 2009 [     36 02] footballerhigh 
+dr-xr-xr-x   1    0    0       2048 Jul 14 2009 [     37 02] footballerlow 
+dr-xr-xr-x   1    0    0       2048 Jul 14 2009 [     38 02] footballermed 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2009 [     39 02] footballer 
+dr-xr-xr-x   1    0    0       2048 Jul 14 2009 [     40 02] goalumpire 
+dr-xr-xr-x   1    0    0       2048 Jul 14 2009 [     41 02] referee 
+
+Directory listing of /PSP_GAME/USRDIR/data/props/
+dr-xr-xr-x   1    0    0       2048 Mar 17 2009 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 12 2009 [     27 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jul  8 2009 [     42 02] football 
+
+Directory listing of /PSP_GAME/USRDIR/data/savedata/
+dr-xr-xr-x   1    0    0       2048 Jun 30 2009 [     31 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 12 2009 [     27 02] .. 
+-r-xr-xr-x   1    0    0      26915 Jul 28 2009 [  56816 00] icon0.png 
+-r-xr-xr-x   1    0    0      10143 Jun 30 2009 [  56832 00] icon_new.png 
+-r-xr-xr-x   1    0    0     163645 Jun 18 2009 [  56848 00] pic1.png 
+
+Directory listing of /PSP_GAME/USRDIR/data/sounds/
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     32 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 12 2009 [     27 02] .. 
+-r-xr-xr-x   1    0    0       1712 Jun 26 2009 [  56928 00] ball1.vag 
+-r-xr-xr-x   1    0    0       1520 Jun 26 2009 [  56944 00] ball2.vag 
+-r-xr-xr-x   1    0    0       1104 Jun 26 2009 [  56960 00] ball3.vag 
+-r-xr-xr-x   1    0    0       2128 Jun 26 2009 [  56976 00] ball4.vag 
+-r-xr-xr-x   1    0    0     758416 Jun 26 2009 [  56992 00] bgcheer2.vag 
+-r-xr-xr-x   1    0    0      14272 Jun 26 2009 [  57376 00] cashreg3.vag 
+-r-xr-xr-x   1    0    0     241680 Jun 26 2009 [  57392 00] goalcheer1.vag 
+-r-xr-xr-x   1    0    0     250112 Jun 26 2009 [  57520 00] goalcheer2.vag 
+-r-xr-xr-x   1    0    0       1360 Jun 26 2009 [  57648 00] menumove2.vag 
+-r-xr-xr-x   1    0    0       2848 Jun 26 2009 [  57664 00] menumove3.vag 
+-r-xr-xr-x   1    0    0      86256 Jun 26 2009 [  57680 00] siren1.vag 
+-r-xr-xr-x   1    0    0      19232 Jun 26 2009 [  57728 00] tackle1.vag 
+-r-xr-xr-x   1    0    0      18544 Jun 26 2009 [  57744 00] tackle2.vag 
+-r-xr-xr-x   1    0    0      17008 Jun 26 2009 [  57760 00] tackle3.vag 
+-r-xr-xr-x   1    0    0    1426464 Jul  8 2009 [  57776 00] title_main_16.vag 
+-r-xr-xr-x   1    0    0      12080 Jun 26 2009 [  58480 00] whistle1.vag 
+-r-xr-xr-x   1    0    0       8656 Jun 26 2009 [  58496 00] whistle2.vag 
+-r-xr-xr-x   1    0    0       5984 Jun 26 2009 [  58512 00] whistle3.vag 
+
+Directory listing of /PSP_GAME/USRDIR/data/textures/
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     33 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 12 2009 [     27 02] .. 
+-r-xr-xr-x   1    0    0      16592 Jun 18 2009 [  58528 00] ball_target.gim 
+-r-xr-xr-x   1    0    0      16592 Jun 11 2009 [  58544 00] selector.gim 
+-r-xr-xr-x   1    0    0       4304 Jun  4 2009 [  58560 00] shadow.gim 
+
+Directory listing of /PSP_GAME/USRDIR/data/ui/
+dr-xr-xr-x   1    0    0       2048 Jul 17 2009 [     34 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 12 2009 [     27 02] .. 
+dr-xr-xr-x   1    0    0      34816 Jun 26 2009 [     43 02] cards 
+-r-xr-xr-x   1    0    0         80 Jul 17 2009 [  67792 00] dialoguebox.wnm 
+-r-xr-xr-x   1    0    0      55660 Jul 17 2009 [  67808 00] dialoguebox.wtx 
+-r-xr-xr-x   1    0    0         96 Jul 17 2009 [  67840 00] dialogueselect.wnm 
+-r-xr-xr-x   1    0    0      16400 Jul 17 2009 [  67856 00] dialogueselect.wtx 
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     60 02] fonts 
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     61 02] ingame 
+dr-xr-xr-x   1    0    0       6144 Jun 26 2009 [     62 02] logos 
+-r-xr-xr-x   1    0    0         96 Jul 17 2009 [  70464 00] menu_highlight_2.wnm 
+-r-xr-xr-x   1    0    0      31380 Jul 17 2009 [  70480 00] menu_highlight_2.wtx 
+-r-xr-xr-x   1    0    0         96 Jul 17 2009 [  70496 00] menu_highlight_3.wnm 
+-r-xr-xr-x   1    0    0      32784 Jul 17 2009 [  70512 00] menu_highlight_3.wtx 
+-r-xr-xr-x   1    0    0         80 Jul 17 2009 [  70544 00] menu_panel.wnm 
+-r-xr-xr-x   1    0    0      65552 Jul 17 2009 [  70560 00] menu_panel.wtx 
+-r-xr-xr-x   1    0    0         80 Jul 17 2009 [  70608 00] normal_logo.wnm 
+-r-xr-xr-x   1    0    0      65552 Jul 17 2009 [  70624 00] normal_logo.wtx 
+dr-xr-xr-x   1    0    0      10240 Jul 14 2009 [     65 02] screens 
+-r-xr-xr-x   1    0    0         80 Jul 17 2009 [  75360 00] statbar.wnm 
+-r-xr-xr-x   1    0    0        104 Jul 17 2009 [  75376 00] statbar.wtx 
+
+Directory listing of /PSP_GAME/USRDIR/data/worlds/
+dr-xr-xr-x   1    0    0       2048 Mar 17 2009 [     35 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 12 2009 [     27 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jul 10 2009 [     70 02] football 
+
+Directory listing of /PSP_GAME/USRDIR/data/mascots/footballerhigh/
+dr-xr-xr-x   1    0    0       2048 Jul 14 2009 [     36 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul  9 2009 [     29 02] .. 
+-r-xr-xr-x   1    0    0      87984 Jul 30 2009 [  56320 00] model.gmo 
+-r-xr-xr-x   1    0    0       2597 Jul 30 2009 [  56368 00] model.inc 
+
+Directory listing of /PSP_GAME/USRDIR/data/mascots/footballerlow/
+dr-xr-xr-x   1    0    0       2048 Jul 14 2009 [     37 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul  9 2009 [     29 02] .. 
+-r-xr-xr-x   1    0    0      81780 Jul 30 2009 [  56384 00] model.gmo 
+-r-xr-xr-x   1    0    0       2666 Jul 30 2009 [  56432 00] model.inc 
+
+Directory listing of /PSP_GAME/USRDIR/data/mascots/footballermed/
+dr-xr-xr-x   1    0    0       2048 Jul 14 2009 [     38 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul  9 2009 [     29 02] .. 
+-r-xr-xr-x   1    0    0      82500 Jul 14 2009 [  56448 00] model.gmo 
+-r-xr-xr-x   1    0    0       2507 Jul 14 2009 [  56496 00] model.inc 
+
+Directory listing of /PSP_GAME/USRDIR/data/mascots/footballer/
+dr-xr-xr-x   1    0    0       2048 Jul 28 2009 [     39 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul  9 2009 [     29 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     71 02] bombers 
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     72 02] bulldogs 
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     73 02] carlton 
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     74 02] crows 
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     75 02] demons 
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     76 02] dockers 
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     77 02] eagles 
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     78 02] geelong 
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     79 02] hawks 
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     80 02] kangaroos 
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     81 02] lions 
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     82 02] magpies 
+-r-xr-xr-x   1    0    0    1109252 Jul 28 2009 [  55568 00] model.gmo 
+-r-xr-xr-x   1    0    0       4085 Jul 28 2009 [  56112 00] model.inc 
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     83 02] port 
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     84 02] referee 
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     85 02] richmond 
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     86 02] saints 
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     87 02] skin1 
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     88 02] skin2 
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     89 02] skin3 
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     90 02] skin4 
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     91 02] skin5 
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     92 02] skin6 
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     93 02] skin7 
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     94 02] swans 
+
+Directory listing of /PSP_GAME/USRDIR/data/mascots/goalumpire/
+dr-xr-xr-x   1    0    0       2048 Jul 14 2009 [     40 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul  9 2009 [     29 02] .. 
+-r-xr-xr-x   1    0    0     210872 Jul 14 2009 [  56512 00] model.gmo 
+-r-xr-xr-x   1    0    0       2785 Jul 14 2009 [  56624 00] model.inc 
+
+Directory listing of /PSP_GAME/USRDIR/data/mascots/referee/
+dr-xr-xr-x   1    0    0       2048 Jul 14 2009 [     41 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul  9 2009 [     29 02] .. 
+-r-xr-xr-x   1    0    0     282588 Jul 14 2009 [  56640 00] model.gmo 
+-r-xr-xr-x   1    0    0       2895 Jul 14 2009 [  56784 00] model.inc 
+
+Directory listing of /PSP_GAME/USRDIR/data/props/football/
+dr-xr-xr-x   1    0    0       2048 Jul  8 2009 [     42 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 17 2009 [     30 02] .. 
+-r-xr-xr-x   1    0    0      19280 Jul  8 2009 [  56800 00] model.gmo 
+
+Directory listing of /PSP_GAME/USRDIR/data/ui/cards/
+dr-xr-xr-x   1    0    0      34816 Jun 26 2009 [     43 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 17 2009 [     34 02] .. 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  58576 00] 0101.wnm 
+-r-xr-xr-x   1    0    0      29968 Jun 26 2009 [  58592 00] 0101.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  58608 00] 0102.wnm 
+-r-xr-xr-x   1    0    0      30788 Jun 26 2009 [  58624 00] 0102.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  58640 00] 0103.wnm 
+-r-xr-xr-x   1    0    0      29136 Jun 26 2009 [  58656 00] 0103.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  58672 00] 0104.wnm 
+-r-xr-xr-x   1    0    0      30556 Jun 26 2009 [  58688 00] 0104.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  58704 00] 0105.wnm 
+-r-xr-xr-x   1    0    0      29984 Jun 26 2009 [  58720 00] 0105.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  58736 00] 0106.wnm 
+-r-xr-xr-x   1    0    0      29520 Jun 26 2009 [  58752 00] 0106.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  58768 00] 0107.wnm 
+-r-xr-xr-x   1    0    0      31236 Jun 26 2009 [  58784 00] 0107.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  58800 00] 0108.wnm 
+-r-xr-xr-x   1    0    0      31276 Jun 26 2009 [  58816 00] 0108.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  58832 00] 0109.wnm 
+-r-xr-xr-x   1    0    0      29828 Jun 26 2009 [  58848 00] 0109.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  58864 00] 0110.wnm 
+-r-xr-xr-x   1    0    0      28888 Jun 26 2009 [  58880 00] 0110.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  58896 00] 0111.wnm 
+-r-xr-xr-x   1    0    0      29504 Jun 26 2009 [  58912 00] 0111.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  58928 00] 0112.wnm 
+-r-xr-xr-x   1    0    0      30400 Jun 26 2009 [  58944 00] 0112.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  58960 00] 0113.wnm 
+-r-xr-xr-x   1    0    0      30844 Jun 26 2009 [  58976 00] 0113.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  58992 00] 0114.wnm 
+-r-xr-xr-x   1    0    0      30504 Jun 26 2009 [  59008 00] 0114.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  59024 00] 0115.wnm 
+-r-xr-xr-x   1    0    0      29980 Jun 26 2009 [  59040 00] 0115.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  59056 00] 0116.wnm 
+-r-xr-xr-x   1    0    0      30588 Jun 26 2009 [  59072 00] 0116.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  59088 00] 0117.wnm 
+-r-xr-xr-x   1    0    0      30416 Jun 26 2009 [  59104 00] 0117.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  59120 00] 0118.wnm 
+-r-xr-xr-x   1    0    0      28876 Jun 26 2009 [  59136 00] 0118.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  59152 00] 0201.wnm 
+-r-xr-xr-x   1    0    0      30500 Jun 26 2009 [  59168 00] 0201.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  59184 00] 0202.wnm 
+-r-xr-xr-x   1    0    0      30572 Jun 26 2009 [  59200 00] 0202.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  59216 00] 0203.wnm 
+-r-xr-xr-x   1    0    0      30872 Jun 26 2009 [  59232 00] 0203.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  59248 00] 0204.wnm 
+-r-xr-xr-x   1    0    0      30540 Jun 26 2009 [  59264 00] 0204.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  59280 00] 0205.wnm 
+-r-xr-xr-x   1    0    0      30324 Jun 26 2009 [  59296 00] 0205.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  59312 00] 0206.wnm 
+-r-xr-xr-x   1    0    0      31180 Jun 26 2009 [  59328 00] 0206.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  59344 00] 0207.wnm 
+-r-xr-xr-x   1    0    0      31784 Jun 26 2009 [  59360 00] 0207.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  59376 00] 0208.wnm 
+-r-xr-xr-x   1    0    0      30392 Jun 26 2009 [  59392 00] 0208.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  59408 00] 0209.wnm 
+-r-xr-xr-x   1    0    0      29992 Jun 26 2009 [  59424 00] 0209.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  59440 00] 0210.wnm 
+-r-xr-xr-x   1    0    0      30172 Jun 26 2009 [  59456 00] 0210.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  59472 00] 0211.wnm 
+-r-xr-xr-x   1    0    0      30848 Jun 26 2009 [  59488 00] 0211.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  59504 00] 0212.wnm 
+-r-xr-xr-x   1    0    0      29776 Jun 26 2009 [  59520 00] 0212.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  59536 00] 0213.wnm 
+-r-xr-xr-x   1    0    0      30756 Jun 26 2009 [  59552 00] 0213.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  59568 00] 0214.wnm 
+-r-xr-xr-x   1    0    0      29828 Jun 26 2009 [  59584 00] 0214.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  59600 00] 0215.wnm 
+-r-xr-xr-x   1    0    0      30304 Jun 26 2009 [  59616 00] 0215.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  59632 00] 0216.wnm 
+-r-xr-xr-x   1    0    0      30516 Jun 26 2009 [  59648 00] 0216.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  59664 00] 0217.wnm 
+-r-xr-xr-x   1    0    0      29936 Jun 26 2009 [  59680 00] 0217.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  59696 00] 0218.wnm 
+-r-xr-xr-x   1    0    0      30452 Jun 26 2009 [  59712 00] 0218.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  59728 00] 0301.wnm 
+-r-xr-xr-x   1    0    0      29636 Jun 26 2009 [  59744 00] 0301.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  59760 00] 0302.wnm 
+-r-xr-xr-x   1    0    0      30724 Jun 26 2009 [  59776 00] 0302.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  59792 00] 0303.wnm 
+-r-xr-xr-x   1    0    0      29644 Jun 26 2009 [  59808 00] 0303.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  59824 00] 0304.wnm 
+-r-xr-xr-x   1    0    0      29740 Jun 26 2009 [  59840 00] 0304.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  59856 00] 0305.wnm 
+-r-xr-xr-x   1    0    0      29956 Jun 26 2009 [  59872 00] 0305.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  59888 00] 0306.wnm 
+-r-xr-xr-x   1    0    0      30020 Jun 26 2009 [  59904 00] 0306.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  59920 00] 0307.wnm 
+-r-xr-xr-x   1    0    0      29908 Jun 26 2009 [  59936 00] 0307.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  59952 00] 0308.wnm 
+-r-xr-xr-x   1    0    0      29480 Jun 26 2009 [  59968 00] 0308.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  59984 00] 0309.wnm 
+-r-xr-xr-x   1    0    0      29776 Jun 26 2009 [  60000 00] 0309.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  60016 00] 0310.wnm 
+-r-xr-xr-x   1    0    0      29540 Jun 26 2009 [  60032 00] 0310.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  60048 00] 0311.wnm 
+-r-xr-xr-x   1    0    0      30632 Jun 26 2009 [  60064 00] 0311.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  60080 00] 0312.wnm 
+-r-xr-xr-x   1    0    0      29492 Jun 26 2009 [  60096 00] 0312.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  60112 00] 0313.wnm 
+-r-xr-xr-x   1    0    0      30064 Jun 26 2009 [  60128 00] 0313.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  60144 00] 0314.wnm 
+-r-xr-xr-x   1    0    0      29484 Jun 26 2009 [  60160 00] 0314.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  60176 00] 0315.wnm 
+-r-xr-xr-x   1    0    0      29644 Jun 26 2009 [  60192 00] 0315.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  60208 00] 0316.wnm 
+-r-xr-xr-x   1    0    0      30016 Jun 26 2009 [  60224 00] 0316.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  60240 00] 0317.wnm 
+-r-xr-xr-x   1    0    0      29980 Jun 26 2009 [  60256 00] 0317.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  60272 00] 0318.wnm 
+-r-xr-xr-x   1    0    0      29756 Jun 26 2009 [  60288 00] 0318.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  60304 00] 0401.wnm 
+-r-xr-xr-x   1    0    0      28464 Jun 26 2009 [  60320 00] 0401.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  60336 00] 0402.wnm 
+-r-xr-xr-x   1    0    0      28692 Jun 26 2009 [  60352 00] 0402.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  60368 00] 0403.wnm 
+-r-xr-xr-x   1    0    0      28276 Jun 26 2009 [  60384 00] 0403.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  60400 00] 0404.wnm 
+-r-xr-xr-x   1    0    0      28868 Jun 26 2009 [  60416 00] 0404.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  60432 00] 0405.wnm 
+-r-xr-xr-x   1    0    0      28380 Jun 26 2009 [  60448 00] 0405.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  60464 00] 0406.wnm 
+-r-xr-xr-x   1    0    0      29144 Jun 26 2009 [  60480 00] 0406.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  60496 00] 0407.wnm 
+-r-xr-xr-x   1    0    0      28872 Jun 26 2009 [  60512 00] 0407.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  60528 00] 0408.wnm 
+-r-xr-xr-x   1    0    0      29092 Jun 26 2009 [  60544 00] 0408.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  60560 00] 0409.wnm 
+-r-xr-xr-x   1    0    0      29184 Jun 26 2009 [  60576 00] 0409.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  60592 00] 0410.wnm 
+-r-xr-xr-x   1    0    0      28532 Jun 26 2009 [  60608 00] 0410.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  60624 00] 0411.wnm 
+-r-xr-xr-x   1    0    0      28400 Jun 26 2009 [  60640 00] 0411.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  60656 00] 0412.wnm 
+-r-xr-xr-x   1    0    0      29264 Jun 26 2009 [  60672 00] 0412.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  60688 00] 0413.wnm 
+-r-xr-xr-x   1    0    0      29128 Jun 26 2009 [  60704 00] 0413.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  60720 00] 0414.wnm 
+-r-xr-xr-x   1    0    0      28452 Jun 26 2009 [  60736 00] 0414.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  60752 00] 0415.wnm 
+-r-xr-xr-x   1    0    0      29248 Jun 26 2009 [  60768 00] 0415.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  60784 00] 0416.wnm 
+-r-xr-xr-x   1    0    0      28956 Jun 26 2009 [  60800 00] 0416.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  60816 00] 0417.wnm 
+-r-xr-xr-x   1    0    0      28724 Jun 26 2009 [  60832 00] 0417.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  60848 00] 0418.wnm 
+-r-xr-xr-x   1    0    0      28660 Jun 26 2009 [  60864 00] 0418.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  60880 00] 0501.wnm 
+-r-xr-xr-x   1    0    0      29280 Jun 26 2009 [  60896 00] 0501.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  60912 00] 0502.wnm 
+-r-xr-xr-x   1    0    0      28860 Jun 26 2009 [  60928 00] 0502.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  60944 00] 0503.wnm 
+-r-xr-xr-x   1    0    0      28740 Jun 26 2009 [  60960 00] 0503.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  60976 00] 0504.wnm 
+-r-xr-xr-x   1    0    0      28808 Jun 26 2009 [  60992 00] 0504.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  61008 00] 0505.wnm 
+-r-xr-xr-x   1    0    0      28116 Jun 26 2009 [  61024 00] 0505.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  61040 00] 0506.wnm 
+-r-xr-xr-x   1    0    0      28840 Jun 26 2009 [  61056 00] 0506.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  61072 00] 0507.wnm 
+-r-xr-xr-x   1    0    0      29452 Jun 26 2009 [  61088 00] 0507.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  61104 00] 0508.wnm 
+-r-xr-xr-x   1    0    0      28800 Jun 26 2009 [  61120 00] 0508.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  61136 00] 0509.wnm 
+-r-xr-xr-x   1    0    0      30412 Jun 26 2009 [  61152 00] 0509.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  61168 00] 0510.wnm 
+-r-xr-xr-x   1    0    0      29644 Jun 26 2009 [  61184 00] 0510.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  61200 00] 0511.wnm 
+-r-xr-xr-x   1    0    0      28760 Jun 26 2009 [  61216 00] 0511.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  61232 00] 0512.wnm 
+-r-xr-xr-x   1    0    0      29180 Jun 26 2009 [  61248 00] 0512.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  61264 00] 0513.wnm 
+-r-xr-xr-x   1    0    0      29224 Jun 26 2009 [  61280 00] 0513.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  61296 00] 0514.wnm 
+-r-xr-xr-x   1    0    0      29596 Jun 26 2009 [  61312 00] 0514.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  61328 00] 0515.wnm 
+-r-xr-xr-x   1    0    0      29128 Jun 26 2009 [  61344 00] 0515.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  61360 00] 0516.wnm 
+-r-xr-xr-x   1    0    0      29728 Jun 26 2009 [  61376 00] 0516.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  61392 00] 0517.wnm 
+-r-xr-xr-x   1    0    0      28868 Jun 26 2009 [  61408 00] 0517.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  61424 00] 0518.wnm 
+-r-xr-xr-x   1    0    0      29888 Jun 26 2009 [  61440 00] 0518.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  61456 00] 0601.wnm 
+-r-xr-xr-x   1    0    0      30036 Jun 26 2009 [  61472 00] 0601.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  61488 00] 0602.wnm 
+-r-xr-xr-x   1    0    0      28856 Jun 26 2009 [  61504 00] 0602.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  61520 00] 0603.wnm 
+-r-xr-xr-x   1    0    0      29696 Jun 26 2009 [  61536 00] 0603.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  61552 00] 0604.wnm 
+-r-xr-xr-x   1    0    0      29324 Jun 26 2009 [  61568 00] 0604.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  61584 00] 0605.wnm 
+-r-xr-xr-x   1    0    0      30136 Jun 26 2009 [  61600 00] 0605.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  61616 00] 0606.wnm 
+-r-xr-xr-x   1    0    0      29232 Jun 26 2009 [  61632 00] 0606.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  61648 00] 0607.wnm 
+-r-xr-xr-x   1    0    0      29236 Jun 26 2009 [  61664 00] 0607.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  61680 00] 0608.wnm 
+-r-xr-xr-x   1    0    0      28948 Jun 26 2009 [  61696 00] 0608.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  61712 00] 0609.wnm 
+-r-xr-xr-x   1    0    0      29240 Jun 26 2009 [  61728 00] 0609.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  61744 00] 0610.wnm 
+-r-xr-xr-x   1    0    0      29072 Jun 26 2009 [  61760 00] 0610.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  61776 00] 0611.wnm 
+-r-xr-xr-x   1    0    0      29616 Jun 26 2009 [  61792 00] 0611.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  61808 00] 0612.wnm 
+-r-xr-xr-x   1    0    0      29216 Jun 26 2009 [  61824 00] 0612.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  61840 00] 0613.wnm 
+-r-xr-xr-x   1    0    0      29732 Jun 26 2009 [  61856 00] 0613.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  61872 00] 0614.wnm 
+-r-xr-xr-x   1    0    0      30096 Jun 26 2009 [  61888 00] 0614.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  61904 00] 0615.wnm 
+-r-xr-xr-x   1    0    0      29880 Jun 26 2009 [  61920 00] 0615.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  61936 00] 0616.wnm 
+-r-xr-xr-x   1    0    0      29316 Jun 26 2009 [  61952 00] 0616.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  61968 00] 0617.wnm 
+-r-xr-xr-x   1    0    0      30144 Jun 26 2009 [  61984 00] 0617.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  62000 00] 0618.wnm 
+-r-xr-xr-x   1    0    0      29472 Jun 26 2009 [  62016 00] 0618.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  62032 00] 0701.wnm 
+-r-xr-xr-x   1    0    0      28964 Jun 26 2009 [  62048 00] 0701.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  62064 00] 0702.wnm 
+-r-xr-xr-x   1    0    0      28852 Jun 26 2009 [  62080 00] 0702.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  62096 00] 0703.wnm 
+-r-xr-xr-x   1    0    0      29336 Jun 26 2009 [  62112 00] 0703.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  62128 00] 0704.wnm 
+-r-xr-xr-x   1    0    0      29776 Jun 26 2009 [  62144 00] 0704.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  62160 00] 0705.wnm 
+-r-xr-xr-x   1    0    0      28636 Jun 26 2009 [  62176 00] 0705.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  62192 00] 0706.wnm 
+-r-xr-xr-x   1    0    0      29000 Jun 26 2009 [  62208 00] 0706.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  62224 00] 0707.wnm 
+-r-xr-xr-x   1    0    0      29632 Jun 26 2009 [  62240 00] 0707.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  62256 00] 0708.wnm 
+-r-xr-xr-x   1    0    0      29416 Jun 26 2009 [  62272 00] 0708.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  62288 00] 0709.wnm 
+-r-xr-xr-x   1    0    0      29092 Jun 26 2009 [  62304 00] 0709.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  62320 00] 0710.wnm 
+-r-xr-xr-x   1    0    0      29516 Jun 26 2009 [  62336 00] 0710.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  62352 00] 0711.wnm 
+-r-xr-xr-x   1    0    0      30056 Jun 26 2009 [  62368 00] 0711.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  62384 00] 0712.wnm 
+-r-xr-xr-x   1    0    0      28720 Jun 26 2009 [  62400 00] 0712.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  62416 00] 0713.wnm 
+-r-xr-xr-x   1    0    0      29508 Jun 26 2009 [  62432 00] 0713.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  62448 00] 0714.wnm 
+-r-xr-xr-x   1    0    0      30008 Jun 26 2009 [  62464 00] 0714.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  62480 00] 0715.wnm 
+-r-xr-xr-x   1    0    0      29060 Jun 26 2009 [  62496 00] 0715.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  62512 00] 0716.wnm 
+-r-xr-xr-x   1    0    0      29232 Jun 26 2009 [  62528 00] 0716.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  62544 00] 0717.wnm 
+-r-xr-xr-x   1    0    0      30040 Jun 26 2009 [  62560 00] 0717.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  62576 00] 0718.wnm 
+-r-xr-xr-x   1    0    0      29628 Jun 26 2009 [  62592 00] 0718.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  62608 00] 0801.wnm 
+-r-xr-xr-x   1    0    0      30664 Jun 26 2009 [  62624 00] 0801.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  62640 00] 0802.wnm 
+-r-xr-xr-x   1    0    0      30524 Jun 26 2009 [  62656 00] 0802.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  62672 00] 0803.wnm 
+-r-xr-xr-x   1    0    0      30604 Jun 26 2009 [  62688 00] 0803.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  62704 00] 0804.wnm 
+-r-xr-xr-x   1    0    0      30896 Jun 26 2009 [  62720 00] 0804.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  62736 00] 0805.wnm 
+-r-xr-xr-x   1    0    0      31508 Jun 26 2009 [  62752 00] 0805.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  62768 00] 0806.wnm 
+-r-xr-xr-x   1    0    0      30240 Jun 26 2009 [  62784 00] 0806.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  62800 00] 0807.wnm 
+-r-xr-xr-x   1    0    0      30420 Jun 26 2009 [  62816 00] 0807.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  62832 00] 0808.wnm 
+-r-xr-xr-x   1    0    0      30296 Jun 26 2009 [  62848 00] 0808.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  62864 00] 0809.wnm 
+-r-xr-xr-x   1    0    0      30604 Jun 26 2009 [  62880 00] 0809.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  62896 00] 0810.wnm 
+-r-xr-xr-x   1    0    0      30684 Jun 26 2009 [  62912 00] 0810.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  62928 00] 0811.wnm 
+-r-xr-xr-x   1    0    0      30572 Jun 26 2009 [  62944 00] 0811.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  62960 00] 0812.wnm 
+-r-xr-xr-x   1    0    0      30100 Jun 26 2009 [  62976 00] 0812.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  62992 00] 0813.wnm 
+-r-xr-xr-x   1    0    0      30900 Jun 26 2009 [  63008 00] 0813.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  63024 00] 0814.wnm 
+-r-xr-xr-x   1    0    0      30332 Jun 26 2009 [  63040 00] 0814.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  63056 00] 0815.wnm 
+-r-xr-xr-x   1    0    0      30552 Jun 26 2009 [  63072 00] 0815.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  63088 00] 0816.wnm 
+-r-xr-xr-x   1    0    0      30420 Jun 26 2009 [  63104 00] 0816.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  63120 00] 0817.wnm 
+-r-xr-xr-x   1    0    0      30260 Jun 26 2009 [  63136 00] 0817.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  63152 00] 0818.wnm 
+-r-xr-xr-x   1    0    0      31364 Jun 26 2009 [  63168 00] 0818.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  63184 00] 0901.wnm 
+-r-xr-xr-x   1    0    0      30096 Jun 26 2009 [  63200 00] 0901.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  63216 00] 0902.wnm 
+-r-xr-xr-x   1    0    0      30668 Jun 26 2009 [  63232 00] 0902.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  63248 00] 0903.wnm 
+-r-xr-xr-x   1    0    0      30076 Jun 26 2009 [  63264 00] 0903.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  63280 00] 0904.wnm 
+-r-xr-xr-x   1    0    0      30768 Jun 26 2009 [  63296 00] 0904.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  63312 00] 0905.wnm 
+-r-xr-xr-x   1    0    0      30116 Jun 26 2009 [  63328 00] 0905.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  63344 00] 0906.wnm 
+-r-xr-xr-x   1    0    0      30800 Jun 26 2009 [  63360 00] 0906.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  63376 00] 0907.wnm 
+-r-xr-xr-x   1    0    0      30400 Jun 26 2009 [  63392 00] 0907.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  63408 00] 0908.wnm 
+-r-xr-xr-x   1    0    0      30680 Jun 26 2009 [  63424 00] 0908.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  63440 00] 0909.wnm 
+-r-xr-xr-x   1    0    0      30660 Jun 26 2009 [  63456 00] 0909.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  63472 00] 0910.wnm 
+-r-xr-xr-x   1    0    0      29340 Jun 26 2009 [  63488 00] 0910.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  63504 00] 0911.wnm 
+-r-xr-xr-x   1    0    0      30356 Jun 26 2009 [  63520 00] 0911.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  63536 00] 0912.wnm 
+-r-xr-xr-x   1    0    0      30520 Jun 26 2009 [  63552 00] 0912.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  63568 00] 0913.wnm 
+-r-xr-xr-x   1    0    0      29840 Jun 26 2009 [  63584 00] 0913.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  63600 00] 0914.wnm 
+-r-xr-xr-x   1    0    0      30528 Jun 26 2009 [  63616 00] 0914.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  63632 00] 0915.wnm 
+-r-xr-xr-x   1    0    0      30100 Jun 26 2009 [  63648 00] 0915.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  63664 00] 0916.wnm 
+-r-xr-xr-x   1    0    0      30272 Jun 26 2009 [  63680 00] 0916.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  63696 00] 0917.wnm 
+-r-xr-xr-x   1    0    0      30384 Jun 26 2009 [  63712 00] 0917.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  63728 00] 0918.wnm 
+-r-xr-xr-x   1    0    0      30048 Jun 26 2009 [  63744 00] 0918.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  63760 00] 1001.wnm 
+-r-xr-xr-x   1    0    0      29336 Jun 26 2009 [  63776 00] 1001.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  63792 00] 1002.wnm 
+-r-xr-xr-x   1    0    0      29964 Jun 26 2009 [  63808 00] 1002.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  63824 00] 1003.wnm 
+-r-xr-xr-x   1    0    0      30336 Jun 26 2009 [  63840 00] 1003.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  63856 00] 1004.wnm 
+-r-xr-xr-x   1    0    0      30164 Jun 26 2009 [  63872 00] 1004.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  63888 00] 1005.wnm 
+-r-xr-xr-x   1    0    0      30124 Jun 26 2009 [  63904 00] 1005.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  63920 00] 1006.wnm 
+-r-xr-xr-x   1    0    0      30552 Jun 26 2009 [  63936 00] 1006.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  63952 00] 1007.wnm 
+-r-xr-xr-x   1    0    0      30300 Jun 26 2009 [  63968 00] 1007.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  63984 00] 1008.wnm 
+-r-xr-xr-x   1    0    0      29960 Jun 26 2009 [  64000 00] 1008.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  64016 00] 1009.wnm 
+-r-xr-xr-x   1    0    0      29736 Jun 26 2009 [  64032 00] 1009.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  64048 00] 1010.wnm 
+-r-xr-xr-x   1    0    0      29608 Jun 26 2009 [  64064 00] 1010.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  64080 00] 1011.wnm 
+-r-xr-xr-x   1    0    0      30404 Jun 26 2009 [  64096 00] 1011.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  64112 00] 1012.wnm 
+-r-xr-xr-x   1    0    0      29492 Jun 26 2009 [  64128 00] 1012.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  64144 00] 1013.wnm 
+-r-xr-xr-x   1    0    0      30572 Jun 26 2009 [  64160 00] 1013.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  64176 00] 1014.wnm 
+-r-xr-xr-x   1    0    0      29048 Jun 26 2009 [  64192 00] 1014.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  64208 00] 1015.wnm 
+-r-xr-xr-x   1    0    0      29760 Jun 26 2009 [  64224 00] 1015.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  64240 00] 1016.wnm 
+-r-xr-xr-x   1    0    0      29824 Jun 26 2009 [  64256 00] 1016.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  64272 00] 1017.wnm 
+-r-xr-xr-x   1    0    0      30964 Jun 26 2009 [  64288 00] 1017.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  64304 00] 1018.wnm 
+-r-xr-xr-x   1    0    0      30720 Jun 26 2009 [  64320 00] 1018.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  64336 00] 1101.wnm 
+-r-xr-xr-x   1    0    0      30324 Jun 26 2009 [  64352 00] 1101.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  64368 00] 1102.wnm 
+-r-xr-xr-x   1    0    0      30224 Jun 26 2009 [  64384 00] 1102.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  64400 00] 1103.wnm 
+-r-xr-xr-x   1    0    0      30552 Jun 26 2009 [  64416 00] 1103.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  64432 00] 1104.wnm 
+-r-xr-xr-x   1    0    0      30544 Jun 26 2009 [  64448 00] 1104.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  64464 00] 1105.wnm 
+-r-xr-xr-x   1    0    0      29912 Jun 26 2009 [  64480 00] 1105.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  64496 00] 1106.wnm 
+-r-xr-xr-x   1    0    0      30276 Jun 26 2009 [  64512 00] 1106.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  64528 00] 1107.wnm 
+-r-xr-xr-x   1    0    0      30572 Jun 26 2009 [  64544 00] 1107.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  64560 00] 1108.wnm 
+-r-xr-xr-x   1    0    0      30540 Jun 26 2009 [  64576 00] 1108.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  64592 00] 1109.wnm 
+-r-xr-xr-x   1    0    0      29640 Jun 26 2009 [  64608 00] 1109.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  64624 00] 1110.wnm 
+-r-xr-xr-x   1    0    0      30248 Jun 26 2009 [  64640 00] 1110.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  64656 00] 1111.wnm 
+-r-xr-xr-x   1    0    0      29328 Jun 26 2009 [  64672 00] 1111.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  64688 00] 1112.wnm 
+-r-xr-xr-x   1    0    0      30028 Jun 26 2009 [  64704 00] 1112.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  64720 00] 1113.wnm 
+-r-xr-xr-x   1    0    0      30136 Jun 26 2009 [  64736 00] 1113.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  64752 00] 1114.wnm 
+-r-xr-xr-x   1    0    0      30800 Jun 26 2009 [  64768 00] 1114.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  64784 00] 1115.wnm 
+-r-xr-xr-x   1    0    0      29796 Jun 26 2009 [  64800 00] 1115.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  64816 00] 1116.wnm 
+-r-xr-xr-x   1    0    0      30248 Jun 26 2009 [  64832 00] 1116.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  64848 00] 1117.wnm 
+-r-xr-xr-x   1    0    0      30372 Jun 26 2009 [  64864 00] 1117.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  64880 00] 1118.wnm 
+-r-xr-xr-x   1    0    0      29832 Jun 26 2009 [  64896 00] 1118.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  64912 00] 1201.wnm 
+-r-xr-xr-x   1    0    0      29624 Jun 26 2009 [  64928 00] 1201.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  64944 00] 1202.wnm 
+-r-xr-xr-x   1    0    0      29484 Jun 26 2009 [  64960 00] 1202.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  64976 00] 1203.wnm 
+-r-xr-xr-x   1    0    0      30024 Jun 26 2009 [  64992 00] 1203.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  65008 00] 1204.wnm 
+-r-xr-xr-x   1    0    0      29828 Jun 26 2009 [  65024 00] 1204.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  65040 00] 1205.wnm 
+-r-xr-xr-x   1    0    0      29648 Jun 26 2009 [  65056 00] 1205.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  65072 00] 1206.wnm 
+-r-xr-xr-x   1    0    0      29404 Jun 26 2009 [  65088 00] 1206.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  65104 00] 1207.wnm 
+-r-xr-xr-x   1    0    0      30268 Jun 26 2009 [  65120 00] 1207.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  65136 00] 1208.wnm 
+-r-xr-xr-x   1    0    0      30100 Jun 26 2009 [  65152 00] 1208.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  65168 00] 1209.wnm 
+-r-xr-xr-x   1    0    0      30232 Jun 26 2009 [  65184 00] 1209.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  65200 00] 1210.wnm 
+-r-xr-xr-x   1    0    0      29688 Jun 26 2009 [  65216 00] 1210.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  65232 00] 1211.wnm 
+-r-xr-xr-x   1    0    0      29292 Jun 26 2009 [  65248 00] 1211.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  65264 00] 1212.wnm 
+-r-xr-xr-x   1    0    0      29700 Jun 26 2009 [  65280 00] 1212.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  65296 00] 1213.wnm 
+-r-xr-xr-x   1    0    0      30040 Jun 26 2009 [  65312 00] 1213.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  65328 00] 1214.wnm 
+-r-xr-xr-x   1    0    0      30460 Jun 26 2009 [  65344 00] 1214.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  65360 00] 1215.wnm 
+-r-xr-xr-x   1    0    0      29680 Jun 26 2009 [  65376 00] 1215.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  65392 00] 1216.wnm 
+-r-xr-xr-x   1    0    0      30288 Jun 26 2009 [  65408 00] 1216.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  65424 00] 1217.wnm 
+-r-xr-xr-x   1    0    0      31048 Jun 26 2009 [  65440 00] 1217.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  65456 00] 1218.wnm 
+-r-xr-xr-x   1    0    0      30472 Jun 26 2009 [  65472 00] 1218.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  65488 00] 1301.wnm 
+-r-xr-xr-x   1    0    0      29276 Jun 26 2009 [  65504 00] 1301.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  65520 00] 1302.wnm 
+-r-xr-xr-x   1    0    0      29280 Jun 26 2009 [  65536 00] 1302.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  65552 00] 1303.wnm 
+-r-xr-xr-x   1    0    0      29756 Jun 26 2009 [  65568 00] 1303.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  65584 00] 1304.wnm 
+-r-xr-xr-x   1    0    0      29688 Jun 26 2009 [  65600 00] 1304.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  65616 00] 1305.wnm 
+-r-xr-xr-x   1    0    0      29376 Jun 26 2009 [  65632 00] 1305.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  65648 00] 1306.wnm 
+-r-xr-xr-x   1    0    0      29952 Jun 26 2009 [  65664 00] 1306.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  65680 00] 1307.wnm 
+-r-xr-xr-x   1    0    0      29468 Jun 26 2009 [  65696 00] 1307.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  65712 00] 1308.wnm 
+-r-xr-xr-x   1    0    0      29564 Jun 26 2009 [  65728 00] 1308.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  65744 00] 1309.wnm 
+-r-xr-xr-x   1    0    0      29324 Jun 26 2009 [  65760 00] 1309.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  65776 00] 1310.wnm 
+-r-xr-xr-x   1    0    0      28552 Jun 26 2009 [  65792 00] 1310.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  65808 00] 1311.wnm 
+-r-xr-xr-x   1    0    0      29120 Jun 26 2009 [  65824 00] 1311.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  65840 00] 1312.wnm 
+-r-xr-xr-x   1    0    0      29160 Jun 26 2009 [  65856 00] 1312.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  65872 00] 1313.wnm 
+-r-xr-xr-x   1    0    0      29060 Jun 26 2009 [  65888 00] 1313.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  65904 00] 1314.wnm 
+-r-xr-xr-x   1    0    0      29784 Jun 26 2009 [  65920 00] 1314.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  65936 00] 1315.wnm 
+-r-xr-xr-x   1    0    0      29216 Jun 26 2009 [  65952 00] 1315.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  65968 00] 1316.wnm 
+-r-xr-xr-x   1    0    0      29820 Jun 26 2009 [  65984 00] 1316.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  66000 00] 1317.wnm 
+-r-xr-xr-x   1    0    0      29640 Jun 26 2009 [  66016 00] 1317.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  66032 00] 1318.wnm 
+-r-xr-xr-x   1    0    0      29104 Jun 26 2009 [  66048 00] 1318.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  66064 00] 1401.wnm 
+-r-xr-xr-x   1    0    0      29380 Jun 26 2009 [  66080 00] 1401.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  66096 00] 1402.wnm 
+-r-xr-xr-x   1    0    0      29884 Jun 26 2009 [  66112 00] 1402.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  66128 00] 1403.wnm 
+-r-xr-xr-x   1    0    0      29280 Jun 26 2009 [  66144 00] 1403.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  66160 00] 1404.wnm 
+-r-xr-xr-x   1    0    0      29336 Jun 26 2009 [  66176 00] 1404.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  66192 00] 1405.wnm 
+-r-xr-xr-x   1    0    0      28852 Jun 26 2009 [  66208 00] 1405.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  66224 00] 1406.wnm 
+-r-xr-xr-x   1    0    0      29128 Jun 26 2009 [  66240 00] 1406.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  66256 00] 1407.wnm 
+-r-xr-xr-x   1    0    0      29096 Jun 26 2009 [  66272 00] 1407.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  66288 00] 1408.wnm 
+-r-xr-xr-x   1    0    0      28564 Jun 26 2009 [  66304 00] 1408.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  66320 00] 1409.wnm 
+-r-xr-xr-x   1    0    0      28756 Jun 26 2009 [  66336 00] 1409.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  66352 00] 1410.wnm 
+-r-xr-xr-x   1    0    0      29436 Jun 26 2009 [  66368 00] 1410.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  66384 00] 1411.wnm 
+-r-xr-xr-x   1    0    0      30004 Jun 26 2009 [  66400 00] 1411.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  66416 00] 1412.wnm 
+-r-xr-xr-x   1    0    0      28640 Jun 26 2009 [  66432 00] 1412.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  66448 00] 1413.wnm 
+-r-xr-xr-x   1    0    0      29736 Jun 26 2009 [  66464 00] 1413.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  66480 00] 1414.wnm 
+-r-xr-xr-x   1    0    0      28132 Jun 26 2009 [  66496 00] 1414.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  66512 00] 1415.wnm 
+-r-xr-xr-x   1    0    0      29660 Jun 26 2009 [  66528 00] 1415.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  66544 00] 1416.wnm 
+-r-xr-xr-x   1    0    0      29736 Jun 26 2009 [  66560 00] 1416.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  66576 00] 1417.wnm 
+-r-xr-xr-x   1    0    0      28320 Jun 26 2009 [  66592 00] 1417.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  66608 00] 1418.wnm 
+-r-xr-xr-x   1    0    0      29400 Jun 26 2009 [  66624 00] 1418.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  66640 00] 1501.wnm 
+-r-xr-xr-x   1    0    0      29992 Jun 26 2009 [  66656 00] 1501.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  66672 00] 1502.wnm 
+-r-xr-xr-x   1    0    0      30080 Jun 26 2009 [  66688 00] 1502.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  66704 00] 1503.wnm 
+-r-xr-xr-x   1    0    0      29684 Jun 26 2009 [  66720 00] 1503.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  66736 00] 1504.wnm 
+-r-xr-xr-x   1    0    0      29600 Jun 26 2009 [  66752 00] 1504.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  66768 00] 1505.wnm 
+-r-xr-xr-x   1    0    0      30352 Jun 26 2009 [  66784 00] 1505.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  66800 00] 1506.wnm 
+-r-xr-xr-x   1    0    0      30424 Jun 26 2009 [  66816 00] 1506.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  66832 00] 1507.wnm 
+-r-xr-xr-x   1    0    0      30832 Jun 26 2009 [  66848 00] 1507.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  66864 00] 1508.wnm 
+-r-xr-xr-x   1    0    0      30384 Jun 26 2009 [  66880 00] 1508.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  66896 00] 1509.wnm 
+-r-xr-xr-x   1    0    0      31144 Jun 26 2009 [  66912 00] 1509.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  66928 00] 1510.wnm 
+-r-xr-xr-x   1    0    0      30392 Jun 26 2009 [  66944 00] 1510.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  66960 00] 1511.wnm 
+-r-xr-xr-x   1    0    0      30352 Jun 26 2009 [  66976 00] 1511.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  66992 00] 1512.wnm 
+-r-xr-xr-x   1    0    0      30320 Jun 26 2009 [  67008 00] 1512.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  67024 00] 1513.wnm 
+-r-xr-xr-x   1    0    0      30856 Jun 26 2009 [  67040 00] 1513.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  67056 00] 1514.wnm 
+-r-xr-xr-x   1    0    0      30352 Jun 26 2009 [  67072 00] 1514.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  67088 00] 1515.wnm 
+-r-xr-xr-x   1    0    0      29396 Jun 26 2009 [  67104 00] 1515.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  67120 00] 1516.wnm 
+-r-xr-xr-x   1    0    0      30456 Jun 26 2009 [  67136 00] 1516.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  67152 00] 1517.wnm 
+-r-xr-xr-x   1    0    0      30848 Jun 26 2009 [  67168 00] 1517.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  67184 00] 1518.wnm 
+-r-xr-xr-x   1    0    0      30208 Jun 26 2009 [  67200 00] 1518.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  67216 00] 1601.wnm 
+-r-xr-xr-x   1    0    0      30472 Jun 26 2009 [  67232 00] 1601.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  67248 00] 1602.wnm 
+-r-xr-xr-x   1    0    0      30284 Jun 26 2009 [  67264 00] 1602.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  67280 00] 1603.wnm 
+-r-xr-xr-x   1    0    0      30200 Jun 26 2009 [  67296 00] 1603.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  67312 00] 1604.wnm 
+-r-xr-xr-x   1    0    0      30516 Jun 26 2009 [  67328 00] 1604.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  67344 00] 1605.wnm 
+-r-xr-xr-x   1    0    0      30748 Jun 26 2009 [  67360 00] 1605.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  67376 00] 1606.wnm 
+-r-xr-xr-x   1    0    0      30756 Jun 26 2009 [  67392 00] 1606.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  67408 00] 1607.wnm 
+-r-xr-xr-x   1    0    0      31436 Jun 26 2009 [  67424 00] 1607.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  67440 00] 1608.wnm 
+-r-xr-xr-x   1    0    0      30328 Jun 26 2009 [  67456 00] 1608.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  67472 00] 1609.wnm 
+-r-xr-xr-x   1    0    0      30288 Jun 26 2009 [  67488 00] 1609.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  67504 00] 1610.wnm 
+-r-xr-xr-x   1    0    0      29988 Jun 26 2009 [  67520 00] 1610.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  67536 00] 1611.wnm 
+-r-xr-xr-x   1    0    0      30848 Jun 26 2009 [  67552 00] 1611.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  67568 00] 1612.wnm 
+-r-xr-xr-x   1    0    0      30044 Jun 26 2009 [  67584 00] 1612.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  67600 00] 1613.wnm 
+-r-xr-xr-x   1    0    0      31028 Jun 26 2009 [  67616 00] 1613.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  67632 00] 1614.wnm 
+-r-xr-xr-x   1    0    0      29508 Jun 26 2009 [  67648 00] 1614.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  67664 00] 1615.wnm 
+-r-xr-xr-x   1    0    0      30368 Jun 26 2009 [  67680 00] 1615.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  67696 00] 1616.wnm 
+-r-xr-xr-x   1    0    0      30984 Jun 26 2009 [  67712 00] 1616.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  67728 00] 1617.wnm 
+-r-xr-xr-x   1    0    0      30616 Jun 26 2009 [  67744 00] 1617.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  67760 00] 1618.wnm 
+-r-xr-xr-x   1    0    0      30704 Jun 26 2009 [  67776 00] 1618.wtx 
+
+Directory listing of /PSP_GAME/USRDIR/data/ui/fonts/
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     60 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 17 2009 [     34 02] .. 
+-r-xr-xr-x   1    0    0       1584 Jul 30 2009 [  67872 00] font1_11pt.wnm 
+-r-xr-xr-x   1    0    0      65552 Jul 30 2009 [  67888 00] font1_11pt.wtx 
+-r-xr-xr-x   1    0    0       1584 Jul 30 2009 [  67936 00] font2_12ptwhite.wnm 
+-r-xr-xr-x   1    0    0      65552 Jul 30 2009 [  67952 00] font2_12ptwhite.wtx 
+-r-xr-xr-x   1    0    0       1584 Jul 30 2009 [  68000 00] sysfont_white_9pt.wnm 
+-r-xr-xr-x   1    0    0      65552 Jul 30 2009 [  68016 00] sysfont_white_9pt.wtx 
+-r-xr-xr-x   1    0    0       1584 Jul 30 2009 [  68064 00] white_9ptB.wnm 
+-r-xr-xr-x   1    0    0      65552 Jul 30 2009 [  68080 00] white_9ptB.wtx 
+
+Directory listing of /PSP_GAME/USRDIR/data/ui/ingame/
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     61 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 17 2009 [     34 02] .. 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  68128 00] comments_bar.wnm 
+-r-xr-xr-x   1    0    0        716 Jun 26 2009 [  68144 00] comments_bar.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  68160 00] hudring.wnm 
+-r-xr-xr-x   1    0    0       4112 Jun 26 2009 [  68176 00] hudring.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  68192 00] name_stamina.wnm 
+-r-xr-xr-x   1    0    0      16400 Jun 26 2009 [  68208 00] name_stamina.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  68224 00] powerbar.wnm 
+-r-xr-xr-x   1    0    0      16400 Jun 26 2009 [  68240 00] powerbar.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  68256 00] powerbar_strip.wnm 
+-r-xr-xr-x   1    0    0        484 Jun 26 2009 [  68272 00] powerbar_strip.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  68288 00] score.wnm 
+-r-xr-xr-x   1    0    0       3556 Jun 26 2009 [  68304 00] score.wtx 
+-r-xr-xr-x   1    0    0         80 Jun 26 2009 [  68320 00] time.wnm 
+-r-xr-xr-x   1    0    0       1084 Jun 26 2009 [  68336 00] time.wtx 
+
+Directory listing of /PSP_GAME/USRDIR/data/ui/logos/
+dr-xr-xr-x   1    0    0       6144 Jun 26 2009 [     62 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 17 2009 [     34 02] .. 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  68352 00] blueslarge.wnm 
+-r-xr-xr-x   1    0    0      27028 Jun 26 2009 [  68368 00] blueslarge.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  68384 00] bluessmall.wnm 
+-r-xr-xr-x   1    0    0      15172 Jun 26 2009 [  68400 00] bluessmall.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  68416 00] bluestiny.wnm 
+-r-xr-xr-x   1    0    0       1472 Jun 26 2009 [  68432 00] bluestiny.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  68448 00] bomberslarge.wnm 
+-r-xr-xr-x   1    0    0      65552 Jun 26 2009 [  68464 00] bomberslarge.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  68512 00] bomberssmall.wnm 
+-r-xr-xr-x   1    0    0      29876 Jun 26 2009 [  68528 00] bomberssmall.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  68544 00] bomberstiny.wnm 
+-r-xr-xr-x   1    0    0       2064 Jun 26 2009 [  68560 00] bomberstiny.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  68576 00] bulldogslarge.wnm 
+-r-xr-xr-x   1    0    0      65552 Jun 26 2009 [  68592 00] bulldogslarge.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  68640 00] bulldogssmall.wnm 
+-r-xr-xr-x   1    0    0      17596 Jun 26 2009 [  68656 00] bulldogssmall.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  68672 00] bulldogstiny.wnm 
+-r-xr-xr-x   1    0    0       1412 Jun 26 2009 [  68688 00] bulldogstiny.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  68704 00] catslarge.wnm 
+-r-xr-xr-x   1    0    0      65552 Jun 26 2009 [  68720 00] catslarge.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  68768 00] catssmall.wnm 
+-r-xr-xr-x   1    0    0      65552 Jun 26 2009 [  68784 00] catssmall.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  68832 00] catstiny.wnm 
+-r-xr-xr-x   1    0    0       2032 Jun 26 2009 [  68848 00] catstiny.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  68864 00] crowslarge.wnm 
+-r-xr-xr-x   1    0    0      65552 Jun 26 2009 [  68880 00] crowslarge.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  68928 00] crowssmall.wnm 
+-r-xr-xr-x   1    0    0      20124 Jun 26 2009 [  68944 00] crowssmall.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  68960 00] crowstiny.wnm 
+-r-xr-xr-x   1    0    0       1732 Jun 26 2009 [  68976 00] crowstiny.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  68992 00] demonslarge.wnm 
+-r-xr-xr-x   1    0    0      28156 Jun 26 2009 [  69008 00] demonslarge.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  69024 00] demonssmall.wnm 
+-r-xr-xr-x   1    0    0      11564 Jun 26 2009 [  69040 00] demonssmall.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  69056 00] demonstiny.wnm 
+-r-xr-xr-x   1    0    0        800 Jun 26 2009 [  69072 00] demonstiny.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  69088 00] dockerslarge.wnm 
+-r-xr-xr-x   1    0    0      65552 Jun 26 2009 [  69104 00] dockerslarge.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  69152 00] dockerssmall.wnm 
+-r-xr-xr-x   1    0    0      30572 Jun 26 2009 [  69168 00] dockerssmall.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  69184 00] dockerstiny.wnm 
+-r-xr-xr-x   1    0    0       1932 Jun 26 2009 [  69200 00] dockerstiny.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  69216 00] eagleslarge.wnm 
+-r-xr-xr-x   1    0    0      65552 Jun 26 2009 [  69232 00] eagleslarge.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  69280 00] eaglessmall.wnm 
+-r-xr-xr-x   1    0    0      29028 Jun 26 2009 [  69296 00] eaglessmall.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  69312 00] eaglestiny.wnm 
+-r-xr-xr-x   1    0    0       1524 Jun 26 2009 [  69328 00] eaglestiny.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  69344 00] hawkslarge.wnm 
+-r-xr-xr-x   1    0    0      65552 Jun 26 2009 [  69360 00] hawkslarge.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  69408 00] hawkssmall.wnm 
+-r-xr-xr-x   1    0    0      19092 Jun 26 2009 [  69424 00] hawkssmall.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  69440 00] hawkstiny.wnm 
+-r-xr-xr-x   1    0    0       1604 Jun 26 2009 [  69456 00] hawkstiny.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  69472 00] kangarooslarge.wnm 
+-r-xr-xr-x   1    0    0      65552 Jun 26 2009 [  69488 00] kangarooslarge.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  69536 00] kangaroossmall.wnm 
+-r-xr-xr-x   1    0    0      65552 Jun 26 2009 [  69552 00] kangaroossmall.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  69600 00] kangaroostiny.wnm 
+-r-xr-xr-x   1    0    0       2064 Jun 26 2009 [  69616 00] kangaroostiny.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  69632 00] lionslarge.wnm 
+-r-xr-xr-x   1    0    0      65552 Jun 26 2009 [  69648 00] lionslarge.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  69696 00] lionssmall.wnm 
+-r-xr-xr-x   1    0    0      65552 Jun 26 2009 [  69712 00] lionssmall.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  69760 00] lionstiny.wnm 
+-r-xr-xr-x   1    0    0       2024 Jun 26 2009 [  69776 00] lionstiny.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  69792 00] magpieslarge.wnm 
+-r-xr-xr-x   1    0    0      65552 Jun 26 2009 [  69808 00] magpieslarge.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  69856 00] magpiessmall.wnm 
+-r-xr-xr-x   1    0    0      65552 Jun 26 2009 [  69872 00] magpiessmall.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  69920 00] magpiestiny.wnm 
+-r-xr-xr-x   1    0    0       1852 Jun 26 2009 [  69936 00] magpiestiny.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  69952 00] portlarge.wnm 
+-r-xr-xr-x   1    0    0      32460 Jun 26 2009 [  69968 00] portlarge.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  69984 00] portsmall.wnm 
+-r-xr-xr-x   1    0    0      25012 Jun 26 2009 [  70000 00] portsmall.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  70016 00] porttiny.wnm 
+-r-xr-xr-x   1    0    0       2060 Jun 26 2009 [  70032 00] porttiny.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  70048 00] saintslarge.wnm 
+-r-xr-xr-x   1    0    0      65552 Jun 26 2009 [  70064 00] saintslarge.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  70112 00] saintssmall.wnm 
+-r-xr-xr-x   1    0    0      26364 Jun 26 2009 [  70128 00] saintssmall.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  70144 00] saintstiny.wnm 
+-r-xr-xr-x   1    0    0       1764 Jun 26 2009 [  70160 00] saintstiny.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  70176 00] swanslarge.wnm 
+-r-xr-xr-x   1    0    0      65552 Jun 26 2009 [  70192 00] swanslarge.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  70240 00] swanssmall.wnm 
+-r-xr-xr-x   1    0    0      18084 Jun 26 2009 [  70256 00] swanssmall.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  70272 00] swanstiny.wnm 
+-r-xr-xr-x   1    0    0       1480 Jun 26 2009 [  70288 00] swanstiny.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  70304 00] tigerslarge.wnm 
+-r-xr-xr-x   1    0    0      65552 Jun 26 2009 [  70320 00] tigerslarge.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  70368 00] tigerssmall.wnm 
+-r-xr-xr-x   1    0    0      65552 Jun 26 2009 [  70384 00] tigerssmall.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  70432 00] tigerstiny.wnm 
+-r-xr-xr-x   1    0    0       2064 Jun 26 2009 [  70448 00] tigerstiny.wtx 
+
+Directory listing of /PSP_GAME/USRDIR/data/ui/screens/
+dr-xr-xr-x   1    0    0      10240 Jul 14 2009 [     65 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 17 2009 [     34 02] .. 
+-r-xr-xr-x   1    0    0         96 Jul 14 2009 [  70672 00] screenbye_1.wnm 
+-r-xr-xr-x   1    0    0      32784 Jul 14 2009 [  70688 00] screenbye_1.wtx 
+-r-xr-xr-x   1    0    0         96 Jul 27 2009 [  70720 00] screenbye_2.wnm 
+-r-xr-xr-x   1    0    0     262160 Jul 27 2009 [  70736 00] screenbye_2.wtx 
+-r-xr-xr-x   1    0    0         96 Jul 27 2009 [  70880 00] screenbye_3.wnm 
+-r-xr-xr-x   1    0    0      31792 Jul 27 2009 [  70896 00] screenbye_3.wtx 
+-r-xr-xr-x   1    0    0         96 Jul 29 2009 [  70912 00] screencontrolsB_1.wnm 
+-r-xr-xr-x   1    0    0      15236 Jul 29 2009 [  70928 00] screencontrolsB_1.wtx 
+-r-xr-xr-x   1    0    0         96 Jul 29 2009 [  70944 00] screencontrolsB_2.wnm 
+-r-xr-xr-x   1    0    0     176168 Jul 29 2009 [  70960 00] screencontrolsB_2.wtx 
+-r-xr-xr-x   1    0    0         96 Jul 29 2009 [  71056 00] screencontrolsB_3.wnm 
+-r-xr-xr-x   1    0    0       4296 Jul 29 2009 [  71072 00] screencontrolsB_3.wtx 
+-r-xr-xr-x   1    0    0         96 Jul 29 2009 [  71088 00] screencontrols_1.wnm 
+-r-xr-xr-x   1    0    0      11632 Jul 29 2009 [  71104 00] screencontrols_1.wtx 
+-r-xr-xr-x   1    0    0         96 Jul 29 2009 [  71120 00] screencontrols_2.wnm 
+-r-xr-xr-x   1    0    0     167648 Jul 29 2009 [  71136 00] screencontrols_2.wtx 
+-r-xr-xr-x   1    0    0         96 Jul 29 2009 [  71232 00] screencontrols_3.wnm 
+-r-xr-xr-x   1    0    0       4256 Jul 29 2009 [  71248 00] screencontrols_3.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 30 2009 [  71264 00] screencredits_1.wnm 
+-r-xr-xr-x   1    0    0       8392 Jun 30 2009 [  71280 00] screencredits_1.wtx 
+-r-xr-xr-x   1    0    0         96 Jul  3 2009 [  71296 00] screencredits_2.wnm 
+-r-xr-xr-x   1    0    0     191136 Jul  3 2009 [  71312 00] screencredits_2.wtx 
+-r-xr-xr-x   1    0    0         96 Jul  3 2009 [  71408 00] screencredits_3.wnm 
+-r-xr-xr-x   1    0    0      27292 Jul  3 2009 [  71424 00] screencredits_3.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  71440 00] screendev_1.wnm 
+-r-xr-xr-x   1    0    0      32784 Jun 26 2009 [  71456 00] screendev_1.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  71488 00] screendev_2.wnm 
+-r-xr-xr-x   1    0    0     262160 Jun 26 2009 [  71504 00] screendev_2.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  71648 00] screendev_3.wnm 
+-r-xr-xr-x   1    0    0      23596 Jun 26 2009 [  71664 00] screendev_3.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 30 2009 [  71680 00] screengamecomplete_1.wnm 
+-r-xr-xr-x   1    0    0      32784 Jun 30 2009 [  71696 00] screengamecomplete_1.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 30 2009 [  71728 00] screengamecomplete_2.wnm 
+-r-xr-xr-x   1    0    0     229236 Jun 30 2009 [  71744 00] screengamecomplete_2.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 30 2009 [  71856 00] screengamecomplete_3.wnm 
+-r-xr-xr-x   1    0    0      26712 Jun 30 2009 [  71872 00] screengamecomplete_3.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 30 2009 [  71888 00] screenhowtoplay_1.wnm 
+-r-xr-xr-x   1    0    0       9064 Jun 30 2009 [  71904 00] screenhowtoplay_1.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 30 2009 [  71920 00] screenhowtoplay_2.wnm 
+-r-xr-xr-x   1    0    0     191136 Jun 30 2009 [  71936 00] screenhowtoplay_2.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 30 2009 [  72032 00] screenhowtoplay_3.wnm 
+-r-xr-xr-x   1    0    0      29200 Jun 30 2009 [  72048 00] screenhowtoplay_3.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 30 2009 [  72064 00] screenladder_1.wnm 
+-r-xr-xr-x   1    0    0      32784 Jun 30 2009 [  72080 00] screenladder_1.wtx 
+-r-xr-xr-x   1    0    0         96 Jul  3 2009 [  72112 00] screenladder_2.wnm 
+-r-xr-xr-x   1    0    0     237616 Jul  3 2009 [  72128 00] screenladder_2.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 30 2009 [  72256 00] screenladder_3.wnm 
+-r-xr-xr-x   1    0    0      31968 Jun 30 2009 [  72272 00] screenladder_3.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  72288 00] screenleague_1.wnm 
+-r-xr-xr-x   1    0    0       2448 Jun 26 2009 [  72304 00] screenleague_1.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  72320 00] screenleague_2.wnm 
+-r-xr-xr-x   1    0    0      21628 Jun 26 2009 [  72336 00] screenleague_2.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  72352 00] screenleague_3.wnm 
+-r-xr-xr-x   1    0    0       2732 Jun 26 2009 [  72368 00] screenleague_3.wtx 
+-r-xr-xr-x   1    0    0         96 Jul  2 2009 [  72384 00] screenlegal_1.wnm 
+-r-xr-xr-x   1    0    0        512 Jul  2 2009 [  72400 00] screenlegal_1.wtx 
+-r-xr-xr-x   1    0    0         96 Jul  2 2009 [  72416 00] screenlegal_2.wnm 
+-r-xr-xr-x   1    0    0      67564 Jul  2 2009 [  72432 00] screenlegal_2.wtx 
+-r-xr-xr-x   1    0    0         96 Jul  2 2009 [  72480 00] screenlegal_3.wnm 
+-r-xr-xr-x   1    0    0        512 Jul  2 2009 [  72496 00] screenlegal_3.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  72512 00] screenlicbonus_1.wnm 
+-r-xr-xr-x   1    0    0       5040 Jun 26 2009 [  72528 00] screenlicbonus_1.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  72544 00] screenlicbonus_2.wnm 
+-r-xr-xr-x   1    0    0      90424 Jun 26 2009 [  72560 00] screenlicbonus_2.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  72608 00] screenlicbonus_3.wnm 
+-r-xr-xr-x   1    0    0       3296 Jun 26 2009 [  72624 00] screenlicbonus_3.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 30 2009 [  72640 00] screenlicnormal_1.wnm 
+-r-xr-xr-x   1    0    0       5676 Jun 30 2009 [  72656 00] screenlicnormal_1.wtx 
+-r-xr-xr-x   1    0    0         96 Jul  3 2009 [  72672 00] screenlicnormal_2.wnm 
+-r-xr-xr-x   1    0    0      51296 Jul  3 2009 [  72688 00] screenlicnormal_2.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 30 2009 [  72720 00] screenlicnormal_3.wnm 
+-r-xr-xr-x   1    0    0       2804 Jun 30 2009 [  72736 00] screenlicnormal_3.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  72752 00] screenmatchdrawn_1.wnm 
+-r-xr-xr-x   1    0    0      32784 Jun 26 2009 [  72768 00] screenmatchdrawn_1.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 30 2009 [  72800 00] screenmatchdrawn_2.wnm 
+-r-xr-xr-x   1    0    0     247228 Jun 30 2009 [  72816 00] screenmatchdrawn_2.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 30 2009 [  72944 00] screenmatchdrawn_3.wnm 
+-r-xr-xr-x   1    0    0      25076 Jun 30 2009 [  72960 00] screenmatchdrawn_3.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 30 2009 [  72976 00] screenmatchlost_1.wnm 
+-r-xr-xr-x   1    0    0      32080 Jun 30 2009 [  72992 00] screenmatchlost_1.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 30 2009 [  73008 00] screenmatchlost_2.wnm 
+-r-xr-xr-x   1    0    0     246112 Jun 30 2009 [  73024 00] screenmatchlost_2.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 30 2009 [  73152 00] screenmatchlost_3.wnm 
+-r-xr-xr-x   1    0    0      24660 Jun 30 2009 [  73168 00] screenmatchlost_3.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 30 2009 [  73184 00] screenmatchwon_1.wnm 
+-r-xr-xr-x   1    0    0      25572 Jun 30 2009 [  73200 00] screenmatchwon_1.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 30 2009 [  73216 00] screenmatchwon_2.wnm 
+-r-xr-xr-x   1    0    0     231380 Jun 30 2009 [  73232 00] screenmatchwon_2.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 30 2009 [  73360 00] screenmatchwon_3.wnm 
+-r-xr-xr-x   1    0    0      30420 Jun 30 2009 [  73376 00] screenmatchwon_3.wtx 
+-r-xr-xr-x   1    0    0         96 Jul 29 2009 [  73392 00] screenmenuB_1.wnm 
+-r-xr-xr-x   1    0    0      27512 Jul 29 2009 [  73408 00] screenmenuB_1.wtx 
+-r-xr-xr-x   1    0    0         96 Jul 29 2009 [  73424 00] screenmenuB_2.wnm 
+-r-xr-xr-x   1    0    0     262160 Jul 29 2009 [  73440 00] screenmenuB_2.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 30 2009 [  73584 00] screenmenuB_3.wnm 
+-r-xr-xr-x   1    0    0      19112 Jun 30 2009 [  73600 00] screenmenuB_3.wtx 
+-r-xr-xr-x   1    0    0         96 Jul 29 2009 [  73616 00] screenmenu_1.wnm 
+-r-xr-xr-x   1    0    0      29236 Jul 29 2009 [  73632 00] screenmenu_1.wtx 
+-r-xr-xr-x   1    0    0         96 Jul 29 2009 [  73648 00] screenmenu_2.wnm 
+-r-xr-xr-x   1    0    0     262160 Jul 29 2009 [  73664 00] screenmenu_2.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 30 2009 [  73808 00] screenmenu_3.wnm 
+-r-xr-xr-x   1    0    0      22756 Jun 30 2009 [  73824 00] screenmenu_3.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 30 2009 [  73840 00] screenplay_1.wnm 
+-r-xr-xr-x   1    0    0       9528 Jun 30 2009 [  73856 00] screenplay_1.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 30 2009 [  73872 00] screenplay_2.wnm 
+-r-xr-xr-x   1    0    0     213700 Jun 30 2009 [  73888 00] screenplay_2.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 30 2009 [  74000 00] screenplay_3.wnm 
+-r-xr-xr-x   1    0    0      30844 Jun 30 2009 [  74016 00] screenplay_3.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  74032 00] screenpub_1.wnm 
+-r-xr-xr-x   1    0    0        512 Jun 26 2009 [  74048 00] screenpub_1.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  74064 00] screenpub_2.wnm 
+-r-xr-xr-x   1    0    0      78960 Jun 26 2009 [  74080 00] screenpub_2.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  74128 00] screenpub_3.wnm 
+-r-xr-xr-x   1    0    0        512 Jun 26 2009 [  74144 00] screenpub_3.wtx 
+-r-xr-xr-x   1    0    0         96 Jul 29 2009 [  74160 00] screenresult_1.wnm 
+-r-xr-xr-x   1    0    0      32784 Jul 29 2009 [  74176 00] screenresult_1.wtx 
+-r-xr-xr-x   1    0    0         96 Jul 29 2009 [  74208 00] screenresult_2.wnm 
+-r-xr-xr-x   1    0    0     232300 Jul 29 2009 [  74224 00] screenresult_2.wtx 
+-r-xr-xr-x   1    0    0         96 Jul 28 2009 [  74352 00] screenresult_3.wnm 
+-r-xr-xr-x   1    0    0      22208 Jul 28 2009 [  74368 00] screenresult_3.wtx 
+-r-xr-xr-x   1    0    0         96 Jul 14 2009 [  74384 00] screensave_1.wnm 
+-r-xr-xr-x   1    0    0      12568 Jul 14 2009 [  74400 00] screensave_1.wtx 
+-r-xr-xr-x   1    0    0         96 Jul 14 2009 [  74416 00] screensave_2.wnm 
+-r-xr-xr-x   1    0    0     145668 Jul 14 2009 [  74432 00] screensave_2.wtx 
+-r-xr-xr-x   1    0    0         96 Jul 14 2009 [  74512 00] screensave_3.wnm 
+-r-xr-xr-x   1    0    0      10552 Jul 14 2009 [  74528 00] screensave_3.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 30 2009 [  74544 00] screenseasonover_1.wnm 
+-r-xr-xr-x   1    0    0      25912 Jun 30 2009 [  74560 00] screenseasonover_1.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 30 2009 [  74576 00] screenseasonover_2.wnm 
+-r-xr-xr-x   1    0    0     239796 Jun 30 2009 [  74592 00] screenseasonover_2.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 30 2009 [  74720 00] screenseasonover_3.wnm 
+-r-xr-xr-x   1    0    0      32784 Jun 30 2009 [  74736 00] screenseasonover_3.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 30 2009 [  74768 00] screenselect_1.wnm 
+-r-xr-xr-x   1    0    0      32784 Jun 30 2009 [  74784 00] screenselect_1.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 30 2009 [  74816 00] screenselect_2.wnm 
+-r-xr-xr-x   1    0    0     262160 Jun 30 2009 [  74832 00] screenselect_2.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 30 2009 [  74976 00] screenselect_3.wnm 
+-r-xr-xr-x   1    0    0      32012 Jun 30 2009 [  74992 00] screenselect_3.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  75008 00] screenteam_1.wnm 
+-r-xr-xr-x   1    0    0      23220 Jun 26 2009 [  75024 00] screenteam_1.wtx 
+-r-xr-xr-x   1    0    0         96 Jul  3 2009 [  75040 00] screenteam_2.wnm 
+-r-xr-xr-x   1    0    0     158656 Jul  3 2009 [  75056 00] screenteam_2.wtx 
+-r-xr-xr-x   1    0    0         96 Jun 26 2009 [  75136 00] screenteam_3.wnm 
+-r-xr-xr-x   1    0    0      12380 Jun 26 2009 [  75152 00] screenteam_3.wtx 
+-r-xr-xr-x   1    0    0         96 Jul 28 2009 [  75168 00] screentitle_1.wnm 
+-r-xr-xr-x   1    0    0      28700 Jul 28 2009 [  75184 00] screentitle_1.wtx 
+-r-xr-xr-x   1    0    0         96 Jul 28 2009 [  75200 00] screentitle_2.wnm 
+-r-xr-xr-x   1    0    0     220560 Jul 28 2009 [  75216 00] screentitle_2.wtx 
+-r-xr-xr-x   1    0    0         96 Jul 28 2009 [  75328 00] screentitle_3.wnm 
+-r-xr-xr-x   1    0    0      31032 Jul 28 2009 [  75344 00] screentitle_3.wtx 
+
+Directory listing of /PSP_GAME/USRDIR/data/worlds/football/
+dr-xr-xr-x   1    0    0       2048 Jul 10 2009 [     70 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 17 2009 [     35 02] .. 
+-r-xr-xr-x   1    0    0     610872 Jul 10 2009 [  75392 00] mcg.gmo 
+-r-xr-xr-x   1    0    0      58892 Jul 10 2009 [  75696 00] mcg_alpha.gmo 
+-r-xr-xr-x   1    0    0      49964 Jul 10 2009 [  75728 00] mcg_col.wwd 
+-r-xr-xr-x   1    0    0     375456 Jul 17 2009 [  75760 00] park.gmo 
+-r-xr-xr-x   1    0    0     255428 Jul 10 2009 [  75952 00] park_alpha.gmo 
+-r-xr-xr-x   1    0    0      79752 Jul 10 2009 [  76080 00] park_col.wwd 
+-r-xr-xr-x   1    0    0     654556 Jul 10 2009 [  76128 00] scg.gmo 
+-r-xr-xr-x   1    0    0     111556 Jul 10 2009 [  76448 00] scg_alpha.gmo 
+-r-xr-xr-x   1    0    0      62564 Jul 10 2009 [  76512 00] scg_col.wwd 
+
+Directory listing of /PSP_GAME/USRDIR/data/mascots/footballer/bombers/
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     71 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2009 [     39 02] .. 
+-r-xr-xr-x   1    0    0      17692 Jun 16 2009 [  55376 00] jersey.gim 
+
+Directory listing of /PSP_GAME/USRDIR/data/mascots/footballer/bulldogs/
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     72 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2009 [     39 02] .. 
+-r-xr-xr-x   1    0    0      17692 May 28 2009 [  55392 00] jersey.gim 
+
+Directory listing of /PSP_GAME/USRDIR/data/mascots/footballer/carlton/
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     73 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2009 [     39 02] .. 
+-r-xr-xr-x   1    0    0      17692 May 28 2009 [  55408 00] jersey.gim 
+
+Directory listing of /PSP_GAME/USRDIR/data/mascots/footballer/crows/
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     74 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2009 [     39 02] .. 
+-r-xr-xr-x   1    0    0      17692 May 28 2009 [  55424 00] jersey.gim 
+
+Directory listing of /PSP_GAME/USRDIR/data/mascots/footballer/demons/
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     75 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2009 [     39 02] .. 
+-r-xr-xr-x   1    0    0      17692 Jun 16 2009 [  55440 00] jersey.gim 
+
+Directory listing of /PSP_GAME/USRDIR/data/mascots/footballer/dockers/
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     76 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2009 [     39 02] .. 
+-r-xr-xr-x   1    0    0      17692 May 28 2009 [  55456 00] jersey.gim 
+
+Directory listing of /PSP_GAME/USRDIR/data/mascots/footballer/eagles/
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     77 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2009 [     39 02] .. 
+-r-xr-xr-x   1    0    0      17692 Jun 16 2009 [  55472 00] jersey.gim 
+
+Directory listing of /PSP_GAME/USRDIR/data/mascots/footballer/geelong/
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     78 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2009 [     39 02] .. 
+-r-xr-xr-x   1    0    0      17692 Jun 16 2009 [  55488 00] jersey.gim 
+
+Directory listing of /PSP_GAME/USRDIR/data/mascots/footballer/hawks/
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     79 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2009 [     39 02] .. 
+-r-xr-xr-x   1    0    0      17692 Jun 16 2009 [  55504 00] jersey.gim 
+
+Directory listing of /PSP_GAME/USRDIR/data/mascots/footballer/kangaroos/
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     80 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2009 [     39 02] .. 
+-r-xr-xr-x   1    0    0      17692 Jun 16 2009 [  55520 00] jersey.gim 
+
+Directory listing of /PSP_GAME/USRDIR/data/mascots/footballer/lions/
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     81 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2009 [     39 02] .. 
+-r-xr-xr-x   1    0    0      17692 May 28 2009 [  55536 00] jersey.gim 
+
+Directory listing of /PSP_GAME/USRDIR/data/mascots/footballer/magpies/
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     82 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2009 [     39 02] .. 
+-r-xr-xr-x   1    0    0      17692 May 28 2009 [  55552 00] jersey.gim 
+
+Directory listing of /PSP_GAME/USRDIR/data/mascots/footballer/port/
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     83 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2009 [     39 02] .. 
+-r-xr-xr-x   1    0    0      17692 Jun 16 2009 [  56128 00] jersey.gim 
+
+Directory listing of /PSP_GAME/USRDIR/data/mascots/footballer/referee/
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     84 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2009 [     39 02] .. 
+-r-xr-xr-x   1    0    0      17692 Jun 16 2009 [  56144 00] jersey.gim 
+
+Directory listing of /PSP_GAME/USRDIR/data/mascots/footballer/richmond/
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     85 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2009 [     39 02] .. 
+-r-xr-xr-x   1    0    0      17692 Jun 16 2009 [  56160 00] jersey.gim 
+
+Directory listing of /PSP_GAME/USRDIR/data/mascots/footballer/saints/
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     86 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2009 [     39 02] .. 
+-r-xr-xr-x   1    0    0      17692 Jun 16 2009 [  56176 00] jersey.gim 
+
+Directory listing of /PSP_GAME/USRDIR/data/mascots/footballer/skin1/
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     87 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2009 [     39 02] .. 
+-r-xr-xr-x   1    0    0      17692 May 29 2009 [  56192 00] skin.gim 
+
+Directory listing of /PSP_GAME/USRDIR/data/mascots/footballer/skin2/
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     88 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2009 [     39 02] .. 
+-r-xr-xr-x   1    0    0      17692 May 29 2009 [  56208 00] skin.gim 
+
+Directory listing of /PSP_GAME/USRDIR/data/mascots/footballer/skin3/
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     89 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2009 [     39 02] .. 
+-r-xr-xr-x   1    0    0      17692 May 29 2009 [  56224 00] skin.gim 
+
+Directory listing of /PSP_GAME/USRDIR/data/mascots/footballer/skin4/
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     90 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2009 [     39 02] .. 
+-r-xr-xr-x   1    0    0      17692 May 29 2009 [  56240 00] skin.gim 
+
+Directory listing of /PSP_GAME/USRDIR/data/mascots/footballer/skin5/
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     91 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2009 [     39 02] .. 
+-r-xr-xr-x   1    0    0      17692 May 29 2009 [  56256 00] skin.gim 
+
+Directory listing of /PSP_GAME/USRDIR/data/mascots/footballer/skin6/
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     92 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2009 [     39 02] .. 
+-r-xr-xr-x   1    0    0      17692 May 29 2009 [  56272 00] skin.gim 
+
+Directory listing of /PSP_GAME/USRDIR/data/mascots/footballer/skin7/
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     93 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2009 [     39 02] .. 
+-r-xr-xr-x   1    0    0      17696 Jun 16 2009 [  56288 00] skin.gim 
+
+Directory listing of /PSP_GAME/USRDIR/data/mascots/footballer/swans/
+dr-xr-xr-x   1    0    0       2048 Jun 26 2009 [     94 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2009 [     39 02] .. 
+-r-xr-xr-x   1    0    0      17692 Jun 16 2009 [  56304 00] jersey.gim 
+=============================================================== 
+Generated on Sun 07/08/2022 at 19:28:52.87 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

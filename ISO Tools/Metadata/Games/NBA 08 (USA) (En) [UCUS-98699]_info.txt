@@ -1,0 +1,2351 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: NBA 08   
+Title ID: UCUS-98699 
+Region: USA  
+Languages: En  
+Volume Creation Date: 2007-09-05 11:35:12 
+Volume Size: 864 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: NBA08
+Volume set id: NBA08
+Publisher id: SCEA INC
+Data preparer id: SCEA INC
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 442544
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Sep  5 2007 [    192 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     22 02] .. 
+-r-xr-xr-x   1    0    0      19912 Jun 27 2007 [ 121728 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     235520 Aug 14 2007 [ 121744 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 Sep  5 2007 [ 121872 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     122925 Jun 27 2007 [ 121888 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0     191856 Nov  6 2006 [ 121952 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     23 02] .. 
+-r-xr-xr-x   1    0    0    8574121 Sep  5 2007 [ 122048 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    8574464 Sep  5 2007 [    193 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     27 02] NBADATA 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     24 02] .. 
+-r-xr-xr-x   1    0    0   16327440 Sep  5 2007 [   8478 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5210608 Sep  5 2007 [   4382 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Sep  5 2007 [   4380 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     28 02] ANIM 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     29 02] B_GRAPHICS 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     30 02] E_STATS 
+dr-xr-xr-x   1    0    0       4096 Sep  5 2007 [     31 02] FE 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     33 02] MODULES 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     34 02] REPLAY 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     35 02] SCRIPTS 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     36 02] SHOOTABRICK 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     37 02] Z_AUDIO 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/ANIM/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     27 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     38 02] BBOARD 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     39 02] PLAYER 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     40 02] SKELETON 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     27 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     41 02] ARENA2008 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     42 02] MINIGAME 
+-r-xr-xr-x   1    0    0      92864 Aug 19 2007 [ 139312 00] MISCGENERIC.DAM 
+-r-xr-xr-x   1    0    0     114048 Aug 18 2007 [ 139360 00] NBABALL.DAM 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     43 02] OUTDOOR2007 
+dr-xr-xr-x   1    0    0      81920 Sep  5 2007 [     44 02] PLAYER 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     84 02] TRAIN2008 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/E_STATS/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0       3440 Aug 18 2007 [ 198176 00] JERSEYS.SDB 
+-r-xr-xr-x   1    0    0      90950 Aug 30 2007 [ 198192 00] PLAYERS.SDB 
+-r-xr-xr-x   1    0    0       1740 Aug 18 2007 [ 198240 00] SCHEDULE_29.SDB 
+-r-xr-xr-x   1    0    0       3480 Aug 18 2007 [ 198256 00] SCHEDULE_58.SDB 
+-r-xr-xr-x   1    0    0       4920 Aug 18 2007 [ 198272 00] SCHEDULE_82.SDB 
+-r-xr-xr-x   1    0    0       7548 Aug 22 2007 [ 198288 00] TEAMS.SDB 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/FE/
+dr-xr-xr-x   1    0    0       4096 Sep  5 2007 [     31 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0     131712 Aug 18 2007 [ 198304 00] A_SPLASH_SCREEN01.DAM 
+-r-xr-xr-x   1    0    0     131712 Aug 18 2007 [ 198384 00] A_SPLASH_SCREEN02.DAM 
+-r-xr-xr-x   1    0    0     131712 Aug 18 2007 [ 198464 00] A_SPLASH_SCREEN04.DAM 
+-r-xr-xr-x   1    0    0     131712 Aug 18 2007 [ 198544 00] A_SPLASH_SCREEN05.DAM 
+-r-xr-xr-x   1    0    0     131712 Aug 23 2007 [ 198624 00] A_SPLASH_SCREEN06.DAM 
+-r-xr-xr-x   1    0    0     131712 Aug 18 2007 [ 198704 00] A_SPLASH_SCREEN07.DAM 
+-r-xr-xr-x   1    0    0     131712 Aug 18 2007 [ 198784 00] A_SPLASH_SCREEN08.DAM 
+-r-xr-xr-x   1    0    0     131712 Aug 18 2007 [ 198864 00] A_SPLASH_SCREEN09.DAM 
+-r-xr-xr-x   1    0    0     131712 Aug 18 2007 [ 198944 00] A_SPLASH_SCREEN10.DAM 
+-r-xr-xr-x   1    0    0       4288 Aug 18 2007 [ 199024 00] COMBIN.DAM 
+-r-xr-xr-x   1    0    0     582464 Aug 21 2007 [ 199040 00] COMTEX1_REG.DAM 
+-r-xr-xr-x   1    0    0       5248 Aug 18 2007 [ 199328 00] COMTEX2_NON.DAM 
+dr-xr-xr-x   1    0    0       4096 Sep  5 2007 [     85 02] CONQUEST 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     87 02] CREDITS 
+-r-xr-xr-x   1    0    0       1660 Aug 22 2007 [ 201280 00] ELIMINATION_DESCRIPTIONS.TXT 
+-r-xr-xr-x   1    0    0       5248 Aug 18 2007 [ 201296 00] FONTEXTRA.DAM 
+-r-xr-xr-x   1    0    0      63872 Aug 18 2007 [ 201312 00] FONTKERN.DAM 
+-r-xr-xr-x   1    0    0       7936 Aug 21 2007 [ 201344 00] FONTPSF.DAM 
+-r-xr-xr-x   1    0    0     118464 Aug 21 2007 [ 201360 00] FONTTEX.DAM 
+-r-xr-xr-x   1    0    0      25472 Aug 18 2007 [ 201424 00] GS_IG_MINISVG.DAM 
+-r-xr-xr-x   1    0    0     184768 Aug 22 2007 [ 201440 00] GS_IG_MINITEX.DAM 
+-r-xr-xr-x   1    0    0       8896 Aug 18 2007 [ 201536 00] GS_LOADSVG.DAM 
+-r-xr-xr-x   1    0    0      40512 Aug 30 2007 [ 201552 00] IG_EXHCNQ_SVG.DAM 
+-r-xr-xr-x   1    0    0     364992 Aug 27 2007 [ 201584 00] IG_EXHCNQ_TEX.DAM 
+-r-xr-xr-x   1    0    0      75200 Aug 28 2007 [ 201776 00] IG_EXHREG_SVG.DAM 
+-r-xr-xr-x   1    0    0     375040 Aug 27 2007 [ 201824 00] IG_EXHREG_TEX.DAM 
+-r-xr-xr-x   1    0    0      83328 Aug 22 2007 [ 202016 00] IG_MINI_SVG.DAM 
+-r-xr-xr-x   1    0    0     357632 Aug 22 2007 [ 202064 00] IG_MINI_TEX.DAM 
+-r-xr-xr-x   1    0    0     526016 Aug 27 2007 [ 202240 00] LEGALLOGO.DAM 
+-r-xr-xr-x   1    0    0      35776 Aug 24 2007 [ 202512 00] LOADSVG.DAM 
+-r-xr-xr-x   1    0    0     206336 Aug 21 2007 [ 202544 00] LOADTEX1_LOAD.DAM 
+-r-xr-xr-x   1    0    0     134080 Aug 18 2007 [ 202656 00] LOADTEX2_RET.DAM 
+-r-xr-xr-x   1    0    0      46656 Aug 22 2007 [ 202736 00] LOADTEX3_TRY.DAM 
+-r-xr-xr-x   1    0    0     272384 Aug 18 2007 [ 202768 00] MAIN_LOGOS.DAM 
+-r-xr-xr-x   1    0    0    2469376 Aug 18 2007 [ 202912 00] MAIN_PORTRAITS.DAM 
+-r-xr-xr-x   1    0    0     332032 Aug 18 2007 [ 204128 00] MAIN_SEASONTABS.DAM 
+-r-xr-xr-x   1    0    0      97536 Aug 18 2007 [ 204304 00] MEMSTICK.DAM 
+-r-xr-xr-x   1    0    0     196736 Sep  5 2007 [ 204352 00] MM_SVG.DAM 
+-r-xr-xr-x   1    0    0    1466880 Sep  5 2007 [ 204464 00] MM_TEX.DAM 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     88 02] PINBALL 
+-r-xr-xr-x   1    0    0        533 Aug 18 2007 [ 207104 00] SEASON_EMOTIONS.TXT 
+dr-xr-xr-x   1    0    0      12288 Sep  5 2007 [     89 02] TEAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/MODULES/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     33 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0       7056 Aug 18 2007 [ 209952 00] PSMF.PRX 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/REPLAY/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     34 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0       9684 Aug 18 2007 [ 209968 00] RSCRIPTS.BIN 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/SCRIPTS/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     35 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0       1877 Aug 22 2007 [ 209984 00] BLOCKASHOT_LEVELS.DAT 
+-r-xr-xr-x   1    0    0       1877 Aug 18 2007 [ 210000 00] BLOCKASHOT_TUTORIAL.DAT 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/SHOOTABRICK/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     36 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0      52608 Aug 18 2007 [ 210016 00] SHOOTABRICK.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/Z_AUDIO/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     37 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     27 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     95 02] BANK 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     96 02] SKAT 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/ANIM/BBOARD/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     38 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     28 02] .. 
+-r-xr-xr-x   1    0    0        576 Aug 28 2007 [ 126240 00] BBRDANIM.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/ANIM/PLAYER/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     39 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     28 02] .. 
+-r-xr-xr-x   1    0    0      61248 Aug 29 2007 [ 126256 00] CARN_PANIM.DAM 
+-r-xr-xr-x   1    0    0      20480 Aug 29 2007 [ 126288 00] COMM_PANIM.DAM 
+-r-xr-xr-x   1    0    0        240 Aug 29 2007 [ 126304 00] DAMINFO_PANIM.BIN 
+-r-xr-xr-x   1    0    0     369152 Aug 29 2007 [ 126320 00] DB_PANIM.DAM 
+-r-xr-xr-x   1    0    0      15644 Aug 29 2007 [ 126512 00] FG_AGRP.BIN 
+-r-xr-xr-x   1    0    0       2616 Aug 29 2007 [ 126528 00] FG_LGRP.BIN 
+-r-xr-xr-x   1    0    0     765184 Aug 29 2007 [ 126544 00] NBA2_PANIM.DAM 
+-r-xr-xr-x   1    0    0    2349184 Aug 29 2007 [ 126928 00] NBA_PANIM.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/ANIM/SKELETON/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     40 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     28 02] .. 
+-r-xr-xr-x   1    0    0       4288 Aug 28 2007 [ 128080 00] SKELETON.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/ARENA2008/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     41 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     29 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     97 02] AP1 
+-r-xr-xr-x   1    0    0     269568 Aug 25 2007 [ 128160 00] ARENAGENERIC.DAM 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     98 02] AS1 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     99 02] AST 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    100 02] ATL 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    101 02] BOS 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    102 02] CHA 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    103 02] CHI 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    104 02] CLE 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    105 02] DAL 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    106 02] DEN 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    107 02] DET 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    108 02] DOD 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    109 02] GSW 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    110 02] HOU 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    111 02] IND 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    112 02] LAC 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    113 02] LAL 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    114 02] MEM 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    115 02] MIA 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    116 02] MIL 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    117 02] MIN 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    118 02] NJN 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    119 02] NOH 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    120 02] NYK 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    121 02] ORL 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    122 02] OTC 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    123 02] PHI 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    124 02] PHO 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    125 02] POR 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    126 02] SAC 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    127 02] SAS 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    128 02] SEA 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    129 02] TOR 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    130 02] UTH 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    131 02] WAS 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/MINIGAME/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     42 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     29 02] .. 
+-r-xr-xr-x   1    0    0     591488 Aug 18 2007 [ 136512 00] BLOCKASHOT.DAM 
+-r-xr-xr-x   1    0    0      25344 Aug 24 2007 [ 136816 00] GRAFFITI_MAPS.DAM 
+-r-xr-xr-x   1    0    0     368128 Aug 24 2007 [ 136832 00] GRAFFITI_MODELS.DAM 
+-r-xr-xr-x   1    0    0     197760 Aug 18 2007 [ 137024 00] MISCMINIGAME.DAM 
+-r-xr-xr-x   1    0    0     672320 Aug 18 2007 [ 137136 00] PICKANDROLL.DAM 
+-r-xr-xr-x   1    0    0     254016 Aug 18 2007 [ 137472 00] POPASHOT.DAM 
+-r-xr-xr-x   1    0    0    3179328 Aug 18 2007 [ 137600 00] SHOOTABRICKART.DAM 
+-r-xr-xr-x   1    0    0     294144 Aug 18 2007 [ 139168 00] SKEEBALL.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/OUTDOOR2007/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     43 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     29 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    132 02] ATL 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    133 02] BOS 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    134 02] CHA 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    135 02] CHI 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    136 02] CLE 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    137 02] DAL 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    138 02] DEN 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    139 02] DET 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    140 02] GSW 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    141 02] HOU 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    142 02] IND 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    143 02] LAC 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    144 02] LAL 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    145 02] MEM 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    146 02] MIA 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    147 02] MIL 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    148 02] MIN 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    149 02] NJN 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    150 02] NOH 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    151 02] NYK 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    152 02] ORL 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    153 02] PHI 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    154 02] PHO 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    155 02] POR 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    156 02] SAC 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    157 02] SAS 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    158 02] SEA 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    159 02] TOR 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    160 02] UTH 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    161 02] WAS 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/PLAYER/
+dr-xr-xr-x   1    0    0      81920 Sep  5 2007 [     44 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     29 02] .. 
+-r-xr-xr-x   1    0    0      70784 Aug 18 2007 [ 146624 00] ABDULJABBARKAREEM.DAM 
+-r-xr-xr-x   1    0    0      64960 Aug 18 2007 [ 146672 00] ABDURRAHIMSHAREEF.DAM 
+-r-xr-xr-x   1    0    0       3840 Aug 18 2007 [ 146704 00] ACKERALEX.DAM 
+-r-xr-xr-x   1    0    0       3840 Aug 18 2007 [ 146720 00] ADAMSHASSAN.DAM 
+-r-xr-xr-x   1    0    0      67200 Aug 18 2007 [ 146736 00] AGERMAURICE.DAM 
+-r-xr-xr-x   1    0    0      67520 Aug 18 2007 [ 146784 00] ALDRIDGELAMARCUS.DAM 
+-r-xr-xr-x   1    0    0      67264 Aug 18 2007 [ 146832 00] ALLENMALIK.DAM 
+-r-xr-xr-x   1    0    0      67200 Aug 18 2007 [ 146880 00] ALLENRAY.DAM 
+-r-xr-xr-x   1    0    0      67264 Aug 18 2007 [ 146928 00] ALLENTONY.DAM 
+-r-xr-xr-x   1    0    0      70400 Aug 18 2007 [ 146976 00] ALSTONRAFER.DAM 
+-r-xr-xr-x   1    0    0       6720 Aug 18 2007 [ 147024 00] ANDERSONALAN.DAM 
+-r-xr-xr-x   1    0    0      80064 Aug 22 2007 [ 147040 00] ANDERSONDEREK.DAM 
+-r-xr-xr-x   1    0    0      67520 Aug 18 2007 [ 147088 00] ANDERSONSHANDON.DAM 
+-r-xr-xr-x   1    0    0      72960 Aug 18 2007 [ 147136 00] ANTHONYCARMELO.DAM 
+-r-xr-xr-x   1    0    0      64896 Aug 18 2007 [ 147184 00] ARCHIBALDTINY.DAM 
+-r-xr-xr-x   1    0    0      64704 Aug 18 2007 [ 147216 00] ARENASGILBERT.DAM 
+-r-xr-xr-x   1    0    0      64576 Aug 18 2007 [ 147248 00] ARIZATREVOR.DAM 
+-r-xr-xr-x   1    0    0      92736 Aug 18 2007 [ 147280 00] ARMSTRONGDARRELL.DAM 
+-r-xr-xr-x   1    0    0      67584 Aug 18 2007 [ 147328 00] ARMSTRONGHILTON.DAM 
+-r-xr-xr-x   1    0    0      67328 Aug 18 2007 [ 147376 00] ARROYOCARLOS.DAM 
+-r-xr-xr-x   1    0    0      79936 Aug 18 2007 [ 147424 00] ARTESTRON.DAM 
+-r-xr-xr-x   1    0    0      89856 Aug 18 2007 [ 147472 00] ATKINSCHUCKY.DAM 
+-r-xr-xr-x   1    0    0      64640 Aug 18 2007 [ 147520 00] AUGMONSTACEY.DAM 
+-r-xr-xr-x   1    0    0      67584 Aug 18 2007 [ 147552 00] AUGUSTINEJAMES.DAM 
+-r-xr-xr-x   1    0    0      64832 Aug 18 2007 [ 147600 00] AZUBUIKEKELENNA.DAM 
+-r-xr-xr-x   1    0    0      67200 Aug 18 2007 [ 147632 00] BAKERVIN.DAM 
+-r-xr-xr-x   1    0    0      72768 Aug 18 2007 [ 147680 00] BALKMANRENALDO.DAM 
+-r-xr-xr-x   1    0    0      64576 Aug 18 2007 [ 147728 00] BANKSMARCUS.DAM 
+-r-xr-xr-x   1    0    0      67456 Aug 18 2007 [ 147760 00] BARBOSALEANDRO.DAM 
+-r-xr-xr-x   1    0    0      64576 Aug 18 2007 [ 147808 00] BAREAJOSE.DAM 
+-r-xr-xr-x   1    0    0      64832 Aug 18 2007 [ 147840 00] BARGNANIANDREA.DAM 
+-r-xr-xr-x   1    0    0      67328 Aug 18 2007 [ 147872 00] BARNESMATT.DAM 
+-r-xr-xr-x   1    0    0      67392 Aug 18 2007 [ 147920 00] BARRETTANDRE.DAM 
+-r-xr-xr-x   1    0    0      72256 Aug 18 2007 [ 147968 00] BARRYBRENT.DAM 
+-r-xr-xr-x   1    0    0      67200 Aug 18 2007 [ 148016 00] BARRYJON.DAM 
+-r-xr-xr-x   1    0    0      67264 Aug 18 2007 [ 148064 00] BARRYRICK.DAM 
+-r-xr-xr-x   1    0    0       6592 Aug 18 2007 [ 148112 00] BASDENEDDIE.DAM 
+-r-xr-xr-x   1    0    0      67200 Aug 18 2007 [ 148128 00] BASSBRANDON.DAM 
+-r-xr-xr-x   1    0    0      67392 Aug 18 2007 [ 148176 00] BATTIERSHANE.DAM 
+-r-xr-xr-x   1    0    0      64640 Aug 18 2007 [ 148224 00] BATTIETONY.DAM 
+-r-xr-xr-x   1    0    0      67328 Aug 18 2007 [ 148256 00] BAXTERLONNY.DAM 
+-r-xr-xr-x   1    0    0      67328 Aug 18 2007 [ 148304 00] BAYLORELGIN.DAM 
+-r-xr-xr-x   1    0    0      67200 Aug 18 2007 [ 148352 00] BELLCHARLIE.DAM 
+-r-xr-xr-x   1    0    0      92288 Aug 18 2007 [ 148400 00] BELLRAJA.DAM 
+-r-xr-xr-x   1    0    0      64512 Aug 18 2007 [ 148448 00] BESTTRAVIS.DAM 
+-r-xr-xr-x   1    0    0      95488 Aug 18 2007 [ 148480 00] BIBBYMIKE.DAM 
+-r-xr-xr-x   1    0    0      72128 Aug 18 2007 [ 148528 00] BIEDRINSANDRIS.DAM 
+-r-xr-xr-x   1    0    0      89920 Aug 18 2007 [ 148576 00] BILLUPSCHAUNCEY.DAM 
+-r-xr-xr-x   1    0    0      67200 Aug 18 2007 [ 148624 00] BIRDLARRY.DAM 
+-r-xr-xr-x   1    0    0      67264 Aug 18 2007 [ 148672 00] BLAKESTEVE.DAM 
+-r-xr-xr-x   1    0    0       3968 Aug 18 2007 [ 148720 00] BLALOCKWILL.DAM 
+-r-xr-xr-x   1    0    0      92480 Aug 18 2007 [ 148736 00] BLOUNTMARK.DAM 
+-r-xr-xr-x   1    0    0      67392 Aug 18 2007 [ 148784 00] BOBBITTTONY.DAM 
+-r-xr-xr-x   1    0    0      92480 Aug 18 2007 [ 148832 00] BOGANSKEITH.DAM 
+-r-xr-xr-x   1    0    0      64576 Aug 18 2007 [ 148880 00] BOGUTANDREW.DAM 
+-r-xr-xr-x   1    0    0      67328 Aug 18 2007 [ 148912 00] BONNERMATT.DAM 
+-r-xr-xr-x   1    0    0      67648 Aug 18 2007 [ 148960 00] BOONEJOSH.DAM 
+-r-xr-xr-x   1    0    0      77248 Aug 18 2007 [ 149008 00] BOOZERCARLOS.DAM 
+-r-xr-xr-x   1    0    0      67584 Aug 18 2007 [ 149056 00] BORCHARDTCURTIS.DAM 
+-r-xr-xr-x   1    0    0      64512 Aug 18 2007 [ 149104 00] BOSHCHRIS.DAM 
+-r-xr-xr-x   1    0    0      67264 Aug 18 2007 [ 149136 00] BOWENBRUCE.DAM 
+-r-xr-xr-x   1    0    0      67264 Aug 18 2007 [ 149184 00] BOWENRYAN.DAM 
+-r-xr-xr-x   1    0    0      67392 Aug 18 2007 [ 149232 00] BOYKINSEARL.DAM 
+-r-xr-xr-x   1    0    0      64768 Aug 18 2007 [ 149280 00] BOZEMANCEDRIC.DAM 
+-r-xr-xr-x   1    0    0      64768 Aug 18 2007 [ 149312 00] BRADLEYMICHAEL.DAM 
+-r-xr-xr-x   1    0    0      70336 Aug 18 2007 [ 149344 00] BRANDELTON.DAM 
+-r-xr-xr-x   1    0    0       3904 Aug 18 2007 [ 149392 00] BREWERCOREY.DAM 
+-r-xr-xr-x   1    0    0      64640 Aug 18 2007 [ 149408 00] BREWERRONNIE.DAM 
+-r-xr-xr-x   1    0    0      69248 Aug 18 2007 [ 149440 00] BREZECPRIMOZ.DAM 
+-r-xr-xr-x   1    0    0      67264 Aug 18 2007 [ 149488 00] BROWNDAMONE.DAM 
+-r-xr-xr-x   1    0    0      67200 Aug 18 2007 [ 149536 00] BROWNDEE.DAM 
+-r-xr-xr-x   1    0    0      67264 Aug 18 2007 [ 149584 00] BROWNDEVIN.DAM 
+-r-xr-xr-x   1    0    0      74176 Aug 18 2007 [ 149632 00] BROWNKWAME.DAM 
+-r-xr-xr-x   1    0    0      67200 Aug 18 2007 [ 149680 00] BROWNPJ.DAM 
+-r-xr-xr-x   1    0    0      67264 Aug 18 2007 [ 149728 00] BROWNTIERRE.DAM 
+-r-xr-xr-x   1    0    0      64704 Aug 18 2007 [ 149776 00] BRUNSONRICK.DAM 
+-r-xr-xr-x   1    0    0      79936 Aug 18 2007 [ 149808 00] BRYANTKOBE.DAM 
+-r-xr-xr-x   1    0    0      64704 Aug 18 2007 [ 149856 00] BUCKNERGREG.DAM 
+-r-xr-xr-x   1    0    0      64640 Aug 18 2007 [ 149888 00] BUFORDRODNEY.DAM 
+-r-xr-xr-x   1    0    0      67200 Aug 18 2007 [ 149920 00] BURKEPAT.DAM 
+-r-xr-xr-x   1    0    0      67264 Aug 18 2007 [ 149968 00] BURKSANTONIO.DAM 
+-r-xr-xr-x   1    0    0      67520 Aug 18 2007 [ 150016 00] BURLESONKEVIN.DAM 
+-r-xr-xr-x   1    0    0      92864 Aug 18 2007 [ 150064 00] BUTLERCARON.DAM 
+-r-xr-xr-x   1    0    0      67328 Aug 18 2007 [ 150112 00] BUTLERJACKIE.DAM 
+-r-xr-xr-x   1    0    0      92544 Aug 18 2007 [ 150160 00] BUTLERRASUAL.DAM 
+-r-xr-xr-x   1    0    0      67264 Aug 18 2007 [ 150208 00] BYNUMANDREW.DAM 
+-r-xr-xr-x   1    0    0      64768 Aug 18 2007 [ 150256 00] CALDERONJOSE.DAM 
+-r-xr-xr-x   1    0    0      95488 Aug 18 2007 [ 150288 00] CAMBYMARCUS.DAM 
+-r-xr-xr-x   1    0    0      67520 Aug 18 2007 [ 150336 00] CAMPBELLELDEN.DAM 
+-r-xr-xr-x   1    0    0      67520 Aug 18 2007 [ 150384 00] CARDINALBRIAN.DAM 
+-r-xr-xr-x   1    0    0      67328 Aug 18 2007 [ 150432 00] CARNEYRODNEY.DAM 
+-r-xr-xr-x   1    0    0      67392 Aug 18 2007 [ 150480 00] CARROLLMATT.DAM 
+-r-xr-xr-x   1    0    0      64704 Aug 18 2007 [ 150528 00] CARTERANTHONY.DAM 
+-r-xr-xr-x   1    0    0      70400 Aug 18 2007 [ 150560 00] CARTERVINCE.DAM 
+-r-xr-xr-x   1    0    0      67392 Aug 18 2007 [ 150608 00] CASSELLSAM.DAM 
+-r-xr-xr-x   1    0    0      67648 Aug 18 2007 [ 150656 00] CHAMBERLAINWILT.DAM 
+-r-xr-xr-x   1    0    0      67456 Aug 18 2007 [ 150704 00] CHAMBERSTOM.DAM 
+-r-xr-xr-x   1    0    0      89984 Aug 18 2007 [ 150752 00] CHANDLERTYSON.DAM 
+-r-xr-xr-x   1    0    0      67456 Aug 18 2007 [ 150800 00] CHEANEYCALBERT.DAM 
+-r-xr-xr-x   1    0    0      64896 Aug 18 2007 [ 150848 00] CHILDRESSJOSH.DAM 
+-r-xr-xr-x   1    0    0      67456 Aug 18 2007 [ 150880 00] CLAXTONSPEEDY.DAM 
+-r-xr-xr-x   1    0    0      67456 Aug 18 2007 [ 150928 00] CLEAVESMATEEN.DAM 
+-r-xr-xr-x   1    0    0      67456 Aug 18 2007 [ 150976 00] COLLINSJARRON.DAM 
+-r-xr-xr-x   1    0    0      67392 Aug 18 2007 [ 151024 00] COLLINSJASON.DAM 
+-r-xr-xr-x   1    0    0      67392 Aug 18 2007 [ 151072 00] COLLINSMARDY.DAM 
+-r-xr-xr-x   1    0    0      68736 Aug 18 2007 [ 151120 00] COLLISONNICK.DAM 
+-r-xr-xr-x   1    0    0       6592 Aug 18 2007 [ 151168 00] CONLEYMICHAEL.DAM 
+-r-xr-xr-x   1    0    0      64640 Aug 18 2007 [ 151184 00] CONROYWILL.DAM 
+-r-xr-xr-x   1    0    0      67200 Aug 18 2007 [ 151216 00] COOKBRIAN.DAM 
+-r-xr-xr-x   1    0    0      95680 Aug 18 2007 [ 151264 00] CRAWFORDJAMAL.DAM 
+-r-xr-xr-x   1    0    0       4160 Aug 22 2007 [ 151312 00] CRITTENTONJAVARIS.DAM 
+-r-xr-xr-x   1    0    0      67520 Aug 18 2007 [ 151328 00] CROSHEREAUSTIN.DAM 
+-r-xr-xr-x   1    0    0      96704 Aug 18 2007 [ 151376 00] CURRYEDDY.DAM 
+-r-xr-xr-x   1    0    0      67904 Aug 18 2007 [ 151424 00] DALEMBERTSAMUEL.DAM 
+-r-xr-xr-x   1    0    0      70464 Aug 18 2007 [ 151472 00] DAMPIERERICK.DAM 
+-r-xr-xr-x   1    0    0      89920 Aug 18 2007 [ 151520 00] DANIELSANTONIO.DAM 
+-r-xr-xr-x   1    0    0      64768 Aug 18 2007 [ 151568 00] DANIELSMARQUIS.DAM 
+-r-xr-xr-x   1    0    0      67648 Aug 18 2007 [ 151600 00] DAVISBARON.DAM 
+-r-xr-xr-x   1    0    0       6528 Aug 18 2007 [ 151648 00] DAVISPAUL.DAM 
+-r-xr-xr-x   1    0    0     101184 Aug 18 2007 [ 151664 00] DAVISRICKY.DAM 
+-r-xr-xr-x   1    0    0      67648 Aug 18 2007 [ 151728 00] DEBUSSCHEREDAVE.DAM 
+-r-xr-xr-x   1    0    0      67520 Aug 18 2007 [ 151776 00] DECLERCQANDREW.DAM 
+-r-xr-xr-x   1    0    0      71424 Aug 18 2007 [ 151824 00] DELFINOCARLOS.DAM 
+-r-xr-xr-x   1    0    0      67136 Aug 18 2007 [ 151872 00] DELKTONY.DAM 
+-r-xr-xr-x   1    0    0      64448 Aug 18 2007 [ 151920 00] DENGLUOL.DAM 
+-r-xr-xr-x   1    0    0      64768 Aug 18 2007 [ 151952 00] DIAWARAYAKHOUBA.DAM 
+-r-xr-xr-x   1    0    0      64512 Aug 18 2007 [ 151984 00] DIAWBORIS.DAM 
+-r-xr-xr-x   1    0    0      67328 Aug 30 2007 [ 152016 00] DIENERTRAVIS.DAM 
+-r-xr-xr-x   1    0    0      64512 Aug 18 2007 [ 152064 00] DIOGUIKE.DAM 
+-r-xr-xr-x   1    0    0      64512 Aug 18 2007 [ 152096 00] DIOPDESAGANA.DAM 
+-r-xr-xr-x   1    0    0      64576 Aug 18 2007 [ 152128 00] DIXONJUAN.DAM 
+-r-xr-xr-x   1    0    0      64704 Aug 18 2007 [ 152160 00] DOOLINGKEYON.DAM 
+-r-xr-xr-x   1    0    0      64576 Aug 18 2007 [ 152192 00] DOUBYQUINCY.DAM 
+-r-xr-xr-x   1    0    0      67392 Aug 18 2007 [ 152224 00] DREXLERCLYDE.DAM 
+-r-xr-xr-x   1    0    0      67264 Aug 18 2007 [ 152272 00] DUHONCHRIS.DAM 
+-r-xr-xr-x   1    0    0      67328 Aug 18 2007 [ 152320 00] DUNCANTIM.DAM 
+-r-xr-xr-x   1    0    0      71424 Aug 18 2007 [ 152368 00] DUNLEAVYMIKE.DAM 
+-r-xr-xr-x   1    0    0      67328 Aug 18 2007 [ 152416 00] DUPREERONALD.DAM 
+-r-xr-xr-x   1    0    0       6592 Aug 18 2007 [ 152464 00] DURANTKEVIN.DAM 
+-r-xr-xr-x   1    0    0      67072 Aug 18 2007 [ 152480 00] EBINDUDI.DAM 
+-r-xr-xr-x   1    0    0       6656 Aug 18 2007 [ 152528 00] EDWARDSJOHN.DAM 
+-r-xr-xr-x   1    0    0      67328 Aug 18 2007 [ 152544 00] EISLEYHOWARD.DAM 
+-r-xr-xr-x   1    0    0      64576 Aug 18 2007 [ 152592 00] ELLISMONTA.DAM 
+-r-xr-xr-x   1    0    0      67328 Aug 18 2007 [ 152624 00] ELSONFRANCISCO.DAM 
+-r-xr-xr-x   1    0    0      67328 Aug 18 2007 [ 152672 00] EMMETTANDRE.DAM 
+-r-xr-xr-x   1    0    0      64704 Aug 18 2007 [ 152720 00] ENGLISHALEX.DAM 
+-r-xr-xr-x   1    0    0      69248 Aug 18 2007 [ 152752 00] ERVINGJULIUS.DAM 
+-r-xr-xr-x   1    0    0      64576 Aug 18 2007 [ 152800 00] EVANSMAURICE.DAM 
+-r-xr-xr-x   1    0    0      92416 Aug 18 2007 [ 152832 00] EVANSREGGIE.DAM 
+-r-xr-xr-x   1    0    0      64576 Aug 18 2007 [ 152880 00] EWINGDANIEL.DAM 
+-r-xr-xr-x   1    0    0      67264 Aug 18 2007 [ 152912 00] EWINGPATRICK.DAM 
+-r-xr-xr-x   1    0    0      64640 Aug 18 2007 [ 152960 00] FARMARJORDAN.DAM 
+-r-xr-xr-x   1    0    0      67264 Aug 18 2007 [ 152992 00] FELIXNOEL.DAM 
+-r-xr-xr-x   1    0    0      67392 Aug 18 2007 [ 153040 00] FELTONRAYMOND.DAM 
+-r-xr-xr-x   1    0    0      64704 Aug 18 2007 [ 153088 00] FINLEYMICHAEL.DAM 
+-r-xr-xr-x   1    0    0      67712 Aug 18 2007 [ 153120 00] FISHERDEREK.DAM 
+-r-xr-xr-x   1    0    0       3840 Aug 18 2007 [ 153168 00] FITCHGERALD.DAM 
+-r-xr-xr-x   1    0    0      95488 Aug 18 2007 [ 153184 00] FIZERMARCUS.DAM 
+-r-xr-xr-x   1    0    0      70208 Aug 18 2007 [ 153232 00] FORDTJ.DAM 
+-r-xr-xr-x   1    0    0      67392 Aug 18 2007 [ 153280 00] FORTSONDANNY.DAM 
+-r-xr-xr-x   1    0    0      72128 Aug 18 2007 [ 153328 00] FOSTERJEFF.DAM 
+-r-xr-xr-x   1    0    0      64512 Aug 18 2007 [ 153376 00] FOYERANDY.DAM 
+-r-xr-xr-x   1    0    0      67264 Aug 18 2007 [ 153408 00] FOYLEADONAL.DAM 
+-r-xr-xr-x   1    0    0      67264 Aug 18 2007 [ 153456 00] FRAHMRICHIE.DAM 
+-r-xr-xr-x   1    0    0      77312 Aug 18 2007 [ 153504 00] FRANCISSTEVE.DAM 
+-r-xr-xr-x   1    0    0      67392 Aug 18 2007 [ 153552 00] FRAZIERWALT.DAM 
+-r-xr-xr-x   1    0    0      67200 Aug 18 2007 [ 153600 00] FRYECHANNING.DAM 
+-r-xr-xr-x   1    0    0       6848 Aug 18 2007 [ 153648 00] FUNDERBURKELAWRENCE.DAM 
+-r-xr-xr-x   1    0    0      71488 Aug 18 2007 [ 153664 00] GADZURICDAN.DAM 
+-r-xr-xr-x   1    0    0      67328 Aug 18 2007 [ 153712 00] GAINESREECE.DAM 
+-r-xr-xr-x   1    0    0      67584 Aug 18 2007 [ 153760 00] GARBAJOSAJORGE.DAM 
+-r-xr-xr-x   1    0    0      67392 Aug 18 2007 [ 153808 00] GARCIAFRANCISCO.DAM 
+-r-xr-xr-x   1    0    0      89920 Aug 18 2007 [ 153856 00] GARNETTKEVIN.DAM 
+-r-xr-xr-x   1    0    0      64704 Aug 18 2007 [ 153904 00] GARRITYPAT.DAM 
+-r-xr-xr-x   1    0    0      67200 Aug 18 2007 [ 153936 00] GASOLPAU.DAM 
+-r-xr-xr-x   1    0    0      67072 Aug 18 2007 [ 153984 00] GAYRUDY.DAM 
+-r-xr-xr-x   1    0    0      67520 Aug 18 2007 [ 154032 00] GELABALEMICKAEL.DAM 
+-r-xr-xr-x   1    0    0      67328 Aug 18 2007 [ 154080 00] GEORGEDEVEAN.DAM 
+-r-xr-xr-x   1    0    0      64640 Aug 22 2007 [ 154128 00] GIBSONDANIEL.DAM 
+-r-xr-xr-x   1    0    0      67200 Aug 18 2007 [ 154160 00] GILLEDDIE.DAM 
+-r-xr-xr-x   1    0    0      72128 Aug 18 2007 [ 154208 00] GINOBILIMANU.DAM 
+-r-xr-xr-x   1    0    0      72128 Aug 18 2007 [ 154256 00] GIRICEKGORDAN.DAM 
+-r-xr-xr-x   1    0    0      64960 Aug 18 2007 [ 154304 00] GLYNIADAKISANDREAS.DAM 
+-r-xr-xr-x   1    0    0      64832 Aug 18 2007 [ 154336 00] GOLDWIREANTHONY.DAM 
+-r-xr-xr-x   1    0    0      64576 Aug 18 2007 [ 154368 00] GOMESRYAN.DAM 
+-r-xr-xr-x   1    0    0      95552 Aug 18 2007 [ 154400 00] GOODENDREW.DAM 
+-r-xr-xr-x   1    0    0      77248 Aug 18 2007 [ 154448 00] GORDONBEN.DAM 
+-r-xr-xr-x   1    0    0      67328 Aug 18 2007 [ 154496 00] GRAHAMJOEY.DAM 
+-r-xr-xr-x   1    0    0      67392 Aug 18 2007 [ 154544 00] GRAHAMSTEPHEN.DAM 
+-r-xr-xr-x   1    0    0      67392 Aug 18 2007 [ 154592 00] GRANGERDANNY.DAM 
+-r-xr-xr-x   1    0    0       3904 Aug 18 2007 [ 154640 00] GREENEORIEN.DAM 
+-r-xr-xr-x   1    0    0      67264 Aug 18 2007 [ 154656 00] GREENGERALD.DAM 
+-r-xr-xr-x   1    0    0       6528 Aug 18 2007 [ 154704 00] GREENJEFF.DAM 
+-r-xr-xr-x   1    0    0      67264 Aug 18 2007 [ 154720 00] GREENWILLIE.DAM 
+-r-xr-xr-x   1    0    0      67392 Aug 18 2007 [ 154768 00] GRIFFINEDDIE.DAM 
+-r-xr-xr-x   1    0    0      70400 Aug 18 2007 [ 154816 00] GRUNDYANTHONY.DAM 
+-r-xr-xr-x   1    0    0      64448 Aug 18 2007 [ 154864 00] HALLMIKE.DAM 
+-r-xr-xr-x   1    0    0      95744 Aug 18 2007 [ 154896 00] HAMILTONRICHARD.DAM 
+-r-xr-xr-x   1    0    0      67648 Aug 18 2007 [ 154944 00] HANDLOGTENBEN.DAM 
+-r-xr-xr-x   1    0    0      67456 Aug 18 2007 [ 154992 00] HARPRINGMATT.DAM 
+-r-xr-xr-x   1    0    0      93120 Aug 18 2007 [ 155040 00] HARRINGTONAL.DAM 
+-r-xr-xr-x   1    0    0      79936 Aug 18 2007 [ 155088 00] HARRISDEVIN.DAM 
+-r-xr-xr-x   1    0    0      67392 Aug 18 2007 [ 155136 00] HARRISLUCIOUS.DAM 
+-r-xr-xr-x   1    0    0      67520 Aug 18 2007 [ 155184 00] HARRISONDAVID.DAM 
+-r-xr-xr-x   1    0    0      89664 Aug 30 2007 [ 155232 00] HARTJASON.DAM 
+-r-xr-xr-x   1    0    0      99328 Aug 18 2007 [ 155280 00] HASLEMUDONIS.DAM 
+-r-xr-xr-x   1    0    0      67456 Aug 18 2007 [ 155344 00] HASSELLTRENTON.DAM 
+-r-xr-xr-x   1    0    0      67456 Aug 18 2007 [ 155392 00] HAVLICEKJOHN.DAM 
+-r-xr-xr-x   1    0    0       6528 Aug 18 2007 [ 155440 00] HAWESSPENCER.DAM 
+-r-xr-xr-x   1    0    0      67264 Aug 18 2007 [ 155456 00] HAYESCHUCK.DAM 
+-r-xr-xr-x   1    0    0      67264 Aug 18 2007 [ 155504 00] HAYESJARVIS.DAM 
+-r-xr-xr-x   1    0    0      67456 Aug 18 2007 [ 155552 00] HAYWOODBRENDAN.DAM 
+-r-xr-xr-x   1    0    0      64512 Aug 18 2007 [ 155600 00] HEADLUTHER.DAM 
+-r-xr-xr-x   1    0    0      67584 Aug 18 2007 [ 155632 00] HENDERSONALAN.DAM 
+-r-xr-xr-x   1    0    0      72000 Aug 18 2007 [ 155680 00] HERRMANNWALTER.DAM 
+-r-xr-xr-x   1    0    0      67200 Aug 18 2007 [ 155728 00] HILLGRANT.DAM 
+-r-xr-xr-x   1    0    0      67392 Aug 18 2007 [ 155776 00] HINRICHKIRK.DAM 
+-r-xr-xr-x   1    0    0       6528 Aug 18 2007 [ 155824 00] HODGEJULIUS.DAM 
+-r-xr-xr-x   1    0    0      64704 Aug 18 2007 [ 155840 00] HOLLINSRYAN.DAM 
+-r-xr-xr-x   1    0    0       6656 Aug 18 2007 [ 155872 00] HORFORDAL.DAM 
+-r-xr-xr-x   1    0    0      64576 Aug 18 2007 [ 155888 00] HORRYROBERT.DAM 
+-r-xr-xr-x   1    0    0      95488 Aug 18 2007 [ 155920 00] HOUSEEDDIE.DAM 
+-r-xr-xr-x   1    0    0      67328 Aug 18 2007 [ 155968 00] HOWARDDWIGHT.DAM 
+-r-xr-xr-x   1    0    0      80320 Aug 18 2007 [ 156016 00] HOWARDJOSH.DAM 
+-r-xr-xr-x   1    0    0      64640 Aug 18 2007 [ 156064 00] HOWARDJUWAN.DAM 
+-r-xr-xr-x   1    0    0      87040 Aug 18 2007 [ 156096 00] HUDSONTROY.DAM 
+-r-xr-xr-x   1    0    0      70400 Aug 18 2007 [ 156144 00] HUGHESLARRY.DAM 
+-r-xr-xr-x   1    0    0      67456 Aug 18 2007 [ 156192 00] HUMPHREYRYAN.DAM 
+-r-xr-xr-x   1    0    0      67584 Aug 18 2007 [ 156240 00] HUMPHRIESKRIS.DAM 
+-r-xr-xr-x   1    0    0      67392 Aug 18 2007 [ 156288 00] HUNTERBRANDON.DAM 
+-r-xr-xr-x   1    0    0      67392 Aug 18 2007 [ 156336 00] HUNTERLINDSEY.DAM 
+-r-xr-xr-x   1    0    0      67328 Aug 18 2007 [ 156384 00] HUNTERSTEVEN.DAM 
+-r-xr-xr-x   1    0    0      77376 Aug 18 2007 [ 156432 00] IGUODALAANDRE.DAM 
+-r-xr-xr-x   1    0    0      67584 Aug 18 2007 [ 156480 00] ILGAUSKASZYDRUNAS.DAM 
+-r-xr-xr-x   1    0    0      67520 Aug 18 2007 [ 156528 00] ILYASOVAERSAN.DAM 
+-r-xr-xr-x   1    0    0     101824 Aug 18 2007 [ 156576 00] IVERSONALLEN.DAM 
+-r-xr-xr-x   1    0    0      64512 Aug 18 2007 [ 156640 00] JACKJARRETT.DAM 
+-r-xr-xr-x   1    0    0      92928 Aug 18 2007 [ 156672 00] JACKSONBOBBY.DAM 
+-r-xr-xr-x   1    0    0      64768 Aug 18 2007 [ 156720 00] JACKSONJERMAINE.DAM 
+-r-xr-xr-x   1    0    0      80000 Aug 18 2007 [ 156752 00] JACKSONJIM.DAM 
+-r-xr-xr-x   1    0    0      72704 Aug 18 2007 [ 156800 00] JACKSONLUKE.DAM 
+-r-xr-xr-x   1    0    0      80000 Aug 18 2007 [ 156848 00] JACKSONMARC.DAM 
+-r-xr-xr-x   1    0    0      64768 Aug 18 2007 [ 156896 00] JACKSONSTEPHEN.DAM 
+-r-xr-xr-x   1    0    0      67264 Aug 18 2007 [ 156928 00] JAMESJEROME.DAM 
+-r-xr-xr-x   1    0    0      95488 Aug 18 2007 [ 156976 00] JAMESLEBRON.DAM 
+-r-xr-xr-x   1    0    0      64576 Aug 22 2007 [ 157024 00] JAMESMIKE.DAM 
+-r-xr-xr-x   1    0    0      64768 Aug 18 2007 [ 157056 00] JAMISONANTAWN.DAM 
+-r-xr-xr-x   1    0    0      75584 Aug 18 2007 [ 157088 00] JARICMARKO.DAM 
+-r-xr-xr-x   1    0    0      67712 Aug 18 2007 [ 157136 00] JASIKEVICIUSSARUNAS.DAM 
+-r-xr-xr-x   1    0    0      67520 Aug 18 2007 [ 157184 00] JEFFERSONAL.DAM 
+-r-xr-xr-x   1    0    0      80128 Aug 18 2007 [ 157232 00] JEFFERSONRICHARD.DAM 
+-r-xr-xr-x   1    0    0      83136 Aug 18 2007 [ 157280 00] JEFFRIESJARED.DAM 
+-r-xr-xr-x   1    0    0       1024 Aug 18 2007 [ 157328 00] JERSEYNAMEABDULJABBAR.DAM 
+-r-xr-xr-x   1    0    0       1024 Aug 18 2007 [ 157344 00] JERSEYNAMEABDURRAHIM.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 157360 00] JERSEYNAMEACKER.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 157376 00] JERSEYNAMEADAMS.DAM 
+-r-xr-xr-x   1    0    0        640 Aug 18 2007 [ 157392 00] JERSEYNAMEAGER.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 157408 00] JERSEYNAMEALDRIDGE.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 157424 00] JERSEYNAMEALLEN.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 157440 00] JERSEYNAMEALSTON.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 157456 00] JERSEYNAMEANDERSON.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 157472 00] JERSEYNAMEANTHONY.DAM 
+-r-xr-xr-x   1    0    0        960 Aug 18 2007 [ 157488 00] JERSEYNAMEARCHIBALD.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 157504 00] JERSEYNAMEARENAS.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 157520 00] JERSEYNAMEARIZA.DAM 
+-r-xr-xr-x   1    0    0        960 Aug 18 2007 [ 157536 00] JERSEYNAMEARMSTRONG.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 157552 00] JERSEYNAMEARROYO.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 157568 00] JERSEYNAMEARTEST.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 157584 00] JERSEYNAMEATKINS.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 157600 00] JERSEYNAMEAUGMON.DAM 
+-r-xr-xr-x   1    0    0        960 Aug 18 2007 [ 157616 00] JERSEYNAMEAUGUSTINE.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 157632 00] JERSEYNAMEAZUBUIKE.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 157648 00] JERSEYNAMEBAKER.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 157664 00] JERSEYNAMEBALKMAN.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 157680 00] JERSEYNAMEBANKS.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 157696 00] JERSEYNAMEBARBOSA.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 157712 00] JERSEYNAMEBAREA.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 157728 00] JERSEYNAMEBARGNANI.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 157744 00] JERSEYNAMEBARNES.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 157760 00] JERSEYNAMEBARRETT.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 157776 00] JERSEYNAMEBARRY.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 157792 00] JERSEYNAMEBASDEN.DAM 
+-r-xr-xr-x   1    0    0        640 Aug 18 2007 [ 157808 00] JERSEYNAMEBASS.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 157824 00] JERSEYNAMEBATTIE.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 157840 00] JERSEYNAMEBATTIER.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 157856 00] JERSEYNAMEBAXTER.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 157872 00] JERSEYNAMEBAYLOR.DAM 
+-r-xr-xr-x   1    0    0        640 Aug 18 2007 [ 157888 00] JERSEYNAMEBELL.DAM 
+-r-xr-xr-x   1    0    0        640 Aug 18 2007 [ 157904 00] JERSEYNAMEBEST.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 157920 00] JERSEYNAMEBIBBY.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 157936 00] JERSEYNAMEBIEDRINS.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 157952 00] JERSEYNAMEBILLUPS.DAM 
+-r-xr-xr-x   1    0    0        640 Aug 18 2007 [ 157968 00] JERSEYNAMEBIRD.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 157984 00] JERSEYNAMEBLAKE.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 158000 00] JERSEYNAMEBLALOCK.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 158016 00] JERSEYNAMEBLOUNT.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 158032 00] JERSEYNAMEBOBBITT.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 158048 00] JERSEYNAMEBOGANS.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 158064 00] JERSEYNAMEBOGUT.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 158080 00] JERSEYNAMEBONNER.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 158096 00] JERSEYNAMEBOONE.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 158112 00] JERSEYNAMEBOOZER.DAM 
+-r-xr-xr-x   1    0    0        960 Aug 18 2007 [ 158128 00] JERSEYNAMEBORCHARDT.DAM 
+-r-xr-xr-x   1    0    0        640 Aug 18 2007 [ 158144 00] JERSEYNAMEBOSH.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 158160 00] JERSEYNAMEBOWEN.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 158176 00] JERSEYNAMEBOYKINS.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 158192 00] JERSEYNAMEBOZEMAN.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 158208 00] JERSEYNAMEBRADLEY.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 158224 00] JERSEYNAMEBRAND.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 158240 00] JERSEYNAMEBREWER.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 158256 00] JERSEYNAMEBREZEC.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 158272 00] JERSEYNAMEBROWN.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 158288 00] JERSEYNAMEBRUNSON.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 158304 00] JERSEYNAMEBRYANT.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 158320 00] JERSEYNAMEBUCKNER.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 158336 00] JERSEYNAMEBUFORD.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 158352 00] JERSEYNAMEBURKE.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 158368 00] JERSEYNAMEBURKS.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 158384 00] JERSEYNAMEBURLESON.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 158400 00] JERSEYNAMEBUTLER.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 158416 00] JERSEYNAMEBYNUM.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 158432 00] JERSEYNAMECALDERON.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 158448 00] JERSEYNAMECAMBY.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 158464 00] JERSEYNAMECAMPBELL.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 158480 00] JERSEYNAMECARDINAL.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 158496 00] JERSEYNAMECARNEY.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 158512 00] JERSEYNAMECARROLL.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 158528 00] JERSEYNAMECARTER.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 158544 00] JERSEYNAMECASSELL.DAM 
+-r-xr-xr-x   1    0    0       1024 Aug 18 2007 [ 158560 00] JERSEYNAMECHAMBERLAIN.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 158576 00] JERSEYNAMECHAMBERS.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 158592 00] JERSEYNAMECHANDLER.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 158608 00] JERSEYNAMECHEANEY.DAM 
+-r-xr-xr-x   1    0    0        960 Aug 18 2007 [ 158624 00] JERSEYNAMECHILDRESS.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 158640 00] JERSEYNAMECLAXTON.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 158656 00] JERSEYNAMECLEAVES.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 158672 00] JERSEYNAMECOLLINS.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 158688 00] JERSEYNAMECOLLISON.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 158704 00] JERSEYNAMECONLEY.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 158720 00] JERSEYNAMECONROY.DAM 
+-r-xr-xr-x   1    0    0        640 Aug 18 2007 [ 158736 00] JERSEYNAMECOOK.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 158752 00] JERSEYNAMECRAWFORD.DAM 
+-r-xr-xr-x   1    0    0       1024 Aug 18 2007 [ 158768 00] JERSEYNAMECRITTENTON.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 158784 00] JERSEYNAMECROSHERE.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 158800 00] JERSEYNAMECURRY.DAM 
+-r-xr-xr-x   1    0    0        960 Aug 18 2007 [ 158816 00] JERSEYNAMEDALEMBERT.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 158832 00] JERSEYNAMEDAMPIER.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 158848 00] JERSEYNAMEDANIELS.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 158864 00] JERSEYNAMEDAVIS.DAM 
+-r-xr-xr-x   1    0    0       1024 Aug 18 2007 [ 158880 00] JERSEYNAMEDEBUSSCHERE.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 158896 00] JERSEYNAMEDECLERCQ.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 158912 00] JERSEYNAMEDELFINO.DAM 
+-r-xr-xr-x   1    0    0        640 Aug 18 2007 [ 158928 00] JERSEYNAMEDELK.DAM 
+-r-xr-xr-x   1    0    0        640 Aug 18 2007 [ 158944 00] JERSEYNAMEDENG.DAM 
+-r-xr-xr-x   1    0    0        640 Aug 18 2007 [ 158960 00] JERSEYNAMEDIAW.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 158976 00] JERSEYNAMEDIAWARA.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 158992 00] JERSEYNAMEDIENER.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 159008 00] JERSEYNAMEDIOGU.DAM 
+-r-xr-xr-x   1    0    0        640 Aug 18 2007 [ 159024 00] JERSEYNAMEDIOP.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 159040 00] JERSEYNAMEDIXON.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 159056 00] JERSEYNAMEDOOLING.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 159072 00] JERSEYNAMEDOUBY.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 159088 00] JERSEYNAMEDREXLER.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 159104 00] JERSEYNAMEDUHON.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 159120 00] JERSEYNAMEDUNCAN.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 159136 00] JERSEYNAMEDUNLEAVY.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 159152 00] JERSEYNAMEDUPREE.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 159168 00] JERSEYNAMEDURANT.DAM 
+-r-xr-xr-x   1    0    0        576 Aug 18 2007 [ 159184 00] JERSEYNAMEEBI.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 159200 00] JERSEYNAMEEDWARDS.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 159216 00] JERSEYNAMEEISLEY.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 159232 00] JERSEYNAMEELLIS.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 159248 00] JERSEYNAMEELSON.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 159264 00] JERSEYNAMEEMMETT.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 159280 00] JERSEYNAMEENGLISH.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 159296 00] JERSEYNAMEERVING.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 159312 00] JERSEYNAMEEVANS.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 159328 00] JERSEYNAMEEWING.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 159344 00] JERSEYNAMEFARMAR.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 159360 00] JERSEYNAMEFELIX.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 159376 00] JERSEYNAMEFELTON.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 159392 00] JERSEYNAMEFINLEY.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 159408 00] JERSEYNAMEFISHER.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 159424 00] JERSEYNAMEFITCH.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 159440 00] JERSEYNAMEFIZER.DAM 
+-r-xr-xr-x   1    0    0        640 Aug 18 2007 [ 159456 00] JERSEYNAMEFORD.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 159472 00] JERSEYNAMEFORTSON.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 159488 00] JERSEYNAMEFOSTER.DAM 
+-r-xr-xr-x   1    0    0        640 Aug 18 2007 [ 159504 00] JERSEYNAMEFOYE.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 159520 00] JERSEYNAMEFOYLE.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 159536 00] JERSEYNAMEFRAHM.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 159552 00] JERSEYNAMEFRANCIS.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 159568 00] JERSEYNAMEFRAZIER.DAM 
+-r-xr-xr-x   1    0    0        640 Aug 18 2007 [ 159584 00] JERSEYNAMEFRYE.DAM 
+-r-xr-xr-x   1    0    0       1024 Aug 18 2007 [ 159600 00] JERSEYNAMEFUNDERBURKE.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 159616 00] JERSEYNAMEGADZURIC.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 159632 00] JERSEYNAMEGAINES.DAM 
+-r-xr-xr-x   1    0    0        960 Aug 18 2007 [ 159648 00] JERSEYNAMEGARBAJOSA.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 159664 00] JERSEYNAMEGARCIA.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 159680 00] JERSEYNAMEGARNETT.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 159696 00] JERSEYNAMEGARRITY.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 159712 00] JERSEYNAMEGASOL.DAM 
+-r-xr-xr-x   1    0    0        576 Aug 18 2007 [ 159728 00] JERSEYNAMEGAY.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 159744 00] JERSEYNAMEGELABALE.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 159760 00] JERSEYNAMEGEORGE.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 159776 00] JERSEYNAMEGIBSON.DAM 
+-r-xr-xr-x   1    0    0        640 Aug 18 2007 [ 159792 00] JERSEYNAMEGILL.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 159808 00] JERSEYNAMEGINOBILI.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 159824 00] JERSEYNAMEGIRICEK.DAM 
+-r-xr-xr-x   1    0    0       1024 Aug 18 2007 [ 159840 00] JERSEYNAMEGLYNIADAKIS.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 159856 00] JERSEYNAMEGOLDWIRE.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 159872 00] JERSEYNAMEGOMES.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 159888 00] JERSEYNAMEGOODEN.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 159904 00] JERSEYNAMEGORDON.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 159920 00] JERSEYNAMEGRAHAM.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 159936 00] JERSEYNAMEGRANGER.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 159952 00] JERSEYNAMEGREEN.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 159968 00] JERSEYNAMEGREENE.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 159984 00] JERSEYNAMEGRIFFIN.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 160000 00] JERSEYNAMEGRUNDY.DAM 
+-r-xr-xr-x   1    0    0        640 Aug 18 2007 [ 160016 00] JERSEYNAMEHALL.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 160032 00] JERSEYNAMEHAMILTON.DAM 
+-r-xr-xr-x   1    0    0       1024 Aug 18 2007 [ 160048 00] JERSEYNAMEHANDLOGTEN.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 160064 00] JERSEYNAMEHARPRING.DAM 
+-r-xr-xr-x   1    0    0       1024 Aug 18 2007 [ 160080 00] JERSEYNAMEHARRINGTON.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 160096 00] JERSEYNAMEHARRIS.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 160112 00] JERSEYNAMEHARRISON.DAM 
+-r-xr-xr-x   1    0    0        640 Aug 18 2007 [ 160128 00] JERSEYNAMEHART.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 160144 00] JERSEYNAMEHASLEM.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 160160 00] JERSEYNAMEHASSELL.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 160176 00] JERSEYNAMEHAVLICEK.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 160192 00] JERSEYNAMEHAWES.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 160208 00] JERSEYNAMEHAYES.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 160224 00] JERSEYNAMEHAYWOOD.DAM 
+-r-xr-xr-x   1    0    0        640 Aug 18 2007 [ 160240 00] JERSEYNAMEHEAD.DAM 
+-r-xr-xr-x   1    0    0        960 Aug 18 2007 [ 160256 00] JERSEYNAMEHENDERSON.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 160272 00] JERSEYNAMEHERRMANN.DAM 
+-r-xr-xr-x   1    0    0        640 Aug 18 2007 [ 160288 00] JERSEYNAMEHILL.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 160304 00] JERSEYNAMEHINRICH.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 160320 00] JERSEYNAMEHODGE.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 160336 00] JERSEYNAMEHOLLINS.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 160352 00] JERSEYNAMEHORFORD.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 160368 00] JERSEYNAMEHORRY.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 160384 00] JERSEYNAMEHOUSE.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 160400 00] JERSEYNAMEHOWARD.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 160416 00] JERSEYNAMEHUDSON.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 160432 00] JERSEYNAMEHUGHES.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 160448 00] JERSEYNAMEHUMPHREY.DAM 
+-r-xr-xr-x   1    0    0        960 Aug 18 2007 [ 160464 00] JERSEYNAMEHUMPHRIES.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 160480 00] JERSEYNAMEHUNTER.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 160496 00] JERSEYNAMEIGUODALA.DAM 
+-r-xr-xr-x   1    0    0        960 Aug 18 2007 [ 160512 00] JERSEYNAMEILGAUSKAS.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 160528 00] JERSEYNAMEILYASOVA.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 160544 00] JERSEYNAMEIVERSON.DAM 
+-r-xr-xr-x   1    0    0        640 Aug 18 2007 [ 160560 00] JERSEYNAMEJACK.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 160576 00] JERSEYNAMEJACKSON.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 160592 00] JERSEYNAMEJAMES.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 160608 00] JERSEYNAMEJAMISON.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 160624 00] JERSEYNAMEJARIC.DAM 
+-r-xr-xr-x   1    0    0       1088 Aug 18 2007 [ 160640 00] JERSEYNAMEJASIKEVICIUS.DAM 
+-r-xr-xr-x   1    0    0        960 Aug 18 2007 [ 160656 00] JERSEYNAMEJEFFERSON.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 160672 00] JERSEYNAMEJEFFRIES.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 160688 00] JERSEYNAMEJOHNSON.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 160704 00] JERSEYNAMEJONES.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 160720 00] JERSEYNAMEKAMAN.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 160736 00] JERSEYNAMEKAPONO.DAM 
+-r-xr-xr-x   1    0    0        576 Aug 18 2007 [ 160752 00] JERSEYNAMEKID.DAM 
+-r-xr-xr-x   1    0    0        640 Aug 18 2007 [ 160768 00] JERSEYNAMEKIDD.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 160784 00] JERSEYNAMEKINSEY.DAM 
+-r-xr-xr-x   1    0    0        960 Aug 18 2007 [ 160800 00] JERSEYNAMEKIRILENKO.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 160816 00] JERSEYNAMEKLEIZA.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 160832 00] JERSEYNAMEKNIGHT.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 160848 00] JERSEYNAMEKOROLEV.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 160864 00] JERSEYNAMEKORVER.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 160880 00] JERSEYNAMEKRSTIC.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 160896 00] JERSEYNAMELAMPE.DAM 
+-r-xr-xr-x   1    0    0        640 Aug 18 2007 [ 160912 00] JERSEYNAMELAST.DAM 
+-r-xr-xr-x   1    0    0        576 Aug 18 2007 [ 160928 00] JERSEYNAMELAW.DAM 
+-r-xr-xr-x   1    0    0        576 Aug 18 2007 [ 160944 00] JERSEYNAMELEE.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 160960 00] JERSEYNAMELENARD.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 160976 00] JERSEYNAMELEWIS.DAM 
+-r-xr-xr-x   1    0    0       1024 Aug 18 2007 [ 160992 00] JERSEYNAMELIVINGSTON.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 161008 00] JERSEYNAMELOPEZ.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 161024 00] JERSEYNAMELOWRY.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 161040 00] JERSEYNAMELUCASIII.DAM 
+-r-xr-xr-x   1    0    0        576 Aug 18 2007 [ 161056 00] JERSEYNAMELUE.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 161072 00] JERSEYNAMELYNCH.DAM 
+-r-xr-xr-x   1    0    0       1024 Aug 18 2007 [ 161088 00] JERSEYNAMEMACIJAUSKAS.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 161104 00] JERSEYNAMEMADSEN.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 161120 00] JERSEYNAMEMAGGETTE.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 161136 00] JERSEYNAMEMAGLOIRE.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 161152 00] JERSEYNAMEMAJOR.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 161168 00] JERSEYNAMEMALONE.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 161184 00] JERSEYNAMEMANNING.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 161200 00] JERSEYNAMEMARAVICH.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 161216 00] JERSEYNAMEMARBURY.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 161232 00] JERSEYNAMEMARION.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 161248 00] JERSEYNAMEMARKS.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 161264 00] JERSEYNAMEMARSHALL.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 161280 00] JERSEYNAMEMARTIN.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 161296 00] JERSEYNAMEMASON.DAM 
+-r-xr-xr-x   1    0    0       1024 Aug 18 2007 [ 161312 00] JERSEYNAMEMASSENBURG.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 161328 00] JERSEYNAMEMAXIELL.DAM 
+-r-xr-xr-x   1    0    0        576 Aug 18 2007 [ 161344 00] JERSEYNAMEMAY.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 161360 00] JERSEYNAMEMCCANTS.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 161376 00] JERSEYNAMEMCCARTY.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 161392 00] JERSEYNAMEMCCRAY.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 161408 00] JERSEYNAMEMCDYESS.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 161424 00] JERSEYNAMEMCFARLIN.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 161440 00] JERSEYNAMEMCGRADY.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 161456 00] JERSEYNAMEMCINNIS.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 161472 00] JERSEYNAMEMCKIE.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 161488 00] JERSEYNAMEMCLEOD.DAM 
+-r-xr-xr-x   1    0    0       1024 Aug 18 2007 [ 161504 00] JERSEYNAMEMEDVEDENKO.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 161520 00] JERSEYNAMEMIKAN.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 161536 00] JERSEYNAMEMILES.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 161552 00] JERSEYNAMEMILICIC.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 161568 00] JERSEYNAMEMILLER.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 161584 00] JERSEYNAMEMILLSAP.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 161600 00] JERSEYNAMEMOBLEY.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 161616 00] JERSEYNAMEMOHAMMED.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 161632 00] JERSEYNAMEMONIA.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 161648 00] JERSEYNAMEMOORE.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 161664 00] JERSEYNAMEMORRISON.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 161680 00] JERSEYNAMEMOURNING.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 161696 00] JERSEYNAMEMURPHY.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 161712 00] JERSEYNAMEMURRAY.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 161728 00] JERSEYNAMEMUTOMBO.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 161744 00] JERSEYNAMENACHBAR.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 161760 00] JERSEYNAMENAILON.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 161776 00] JERSEYNAMENAJERA.DAM 
+-r-xr-xr-x   1    0    0        640 Aug 18 2007 [ 161792 00] JERSEYNAMENASH.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 161808 00] JERSEYNAMENDIAYE.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 161824 00] JERSEYNAMENDONG.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 161840 00] JERSEYNAMENELSON.DAM 
+-r-xr-xr-x   1    0    0        640 Aug 18 2007 [ 161856 00] JERSEYNAMENENE.DAM 
+-r-xr-xr-x   1    0    0       1024 Aug 18 2007 [ 161872 00] JERSEYNAMENESTEROVIC.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 161888 00] JERSEYNAMENEWBLE.DAM 
+-r-xr-xr-x   1    0    0        640 Aug 18 2007 [ 161904 00] JERSEYNAMENOAH.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 161920 00] JERSEYNAMENOCIONI.DAM 
+-r-xr-xr-x   1    0    0        640 Aug 18 2007 [ 161936 00] JERSEYNAMENOEL.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 161952 00] JERSEYNAMENORRIS.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 161968 00] JERSEYNAMENOWITZKI.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 161984 00] JERSEYNAMEOBERTO.DAM 
+-r-xr-xr-x   1    0    0        640 Aug 18 2007 [ 162000 00] JERSEYNAMEODEN.DAM 
+-r-xr-xr-x   1    0    0        640 Aug 18 2007 [ 162016 00] JERSEYNAMEODOM.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 162032 00] JERSEYNAMEOKAFOR.DAM 
+-r-xr-xr-x   1    0    0        640 Aug 18 2007 [ 162048 00] JERSEYNAMEOKUR.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 162064 00] JERSEYNAMEOLAJUWON.DAM 
+-r-xr-xr-x   1    0    0       1024 Aug 18 2007 [ 162080 00] JERSEYNAMEOLOWOKANDI.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 162096 00] JERSEYNAMEONEAL.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 162112 00] JERSEYNAMEOUTLAW.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 162128 00] JERSEYNAMEOWENS.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 162144 00] JERSEYNAMEPACHULIA.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 162160 00] JERSEYNAMEPADGETT.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 162176 00] JERSEYNAMEPALACIO.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 162192 00] JERSEYNAMEPARGO.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 162208 00] JERSEYNAMEPARKER.DAM 
+-r-xr-xr-x   1    0    0        960 Aug 18 2007 [ 162224 00] JERSEYNAMEPATTERSON.DAM 
+-r-xr-xr-x   1    0    0        640 Aug 18 2007 [ 162240 00] JERSEYNAMEPAUL.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 162256 00] JERSEYNAMEPAVLOVIC.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 162272 00] JERSEYNAMEPAYTON.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 162288 00] JERSEYNAMEPERKINS.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 162304 00] JERSEYNAMEPETERSON.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 162320 00] JERSEYNAMEPETRO.DAM 
+-r-xr-xr-x   1    0    0       1024 Aug 18 2007 [ 162336 00] JERSEYNAMEPIATKOWSKI.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 162352 00] JERSEYNAMEPIERCE.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 162368 00] JERSEYNAMEPIETRUS.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 162384 00] JERSEYNAMEPINKNEY.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 162400 00] JERSEYNAMEPLANINIC.DAM 
+-r-xr-xr-x   1    0    0        960 Aug 18 2007 [ 162416 00] JERSEYNAMEPODKOLZIN.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 162432 00] JERSEYNAMEPOLLARD.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 162448 00] JERSEYNAMEPOSEY.DAM 
+-r-xr-xr-x   1    0    0        640 Aug 18 2007 [ 162464 00] JERSEYNAMEPOWE.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 162480 00] JERSEYNAMEPOWELL.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 162496 00] JERSEYNAMEPRICE.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 162512 00] JERSEYNAMEPRINCE.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 162528 00] JERSEYNAMEPROFIT.DAM 
+-r-xr-xr-x   1    0    0        960 Aug 18 2007 [ 162544 00] JERSEYNAMEPRZYBILLA.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 162560 00] JERSEYNAMEQUINN.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 162576 00] JERSEYNAMERAMOS.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 162592 00] JERSEYNAMERANDOLPH.DAM 
+-r-xr-xr-x   1    0    0        576 Aug 18 2007 [ 162608 00] JERSEYNAMERAY.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 162624 00] JERSEYNAMEREBRACA.DAM 
+-r-xr-xr-x   1    0    0        640 Aug 18 2007 [ 162640 00] JERSEYNAMEREDD.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 162656 00] JERSEYNAMEREDICK.DAM 
+-r-xr-xr-x   1    0    0        640 Aug 18 2007 [ 162672 00] JERSEYNAMEREED.DAM 
+-r-xr-xr-x   1    0    0       1024 Aug 18 2007 [ 162688 00] JERSEYNAMERICHARDSON.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 162704 00] JERSEYNAMERIDNOUR.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 162720 00] JERSEYNAMEROBERSON.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 162736 00] JERSEYNAMEROBERTS.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 162752 00] JERSEYNAMEROBINSON.DAM 
+-r-xr-xr-x   1    0    0        960 Aug 18 2007 [ 162768 00] JERSEYNAMERODRIGUEZ.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 162784 00] JERSEYNAMEROGERS.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 162800 00] JERSEYNAMERONDO.DAM 
+-r-xr-xr-x   1    0    0        640 Aug 18 2007 [ 162816 00] JERSEYNAMEROSE.DAM 
+-r-xr-xr-x   1    0    0        640 Aug 18 2007 [ 162832 00] JERSEYNAMEROSS.DAM 
+-r-xr-xr-x   1    0    0        576 Aug 18 2007 [ 162848 00] JERSEYNAMEROY.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 162864 00] JERSEYNAMERUFFIN.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 162880 00] JERSEYNAMERUSSELL.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 162896 00] JERSEYNAMESALMONS.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 162912 00] JERSEYNAMESAMPSON.DAM 
+-r-xr-xr-x   1    0    0       1024 Aug 18 2007 [ 162928 00] JERSEYNAMESCALABRINE.DAM 
+-r-xr-xr-x   1    0    0       1024 Aug 18 2007 [ 162944 00] JERSEYNAMESCHENSCHER.DAM 
+-r-xr-xr-x   1    0    0        960 Aug 18 2007 [ 162960 00] JERSEYNAMESEFOLOSHA.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 162976 00] JERSEYNAMESEUNGJIN.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 162992 00] JERSEYNAMESIMIEN.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 163008 00] JERSEYNAMESIMMONS.DAM 
+-r-xr-xr-x   1    0    0        960 Aug 18 2007 [ 163024 00] JERSEYNAMESINGLETON.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 163040 00] JERSEYNAMESKINNER.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 163056 00] JERSEYNAMESLOKAR.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 163072 00] JERSEYNAMESMITH.DAM 
+-r-xr-xr-x   1    0    0        640 Aug 18 2007 [ 163088 00] JERSEYNAMESNOW.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 163104 00] JERSEYNAMESONGAILA.DAM 
+-r-xr-xr-x   1    0    0        960 Aug 18 2007 [ 163120 00] JERSEYNAMESPANOULIS.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 163136 00] JERSEYNAMESPREWELL.DAM 
+-r-xr-xr-x   1    0    0       1024 Aug 18 2007 [ 163152 00] JERSEYNAMESTACKHOUSE.DAM 
+-r-xr-xr-x   1    0    0        960 Aug 18 2007 [ 163168 00] JERSEYNAMESTEVENSON.DAM 
+-r-xr-xr-x   1    0    0       1024 Aug 18 2007 [ 163184 00] JERSEYNAMESTOJAKOVIC.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 163200 00] JERSEYNAMESTOREY.DAM 
+-r-xr-xr-x   1    0    0       1024 Aug 18 2007 [ 163216 00] JERSEYNAMESTOUDAMIRE.DAM 
+-r-xr-xr-x   1    0    0       1024 Aug 18 2007 [ 163232 00] JERSEYNAMESTOUDEMIRE.DAM 
+-r-xr-xr-x   1    0    0       1024 Aug 18 2007 [ 163248 00] JERSEYNAMESTRICKLAND.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 163264 00] JERSEYNAMESTUCKEY.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 163280 00] JERSEYNAMESUNDOV.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 163296 00] JERSEYNAMESWEETNEY.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 163312 00] JERSEYNAMESWIFT.DAM 
+-r-xr-xr-x   1    0    0       1024 Aug 18 2007 [ 163328 00] JERSEYNAMESZCZERBIAK.DAM 
+-r-xr-xr-x   1    0    0        640 Aug 18 2007 [ 163344 00] JERSEYNAMETAFT.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 163360 00] JERSEYNAMETAYLOR.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 163376 00] JERSEYNAMETELFAIR.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 163392 00] JERSEYNAMETERRY.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 163408 00] JERSEYNAMETHOMAS.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 163424 00] JERSEYNAMETHORNTON.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 163440 00] JERSEYNAMETINSLEY.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 163456 00] JERSEYNAMETRAYLOR.DAM 
+-r-xr-xr-x   1    0    0       1024 Aug 18 2007 [ 163472 00] JERSEYNAMETSAKALIDIS.DAM 
+-r-xr-xr-x   1    0    0       1088 Aug 18 2007 [ 163488 00] JERSEYNAMETSKITISHVILI.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 163504 00] JERSEYNAMETUCKER.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 163520 00] JERSEYNAMETURIAF.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 163536 00] JERSEYNAMETURKOGLU.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 163552 00] JERSEYNAMEUDOKA.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 163568 00] JERSEYNAMEUDRIH.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 163584 00] JERSEYNAMEUNSELD.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 163600 00] JERSEYNAMEVANHORN.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 163616 00] JERSEYNAMEVAREJAO.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 163632 00] JERSEYNAMEVAUGHN.DAM 
+-r-xr-xr-x   1    0    0       1024 Aug 18 2007 [ 163648 00] JERSEYNAMEVILLANUEVA.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 163664 00] JERSEYNAMEVROMAN.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 163680 00] JERSEYNAMEVUJACIC.DAM 
+-r-xr-xr-x   1    0    0        640 Aug 18 2007 [ 163696 00] JERSEYNAMEWADE.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 163712 00] JERSEYNAMEWALKER.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 163728 00] JERSEYNAMEWALLACE.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 163744 00] JERSEYNAMEWALSH.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 163760 00] JERSEYNAMEWALTON.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 163776 00] JERSEYNAMEWARRICK.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 163792 00] JERSEYNAMEWATSON.DAM 
+-r-xr-xr-x   1    0    0       1088 Aug 18 2007 [ 163808 00] JERSEYNAMEWEATHERSPOON.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 163824 00] JERSEYNAMEWEBBER.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 163840 00] JERSEYNAMEWEBSTER.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 163856 00] JERSEYNAMEWELLS.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 163872 00] JERSEYNAMEWESLEY.DAM 
+-r-xr-xr-x   1    0    0        640 Aug 18 2007 [ 163888 00] JERSEYNAMEWEST.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 163904 00] JERSEYNAMEWHALEY.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 163920 00] JERSEYNAMEWHITE.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 163936 00] JERSEYNAMEWILCOX.DAM 
+-r-xr-xr-x   1    0    0        832 Aug 18 2007 [ 163952 00] JERSEYNAMEWILKINS.DAM 
+-r-xr-xr-x   1    0    0        896 Aug 18 2007 [ 163968 00] JERSEYNAMEWILLIAMS.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 163984 00] JERSEYNAMEWOODS.DAM 
+-r-xr-xr-x   1    0    0        768 Aug 18 2007 [ 164000 00] JERSEYNAMEWRIGHT.DAM 
+-r-xr-xr-x   1    0    0        576 Aug 18 2007 [ 164016 00] JERSEYNAMEYAO.DAM 
+-r-xr-xr-x   1    0    0        704 Aug 18 2007 [ 164032 00] JERSEYNAMEYOUNG.DAM 
+-r-xr-xr-x   1    0    0       3136 Aug 18 2007 [ 164048 00] JERSEYNUMBER0.DAM 
+-r-xr-xr-x   1    0    0       3136 Aug 18 2007 [ 164064 00] JERSEYNUMBER1.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164080 00] JERSEYNUMBER10.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164096 00] JERSEYNUMBER100.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164112 00] JERSEYNUMBER11.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164128 00] JERSEYNUMBER12.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164144 00] JERSEYNUMBER13.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164160 00] JERSEYNUMBER14.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164176 00] JERSEYNUMBER15.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164192 00] JERSEYNUMBER16.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164208 00] JERSEYNUMBER17.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164224 00] JERSEYNUMBER18.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164240 00] JERSEYNUMBER19.DAM 
+-r-xr-xr-x   1    0    0       3136 Aug 18 2007 [ 164256 00] JERSEYNUMBER2.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164272 00] JERSEYNUMBER20.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164288 00] JERSEYNUMBER21.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164304 00] JERSEYNUMBER22.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164320 00] JERSEYNUMBER23.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164336 00] JERSEYNUMBER24.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164352 00] JERSEYNUMBER25.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164368 00] JERSEYNUMBER26.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164384 00] JERSEYNUMBER27.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164400 00] JERSEYNUMBER28.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164416 00] JERSEYNUMBER29.DAM 
+-r-xr-xr-x   1    0    0       3136 Aug 18 2007 [ 164432 00] JERSEYNUMBER3.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164448 00] JERSEYNUMBER30.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164464 00] JERSEYNUMBER31.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164480 00] JERSEYNUMBER32.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164496 00] JERSEYNUMBER33.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164512 00] JERSEYNUMBER34.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164528 00] JERSEYNUMBER35.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164544 00] JERSEYNUMBER36.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164560 00] JERSEYNUMBER37.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164576 00] JERSEYNUMBER38.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164592 00] JERSEYNUMBER39.DAM 
+-r-xr-xr-x   1    0    0       3136 Aug 18 2007 [ 164608 00] JERSEYNUMBER4.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164624 00] JERSEYNUMBER40.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164640 00] JERSEYNUMBER41.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164656 00] JERSEYNUMBER42.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164672 00] JERSEYNUMBER43.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164688 00] JERSEYNUMBER44.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164704 00] JERSEYNUMBER45.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164720 00] JERSEYNUMBER46.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164736 00] JERSEYNUMBER47.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164752 00] JERSEYNUMBER48.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164768 00] JERSEYNUMBER49.DAM 
+-r-xr-xr-x   1    0    0       3136 Aug 18 2007 [ 164784 00] JERSEYNUMBER5.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164800 00] JERSEYNUMBER50.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164816 00] JERSEYNUMBER51.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164832 00] JERSEYNUMBER52.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164848 00] JERSEYNUMBER53.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164864 00] JERSEYNUMBER54.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164880 00] JERSEYNUMBER55.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164896 00] JERSEYNUMBER56.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164912 00] JERSEYNUMBER57.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164928 00] JERSEYNUMBER58.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164944 00] JERSEYNUMBER59.DAM 
+-r-xr-xr-x   1    0    0       3136 Aug 18 2007 [ 164960 00] JERSEYNUMBER6.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164976 00] JERSEYNUMBER60.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 164992 00] JERSEYNUMBER61.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 165008 00] JERSEYNUMBER62.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 165024 00] JERSEYNUMBER63.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 165040 00] JERSEYNUMBER64.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 165056 00] JERSEYNUMBER65.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 165072 00] JERSEYNUMBER66.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 165088 00] JERSEYNUMBER67.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 165104 00] JERSEYNUMBER68.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 165120 00] JERSEYNUMBER69.DAM 
+-r-xr-xr-x   1    0    0       3136 Aug 18 2007 [ 165136 00] JERSEYNUMBER7.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 165152 00] JERSEYNUMBER70.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 165168 00] JERSEYNUMBER71.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 165184 00] JERSEYNUMBER72.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 165200 00] JERSEYNUMBER73.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 165216 00] JERSEYNUMBER74.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 165232 00] JERSEYNUMBER75.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 165248 00] JERSEYNUMBER76.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 165264 00] JERSEYNUMBER77.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 165280 00] JERSEYNUMBER78.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 165296 00] JERSEYNUMBER79.DAM 
+-r-xr-xr-x   1    0    0       3136 Aug 18 2007 [ 165312 00] JERSEYNUMBER8.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 165328 00] JERSEYNUMBER80.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 165344 00] JERSEYNUMBER81.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 165360 00] JERSEYNUMBER82.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 165376 00] JERSEYNUMBER83.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 165392 00] JERSEYNUMBER84.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 165408 00] JERSEYNUMBER85.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 165424 00] JERSEYNUMBER86.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 165440 00] JERSEYNUMBER87.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 165456 00] JERSEYNUMBER88.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 165472 00] JERSEYNUMBER89.DAM 
+-r-xr-xr-x   1    0    0       3136 Aug 18 2007 [ 165488 00] JERSEYNUMBER9.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 165504 00] JERSEYNUMBER90.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 165520 00] JERSEYNUMBER91.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 165536 00] JERSEYNUMBER92.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 165552 00] JERSEYNUMBER93.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 165568 00] JERSEYNUMBER94.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 165584 00] JERSEYNUMBER95.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 165600 00] JERSEYNUMBER96.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 165616 00] JERSEYNUMBER97.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 165632 00] JERSEYNUMBER98.DAM 
+-r-xr-xr-x   1    0    0       5824 Aug 18 2007 [ 165648 00] JERSEYNUMBER99.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 165664 00] JERSEYS_ATL57_.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 165728 00] JERSEYS_ATL71_.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 165792 00] JERSEYS_ATL86_.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 165856 00] JERSEYS_ATL_ALT_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 165920 00] JERSEYS_ATL_AWAY_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 165984 00] JERSEYS_ATL_HOME_.DAM 
+-r-xr-xr-x   1    0    0      90624 Aug 18 2007 [ 166048 00] JERSEYS_ATL_WARM.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 166096 00] JERSEYS_BOS65_.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 166160 00] JERSEYS_BOS_ALT_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 166224 00] JERSEYS_BOS_AWAY_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 166288 00] JERSEYS_BOS_HOME_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 166352 00] JERSEYS_BOS_STPATS_.DAM 
+-r-xr-xr-x   1    0    0      90624 Aug 18 2007 [ 166416 00] JERSEYS_BOS_WARM.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 166464 00] JERSEYS_CHA_ALT_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 166528 00] JERSEYS_CHA_AWAY_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 166592 00] JERSEYS_CHA_HOME_.DAM 
+-r-xr-xr-x   1    0    0      90624 Aug 18 2007 [ 166656 00] JERSEYS_CHA_WARM.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 166704 00] JERSEYS_CHI84_.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 166768 00] JERSEYS_CHI_ALT_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 166832 00] JERSEYS_CHI_AWAY_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 166896 00] JERSEYS_CHI_HOME_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 166960 00] JERSEYS_CHI_STPATS_.DAM 
+-r-xr-xr-x   1    0    0      90624 Aug 18 2007 [ 167024 00] JERSEYS_CHI_WARM.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 167072 00] JERSEYS_CLE75_.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 167136 00] JERSEYS_CLE86_.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 167200 00] JERSEYS_CLE94_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 167264 00] JERSEYS_CLE_AWAY_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 167328 00] JERSEYS_CLE_HOME_.DAM 
+-r-xr-xr-x   1    0    0      90624 Aug 18 2007 [ 167392 00] JERSEYS_CLE_WARM.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 167440 00] JERSEYS_DAL83_.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 167504 00] JERSEYS_DAL_ALT_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 167568 00] JERSEYS_DAL_AWAY_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 167632 00] JERSEYS_DAL_HOME_.DAM 
+-r-xr-xr-x   1    0    0      90624 Aug 18 2007 [ 167696 00] JERSEYS_DAL_WARM.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 167744 00] JERSEYS_DEN75_.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 167808 00] JERSEYS_DEN84_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 167872 00] JERSEYS_DEN_AWAY_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 167936 00] JERSEYS_DEN_HOME_.DAM 
+-r-xr-xr-x   1    0    0      90624 Aug 18 2007 [ 168000 00] JERSEYS_DEN_WARM.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 168048 00] JERSEYS_DET66_.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 168112 00] JERSEYS_DET78_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 168176 00] JERSEYS_DET_AWAY_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 168240 00] JERSEYS_DET_HOME_.DAM 
+-r-xr-xr-x   1    0    0      90624 Aug 18 2007 [ 168304 00] JERSEYS_DET_WARM.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 168352 00] JERSEYS_EAS_AWAY_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 168416 00] JERSEYS_EAS_HOME_.DAM 
+-r-xr-xr-x   1    0    0      90624 Aug 18 2007 [ 168480 00] JERSEYS_EAS_WARM.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 168528 00] JERSEYS_GSW66_.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 168592 00] JERSEYS_GSW77_.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 168656 00] JERSEYS_GSW_ALT_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 168720 00] JERSEYS_GSW_AWAY_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 168784 00] JERSEYS_GSW_HOME_.DAM 
+-r-xr-xr-x   1    0    0      90624 Aug 18 2007 [ 168848 00] JERSEYS_GSW_WARM.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 168896 00] JERSEYS_HOU05_.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 168960 00] JERSEYS_HOU68_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 169024 00] JERSEYS_HOU_AWAY_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 169088 00] JERSEYS_HOU_HOME_.DAM 
+-r-xr-xr-x   1    0    0      90624 Aug 18 2007 [ 169152 00] JERSEYS_HOU_WARM.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 169200 00] JERSEYS_IND70_.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 169264 00] JERSEYS_IND87_.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 169328 00] JERSEYS_IND_ALT_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 169392 00] JERSEYS_IND_AWAY_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 169456 00] JERSEYS_IND_HOME_.DAM 
+-r-xr-xr-x   1    0    0      90624 Aug 18 2007 [ 169520 00] JERSEYS_IND_WARM.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 169568 00] JERSEYS_LAC74_.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 169632 00] JERSEYS_LAC79_.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 169696 00] JERSEYS_LAC_ALT_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 169760 00] JERSEYS_LAC_AWAY_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 169824 00] JERSEYS_LAC_HOME_.DAM 
+-r-xr-xr-x   1    0    0      90624 Aug 18 2007 [ 169888 00] JERSEYS_LAC_WARM.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 169936 00] JERSEYS_LAL58_.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 170000 00] JERSEYS_LAL61_.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 170064 00] JERSEYS_LAL79_.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 170128 00] JERSEYS_LAL_ALT_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 170192 00] JERSEYS_LAL_AWAY_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 170256 00] JERSEYS_LAL_HOME_.DAM 
+-r-xr-xr-x   1    0    0      90624 Aug 18 2007 [ 170320 00] JERSEYS_LAL_WARM.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 170368 00] JERSEYS_MEM99_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 170432 00] JERSEYS_MEM_AWAY_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 170496 00] JERSEYS_MEM_HOME_.DAM 
+-r-xr-xr-x   1    0    0      90624 Aug 18 2007 [ 170560 00] JERSEYS_MEM_WARM.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 170608 00] JERSEYS_MIA88_.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 170672 00] JERSEYS_MIA_ALT_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 170736 00] JERSEYS_MIA_AWAY_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 170800 00] JERSEYS_MIA_HOME_.DAM 
+-r-xr-xr-x   1    0    0      90624 Aug 18 2007 [ 170864 00] JERSEYS_MIA_WARM.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 170912 00] JERSEYS_MIL69_.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 170976 00] JERSEYS_MIL84_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 171040 00] JERSEYS_MIL_AWAY_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 171104 00] JERSEYS_MIL_HOME_.DAM 
+-r-xr-xr-x   1    0    0      90624 Aug 18 2007 [ 171168 00] JERSEYS_MIL_WARM.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 171216 00] JERSEYS_MIN90_.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 171280 00] JERSEYS_MIN_ALT_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 171344 00] JERSEYS_MIN_AWAY_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 171408 00] JERSEYS_MIN_HOME_.DAM 
+-r-xr-xr-x   1    0    0      90624 Aug 18 2007 [ 171472 00] JERSEYS_MIN_WARM.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 171520 00] JERSEYS_NJN75_.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 171584 00] JERSEYS_NJN_ALT_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 171648 00] JERSEYS_NJN_AWAY_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 171712 00] JERSEYS_NJN_HOME_.DAM 
+-r-xr-xr-x   1    0    0      90624 Aug 18 2007 [ 171776 00] JERSEYS_NJN_WARM.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 171824 00] JERSEYS_NOH89_.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 171888 00] JERSEYS_NOH_ALT_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 171952 00] JERSEYS_NOH_AWAY_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 172016 00] JERSEYS_NOH_HOME_.DAM 
+-r-xr-xr-x   1    0    0      90624 Aug 18 2007 [ 172080 00] JERSEYS_NOH_WARM.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 172128 00] JERSEYS_NYK79_.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 172192 00] JERSEYS_NYK86_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 172256 00] JERSEYS_NYK_AWAY_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 172320 00] JERSEYS_NYK_HOME_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 172384 00] JERSEYS_NYK_STPATS_.DAM 
+-r-xr-xr-x   1    0    0      90624 Aug 18 2007 [ 172448 00] JERSEYS_NYK_WARM.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 172496 00] JERSEYS_ORL95_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 172560 00] JERSEYS_ORL_AWAY_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 172624 00] JERSEYS_ORL_HOME_.DAM 
+-r-xr-xr-x   1    0    0      90624 Aug 18 2007 [ 172688 00] JERSEYS_ORL_WARM.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 172736 00] JERSEYS_PHI55_.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 172800 00] JERSEYS_PHI65_.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 172864 00] JERSEYS_PHI76_.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 172928 00] JERSEYS_PHI84_.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 172992 00] JERSEYS_PHI_ALT_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 173056 00] JERSEYS_PHI_AWAY_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 173120 00] JERSEYS_PHI_HOME_.DAM 
+-r-xr-xr-x   1    0    0      90624 Aug 18 2007 [ 173184 00] JERSEYS_PHI_WARM.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 173232 00] JERSEYS_PHO95_.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 173296 00] JERSEYS_PHO_ALT_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 173360 00] JERSEYS_PHO_AWAY_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 173424 00] JERSEYS_PHO_HOME_.DAM 
+-r-xr-xr-x   1    0    0      90624 Aug 18 2007 [ 173488 00] JERSEYS_PHO_WARM.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 173536 00] JERSEYS_POR05_.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 173600 00] JERSEYS_POR76_.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 173664 00] JERSEYS_POR_ALT_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 173728 00] JERSEYS_POR_AWAY_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 173792 00] JERSEYS_POR_HOME_.DAM 
+-r-xr-xr-x   1    0    0      90624 Aug 18 2007 [ 173856 00] JERSEYS_POR_WARM.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 173904 00] JERSEYS_PUG_ALT_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 173968 00] JERSEYS_PUG_AWAY_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 174032 00] JERSEYS_PUG_HOME_.DAM 
+-r-xr-xr-x   1    0    0      90624 Aug 18 2007 [ 174096 00] JERSEYS_PUG_WARM.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 174144 00] JERSEYS_SAC64_.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 174208 00] JERSEYS_SAC71_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 174272 00] JERSEYS_SAC_AWAY_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 174336 00] JERSEYS_SAC_HOME_.DAM 
+-r-xr-xr-x   1    0    0      90624 Aug 18 2007 [ 174400 00] JERSEYS_SAC_WARM.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 174448 00] JERSEYS_SAS79_.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 174512 00] JERSEYS_SAS83_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 174576 00] JERSEYS_SAS_AWAY_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 174640 00] JERSEYS_SAS_HOME_.DAM 
+-r-xr-xr-x   1    0    0      90624 Aug 18 2007 [ 174704 00] JERSEYS_SAS_WARM.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 174752 00] JERSEYS_SEA05_.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 174816 00] JERSEYS_SEA99_.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 174880 00] JERSEYS_SEA_ALT_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 174944 00] JERSEYS_SEA_AWAY_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 175008 00] JERSEYS_SEA_HOME_.DAM 
+-r-xr-xr-x   1    0    0      90624 Aug 18 2007 [ 175072 00] JERSEYS_SEA_WARM.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 175120 00] JERSEYS_TOR95_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 175184 00] JERSEYS_TOR_AWAY_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 175248 00] JERSEYS_TOR_HOME_.DAM 
+-r-xr-xr-x   1    0    0      90624 Aug 18 2007 [ 175312 00] JERSEYS_TOR_WARM.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 175360 00] JERSEYS_UTA77_.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 175424 00] JERSEYS_UTA98_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 175488 00] JERSEYS_UTH_AWAY_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 175552 00] JERSEYS_UTH_HOME_.DAM 
+-r-xr-xr-x   1    0    0      90624 Aug 18 2007 [ 175616 00] JERSEYS_UTH_WARM.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 175664 00] JERSEYS_WAS05_.DAM 
+-r-xr-xr-x   1    0    0     103040 Aug 18 2007 [ 175728 00] JERSEYS_WAS77_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 175792 00] JERSEYS_WAS_AWAY_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 175856 00] JERSEYS_WAS_HOME_.DAM 
+-r-xr-xr-x   1    0    0      90624 Aug 18 2007 [ 175920 00] JERSEYS_WAS_WARM.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 175968 00] JERSEYS_WES_AWAY_.DAM 
+-r-xr-xr-x   1    0    0     103104 Aug 18 2007 [ 176032 00] JERSEYS_WES_HOME_.DAM 
+-r-xr-xr-x   1    0    0      90624 Aug 18 2007 [ 176096 00] JERSEYS_WES_WARM.DAM 
+-r-xr-xr-x   1    0    0       6656 Aug 18 2007 [ 176144 00] JOHNSONALEXANDER.DAM 
+-r-xr-xr-x   1    0    0      64768 Aug 18 2007 [ 176160 00] JOHNSONANTHONY.DAM 
+-r-xr-xr-x   1    0    0      67392 Aug 18 2007 [ 176192 00] JOHNSONERVIN.DAM 
+-r-xr-xr-x   1    0    0      64704 Aug 18 2007 [ 176240 00] JOHNSONJOE.DAM 
+-r-xr-xr-x   1    0    0      67456 Aug 18 2007 [ 176272 00] JOHNSONLINTON.DAM 
+-r-xr-xr-x   1    0    0      67392 Aug 18 2007 [ 176320 00] JOHNSONMAGIC.DAM 
+-r-xr-xr-x   1    0    0      67264 Aug 18 2007 [ 176368 00] JONESBOBBY.DAM 
+-r-xr-xr-x   1    0    0      82944 Aug 18 2007 [ 176416 00] JONESDAMON.DAM 
+-r-xr-xr-x   1    0    0      64576 Aug 18 2007 [ 176464 00] JONESEDDIE.DAM 
+-r-xr-xr-x   1    0    0      64576 Aug 22 2007 [ 176496 00] JONESFRED.DAM 
+-r-xr-xr-x   1    0    0      79872 Aug 18 2007 [ 176528 00] JONESJAMES.DAM 
+-r-xr-xr-x   1    0    0      67264 Aug 18 2007 [ 176576 00] JONESJUMAINE.DAM 
+-r-xr-xr-x   1    0    0      67264 Aug 18 2007 [ 176624 00] KAMANCHRIS.DAM 
+-r-xr-xr-x   1    0    0      73024 Aug 18 2007 [ 176672 00] KAPONOJASON.DAM 
+-r-xr-xr-x   1    0    0      64512 Aug 18 2007 [ 176720 00] KIDDJASON.DAM 
+-r-xr-xr-x   1    0    0      64384 Aug 18 2007 [ 176752 00] KIDTHE.DAM 
+-r-xr-xr-x   1    0    0      64704 Aug 18 2007 [ 176784 00] KINSEYTARENCE.DAM 
+-r-xr-xr-x   1    0    0      70848 Aug 18 2007 [ 176816 00] KIRILENKOANDREI.DAM 
+-r-xr-xr-x   1    0    0      67328 Aug 18 2007 [ 176864 00] KLEIZALINAS.DAM 
+-r-xr-xr-x   1    0    0      67328 Aug 18 2007 [ 176912 00] KNIGHTBREVIN.DAM 
+-r-xr-xr-x   1    0    0      64768 Aug 30 2007 [ 176960 00] KOROLEVYAROSLAV.DAM 
+-r-xr-xr-x   1    0    0      74176 Aug 18 2007 [ 176992 00] KORVERKYLE.DAM 
+-r-xr-xr-x   1    0    0      67328 Aug 18 2007 [ 177040 00] KRSTICNENAD.DAM 
+-r-xr-xr-x   1    0    0      67264 Aug 18 2007 [ 177088 00] LAMPEMACIEJ.DAM 
+-r-xr-xr-x   1    0    0       3776 Aug 18 2007 [ 177136 00] LASTFIRST.DAM 
+-r-xr-xr-x   1    0    0       3712 Aug 18 2007 [ 177152 00] LAWACIE.DAM 
+-r-xr-xr-x   1    0    0      67072 Aug 18 2007 [ 177168 00] LEEDAVID.DAM 
+-r-xr-xr-x   1    0    0      77248 Aug 18 2007 [ 177216 00] LENARDVOSHON.DAM 
+-r-xr-xr-x   1    0    0      89792 Aug 18 2007 [ 177264 00] LEWISRASHARD.DAM 
+-r-xr-xr-x   1    0    0      64960 Aug 18 2007 [ 177312 00] LIVINGSTONRANDY.DAM 
+-r-xr-xr-x   1    0    0      67648 Aug 18 2007 [ 177344 00] LIVINGSTONSHAUN.DAM 
+-r-xr-xr-x   1    0    0      64576 Aug 18 2007 [ 177392 00] LOPEZRAUL.DAM 
+-r-xr-xr-x   1    0    0      64576 Aug 18 2007 [ 177424 00] LOWRYKYLE.DAM 
+-r-xr-xr-x   1    0    0       6720 Aug 18 2007 [ 177456 00] LUCASIIIJOHN.DAM 
+-r-xr-xr-x   1    0    0      69952 Aug 18 2007 [ 177472 00] LUETYRONN.DAM 
+-r-xr-xr-x   1    0    0      77184 Aug 18 2007 [ 177520 00] LYNCHGEORGE.DAM 
+-r-xr-xr-x   1    0    0       4160 Aug 18 2007 [ 177568 00] MACIJAUSKASARVYDAS.DAM 
+-r-xr-xr-x   1    0    0      67328 Aug 18 2007 [ 177584 00] MADSENMARK.DAM 
+-r-xr-xr-x   1    0    0      83136 Aug 18 2007 [ 177632 00] MAGGETTECOREY.DAM 
+-r-xr-xr-x   1    0    0      67520 Aug 18 2007 [ 177680 00] MAGLOIREJAMAAL.DAM 
+-r-xr-xr-x   1    0    0      64576 Aug 18 2007 [ 177728 00] MAJORRENALDO.DAM 
+-r-xr-xr-x   1    0    0      67328 Aug 18 2007 [ 177760 00] MALONEKARL.DAM 
+-r-xr-xr-x   1    0    0      67392 Aug 18 2007 [ 177808 00] MANNINGDANNY.DAM 
+-r-xr-xr-x   1    0    0      64768 Aug 18 2007 [ 177856 00] MARAVICHPETE.DAM 
+-r-xr-xr-x   1    0    0      92928 Aug 18 2007 [ 177888 00] MARBURYSTEPHON.DAM 
+-r-xr-xr-x   1    0    0      67328 Aug 18 2007 [ 177936 00] MARIONSHAWN.DAM 
+-r-xr-xr-x   1    0    0      64576 Aug 18 2007 [ 177984 00] MARKSSEAN.DAM 
+-r-xr-xr-x   1    0    0      92672 Aug 18 2007 [ 178016 00] MARSHALLDONYELL.DAM 
+-r-xr-xr-x   1    0    0       4032 Aug 18 2007 [ 178064 00] MARSHALLRAWLE.DAM 
+-r-xr-xr-x   1    0    0      64704 Aug 18 2007 [ 178080 00] MARTINDARRICK.DAM 
+-r-xr-xr-x   1    0    0      92864 Aug 18 2007 [ 178112 00] MARTINKENYON.DAM 
+-r-xr-xr-x   1    0    0      67328 Aug 18 2007 [ 178160 00] MARTINKEVIN.DAM 
+-r-xr-xr-x   1    0    0      79872 Aug 18 2007 [ 178208 00] MASONDESMOND.DAM 
+-r-xr-xr-x   1    0    0      67648 Aug 18 2007 [ 178256 00] MASSENBURGTONY.DAM 
+-r-xr-xr-x   1    0    0      67392 Aug 18 2007 [ 178304 00] MAXIELLJASON.DAM 
+-r-xr-xr-x   1    0    0      67072 Aug 18 2007 [ 178352 00] MAYSEAN.DAM 
+-r-xr-xr-x   1    0    0      64768 Aug 18 2007 [ 178400 00] MCCANTSRASHAD.DAM 
+-r-xr-xr-x   1    0    0      64768 Aug 18 2007 [ 178432 00] MCCARTYWALTER.DAM 
+-r-xr-xr-x   1    0    0      64640 Aug 18 2007 [ 178464 00] MCCRAYCHRIS.DAM 
+-r-xr-xr-x   1    0    0      67456 Aug 18 2007 [ 178496 00] MCDYESSANTONIO.DAM 
+-r-xr-xr-x   1    0    0      64768 Aug 18 2007 [ 178544 00] MCFARLINIVAN.DAM 
+-r-xr-xr-x   1    0    0      89920 Aug 18 2007 [ 178576 00] MCGRADYTRACY.DAM 
+-r-xr-xr-x   1    0    0      92928 Aug 18 2007 [ 178624 00] MCINNISJEFF.DAM 
+-r-xr-xr-x   1    0    0      64576 Aug 18 2007 [ 178672 00] MCKIEAARON.DAM 
+-r-xr-xr-x   1    0    0      92480 Aug 18 2007 [ 178704 00] MCLEODKEITH.DAM 
+-r-xr-xr-x   1    0    0      67648 Aug 18 2007 [ 178752 00] MEDVEDENKOSLAVA.DAM 
+-r-xr-xr-x   1    0    0      67264 Aug 18 2007 [ 178800 00] MIKANGEORGE.DAM 
+-r-xr-xr-x   1    0    0      67200 Aug 18 2007 [ 178848 00] MILESCJ.DAM 
+-r-xr-xr-x   1    0    0      71872 Aug 18 2007 [ 178896 00] MILICICDARKO.DAM 
+-r-xr-xr-x   1    0    0      64640 Aug 18 2007 [ 178944 00] MILLERANDRE.DAM 
+-r-xr-xr-x   1    0    0      83008 Aug 18 2007 [ 178976 00] MILLERBRAD.DAM 
+-r-xr-xr-x   1    0    0      67328 Aug 18 2007 [ 179024 00] MILLERMIKE.DAM 
+-r-xr-xr-x   1    0    0      67392 Aug 18 2007 [ 179072 00] MILLSAPPAUL.DAM 
+-r-xr-xr-x   1    0    0      64704 Aug 18 2007 [ 179120 00] MOBLEYCUTTINO.DAM 
+-r-xr-xr-x   1    0    0      67456 Aug 18 2007 [ 179152 00] MOHAMMEDNAZR.DAM 
+-r-xr-xr-x   1    0    0       6528 Aug 18 2007 [ 179200 00] MONIASERGEI.DAM 
+-r-xr-xr-x   1    0    0      67264 Aug 18 2007 [ 179216 00] MOOREMIKKI.DAM 
+-r-xr-xr-x   1    0    0      73280 Aug 18 2007 [ 179264 00] MORRISONADAM.DAM 
+-r-xr-xr-x   1    0    0      67520 Aug 18 2007 [ 179312 00] MOURNINGALONZO.DAM 
+-r-xr-xr-x   1    0    0      71040 Aug 18 2007 [ 179360 00] MURPHYTROY.DAM 
+-r-xr-xr-x   1    0    0      67328 Aug 18 2007 [ 179408 00] MURRAYLAMOND.DAM 
+-r-xr-xr-x   1    0    0      64640 Aug 18 2007 [ 179456 00] MURRAYRONALD.DAM 
+-r-xr-xr-x   1    0    0      67456 Aug 18 2007 [ 179488 00] MUTOMBODIKEMBE.DAM 
+-r-xr-xr-x   1    0    0      64768 Aug 18 2007 [ 179536 00] NACHBARBOSTJAN.DAM 
+-r-xr-xr-x   1    0    0      95552 Aug 18 2007 [ 179568 00] NAILONLEE.DAM 
+-r-xr-xr-x   1    0    0      71296 Aug 18 2007 [ 179616 00] NAJERAEDUARDO.DAM 
+-r-xr-xr-x   1    0    0      67200 Aug 18 2007 [ 179664 00] NASHSTEVE.DAM 
+-r-xr-xr-x   1    0    0      67392 Aug 18 2007 [ 179712 00] NDIAYEMAMADOU.DAM 
+-r-xr-xr-x   1    0    0      67328 Aug 18 2007 [ 179760 00] NDONGBONIFACE.DAM 
+-r-xr-xr-x   1    0    0      92544 Aug 18 2007 [ 179808 00] NELSONJAMEER.DAM 
+-r-xr-xr-x   1    0    0      67136 Aug 18 2007 [ 179856 00] NENE.DAM 
+-r-xr-xr-x   1    0    0      67648 Aug 18 2007 [ 179904 00] NESTEROVICRASHO.DAM 
+-r-xr-xr-x   1    0    0      95552 Aug 18 2007 [ 179952 00] NEWBLEIRA.DAM 
+-r-xr-xr-x   1    0    0      72512 Aug 18 2007 [ 180000 00] NOAHJOAKIM.DAM 
+-r-xr-xr-x   1    0    0      64768 Aug 18 2007 [ 180048 00] NOCIONIANDRES.DAM 
+-r-xr-xr-x   1    0    0      67200 Aug 18 2007 [ 180080 00] NOELDAVID.DAM 
+-r-xr-xr-x   1    0    0      67392 Aug 18 2007 [ 180128 00] NORRISMOOCHIE.DAM 
+-r-xr-xr-x   1    0    0      73088 Aug 18 2007 [ 180176 00] NOWITZKIDIRK.DAM 
+-r-xr-xr-x   1    0    0      70464 Aug 18 2007 [ 180224 00] OBERTOFABRICIO.DAM 
+-r-xr-xr-x   1    0    0       6464 Aug 18 2007 [ 180272 00] ODENGREG.DAM 
+-r-xr-xr-x   1    0    0      67584 Aug 18 2007 [ 180288 00] ODOMLAMAR.DAM 
+-r-xr-xr-x   1    0    0      67328 Aug 18 2007 [ 180336 00] OKAFOREMEKA.DAM 
+-r-xr-xr-x   1    0    0      71104 Aug 18 2007 [ 180384 00] OKURMEHMET.DAM 
+-r-xr-xr-x   1    0    0      67520 Aug 18 2007 [ 180432 00] OLAJUWONHAKEEM.DAM 
+-r-xr-xr-x   1    0    0      71552 Aug 18 2007 [ 180480 00] OLOWOKANDIMICHAEL.DAM 
+-r-xr-xr-x   1    0    0      97728 Aug 18 2007 [ 180528 00] ONEALJERMAINE.DAM 
+-r-xr-xr-x   1    0    0      92480 Aug 18 2007 [ 180576 00] ONEALSHAQUILLE.DAM 
+-r-xr-xr-x   1    0    0      67264 Aug 18 2007 [ 180624 00] OUTLAWBO.DAM 
+-r-xr-xr-x   1    0    0      67328 Aug 18 2007 [ 180672 00] OUTLAWTRAVIS.DAM 
+-r-xr-xr-x   1    0    0      67264 Aug 18 2007 [ 180720 00] OWENSANDRE.DAM 
+-r-xr-xr-x   1    0    0      72384 Aug 18 2007 [ 180768 00] PACHULIAZAZA.DAM 
+-r-xr-xr-x   1    0    0      67392 Aug 18 2007 [ 180816 00] PADGETTSCOTT.DAM 
+-r-xr-xr-x   1    0    0      64704 Aug 18 2007 [ 180864 00] PALACIOMILT.DAM 
+-r-xr-xr-x   1    0    0      64576 Aug 18 2007 [ 180896 00] PARGOJANNERO.DAM 
+-r-xr-xr-x   1    0    0      67392 Aug 18 2007 [ 180928 00] PARKERANTHONY.DAM 
+-r-xr-xr-x   1    0    0      70400 Aug 18 2007 [ 180976 00] PARKERSMUSH.DAM 
+-r-xr-xr-x   1    0    0      64640 Aug 18 2007 [ 181024 00] PARKERTONY.DAM 
+-r-xr-xr-x   1    0    0      67584 Aug 18 2007 [ 181056 00] PATTERSONRUBEN.DAM 
+-r-xr-xr-x   1    0    0      64512 Aug 18 2007 [ 181104 00] PAULCHRIS.DAM 
+-r-xr-xr-x   1    0    0      64832 Aug 18 2007 [ 181136 00] PAVLOVICALEKSANDAR.DAM 
+-r-xr-xr-x   1    0    0      67328 Aug 18 2007 [ 181168 00] PAYTONGARY.DAM 
+-r-xr-xr-x   1    0    0      67456 Aug 18 2007 [ 181216 00] PERKINSKENDRICK.DAM 
+-r-xr-xr-x   1    0    0      64832 Aug 18 2007 [ 181264 00] PETERSONMORRIS.DAM 
+-r-xr-xr-x   1    0    0      67264 Aug 18 2007 [ 181296 00] PETROJOHAN.DAM 
+-r-xr-xr-x   1    0    0      67648 Aug 18 2007 [ 181344 00] PIATKOWSKIERIC.DAM 
+-r-xr-xr-x   1    0    0      70400 Aug 18 2007 [ 181392 00] PIERCEPAUL.DAM 
+-r-xr-xr-x   1    0    0      64768 Aug 18 2007 [ 181440 00] PIETRUSMICKAEL.DAM 
+-r-xr-xr-x   1    0    0      64768 Aug 18 2007 [ 181472 00] PINKNEYKEVINN.DAM 
+-r-xr-xr-x   1    0    0      72000 Aug 18 2007 [ 181504 00] PLANINICZORAN.DAM 
+-r-xr-xr-x   1    0    0     464576 Aug 18 2007 [ 181552 00] PLAYERGENERIC.DAM 
+-r-xr-xr-x   1    0    0      67584 Aug 18 2007 [ 181792 00] PODKOLZINPAVEL.DAM 
+-r-xr-xr-x   1    0    0      70976 Aug 22 2007 [ 181840 00] POLLARDSCOT.DAM 
+-r-xr-xr-x   1    0    0      82944 Aug 18 2007 [ 181888 00] POSEYJAMES.DAM 
+-r-xr-xr-x   1    0    0      64448 Aug 18 2007 [ 181936 00] POWELEON.DAM 
+-r-xr-xr-x   1    0    0      67328 Aug 18 2007 [ 181968 00] POWELLJOSH.DAM 
+-r-xr-xr-x   1    0    0      64576 Aug 18 2007 [ 182016 00] PRICERONNIE.DAM 
+-r-xr-xr-x   1    0    0      67392 Aug 18 2007 [ 182048 00] PRINCETAYSHAUN.DAM 
+-r-xr-xr-x   1    0    0      67328 Aug 18 2007 [ 182096 00] PROFITLARON.DAM 
+-r-xr-xr-x   1    0    0      92736 Aug 18 2007 [ 182144 00] PRZYBILLAJOEL.DAM 
+-r-xr-xr-x   1    0    0      64576 Aug 18 2007 [ 182192 00] QUINNCHRIS.DAM 
+-r-xr-xr-x   1    0    0      67264 Aug 18 2007 [ 182224 00] RAMOSPETER.DAM 
+-r-xr-xr-x   1    0    0      67520 Aug 18 2007 [ 182272 00] RANDOLPHSHAVLIK.DAM 
+-r-xr-xr-x   1    0    0      70528 Aug 18 2007 [ 182320 00] RANDOLPHZACH.DAM 
+-r-xr-xr-x   1    0    0       6400 Aug 18 2007 [ 182368 00] RAYALLAN.DAM 
+-r-xr-xr-x   1    0    0      71808 Aug 18 2007 [ 182384 00] REBRACAZELJKO.DAM 
+-r-xr-xr-x   1    0    0      67200 Aug 18 2007 [ 182432 00] REDDMICHAEL.DAM 
+-r-xr-xr-x   1    0    0       3904 Aug 22 2007 [ 182480 00] REDICKJJ.DAM 
+-r-xr-xr-x   1    0    0      64512 Aug 18 2007 [ 182496 00] REEDJUSTIN.DAM 
+-r-xr-xr-x   1    0    0      67200 Aug 18 2007 [ 182528 00] REEDWILLIS.DAM 
+-r-xr-xr-x   1    0    0      67648 Aug 18 2007 [ 182576 00] RICHARDSONJASON.DAM 
+-r-xr-xr-x   1    0    0      64960 Aug 18 2007 [ 182624 00] RICHARDSONJEREMY.DAM 
+-r-xr-xr-x   1    0    0      95872 Aug 18 2007 [ 182656 00] RICHARDSONQUENTIN.DAM 
+-r-xr-xr-x   1    0    0      64704 Aug 18 2007 [ 182704 00] RIDNOURLUKE.DAM 
+-r-xr-xr-x   1    0    0      64832 Aug 18 2007 [ 182736 00] ROBERSONANTHONY.DAM 
+-r-xr-xr-x   1    0    0      67456 Aug 18 2007 [ 182768 00] ROBERTSLAWRENCE.DAM 
+-r-xr-xr-x   1    0    0      67520 Aug 18 2007 [ 182816 00] ROBINSONBERNARD.DAM 
+-r-xr-xr-x   1    0    0      95744 Aug 18 2007 [ 182864 00] ROBINSONCLIFFORD.DAM 
+-r-xr-xr-x   1    0    0      67520 Aug 18 2007 [ 182912 00] ROBINSONDAVID.DAM 
+-r-xr-xr-x   1    0    0      64768 Aug 18 2007 [ 182960 00] ROBINSONNATE.DAM 
+-r-xr-xr-x   1    0    0      67584 Aug 18 2007 [ 182992 00] RODRIGUEZSERGIO.DAM 
+-r-xr-xr-x   1    0    0      67328 Aug 18 2007 [ 183040 00] ROGERSRODNEY.DAM 
+-r-xr-xr-x   1    0    0      64576 Aug 18 2007 [ 183088 00] RONDORAJON.DAM 
+-r-xr-xr-x   1    0    0      92736 Aug 18 2007 [ 183120 00] ROSEJALEN.DAM 
+-r-xr-xr-x   1    0    0      67200 Aug 18 2007 [ 183168 00] ROSEMALIK.DAM 
+-r-xr-xr-x   1    0    0      67200 Aug 18 2007 [ 183216 00] ROSSQUINTON.DAM 
+-r-xr-xr-x   1    0    0      67520 Aug 18 2007 [ 183264 00] ROYBRANDON.DAM 
+-r-xr-xr-x   1    0    0      67392 Aug 18 2007 [ 183312 00] RUFFINMICHAEL.DAM 
+-r-xr-xr-x   1    0    0      64704 Aug 18 2007 [ 183360 00] RUSSELLBILL.DAM 
+-r-xr-xr-x   1    0    0      83072 Aug 18 2007 [ 183392 00] SALMONSJOHN.DAM 
+-r-xr-xr-x   1    0    0      64704 Aug 18 2007 [ 183440 00] SAMPSONJAMAL.DAM 
+-r-xr-xr-x   1    0    0      67648 Aug 18 2007 [ 183472 00] SCALABRINEBRIAN.DAM 
+-r-xr-xr-x   1    0    0      73152 Aug 18 2007 [ 183520 00] SCHENSCHERLUKE.DAM 
+-r-xr-xr-x   1    0    0      64896 Aug 18 2007 [ 183568 00] SEFOLOSHATHABO.DAM 
+-r-xr-xr-x   1    0    0      67456 Aug 18 2007 [ 183600 00] SEUNGJINHA.DAM 
+-r-xr-xr-x   1    0    0      67328 Aug 18 2007 [ 183648 00] SIMIENWAYNE.DAM 
+-r-xr-xr-x   1    0    0      92608 Aug 18 2007 [ 183696 00] SIMMONSBOBBY.DAM 
+-r-xr-xr-x   1    0    0      67456 Aug 18 2007 [ 183744 00] SIMMONSCEDRIC.DAM 
+-r-xr-xr-x   1    0    0      67584 Aug 18 2007 [ 183792 00] SINGLETONJAMES.DAM 
+-r-xr-xr-x   1    0    0      67392 Aug 18 2007 [ 183840 00] SKINNERBRIAN.DAM 
+-r-xr-xr-x   1    0    0      64640 Aug 18 2007 [ 183888 00] SLOKARUROS.DAM 
+-r-xr-xr-x   1    0    0       3840 Aug 18 2007 [ 183920 00] SMITHCHARLES.DAM 
+-r-xr-xr-x   1    0    0       6528 Aug 18 2007 [ 183936 00] SMITHCRAIG.DAM 
+-r-xr-xr-x   1    0    0      64576 Aug 18 2007 [ 183952 00] SMITHDONTA.DAM 
+-r-xr-xr-x   1    0    0      67264 Aug 18 2007 [ 183984 00] SMITHJABARI.DAM 
+-r-xr-xr-x   1    0    0       6528 Aug 18 2007 [ 184032 00] SMITHJASON.DAM 
+-r-xr-xr-x   1    0    0      92352 Aug 30 2007 [ 184048 00] SMITHJOE.DAM 
+-r-xr-xr-x   1    0    0      92800 Aug 18 2007 [ 184096 00] SMITHJOSH.DAM 
+-r-xr-xr-x   1    0    0      67584 Aug 18 2007 [ 184144 00] SMITHJR.DAM 
+-r-xr-xr-x   1    0    0       3840 Aug 18 2007 [ 184192 00] SMITHSTEVEN.DAM 
+-r-xr-xr-x   1    0    0      64576 Aug 18 2007 [ 184208 00] SMITHTHERON.DAM 
+-r-xr-xr-x   1    0    0      67136 Aug 18 2007 [ 184240 00] SNOWERIC.DAM 
+-r-xr-xr-x   1    0    0      68160 Aug 22 2007 [ 184288 00] SONGAILADARIUS.DAM 
+-r-xr-xr-x   1    0    0      64896 Aug 18 2007 [ 184336 00] SPANOULISVASSILIS.DAM 
+-r-xr-xr-x   1    0    0      72384 Aug 18 2007 [ 184368 00] SPREWELLLATRELL.DAM 
+-r-xr-xr-x   1    0    0      92800 Aug 18 2007 [ 184416 00] STACKHOUSEJERRY.DAM 
+-r-xr-xr-x   1    0    0      64896 Aug 18 2007 [ 184464 00] STEVENSONDESHAWN.DAM 
+-r-xr-xr-x   1    0    0      67648 Aug 18 2007 [ 184496 00] STOJAKOVICPEJA.DAM 
+-r-xr-xr-x   1    0    0      67328 Aug 18 2007 [ 184544 00] STOREYAWVEE.DAM 
+-r-xr-xr-x   1    0    0      95872 Aug 18 2007 [ 184592 00] STOUDAMIREDAMON.DAM 
+-r-xr-xr-x   1    0    0      67648 Aug 18 2007 [ 184640 00] STOUDAMIRESALIM.DAM 
+-r-xr-xr-x   1    0    0      67968 Aug 18 2007 [ 184688 00] STOUDEMIREAMARE.DAM 
+-r-xr-xr-x   1    0    0      67648 Aug 18 2007 [ 184736 00] STRICKLANDERICK.DAM 
+-r-xr-xr-x   1    0    0       3968 Aug 18 2007 [ 184784 00] STUCKEYRODNEY.DAM 
+-r-xr-xr-x   1    0    0      67328 Aug 18 2007 [ 184800 00] SUNDOVBRUNO.DAM 
+-r-xr-xr-x   1    0    0       6720 Aug 18 2007 [ 184848 00] SWEETNEYMICHAEL.DAM 
+-r-xr-xr-x   1    0    0      92800 Aug 18 2007 [ 184864 00] SWIFTSTROMILE.DAM 
+-r-xr-xr-x   1    0    0      72576 Aug 18 2007 [ 184912 00] SZCZERBIAKWALLY.DAM 
+-r-xr-xr-x   1    0    0       6464 Aug 18 2007 [ 184960 00] TAFTCHRIS.DAM 
+-r-xr-xr-x   1    0    0      67328 Aug 18 2007 [ 184976 00] TAYLORDONELL.DAM 
+-r-xr-xr-x   1    0    0      92544 Aug 18 2007 [ 185024 00] TAYLORMAURICE.DAM 
+-r-xr-xr-x   1    0    0      64768 Aug 18 2007 [ 185072 00] TELFAIRSEBASTIAN.DAM 
+-r-xr-xr-x   1    0    0      95488 Aug 18 2007 [ 185104 00] TERRYJASON.DAM 
+-r-xr-xr-x   1    0    0      67328 Aug 18 2007 [ 185152 00] THOMASBILLY.DAM 
+-r-xr-xr-x   1    0    0      67328 Aug 18 2007 [ 185200 00] THOMASETAN.DAM 
+-r-xr-xr-x   1    0    0      67328 Aug 18 2007 [ 185248 00] THOMASISIAH.DAM 
+-r-xr-xr-x   1    0    0      67328 Aug 18 2007 [ 185296 00] THOMASJOHN.DAM 
+-r-xr-xr-x   1    0    0      64640 Aug 18 2007 [ 185344 00] THOMASKENNY.DAM 
+-r-xr-xr-x   1    0    0      67328 Aug 18 2007 [ 185376 00] THOMASKURT.DAM 
+-r-xr-xr-x   1    0    0      67712 Aug 18 2007 [ 185424 00] THOMASTIM.DAM 
+-r-xr-xr-x   1    0    0      67328 Aug 18 2007 [ 185472 00] THOMASTYRUS.DAM 
+-r-xr-xr-x   1    0    0       6720 Aug 18 2007 [ 185520 00] THORNTONAL.DAM 
+-r-xr-xr-x   1    0    0      70464 Aug 18 2007 [ 185536 00] TINSLEYJAMAAL.DAM 
+-r-xr-xr-x   1    0    0      67456 Aug 18 2007 [ 185584 00] TRAYLORROBERT.DAM 
+-r-xr-xr-x   1    0    0      67648 Aug 18 2007 [ 185632 00] TSAKALIDISJAKE.DAM 
+-r-xr-xr-x   1    0    0      72832 Aug 18 2007 [ 185680 00] TSKITISHVILINIKOLOZ.DAM 
+-r-xr-xr-x   1    0    0       3904 Aug 18 2007 [ 185728 00] TUCKERPJ.DAM 
+-r-xr-xr-x   1    0    0      67328 Aug 18 2007 [ 185744 00] TURIAFRONNY.DAM 
+-r-xr-xr-x   1    0    0      72384 Aug 18 2007 [ 185792 00] TURKOGLUHEDO.DAM 
+-r-xr-xr-x   1    0    0      64512 Aug 18 2007 [ 185840 00] UDOKAIME.DAM 
+-r-xr-xr-x   1    0    0      67264 Aug 18 2007 [ 185872 00] UDRIHBENO.DAM 
+-r-xr-xr-x   1    0    0      71872 Aug 18 2007 [ 185920 00] UNSELDWES.DAM 
+-r-xr-xr-x   1    0    0      69504 Aug 18 2007 [ 185968 00] VANHORNKEITH.DAM 
+-r-xr-xr-x   1    0    0      72960 Aug 18 2007 [ 186016 00] VAREJAOANDERSON.DAM 
+-r-xr-xr-x   1    0    0      67328 Aug 18 2007 [ 186064 00] VAUGHNJACQUE.DAM 
+-r-xr-xr-x   1    0    0      67648 Aug 18 2007 [ 186112 00] VILLANUEVACHARLIE.DAM 
+-r-xr-xr-x   1    0    0      64704 Aug 18 2007 [ 186160 00] VROMANJACKSON.DAM 
+-r-xr-xr-x   1    0    0      71232 Aug 18 2007 [ 186192 00] VUJACICSASHA.DAM 
+-r-xr-xr-x   1    0    0      64512 Aug 18 2007 [ 186240 00] WADEDWYANE.DAM 
+-r-xr-xr-x   1    0    0      77248 Aug 18 2007 [ 186272 00] WALKERANTOINE.DAM 
+-r-xr-xr-x   1    0    0      98816 Aug 18 2007 [ 186320 00] WALLACEBEN.DAM 
+-r-xr-xr-x   1    0    0      64768 Aug 22 2007 [ 186384 00] WALLACEBRANDON.DAM 
+-r-xr-xr-x   1    0    0      92928 Aug 18 2007 [ 186416 00] WALLACEGERALD.DAM 
+-r-xr-xr-x   1    0    0      95680 Aug 18 2007 [ 186464 00] WALLACERASHEED.DAM 
+-r-xr-xr-x   1    0    0       6528 Aug 18 2007 [ 186512 00] WALSHMATT.DAM 
+-r-xr-xr-x   1    0    0      71488 Aug 18 2007 [ 186528 00] WALTONBILL.DAM 
+-r-xr-xr-x   1    0    0      68800 Aug 18 2007 [ 186576 00] WALTONLUKE.DAM 
+-r-xr-xr-x   1    0    0      67392 Aug 18 2007 [ 186624 00] WARRICKHAKIM.DAM 
+-r-xr-xr-x   1    0    0      67328 Aug 18 2007 [ 186672 00] WATSONEARL.DAM 
+-r-xr-xr-x   1    0    0      67712 Aug 18 2007 [ 186720 00] WEATHERSPOONCLARENCE.DAM 
+-r-xr-xr-x   1    0    0      70400 Aug 18 2007 [ 186768 00] WEBBERCHRIS.DAM 
+-r-xr-xr-x   1    0    0      64768 Aug 18 2007 [ 186816 00] WEBSTERMARTELL.DAM 
+-r-xr-xr-x   1    0    0      80256 Aug 18 2007 [ 186848 00] WELLSBONZI.DAM 
+-r-xr-xr-x   1    0    0      64640 Aug 18 2007 [ 186896 00] WESLEYDAVID.DAM 
+-r-xr-xr-x   1    0    0      79808 Aug 18 2007 [ 186928 00] WESTDAVID.DAM 
+-r-xr-xr-x   1    0    0      67200 Aug 18 2007 [ 186976 00] WESTDELONTE.DAM 
+-r-xr-xr-x   1    0    0      67328 Aug 18 2007 [ 187024 00] WHALEYROBERT.DAM 
+-r-xr-xr-x   1    0    0      67264 Aug 18 2007 [ 187072 00] WHITEJAHIDI.DAM 
+-r-xr-xr-x   1    0    0       6528 Aug 18 2007 [ 187120 00] WHITEJAMES.DAM 
+-r-xr-xr-x   1    0    0      97920 Aug 18 2007 [ 187136 00] WILCOXCHRIS.DAM 
+-r-xr-xr-x   1    0    0      67456 Aug 22 2007 [ 187184 00] WILKINSDAMIEN.DAM 
+-r-xr-xr-x   1    0    0      67456 Aug 18 2007 [ 187232 00] WILKINSDOMINIQUE.DAM 
+-r-xr-xr-x   1    0    0      67520 Aug 18 2007 [ 187280 00] WILLIAMSAARON.DAM 
+-r-xr-xr-x   1    0    0      67520 Aug 18 2007 [ 187328 00] WILLIAMSALVIN.DAM 
+-r-xr-xr-x   1    0    0      64832 Aug 18 2007 [ 187376 00] WILLIAMSDERON.DAM 
+-r-xr-xr-x   1    0    0      92672 Aug 18 2007 [ 187408 00] WILLIAMSERIC.DAM 
+-r-xr-xr-x   1    0    0      67520 Aug 18 2007 [ 187456 00] WILLIAMSFRANK.DAM 
+-r-xr-xr-x   1    0    0      96832 Aug 18 2007 [ 187504 00] WILLIAMSJASON.DAM 
+-r-xr-xr-x   1    0    0       6720 Aug 18 2007 [ 187552 00] WILLIAMSJUSTIN.DAM 
+-r-xr-xr-x   1    0    0      67520 Aug 18 2007 [ 187568 00] WILLIAMSLOUIS.DAM 
+-r-xr-xr-x   1    0    0      67840 Aug 18 2007 [ 187616 00] WILLIAMSMARCUS.DAM 
+-r-xr-xr-x   1    0    0      67520 Aug 18 2007 [ 187664 00] WILLIAMSMARVIN.DAM 
+-r-xr-xr-x   1    0    0      92672 Aug 18 2007 [ 187712 00] WILLIAMSMAURICE.DAM 
+-r-xr-xr-x   1    0    0       4032 Aug 18 2007 [ 187760 00] WILLIAMSSEAN.DAM 
+-r-xr-xr-x   1    0    0       4032 Aug 18 2007 [ 187776 00] WILLIAMSSHAMMOND.DAM 
+-r-xr-xr-x   1    0    0      67520 Aug 18 2007 [ 187792 00] WILLIAMSSHELDEN.DAM 
+-r-xr-xr-x   1    0    0      67264 Aug 18 2007 [ 187840 00] WOODSLOREN.DAM 
+-r-xr-xr-x   1    0    0      69760 Aug 18 2007 [ 187888 00] WOODSQYNTEL.DAM 
+-r-xr-xr-x   1    0    0      67392 Aug 18 2007 [ 187936 00] WRIGHTANTOINE.DAM 
+-r-xr-xr-x   1    0    0       6592 Aug 18 2007 [ 187984 00] WRIGHTBRANDAN.DAM 
+-r-xr-xr-x   1    0    0      64640 Aug 18 2007 [ 188000 00] WRIGHTDORELL.DAM 
+-r-xr-xr-x   1    0    0      92544 Aug 18 2007 [ 188032 00] WRIGHTLORENZEN.DAM 
+-r-xr-xr-x   1    0    0      70976 Aug 18 2007 [ 188080 00] YAOMING.DAM 
+-r-xr-xr-x   1    0    0       6528 Aug 18 2007 [ 188128 00] YOUNGNICK.DAM 
+-r-xr-xr-x   1    0    0       6528 Aug 18 2007 [ 188144 00] YOUNGTHADDEUS.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/TRAIN2008/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     84 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     29 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    162 02] ATL 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    163 02] BOS 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    164 02] CHA 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    165 02] CHI 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    166 02] CLE 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    167 02] DAL 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    168 02] DEN 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    169 02] DET 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    170 02] GSW 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    171 02] HOU 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    172 02] IND 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    173 02] LAC 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    174 02] LAL 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    175 02] MEM 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    176 02] MIA 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    177 02] MIL 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    178 02] MIN 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    179 02] NJN 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    180 02] NOH 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    181 02] NYK 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    182 02] ORL 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    183 02] PHI 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    184 02] PHO 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    185 02] POR 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    186 02] SAC 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    187 02] SAS 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    188 02] SEA 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    189 02] TOR 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    190 02] UTH 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    191 02] WAS 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/FE/CONQUEST/
+dr-xr-xr-x   1    0    0       4096 Sep  5 2007 [     85 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep  5 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0     204416 Aug 18 2007 [ 199344 00] CONQUESTCUTS.DAM 
+-r-xr-xr-x   1    0    0     993280 Aug 18 2007 [ 199456 00] CONQUESTMAP.DAM 
+-r-xr-xr-x   1    0    0        630 Aug 18 2007 [ 199952 00] CONQUEST_COORDINATES.TXT 
+-r-xr-xr-x   1    0    0      68992 Aug 18 2007 [ 199968 00] HISTORIC_ABDULJABBAR_KAREEM.DAM 
+-r-xr-xr-x   1    0    0      68992 Aug 18 2007 [ 200016 00] HISTORIC_ARCHIBALD_TINY.DAM 
+-r-xr-xr-x   1    0    0      68928 Aug 18 2007 [ 200064 00] HISTORIC_BARRY_RICK.DAM 
+-r-xr-xr-x   1    0    0      68992 Aug 18 2007 [ 200112 00] HISTORIC_BAYLOR_ELGIN.DAM 
+-r-xr-xr-x   1    0    0      68928 Aug 18 2007 [ 200160 00] HISTORIC_BIRD_LARRY.DAM 
+-r-xr-xr-x   1    0    0      68992 Aug 18 2007 [ 200208 00] HISTORIC_CHAMBERLAIN_WILT.DAM 
+-r-xr-xr-x   1    0    0      68992 Aug 18 2007 [ 200256 00] HISTORIC_CHAMBERS_TOM.DAM 
+-r-xr-xr-x   1    0    0      68992 Aug 18 2007 [ 200304 00] HISTORIC_DEBUSSCHERE_DAVE.DAM 
+-r-xr-xr-x   1    0    0      68992 Aug 18 2007 [ 200352 00] HISTORIC_DREXLER_CLYDE.DAM 
+-r-xr-xr-x   1    0    0      68992 Aug 18 2007 [ 200400 00] HISTORIC_ENGLISH_ALEX.DAM 
+-r-xr-xr-x   1    0    0      68992 Aug 18 2007 [ 200448 00] HISTORIC_ERVING_JULIUS.DAM 
+-r-xr-xr-x   1    0    0      68992 Aug 18 2007 [ 200496 00] HISTORIC_EWING_PATRICK.DAM 
+-r-xr-xr-x   1    0    0      68992 Aug 18 2007 [ 200544 00] HISTORIC_FRAZIER_WALT.DAM 
+-r-xr-xr-x   1    0    0      68992 Aug 18 2007 [ 200592 00] HISTORIC_HAVLICEK_JOHN.DAM 
+-r-xr-xr-x   1    0    0      68992 Aug 18 2007 [ 200640 00] HISTORIC_JOHNSON_MAGIC.DAM 
+-r-xr-xr-x   1    0    0      68992 Aug 18 2007 [ 200688 00] HISTORIC_MALONE_KARL.DAM 
+-r-xr-xr-x   1    0    0      68992 Aug 18 2007 [ 200736 00] HISTORIC_MANNING_DANNY.DAM 
+-r-xr-xr-x   1    0    0      68992 Aug 18 2007 [ 200784 00] HISTORIC_MARAVICH_PETE.DAM 
+-r-xr-xr-x   1    0    0      68992 Aug 18 2007 [ 200832 00] HISTORIC_MIKAN_GEORGE.DAM 
+-r-xr-xr-x   1    0    0      68992 Aug 18 2007 [ 200880 00] HISTORIC_OLAJUWON_HAKEEM.DAM 
+-r-xr-xr-x   1    0    0      68992 Aug 18 2007 [ 200928 00] HISTORIC_REED_WILLIS.DAM 
+-r-xr-xr-x   1    0    0      68992 Aug 18 2007 [ 200976 00] HISTORIC_ROBINSON_DAVID.DAM 
+-r-xr-xr-x   1    0    0      68992 Aug 18 2007 [ 201024 00] HISTORIC_RUSSELL_BILL.DAM 
+-r-xr-xr-x   1    0    0      68992 Aug 18 2007 [ 201072 00] HISTORIC_THOMAS_ISIAH.DAM 
+-r-xr-xr-x   1    0    0      68928 Aug 18 2007 [ 201120 00] HISTORIC_UNSELD_WES.DAM 
+-r-xr-xr-x   1    0    0      68992 Aug 18 2007 [ 201168 00] HISTORIC_WALTON_BILL.DAM 
+-r-xr-xr-x   1    0    0      68992 Aug 18 2007 [ 201216 00] HISTORIC_WILKINS_DOMINIQUE.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/FE/CREDITS/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     87 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep  5 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      16384 Aug 21 2007 [ 201264 00] CREDITS.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/FE/PINBALL/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     88 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep  5 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0     568384 Aug 27 2007 [ 205184 00] PINBALL_02.DAM 
+-r-xr-xr-x   1    0    0         32 Aug 27 2007 [ 205472 00] PINBALL_02.NFO 
+-r-xr-xr-x   1    0    0     866304 Aug 27 2007 [ 205488 00] PINBALL_02_TEX.DAM 
+-r-xr-xr-x   1    0    0     557184 Aug 27 2007 [ 205920 00] PINBALL_03.DAM 
+-r-xr-xr-x   1    0    0         32 Aug 27 2007 [ 206208 00] PINBALL_03.NFO 
+-r-xr-xr-x   1    0    0     575808 Aug 27 2007 [ 206224 00] PINBALL_03_TEX.DAM 
+-r-xr-xr-x   1    0    0     505280 Aug 27 2007 [ 206512 00] PINBALL_04.DAM 
+-r-xr-xr-x   1    0    0         32 Aug 27 2007 [ 206768 00] PINBALL_04.NFO 
+-r-xr-xr-x   1    0    0     633920 Aug 27 2007 [ 206784 00] PINBALL_04_TEX.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/FE/TEAM/
+dr-xr-xr-x   1    0    0      12288 Sep  5 2007 [     89 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep  5 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207120 00] ATL57_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207136 00] ATL71_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207152 00] ATL86_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207168 00] ATL_ALT_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207184 00] ATL_AWAY_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207200 00] ATL_HOME_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207216 00] BOS65_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207232 00] BOS_ALT_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207248 00] BOS_AWAY_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207264 00] BOS_HOME_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207280 00] BOS_STPATS_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207296 00] CHA_ALT_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207312 00] CHA_AWAY_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207328 00] CHA_HOME_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207344 00] CHI84_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207360 00] CHI_ALT_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207376 00] CHI_AWAY_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207392 00] CHI_HOME_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207408 00] CHI_STPATS_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207424 00] CLE75_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207440 00] CLE86_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207456 00] CLE94_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207472 00] CLE_AWAY_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207488 00] CLE_HOME_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207504 00] DAL83_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207520 00] DAL_ALT_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207536 00] DAL_AWAY_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207552 00] DAL_HOME_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207568 00] DEN75_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207584 00] DEN84_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207600 00] DEN_AWAY_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207616 00] DEN_HOME_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207632 00] DET66_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207648 00] DET78_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207664 00] DET_AWAY_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207680 00] DET_HOME_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207696 00] EAS_AWAY_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207712 00] EAS_HOME_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207728 00] GSW66_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207744 00] GSW77_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207760 00] GSW_ALT_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207776 00] GSW_AWAY_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207792 00] GSW_HOME_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207808 00] HOU05_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207824 00] HOU68_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207840 00] HOU_AWAY_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207856 00] HOU_HOME_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207872 00] IND70_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207888 00] IND87_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207904 00] IND_ALT_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207920 00] IND_AWAY_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207936 00] IND_HOME_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207952 00] LAC74_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207968 00] LAC79_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 207984 00] LAC_ALT_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208000 00] LAC_AWAY_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208016 00] LAC_HOME_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208032 00] LAL58_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208048 00] LAL61_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208064 00] LAL79_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208080 00] LAL_ALT_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208096 00] LAL_AWAY_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208112 00] LAL_HOME_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208128 00] MEM99_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208144 00] MEM_AWAY_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208160 00] MEM_HOME_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208176 00] MIA88_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208192 00] MIA_ALT_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208208 00] MIA_AWAY_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208224 00] MIA_HOME_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208240 00] MIL69_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208256 00] MIL84_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208272 00] MIL_AWAY_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208288 00] MIL_HOME_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208304 00] MIN90_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208320 00] MIN_ALT_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208336 00] MIN_AWAY_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208352 00] MIN_HOME_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208368 00] NJN75_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208384 00] NJN_ALT_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208400 00] NJN_AWAY_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208416 00] NJN_HOME_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208432 00] NOH89_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208448 00] NOH_ALT_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208464 00] NOH_AWAY_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208480 00] NOH_HOME_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208496 00] NYK79_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208512 00] NYK86_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208528 00] NYK_AWAY_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208544 00] NYK_HOME_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208560 00] NYK_STPATS_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208576 00] ORL95_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208592 00] ORL_AWAY_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208608 00] ORL_HOME_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208624 00] PHI55_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208640 00] PHI65_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208656 00] PHI76_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208672 00] PHI84_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208688 00] PHI_ALT_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208704 00] PHI_AWAY_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208720 00] PHI_HOME_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208736 00] PHO95_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208752 00] PHO_ALT_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208768 00] PHO_AWAY_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208784 00] PHO_HOME_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208800 00] POR05_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208816 00] POR76_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208832 00] POR_ALT_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208848 00] POR_AWAY_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208864 00] POR_HOME_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208880 00] PUG_ALT_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208896 00] PUG_AWAY_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208912 00] PUG_HOME_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208928 00] SAC64_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208944 00] SAC71_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208960 00] SAC_AWAY_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208976 00] SAC_HOME_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 208992 00] SAS79_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 209008 00] SAS83_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 209024 00] SAS_AWAY_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 209040 00] SAS_HOME_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 209056 00] SEA05_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 209072 00] SEA99_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 209088 00] SEA_ALT_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 209104 00] SEA_AWAY_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 209120 00] SEA_HOME_TEX.DAM 
+-r-xr-xr-x   1    0    0       6848 Aug 18 2007 [ 209136 00] TL_ATL_LOAD.DAM 
+-r-xr-xr-x   1    0    0       6848 Aug 18 2007 [ 209152 00] TL_BOS_LOAD.DAM 
+-r-xr-xr-x   1    0    0       6848 Aug 18 2007 [ 209168 00] TL_CHA_LOAD.DAM 
+-r-xr-xr-x   1    0    0       6848 Aug 18 2007 [ 209184 00] TL_CHI_LOAD.DAM 
+-r-xr-xr-x   1    0    0       6848 Aug 18 2007 [ 209200 00] TL_CLE_LOAD.DAM 
+-r-xr-xr-x   1    0    0       6848 Aug 18 2007 [ 209216 00] TL_DAL_LOAD.DAM 
+-r-xr-xr-x   1    0    0       6848 Aug 18 2007 [ 209232 00] TL_DEN_LOAD.DAM 
+-r-xr-xr-x   1    0    0       6848 Aug 18 2007 [ 209248 00] TL_DET_LOAD.DAM 
+-r-xr-xr-x   1    0    0       6848 Aug 18 2007 [ 209264 00] TL_EAS_LOAD.DAM 
+-r-xr-xr-x   1    0    0       6848 Aug 18 2007 [ 209280 00] TL_FRA_LOAD.DAM 
+-r-xr-xr-x   1    0    0       6848 Aug 18 2007 [ 209296 00] TL_FRB_LOAD.DAM 
+-r-xr-xr-x   1    0    0       6848 Aug 18 2007 [ 209312 00] TL_FRC_LOAD.DAM 
+-r-xr-xr-x   1    0    0       6848 Aug 18 2007 [ 209328 00] TL_FRD_LOAD.DAM 
+-r-xr-xr-x   1    0    0       6848 Aug 18 2007 [ 209344 00] TL_GSW_LOAD.DAM 
+-r-xr-xr-x   1    0    0       6848 Aug 18 2007 [ 209360 00] TL_HOU_LOAD.DAM 
+-r-xr-xr-x   1    0    0       6848 Aug 18 2007 [ 209376 00] TL_IND_LOAD.DAM 
+-r-xr-xr-x   1    0    0       6848 Aug 18 2007 [ 209392 00] TL_LAC_LOAD.DAM 
+-r-xr-xr-x   1    0    0       6848 Aug 18 2007 [ 209408 00] TL_LAL_LOAD.DAM 
+-r-xr-xr-x   1    0    0       6848 Aug 18 2007 [ 209424 00] TL_MEM_LOAD.DAM 
+-r-xr-xr-x   1    0    0       6848 Aug 18 2007 [ 209440 00] TL_MIA_LOAD.DAM 
+-r-xr-xr-x   1    0    0       6848 Aug 18 2007 [ 209456 00] TL_MIL_LOAD.DAM 
+-r-xr-xr-x   1    0    0       6848 Aug 18 2007 [ 209472 00] TL_MIN_LOAD.DAM 
+-r-xr-xr-x   1    0    0       6848 Aug 18 2007 [ 209488 00] TL_NBALOGO_LOAD.DAM 
+-r-xr-xr-x   1    0    0       6848 Aug 18 2007 [ 209504 00] TL_NJN_LOAD.DAM 
+-r-xr-xr-x   1    0    0       6848 Aug 18 2007 [ 209520 00] TL_NOH_LOAD.DAM 
+-r-xr-xr-x   1    0    0       6848 Aug 18 2007 [ 209536 00] TL_NYK_LOAD.DAM 
+-r-xr-xr-x   1    0    0       6848 Aug 18 2007 [ 209552 00] TL_ORL_LOAD.DAM 
+-r-xr-xr-x   1    0    0       6848 Aug 18 2007 [ 209568 00] TL_PHI_LOAD.DAM 
+-r-xr-xr-x   1    0    0       6848 Aug 18 2007 [ 209584 00] TL_PHO_LOAD.DAM 
+-r-xr-xr-x   1    0    0       6848 Aug 18 2007 [ 209600 00] TL_POR_LOAD.DAM 
+-r-xr-xr-x   1    0    0       6848 Aug 18 2007 [ 209616 00] TL_PUG_LOAD.DAM 
+-r-xr-xr-x   1    0    0       6848 Aug 18 2007 [ 209632 00] TL_SAC_LOAD.DAM 
+-r-xr-xr-x   1    0    0       6848 Aug 18 2007 [ 209648 00] TL_SAS_LOAD.DAM 
+-r-xr-xr-x   1    0    0       6848 Aug 18 2007 [ 209664 00] TL_SEA_LOAD.DAM 
+-r-xr-xr-x   1    0    0       6848 Aug 18 2007 [ 209680 00] TL_TOR_LOAD.DAM 
+-r-xr-xr-x   1    0    0       6848 Aug 18 2007 [ 209696 00] TL_UTH_LOAD.DAM 
+-r-xr-xr-x   1    0    0       6848 Aug 18 2007 [ 209712 00] TL_WAS_LOAD.DAM 
+-r-xr-xr-x   1    0    0       6848 Aug 18 2007 [ 209728 00] TL_WES_LOAD.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 209744 00] TOR95_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 209760 00] TOR_AWAY_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 209776 00] TOR_HOME_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 209792 00] UTA77_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 209808 00] UTA98_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 209824 00] UTH_AWAY_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 209840 00] UTH_HOME_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 209856 00] WAS05_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 209872 00] WAS77_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 209888 00] WAS_AWAY_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 209904 00] WAS_HOME_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 209920 00] WES_AWAY_TEX.DAM 
+-r-xr-xr-x   1    0    0      14208 Aug 18 2007 [ 209936 00] WES_HOME_TEX.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/Z_AUDIO/BANK/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     95 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     37 02] .. 
+-r-xr-xr-x   1    0    0    1004608 Aug 18 2007 [ 210048 00] BLKASHT.BNK 
+-r-xr-xr-x   1    0    0     719680 Aug 18 2007 [ 210544 00] CONQARENA.BNK 
+-r-xr-xr-x   1    0    0     172968 Aug 18 2007 [ 210896 00] FE_MENU.BNK 
+-r-xr-xr-x   1    0    0       9688 Aug 18 2007 [ 210992 00] NBAPSP07.XFX 
+-r-xr-xr-x   1    0    0     446752 Aug 18 2007 [ 211008 00] PB_COMMON.BNK 
+-r-xr-xr-x   1    0    0     161712 Aug 18 2007 [ 211232 00] PINBALL_00.BNK 
+-r-xr-xr-x   1    0    0     646208 Aug 18 2007 [ 211312 00] PINBALL_02.BNK 
+-r-xr-xr-x   1    0    0     435920 Aug 22 2007 [ 211632 00] PINBALL_03.BNK 
+-r-xr-xr-x   1    0    0     544360 Aug 18 2007 [ 211856 00] PINBALL_04.BNK 
+-r-xr-xr-x   1    0    0     161712 Aug 18 2007 [ 212128 00] PINBALL_05.BNK 
+-r-xr-xr-x   1    0    0     730096 Aug 18 2007 [ 212208 00] POPASHOT.BNK 
+-r-xr-xr-x   1    0    0     536352 Aug 18 2007 [ 212576 00] PSP07C.BNK 
+-r-xr-xr-x   1    0    0     129972 Aug 18 2007 [ 212848 00] PSP07I.BNK 
+-r-xr-xr-x   1    0    0     734868 Aug 18 2007 [ 212912 00] PSP07IC.BNK 
+-r-xr-xr-x   1    0    0      21760 Aug 18 2007 [ 213280 00] PSP07IGM.BNK 
+-r-xr-xr-x   1    0    0     176108 Aug 18 2007 [ 213296 00] PSP07IPU.BNK 
+-r-xr-xr-x   1    0    0      62260 Aug 18 2007 [ 213392 00] PSP07P.BNK 
+-r-xr-xr-x   1    0    0      51668 Aug 18 2007 [ 213424 00] PSP07PC.BNK 
+-r-xr-xr-x   1    0    0      51684 Aug 18 2007 [ 213456 00] PSP07PPU.BNK 
+-r-xr-xr-x   1    0    0      67256 Aug 18 2007 [ 213488 00] PSP07S.BNK 
+-r-xr-xr-x   1    0    0      92560 Aug 18 2007 [ 213536 00] PSP07SC.BNK 
+-r-xr-xr-x   1    0    0      67280 Aug 18 2007 [ 213584 00] PSP07SPU.BNK 
+-r-xr-xr-x   1    0    0    1087456 Aug 18 2007 [ 213632 00] SHTABRK.BNK 
+-r-xr-xr-x   1    0    0     551940 Aug 18 2007 [ 214176 00] SKEEBALL.BNK 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/Z_AUDIO/SKAT/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     96 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     37 02] .. 
+-r-xr-xr-x   1    0    0        256 Aug 18 2007 [ 214448 00] AMBIENCE.CTL 
+-r-xr-xr-x   1    0    0       1216 Aug 23 2007 [ 214464 00] CARNIVAL.CTL 
+-r-xr-xr-x   1    0    0        856 Aug 24 2007 [ 214480 00] MINIGAME.CTL 
+-r-xr-xr-x   1    0    0       2728 Aug 18 2007 [ 214496 00] MUSIC.CTL 
+-r-xr-xr-x   1    0    0      16468 Aug 18 2007 [ 214512 00] PA.CTL 
+-r-xr-xr-x   1    0    0       5088 Aug 18 2007 [ 214528 00] PINBALL.CTL 
+-r-xr-xr-x   1    0    0     182004 Aug 27 2007 [ 214544 00] PXP.CTL 
+-r-xr-xr-x   1    0    0    1848152 Aug 29 2007 [ 214640 00] Z1_CARNIVAL.SKX 
+-r-xr-xr-x   1    0    0    4022496 Aug 18 2007 [ 215552 00] Z2_PINBALL.SKX 
+-r-xr-xr-x   1    0    0    1293000 Aug 24 2007 [ 217520 00] Z3_MINIGAME.SKX 
+-r-xr-xr-x   1    0    0   10061008 Aug 18 2007 [ 218160 00] Z4_AMBIENCE.SKX 
+-r-xr-xr-x   1    0    0  261065640 Aug 18 2007 [ 223088 00] Z5_MUSIC.SKX 
+-r-xr-xr-x   1    0    0   54180112 Aug 18 2007 [ 350576 00] Z6_PA.SKX 
+-r-xr-xr-x   1    0    0  134124064 Aug 24 2007 [ 377040 00] Z8_PXP.SKX 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/ARENA2008/AP1/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     97 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0     107968 Aug 25 2007 [ 128096 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/ARENA2008/AS1/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     98 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0     144576 Aug 25 2007 [ 128304 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/ARENA2008/AST/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     99 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0     486912 Aug 25 2007 [ 128384 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/ARENA2008/ATL/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    100 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0     490368 Aug 25 2007 [ 128624 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/ARENA2008/BOS/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    101 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0     477248 Aug 25 2007 [ 128864 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/ARENA2008/CHA/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    102 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0     513408 Aug 25 2007 [ 129104 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/ARENA2008/CHI/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    103 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0     523712 Aug 25 2007 [ 129360 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/ARENA2008/CLE/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    104 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0     460608 Aug 25 2007 [ 129616 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/ARENA2008/DAL/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    105 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0     538816 Aug 25 2007 [ 129856 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/ARENA2008/DEN/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    106 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0     513792 Aug 25 2007 [ 130128 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/ARENA2008/DET/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    107 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0     531840 Aug 25 2007 [ 130384 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/ARENA2008/DOD/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    108 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0     291584 Aug 25 2007 [ 130656 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/ARENA2008/GSW/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    109 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0     505600 Aug 25 2007 [ 130800 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/ARENA2008/HOU/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    110 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0     559936 Aug 25 2007 [ 131056 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/ARENA2008/IND/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    111 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0     390400 Aug 25 2007 [ 131344 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/ARENA2008/LAC/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    112 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0     477760 Aug 25 2007 [ 131536 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/ARENA2008/LAL/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    113 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0     475648 Aug 25 2007 [ 131776 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/ARENA2008/MEM/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    114 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0     456128 Aug 25 2007 [ 132016 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/ARENA2008/MIA/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    115 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0     520000 Aug 25 2007 [ 132240 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/ARENA2008/MIL/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    116 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0     547200 Aug 25 2007 [ 132496 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/ARENA2008/MIN/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    117 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0     554112 Aug 25 2007 [ 132768 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/ARENA2008/NJN/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    118 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0     499392 Aug 25 2007 [ 133040 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/ARENA2008/NOH/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    119 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0     515008 Aug 25 2007 [ 133296 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/ARENA2008/NYK/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    120 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0     474496 Aug 25 2007 [ 133552 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/ARENA2008/ORL/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    121 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0     471360 Aug 25 2007 [ 133792 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/ARENA2008/OTC/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    122 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0     264128 Aug 25 2007 [ 134032 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/ARENA2008/PHI/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    123 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0     484928 Aug 25 2007 [ 134176 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/ARENA2008/PHO/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    124 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0     526848 Aug 25 2007 [ 134416 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/ARENA2008/POR/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    125 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0     530368 Aug 25 2007 [ 134688 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/ARENA2008/SAC/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    126 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0     493696 Aug 25 2007 [ 134960 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/ARENA2008/SAS/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    127 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0     552576 Aug 25 2007 [ 135216 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/ARENA2008/SEA/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    128 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0     533312 Aug 25 2007 [ 135488 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/ARENA2008/TOR/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    129 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0     501888 Aug 25 2007 [ 135760 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/ARENA2008/UTH/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    130 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0     511424 Aug 25 2007 [ 136016 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/ARENA2008/WAS/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    131 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0     476864 Aug 25 2007 [ 136272 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/OUTDOOR2007/ATL/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    132 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     43 02] .. 
+-r-xr-xr-x   1    0    0     363584 Aug 19 2007 [ 139424 00] OUTDOORARENA.DAM 
+-r-xr-xr-x   1    0    0     125824 Aug 18 2007 [ 139616 00] OUTDOORFLOOR.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/OUTDOOR2007/BOS/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    133 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     43 02] .. 
+-r-xr-xr-x   1    0    0     322560 Aug 19 2007 [ 139680 00] OUTDOORARENA.DAM 
+-r-xr-xr-x   1    0    0     126720 Aug 18 2007 [ 139840 00] OUTDOORFLOOR.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/OUTDOOR2007/CHA/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    134 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     43 02] .. 
+-r-xr-xr-x   1    0    0     363584 Aug 19 2007 [ 139904 00] OUTDOORARENA.DAM 
+-r-xr-xr-x   1    0    0     125824 Aug 18 2007 [ 140096 00] OUTDOORFLOOR.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/OUTDOOR2007/CHI/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    135 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     43 02] .. 
+-r-xr-xr-x   1    0    0     322560 Aug 19 2007 [ 140160 00] OUTDOORARENA.DAM 
+-r-xr-xr-x   1    0    0     126720 Aug 18 2007 [ 140320 00] OUTDOORFLOOR.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/OUTDOOR2007/CLE/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    136 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     43 02] .. 
+-r-xr-xr-x   1    0    0     363584 Aug 19 2007 [ 140384 00] OUTDOORARENA.DAM 
+-r-xr-xr-x   1    0    0     125824 Aug 18 2007 [ 140576 00] OUTDOORFLOOR.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/OUTDOOR2007/DAL/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    137 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     43 02] .. 
+-r-xr-xr-x   1    0    0     322560 Aug 19 2007 [ 140640 00] OUTDOORARENA.DAM 
+-r-xr-xr-x   1    0    0     126720 Aug 18 2007 [ 140800 00] OUTDOORFLOOR.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/OUTDOOR2007/DEN/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    138 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     43 02] .. 
+-r-xr-xr-x   1    0    0     363584 Aug 19 2007 [ 140864 00] OUTDOORARENA.DAM 
+-r-xr-xr-x   1    0    0     125824 Aug 18 2007 [ 141056 00] OUTDOORFLOOR.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/OUTDOOR2007/DET/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    139 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     43 02] .. 
+-r-xr-xr-x   1    0    0     322560 Aug 19 2007 [ 141120 00] OUTDOORARENA.DAM 
+-r-xr-xr-x   1    0    0     126720 Aug 18 2007 [ 141280 00] OUTDOORFLOOR.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/OUTDOOR2007/GSW/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    140 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     43 02] .. 
+-r-xr-xr-x   1    0    0     363584 Aug 19 2007 [ 141344 00] OUTDOORARENA.DAM 
+-r-xr-xr-x   1    0    0     125824 Aug 18 2007 [ 141536 00] OUTDOORFLOOR.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/OUTDOOR2007/HOU/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    141 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     43 02] .. 
+-r-xr-xr-x   1    0    0     322560 Aug 19 2007 [ 141600 00] OUTDOORARENA.DAM 
+-r-xr-xr-x   1    0    0     126720 Aug 18 2007 [ 141760 00] OUTDOORFLOOR.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/OUTDOOR2007/IND/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    142 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     43 02] .. 
+-r-xr-xr-x   1    0    0     363584 Aug 19 2007 [ 141824 00] OUTDOORARENA.DAM 
+-r-xr-xr-x   1    0    0     125824 Aug 18 2007 [ 142016 00] OUTDOORFLOOR.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/OUTDOOR2007/LAC/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    143 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     43 02] .. 
+-r-xr-xr-x   1    0    0     363584 Aug 19 2007 [ 142080 00] OUTDOORARENA.DAM 
+-r-xr-xr-x   1    0    0     125824 Aug 18 2007 [ 142272 00] OUTDOORFLOOR.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/OUTDOOR2007/LAL/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    144 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     43 02] .. 
+-r-xr-xr-x   1    0    0     322560 Aug 19 2007 [ 142336 00] OUTDOORARENA.DAM 
+-r-xr-xr-x   1    0    0     126720 Aug 18 2007 [ 142496 00] OUTDOORFLOOR.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/OUTDOOR2007/MEM/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    145 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     43 02] .. 
+-r-xr-xr-x   1    0    0     363584 Aug 19 2007 [ 142560 00] OUTDOORARENA.DAM 
+-r-xr-xr-x   1    0    0     125824 Aug 18 2007 [ 142752 00] OUTDOORFLOOR.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/OUTDOOR2007/MIA/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    146 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     43 02] .. 
+-r-xr-xr-x   1    0    0     363584 Aug 19 2007 [ 142816 00] OUTDOORARENA.DAM 
+-r-xr-xr-x   1    0    0     125824 Aug 18 2007 [ 143008 00] OUTDOORFLOOR.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/OUTDOOR2007/MIL/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    147 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     43 02] .. 
+-r-xr-xr-x   1    0    0     322560 Aug 19 2007 [ 143072 00] OUTDOORARENA.DAM 
+-r-xr-xr-x   1    0    0     126720 Aug 21 2007 [ 143232 00] OUTDOORFLOOR.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/OUTDOOR2007/MIN/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    148 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     43 02] .. 
+-r-xr-xr-x   1    0    0     322560 Aug 19 2007 [ 143296 00] OUTDOORARENA.DAM 
+-r-xr-xr-x   1    0    0     126720 Aug 18 2007 [ 143456 00] OUTDOORFLOOR.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/OUTDOOR2007/NJN/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    149 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     43 02] .. 
+-r-xr-xr-x   1    0    0     322560 Aug 19 2007 [ 143520 00] OUTDOORARENA.DAM 
+-r-xr-xr-x   1    0    0     126720 Aug 18 2007 [ 143680 00] OUTDOORFLOOR.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/OUTDOOR2007/NOH/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    150 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     43 02] .. 
+-r-xr-xr-x   1    0    0     363584 Aug 19 2007 [ 143744 00] OUTDOORARENA.DAM 
+-r-xr-xr-x   1    0    0     125824 Aug 18 2007 [ 143936 00] OUTDOORFLOOR.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/OUTDOOR2007/NYK/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    151 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     43 02] .. 
+-r-xr-xr-x   1    0    0     322560 Aug 19 2007 [ 144000 00] OUTDOORARENA.DAM 
+-r-xr-xr-x   1    0    0     126720 Aug 18 2007 [ 144160 00] OUTDOORFLOOR.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/OUTDOOR2007/ORL/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    152 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     43 02] .. 
+-r-xr-xr-x   1    0    0     363584 Aug 19 2007 [ 144224 00] OUTDOORARENA.DAM 
+-r-xr-xr-x   1    0    0     125824 Aug 18 2007 [ 144416 00] OUTDOORFLOOR.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/OUTDOOR2007/PHI/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    153 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     43 02] .. 
+-r-xr-xr-x   1    0    0     322560 Aug 19 2007 [ 144480 00] OUTDOORARENA.DAM 
+-r-xr-xr-x   1    0    0     126720 Aug 18 2007 [ 144640 00] OUTDOORFLOOR.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/OUTDOOR2007/PHO/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    154 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     43 02] .. 
+-r-xr-xr-x   1    0    0     363584 Aug 19 2007 [ 144704 00] OUTDOORARENA.DAM 
+-r-xr-xr-x   1    0    0     125824 Aug 18 2007 [ 144896 00] OUTDOORFLOOR.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/OUTDOOR2007/POR/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    155 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     43 02] .. 
+-r-xr-xr-x   1    0    0     363584 Aug 19 2007 [ 144960 00] OUTDOORARENA.DAM 
+-r-xr-xr-x   1    0    0     125824 Aug 18 2007 [ 145152 00] OUTDOORFLOOR.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/OUTDOOR2007/SAC/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    156 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     43 02] .. 
+-r-xr-xr-x   1    0    0     363584 Aug 19 2007 [ 145216 00] OUTDOORARENA.DAM 
+-r-xr-xr-x   1    0    0     125824 Aug 18 2007 [ 145408 00] OUTDOORFLOOR.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/OUTDOOR2007/SAS/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    157 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     43 02] .. 
+-r-xr-xr-x   1    0    0     322560 Aug 19 2007 [ 145472 00] OUTDOORARENA.DAM 
+-r-xr-xr-x   1    0    0     126720 Aug 18 2007 [ 145632 00] OUTDOORFLOOR.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/OUTDOOR2007/SEA/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    158 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     43 02] .. 
+-r-xr-xr-x   1    0    0     322560 Aug 19 2007 [ 145696 00] OUTDOORARENA.DAM 
+-r-xr-xr-x   1    0    0     126720 Aug 18 2007 [ 145856 00] OUTDOORFLOOR.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/OUTDOOR2007/TOR/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    159 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     43 02] .. 
+-r-xr-xr-x   1    0    0     322560 Aug 19 2007 [ 145920 00] OUTDOORARENA.DAM 
+-r-xr-xr-x   1    0    0     126720 Aug 18 2007 [ 146080 00] OUTDOORFLOOR.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/OUTDOOR2007/UTH/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    160 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     43 02] .. 
+-r-xr-xr-x   1    0    0     363584 Aug 19 2007 [ 146144 00] OUTDOORARENA.DAM 
+-r-xr-xr-x   1    0    0     125824 Aug 18 2007 [ 146336 00] OUTDOORFLOOR.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/OUTDOOR2007/WAS/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    161 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     43 02] .. 
+-r-xr-xr-x   1    0    0     322560 Aug 19 2007 [ 146400 00] OUTDOORARENA.DAM 
+-r-xr-xr-x   1    0    0     126720 Aug 18 2007 [ 146560 00] OUTDOORFLOOR.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/TRAIN2008/ATL/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    162 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     84 02] .. 
+-r-xr-xr-x   1    0    0     659008 Aug 25 2007 [ 188160 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/TRAIN2008/BOS/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    163 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     84 02] .. 
+-r-xr-xr-x   1    0    0     659008 Aug 25 2007 [ 188496 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/TRAIN2008/CHA/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    164 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     84 02] .. 
+-r-xr-xr-x   1    0    0     659008 Aug 25 2007 [ 188832 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/TRAIN2008/CHI/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    165 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     84 02] .. 
+-r-xr-xr-x   1    0    0     659008 Aug 25 2007 [ 189168 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/TRAIN2008/CLE/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    166 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     84 02] .. 
+-r-xr-xr-x   1    0    0     659008 Aug 25 2007 [ 189504 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/TRAIN2008/DAL/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    167 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     84 02] .. 
+-r-xr-xr-x   1    0    0     659008 Aug 25 2007 [ 189840 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/TRAIN2008/DEN/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    168 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     84 02] .. 
+-r-xr-xr-x   1    0    0     659008 Aug 25 2007 [ 190176 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/TRAIN2008/DET/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    169 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     84 02] .. 
+-r-xr-xr-x   1    0    0     659008 Aug 25 2007 [ 190512 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/TRAIN2008/GSW/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    170 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     84 02] .. 
+-r-xr-xr-x   1    0    0     659008 Aug 25 2007 [ 190848 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/TRAIN2008/HOU/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    171 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     84 02] .. 
+-r-xr-xr-x   1    0    0     659008 Aug 25 2007 [ 191184 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/TRAIN2008/IND/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    172 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     84 02] .. 
+-r-xr-xr-x   1    0    0     593600 Aug 25 2007 [ 191520 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/TRAIN2008/LAC/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    173 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     84 02] .. 
+-r-xr-xr-x   1    0    0     659008 Aug 25 2007 [ 191824 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/TRAIN2008/LAL/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    174 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     84 02] .. 
+-r-xr-xr-x   1    0    0     659008 Aug 25 2007 [ 192160 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/TRAIN2008/MEM/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    175 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     84 02] .. 
+-r-xr-xr-x   1    0    0     659008 Aug 25 2007 [ 192496 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/TRAIN2008/MIA/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    176 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     84 02] .. 
+-r-xr-xr-x   1    0    0     659008 Aug 25 2007 [ 192832 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/TRAIN2008/MIL/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    177 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     84 02] .. 
+-r-xr-xr-x   1    0    0     659008 Aug 25 2007 [ 193168 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/TRAIN2008/MIN/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    178 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     84 02] .. 
+-r-xr-xr-x   1    0    0     659008 Aug 25 2007 [ 193504 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/TRAIN2008/NJN/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    179 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     84 02] .. 
+-r-xr-xr-x   1    0    0     659008 Aug 25 2007 [ 193840 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/TRAIN2008/NOH/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    180 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     84 02] .. 
+-r-xr-xr-x   1    0    0     659008 Aug 27 2007 [ 194176 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/TRAIN2008/NYK/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    181 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     84 02] .. 
+-r-xr-xr-x   1    0    0     659008 Aug 25 2007 [ 194512 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/TRAIN2008/ORL/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    182 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     84 02] .. 
+-r-xr-xr-x   1    0    0     593600 Aug 25 2007 [ 194848 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/TRAIN2008/PHI/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    183 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     84 02] .. 
+-r-xr-xr-x   1    0    0     659008 Aug 25 2007 [ 195152 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/TRAIN2008/PHO/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    184 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     84 02] .. 
+-r-xr-xr-x   1    0    0     659008 Aug 25 2007 [ 195488 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/TRAIN2008/POR/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    185 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     84 02] .. 
+-r-xr-xr-x   1    0    0     659008 Aug 25 2007 [ 195824 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/TRAIN2008/SAC/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    186 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     84 02] .. 
+-r-xr-xr-x   1    0    0     659008 Aug 25 2007 [ 196160 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/TRAIN2008/SAS/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    187 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     84 02] .. 
+-r-xr-xr-x   1    0    0     659008 Aug 25 2007 [ 196496 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/TRAIN2008/SEA/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    188 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     84 02] .. 
+-r-xr-xr-x   1    0    0     659008 Aug 25 2007 [ 196832 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/TRAIN2008/TOR/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    189 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     84 02] .. 
+-r-xr-xr-x   1    0    0     659008 Aug 25 2007 [ 197168 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/TRAIN2008/UTH/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    190 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     84 02] .. 
+-r-xr-xr-x   1    0    0     659008 Aug 25 2007 [ 197504 00] ARENA.DAM 
+
+Directory listing of /PSP_GAME/USRDIR/NBADATA/B_GRAPHICS/TRAIN2008/WAS/
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [    191 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2007 [     84 02] .. 
+-r-xr-xr-x   1    0    0     659008 Aug 25 2007 [ 197840 00] ARENA.DAM 
+=============================================================== 
+Generated on Mon 08/08/2022 at 15:46:35.22 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

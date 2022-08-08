@@ -1,0 +1,543 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: The Simpsons Game   
+Title ID: ULUS-10295 
+Region: USA  
+Languages:   
+Volume Creation Date: 2007-10-09 15:08:54 
+Volume Size: 729 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: SIMPSONS
+Volume set id: SIMPSONS
+Publisher id: ELECTRONIC ARTS
+Data preparer id: REBELLION
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 373440
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Oct  9 2007 [     65 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     22 02] .. 
+-r-xr-xr-x   1    0    0      22986 Sep 14 2007 [  23536 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        472 Aug 20 2007 [  23520 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      23174 Sep 26 2007 [  23552 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     23 02] .. 
+-r-xr-xr-x   1    0    0    2996412 Oct  9 2007 [  22048 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    2996752 Oct  9 2007 [     80 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     23 02] .. 
+dr-xr-xr-x   1    0    0       4096 Oct  9 2007 [     27 02] ENVS 
+dr-xr-xr-x   1    0    0       2048 Sep 26 2007 [     29 02] FMV 
+dr-xr-xr-x   1    0    0       2048 Sep 26 2007 [     30 02] GRAPHICS 
+dr-xr-xr-x   1    0    0       2048 Oct  1 2007 [     31 02] GUIMENU 
+dr-xr-xr-x   1    0    0       2048 Oct  8 2007 [     32 02] MISC 
+dr-xr-xr-x   1    0    0       2048 Sep  9 2007 [     33 02] MODULE 
+dr-xr-xr-x   1    0    0       2048 Sep 21 2007 [     34 02] SOUNDS 
+dr-xr-xr-x   1    0    0       2048 Sep  9 2007 [     35 02] SUBTITLE 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     24 02] .. 
+-r-xr-xr-x   1    0    0   16327440 Oct  9 2007 [   5664 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5210608 Oct  9 2007 [   1568 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Oct  9 2007 [   1552 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/ENVS/
+dr-xr-xr-x   1    0    0       4096 Oct  9 2007 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     25 02] .. 
+-r-xr-xr-x   1    0    0    2362986 Oct  9 2007 [  23584 00] 01_HOUSE.EN 
+-r-xr-xr-x   1    0    0    4001177 Oct  9 2007 [  77504 00] 01_HOUSE.PSP 
+-r-xr-xr-x   1    0    0    3583108 Oct  9 2007 [  24752 00] 01_LOC.EN 
+-r-xr-xr-x   1    0    0    3784736 Oct  9 2007 [  79472 00] 01_LOC.PSP 
+-r-xr-xr-x   1    0    0    6607854 Oct  9 2007 [  26512 00] 02_BMB.EN 
+-r-xr-xr-x   1    0    0    4339267 Oct  9 2007 [  81328 00] 02_BMBA.PSP 
+-r-xr-xr-x   1    0    0    3892155 Oct  9 2007 [  83456 00] 02_BMBB.PSP 
+-r-xr-xr-x   1    0    0    3373882 Oct  9 2007 [  85360 00] 02_BMBC.PSP 
+-r-xr-xr-x   1    0    0    5820556 Oct  9 2007 [  29744 00] 03_80B.EN 
+-r-xr-xr-x   1    0    0    4630232 Oct  9 2007 [  87008 00] 03_80B.PSP 
+-r-xr-xr-x   1    0    0    4482956 Oct  9 2007 [  32592 00] 04_TREE.EN 
+-r-xr-xr-x   1    0    0    4380289 Oct  9 2007 [  89280 00] 04_TREE.PSP 
+-r-xr-xr-x   1    0    0   16402586 Oct  9 2007 [  34784 00] 05_MOB.EN 
+-r-xr-xr-x   1    0    0    3956915 Oct  9 2007 [  91424 00] 05_MOBA.PSP 
+-r-xr-xr-x   1    0    0    3303199 Oct  9 2007 [  93360 00] 05_MOBB.PSP 
+-r-xr-xr-x   1    0    0    5581930 Oct  9 2007 [  42800 00] 06_CCPE.EN 
+-r-xr-xr-x   1    0    0    3498398 Oct  9 2007 [  94976 00] 06_CCPEA.PSP 
+-r-xr-xr-x   1    0    0    3549983 Oct  9 2007 [  96688 00] 06_CCPEB.PSP 
+-r-xr-xr-x   1    0    0    3117192 Oct  9 2007 [  98432 00] 06_CCPEC.PSP 
+-r-xr-xr-x   1    0    0    3046647 Oct  9 2007 [  99968 00] 06_CCPED.PSP 
+-r-xr-xr-x   1    0    0    4827320 Oct  9 2007 [  45536 00] 07_DOD.EN 
+-r-xr-xr-x   1    0    0    3396860 Oct  9 2007 [ 101456 00] 07_DODA.PSP 
+-r-xr-xr-x   1    0    0    2936316 Oct  9 2007 [ 103120 00] 07_DODB.PSP 
+-r-xr-xr-x   1    0    0    6479790 Oct  9 2007 [  47904 00] 08_SHAD.EN 
+-r-xr-xr-x   1    0    0    3868138 Oct  9 2007 [ 104560 00] 08_SHAD.PSP 
+-r-xr-xr-x   1    0    0    4651510 Oct  9 2007 [  51072 00] 09_DSSS.EN 
+-r-xr-xr-x   1    0    0    3604560 Oct  9 2007 [ 106464 00] 09_DSSSA.PSP 
+-r-xr-xr-x   1    0    0    3169412 Oct  9 2007 [ 108240 00] 09_DSSSB.PSP 
+-r-xr-xr-x   1    0    0    3792764 Oct  9 2007 [  53344 00] 10_BARG.EN 
+-r-xr-xr-x   1    0    0    3165190 Oct  9 2007 [ 109792 00] 10_BARG.PSP 
+-r-xr-xr-x   1    0    0    8444684 Oct  9 2007 [  55200 00] 11_NEVQ.EN 
+-r-xr-xr-x   1    0    0    4009148 Oct  9 2007 [ 111344 00] 11_NEVQA.PSP 
+-r-xr-xr-x   1    0    0    3374537 Oct  9 2007 [ 113312 00] 11_NEVQB.PSP 
+-r-xr-xr-x   1    0    0    3031216 Oct  9 2007 [ 114960 00] 11_NEVQC.PSP 
+-r-xr-xr-x   1    0    0    3328307 Oct  9 2007 [ 116448 00] 11_NEVQD.PSP 
+-r-xr-xr-x   1    0    0    3766096 Oct  9 2007 [ 118080 00] 11_NEVQE.PSP 
+-r-xr-xr-x   1    0    0    6388066 Oct  9 2007 [  59328 00] 12_GTS.EN 
+-r-xr-xr-x   1    0    0    4468631 Oct  9 2007 [ 119920 00] 12_GTS.PSP 
+-r-xr-xr-x   1    0    0    6857600 Oct  9 2007 [  62448 00] 13_MOH.EN 
+-r-xr-xr-x   1    0    0    3876529 Oct  9 2007 [ 122112 00] 13_MOHA.PSP 
+-r-xr-xr-x   1    0    0    3494655 Oct  9 2007 [ 124016 00] 13_MOHB.PSP 
+-r-xr-xr-x   1    0    0    6769822 Oct  9 2007 [  65808 00] 14_BSH.EN 
+-r-xr-xr-x   1    0    0    3963363 Oct  9 2007 [ 125728 00] 14_BSHA.PSP 
+-r-xr-xr-x   1    0    0    2894294 Oct  9 2007 [ 127664 00] 14_BSHB.PSP 
+-r-xr-xr-x   1    0    0    5138198 Oct  9 2007 [  69120 00] 15_RWC.EN 
+-r-xr-xr-x   1    0    0    3567024 Oct  9 2007 [ 129088 00] 15_RWCA.PSP 
+-r-xr-xr-x   1    0    0    3365173 Oct  9 2007 [ 130832 00] 15_RWCB.PSP 
+-r-xr-xr-x   1    0    0    3020770 Oct  9 2007 [ 132480 00] 15_RWCC.PSP 
+-r-xr-xr-x   1    0    0    4851500 Oct  9 2007 [  71632 00] 16_MTP.EN 
+-r-xr-xr-x   1    0    0    3466407 Oct  9 2007 [ 133968 00] 16_MTPA.PSP 
+-r-xr-xr-x   1    0    0    3449604 Oct  9 2007 [ 135664 00] 16_MTPB.PSP 
+-r-xr-xr-x   1    0    0    3667780 Oct  9 2007 [ 137360 00] 16_MTPC.PSP 
+-r-xr-xr-x   1    0    0    1917022 Oct  9 2007 [  74016 00] FRONTEND.EN 
+-r-xr-xr-x   1    0    0     941815 Oct  9 2007 [ 139152 00] FRONTEND.PSP 
+-r-xr-xr-x   1    0    0    2837858 Oct  9 2007 [  74960 00] GAMEHUB.EN 
+-r-xr-xr-x   1    0    0    4407577 Oct  9 2007 [ 139616 00] GAMEHUB.PSP 
+-r-xr-xr-x   1    0    0    2347786 Oct  9 2007 [  76352 00] GARDEN.EN 
+-r-xr-xr-x   1    0    0    4047176 Oct  9 2007 [ 141776 00] GARDEN.PSP 
+
+Directory listing of /PSP_GAME/USRDIR/FMV/
+dr-xr-xr-x   1    0    0       2048 Sep 26 2007 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     25 02] .. 
+-r-xr-xr-x   1    0    0     247808 Jun 26 2007 [ 145616 00] EA.PMF 
+dr-xr-xr-x   1    0    0       4096 Oct  9 2007 [     36 02] EN 
+-r-xr-xr-x   1    0    0     491520 Jun 26 2007 [ 145136 00] FOX.PMF 
+-r-xr-xr-x   1    0    0     491520 Jun 26 2007 [ 145376 00] GRACIE.PMF 
+
+Directory listing of /PSP_GAME/USRDIR/GRAPHICS/
+dr-xr-xr-x   1    0    0       2048 Sep 26 2007 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     25 02] .. 
+-r-xr-xr-x   1    0    0      67028 Jul 10 2007 [ 285792 00] BEAMS.ASR 
+-r-xr-xr-x   1    0    0      34508 Sep 24 2007 [ 285840 00] BUTTONS.ASR 
+-r-xr-xr-x   1    0    0      35084 Oct 12 2006 [ 285872 00] FONTS.ASR 
+-r-xr-xr-x   1    0    0      22986 Sep 14 2007 [ 373424 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0      13515 Sep 14 2007 [ 373408 00] NEWDATA.PNG 
+-r-xr-xr-x   1    0    0     133292 Feb 12 2007 [ 285904 00] PAPER.ASR 
+-r-xr-xr-x   1    0    0      71272 Sep 25 2007 [ 285984 00] SIMPFONT.ASR 
+
+Directory listing of /PSP_GAME/USRDIR/GUIMENU/
+dr-xr-xr-x   1    0    0       2048 Oct  1 2007 [     31 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     25 02] .. 
+-r-xr-xr-x   1    0    0      96117 Sep 24 2007 [ 143856 00] BARTHUD.GUI 
+-r-xr-xr-x   1    0    0     764583 Jul  4 2007 [ 143904 00] COLTOTAL.GUI 
+-r-xr-xr-x   1    0    0       4760 Sep  7 2007 [ 144288 00] CREDITS.GUI 
+-r-xr-xr-x   1    0    0      80169 Sep 24 2007 [ 144304 00] EPI_COMP.GUI 
+-r-xr-xr-x   1    0    0      42998 Sep 24 2007 [ 144352 00] FRLAYOUT.GUI 
+-r-xr-xr-x   1    0    0     197984 Sep 30 2007 [ 144384 00] GAMEMENU.GUI 
+-r-xr-xr-x   1    0    0       1750 May  1 2007 [ 144496 00] GENMENUS.GUI 
+-r-xr-xr-x   1    0    0     220159 Sep 26 2007 [ 144512 00] GLOBLHUD.GUI 
+-r-xr-xr-x   1    0    0         84 Sep  7 2007 [ 144624 00] GUIAUDIO.ASR 
+-r-xr-xr-x   1    0    0     133042 Oct  1 2007 [ 144640 00] HOMERHUD.GUI 
+-r-xr-xr-x   1    0    0      50348 Sep 28 2007 [ 144720 00] INTRPTS.GUI 
+-r-xr-xr-x   1    0    0      81865 Sep 24 2007 [ 144752 00] LISAHUD.GUI 
+-r-xr-xr-x   1    0    0      22142 Sep 24 2007 [ 144800 00] LOADPAGE.GUI 
+-r-xr-xr-x   1    0    0      87873 Sep 26 2007 [ 144816 00] MARGEHUD.GUI 
+-r-xr-xr-x   1    0    0      53955 Sep  7 2007 [ 144864 00] MODAL.GUI 
+-r-xr-xr-x   1    0    0     213728 Sep 24 2007 [ 144896 00] TBUBBLES.GUI 
+
+Directory listing of /PSP_GAME/USRDIR/MISC/
+dr-xr-xr-x   1    0    0       2048 Oct  8 2007 [     32 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     25 02] .. 
+-r-xr-xr-x   1    0    0      19798 Oct  8 2007 [ 143760 00] COMMON.ASR 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     38 02] GOALS 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     39 02] MENU 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     40 02] SYSTEM 
+
+Directory listing of /PSP_GAME/USRDIR/MODULE/
+dr-xr-xr-x   1    0    0       2048 Sep  9 2007 [     33 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     25 02] .. 
+-r-xr-xr-x   1    0    0       7056 Jun  6 2007 [  23568 00] PSMF.PRX 
+
+Directory listing of /PSP_GAME/USRDIR/SOUNDS/
+dr-xr-xr-x   1    0    0       2048 Sep 21 2007 [     34 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     25 02] .. 
+-r-xr-xr-x   1    0    0     240735 Sep 21 2007 [ 145008 00] GMSND.ASR 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     41 02] MUSIC 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     42 02] SPEECH 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     43 02] STREAMS 
+
+Directory listing of /PSP_GAME/USRDIR/SUBTITLE/
+dr-xr-xr-x   1    0    0       2048 Sep  9 2007 [     35 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     25 02] .. 
+dr-xr-xr-x   1    0    0       4096 Oct  9 2007 [     44 02] EN 
+
+Directory listing of /PSP_GAME/USRDIR/FMV/EN/
+dr-xr-xr-x   1    0    0       4096 Oct  9 2007 [     36 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 26 2007 [     29 02] .. 
+-r-xr-xr-x   1    0    0    3739648 Sep 26 2007 [ 145744 00] 80B_01.PMF 
+-r-xr-xr-x   1    0    0    1263616 Sep 23 2007 [ 147584 00] 80B_02.PMF 
+-r-xr-xr-x   1    0    0     290816 Sep 23 2007 [ 148208 00] 80B_02A.PMF 
+-r-xr-xr-x   1    0    0    5335040 Sep 27 2007 [ 148352 00] 80B_03.PMF 
+-r-xr-xr-x   1    0    0    8441856 Sep 25 2007 [ 150960 00] BIN_01.PMF 
+-r-xr-xr-x   1    0    0     919552 Oct  5 2007 [ 155088 00] BIN_01A.PMF 
+-r-xr-xr-x   1    0    0     782336 Oct  6 2007 [ 155552 00] BIN_01B.PMF 
+-r-xr-xr-x   1    0    0    2570240 Sep 23 2007 [ 155936 00] BRT_01.PMF 
+-r-xr-xr-x   1    0    0    5584896 Sep 26 2007 [ 157200 00] BRT_02.PMF 
+-r-xr-xr-x   1    0    0    5355520 Sep 27 2007 [ 159936 00] BSH_01.PMF 
+-r-xr-xr-x   1    0    0    5388288 Sep 23 2007 [ 162560 00] BSH_01B.PMF 
+-r-xr-xr-x   1    0    0    3340288 Sep 25 2007 [ 165200 00] BSH_01C.PMF 
+-r-xr-xr-x   1    0    0    2875392 Sep 25 2007 [ 166832 00] BSH_01D.PMF 
+-r-xr-xr-x   1    0    0    2816000 Sep 25 2007 [ 168240 00] BSH_01E.PMF 
+-r-xr-xr-x   1    0    0    2093056 Sep 23 2007 [ 169616 00] BSH_02.PMF 
+-r-xr-xr-x   1    0    0    2488320 Sep 23 2007 [ 170640 00] BSH_03.PMF 
+-r-xr-xr-x   1    0    0    2340864 Sep 23 2007 [ 171856 00] BSH_04.PMF 
+-r-xr-xr-x   1    0    0    6193152 Sep 26 2007 [ 173008 00] BSH_05.PMF 
+-r-xr-xr-x   1    0    0    1341440 Sep 23 2007 [ 176032 00] BSH_14.PMF 
+-r-xr-xr-x   1    0    0    6533120 Sep 26 2007 [ 176688 00] CHE_01.PMF 
+-r-xr-xr-x   1    0    0    2971648 Sep 25 2007 [ 179888 00] CHE_02.PMF 
+-r-xr-xr-x   1    0    0    1236992 Sep 23 2007 [ 181344 00] CHE_02A.PMF 
+-r-xr-xr-x   1    0    0    3692544 Sep 25 2007 [ 181952 00] DOD_01.PMF 
+-r-xr-xr-x   1    0    0    3553280 Sep 25 2007 [ 183760 00] DOD_03.PMF 
+-r-xr-xr-x   1    0    0    8853504 Sep 25 2007 [ 185504 00] GAM_01.PMF 
+-r-xr-xr-x   1    0    0   13299712 Sep 26 2007 [ 189840 00] GAM_02.PMF 
+-r-xr-xr-x   1    0    0    4104192 Sep 26 2007 [ 196336 00] GAM_03.PMF 
+-r-xr-xr-x   1    0    0    8515584 Sep 25 2007 [ 198352 00] GAM_04.PMF 
+-r-xr-xr-x   1    0    0   12044288 Sep 25 2007 [ 202512 00] GAM_05.PMF 
+-r-xr-xr-x   1    0    0    7075840 Sep 27 2007 [ 208400 00] GAM_06.PMF 
+-r-xr-xr-x   1    0    0   16519168 Sep 25 2007 [ 211856 00] GAM_07.PMF 
+-r-xr-xr-x   1    0    0    2865152 Sep 25 2007 [ 219936 00] GTS_01.PMF 
+-r-xr-xr-x   1    0    0    2617344 Sep 23 2007 [ 221344 00] GTS_02.PMF 
+-r-xr-xr-x   1    0    0    3584000 Sep 25 2007 [ 222624 00] GTS_03.PMF 
+-r-xr-xr-x   1    0    0    4833280 Sep 25 2007 [ 224384 00] HUG_01.PMF 
+-r-xr-xr-x   1    0    0    1867776 Sep 23 2007 [ 226752 00] HUG_02.PMF 
+-r-xr-xr-x   1    0    0     397312 Sep 23 2007 [ 227664 00] HUG_02A.PMF 
+-r-xr-xr-x   1    0    0    2025472 Sep 23 2007 [ 227872 00] HUG_03.PMF 
+-r-xr-xr-x   1    0    0     761856 Sep 23 2007 [ 228864 00] HUG_03A.PMF 
+-r-xr-xr-x   1    0    0    4194304 Sep 25 2007 [ 229248 00] HUG_05.PMF 
+-r-xr-xr-x   1    0    0    5836800 Sep 27 2007 [ 231296 00] LOC_01.PMF 
+-r-xr-xr-x   1    0    0    1503232 Sep 25 2007 [ 234160 00] LOC_02.PMF 
+-r-xr-xr-x   1    0    0    5056512 Sep 25 2007 [ 234896 00] MOB_01.PMF 
+-r-xr-xr-x   1    0    0    4855808 Sep 23 2007 [ 237376 00] MOB_02.PMF 
+-r-xr-xr-x   1    0    0    1187840 Sep 23 2007 [ 239760 00] MOB_03.PMF 
+-r-xr-xr-x   1    0    0    4872192 Sep 23 2007 [ 240352 00] MOB_03A.PMF 
+-r-xr-xr-x   1    0    0    4788224 Sep 23 2007 [ 242736 00] MOH_00.PMF 
+-r-xr-xr-x   1    0    0    4749312 Sep 23 2007 [ 245088 00] MOH_01.PMF 
+-r-xr-xr-x   1    0    0    2914304 Sep 23 2007 [ 247408 00] MOH_01A.PMF 
+-r-xr-xr-x   1    0    0    4319232 Sep 23 2007 [ 248832 00] MOH_02.PMF 
+-r-xr-xr-x   1    0    0    4014080 Sep 25 2007 [ 250944 00] MOH_03.PMF 
+-r-xr-xr-x   1    0    0    5640192 Sep 25 2007 [ 252912 00] MTP_01.PMF 
+-r-xr-xr-x   1    0    0    5836800 Sep 25 2007 [ 255680 00] MTP_02.PMF 
+-r-xr-xr-x   1    0    0     450560 Sep 23 2007 [ 258544 00] MTP_02A.PMF 
+-r-xr-xr-x   1    0    0    5517312 Sep 23 2007 [ 258768 00] MTP_02B.PMF 
+-r-xr-xr-x   1    0    0    2795520 Sep 23 2007 [ 261472 00] MTP_04.PMF 
+-r-xr-xr-x   1    0    0    4390912 Sep 25 2007 [ 262848 00] NVQ_01.PMF 
+-r-xr-xr-x   1    0    0    4493312 Sep 23 2007 [ 264992 00] NVQ_02.PMF 
+-r-xr-xr-x   1    0    0    2031616 Sep 25 2007 [ 267200 00] NVQ_04.PMF 
+-r-xr-xr-x   1    0    0    5707776 Sep 23 2007 [ 268192 00] RWC_01.PMF 
+-r-xr-xr-x   1    0    0    4083712 Sep 23 2007 [ 270992 00] RWC_02.PMF 
+-r-xr-xr-x   1    0    0    5992448 Sep 26 2007 [ 272992 00] RWC_03.PMF 
+-r-xr-xr-x   1    0    0    3928064 Sep 27 2007 [ 275920 00] SCD_01.PMF 
+-r-xr-xr-x   1    0    0    1353728 Sep 23 2007 [ 277840 00] SCD_02A.PMF 
+-r-xr-xr-x   1    0    0    2435072 Sep 25 2007 [ 278512 00] SCD_03.PMF 
+-r-xr-xr-x   1    0    0    4636672 Sep 26 2007 [ 279712 00] SSS_01.PMF 
+-r-xr-xr-x   1    0    0    2248704 Sep 23 2007 [ 281984 00] SSS_02.PMF 
+-r-xr-xr-x   1    0    0    5537792 Sep 25 2007 [ 283088 00] SSS_03.PMF 
+
+Directory listing of /PSP_GAME/USRDIR/MISC/GOALS/
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     38 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  8 2007 [     32 02] .. 
+-r-xr-xr-x   1    0    0      27456 Oct  9 2007 [ 143776 00] GOALS_EN.ASR 
+
+Directory listing of /PSP_GAME/USRDIR/MISC/MENU/
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     39 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  8 2007 [     32 02] .. 
+-r-xr-xr-x   1    0    0      95025 Oct  9 2007 [ 143792 00] MENU_EN.ASR 
+
+Directory listing of /PSP_GAME/USRDIR/MISC/SYSTEM/
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     40 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  8 2007 [     32 02] .. 
+-r-xr-xr-x   1    0    0        164 Oct  9 2007 [ 143840 00] SYS_EN.ASR 
+
+Directory listing of /PSP_GAME/USRDIR/SOUNDS/MUSIC/
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     41 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 21 2007 [     34 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     46 02] EPS_80B 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     47 02] EPS_BIN 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     48 02] EPS_BMB 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     49 02] EPS_BSH 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     50 02] EPS_CCPE 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     51 02] EPS_GHUB 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     52 02] EPS_LOC 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     53 02] EPS_MOB 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     54 02] EPS_MOH 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     55 02] EPS_MTP 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     56 02] EPS_NVQ 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     57 02] EPS_RWC 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     58 02] EPS_SPR 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     59 02] EPS_SSS 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     60 02] EPS_TRE 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     61 02] FRONTEND 
+
+Directory listing of /PSP_GAME/USRDIR/SOUNDS/SPEECH/
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     42 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 21 2007 [     34 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     62 02] EN 
+
+Directory listing of /PSP_GAME/USRDIR/SOUNDS/STREAMS/
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     43 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 21 2007 [     34 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     63 02] GTS 
+
+Directory listing of /PSP_GAME/USRDIR/SUBTITLE/EN/
+dr-xr-xr-x   1    0    0       4096 Oct  9 2007 [     44 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  9 2007 [     35 02] .. 
+-r-xr-xr-x   1    0    0       1875 Sep 26 2007 [ 372448 00] 80B_01.ASR 
+-r-xr-xr-x   1    0    0        221 Sep  8 2007 [ 372464 00] 80B_02.ASR 
+-r-xr-xr-x   1    0    0       1515 Sep 26 2007 [ 372480 00] 80B_03.ASR 
+-r-xr-xr-x   1    0    0       3317 Sep 26 2007 [ 372496 00] BIN_01.ASR 
+-r-xr-xr-x   1    0    0        997 Sep 25 2007 [ 372512 00] BRT_01.ASR 
+-r-xr-xr-x   1    0    0       2329 Sep 26 2007 [ 372528 00] BRT_02.ASR 
+-r-xr-xr-x   1    0    0        269 Aug 31 2007 [ 372544 00] BRT_11.ASR 
+-r-xr-xr-x   1    0    0        137 Sep  8 2007 [ 372560 00] BRT_13.ASR 
+-r-xr-xr-x   1    0    0       1531 Sep 26 2007 [ 372576 00] BSH_01.ASR 
+-r-xr-xr-x   1    0    0       1321 Sep  8 2007 [ 372592 00] BSH_01B.ASR 
+-r-xr-xr-x   1    0    0       1676 Sep 26 2007 [ 372608 00] BSH_05.ASR 
+-r-xr-xr-x   1    0    0        181 Sep  8 2007 [ 372624 00] BSH_11.ASR 
+-r-xr-xr-x   1    0    0        246 Sep  8 2007 [ 372640 00] BSH_12.ASR 
+-r-xr-xr-x   1    0    0        764 Sep  8 2007 [ 372656 00] BSH_13.ASR 
+-r-xr-xr-x   1    0    0        213 Aug 31 2007 [ 372672 00] BSH_14.ASR 
+-r-xr-xr-x   1    0    0        796 Sep  8 2007 [ 372688 00] BSH_15.ASR 
+-r-xr-xr-x   1    0    0       2608 Sep 26 2007 [ 372704 00] CHE_01.ASR 
+-r-xr-xr-x   1    0    0       1115 Sep 26 2007 [ 372720 00] CHE_02.ASR 
+-r-xr-xr-x   1    0    0       1369 Sep 26 2007 [ 372736 00] DOD_01.ASR 
+-r-xr-xr-x   1    0    0       1315 Sep 26 2007 [ 372752 00] DOD_03.ASR 
+-r-xr-xr-x   1    0    0       3729 Sep 26 2007 [ 372768 00] GAM_01.ASR 
+-r-xr-xr-x   1    0    0       4706 Sep 26 2007 [ 372784 00] GAM_02.ASR 
+-r-xr-xr-x   1    0    0       1587 Sep 26 2007 [ 372800 00] GAM_03.ASR 
+-r-xr-xr-x   1    0    0       3743 Sep 26 2007 [ 372816 00] GAM_04.ASR 
+-r-xr-xr-x   1    0    0       5466 Sep 23 2007 [ 372832 00] GAM_05.ASR 
+-r-xr-xr-x   1    0    0       2916 Sep 26 2007 [ 372848 00] GAM_06.ASR 
+-r-xr-xr-x   1    0    0       6237 Sep 26 2007 [ 372864 00] GAM_07.ASR 
+-r-xr-xr-x   1    0    0       1121 Sep 26 2007 [ 372880 00] GTS_01.ASR 
+-r-xr-xr-x   1    0    0        979 Sep  8 2007 [ 372896 00] GTS_02.ASR 
+-r-xr-xr-x   1    0    0       1220 Sep 26 2007 [ 372912 00] GTS_03.ASR 
+-r-xr-xr-x   1    0    0       2077 Sep 26 2007 [ 372928 00] HUG_01.ASR 
+-r-xr-xr-x   1    0    0        782 Sep  8 2007 [ 372944 00] HUG_02.ASR 
+-r-xr-xr-x   1    0    0        824 Sep  8 2007 [ 372960 00] HUG_03.ASR 
+-r-xr-xr-x   1    0    0       1472 Sep 26 2007 [ 372976 00] HUG_05.ASR 
+-r-xr-xr-x   1    0    0       1428 Sep 26 2007 [ 372992 00] LOC_01.ASR 
+-r-xr-xr-x   1    0    0        655 Sep 26 2007 [ 373008 00] LOC_02.ASR 
+-r-xr-xr-x   1    0    0       1965 Sep 26 2007 [ 373024 00] MOB_01.ASR 
+-r-xr-xr-x   1    0    0       1285 Sep  8 2007 [ 373040 00] MOB_02.ASR 
+-r-xr-xr-x   1    0    0        306 Aug 31 2007 [ 373056 00] MOB_03.ASR 
+-r-xr-xr-x   1    0    0       1574 Sep  8 2007 [ 373072 00] MOB_03A.ASR 
+-r-xr-xr-x   1    0    0       1601 Sep 29 2007 [ 373088 00] MOH_00.ASR 
+-r-xr-xr-x   1    0    0       2175 Sep  8 2007 [ 373104 00] MOH_01.ASR 
+-r-xr-xr-x   1    0    0       1961 Sep 29 2007 [ 373120 00] MOH_02.ASR 
+-r-xr-xr-x   1    0    0       1049 Sep 26 2007 [ 373136 00] MOH_03.ASR 
+-r-xr-xr-x   1    0    0        330 Sep  8 2007 [ 373152 00] MOH_11.ASR 
+-r-xr-xr-x   1    0    0       2078 Sep 26 2007 [ 373168 00] MTP_01.ASR 
+-r-xr-xr-x   1    0    0       1419 Sep 26 2007 [ 373184 00] MTP_02.ASR 
+-r-xr-xr-x   1    0    0        706 Aug 31 2007 [ 373200 00] MTP_03.ASR 
+-r-xr-xr-x   1    0    0       1243 Sep  8 2007 [ 373216 00] MTP_04.ASR 
+-r-xr-xr-x   1    0    0       1383 Sep 26 2007 [ 373232 00] NVQ_01.ASR 
+-r-xr-xr-x   1    0    0        979 Aug 31 2007 [ 373248 00] NVQ_02.ASR 
+-r-xr-xr-x   1    0    0        672 Sep 26 2007 [ 373264 00] NVQ_04.ASR 
+-r-xr-xr-x   1    0    0       1025 Sep  8 2007 [ 373280 00] RWC_01.ASR 
+-r-xr-xr-x   1    0    0        672 Sep 25 2007 [ 373296 00] RWC_02.ASR 
+-r-xr-xr-x   1    0    0       2232 Sep 26 2007 [ 373312 00] RWC_03.ASR 
+-r-xr-xr-x   1    0    0        983 Sep 26 2007 [ 373328 00] SCD_01.ASR 
+-r-xr-xr-x   1    0    0        890 Sep 26 2007 [ 373344 00] SCD_03.ASR 
+-r-xr-xr-x   1    0    0       1605 Sep 26 2007 [ 373360 00] SSS_01.ASR 
+-r-xr-xr-x   1    0    0       1050 Sep  8 2007 [ 373376 00] SSS_02.ASR 
+-r-xr-xr-x   1    0    0       1852 Sep 26 2007 [ 373392 00] SSS_03.ASR 
+
+Directory listing of /PSP_GAME/USRDIR/SOUNDS/MUSIC/EPS_80B/
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     46 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0    1978460 Aug 30 2007 [ 286032 00] LIB_AC.AT3 
+-r-xr-xr-x   1    0    0     141524 Aug 30 2007 [ 287008 00] LIB_IN.AT3 
+-r-xr-xr-x   1    0    0    1985900 Aug 30 2007 [ 287088 00] PUZ_AC.AT3 
+-r-xr-xr-x   1    0    0    1985900 Aug 30 2007 [ 288064 00] PUZ_AM.AT3 
+-r-xr-xr-x   1    0    0     136316 Aug 30 2007 [ 289040 00] PUZ_IN.AT3 
+-r-xr-xr-x   1    0    0    2049884 Aug 30 2007 [ 289120 00] SW1_AC.AT3 
+-r-xr-xr-x   1    0    0    2049884 Aug 30 2007 [ 290128 00] SW1_AM.AT3 
+-r-xr-xr-x   1    0    0      34388 Aug 30 2007 [ 291136 00] SW1_IN.AT3 
+-r-xr-xr-x   1    0    0    1939772 Aug 30 2007 [ 291168 00] SW2_AC.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUNDS/MUSIC/EPS_BIN/
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     47 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0    2199428 Aug 30 2007 [ 292128 00] BIN01AC.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUNDS/MUSIC/EPS_BMB/
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     48 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0    3995444 Aug 30 2007 [ 293216 00] BRT01AC.AT3 
+-r-xr-xr-x   1    0    0    3995444 Aug 30 2007 [ 295168 00] BRT01AM.AT3 
+-r-xr-xr-x   1    0    0    3995444 Aug 30 2007 [ 297120 00] BRT01TN.AT3 
+-r-xr-xr-x   1    0    0    2476940 Aug 30 2007 [ 299072 00] BRT02AC.AT3 
+-r-xr-xr-x   1    0    0    2476940 Aug 30 2007 [ 300288 00] BRT02AM.AT3 
+-r-xr-xr-x   1    0    0    2476940 Aug 30 2007 [ 301504 00] BRT02TN.AT3 
+-r-xr-xr-x   1    0    0    2137676 Aug 30 2007 [ 302720 00] BRT03AC.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUNDS/MUSIC/EPS_BSH/
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     49 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0    2255972 Aug 30 2007 [ 303776 00] AIR_01.AT3 
+-r-xr-xr-x   1    0    0    2098988 Aug 30 2007 [ 304880 00] BSH01AM.AT3 
+-r-xr-xr-x   1    0    0    2098988 Aug 30 2007 [ 305920 00] BSH01TN.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUNDS/MUSIC/EPS_CCPE/
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     50 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0    6115100 Aug 30 2007 [ 306960 00] CCPE01AC.AT3 
+-r-xr-xr-x   1    0    0    6115100 Aug 30 2007 [ 309952 00] CCPE01AM.AT3 
+-r-xr-xr-x   1    0    0    2035004 Aug 30 2007 [ 312944 00] CCPE02AM.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUNDS/MUSIC/EPS_GHUB/
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     51 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0     997124 Sep  3 2007 [ 313952 00] GHUB_LM.AT3 
+-r-xr-xr-x   1    0    0    1477004 Sep  3 2007 [ 314448 00] GHUB_SW.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUNDS/MUSIC/EPS_LOC/
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     52 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0    2998484 Aug 30 2007 [ 315184 00] LOC01AC.AT3 
+-r-xr-xr-x   1    0    0     974804 Aug 30 2007 [ 316656 00] LOC02AC.AT3 
+-r-xr-xr-x   1    0    0     193604 Aug 30 2007 [ 317136 00] LOCACTIN.AT3 
+-r-xr-xr-x   1    0    0      82748 Aug 30 2007 [ 317232 00] LOCOUT01.AT3 
+-r-xr-xr-x   1    0    0    1515692 Aug 30 2007 [ 317280 00] LOCWLZ01.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUNDS/MUSIC/EPS_MOB/
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     53 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0    2337068 Aug 30 2007 [ 318032 00] MOB01AC.AT3 
+-r-xr-xr-x   1    0    0    2302844 Aug 30 2007 [ 319184 00] MOB02AC.AT3 
+-r-xr-xr-x   1    0    0    2100476 Aug 30 2007 [ 320320 00] MOB03AC.AT3 
+-r-xr-xr-x   1    0    0    2100476 Aug 30 2007 [ 321360 00] MOB03AM.AT3 
+-r-xr-xr-x   1    0    0    2100476 Aug 30 2007 [ 322400 00] MOB03TN.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUNDS/MUSIC/EPS_MOH/
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     54 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0    2110148 Aug 30 2007 [ 323440 00] MOH01AM.AT3 
+-r-xr-xr-x   1    0    0    3933692 Aug 30 2007 [ 324480 00] MOH03AC.AT3 
+-r-xr-xr-x   1    0    0    3933692 Aug 30 2007 [ 326416 00] MOH03TN.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUNDS/MUSIC/EPS_MTP/
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     55 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0    3955268 Aug 30 2007 [ 328352 00] MTP01AM.AT3 
+-r-xr-xr-x   1    0    0    3955268 Aug 30 2007 [ 330288 00] MTP01TN.AT3 
+-r-xr-xr-x   1    0    0    3141332 Aug 30 2007 [ 332224 00] MTPGOD.AT3 
+-r-xr-xr-x   1    0    0    3066188 Aug 30 2007 [ 333760 00] MTPVERD.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUNDS/MUSIC/EPS_NVQ/
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     56 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0    3911372 Aug 30 2007 [ 335264 00] NVQ01AC.AT3 
+-r-xr-xr-x   1    0    0    3911372 Aug 30 2007 [ 337184 00] NVQ01TN.AT3 
+-r-xr-xr-x   1    0    0    5912732 Aug 30 2007 [ 339104 00] NVQ02AC.AT3 
+-r-xr-xr-x   1    0    0    5912732 Aug 30 2007 [ 342000 00] NVQ02AM.AT3 
+-r-xr-xr-x   1    0    0    5912732 Aug 30 2007 [ 344896 00] NVQ02TN.AT3 
+-r-xr-xr-x   1    0    0    3113060 Aug 30 2007 [ 347792 00] NVQ8BIT.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUNDS/MUSIC/EPS_RWC/
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     57 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0    3735044 Sep  3 2007 [ 349328 00] RWC01AC.AT3 
+-r-xr-xr-x   1    0    0    3735044 Sep  3 2007 [ 351152 00] RWC01TN.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUNDS/MUSIC/EPS_SPR/
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     58 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0    1198748 Aug 30 2007 [ 352976 00] GLOBALAC.AT3 
+-r-xr-xr-x   1    0    0    1198748 Aug 30 2007 [ 353568 00] GLOBALAM.AT3 
+-r-xr-xr-x   1    0    0    1198748 Aug 30 2007 [ 354160 00] GLOBALTN.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUNDS/MUSIC/EPS_SSS/
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     59 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0    5825684 Aug 30 2007 [ 354752 00] DSSS01AC.AT3 
+-r-xr-xr-x   1    0    0    5825684 Aug 30 2007 [ 357600 00] DSSS01TN.AT3 
+-r-xr-xr-x   1    0    0    3944852 Aug 30 2007 [ 360448 00] DSSS02AC.AT3 
+-r-xr-xr-x   1    0    0    3944852 Aug 30 2007 [ 362384 00] DSSS02TN.AT3 
+-r-xr-xr-x   1    0    0    2104196 Aug 30 2007 [ 364320 00] DSSS03AC.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUNDS/MUSIC/EPS_TRE/
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     60 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0    1921916 Aug 30 2007 [ 365360 00] TRE01AC.AT3 
+-r-xr-xr-x   1    0    0    1921916 Aug 30 2007 [ 366304 00] TRE01TN.AT3 
+-r-xr-xr-x   1    0    0    2011940 Aug 30 2007 [ 367248 00] TRE02AC.AT3 
+-r-xr-xr-x   1    0    0    2011940 Aug 30 2007 [ 368240 00] TRE02TN.AT3 
+-r-xr-xr-x   1    0    0    1801388 Aug 30 2007 [ 369232 00] TRE03TN.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUNDS/MUSIC/FRONTEND/
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     61 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0      31412 Aug 30 2007 [ 370112 00] SIMPBEG.AT3 
+-r-xr-xr-x   1    0    0    1594556 Aug 17 2007 [ 370128 00] SIMPMEN.AT3 
+-r-xr-xr-x   1    0    0     462188 Aug 17 2007 [ 370912 00] SIMPMUS.AT3 
+-r-xr-xr-x   1    0    0          0 Aug 10 2007 [ 371152 00] SIMPUS.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUNDS/SPEECH/EN/
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     62 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     42 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     64 02] CUTSCENE 
+
+Directory listing of /PSP_GAME/USRDIR/SOUNDS/STREAMS/GTS/
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     63 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     43 02] .. 
+-r-xr-xr-x   1    0    0     723332 Sep 19 2007 [ 371168 00] CITYLP02.AT3 
+-r-xr-xr-x   1    0    0     512780 Sep 19 2007 [ 371536 00] DIONNELP.AT3 
+-r-xr-xr-x   1    0    0     497156 Sep 19 2007 [ 371792 00] RADIOLP1.AT3 
+-r-xr-xr-x   1    0    0     168308 Sep 19 2007 [ 372048 00] RESILP01.AT3 
+-r-xr-xr-x   1    0    0      85724 Sep 19 2007 [ 372144 00] RESILP02.AT3 
+-r-xr-xr-x   1    0    0      85724 Sep 19 2007 [ 372192 00] RESILP03.AT3 
+-r-xr-xr-x   1    0    0     206996 Sep 19 2007 [ 372240 00] RESILP04.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUNDS/SPEECH/EN/CUTSCENE/
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     64 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2007 [     62 02] .. 
+-r-xr-xr-x   1    0    0     169796 Aug 24 2007 [ 372352 00] MOHBPLCR.AT3 
+=============================================================== 
+Generated on Sun 07/08/2022 at 19:29:17.87 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

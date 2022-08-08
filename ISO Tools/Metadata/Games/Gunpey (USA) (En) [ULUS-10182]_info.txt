@@ -1,0 +1,1462 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Gunpey   
+Title ID: ULUS-10182 
+Region: USA  
+Languages: En  
+Volume Creation Date: 2006-09-13 16:00:00 
+Volume Size: 697 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: NAMCO BANDAI GAMES INC.
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 357152
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Sep 13 2006 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 13 2006 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2005 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Aug 17 2005 [     83 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2005 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 13 2006 [     22 02] .. 
+-r-xr-xr-x   1    0    0       4001 Sep  4 2006 [  21296 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        472 Sep 11 2006 [  21280 00] PARAM.SFO 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2005 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2005 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2005 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2005 [     23 02] .. 
+-r-xr-xr-x   1    0    0    1381600 Sep 13 2006 [  21312 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    1381936 Sep 13 2006 [     96 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2005 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2005 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2005 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 13 2006 [     27 02] CDIMAGE 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2005 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2005 [     24 02] .. 
+-r-xr-xr-x   1    0    0   15027936 Aug 17 2005 [   4896 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5089088 Aug 17 2005 [    800 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Aug 17 2005 [    784 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/CDIMAGE/
+dr-xr-xr-x   1    0    0       2048 Sep 13 2006 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2005 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 11 2006 [     28 02] IMAGE 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     29 02] NET 
+dr-xr-xr-x   1    0    0       4096 Sep 11 2006 [     30 02] SKIN 
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     32 02] SOUND 
+
+Directory listing of /PSP_GAME/USRDIR/CDIMAGE/IMAGE/
+dr-xr-xr-x   1    0    0       2048 Sep 11 2006 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 13 2006 [     27 02] .. 
+-r-xr-xr-x   1    0    0    2525824 Sep 11 2006 [ 327024 00] CREDIT.TPK 
+-r-xr-xr-x   1    0    0     252752 Aug 22 2006 [ 328272 00] EFFECT.TPK 
+-r-xr-xr-x   1    0    0     846064 Sep 11 2006 [ 326512 00] GAMEINFO.TPK 
+-r-xr-xr-x   1    0    0     658384 Aug 23 2006 [ 325616 00] LOGO.TPK 
+-r-xr-xr-x   1    0    0     177184 Sep  4 2006 [ 326928 00] LOGO2.TPK 
+-r-xr-xr-x   1    0    0    1141408 Sep  4 2006 [ 325952 00] RESULT.TPK 
+-r-xr-xr-x   1    0    0    2369552 Sep 13 2006 [ 324448 00] TITLE2.TPK 
+-r-xr-xr-x   1    0    0     529360 Sep  4 2006 [ 328400 00] TITLE2BG.TPK 
+
+Directory listing of /PSP_GAME/USRDIR/CDIMAGE/NET/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 13 2006 [     27 02] .. 
+-r-xr-xr-x   1    0    0    7678576 Jan 27 2006 [ 328672 00] upload.dat 
+
+Directory listing of /PSP_GAME/USRDIR/CDIMAGE/SKIN/
+dr-xr-xr-x   1    0    0       4096 Sep 11 2006 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 13 2006 [     27 02] .. 
+-r-xr-xr-x   1    0    0     896192 Jul 12 2006 [ 337600 00] AFROMAN.TPK 
+-r-xr-xr-x   1    0    0     396288 Aug 29 2006 [ 350000 00] AREXSIT.TPK 
+-r-xr-xr-x   1    0    0     182208 Jun  5 2006 [ 352560 00] BIRD.TPK 
+-r-xr-xr-x   1    0    0     722016 May 16 2006 [ 333200 00] BREMEN.TPK 
+-r-xr-xr-x   1    0    0     758400 Jan 20 2006 [ 334864 00] BRIDGE.TPK 
+-r-xr-xr-x   1    0    0    2310592 May 26 2006 [ 346352 00] CAPOEIRA.TPK 
+-r-xr-xr-x   1    0    0     550656 Jun 29 2006 [ 338848 00] CHEMICAL_SIGN.TPK 
+-r-xr-xr-x   1    0    0    1206208 Jun 16 2006 [ 332608 00] CLUBSTYLE.TPK 
+-r-xr-xr-x   1    0    0     941968 Mar  3 2006 [ 335248 00] DECO.TPK 
+-r-xr-xr-x   1    0    0     868832 May 11 2006 [ 342656 00] DICE.TPK 
+-r-xr-xr-x   1    0    0     507648 Jul 18 2006 [ 353536 00] ENDING.TPK 
+-r-xr-xr-x   1    0    0     794176 Jun 27 2006 [ 355776 00] ETEQUALIZER.TPK 
+-r-xr-xr-x   1    0    0     972448 May 25 2006 [ 344000 00] GEOMETRY.TPK 
+-r-xr-xr-x   1    0    0      10192 May 21 2006 [ 345472 00] GLOBE.TPK 
+-r-xr-xr-x   1    0    0    1630656 Jul 13 2006 [ 338048 00] GOLDFISH.TPK 
+-r-xr-xr-x   1    0    0    1796112 Jul 11 2006 [ 352656 00] HALFPIPE.TPK 
+-r-xr-xr-x   1    0    0    1172368 Apr 28 2006 [ 334288 00] HALLOWEEN.TPK 
+-r-xr-xr-x   1    0    0     648608 Jan 17 2006 [ 349520 00] HEART.TPK 
+-r-xr-xr-x   1    0    0    1104688 Dec 28 2005 [ 335712 00] ISLAND.TPK 
+-r-xr-xr-x   1    0    0     652912 Apr 28 2006 [ 333968 00] JUNGLE.TPK 
+-r-xr-xr-x   1    0    0     813504 Jul  7 2006 [ 333568 00] LANDSCAPE.TPK 
+-r-xr-xr-x   1    0    0    1867232 Jul 27 2006 [ 343088 00] LEFTOVER.TPK 
+-r-xr-xr-x   1    0    0     174144 Jun 29 2006 [ 355680 00] LIFEGAME.TPK 
+-r-xr-xr-x   1    0    0    1515984 Jun  5 2006 [ 348768 00] MANGEKYO.TPK 
+-r-xr-xr-x   1    0    0     645424 Apr  7 2006 [ 345888 00] MAP.TPK 
+-r-xr-xr-x   1    0    0    1742176 Jul 18 2006 [ 340544 00] MAPLE.TPK 
+-r-xr-xr-x   1    0    0     333568 Jul 11 2006 [ 332432 00] MASAI.TPK 
+-r-xr-xr-x   1    0    0    2058640 Jul 25 2006 [ 339120 00] MEMORIES.TPK 
+-r-xr-xr-x   1    0    0     352512 Dec 27 2005 [ 337424 00] MINIMALTECHNO.TPK 
+-r-xr-xr-x   1    0    0     797104 Apr 10 2006 [ 350928 00] MOARE.TPK 
+-r-xr-xr-x   1    0    0     181472 Mar 10 2006 [ 350208 00] MONO.TPK 
+-r-xr-xr-x   1    0    0     284176 Apr 27 2006 [ 346208 00] NAMIDAMILK.TPK 
+-r-xr-xr-x   1    0    0     805888 Jul 19 2006 [ 345488 00] PINBALL.TPK 
+-r-xr-xr-x   1    0    0    2608480 Sep 13 2006 [ 347488 00] POETRYGLIDE.TPK 
+-r-xr-xr-x   1    0    0     291504 Jun 20 2006 [ 341408 00] POWERPLANT.TPK 
+-r-xr-xr-x   1    0    0     963008 Mar 22 2006 [ 355200 00] PUNKSTYLE.TPK 
+-r-xr-xr-x   1    0    0     526640 Jul 13 2006 [ 350304 00] ROLLINGRING.TPK 
+-r-xr-xr-x   1    0    0    1860256 Jul 12 2006 [ 344560 00] SCOREBOARD.TPK 
+-r-xr-xr-x   1    0    0    1984896 Apr 14 2006 [ 356176 00] SHOJI.TPK 
+-r-xr-xr-x   1    0    0     162400 Jun  5 2006 [ 344480 00] SOLA.TPK 
+-r-xr-xr-x   1    0    0    2120304 Jul 18 2006 [ 351328 00] SPACETRIP.TPK 
+-r-xr-xr-x   1    0    0     366416 Dec 27 2005 [ 352368 00] SQUARE.TPK 
+-r-xr-xr-x   1    0    0    1026384 Dec 28 2005 [ 353792 00] STRIPE.TPK 
+-r-xr-xr-x   1    0    0    1452048 Jan 19 2006 [ 336704 00] TAMA.TPK 
+-r-xr-xr-x   1    0    0    2232096 Apr 28 2006 [ 341552 00] TELOP.TPK 
+-r-xr-xr-x   1    0    0     888096 Jun  2 2006 [ 336256 00] TRAFFICJAM.TPK 
+-r-xr-xr-x   1    0    0     310096 Mar 24 2006 [ 349840 00] TRIANGLE.TPK 
+-r-xr-xr-x   1    0    0     837808 Apr 13 2006 [ 340128 00] UKIYOE.TPK 
+-r-xr-xr-x   1    0    0     693536 Jun 23 2006 [ 350576 00] VS.TPK 
+-r-xr-xr-x   1    0    0    1815456 Feb 23 2006 [ 354304 00] WHEEL.TPK 
+
+Directory listing of /PSP_GAME/USRDIR/CDIMAGE/SOUND/
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     32 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 13 2006 [     27 02] .. 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     34 02] BIR 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     35 02] BLA 
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     36 02] CIG 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     38 02] COO 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     39 02] DUB 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     40 02] EMO 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     41 02] FEL 
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     42 02] KAZ 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     44 02] MET 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     45 02] ODD 
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     46 02] OMO 
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     48 02] ONE 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     50 02] OVE 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     51 02] PRI 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     52 02] RAI 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     53 02] ROE 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     54 02] SD 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     55 02] SFA 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     56 02] SOL 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     57 02] SQU 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     58 02] STH 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     59 02] STR 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     60 02] TAK1 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     61 02] TRK01 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     62 02] TRK02 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     63 02] TRK03 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     64 02] TRK04 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     65 02] TRK05 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     66 02] TRK06 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     67 02] TRK07 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     68 02] TRK10 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     69 02] TRK11 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     70 02] TRK12 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     71 02] TRK13 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     72 02] TRK14 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     73 02] TRK15 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     74 02] TRK16 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     75 02] TRK17 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     76 02] TRK18 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     77 02] TRK19 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     78 02] TRK20 
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     79 02] WAVE 
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     81 02] WEL 
+-r-xr-xr-x   1    0    0       6864 Dec  8 2005 [ 256832 00] sc_sascore.prx 
+
+Directory listing of /PSP_GAME/USRDIR/CDIMAGE/SOUND/BIR/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     34 02] . 
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 236768 00] BA01_01.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 237120 00] BA01_02.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 232544 00] BA01_03.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 232192 00] BA01_04.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 232896 00] BA01_05.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 231488 00] BA01_06.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 233600 00] BA01_07.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 237472 00] BA01_08.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 233248 00] BA01_09.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 237824 00] BA01_10.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 238176 00] BA01_11.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 238880 00] BA01_12.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 234656 00] BA01_13.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 231136 00] BA01_14.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 233952 00] BA01_15.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 230784 00] BA01_16.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 234304 00] BA01_17.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 235360 00] BA01_18.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 238528 00] BA01_19.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 235008 00] BA01_20.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 236064 00] BA01_21.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 235712 00] BA01_22.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 236416 00] BA01_23.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 231840 00] BA01_24.TPK 
+
+Directory listing of /PSP_GAME/USRDIR/CDIMAGE/SOUND/BLA/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     35 02] . 
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 218240 00] BA01_01.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 218432 00] BA01_02.TPK 
+-r-xr-xr-x   1    0    0     558532 Jul 18 2006 [ 215424 00] BA01_03.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 215232 00] BA01_04.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 215712 00] BA01_05.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 214848 00] BA01_06.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 216096 00] BA01_07.TPK 
+-r-xr-xr-x   1    0    0     186340 Jul 18 2006 [ 218624 00] BA01_08.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 215904 00] BA01_09.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 218720 00] BA01_10.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 218912 00] BA01_11.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 219296 00] BA01_12.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 216864 00] BA01_13.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 214656 00] BA01_14.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 216288 00] BA01_15.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 214464 00] BA01_16.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 216480 00] BA01_17.TPK 
+-r-xr-xr-x   1    0    0     465476 Jul 18 2006 [ 217152 00] BA01_18.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 219104 00] BA01_19.TPK 
+-r-xr-xr-x   1    0    0     186340 Jul 18 2006 [ 217056 00] BA01_20.TPK 
+-r-xr-xr-x   1    0    0     186340 Jul 18 2006 [ 217952 00] BA01_21.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 217392 00] BA01_22.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 218048 00] BA01_23.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 215040 00] BA01_24.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 216672 00] BA01_25.TPK 
+-r-xr-xr-x   1    0    0     744612 Jul 18 2006 [ 217584 00] BA01_26.TPK 
+
+Directory listing of /PSP_GAME/USRDIR/CDIMAGE/SOUND/CIG/
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     36 02] . 
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     428420 Jul 18 2006 [  59920 00] BA01_01.TPK 
+-r-xr-xr-x   1    0    0     428420 Jul 18 2006 [  61008 00] BA01_02.TPK 
+-r-xr-xr-x   1    0    0     856612 Jul 18 2006 [  50416 00] BA01_03.TPK 
+-r-xr-xr-x   1    0    0     856612 Jul 18 2006 [  49984 00] BA01_04.TPK 
+-r-xr-xr-x   1    0    0     856612 Jul 18 2006 [  51712 00] BA01_05.TPK 
+-r-xr-xr-x   1    0    0     856612 Jul 18 2006 [  49120 00] BA01_06.TPK 
+-r-xr-xr-x   1    0    0     856612 Jul 18 2006 [  53872 00] BA01_07.TPK 
+-r-xr-xr-x   1    0    0     856612 Jul 18 2006 [  61232 00] BA01_08.TPK 
+-r-xr-xr-x   1    0    0     856612 Jul 18 2006 [  52144 00] BA01_09.TPK 
+-r-xr-xr-x   1    0    0     856612 Jul 18 2006 [  62096 00] BA01_10.TPK 
+-r-xr-xr-x   1    0    0     856612 Jul 18 2006 [  62528 00] BA01_11.TPK 
+-r-xr-xr-x   1    0    0     856612 Jul 18 2006 [  63392 00] BA01_12.TPK 
+-r-xr-xr-x   1    0    0     856612 Jul 18 2006 [  56464 00] BA01_13.TPK 
+-r-xr-xr-x   1    0    0     856612 Jul 18 2006 [  48032 00] BA01_14.TPK 
+-r-xr-xr-x   1    0    0     856612 Jul 18 2006 [  54736 00] BA01_15.TPK 
+-r-xr-xr-x   1    0    0     856612 Jul 18 2006 [  47600 00] BA01_16.TPK 
+-r-xr-xr-x   1    0    0     856612 Jul 18 2006 [  55168 00] BA01_17.TPK 
+-r-xr-xr-x   1    0    0     856612 Jul 18 2006 [  57328 00] BA01_18.TPK 
+-r-xr-xr-x   1    0    0     856612 Jul 18 2006 [  62960 00] BA01_19.TPK 
+-r-xr-xr-x   1    0    0     856612 Jul 18 2006 [  56896 00] BA01_20.TPK 
+-r-xr-xr-x   1    0    0     856612 Jul 18 2006 [  59056 00] BA01_21.TPK 
+-r-xr-xr-x   1    0    0     856612 Jul 18 2006 [  57760 00] BA01_22.TPK 
+-r-xr-xr-x   1    0    0     856612 Jul 18 2006 [  59488 00] BA01_23.TPK 
+-r-xr-xr-x   1    0    0     856612 Jul 18 2006 [  49552 00] BA01_24.TPK 
+-r-xr-xr-x   1    0    0     856612 Jul 18 2006 [  55600 00] BA01_25.TPK 
+-r-xr-xr-x   1    0    0     856612 Jul 18 2006 [  58192 00] BA01_26.TPK 
+-r-xr-xr-x   1    0    0     856612 Jul 18 2006 [  53440 00] BA01_27.TPK 
+-r-xr-xr-x   1    0    0     856612 Jul 18 2006 [  51280 00] BA01_28.TPK 
+-r-xr-xr-x   1    0    0     856612 Jul 18 2006 [  61664 00] BA01_29.TPK 
+-r-xr-xr-x   1    0    0     856612 Jul 18 2006 [  56032 00] BA01_30.TPK 
+-r-xr-xr-x   1    0    0     856612 Jul 18 2006 [  54304 00] BA01_31.TPK 
+-r-xr-xr-x   1    0    0     856612 Jul 18 2006 [  48464 00] BA01_32.TPK 
+-r-xr-xr-x   1    0    0     856612 Jul 18 2006 [  60576 00] BA01_33.TPK 
+-r-xr-xr-x   1    0    0     856612 Jul 18 2006 [  53008 00] BA01_34.TPK 
+-r-xr-xr-x   1    0    0     856612 Jul 18 2006 [  60144 00] BA01_35.TPK 
+-r-xr-xr-x   1    0    0     856612 Jul 18 2006 [  50848 00] BA01_36.TPK 
+-r-xr-xr-x   1    0    0     856612 Jul 18 2006 [  58624 00] BA01_37.TPK 
+-r-xr-xr-x   1    0    0     856612 Jul 18 2006 [  52576 00] BA01_38.TPK 
+-r-xr-xr-x   1    0    0     428420 Jul 18 2006 [  48896 00] BA01_39.TPK 
+
+Directory listing of /PSP_GAME/USRDIR/CDIMAGE/SOUND/COO/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     38 02] . 
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 306352 00] BA01_01.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 306544 00] BA01_02.TPK 
+-r-xr-xr-x   1    0    0     744612 Jul 18 2006 [ 302112 00] BA01_03.TPK 
+-r-xr-xr-x   1    0    0     744612 Jul 18 2006 [ 301744 00] BA01_04.TPK 
+-r-xr-xr-x   1    0    0     744612 Jul 18 2006 [ 302480 00] BA01_05.TPK 
+-r-xr-xr-x   1    0    0     744612 Jul 18 2006 [ 301376 00] BA01_06.TPK 
+-r-xr-xr-x   1    0    0     744612 Jul 18 2006 [ 303216 00] BA01_07.TPK 
+-r-xr-xr-x   1    0    0     744612 Jul 18 2006 [ 306736 00] BA01_08.TPK 
+-r-xr-xr-x   1    0    0     744612 Jul 18 2006 [ 302848 00] BA01_09.TPK 
+-r-xr-xr-x   1    0    0     744612 Jul 18 2006 [ 307104 00] BA01_10.TPK 
+-r-xr-xr-x   1    0    0     744612 Jul 18 2006 [ 307472 00] BA01_11.TPK 
+-r-xr-xr-x   1    0    0     744612 Jul 18 2006 [ 308208 00] BA01_12.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 304320 00] BA01_13.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 301184 00] BA01_14.TPK 
+-r-xr-xr-x   1    0    0     744612 Jul 18 2006 [ 303584 00] BA01_15.TPK 
+-r-xr-xr-x   1    0    0     744612 Jul 18 2006 [ 300816 00] BA01_16.TPK 
+-r-xr-xr-x   1    0    0     744612 Jul 18 2006 [ 303952 00] BA01_17.TPK 
+-r-xr-xr-x   1    0    0     744612 Jul 18 2006 [ 304880 00] BA01_18.TPK 
+-r-xr-xr-x   1    0    0     744612 Jul 18 2006 [ 307840 00] BA01_19.TPK 
+-r-xr-xr-x   1    0    0     744612 Jul 18 2006 [ 304512 00] BA01_20.TPK 
+-r-xr-xr-x   1    0    0     744612 Jul 18 2006 [ 305616 00] BA01_21.TPK 
+-r-xr-xr-x   1    0    0     744612 Jul 18 2006 [ 305248 00] BA01_22.TPK 
+-r-xr-xr-x   1    0    0     744612 Jul 18 2006 [ 305984 00] BA01_23.TPK 
+
+Directory listing of /PSP_GAME/USRDIR/CDIMAGE/SOUND/DUB/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     39 02] . 
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 137392 00] BA01_01.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 137776 00] BA01_02.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 133936 00] BA01_03.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 133744 00] BA01_04.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 134320 00] BA01_05.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 133360 00] BA01_06.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 134896 00] BA01_07.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 137968 00] BA01_08.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 134512 00] BA01_09.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 138352 00] BA01_10.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 138544 00] BA01_11.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 138928 00] BA01_12.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 136048 00] BA01_13.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 132976 00] BA01_14.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 135280 00] BA01_15.TPK 
+-r-xr-xr-x   1    0    0     744612 Jul 18 2006 [ 132608 00] BA01_16.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 135472 00] BA01_17.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 136432 00] BA01_18.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 138736 00] BA01_19.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 136240 00] BA01_20.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 137008 00] BA01_21.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 136624 00] BA01_22.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 137200 00] BA01_23.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 133552 00] BA01_24.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 135664 00] BA01_25.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 136816 00] BA01_26.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 134704 00] BA01_27.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 134128 00] BA01_28.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 138160 00] BA01_29.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 135856 00] BA01_30.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 135088 00] BA01_31.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 133168 00] BA01_32.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 137584 00] BA01_33.TPK 
+
+Directory listing of /PSP_GAME/USRDIR/CDIMAGE/SOUND/EMO/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     40 02] . 
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     218180 Jul 18 2006 [ 118656 00] BA01_01.TPK 
+-r-xr-xr-x   1    0    0     218180 Jul 18 2006 [ 118768 00] BA01_02.TPK 
+-r-xr-xr-x   1    0    0     218180 Jul 18 2006 [ 114896 00] BA01_03.TPK 
+-r-xr-xr-x   1    0    0     218180 Jul 18 2006 [ 114784 00] BA01_04.TPK 
+-r-xr-xr-x   1    0    0     872036 Jul 18 2006 [ 115008 00] BA01_05.TPK 
+-r-xr-xr-x   1    0    0     436132 Jul 18 2006 [ 114336 00] BA01_06.TPK 
+-r-xr-xr-x   1    0    0     436132 Jul 18 2006 [ 116096 00] BA01_07.TPK 
+-r-xr-xr-x   1    0    0     872036 Jul 18 2006 [ 118880 00] BA01_08.TPK 
+-r-xr-xr-x   1    0    0     436132 Jul 18 2006 [ 115440 00] BA01_09.TPK 
+-r-xr-xr-x   1    0    0     436132 Jul 18 2006 [ 119312 00] BA01_10.TPK 
+-r-xr-xr-x   1    0    0     436132 Jul 18 2006 [ 119536 00] BA01_11.TPK 
+-r-xr-xr-x   1    0    0     436132 Jul 18 2006 [ 119984 00] BA01_12.TPK 
+-r-xr-xr-x   1    0    0     218180 Jul 18 2006 [ 117200 00] BA01_13.TPK 
+-r-xr-xr-x   1    0    0     218180 Jul 18 2006 [ 114224 00] BA01_14.TPK 
+-r-xr-xr-x   1    0    0     436132 Jul 18 2006 [ 116320 00] BA01_15.TPK 
+-r-xr-xr-x   1    0    0     436132 Jul 18 2006 [ 114000 00] BA01_16.TPK 
+-r-xr-xr-x   1    0    0     872036 Jul 18 2006 [ 116544 00] BA01_17.TPK 
+-r-xr-xr-x   1    0    0     436132 Jul 18 2006 [ 117536 00] BA01_18.TPK 
+-r-xr-xr-x   1    0    0     436132 Jul 18 2006 [ 119760 00] BA01_19.TPK 
+-r-xr-xr-x   1    0    0     436132 Jul 18 2006 [ 117312 00] BA01_20.TPK 
+-r-xr-xr-x   1    0    0     436132 Jul 18 2006 [ 118208 00] BA01_21.TPK 
+-r-xr-xr-x   1    0    0     436132 Jul 18 2006 [ 117760 00] BA01_22.TPK 
+-r-xr-xr-x   1    0    0     436132 Jul 18 2006 [ 118432 00] BA01_23.TPK 
+-r-xr-xr-x   1    0    0     436132 Jul 18 2006 [ 114560 00] BA01_24.TPK 
+-r-xr-xr-x   1    0    0     436132 Jul 18 2006 [ 116976 00] BA01_25.TPK 
+-r-xr-xr-x   1    0    0     436132 Jul 18 2006 [ 117984 00] BA01_26.TPK 
+-r-xr-xr-x   1    0    0     872036 Jul 18 2006 [ 115664 00] BA01_27.TPK 
+
+Directory listing of /PSP_GAME/USRDIR/CDIMAGE/SOUND/FEL/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     41 02] . 
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     300196 Jul 18 2006 [ 157344 00] BA01_01.TPK 
+-r-xr-xr-x   1    0    0     300196 Jul 18 2006 [ 157664 00] BA01_02.TPK 
+-r-xr-xr-x   1    0    0     300196 Jul 18 2006 [ 153744 00] BA01_03.TPK 
+-r-xr-xr-x   1    0    0     600164 Jul 18 2006 [ 153440 00] BA01_04.TPK 
+-r-xr-xr-x   1    0    0     300196 Jul 18 2006 [ 154208 00] BA01_05.TPK 
+-r-xr-xr-x   1    0    0     600164 Jul 18 2006 [ 152976 00] BA01_06.TPK 
+-r-xr-xr-x   1    0    0     600164 Jul 18 2006 [ 154832 00] BA01_07.TPK 
+-r-xr-xr-x   1    0    0     300196 Jul 18 2006 [ 157824 00] BA01_08.TPK 
+-r-xr-xr-x   1    0    0     300196 Jul 18 2006 [ 154368 00] BA01_09.TPK 
+-r-xr-xr-x   1    0    0     300196 Jul 18 2006 [ 158144 00] BA01_10.TPK 
+-r-xr-xr-x   1    0    0     300196 Jul 18 2006 [ 158304 00] BA01_11.TPK 
+-r-xr-xr-x   1    0    0     600164 Jul 18 2006 [ 158768 00] BA01_12.TPK 
+-r-xr-xr-x   1    0    0     300196 Jul 18 2006 [ 156080 00] BA01_13.TPK 
+-r-xr-xr-x   1    0    0     300196 Jul 18 2006 [ 152656 00] BA01_14.TPK 
+-r-xr-xr-x   1    0    0     600164 Jul 18 2006 [ 155296 00] BA01_15.TPK 
+-r-xr-xr-x   1    0    0     300196 Jul 18 2006 [ 152496 00] BA01_16.TPK 
+-r-xr-xr-x   1    0    0     300196 Jul 18 2006 [ 155600 00] BA01_17.TPK 
+-r-xr-xr-x   1    0    0     300196 Jul 18 2006 [ 156544 00] BA01_18.TPK 
+-r-xr-xr-x   1    0    0     600164 Jul 18 2006 [ 158464 00] BA01_19.TPK 
+-r-xr-xr-x   1    0    0     600164 Jul 18 2006 [ 156240 00] BA01_20.TPK 
+-r-xr-xr-x   1    0    0     300196 Jul 18 2006 [ 157024 00] BA01_21.TPK 
+-r-xr-xr-x   1    0    0     300196 Jul 18 2006 [ 156704 00] BA01_22.TPK 
+-r-xr-xr-x   1    0    0     300196 Jul 18 2006 [ 157184 00] BA01_23.TPK 
+-r-xr-xr-x   1    0    0     300196 Jul 18 2006 [ 153280 00] BA01_24.TPK 
+-r-xr-xr-x   1    0    0     300196 Jul 18 2006 [ 155760 00] BA01_25.TPK 
+-r-xr-xr-x   1    0    0     300196 Jul 18 2006 [ 156864 00] BA01_26.TPK 
+-r-xr-xr-x   1    0    0     600164 Jul 18 2006 [ 154528 00] BA01_27.TPK 
+-r-xr-xr-x   1    0    0     600164 Jul 18 2006 [ 153904 00] BA01_28.TPK 
+-r-xr-xr-x   1    0    0     300196 Jul 18 2006 [ 157984 00] BA01_29.TPK 
+-r-xr-xr-x   1    0    0     300196 Jul 18 2006 [ 155920 00] BA01_30.TPK 
+-r-xr-xr-x   1    0    0     300196 Jul 18 2006 [ 155136 00] BA01_31.TPK 
+-r-xr-xr-x   1    0    0     300196 Jul 18 2006 [ 152816 00] BA01_32.TPK 
+-r-xr-xr-x   1    0    0     300196 Mar 10 2006 [ 157504 00] BA01_33.TPK 
+
+Directory listing of /PSP_GAME/USRDIR/CDIMAGE/SOUND/KAZ/
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     42 02] . 
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     387300 Jul 18 2006 [ 284048 00] BA01_01.TPK 
+-r-xr-xr-x   1    0    0     387300 Jul 18 2006 [ 286208 00] BA01_02.TPK 
+-r-xr-xr-x   1    0    0     387300 Jul 18 2006 [ 276512 00] BA01_03.TPK 
+-r-xr-xr-x   1    0    0     387300 Jul 18 2006 [ 276320 00] BA01_04.TPK 
+-r-xr-xr-x   1    0    0     387300 Jul 18 2006 [ 277472 00] BA01_05.TPK 
+-r-xr-xr-x   1    0    0     774372 Jul 18 2006 [ 275072 00] BA01_06.TPK 
+-r-xr-xr-x   1    0    0     387300 Jul 18 2006 [ 279008 00] BA01_07.TPK 
+-r-xr-xr-x   1    0    0     387300 Jul 18 2006 [ 286400 00] BA01_08.TPK 
+-r-xr-xr-x   1    0    0     387300 Jul 18 2006 [ 277664 00] BA01_09.TPK 
+-r-xr-xr-x   1    0    0     387300 Jul 18 2006 [ 287168 00] BA01_10.TPK 
+-r-xr-xr-x   1    0    0     387300 Jul 18 2006 [ 287552 00] BA01_11.TPK 
+-r-xr-xr-x   1    0    0     387300 Jul 18 2006 [ 288128 00] BA01_12.TPK 
+-r-xr-xr-x   1    0    0     774372 Jul 18 2006 [ 280928 00] BA01_13.TPK 
+-r-xr-xr-x   1    0    0     387300 Jul 18 2006 [ 273968 00] BA01_14.TPK 
+-r-xr-xr-x   1    0    0     387300 Jul 18 2006 [ 279584 00] BA01_15.TPK 
+-r-xr-xr-x   1    0    0     387300 Jul 18 2006 [ 273776 00] BA01_16.TPK 
+-r-xr-xr-x   1    0    0     387300 Jul 18 2006 [ 279968 00] BA01_17.TPK 
+-r-xr-xr-x   1    0    0     387300 Jul 18 2006 [ 281936 00] BA01_18.TPK 
+-r-xr-xr-x   1    0    0     774372 Jul 18 2006 [ 287744 00] BA01_19.TPK 
+-r-xr-xr-x   1    0    0     387300 Jul 18 2006 [ 281312 00] BA01_20.TPK 
+-r-xr-xr-x   1    0    0     387300 Jul 18 2006 [ 283472 00] BA01_21.TPK 
+-r-xr-xr-x   1    0    0     387300 Jul 18 2006 [ 282128 00] BA01_22.TPK 
+-r-xr-xr-x   1    0    0     774372 Jul 18 2006 [ 283664 00] BA01_23.TPK 
+-r-xr-xr-x   1    0    0     774372 Jul 18 2006 [ 275936 00] BA01_24.TPK 
+-r-xr-xr-x   1    0    0     387300 Jul 18 2006 [ 280352 00] BA01_25.TPK 
+-r-xr-xr-x   1    0    0     387300 Jul 18 2006 [ 282320 00] BA01_26.TPK 
+-r-xr-xr-x   1    0    0     774372 Jul 18 2006 [ 278624 00] BA01_27.TPK 
+-r-xr-xr-x   1    0    0     774372 Jul 18 2006 [ 277088 00] BA01_28.TPK 
+-r-xr-xr-x   1    0    0     774372 Jul 18 2006 [ 286592 00] BA01_29.TPK 
+-r-xr-xr-x   1    0    0     774372 Jul 18 2006 [ 280544 00] BA01_30.TPK 
+-r-xr-xr-x   1    0    0     774372 Jul 18 2006 [ 279200 00] BA01_31.TPK 
+-r-xr-xr-x   1    0    0     774372 Jul 18 2006 [ 274160 00] BA01_32.TPK 
+-r-xr-xr-x   1    0    0     387300 Jul 18 2006 [ 285776 00] BA01_33.TPK 
+-r-xr-xr-x   1    0    0     387300 Jul 18 2006 [ 278432 00] BA01_34.TPK 
+-r-xr-xr-x   1    0    0     387300 Jul 18 2006 [ 285392 00] BA01_35.TPK 
+-r-xr-xr-x   1    0    0     387300 Jul 18 2006 [ 276704 00] BA01_36.TPK 
+-r-xr-xr-x   1    0    0     387300 Jul 18 2006 [ 282512 00] BA01_37.TPK 
+-r-xr-xr-x   1    0    0     387300 Jul 18 2006 [ 278048 00] BA01_38.TPK 
+-r-xr-xr-x   1    0    0     484068 Jul 18 2006 [ 274832 00] BA01_39.TPK 
+-r-xr-xr-x   1    0    0     387300 Jul 18 2006 [ 286976 00] BA01_40.TPK 
+-r-xr-xr-x   1    0    0     387300 Jul 18 2006 [ 280160 00] BA01_41.TPK 
+-r-xr-xr-x   1    0    0     387300 Jul 18 2006 [ 276896 00] BA01_42.TPK 
+-r-xr-xr-x   1    0    0     580836 Jul 18 2006 [ 284240 00] BA01_43.TPK 
+-r-xr-xr-x   1    0    0     580836 Jul 18 2006 [ 274544 00] BA01_44.TPK 
+-r-xr-xr-x   1    0    0     580836 Jul 18 2006 [ 284720 00] BA01_45.TPK 
+-r-xr-xr-x   1    0    0     774372 Jul 18 2006 [ 282704 00] BA01_46.TPK 
+-r-xr-xr-x   1    0    0     387300 Jul 18 2006 [ 285584 00] BA01_47.TPK 
+-r-xr-xr-x   1    0    0     967908 Jul 18 2006 [ 275456 00] BA01_48.TPK 
+-r-xr-xr-x   1    0    0     387300 Feb 21 2006 [ 287360 00] BA01_49.TPK 
+-r-xr-xr-x   1    0    0     484068 Feb 21 2006 [ 285968 00] BA01_50.TPK 
+-r-xr-xr-x   1    0    0     387300 Feb 21 2006 [ 277856 00] BA01_51.TPK 
+-r-xr-xr-x   1    0    0     387300 Feb 21 2006 [ 273584 00] BA01_52.TPK 
+-r-xr-xr-x   1    0    0     387300 Feb 21 2006 [ 279776 00] BA01_53.TPK 
+-r-xr-xr-x   1    0    0     387300 Feb 21 2006 [ 278240 00] BA01_54.TPK 
+-r-xr-xr-x   1    0    0     774372 Feb 21 2006 [ 283088 00] BA01_54_2.TPK 
+-r-xr-xr-x   1    0    0     774372 Feb 21 2006 [ 285008 00] BA01_55.TPK 
+-r-xr-xr-x   1    0    0     387300 Feb 21 2006 [ 284528 00] BA01_56.TPK 
+-r-xr-xr-x   1    0    0     871140 Feb 21 2006 [ 281504 00] BA01_57.TPK 
+
+Directory listing of /PSP_GAME/USRDIR/CDIMAGE/SOUND/MET/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     44 02] . 
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 165360 00] BA01_01.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 165552 00] BA01_02.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 163632 00] BA01_03.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 163440 00] BA01_04.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 163824 00] BA01_05.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 163248 00] BA01_06.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 164208 00] BA01_07.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 165744 00] BA01_08.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 164016 00] BA01_09.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 165936 00] BA01_10.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 166128 00] BA01_11.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 166512 00] BA01_12.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 164784 00] BA01_13.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 163056 00] BA01_14.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 164400 00] BA01_15.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 162864 00] BA01_16.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 164592 00] BA01_17.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 165168 00] BA01_18.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 166320 00] BA01_19.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 164976 00] BA01_20.TPK 
+
+Directory listing of /PSP_GAME/USRDIR/CDIMAGE/SOUND/ODD/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     45 02] . 
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     324964 Jul 18 2006 [ 171824 00] BA01_01.TPK 
+-r-xr-xr-x   1    0    0     324964 Jul 18 2006 [ 171984 00] BA01_02.TPK 
+-r-xr-xr-x   1    0    0     649700 Jul 18 2006 [ 168144 00] BA01_03.TPK 
+-r-xr-xr-x   1    0    0     324964 Jul 18 2006 [ 167984 00] BA01_04.TPK 
+-r-xr-xr-x   1    0    0     649700 Jul 18 2006 [ 168464 00] BA01_05.TPK 
+-r-xr-xr-x   1    0    0     649700 Jul 18 2006 [ 167344 00] BA01_06.TPK 
+-r-xr-xr-x   1    0    0     324964 Jul 18 2006 [ 168944 00] BA01_07.TPK 
+-r-xr-xr-x   1    0    0     324964 Jul 18 2006 [ 172144 00] BA01_08.TPK 
+-r-xr-xr-x   1    0    0     324964 Jul 18 2006 [ 168784 00] BA01_09.TPK 
+-r-xr-xr-x   1    0    0     324964 Jul 18 2006 [ 172304 00] BA01_10.TPK 
+-r-xr-xr-x   1    0    0     324964 Jul 18 2006 [ 172464 00] BA01_11.TPK 
+-r-xr-xr-x   1    0    0     324964 Jul 18 2006 [ 172944 00] BA01_12.TPK 
+-r-xr-xr-x   1    0    0     324964 Jul 18 2006 [ 170064 00] BA01_13.TPK 
+-r-xr-xr-x   1    0    0     649700 Jul 18 2006 [ 167024 00] BA01_14.TPK 
+-r-xr-xr-x   1    0    0     649700 Jul 18 2006 [ 169104 00] BA01_15.TPK 
+-r-xr-xr-x   1    0    0     649700 Jul 18 2006 [ 166704 00] BA01_16.TPK 
+-r-xr-xr-x   1    0    0     649700 Jul 18 2006 [ 169424 00] BA01_17.TPK 
+-r-xr-xr-x   1    0    0     649700 Jul 18 2006 [ 170544 00] BA01_18.TPK 
+-r-xr-xr-x   1    0    0     649700 Jul 18 2006 [ 172624 00] BA01_19.TPK 
+-r-xr-xr-x   1    0    0     649700 Jul 18 2006 [ 170224 00] BA01_20.TPK 
+-r-xr-xr-x   1    0    0     649700 Jul 18 2006 [ 171184 00] BA01_21.TPK 
+-r-xr-xr-x   1    0    0     649700 Jul 18 2006 [ 170864 00] BA01_22.TPK 
+-r-xr-xr-x   1    0    0     649700 Jul 18 2006 [ 171504 00] BA01_23.TPK 
+-r-xr-xr-x   1    0    0     649700 Jul 18 2006 [ 167664 00] BA01_24.TPK 
+-r-xr-xr-x   1    0    0     649700 Jul 18 2006 [ 169744 00] BA01_25.TPK 
+
+Directory listing of /PSP_GAME/USRDIR/CDIMAGE/SOUND/OMO/
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     46 02] . 
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [  41536 00] BA01_01.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [  43024 00] BA01_02.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [  35232 00] BA01_03.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [  35040 00] BA01_04.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [  36352 00] BA01_05.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [  34656 00] BA01_06.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [  37488 00] BA01_07.TPK 
+-r-xr-xr-x   1    0    0     744612 Jul 18 2006 [  43216 00] BA01_08.TPK 
+-r-xr-xr-x   1    0    0     744612 Jul 18 2006 [  36544 00] BA01_09.TPK 
+-r-xr-xr-x   1    0    0     744612 Jul 18 2006 [  43968 00] BA01_10.TPK 
+-r-xr-xr-x   1    0    0     744612 Jul 18 2006 [  44336 00] BA01_11.TPK 
+-r-xr-xr-x   1    0    0     465476 Jul 18 2006 [  44896 00] BA01_12.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [  39184 00] BA01_13.TPK 
+-r-xr-xr-x   1    0    0     744612 Jul 18 2006 [  33488 00] BA01_14.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [  37872 00] BA01_15.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [  33296 00] BA01_16.TPK 
+-r-xr-xr-x   1    0    0     744612 Jul 18 2006 [  38064 00] BA01_17.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [  39568 00] BA01_18.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [  44704 00] BA01_19.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [  39376 00] BA01_20.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [  40976 00] BA01_21.TPK 
+-r-xr-xr-x   1    0    0     744612 Jul 18 2006 [  39760 00] BA01_22.TPK 
+-r-xr-xr-x   1    0    0     744612 Jul 18 2006 [  41168 00] BA01_23.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [  34848 00] BA01_24.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [  38800 00] BA01_25.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [  40128 00] BA01_26.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [  37296 00] BA01_27.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [  36160 00] BA01_28.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [  43584 00] BA01_29.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [  38992 00] BA01_30.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [  37680 00] BA01_31.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [  33856 00] BA01_32.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [  42832 00] BA01_33.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [  37104 00] BA01_34.TPK 
+-r-xr-xr-x   1    0    0     744612 Jul 18 2006 [  42464 00] BA01_35.TPK 
+-r-xr-xr-x   1    0    0     744612 Jul 18 2006 [  35424 00] BA01_36.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [  40320 00] BA01_37.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [  36912 00] BA01_38.TPK 
+-r-xr-xr-x   1    0    0     465476 Jul 18 2006 [  34416 00] BA01_39.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [  43776 00] BA01_40.TPK 
+-r-xr-xr-x   1    0    0     744612 Jul 18 2006 [  38432 00] BA01_41.TPK 
+-r-xr-xr-x   1    0    0     744612 Jul 18 2006 [  35792 00] BA01_42.TPK 
+-r-xr-xr-x   1    0    0     744612 Jul 18 2006 [  41728 00] BA01_43.TPK 
+-r-xr-xr-x   1    0    0     744612 Jul 18 2006 [  34048 00] BA01_44.TPK 
+-r-xr-xr-x   1    0    0     744612 Jul 18 2006 [  42096 00] BA01_45.TPK 
+-r-xr-xr-x   1    0    0     930692 Jul 18 2006 [  40512 00] BA01_46.TPK 
+
+Directory listing of /PSP_GAME/USRDIR/CDIMAGE/SOUND/ONE/
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     48 02] . 
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 296416 00] BA01_01.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 298880 00] BA01_02.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 290256 00] BA01_03.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 290080 00] BA01_04.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 291136 00] BA01_05.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 289552 00] BA01_06.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 292544 00] BA01_07.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 299056 00] BA01_08.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 291312 00] BA01_09.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 299936 00] BA01_10.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 300288 00] BA01_11.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 300640 00] BA01_12.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 294480 00] BA01_13.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 288672 00] BA01_14.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 293072 00] BA01_15.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 288496 00] BA01_16.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 293424 00] BA01_17.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 295008 00] BA01_18.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 300464 00] BA01_19.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 294656 00] BA01_20.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 296064 00] BA01_21.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 295184 00] BA01_22.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 296240 00] BA01_23.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 289904 00] BA01_24.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 293952 00] BA01_25.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 295360 00] BA01_26.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 292368 00] BA01_27.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 290960 00] BA01_28.TPK 
+-r-xr-xr-x   1    0    0     717028 Jul 18 2006 [ 299232 00] BA01_29.TPK 
+-r-xr-xr-x   1    0    0     717028 Jul 18 2006 [ 294128 00] BA01_30.TPK 
+-r-xr-xr-x   1    0    0     717028 Jul 18 2006 [ 292720 00] BA01_31.TPK 
+-r-xr-xr-x   1    0    0     717028 Jul 18 2006 [ 288848 00] BA01_32.TPK 
+-r-xr-xr-x   1    0    0     717028 Jul 18 2006 [ 298352 00] BA01_33.TPK 
+-r-xr-xr-x   1    0    0     717028 Jul 18 2006 [ 292016 00] BA01_34.TPK 
+-r-xr-xr-x   1    0    0     717028 Jul 18 2006 [ 297648 00] BA01_35.TPK 
+-r-xr-xr-x   1    0    0     717028 Jul 18 2006 [ 290432 00] BA01_36.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 295536 00] BA01_37.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 291664 00] BA01_38.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 289376 00] BA01_39.TPK 
+-r-xr-xr-x   1    0    0     717028 Jul 18 2006 [ 299584 00] BA01_40.TPK 
+-r-xr-xr-x   1    0    0     717028 Jul 18 2006 [ 293600 00] BA01_41.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 290784 00] BA01_42.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 296592 00] BA01_43.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 289200 00] BA01_44.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 297120 00] BA01_45.TPK 
+-r-xr-xr-x   1    0    0     717028 Jul 18 2006 [ 295712 00] BA01_46.TPK 
+-r-xr-xr-x   1    0    0     717028 Jul 18 2006 [ 298000 00] BA01_47.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 289728 00] BA01_48.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 300112 00] BA01_49.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 298704 00] BA01_50.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 291488 00] BA01_51.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 288320 00] BA01_52.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 293248 00] BA01_53.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 291840 00] BA01_54.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 297472 00] BA01_55.TPK 
+-r-xr-xr-x   1    0    0     717028 Jul 18 2006 [ 296768 00] BA01_56.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 294832 00] BA01_57.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 297296 00] BA01_58.TPK 
+
+Directory listing of /PSP_GAME/USRDIR/CDIMAGE/SOUND/OVE/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     50 02] . 
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     509540 Jul 18 2006 [ 112464 00] BA01_01.TPK 
+-r-xr-xr-x   1    0    0     509540 Jul 18 2006 [ 112720 00] BA01_02.TPK 
+-r-xr-xr-x   1    0    0     509540 Jul 18 2006 [ 110672 00] BA01_03.TPK 
+-r-xr-xr-x   1    0    0     509540 Jul 18 2006 [ 110416 00] BA01_04.TPK 
+-r-xr-xr-x   1    0    0     509540 Jul 18 2006 [ 110928 00] BA01_05.TPK 
+-r-xr-xr-x   1    0    0     509540 Jul 18 2006 [ 110160 00] BA01_06.TPK 
+-r-xr-xr-x   1    0    0     509540 Jul 18 2006 [ 111440 00] BA01_07.TPK 
+-r-xr-xr-x   1    0    0     509540 Jul 18 2006 [ 112976 00] BA01_08.TPK 
+-r-xr-xr-x   1    0    0     509540 Jul 18 2006 [ 111184 00] BA01_09.TPK 
+-r-xr-xr-x   1    0    0     509540 Jul 18 2006 [ 113232 00] BA01_10.TPK 
+-r-xr-xr-x   1    0    0     509540 Jul 18 2006 [ 113488 00] BA01_11.TPK 
+-r-xr-xr-x   1    0    0     509540 Jul 18 2006 [ 113744 00] BA01_12.TPK 
+-r-xr-xr-x   1    0    0     509540 Jul 18 2006 [ 112208 00] BA01_13.TPK 
+-r-xr-xr-x   1    0    0     509540 Jul 18 2006 [ 109904 00] BA01_14.TPK 
+-r-xr-xr-x   1    0    0     509540 Jul 18 2006 [ 111696 00] BA01_15.TPK 
+-r-xr-xr-x   1    0    0     509540 Jul 18 2006 [ 109648 00] BA01_16.TPK 
+-r-xr-xr-x   1    0    0     509540 Jul 18 2006 [ 111952 00] BA01_17.TPK 
+
+Directory listing of /PSP_GAME/USRDIR/CDIMAGE/SOUND/PRI/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     51 02] . 
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 272240 00] BA01_01.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 272432 00] BA01_02.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 270896 00] BA01_03.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 270704 00] BA01_04.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 271088 00] BA01_05.TPK 
+-r-xr-xr-x   1    0    0     186340 Jul 18 2006 [ 270608 00] BA01_06.TPK 
+-r-xr-xr-x   1    0    0     186340 Jul 18 2006 [ 271472 00] BA01_07.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 272624 00] BA01_08.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 271280 00] BA01_09.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 272816 00] BA01_10.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 273008 00] BA01_11.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 273392 00] BA01_12.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 271856 00] BA01_13.TPK 
+-r-xr-xr-x   1    0    0     186340 Jul 18 2006 [ 270512 00] BA01_14.TPK 
+-r-xr-xr-x   1    0    0     186340 Jul 18 2006 [ 271568 00] BA01_15.TPK 
+-r-xr-xr-x   1    0    0     186340 Jul 18 2006 [ 270416 00] BA01_16.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 271664 00] BA01_17.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 272048 00] BA01_18.TPK 
+-r-xr-xr-x   1    0    0     372420 Feb  9 2006 [ 273200 00] BA01_19.TPK 
+
+Directory listing of /PSP_GAME/USRDIR/CDIMAGE/SOUND/RAI/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     52 02] . 
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     387300 Jul 18 2006 [ 223232 00] BA01_01.TPK 
+-r-xr-xr-x   1    0    0     387300 Jul 18 2006 [ 223424 00] BA01_02.TPK 
+-r-xr-xr-x   1    0    0     387300 Jul 18 2006 [ 220448 00] BA01_03.TPK 
+-r-xr-xr-x   1    0    0     387300 Jul 18 2006 [ 220256 00] BA01_04.TPK 
+-r-xr-xr-x   1    0    0     387300 Jul 18 2006 [ 220640 00] BA01_05.TPK 
+-r-xr-xr-x   1    0    0     387300 Jul 18 2006 [ 220064 00] BA01_06.TPK 
+-r-xr-xr-x   1    0    0     387300 Jul 18 2006 [ 221024 00] BA01_07.TPK 
+-r-xr-xr-x   1    0    0     387300 Jul 18 2006 [ 223616 00] BA01_08.TPK 
+-r-xr-xr-x   1    0    0     387300 Jul 18 2006 [ 220832 00] BA01_09.TPK 
+-r-xr-xr-x   1    0    0     387300 Jul 18 2006 [ 223808 00] BA01_10.TPK 
+-r-xr-xr-x   1    0    0     774372 Jul 18 2006 [ 224000 00] BA01_11.TPK 
+-r-xr-xr-x   1    0    0     774372 Jul 18 2006 [ 224768 00] BA01_12.TPK 
+-r-xr-xr-x   1    0    0     387300 Jul 18 2006 [ 221984 00] BA01_13.TPK 
+-r-xr-xr-x   1    0    0     387300 Jul 18 2006 [ 219872 00] BA01_14.TPK 
+-r-xr-xr-x   1    0    0     774372 Jul 18 2006 [ 221216 00] BA01_15.TPK 
+-r-xr-xr-x   1    0    0     774372 Jul 18 2006 [ 219488 00] BA01_16.TPK 
+-r-xr-xr-x   1    0    0     774372 Jul 18 2006 [ 221600 00] BA01_17.TPK 
+-r-xr-xr-x   1    0    0     774372 Jul 18 2006 [ 222560 00] BA01_18.TPK 
+-r-xr-xr-x   1    0    0     774372 Jul 18 2006 [ 224384 00] BA01_19.TPK 
+-r-xr-xr-x   1    0    0     774372 Jul 18 2006 [ 222176 00] BA01_20.TPK 
+-r-xr-xr-x   1    0    0     580836 Jul 18 2006 [ 222944 00] BA01_21.TPK 
+
+Directory listing of /PSP_GAME/USRDIR/CDIMAGE/SOUND/ROE/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     53 02] . 
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     272068 Jul 18 2006 [ 161440 00] BA01_01.TPK 
+-r-xr-xr-x   1    0    0     272068 Jul 18 2006 [ 161584 00] BA01_02.TPK 
+-r-xr-xr-x   1    0    0     272068 Jul 18 2006 [ 159904 00] BA01_03.TPK 
+-r-xr-xr-x   1    0    0     272068 Jul 18 2006 [ 159760 00] BA01_04.TPK 
+-r-xr-xr-x   1    0    0     272068 Jul 18 2006 [ 160048 00] BA01_05.TPK 
+-r-xr-xr-x   1    0    0     272068 Jul 18 2006 [ 159616 00] BA01_06.TPK 
+-r-xr-xr-x   1    0    0     543876 Jul 18 2006 [ 160464 00] BA01_07.TPK 
+-r-xr-xr-x   1    0    0     543876 Jul 18 2006 [ 161728 00] BA01_08.TPK 
+-r-xr-xr-x   1    0    0     543876 Jul 18 2006 [ 160192 00] BA01_09.TPK 
+-r-xr-xr-x   1    0    0     543876 Jul 18 2006 [ 162000 00] BA01_10.TPK 
+-r-xr-xr-x   1    0    0     543876 Jul 18 2006 [ 162272 00] BA01_11.TPK 
+-r-xr-xr-x   1    0    0     272068 Jul 18 2006 [ 162720 00] BA01_12.TPK 
+-r-xr-xr-x   1    0    0     272068 Jul 18 2006 [ 161152 00] BA01_13.TPK 
+-r-xr-xr-x   1    0    0     543876 Jul 18 2006 [ 159344 00] BA01_14.TPK 
+-r-xr-xr-x   1    0    0     543876 Jul 18 2006 [ 160736 00] BA01_15.TPK 
+-r-xr-xr-x   1    0    0     543876 Jul 18 2006 [ 159072 00] BA01_16.TPK 
+-r-xr-xr-x   1    0    0     272068 Jul 18 2006 [ 161008 00] BA01_17.TPK 
+-r-xr-xr-x   1    0    0     272068 Jul 18 2006 [ 161296 00] BA01_18.TPK 
+-r-xr-xr-x   1    0    0     340004 Jul 18 2006 [ 162544 00] BA01_19.TPK 
+
+Directory listing of /PSP_GAME/USRDIR/CDIMAGE/SOUND/SD/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     54 02] . 
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     179428 Jul 18 2006 [ 213392 00] BA01_01.TPK 
+-r-xr-xr-x   1    0    0     179428 Jul 18 2006 [ 213488 00] BA01_02.TPK 
+-r-xr-xr-x   1    0    0     179428 Jul 18 2006 [ 211440 00] BA01_03.TPK 
+-r-xr-xr-x   1    0    0     179428 Jul 18 2006 [ 211344 00] BA01_04.TPK 
+-r-xr-xr-x   1    0    0     179428 Jul 18 2006 [ 211536 00] BA01_05.TPK 
+-r-xr-xr-x   1    0    0     179428 Jul 18 2006 [ 211072 00] BA01_06.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 211808 00] BA01_07.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 213584 00] BA01_08.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 211632 00] BA01_09.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 213760 00] BA01_10.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 213936 00] BA01_11.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 214288 00] BA01_12.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 212336 00] BA01_13.TPK 
+-r-xr-xr-x   1    0    0     717028 Jul 18 2006 [ 210720 00] BA01_14.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 211984 00] BA01_15.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 210544 00] BA01_16.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 212160 00] BA01_17.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 212688 00] BA01_18.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 214112 00] BA01_19.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 212512 00] BA01_20.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 213040 00] BA01_21.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 212864 00] BA01_22.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 213216 00] BA01_23.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 211168 00] BA01_24.TPK 
+
+Directory listing of /PSP_GAME/USRDIR/CDIMAGE/SOUND/SFA/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     55 02] . 
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     762180 Jul 18 2006 [ 186576 00] BA01_01.TPK 
+-r-xr-xr-x   1    0    0     762212 Jul 18 2006 [ 186960 00] BA01_02.TPK 
+-r-xr-xr-x   1    0    0     762212 Jul 18 2006 [ 179856 00] BA01_03.TPK 
+-r-xr-xr-x   1    0    0     762180 Jul 18 2006 [ 179472 00] BA01_04.TPK 
+-r-xr-xr-x   1    0    0     762212 Jul 18 2006 [ 180624 00] BA01_05.TPK 
+-r-xr-xr-x   1    0    0     762212 Jul 18 2006 [ 178704 00] BA01_06.TPK 
+-r-xr-xr-x   1    0    0     762212 Jul 18 2006 [ 181776 00] BA01_07.TPK 
+-r-xr-xr-x   1    0    0     762212 Jul 18 2006 [ 187344 00] BA01_08.TPK 
+-r-xr-xr-x   1    0    0     762180 Jul 18 2006 [ 181008 00] BA01_09.TPK 
+-r-xr-xr-x   1    0    0     762212 Jul 18 2006 [ 188112 00] BA01_10.TPK 
+-r-xr-xr-x   1    0    0     762212 Jul 18 2006 [ 188496 00] BA01_11.TPK 
+-r-xr-xr-x   1    0    0     762180 Jul 18 2006 [ 189264 00] BA01_12.TPK 
+-r-xr-xr-x   1    0    0     762212 Jul 18 2006 [ 183888 00] BA01_13.TPK 
+-r-xr-xr-x   1    0    0     762212 Jul 18 2006 [ 178320 00] BA01_14.TPK 
+-r-xr-xr-x   1    0    0     762180 Jul 18 2006 [ 182352 00] BA01_15.TPK 
+-r-xr-xr-x   1    0    0     762212 Jul 18 2006 [ 177936 00] BA01_16.TPK 
+-r-xr-xr-x   1    0    0     762212 Jul 18 2006 [ 182736 00] BA01_17.TPK 
+-r-xr-xr-x   1    0    0     762212 Jul 18 2006 [ 184656 00] BA01_18.TPK 
+-r-xr-xr-x   1    0    0     762180 Jul 18 2006 [ 188880 00] BA01_19.TPK 
+-r-xr-xr-x   1    0    0     762212 Jul 18 2006 [ 184272 00] BA01_20.TPK 
+-r-xr-xr-x   1    0    0     762212 Jul 18 2006 [ 185808 00] BA01_21.TPK 
+-r-xr-xr-x   1    0    0     762212 Jul 18 2006 [ 185040 00] BA01_22.TPK 
+-r-xr-xr-x   1    0    0     762212 Jul 18 2006 [ 186192 00] BA01_23.TPK 
+-r-xr-xr-x   1    0    0     762180 Jul 18 2006 [ 179088 00] BA01_24.TPK 
+-r-xr-xr-x   1    0    0     762212 Jul 18 2006 [ 183120 00] BA01_25.TPK 
+-r-xr-xr-x   1    0    0     762212 Jul 18 2006 [ 185424 00] BA01_26.TPK 
+-r-xr-xr-x   1    0    0     762180 Jul 18 2006 [ 181392 00] BA01_27.TPK 
+-r-xr-xr-x   1    0    0     762212 Jul 18 2006 [ 180240 00] BA01_28.TPK 
+-r-xr-xr-x   1    0    0     762180 Jul 18 2006 [ 187728 00] BA01_29.TPK 
+-r-xr-xr-x   1    0    0     762212 Jul 18 2006 [ 183504 00] BA01_30.TPK 
+-r-xr-xr-x   1    0    0     381220 Jul 18 2006 [ 182160 00] BA01_31.TPK 
+
+Directory listing of /PSP_GAME/USRDIR/CDIMAGE/SOUND/SOL/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     56 02] . 
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 260096 00] BA01_01.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 260288 00] BA01_02.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 257616 00] BA01_03.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 257424 00] BA01_04.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 257808 00] BA01_05.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 257232 00] BA01_06.TPK 
+-r-xr-xr-x   1    0    0     744612 Jul 18 2006 [ 258192 00] BA01_07.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 260480 00] BA01_08.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 258000 00] BA01_09.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 260672 00] BA01_10.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 260864 00] BA01_11.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 261248 00] BA01_12.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 258944 00] BA01_13.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 257040 00] BA01_14.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 258560 00] BA01_15.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 256848 00] BA01_16.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 258752 00] BA01_17.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 259328 00] BA01_18.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 261056 00] BA01_19.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 259136 00] BA01_20.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 259712 00] BA01_21.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 259520 00] BA01_22.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 259904 00] BA01_23.TPK 
+
+Directory listing of /PSP_GAME/USRDIR/CDIMAGE/SOUND/SQU/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     57 02] . 
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     465476 Jul 18 2006 [ 125200 00] BA01_01.TPK 
+-r-xr-xr-x   1    0    0     465476 Jul 18 2006 [ 125440 00] BA01_02.TPK 
+-r-xr-xr-x   1    0    0     465476 Jul 18 2006 [ 121408 00] BA01_03.TPK 
+-r-xr-xr-x   1    0    0     465476 Jul 18 2006 [ 121168 00] BA01_04.TPK 
+-r-xr-xr-x   1    0    0     465476 Jul 18 2006 [ 121648 00] BA01_05.TPK 
+-r-xr-xr-x   1    0    0     465476 Jul 18 2006 [ 120688 00] BA01_06.TPK 
+-r-xr-xr-x   1    0    0     465476 Jul 18 2006 [ 122128 00] BA01_07.TPK 
+-r-xr-xr-x   1    0    0     465476 Jul 18 2006 [ 125680 00] BA01_08.TPK 
+-r-xr-xr-x   1    0    0     465476 Jul 18 2006 [ 121888 00] BA01_09.TPK 
+-r-xr-xr-x   1    0    0     465476 Jul 18 2006 [ 125920 00] BA01_10.TPK 
+-r-xr-xr-x   1    0    0     930692 Jul 18 2006 [ 126160 00] BA01_11.TPK 
+-r-xr-xr-x   1    0    0     465476 Jul 18 2006 [ 126864 00] BA01_12.TPK 
+-r-xr-xr-x   1    0    0     465476 Jul 18 2006 [ 123312 00] BA01_13.TPK 
+-r-xr-xr-x   1    0    0     465476 Jul 18 2006 [ 120448 00] BA01_14.TPK 
+-r-xr-xr-x   1    0    0     930692 Jul 18 2006 [ 122368 00] BA01_15.TPK 
+-r-xr-xr-x   1    0    0     465476 Jul 18 2006 [ 120208 00] BA01_16.TPK 
+-r-xr-xr-x   1    0    0     465476 Jul 18 2006 [ 122832 00] BA01_17.TPK 
+-r-xr-xr-x   1    0    0     465476 Jul 18 2006 [ 123792 00] BA01_18.TPK 
+-r-xr-xr-x   1    0    0     465476 Jul 18 2006 [ 126624 00] BA01_19.TPK 
+-r-xr-xr-x   1    0    0     465476 Jul 18 2006 [ 123552 00] BA01_20.TPK 
+-r-xr-xr-x   1    0    0     465476 Jul 18 2006 [ 124496 00] BA01_21.TPK 
+-r-xr-xr-x   1    0    0     930692 Jul 18 2006 [ 124032 00] BA01_22.TPK 
+-r-xr-xr-x   1    0    0     930692 Jul 18 2006 [ 124736 00] BA01_23.TPK 
+-r-xr-xr-x   1    0    0     465476 Jul 18 2006 [ 120928 00] BA01_24.TPK 
+-r-xr-xr-x   1    0    0     465476 Jul 18 2006 [ 123072 00] BA01_25.TPK 
+
+Directory listing of /PSP_GAME/USRDIR/CDIMAGE/SOUND/STH/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     58 02] . 
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 131024 00] BA01_01.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 131376 00] BA01_02.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 127984 00] BA01_03.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 127808 00] BA01_04.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 128336 00] BA01_05.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 127456 00] BA01_06.TPK 
+-r-xr-xr-x   1    0    0      89828 Nov 20 2005 [ 128864 00] BA01_07.TPK 
+-r-xr-xr-x   1    0    0     358660 Jul 18 2006 [ 131200 00] BA01_07_1.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 129088 00] BA01_07_2.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 131552 00] BA01_08.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 128512 00] BA01_09.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 131904 00] BA01_10.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 132080 00] BA01_11.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 132432 00] BA01_12.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 129792 00] BA01_13.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 127280 00] BA01_14.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 128912 00] BA01_15.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 127104 00] BA01_16.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 129264 00] BA01_17.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 130144 00] BA01_18.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 132256 00] BA01_19.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 129968 00] BA01_20.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 130672 00] BA01_21.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 130320 00] BA01_22.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 130848 00] BA01_23.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 127632 00] BA01_24.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 129440 00] BA01_25.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 130496 00] BA01_26.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 128688 00] BA01_27.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 128160 00] BA01_28.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 131728 00] BA01_29.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 129616 00] BA01_30.TPK 
+
+Directory listing of /PSP_GAME/USRDIR/CDIMAGE/SOUND/STR/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     59 02] . 
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     372420 Jun 27 2006 [ 204832 00] BA01_01.TPK 
+-r-xr-xr-x   1    0    0     372420 Jun 27 2006 [ 205216 00] BA01_02.TPK 
+-r-xr-xr-x   1    0    0     372420 Jun 27 2006 [ 202736 00] BA01_03.TPK 
+-r-xr-xr-x   1    0    0     372420 Jun 27 2006 [ 202544 00] BA01_04.TPK 
+-r-xr-xr-x   1    0    0     372420 Jun 27 2006 [ 202928 00] BA01_05.TPK 
+-r-xr-xr-x   1    0    0     372420 Jun 27 2006 [ 202352 00] BA01_06.TPK 
+-r-xr-xr-x   1    0    0     744612 Jun 27 2006 [ 203312 00] BA01_07.TPK 
+-r-xr-xr-x   1    0    0     372420 Jun 27 2006 [ 205408 00] BA01_08.TPK 
+-r-xr-xr-x   1    0    0     372420 Jun 27 2006 [ 203120 00] BA01_09.TPK 
+-r-xr-xr-x   1    0    0     372420 Jun 27 2006 [ 205600 00] BA01_10.TPK 
+-r-xr-xr-x   1    0    0     372420 Jun 27 2006 [ 205792 00] BA01_11.TPK 
+-r-xr-xr-x   1    0    0     372420 Jun 27 2006 [ 206176 00] BA01_12.TPK 
+-r-xr-xr-x   1    0    0     372420 Jun 27 2006 [ 204064 00] BA01_13.TPK 
+-r-xr-xr-x   1    0    0     372420 Jun 27 2006 [ 202160 00] BA01_14.TPK 
+-r-xr-xr-x   1    0    0     372420 Jun 27 2006 [ 203680 00] BA01_15.TPK 
+-r-xr-xr-x   1    0    0     372420 Jun 27 2006 [ 201968 00] BA01_16.TPK 
+-r-xr-xr-x   1    0    0     372420 Jun 27 2006 [ 203872 00] BA01_17.TPK 
+-r-xr-xr-x   1    0    0     372420 Jun 27 2006 [ 205984 00] BA01_19.TPK 
+-r-xr-xr-x   1    0    0     372420 Jun 27 2006 [ 204256 00] BA01_20.TPK 
+-r-xr-xr-x   1    0    0     372420 Jun 27 2006 [ 204640 00] BA01_21.TPK 
+-r-xr-xr-x   1    0    0     372420 Jun 27 2006 [ 204448 00] BA01_22.TPK 
+-r-xr-xr-x   1    0    0     372420 Jun 27 2006 [ 205024 00] BA01_22E.TPK 
+
+Directory listing of /PSP_GAME/USRDIR/CDIMAGE/SOUND/TAK1/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     60 02] . 
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     691428 Jul 25 2006 [ 228672 00] BA01_01.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 25 2006 [ 229024 00] BA01_02.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 25 2006 [ 226560 00] BA01_03.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 25 2006 [ 226208 00] BA01_04.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 25 2006 [ 226912 00] BA01_05.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 25 2006 [ 225856 00] BA01_06.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 25 2006 [ 227616 00] BA01_07.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 21 2006 [ 229376 00] BA01_08.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 25 2006 [ 227264 00] BA01_09.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 25 2006 [ 229728 00] BA01_10.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 25 2006 [ 230080 00] BA01_11.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 25 2006 [ 230432 00] BA01_12.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 25 2006 [ 228320 00] BA01_13.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 25 2006 [ 225504 00] BA01_14.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul  6 2006 [ 227968 00] BA01_15.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul  6 2006 [ 225152 00] BA01_16.TPK 
+
+Directory listing of /PSP_GAME/USRDIR/CDIMAGE/SOUND/TRK01/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     61 02] . 
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     403428 Jul 18 2006 [ 255376 00] BA01_01.TPK 
+-r-xr-xr-x   1    0    0     403428 Jul 18 2006 [ 255584 00] BA01_02.TPK 
+-r-xr-xr-x   1    0    0     403428 Jul 18 2006 [ 253104 00] BA01_03.TPK 
+-r-xr-xr-x   1    0    0     403428 Jul 18 2006 [ 252896 00] BA01_04.TPK 
+-r-xr-xr-x   1    0    0     403428 Jul 18 2006 [ 253312 00] BA01_05.TPK 
+-r-xr-xr-x   1    0    0     403428 Jul 18 2006 [ 252688 00] BA01_06.TPK 
+-r-xr-xr-x   1    0    0     403428 Jul 18 2006 [ 253728 00] BA01_07.TPK 
+-r-xr-xr-x   1    0    0     403428 Jul 18 2006 [ 255792 00] BA01_08.TPK 
+-r-xr-xr-x   1    0    0     403428 Jul 18 2006 [ 253520 00] BA01_09.TPK 
+-r-xr-xr-x   1    0    0     403428 Jul 18 2006 [ 256000 00] BA01_10.TPK 
+-r-xr-xr-x   1    0    0     403428 Jul 18 2006 [ 256208 00] BA01_11.TPK 
+-r-xr-xr-x   1    0    0     403428 Jul 18 2006 [ 256624 00] BA01_12.TPK 
+-r-xr-xr-x   1    0    0     403428 Jul 18 2006 [ 254352 00] BA01_13.TPK 
+-r-xr-xr-x   1    0    0     403428 Jul 18 2006 [ 252480 00] BA01_14.TPK 
+-r-xr-xr-x   1    0    0     403428 Jul 18 2006 [ 253936 00] BA01_15.TPK 
+-r-xr-xr-x   1    0    0     806628 Jul 18 2006 [ 252080 00] BA01_16.TPK 
+-r-xr-xr-x   1    0    0     403428 Jul 18 2006 [ 254144 00] BA01_17.TPK 
+-r-xr-xr-x   1    0    0     403428 Jul 18 2006 [ 254960 00] BA01_18.TPK 
+-r-xr-xr-x   1    0    0     403428 Jul 18 2006 [ 256416 00] BA01_19.TPK 
+-r-xr-xr-x   1    0    0     806628 Jul 18 2006 [ 254560 00] BA01_20.TPK 
+-r-xr-xr-x   1    0    0     403428 Feb  9 2006 [ 255168 00] BA01_21.TPK 
+
+Directory listing of /PSP_GAME/USRDIR/CDIMAGE/SOUND/TRK02/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     62 02] . 
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [  24816 00] BA01_01.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [  24992 00] BA01_02.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [  22880 00] BA01_03.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [  22704 00] BA01_04.TPK 
+-r-xr-xr-x   1    0    0     717028 Jul 18 2006 [  23056 00] BA01_05.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [  22528 00] BA01_06.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [  23760 00] BA01_07.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [  25168 00] BA01_08.TPK 
+-r-xr-xr-x   1    0    0     717028 Jul 18 2006 [  23408 00] BA01_09.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [  25344 00] BA01_10.TPK 
+-r-xr-xr-x   1    0    0     717028 Jul 18 2006 [  25520 00] BA01_11.TPK 
+-r-xr-xr-x   1    0    0     717028 Jul 18 2006 [  25872 00] BA01_12.TPK 
+-r-xr-xr-x   1    0    0     717028 Jul 18 2006 [  24464 00] BA01_13.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [  22352 00] BA01_14.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [  23936 00] BA01_15.TPK 
+-r-xr-xr-x   1    0    0     717028 Jul 18 2006 [  22000 00] BA01_16.TPK 
+-r-xr-xr-x   1    0    0     717060 Feb  9 2006 [  24112 00] BA01_17.TPK 
+
+Directory listing of /PSP_GAME/USRDIR/CDIMAGE/SOUND/TRK03/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     63 02] . 
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     722404 Jul 18 2006 [  67328 00] BA01_01.TPK 
+-r-xr-xr-x   1    0    0     722404 Feb  9 2006 [  66960 00] BA01_01_1.TPK 
+-r-xr-xr-x   1    0    0     722404 Feb  9 2006 [  66400 00] BA01_01_2.TPK 
+-r-xr-xr-x   1    0    0     722404 Jul 18 2006 [  67696 00] BA01_02.TPK 
+-r-xr-xr-x   1    0    0     722404 Jul 18 2006 [  64928 00] BA01_03.TPK 
+-r-xr-xr-x   1    0    0     722404 Jul 18 2006 [  64560 00] BA01_04.TPK 
+-r-xr-xr-x   1    0    0     722404 Jul 18 2006 [  65296 00] BA01_05.TPK 
+-r-xr-xr-x   1    0    0     722404 Jul 18 2006 [  64192 00] BA01_06.TPK 
+-r-xr-xr-x   1    0    0     722404 Jul 18 2006 [  66032 00] BA01_07.TPK 
+-r-xr-xr-x   1    0    0     722404 Jul 18 2006 [  68064 00] BA01_08.TPK 
+-r-xr-xr-x   1    0    0     722404 Jul 18 2006 [  65664 00] BA01_09.TPK 
+-r-xr-xr-x   1    0    0     722404 Jul 18 2006 [  68432 00] BA01_10.TPK 
+-r-xr-xr-x   1    0    0     722404 Jul 18 2006 [  68800 00] BA01_11.TPK 
+-r-xr-xr-x   1    0    0     361316 Jul 18 2006 [  69168 00] BA01_12.TPK 
+-r-xr-xr-x   1    0    0     361316 Jul 18 2006 [  66768 00] BA01_13.TPK 
+-r-xr-xr-x   1    0    0     722404 Jul 18 2006 [  63824 00] BA01_14.TPK 
+
+Directory listing of /PSP_GAME/USRDIR/CDIMAGE/SOUND/TRK04/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     64 02] . 
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [  46544 00] BA01_01.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [  46720 00] BA01_02.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [  45664 00] BA01_03.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [  45488 00] BA01_04.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [  45840 00] BA01_05.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [  45312 00] BA01_06.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [  46192 00] BA01_07.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [  46896 00] BA01_08.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [  46016 00] BA01_09.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [  47072 00] BA01_10.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [  47248 00] BA01_11.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [  47424 00] BA01_12.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [  46368 00] BA01_13.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [  45136 00] BA01_14.TPK 
+
+Directory listing of /PSP_GAME/USRDIR/CDIMAGE/SOUND/TRK05/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     65 02] . 
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 246608 00] BA01_01.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 246784 00] BA01_02.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 244576 00] BA01_03.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 244400 00] BA01_04.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 244752 00] BA01_05.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 244224 00] BA01_06.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 245104 00] BA01_07.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 246960 00] BA01_08.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 244928 00] BA01_09.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 247136 00] BA01_10.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 247312 00] BA01_11.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 247664 00] BA01_12.TPK 
+-r-xr-xr-x   1    0    0     717028 Jul 18 2006 [ 245632 00] BA01_13.TPK 
+-r-xr-xr-x   1    0    0     717028 Jul 18 2006 [ 243872 00] BA01_14.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 245280 00] BA01_15.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 243696 00] BA01_16.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 245456 00] BA01_17.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 246160 00] BA01_18.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 247488 00] BA01_19.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 245984 00] BA01_20.TPK 
+-r-xr-xr-x   1    0    0     537828 Jul 18 2006 [ 246336 00] BA01_21.TPK 
+
+Directory listing of /PSP_GAME/USRDIR/CDIMAGE/SOUND/TRK06/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     66 02] . 
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [  31536 00] BA01_01.TPK 
+-r-xr-xr-x   1    0    0     345828 Jul 18 2006 [  31888 00] BA01_02.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [  27280 00] BA01_03.TPK 
+-r-xr-xr-x   1    0    0     345828 Jul 18 2006 [  27104 00] BA01_04.TPK 
+-r-xr-xr-x   1    0    0     345828 Jul 18 2006 [  27632 00] BA01_05.TPK 
+-r-xr-xr-x   1    0    0     345828 Jul 18 2006 [  26576 00] BA01_06.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [  28160 00] BA01_07.TPK 
+-r-xr-xr-x   1    0    0     345828 Feb  9 2006 [  32064 00] BA01_08.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [  27808 00] BA01_09.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [  32240 00] BA01_10.TPK 
+-r-xr-xr-x   1    0    0     345828 Jul 18 2006 [  32592 00] BA01_11.TPK 
+-r-xr-xr-x   1    0    0     345828 Jul 18 2006 [  33120 00] BA01_12.TPK 
+-r-xr-xr-x   1    0    0     345828 Jul 18 2006 [  29568 00] BA01_13.TPK 
+-r-xr-xr-x   1    0    0     345828 Jul 18 2006 [  26400 00] BA01_14.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [  28512 00] BA01_15.TPK 
+-r-xr-xr-x   1    0    0     345828 Jul 18 2006 [  26224 00] BA01_16.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [  28864 00] BA01_17.TPK 
+-r-xr-xr-x   1    0    0     345828 Jul 18 2006 [  30096 00] BA01_18.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [  32768 00] BA01_19.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [  29744 00] BA01_20.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [  31008 00] BA01_21.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [  30272 00] BA01_22.TPK 
+-r-xr-xr-x   1    0    0     345828 Jul 18 2006 [  31360 00] BA01_23.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [  26752 00] BA01_24.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [  29216 00] BA01_25.TPK 
+-r-xr-xr-x   1    0    0     777828 Feb  9 2006 [  30624 00] BA01_26.TPK 
+
+Directory listing of /PSP_GAME/USRDIR/CDIMAGE/SOUND/TRK07/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     67 02] . 
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     717028 Jul 18 2006 [ 150560 00] BA01_01.TPK 
+-r-xr-xr-x   1    0    0     717028 Jul 18 2006 [ 150912 00] BA01_02.TPK 
+-r-xr-xr-x   1    0    0     717028 Jul 18 2006 [ 149152 00] BA01_03.TPK 
+-r-xr-xr-x   1    0    0     717028 Jul 18 2006 [ 148800 00] BA01_04.TPK 
+-r-xr-xr-x   1    0    0     717028 Jul 18 2006 [ 149504 00] BA01_05.TPK 
+-r-xr-xr-x   1    0    0     717028 Jul 18 2006 [ 148448 00] BA01_06.TPK 
+-r-xr-xr-x   1    0    0     717028 Jul 18 2006 [ 150208 00] BA01_07.TPK 
+-r-xr-xr-x   1    0    0     717028 Jul 18 2006 [ 151264 00] BA01_08.TPK 
+-r-xr-xr-x   1    0    0     717028 Jul 18 2006 [ 149856 00] BA01_09.TPK 
+-r-xr-xr-x   1    0    0     717028 Jul 18 2006 [ 151616 00] BA01_10.TPK 
+-r-xr-xr-x   1    0    0     358628 Jul 18 2006 [ 151968 00] BA01_11.TPK 
+-r-xr-xr-x   1    0    0     717028 Feb  9 2006 [ 152144 00] BA01_12.TPK 
+
+Directory listing of /PSP_GAME/USRDIR/CDIMAGE/SOUND/TRK10/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     68 02] . 
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     450340 Jul 18 2006 [ 319104 00] BA01_01.TPK 
+-r-xr-xr-x   1    0    0     450340 Jul 18 2006 [ 319328 00] BA01_02.TPK 
+-r-xr-xr-x   1    0    0     450340 Jul 18 2006 [ 317472 00] BA01_03.TPK 
+-r-xr-xr-x   1    0    0     450340 Jul 18 2006 [ 317248 00] BA01_04.TPK 
+-r-xr-xr-x   1    0    0     450340 Jul 18 2006 [ 317696 00] BA01_05.TPK 
+-r-xr-xr-x   1    0    0     450340 Jul 18 2006 [ 317024 00] BA01_06.TPK 
+-r-xr-xr-x   1    0    0     450340 Jul 18 2006 [ 318208 00] BA01_07.TPK 
+-r-xr-xr-x   1    0    0     450340 Jul 18 2006 [ 319552 00] BA01_08.TPK 
+-r-xr-xr-x   1    0    0     562852 Jul 18 2006 [ 317920 00] BA01_09.TPK 
+-r-xr-xr-x   1    0    0     450340 Jul 18 2006 [ 319776 00] BA01_10.TPK 
+-r-xr-xr-x   1    0    0     450340 Jul 18 2006 [ 320000 00] BA01_11.TPK 
+-r-xr-xr-x   1    0    0     450340 Jul 18 2006 [ 320224 00] BA01_12.TPK 
+-r-xr-xr-x   1    0    0     450340 Jul 18 2006 [ 318880 00] BA01_13.TPK 
+-r-xr-xr-x   1    0    0     450340 Jul 18 2006 [ 316800 00] BA01_14.TPK 
+-r-xr-xr-x   1    0    0     450340 Jul 18 2006 [ 318432 00] BA01_15.TPK 
+-r-xr-xr-x   1    0    0     450340 Jul 18 2006 [ 316576 00] BA01_16.TPK 
+-r-xr-xr-x   1    0    0     450340 Jul 18 2006 [ 318656 00] BA01_17.TPK 
+
+Directory listing of /PSP_GAME/USRDIR/CDIMAGE/SOUND/TRK11/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     69 02] . 
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     403428 Jul 18 2006 [ 176480 00] BA01_01.TPK 
+-r-xr-xr-x   1    0    0     403428 Jul 18 2006 [ 176688 00] BA01_02.TPK 
+-r-xr-xr-x   1    0    0     403428 Jul 18 2006 [ 173936 00] BA01_03.TPK 
+-r-xr-xr-x   1    0    0     403428 Jul 18 2006 [ 173728 00] BA01_04.TPK 
+-r-xr-xr-x   1    0    0     403428 Jul 18 2006 [ 174144 00] BA01_05.TPK 
+-r-xr-xr-x   1    0    0     403428 Jul 18 2006 [ 173520 00] BA01_06.TPK 
+-r-xr-xr-x   1    0    0     403428 Jul 18 2006 [ 174560 00] BA01_07.TPK 
+-r-xr-xr-x   1    0    0     403428 Jul 18 2006 [ 176896 00] BA01_08.TPK 
+-r-xr-xr-x   1    0    0     403428 Jul 18 2006 [ 174352 00] BA01_09.TPK 
+-r-xr-xr-x   1    0    0     403428 Jul 18 2006 [ 177104 00] BA01_10.TPK 
+-r-xr-xr-x   1    0    0     403428 Jul 18 2006 [ 177312 00] BA01_11.TPK 
+-r-xr-xr-x   1    0    0     403428 Jul 18 2006 [ 177728 00] BA01_12.TPK 
+-r-xr-xr-x   1    0    0     403428 Jul 18 2006 [ 175184 00] BA01_13.TPK 
+-r-xr-xr-x   1    0    0     403428 Jul 18 2006 [ 173312 00] BA01_14.TPK 
+-r-xr-xr-x   1    0    0     403428 Jul 18 2006 [ 174768 00] BA01_15.TPK 
+-r-xr-xr-x   1    0    0     403428 Jul 18 2006 [ 173104 00] BA01_16.TPK 
+-r-xr-xr-x   1    0    0     403428 Jul 18 2006 [ 174976 00] BA01_17.TPK 
+-r-xr-xr-x   1    0    0     403428 Jul 18 2006 [ 175600 00] BA01_18.TPK 
+-r-xr-xr-x   1    0    0     403428 Jul 18 2006 [ 177520 00] BA01_19.TPK 
+-r-xr-xr-x   1    0    0     403428 Jul 18 2006 [ 175392 00] BA01_20.TPK 
+-r-xr-xr-x   1    0    0     403428 Jul 18 2006 [ 176016 00] BA01_21.TPK 
+-r-xr-xr-x   1    0    0     403428 Jul 18 2006 [ 175808 00] BA01_22.TPK 
+-r-xr-xr-x   1    0    0     504228 Jul 18 2006 [ 176224 00] BA01_23.TPK 
+
+Directory listing of /PSP_GAME/USRDIR/CDIMAGE/SOUND/TRK12/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     70 02] . 
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     350852 Jul 18 2006 [ 143392 00] BA01_01.TPK 
+-r-xr-xr-x   1    0    0     350852 Jul 18 2006 [ 143568 00] BA01_02.TPK 
+-r-xr-xr-x   1    0    0     350852 Jul 18 2006 [ 140176 00] BA01_03.TPK 
+-r-xr-xr-x   1    0    0     350852 Jul 18 2006 [ 140000 00] BA01_04.TPK 
+-r-xr-xr-x   1    0    0     350852 Jul 18 2006 [ 140576 00] BA01_05.TPK 
+-r-xr-xr-x   1    0    0     350852 Jul 18 2006 [ 139648 00] BA01_06.TPK 
+-r-xr-xr-x   1    0    0     350852 Jul 18 2006 [ 141104 00] BA01_07.TPK 
+-r-xr-xr-x   1    0    0     350852 Jul 18 2006 [ 143744 00] BA01_08.TPK 
+-r-xr-xr-x   1    0    0     350852 Jul 18 2006 [ 140752 00] BA01_09.TPK 
+-r-xr-xr-x   1    0    0     350852 Jul 18 2006 [ 144096 00] BA01_10.TPK 
+-r-xr-xr-x   1    0    0     350852 Jul 18 2006 [ 144272 00] BA01_11.TPK 
+-r-xr-xr-x   1    0    0     350852 Jul 18 2006 [ 144624 00] BA01_12.TPK 
+-r-xr-xr-x   1    0    0     350852 Jul 18 2006 [ 142160 00] BA01_13.TPK 
+-r-xr-xr-x   1    0    0     350852 Jul 18 2006 [ 139296 00] BA01_14.TPK 
+-r-xr-xr-x   1    0    0     350852 Jul 18 2006 [ 141456 00] BA01_15.TPK 
+-r-xr-xr-x   1    0    0     350852 Jul 18 2006 [ 139120 00] BA01_16.TPK 
+-r-xr-xr-x   1    0    0     350852 Jul 18 2006 [ 141632 00] BA01_17.TPK 
+-r-xr-xr-x   1    0    0     350852 Jul 18 2006 [ 142512 00] BA01_18.TPK 
+-r-xr-xr-x   1    0    0     350852 Jul 18 2006 [ 144448 00] BA01_19.TPK 
+-r-xr-xr-x   1    0    0     350852 Jul 18 2006 [ 142336 00] BA01_20.TPK 
+-r-xr-xr-x   1    0    0     350852 Jul 18 2006 [ 143040 00] BA01_21.TPK 
+-r-xr-xr-x   1    0    0     350852 Jul 18 2006 [ 142688 00] BA01_22.TPK 
+-r-xr-xr-x   1    0    0     350852 Jul 18 2006 [ 143216 00] BA01_23.TPK 
+-r-xr-xr-x   1    0    0     350852 Jul 18 2006 [ 139824 00] BA01_24.TPK 
+-r-xr-xr-x   1    0    0     350852 Jul 18 2006 [ 141808 00] BA01_25.TPK 
+-r-xr-xr-x   1    0    0     350852 Jul 18 2006 [ 142864 00] BA01_26.TPK 
+-r-xr-xr-x   1    0    0     350852 Jul 18 2006 [ 140928 00] BA01_27.TPK 
+-r-xr-xr-x   1    0    0     438500 Jul 18 2006 [ 140352 00] BA01_28.TPK 
+-r-xr-xr-x   1    0    0     350852 Jul 18 2006 [ 143920 00] BA01_29.TPK 
+-r-xr-xr-x   1    0    0     350852 Jul 18 2006 [ 141984 00] BA01_30.TPK 
+-r-xr-xr-x   1    0    0     350852 Jul 18 2006 [ 141280 00] BA01_31.TPK 
+-r-xr-xr-x   1    0    0     350852 Jul 18 2006 [ 139472 00] BA01_32.TPK 
+
+Directory listing of /PSP_GAME/USRDIR/CDIMAGE/SOUND/TRK13/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     71 02] . 
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     806628 Jul 18 2006 [ 314176 00] BA01_01.TPK 
+-r-xr-xr-x   1    0    0     806628 Jul 18 2006 [ 314576 00] BA01_02.TPK 
+-r-xr-xr-x   1    0    0     806628 Jul 18 2006 [ 310176 00] BA01_03.TPK 
+-r-xr-xr-x   1    0    0     806628 Jul 18 2006 [ 309776 00] BA01_04.TPK 
+-r-xr-xr-x   1    0    0     806628 Jul 18 2006 [ 310576 00] BA01_05.TPK 
+-r-xr-xr-x   1    0    0     806628 Jul 18 2006 [ 309376 00] BA01_06.TPK 
+-r-xr-xr-x   1    0    0     806628 Jul 18 2006 [ 310976 00] BA01_09.TPK 
+-r-xr-xr-x   1    0    0     806628 Jul 18 2006 [ 314976 00] BA01_10.TPK 
+-r-xr-xr-x   1    0    0     806628 Jul 18 2006 [ 315376 00] BA01_11.TPK 
+-r-xr-xr-x   1    0    0     806628 Jul 18 2006 [ 316176 00] BA01_12.TPK 
+-r-xr-xr-x   1    0    0     806628 Jul 18 2006 [ 312176 00] BA01_13.TPK 
+-r-xr-xr-x   1    0    0     806628 Jul 18 2006 [ 308976 00] BA01_14.TPK 
+-r-xr-xr-x   1    0    0     806628 Jul 18 2006 [ 311376 00] BA01_15.TPK 
+-r-xr-xr-x   1    0    0     806628 Jul 18 2006 [ 308576 00] BA01_16.TPK 
+-r-xr-xr-x   1    0    0     806628 Jul 18 2006 [ 311776 00] BA01_17.TPK 
+-r-xr-xr-x   1    0    0     806628 Jul 18 2006 [ 312976 00] BA01_18.TPK 
+-r-xr-xr-x   1    0    0     806628 Jul 18 2006 [ 315776 00] BA01_19.TPK 
+-r-xr-xr-x   1    0    0     806628 Jul 18 2006 [ 312576 00] BA01_20.TPK 
+-r-xr-xr-x   1    0    0     806628 Jul 18 2006 [ 313776 00] BA01_21.TPK 
+-r-xr-xr-x   1    0    0     806628 Jul 18 2006 [ 313376 00] BA01_22.TPK 
+
+Directory listing of /PSP_GAME/USRDIR/CDIMAGE/SOUND/TRK14/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     72 02] . 
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 323104 00] BA01_01.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 323296 00] BA01_02.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 321216 00] BA01_03.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 321024 00] BA01_04.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 321408 00] BA01_05.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 320832 00] BA01_06.TPK 
+-r-xr-xr-x   1    0    0     744612 Jul 18 2006 [ 321792 00] BA01_07.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 323488 00] BA01_08.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 321600 00] BA01_09.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 323680 00] BA01_10.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 323872 00] BA01_11.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 324256 00] BA01_12.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 322720 00] BA01_13.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 320640 00] BA01_14.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 322160 00] BA01_15.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 320448 00] BA01_16.TPK 
+-r-xr-xr-x   1    0    0     744612 Jul 18 2006 [ 322352 00] BA01_17.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 322912 00] BA01_18.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 324064 00] BA01_19.TPK 
+
+Directory listing of /PSP_GAME/USRDIR/CDIMAGE/SOUND/TRK15/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     73 02] . 
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     350852 Jul 18 2006 [ 264304 00] BA01_01.TPK 
+-r-xr-xr-x   1    0    0     350852 Jul 18 2006 [ 264480 00] BA01_02.TPK 
+-r-xr-xr-x   1    0    0     350852 Jul 18 2006 [ 262496 00] BA01_03.TPK 
+-r-xr-xr-x   1    0    0     350852 Jul 18 2006 [ 262320 00] BA01_04.TPK 
+-r-xr-xr-x   1    0    0     350852 Jul 18 2006 [ 262672 00] BA01_05.TPK 
+-r-xr-xr-x   1    0    0     350852 Jul 18 2006 [ 262144 00] BA01_06.TPK 
+-r-xr-xr-x   1    0    0     350852 Jul 18 2006 [ 263024 00] BA01_07.TPK 
+-r-xr-xr-x   1    0    0     350852 Jul 18 2006 [ 264656 00] BA01_08.TPK 
+-r-xr-xr-x   1    0    0     350852 Jul 18 2006 [ 262848 00] BA01_09.TPK 
+-r-xr-xr-x   1    0    0     350852 Jul 18 2006 [ 264832 00] BA01_10.TPK 
+-r-xr-xr-x   1    0    0     350852 Jul 18 2006 [ 265008 00] BA01_11.TPK 
+-r-xr-xr-x   1    0    0     350852 Jul 18 2006 [ 265360 00] BA01_12.TPK 
+-r-xr-xr-x   1    0    0     350852 Jul 18 2006 [ 263552 00] BA01_13.TPK 
+-r-xr-xr-x   1    0    0     701476 Jun 20 2006 [ 261792 00] BA01_14.TPK 
+-r-xr-xr-x   1    0    0     350852 Jun 20 2006 [ 263200 00] BA01_15.TPK 
+-r-xr-xr-x   1    0    0     701476 Jun 20 2006 [ 261440 00] BA01_16.TPK 
+-r-xr-xr-x   1    0    0     350852 Jun 20 2006 [ 263376 00] BA01_17.TPK 
+-r-xr-xr-x   1    0    0     701476 Jun 20 2006 [ 263952 00] BA01_18.TPK 
+-r-xr-xr-x   1    0    0     350852 Jun 20 2006 [ 265184 00] BA01_19.TPK 
+-r-xr-xr-x   1    0    0     438500 Jun 20 2006 [ 263728 00] BA01_20.TPK 
+
+Directory listing of /PSP_GAME/USRDIR/CDIMAGE/SOUND/TRK16/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     74 02] . 
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 250688 00] BA01_01.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 250880 00] BA01_02.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 248880 00] BA01_03.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 248688 00] BA01_04.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 249072 00] BA01_05.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 248496 00] BA01_06.TPK 
+-r-xr-xr-x   1    0    0     558532 Jul 18 2006 [ 249456 00] BA01_07.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 251072 00] BA01_08.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 249264 00] BA01_09.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 251264 00] BA01_10.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 251456 00] BA01_11.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 251888 00] BA01_12.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 250128 00] BA01_13.TPK 
+-r-xr-xr-x   1    0    0     744612 Jul 18 2006 [ 248128 00] BA01_14.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 249744 00] BA01_15.TPK 
+-r-xr-xr-x   1    0    0     558532 Jul 18 2006 [ 247840 00] BA01_16.TPK 
+-r-xr-xr-x   1    0    0     372420 Jul 18 2006 [ 249936 00] BA01_17.TPK 
+-r-xr-xr-x   1    0    0     744612 Jul 18 2006 [ 250320 00] BA01_18.TPK 
+-r-xr-xr-x   1    0    0     465476 Jul 18 2006 [ 251648 00] BA01_19.TPK 
+
+Directory listing of /PSP_GAME/USRDIR/CDIMAGE/SOUND/TRK17/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     75 02] . 
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     705828 Jul 18 2006 [ 268784 00] BA01_01.TPK 
+-r-xr-xr-x   1    0    0     403428 Jul 18 2006 [ 269136 00] BA01_02.TPK 
+-r-xr-xr-x   1    0    0     806628 Jul 18 2006 [ 266704 00] BA01_03.TPK 
+-r-xr-xr-x   1    0    0     504228 Jul 18 2006 [ 266448 00] BA01_04.TPK 
+-r-xr-xr-x   1    0    0     907428 Jul 18 2006 [ 267104 00] BA01_05.TPK 
+-r-xr-xr-x   1    0    0     403428 Jul 18 2006 [ 266240 00] BA01_06.TPK 
+-r-xr-xr-x   1    0    0     403428 Jul 18 2006 [ 267760 00] BA01_07.TPK 
+-r-xr-xr-x   1    0    0     403428 Jul 18 2006 [ 269344 00] BA01_08.TPK 
+-r-xr-xr-x   1    0    0     403428 Jul 18 2006 [ 267552 00] BA01_09.TPK 
+-r-xr-xr-x   1    0    0     605028 Jul 18 2006 [ 269552 00] BA01_10.TPK 
+-r-xr-xr-x   1    0    0     705828 Jul 18 2006 [ 269856 00] BA01_11.TPK 
+-r-xr-xr-x   1    0    0     403428 Jul 18 2006 [ 270208 00] BA01_12.TPK 
+-r-xr-xr-x   1    0    0     403428 Jul 18 2006 [ 268576 00] BA01_13.TPK 
+-r-xr-xr-x   1    0    0     806628 Jul 18 2006 [ 265840 00] BA01_14.TPK 
+-r-xr-xr-x   1    0    0     605028 Jul 18 2006 [ 267968 00] BA01_15.TPK 
+-r-xr-xr-x   1    0    0     605028 Jul 18 2006 [ 265536 00] BA01_16.TPK 
+-r-xr-xr-x   1    0    0     605028 Jul 18 2006 [ 268272 00] BA01_17.TPK 
+
+Directory listing of /PSP_GAME/USRDIR/CDIMAGE/SOUND/TRK18/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     76 02] . 
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     259428 Jul 18 2006 [ 147264 00] BA01_01.TPK 
+-r-xr-xr-x   1    0    0     345828 Jul 18 2006 [ 147392 00] BA01_02.TPK 
+-r-xr-xr-x   1    0    0     345828 Jul 18 2006 [ 145504 00] BA01_03.TPK 
+-r-xr-xr-x   1    0    0     345828 Jul 18 2006 [ 145328 00] BA01_04.TPK 
+-r-xr-xr-x   1    0    0     345828 Jul 18 2006 [ 145680 00] BA01_05.TPK 
+-r-xr-xr-x   1    0    0     345828 Jul 18 2006 [ 145152 00] BA01_06.TPK 
+-r-xr-xr-x   1    0    0     345828 Jul 18 2006 [ 146032 00] BA01_07.TPK 
+-r-xr-xr-x   1    0    0     345828 Jul 18 2006 [ 147568 00] BA01_08.TPK 
+-r-xr-xr-x   1    0    0     345828 Jul 18 2006 [ 145856 00] BA01_09.TPK 
+-r-xr-xr-x   1    0    0     345828 Jul 18 2006 [ 147744 00] BA01_10.TPK 
+-r-xr-xr-x   1    0    0     345828 Jul 18 2006 [ 147920 00] BA01_11.TPK 
+-r-xr-xr-x   1    0    0     345828 Jul 18 2006 [ 148272 00] BA01_12.TPK 
+-r-xr-xr-x   1    0    0     345828 Jul 18 2006 [ 146560 00] BA01_13.TPK 
+-r-xr-xr-x   1    0    0     345828 Jul 18 2006 [ 144976 00] BA01_14.TPK 
+-r-xr-xr-x   1    0    0     345828 Jul 18 2006 [ 146208 00] BA01_15.TPK 
+-r-xr-xr-x   1    0    0     345828 Jul 18 2006 [ 144800 00] BA01_16.TPK 
+-r-xr-xr-x   1    0    0     345828 Jul 18 2006 [ 146384 00] BA01_17.TPK 
+-r-xr-xr-x   1    0    0     345828 Jul 18 2006 [ 147088 00] BA01_18.TPK 
+-r-xr-xr-x   1    0    0     345828 Jul 18 2006 [ 148096 00] BA01_19.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 146736 00] BA01_20.TPK 
+
+Directory listing of /PSP_GAME/USRDIR/CDIMAGE/SOUND/TRK19/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     77 02] . 
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     987684 Jul 18 2006 [ 242208 00] BA01_01.TPK 
+-r-xr-xr-x   1    0    0     987684 Jul 18 2006 [ 242704 00] BA01_02.TPK 
+-r-xr-xr-x   1    0    0     987684 Jul 18 2006 [ 240224 00] BA01_03.TPK 
+-r-xr-xr-x   1    0    0     987684 Jul 18 2006 [ 239728 00] BA01_04.TPK 
+-r-xr-xr-x   1    0    0     987684 Jul 18 2006 [ 240720 00] BA01_05.TPK 
+-r-xr-xr-x   1    0    0     987684 Jul 18 2006 [ 239232 00] BA01_06.TPK 
+-r-xr-xr-x   1    0    0     987684 Jul 18 2006 [ 241712 00] BA01_07.TPK 
+-r-xr-xr-x   1    0    0     987684 Jul 18 2006 [ 243200 00] BA01_08.TPK 
+-r-xr-xr-x   1    0    0     987684 Jul 18 2006 [ 241216 00] BA01_09.TPK 
+
+Directory listing of /PSP_GAME/USRDIR/CDIMAGE/SOUND/TRK20/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     78 02] . 
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     569476 Jul 18 2006 [ 208816 00] BA01_01.TPK 
+-r-xr-xr-x   1    0    0     569476 Jul 18 2006 [ 209104 00] BA01_02.TPK 
+-r-xr-xr-x   1    0    0     569476 Jul 18 2006 [ 207232 00] BA01_03.TPK 
+-r-xr-xr-x   1    0    0     569476 Jul 18 2006 [ 206944 00] BA01_04.TPK 
+-r-xr-xr-x   1    0    0     569476 Jul 18 2006 [ 207520 00] BA01_05.TPK 
+-r-xr-xr-x   1    0    0     569476 Jul 18 2006 [ 206656 00] BA01_06.TPK 
+-r-xr-xr-x   1    0    0     569476 Jul 18 2006 [ 208096 00] BA01_07.TPK 
+-r-xr-xr-x   1    0    0     569476 Jul 18 2006 [ 209392 00] BA01_08.TPK 
+-r-xr-xr-x   1    0    0     569476 Jul 18 2006 [ 207808 00] BA01_09.TPK 
+-r-xr-xr-x   1    0    0     569476 Jul 18 2006 [ 209680 00] BA01_10.TPK 
+-r-xr-xr-x   1    0    0     569476 Jul 18 2006 [ 209968 00] BA01_11.TPK 
+-r-xr-xr-x   1    0    0     569476 Jul 18 2006 [ 210256 00] BA01_12.TPK 
+-r-xr-xr-x   1    0    0     569476 Jul 18 2006 [ 208528 00] BA01_13.TPK 
+-r-xr-xr-x   1    0    0     569476 Jul 18 2006 [ 206368 00] BA01_14.TPK 
+-r-xr-xr-x   1    0    0     284868 Jul 18 2006 [ 208384 00] BA01_15.TPK 
+
+Directory listing of /PSP_GAME/USRDIR/CDIMAGE/SOUND/WAVE/
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     79 02] . 
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0          9 Nov  1 2005 [  70384 00] DUMMY.BIN 
+-r-xr-xr-x   1    0    0          9 Jul 18 2006 [  71936 00] DUMMY.TPK 
+-r-xr-xr-x   1    0    0         23 Mar 17 2006 [ 100192 00] DUMMY.h 
+-r-xr-xr-x   1    0    0     806860 Jul 18 2006 [  89200 00] MENU_SONG1.TPK 
+-r-xr-xr-x   1    0    0     806828 Jul 21 2006 [  99024 00] MENU_SONG2.TPK 
+-r-xr-xr-x   1    0    0    2516128 Jul 18 2006 [  92208 00] SE_BIR.TPK 
+-r-xr-xr-x   1    0    0    2254256 Jul 18 2006 [ 107664 00] SE_BLA.TPK 
+-r-xr-xr-x   1    0    0    2018880 Jul 18 2006 [ 105776 00] SE_CIG.TPK 
+-r-xr-xr-x   1    0    0    1613120 Jul 18 2006 [  75536 00] SE_COO.TPK 
+-r-xr-xr-x   1    0    0    1044208 Jul 18 2006 [  75024 00] SE_DRI.TPK 
+-r-xr-xr-x   1    0    0    1956304 Jul 18 2006 [  77648 00] SE_DUB.TPK 
+-r-xr-xr-x   1    0    0    1093856 Jul 18 2006 [  93440 00] SE_EMO.TPK 
+-r-xr-xr-x   1    0    0    1132672 Jul 18 2006 [  97488 00] SE_FAN.TPK 
+-r-xr-xr-x   1    0    0    2251312 Jul 18 2006 [  81200 00] SE_FEL.TPK 
+-r-xr-xr-x   1    0    0    1411328 Jul 18 2006 [  70400 00] SE_KAZ.TPK 
+-r-xr-xr-x   1    0    0     544508 Jul 18 2006 [ 102736 00] SE_MENU.TPK 
+-r-xr-xr-x   1    0    0    1784576 Jul 18 2006 [  79152 00] SE_MET.TPK 
+-r-xr-xr-x   1    0    0    1084640 Jul 20 2006 [  78608 00] SE_ODD.TPK 
+-r-xr-xr-x   1    0    0    2091072 Jul 18 2006 [  69360 00] SE_OMO.TPK 
+-r-xr-xr-x   1    0    0    1968176 Jul 18 2006 [  89600 00] SE_ONE.TPK 
+-r-xr-xr-x   1    0    0    2675376 Jul 18 2006 [  95632 00] SE_OVE.TPK 
+-r-xr-xr-x   1    0    0    2141568 Jul 18 2006 [ 103824 00] SE_PRI.TPK 
+-r-xr-xr-x   1    0    0    1373664 Jul 18 2006 [  91536 00] SE_QUE.TPK 
+-r-xr-xr-x   1    0    0    2174688 Jul 18 2006 [  94560 00] SE_RAI.TPK 
+-r-xr-xr-x   1    0    0    1556980 Aug 29 2006 [  99424 00] SE_ROE.TPK 
+-r-xr-xr-x   1    0    0    2051392 Jul 24 2006 [  82304 00] SE_SOL.TPK 
+-r-xr-xr-x   1    0    0    2370288 Jul 18 2006 [  80032 00] SE_STR.TPK 
+-r-xr-xr-x   1    0    0    1551936 Jul 18 2006 [  74256 00] SE_TAK1.TPK 
+-r-xr-xr-x   1    0    0    2031456 Jul 18 2006 [  88208 00] SE_TRK01.TPK 
+-r-xr-xr-x   1    0    0    1675760 Jul 18 2006 [  71104 00] SE_TRK02.TPK 
+-r-xr-xr-x   1    0    0    1814960 Jul 18 2006 [ 106768 00] SE_TRK03.TPK 
+-r-xr-xr-x   1    0    0    1823072 Jul 18 2006 [ 104880 00] SE_TRK04.TPK 
+-r-xr-xr-x   1    0    0    2275744 Jul 18 2006 [  73136 00] SE_TRK05.TPK 
+-r-xr-xr-x   1    0    0    2658464 Jul 18 2006 [  76336 00] SE_TRK06.TPK 
+-r-xr-xr-x   1    0    0    1978320 Jul 18 2006 [  98048 00] SE_TRK07.TPK 
+-r-xr-xr-x   1    0    0    1644112 Jul 18 2006 [ 103008 00] SE_TRK10.TPK 
+-r-xr-xr-x   1    0    0    2752896 Jul 18 2006 [  85632 00] SE_TRK11.TPK 
+-r-xr-xr-x   1    0    0    1393456 Jul 18 2006 [  84176 00] SE_TRK12.TPK 
+-r-xr-xr-x   1    0    0    2416368 Jul 18 2006 [  71952 00] SE_TRK13.TPK 
+-r-xr-xr-x   1    0    0    1786048 Jul 18 2006 [ 108768 00] SE_TRK14.TPK 
+-r-xr-xr-x   1    0    0    1570160 Jul 18 2006 [  84864 00] SE_TRK15.TPK 
+-r-xr-xr-x   1    0    0    1954944 Jul 18 2006 [  90576 00] SE_TRK16.TPK 
+-r-xr-xr-x   1    0    0    1747360 Jul 18 2006 [  83312 00] SE_TRK17.TPK 
+-r-xr-xr-x   1    0    0    2484288 Jul 18 2006 [ 101520 00] SE_TRK18.TPK 
+-r-xr-xr-x   1    0    0    2658592 Jul 19 2006 [ 100208 00] SE_TRK19.TPK 
+-r-xr-xr-x   1    0    0    2460688 Jul 18 2006 [  86992 00] SE_TRK20.TPK 
+-r-xr-xr-x   1    0    0    1161424 Jul 18 2006 [  93984 00] SE_WEL.TPK 
+-r-xr-xr-x   1    0    0    1092832 Jul 18 2006 [  96944 00] SE_WLD.TPK 
+
+Directory listing of /PSP_GAME/USRDIR/CDIMAGE/SOUND/WEL/
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     81 02] . 
+dr-xr-xr-x   1    0    0       4096 Aug 17 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     345828 Jul 18 2006 [ 199152 00] BA01_01.TPK 
+-r-xr-xr-x   1    0    0     345828 Jul 18 2006 [ 200032 00] BA01_02.TPK 
+-r-xr-xr-x   1    0    0     345828 Jul 18 2006 [ 191760 00] BA01_03.TPK 
+-r-xr-xr-x   1    0    0     345828 Jul 18 2006 [ 191584 00] BA01_04.TPK 
+-r-xr-xr-x   1    0    0     345828 Jul 18 2006 [ 192640 00] BA01_05.TPK 
+-r-xr-xr-x   1    0    0     345828 Jul 18 2006 [ 191056 00] BA01_06.TPK 
+-r-xr-xr-x   1    0    0     345828 Jul 18 2006 [ 194048 00] BA01_07.TPK 
+-r-xr-xr-x   1    0    0     345828 Jul 18 2006 [ 200208 00] BA01_08.TPK 
+-r-xr-xr-x   1    0    0     345828 Jul 18 2006 [ 192816 00] BA01_09.TPK 
+-r-xr-xr-x   1    0    0     345828 Jul 18 2006 [ 201088 00] BA01_10.TPK 
+-r-xr-xr-x   1    0    0     345828 Jul 18 2006 [ 201264 00] BA01_11.TPK 
+-r-xr-xr-x   1    0    0     345828 Jul 18 2006 [ 201792 00] BA01_12.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 196336 00] BA01_13.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 190000 00] BA01_14.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 194576 00] BA01_15.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 189648 00] BA01_16.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 194928 00] BA01_17.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 197040 00] BA01_18.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 201440 00] BA01_19.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 196688 00] BA01_20.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 198448 00] BA01_21.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 197392 00] BA01_22.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 198800 00] BA01_23.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 191232 00] BA01_24.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 195632 00] BA01_25.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 197744 00] BA01_26.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 193696 00] BA01_27.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 192288 00] BA01_28.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 200384 00] BA01_29.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 195984 00] BA01_30.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 194224 00] BA01_31.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 190352 00] BA01_32.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 199680 00] BA01_33.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 193344 00] BA01_34.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 199328 00] BA01_35.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 191936 00] BA01_36.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 198096 00] BA01_37.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 192992 00] BA01_38.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 190704 00] BA01_39.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 200736 00] BA01_40.TPK 
+-r-xr-xr-x   1    0    0     691428 Jul 18 2006 [ 195280 00] BA01_41.TPK 
+=============================================================== 
+Generated on Mon 08/08/2022 at 15:46:27.37 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

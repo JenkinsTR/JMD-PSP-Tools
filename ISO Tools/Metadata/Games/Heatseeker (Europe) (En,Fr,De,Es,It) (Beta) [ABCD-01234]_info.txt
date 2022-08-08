@@ -1,0 +1,100 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Heatseeker   
+Title ID: ABCD-01234 
+Region: Europe  
+Languages: En,Fr,De,Es,It  
+Volume Creation Date: 2007-01-16 00:07:32 
+Volume Size: 613 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: TEST
+Volume set id: TEST
+Publisher id: TEST
+Data preparer id: TEST
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 314208
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Jan 16 2007 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 16 2007 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jan 16 2007 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Jan 16 2007 [     30 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Jan 16 2007 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 16 2007 [     22 02] .. 
+-r-xr-xr-x   1    0    0      24907 Dec 22 2006 [  24256 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        472 Dec 22 2006 [  24272 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     131475 Dec 22 2006 [  24288 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Jan 16 2007 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Jan 16 2007 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Jan 16 2007 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 16 2007 [     23 02] .. 
+-r-xr-xr-x   1    0    0    7610344 Jan 16 2007 [  24368 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    7610688 Jan 16 2007 [     32 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Jan 16 2007 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Jan 16 2007 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 16 2007 [     23 02] .. 
+-r-xr-xr-x   1    0    0     310828 Jan 16 2007 [  28096 00] DIRECT.BIN 
+-r-xr-xr-x   1    0    0  393272320 Jan 16 2007 [  28256 00] HEATSEEKER.DT3 
+dr-xr-xr-x   1    0    0       2048 Jan 16 2007 [     27 02] MODULES 
+dr-xr-xr-x   1    0    0       2048 Jan 16 2007 [     28 02] SOUND 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Jan 16 2007 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 16 2007 [     24 02] .. 
+-r-xr-xr-x   1    0    0   33554432 Jan 16 2007 [   7872 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    8388608 Jan 16 2007 [   3776 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0          0 Jan 16 2007 [   3760 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/MODULES/
+dr-xr-xr-x   1    0    0       2048 Jan 16 2007 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 16 2007 [     25 02] .. 
+-r-xr-xr-x   1    0    0       3264 Oct  9 2006 [ 220288 00] AUDIOCODEC.PRX 
+-r-xr-xr-x   1    0    0      10928 Oct  9 2006 [ 220304 00] LIBATRAC3PLUS.PRX 
+-r-xr-xr-x   1    0    0      20096 Oct  9 2006 [ 220320 00] MPEG.PRX 
+-r-xr-xr-x   1    0    0       5136 Oct  9 2006 [ 220336 00] MPEGBASE.PRX 
+-r-xr-xr-x   1    0    0       6864 Oct  9 2006 [ 220352 00] SC_SASCORE.PRX 
+-r-xr-xr-x   1    0    0       3440 Oct  9 2006 [ 220368 00] VIDEOCODEC.PRX 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/
+dr-xr-xr-x   1    0    0       2048 Jan 16 2007 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 16 2007 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jan 16 2007 [     29 02] PSP 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/PSP/
+dr-xr-xr-x   1    0    0       2048 Jan 16 2007 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 16 2007 [     28 02] .. 
+-r-xr-xr-x   1    0    0    4405344 Jan  3 2007 [ 220384 00] EFFECTS.FFS 
+-r-xr-xr-x   1    0    0  187705827 Jan  4 2007 [ 222544 00] MUSIC.FFS 
+=============================================================== 
+Generated on Sun 07/08/2022 at 13:43:41.59 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

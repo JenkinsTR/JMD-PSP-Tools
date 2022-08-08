@@ -1,0 +1,1667 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Syphon Filter - Dark Mirror   
+Title ID: UCES-00310 
+Region: EUR  
+Languages: En,Fr,De,Es,It  
+Volume Creation Date: 2006-06-29 19:00:39 
+Volume Size: 1693 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: UCES_00310
+Volume set id: 
+Publisher id: SCEE
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 867136
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Jun 29 2006 [    106 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     22 02] .. 
+-r-xr-xr-x   1    0    0       5705 Jun  2 2006 [  29296 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     129024 May 23 2006 [  29312 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 Jun 29 2006 [  24944 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      75909 Jun  2 2006 [  29376 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0     118436 Apr  7 2006 [  29424 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       6144 Jun 29 2006 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     23 02] .. 
+-r-xr-xr-x   1    0    0    8877968 Jun 29 2006 [  24960 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    8878304 Jun 29 2006 [    112 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     28 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       6144 Jun 29 2006 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     23 02] .. 
+-r-xr-xr-x   1    0    0   26642432 May  5 2006 [  30080 00] AERO_A1_SOL.PMF 
+-r-xr-xr-x   1    0    0      13770 May 29 2006 [  43104 00] AERO_A1_SOL.SUB 
+-r-xr-xr-x   1    0    0   87734272 Jun 16 2006 [  43120 00] AERO_C4_EOL.PMF 
+-r-xr-xr-x   1    0    0      25361 Jun  7 2006 [  85968 00] AERO_C4_EOL.SUB 
+-r-xr-xr-x   1    0    0    4315136 Apr 19 2006 [  85984 00] AERO_CHAR.PMF 
+-r-xr-xr-x   1    0    0        774 Apr 19 2006 [  88096 00] AERO_CHAR.SUB 
+-r-xr-xr-x   1    0    0    5214208 Apr 19 2006 [  88112 00] AERO_LEV.PMF 
+-r-xr-xr-x   1    0    0    7186432 Apr 19 2006 [  90672 00] ALT_INTRO.PMF 
+-r-xr-xr-x   1    0    0        653 Apr 19 2006 [  94192 00] ALT_INTRO.SUB 
+-r-xr-xr-x   1    0    0    4325376 Apr 19 2006 [  94208 00] BON_CHAR.PMF 
+-r-xr-xr-x   1    0    0        724 Apr 19 2006 [  96320 00] BON_CHAR.SUB 
+-r-xr-xr-x   1    0    0    5187584 Apr 19 2006 [  96336 00] BON_LEV.PMF 
+-r-xr-xr-x   1    0    0   22128640 May  5 2006 [  98880 00] CASIN_A1_SOL.PMF 
+-r-xr-xr-x   1    0    0      13827 May  5 2006 [ 109696 00] CASIN_A1_SOL.SUB 
+-r-xr-xr-x   1    0    0    4327424 Apr 19 2006 [ 109712 00] CAS_CHAR.PMF 
+-r-xr-xr-x   1    0    0        742 Apr 19 2006 [ 111840 00] CAS_CHAR.SUB 
+-r-xr-xr-x   1    0    0    5378048 Apr 19 2006 [ 111856 00] CAS_LEV.PMF 
+-r-xr-xr-x   1    0    0    4325376 Apr 19 2006 [ 114496 00] CHARACTERART.PMF 
+-r-xr-xr-x   1    0    0    1943552 Apr 19 2006 [ 116608 00] COMING_SOON.PMF 
+-r-xr-xr-x   1    0    0    7028736 Apr 19 2006 [ 117568 00] FRANCHISE.PMF 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     29 02] GAMEDATA 
+-r-xr-xr-x   1    0    0       1492 Apr 19 2006 [  29504 00] GAME_DEMO.INI 
+-r-xr-xr-x   1    0    0       5675 Jun 14 2006 [  29488 00] GAME_FR.INI 
+-r-xr-xr-x   1    0    0    4857856 Jun 14 2006 [ 121008 00] HKONG.PMF 
+-r-xr-xr-x   1    0    0        569 Jun 14 2006 [ 123392 00] HKONG.SUB 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     30 02] IRX 
+-r-xr-xr-x   1    0    0    3876864 Apr 19 2006 [ 123408 00] JUNGLE.PMF 
+-r-xr-xr-x   1    0    0        633 Apr 19 2006 [ 125312 00] JUNGLE.SUB 
+-r-xr-xr-x   1    0    0    9218048 May 23 2006 [ 125328 00] KEM_PROTO.PMF 
+-r-xr-xr-x   1    0    0        680 Apr 19 2006 [ 129840 00] KEM_PROTO.SUB 
+-r-xr-xr-x   1    0    0    5150720 Apr 19 2006 [ 129856 00] LEVELART.PMF 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     31 02] LOCAL_INI 
+-r-xr-xr-x   1    0    0   12038144 May  5 2006 [ 132384 00] NARBO_A1_SOL.PMF 
+-r-xr-xr-x   1    0    0       6293 Jun  7 2006 [ 138272 00] NARBO_A1_SOL.SUB 
+-r-xr-xr-x   1    0    0    2430976 May 23 2006 [ 138288 00] PROPANE.PMF 
+-r-xr-xr-x   1    0    0        608 Apr 19 2006 [ 139488 00] PROPANE.SUB 
+-r-xr-xr-x   1    0    0    4321280 Apr 19 2006 [ 139504 00] REF1_CHAR.PMF 
+-r-xr-xr-x   1    0    0        797 Apr 19 2006 [ 141616 00] REF1_CHAR.SUB 
+-r-xr-xr-x   1    0    0    5103616 Apr 19 2006 [ 141632 00] REF1_LEV.PMF 
+-r-xr-xr-x   1    0    0    4308992 Apr 19 2006 [ 144128 00] REF2_CHAR.PMF 
+-r-xr-xr-x   1    0    0        782 Apr 19 2006 [ 146240 00] REF2_CHAR.SUB 
+-r-xr-xr-x   1    0    0    5083136 Apr 19 2006 [ 146256 00] REF2_LEV.PMF 
+-r-xr-xr-x   1    0    0   66316288 Jun 13 2006 [ 148752 00] REFIN_A1_SOL.PMF 
+-r-xr-xr-x   1    0    0      19442 Jun  8 2006 [ 181136 00] REFIN_A1_SOL.SUB 
+-r-xr-xr-x   1    0    0   10293248 Apr 19 2006 [ 181152 00] REFIN_ANIM.PMF 
+-r-xr-xr-x   1    0    0        652 Apr 19 2006 [ 186192 00] REFIN_ANIM.SUB 
+-r-xr-xr-x   1    0    0   56864768 May  5 2006 [ 186208 00] SHANT_A1_SOL.PMF 
+-r-xr-xr-x   1    0    0      27863 Jun  1 2006 [ 213984 00] SHANT_A1_SOL.SUB 
+-r-xr-xr-x   1    0    0    4329472 Apr 19 2006 [ 214000 00] SHANT_CHAR.PMF 
+-r-xr-xr-x   1    0    0        778 Apr 19 2006 [ 216128 00] SHANT_CHAR.SUB 
+-r-xr-xr-x   1    0    0    5228544 Apr 19 2006 [ 216144 00] SHANT_LEV.PMF 
+-r-xr-xr-x   1    0    0   12945408 Apr 19 2006 [ 218704 00] STORYBOARD.PMF 
+-r-xr-xr-x   1    0    0        649 Apr 19 2006 [ 225040 00] STORYBOARD.SUB 
+-r-xr-xr-x   1    0    0    8814592 Apr 19 2006 [ 225056 00] TRAILER.PMF 
+-r-xr-xr-x   1    0    0   41369600 May  5 2006 [ 229360 00] WEPPL_A1_SOL.PMF 
+-r-xr-xr-x   1    0    0      20740 May  5 2006 [ 249568 00] WEPPL_A1_SOL.SUB 
+-r-xr-xr-x   1    0    0    4317184 Apr 19 2006 [ 249584 00] WEPPL_CHAR.PMF 
+-r-xr-xr-x   1    0    0        758 Apr 19 2006 [ 251696 00] WEPPL_CHAR.SUB 
+-r-xr-xr-x   1    0    0    5150720 Apr 19 2006 [ 251712 00] WEPPL_LEV.PMF 
+-r-xr-xr-x   1    0    0    4018176 Apr 19 2006 [ 254240 00] WEP_ANIM.PMF 
+-r-xr-xr-x   1    0    0        631 Apr 19 2006 [ 256208 00] WEP_ANIM.SUB 
+-r-xr-xr-x   1    0    0   40081408 Jun  9 2006 [ 256224 00] ZUGSP_A1_SOL.PMF 
+-r-xr-xr-x   1    0    0      23630 May  5 2006 [ 275808 00] ZUGSP_A1_SOL.SUB 
+-r-xr-xr-x   1    0    0    4331520 Apr 19 2006 [ 275824 00] ZUGS_CHAR.PMF 
+-r-xr-xr-x   1    0    0        747 Apr 19 2006 [ 277952 00] ZUGS_CHAR.SUB 
+-r-xr-xr-x   1    0    0    5113856 Apr 19 2006 [ 277968 00] ZUGS_LEV.PMF 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     24 02] .. 
+-r-xr-xr-x   1    0    0   15027936 Jun 29 2006 [   8560 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5089088 Jun 29 2006 [   4464 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Jun 29 2006 [   4448 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     29 02] . 
+dr-xr-xr-x   1    0    0       6144 Jun 29 2006 [     25 02] .. 
+dr-xr-xr-x   1    0    0       4096 Jun 29 2006 [     32 02] COMMON 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     34 02] FRONTEND 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     35 02] GAMESHARE 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     36 02] MULTI 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     37 02] SINGLE 
+
+Directory listing of /PSP_GAME/USRDIR/IRX/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     30 02] . 
+dr-xr-xr-x   1    0    0       6144 Jun 29 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0       3264 Apr 19 2006 [  29536 00] AUDIOCODEC.PRX 
+-r-xr-xr-x   1    0    0      10816 Apr 19 2006 [  29552 00] IFHANDLE.PRX 
+-r-xr-xr-x   1    0    0     275345 Apr 19 2006 [  29568 00] IOPRP300.IMG 
+-r-xr-xr-x   1    0    0      10128 Apr 19 2006 [  29712 00] LIBATRAC3PLUS.PRX 
+-r-xr-xr-x   1    0    0      17216 Apr 19 2006 [  29728 00] MEMAB.PRX 
+-r-xr-xr-x   1    0    0      20976 Apr 19 2006 [  29744 00] MPEG.PRX 
+-r-xr-xr-x   1    0    0       5136 Apr 19 2006 [  29760 00] MPEGBASE.PRX 
+-r-xr-xr-x   1    0    0      60360 Apr 19 2006 [  29776 00] PSPNET.PRX 
+-r-xr-xr-x   1    0    0      42492 Apr 19 2006 [  29808 00] PSPNET_ADHOC.PRX 
+-r-xr-xr-x   1    0    0      31996 Apr 19 2006 [  29840 00] PSPNET_ADHOCCTL.PRX 
+-r-xr-xr-x   1    0    0      11360 Apr 19 2006 [  29856 00] PSPNET_ADHOC_AUTH.PRX 
+-r-xr-xr-x   1    0    0      44412 Apr 19 2006 [  29872 00] PSPNET_APCTL.PRX 
+-r-xr-xr-x   1    0    0       2448 Apr 19 2006 [  29904 00] PSPNET_AP_DIALOG_DUMMY.PRX 
+-r-xr-xr-x   1    0    0     239968 Apr 19 2006 [  29920 00] PSPNET_INET.PRX 
+-r-xr-xr-x   1    0    0       6864 Apr 19 2006 [  30048 00] SC_SASCORE.PRX 
+-r-xr-xr-x   1    0    0       3440 Apr 19 2006 [  30064 00] VIDEOCODEC.PRX 
+
+Directory listing of /PSP_GAME/USRDIR/LOCAL_INI/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     31 02] . 
+dr-xr-xr-x   1    0    0       6144 Jun 29 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0       9008 Jun 21 2006 [  29520 00] GAME.INI 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/COMMON/
+dr-xr-xr-x   1    0    0       4096 Jun 29 2006 [     32 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0       8352 May  3 2006 [ 304880 00] ARMS_MEDIC_P.TDX 
+-r-xr-xr-x   1    0    0     129024 May  3 2006 [ 304896 00] BACKUPICON1.PMF.BAK 
+-r-xr-xr-x   1    0    0       2208 May  3 2006 [ 304960 00] BODY_BANDAID_P.TDX 
+-r-xr-xr-x   1    0    0       2208 May  3 2006 [ 304976 00] BODY_MKIT_P.TDX 
+-r-xr-xr-x   1    0    0       3594 May  3 2006 [ 304992 00] BONUS.INI 
+-r-xr-xr-x   1    0    0       5216 May  3 2006 [ 305008 00] ERROR.TDX 
+-r-xr-xr-x   1    0    0       5472 May  3 2006 [ 305024 00] ERROR_PS2.TDX 
+-r-xr-xr-x   1    0    0       5216 May  3 2006 [ 305040 00] ERROR_PSP.TDX 
+-r-xr-xr-x   1    0    0       2000 May  3 2006 [ 305056 00] FACE.HGZ 
+-r-xr-xr-x   1    0    0       2208 May  3 2006 [ 305072 00] FIRSTAIDKIT_P.TDX 
+-r-xr-xr-x   1    0    0       2208 May  3 2006 [ 305088 00] FIRSTAID_P.TDX 
+-r-xr-xr-x   1    0    0       2208 May  3 2006 [ 305104 00] FIRST_AID_P.TDX 
+-r-xr-xr-x   1    0    0      18804 May 22 2006 [ 305120 00] FONTS.HGZ 
+-r-xr-xr-x   1    0    0     225968 May  3 2006 [ 305136 00] FONTS_PS2.HOG 
+-r-xr-xr-x   1    0    0      74160 May 22 2006 [ 305248 00] FONTS_PSP.HOG 
+-r-xr-xr-x   1    0    0     304688 Jun 23 2006 [ 305296 00] FREED.HGZ 
+-r-xr-xr-x   1    0    0    1091792 May  3 2006 [ 305456 00] FREEDLVL.HOG 
+-r-xr-xr-x   1    0    0      68272 May  3 2006 [ 306000 00] GLBSND.HOG 
+-r-xr-xr-x   1    0    0       8352 May  3 2006 [ 306048 00] HAT_MEDIC_P.TDX 
+-r-xr-xr-x   1    0    0        339 May  3 2006 [ 306064 00] HELMET.CSV 
+-r-xr-xr-x   1    0    0      22048 May  3 2006 [ 306080 00] IAMAPN.HOG 
+-r-xr-xr-x   1    0    0     460592 Jun 22 2006 [ 306096 00] IARCADEN.HOG 
+-r-xr-xr-x   1    0    0       5656 May 30 2006 [ 306336 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0       5391 May 30 2006 [ 306352 00] ICON0_NEW.PNG 
+-r-xr-xr-x   1    0    0     126976 May 31 2006 [ 306368 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0       1912 May  3 2006 [ 306432 00] INPUTMAP.DAT 
+-r-xr-xr-x   1    0    0       1912 May  3 2006 [ 306448 00] INPUTMAP1.DAT 
+-r-xr-xr-x   1    0    0       1912 May  3 2006 [ 306464 00] INPUTMAP2.DAT 
+-r-xr-xr-x   1    0    0       1896 May  3 2006 [ 306480 00] INPUTMAP3.DAT 
+-r-xr-xr-x   1    0    0        235 May  3 2006 [ 306496 00] JACKET.CSV 
+-r-xr-xr-x   1    0    0       4256 May  3 2006 [ 306512 00] MED_CABINET_DOORS_P.TDX 
+-r-xr-xr-x   1    0    0     184960 May  3 2006 [ 306528 00] MORPH.HOG 
+-r-xr-xr-x   1    0    0      62823 May  3 2006 [ 306624 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0       3788 May  3 2006 [ 306656 00] SCRIPTS.HGZ 
+-r-xr-xr-x   1    0    0       1138 May  3 2006 [ 306672 00] SFO_CHAR.MAP 
+-r-xr-xr-x   1    0    0       5216 May  3 2006 [ 306688 00] SHADOW.TDX 
+-r-xr-xr-x   1    0    0     543152 May  3 2006 [ 306704 00] SKA.HGZ 
+-r-xr-xr-x   1    0    0    3207168 May  3 2006 [ 306976 00] SKALEVEL.HOG 
+-r-xr-xr-x   1    0    0     382860 Apr 19 2006 [ 308544 00] SKALINKS.SKALNK 
+-r-xr-xr-x   1    0    0       9680 May  3 2006 [ 308736 00] SKAS.HOG 
+-r-xr-xr-x   1    0    0       1456 May  3 2006 [ 308752 00] SKAS_PVP.HGZ 
+-r-xr-xr-x   1    0    0        434 May  3 2006 [ 308768 00] SKEL.HGZ 
+-r-xr-xr-x   1    0    0      46628 May  3 2006 [ 308784 00] SND0.AT3 
+-r-xr-xr-x   1    0    0     124808 Jun 14 2006 [ 308816 00] STRINGS.DAT 
+-r-xr-xr-x   1    0    0     124640 Jun 20 2006 [ 308880 00] STRINGS_E.DAT 
+-r-xr-xr-x   1    0    0     135304 Jun 20 2006 [ 308944 00] STRINGS_F.DAT 
+-r-xr-xr-x   1    0    0     137244 Jun 20 2006 [ 309024 00] STRINGS_G.DAT 
+-r-xr-xr-x   1    0    0     134608 Jun 23 2006 [ 309104 00] STRINGS_I.DAT 
+-r-xr-xr-x   1    0    0     136060 Jun 23 2006 [ 309184 00] STRINGS_S.DAT 
+-r-xr-xr-x   1    0    0      62551 Apr 19 2006 [ 309264 00] TWEAKS.INI 
+-r-xr-xr-x   1    0    0     144358 May 22 2006 [ 309296 00] UNFREED.HGZ 
+-r-xr-xr-x   1    0    0      91976 May  3 2006 [ 309376 00] WEAPONS.WDB 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/FRONTEND/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     34 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     29 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     38 02] BONUS 
+-r-xr-xr-x   1    0    0      26638 Apr 19 2006 [ 309424 00] BUDDIES.HGZ 
+-r-xr-xr-x   1    0    0     268818 Apr 19 2006 [ 309440 00] CELLPTCH.HGZ 
+-r-xr-xr-x   1    0    0        716 Apr 19 2006 [ 309584 00] FEMALE.SKL 
+-r-xr-xr-x   1    0    0     159694 Apr 19 2006 [ 309600 00] GLBSND.HGZ 
+-r-xr-xr-x   1    0    0      80992 Apr 19 2006 [ 309680 00] ICONS.HOG 
+-r-xr-xr-x   1    0    0      22240 Apr 19 2006 [ 309728 00] LEDNUMS.HOG 
+-r-xr-xr-x   1    0    0        725 Apr 19 2006 [ 309744 00] LIGHTING.INI 
+-r-xr-xr-x   1    0    0        748 Apr 19 2006 [ 309760 00] MALE.SKL 
+-r-xr-xr-x   1    0    0     262240 Apr 19 2006 [ 309776 00] MINIMAP.TDX 
+-r-xr-xr-x   1    0    0       2208 Apr 19 2006 [ 309920 00] MINIMAPA.TDX 
+-r-xr-xr-x   1    0    0       4256 Apr 19 2006 [ 309936 00] MISSION_UNAVAILABLE.TDX 
+-r-xr-xr-x   1    0    0     235654 Apr 19 2006 [ 309952 00] MSNTXTRS.HGZ 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     39 02] MUSIC 
+-r-xr-xr-x   1    0    0     211410 Apr 19 2006 [ 310080 00] NPC.HGZ 
+dr-xr-xr-x   1    0    0       8192 Jun 29 2006 [     40 02] NTSC 
+-r-xr-xr-x   1    0    0      42258 Apr 19 2006 [ 310192 00] OLNMSNTX.HGZ 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     44 02] PATCHES 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     45 02] RATINGS_VO 
+-r-xr-xr-x   1    0    0      97574 May 24 2006 [ 310224 00] RTNGPTCH.HGZ 
+-r-xr-xr-x   1    0    0        558 Apr 19 2006 [ 310272 00] SKL.HGZ 
+-r-xr-xr-x   1    0    0      50808 Apr 19 2006 [ 310288 00] SND.HOG 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     46 02] SVO 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     47 02] UI_GROUPS 
+-r-xr-xr-x   1    0    0      98419 Jun 15 2006 [ 310320 00] VULGAR.DAT 
+-r-xr-xr-x   1    0    0     110474 Apr 19 2006 [ 310384 00] WPN.HGZ 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/GAMESHARE/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     35 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0    8327488 Jun 12 2006 [ 280480 00] UPLOAD.DAT 
+-r-xr-xr-x   1    0    0    8291632 Jun 20 2006 [ 284560 00] UPLOAD_E 
+-r-xr-xr-x   1    0    0    8302000 Jun 20 2006 [ 288624 00] UPLOAD_F 
+-r-xr-xr-x   1    0    0    8297968 Jun 20 2006 [ 292688 00] UPLOAD_G 
+-r-xr-xr-x   1    0    0    8297776 Jun 20 2006 [ 296752 00] UPLOAD_I 
+-r-xr-xr-x   1    0    0    8297200 Jun 20 2006 [ 300816 00] UPLOAD_S 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/MULTI/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     36 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     29 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     48 02] DEATHMATCH_B 
+dr-xr-xr-x   1    0    0       4096 Jun 29 2006 [     49 02] DETROIT 
+dr-xr-xr-x   1    0    0       4096 Jun 29 2006 [     51 02] REFINERY 
+dr-xr-xr-x   1    0    0       4096 Jun 29 2006 [     53 02] SHANTY 
+dr-xr-xr-x   1    0    0       4096 Jun 29 2006 [     55 02] WEAPONS 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/SINGLE/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     37 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     29 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     57 02] AERO_1P 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     58 02] CASIN_1P 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     59 02] HKONG_1P 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     60 02] NARBO_1P 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     61 02] REFIN_1P 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     62 02] SHANT_1P 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     63 02] TRAIN_1P 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     64 02] WEPPL_1P 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     65 02] ZUGSP_1P 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/FRONTEND/BONUS/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     38 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     34 02] .. 
+dr-xr-xr-x   1    0    0       4096 Jun 29 2006 [     66 02] AUDIO 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     68 02] CONCEPT 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/FRONTEND/MUSIC/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     39 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     34 02] .. 
+-r-xr-xr-x   1    0    0    2055024 Apr 19 2006 [ 361472 00] GABES_THEME.AT3 
+-r-xr-xr-x   1    0    0    1654752 Apr 19 2006 [ 362480 00] GENERAL_SUSPENSE1_REFMIX.AT3 
+-r-xr-xr-x   1    0    0    2054280 Apr 19 2006 [ 363296 00] HARGROVES_THEME.AT3 
+-r-xr-xr-x   1    0    0     106004 Apr 19 2006 [ 364304 00] LOADING_AMB.AT3 
+-r-xr-xr-x   1    0    0    1096008 Apr 19 2006 [ 364368 00] LR_STEALTH_SUS1.AT3 
+-r-xr-xr-x   1    0    0    2328072 Apr 19 2006 [ 364912 00] MAIN_TITLES.AT3 
+-r-xr-xr-x   1    0    0    2050560 Apr 19 2006 [ 366064 00] RED_SECTIONS_THEME.AT3 
+-r-xr-xr-x   1    0    0    2127936 Apr 19 2006 [ 367072 00] SINGULARITYS_THEME.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/FRONTEND/NTSC/
+dr-xr-xr-x   1    0    0       8192 Jun 29 2006 [     40 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     34 02] .. 
+-r-xr-xr-x   1    0    0       3916 Apr 19 2006 [ 368112 00] ACNTLOGN.HGZ 
+-r-xr-xr-x   1    0    0      55410 May 30 2006 [ 368128 00] AGCYRAT.HGZ 
+-r-xr-xr-x   1    0    0      54766 May 30 2006 [ 368160 00] AGENT.HGZ 
+-r-xr-xr-x   1    0    0      69930 May 30 2006 [ 368192 00] AUDIO.HGZ 
+-r-xr-xr-x   1    0    0       4588 May 30 2006 [ 368240 00] AUTOSAVE.HGZ 
+-r-xr-xr-x   1    0    0       2662 May 30 2006 [ 368256 00] BONUSBAR.HGZ 
+-r-xr-xr-x   1    0    0      21788 May 30 2006 [ 368272 00] BRIEFING.HGZ 
+-r-xr-xr-x   1    0    0      54786 May 30 2006 [ 368288 00] CAREER.HGZ 
+-r-xr-xr-x   1    0    0      53660 May 30 2006 [ 368320 00] CELLLOG.HGZ 
+-r-xr-xr-x   1    0    0      54594 May 30 2006 [ 368352 00] CELLMEMB.HGZ 
+-r-xr-xr-x   1    0    0      51668 Apr 19 2006 [ 368384 00] CELLOPS.HGZ 
+-r-xr-xr-x   1    0    0      54120 Jun 22 2006 [ 368416 00] CELLSUB.HGZ 
+-r-xr-xr-x   1    0    0      68616 May 30 2006 [ 368448 00] CHAPSEL.HGZ 
+-r-xr-xr-x   1    0    0       7568 Apr 19 2006 [ 368496 00] COMPLETE.HGZ 
+-r-xr-xr-x   1    0    0      50500 May 30 2006 [ 368512 00] CONCPRT.HGZ 
+-r-xr-xr-x   1    0    0      24116 May 30 2006 [ 368544 00] CRRATING.HGZ 
+-r-xr-xr-x   1    0    0       5316 May 30 2006 [ 368560 00] DBAUTO.HGZ 
+-r-xr-xr-x   1    0    0       2022 May 30 2006 [ 368576 00] DBCOMM.HGZ 
+-r-xr-xr-x   1    0    0       1804 Apr 19 2006 [ 368592 00] DBHOST.HGZ 
+-r-xr-xr-x   1    0    0       5624 May 30 2006 [ 368608 00] DBJOIN.HGZ 
+-r-xr-xr-x   1    0    0       4954 May 30 2006 [ 368624 00] DBRANK.HGZ 
+-r-xr-xr-x   1    0    0       1294 May 30 2006 [ 368640 00] DBSCORE.HGZ 
+-r-xr-xr-x   1    0    0       1704 May 30 2006 [ 368656 00] DBSCORET.HGZ 
+-r-xr-xr-x   1    0    0      66266 May 30 2006 [ 368672 00] DBSTAGE.HGZ 
+-r-xr-xr-x   1    0    0       4056 Apr 19 2006 [ 368720 00] DNASLOGO.HGZ 
+-r-xr-xr-x   1    0    0      28408 May 30 2006 [ 368736 00] EQMODIFY.HGZ 
+-r-xr-xr-x   1    0    0      21636 May 30 2006 [ 368752 00] EQUIPNT.HGZ 
+-r-xr-xr-x   1    0    0      92056 May 30 2006 [ 368768 00] EULA.HGZ 
+-r-xr-xr-x   1    0    0       5812 May 30 2006 [ 368816 00] FAILED.HGZ 
+-r-xr-xr-x   1    0    0       8676 May 30 2006 [ 368832 00] FILTERS.HGZ 
+-r-xr-xr-x   1    0    0      10060 Apr 19 2006 [ 368848 00] GAME.HGZ 
+-r-xr-xr-x   1    0    0        712 Apr 19 2006 [ 368864 00] GAMEBACK.HGZ 
+-r-xr-xr-x   1    0    0      27980 May 30 2006 [ 368880 00] GAMECTRL.HGZ 
+-r-xr-xr-x   1    0    0      27196 May 30 2006 [ 368896 00] GAMEGUI.HGZ 
+-r-xr-xr-x   1    0    0      50246 Jun 22 2006 [ 368912 00] GAMELIST.HGZ 
+-r-xr-xr-x   1    0    0      34128 May 30 2006 [ 368944 00] GAMEOPT.HGZ 
+-r-xr-xr-x   1    0    0      32526 May 30 2006 [ 368976 00] GAMEOPT2.HGZ 
+-r-xr-xr-x   1    0    0      13464 Jun 22 2006 [ 368992 00] GAMEPROF.HGZ 
+-r-xr-xr-x   1    0    0      37430 May 30 2006 [ 369008 00] GAMERATE.HGZ 
+-r-xr-xr-x   1    0    0      12810 Jun 22 2006 [ 369040 00] GAMESTATS.HGZ 
+-r-xr-xr-x   1    0    0      27900 May 30 2006 [ 369056 00] HOSTGAME.HGZ 
+-r-xr-xr-x   1    0    0      21540 May 30 2006 [ 369072 00] INGAMENU.HGZ 
+-r-xr-xr-x   1    0    0      27470 May 30 2006 [ 369088 00] JOINGAME.HGZ 
+-r-xr-xr-x   1    0    0      14680 Apr 19 2006 [ 369104 00] KEYBOARD.HGZ 
+-r-xr-xr-x   1    0    0      45716 May 30 2006 [ 369120 00] LEGALSCN.HGZ 
+-r-xr-xr-x   1    0    0      55342 May 30 2006 [ 369152 00] LOADSCRN.HGZ 
+-r-xr-xr-x   1    0    0     124578 May 30 2006 [ 369184 00] LOCKFILE.HGZ 
+-r-xr-xr-x   1    0    0      80592 May 30 2006 [ 369248 00] LOGIN.HGZ 
+-r-xr-xr-x   1    0    0      72178 May 30 2006 [ 369296 00] MAINCTRL.HGZ 
+-r-xr-xr-x   1    0    0      66722 Jun 22 2006 [ 369344 00] MAINDIFF.HGZ 
+-r-xr-xr-x   1    0    0      45334 May 30 2006 [ 369392 00] MAINLOAD.HGZ 
+-r-xr-xr-x   1    0    0     106930 May 30 2006 [ 369424 00] MAINMENU.HGZ 
+-r-xr-xr-x   1    0    0      76506 May 30 2006 [ 369488 00] MAINOPT.HGZ 
+-r-xr-xr-x   1    0    0      10346 May 30 2006 [ 369536 00] MAPSCRN.HGZ 
+-r-xr-xr-x   1    0    0       1858 May 30 2006 [ 369552 00] MEMPOP.HGZ 
+-r-xr-xr-x   1    0    0      44348 May 30 2006 [ 369568 00] MISSION.HGZ 
+-r-xr-xr-x   1    0    0      59306 May 30 2006 [ 369600 00] MOVIES.HGZ 
+-r-xr-xr-x   1    0    0      67768 May 30 2006 [ 369632 00] MSNSEL.HGZ 
+-r-xr-xr-x   1    0    0     123428 May 30 2006 [ 369680 00] MSNSEL2.HGZ 
+-r-xr-xr-x   1    0    0      22872 May 30 2006 [ 369744 00] MSRATING.HGZ 
+-r-xr-xr-x   1    0    0      29684 May 30 2006 [ 369760 00] MSRATNEW.HGZ 
+-r-xr-xr-x   1    0    0     129070 May 30 2006 [ 369776 00] MSRATSEL.HGZ 
+-r-xr-xr-x   1    0    0       1184 Apr 19 2006 [ 369840 00] NETISSUE.HGZ 
+-r-xr-xr-x   1    0    0      21100 Apr 19 2006 [ 369856 00] OBJECTIV.HGZ 
+-r-xr-xr-x   1    0    0      94584 May 30 2006 [ 369872 00] OLNOPT.HGZ 
+-r-xr-xr-x   1    0    0      46420 May 30 2006 [ 369920 00] ONLINEBG.HGZ 
+-r-xr-xr-x   1    0    0      14122 May 30 2006 [ 369952 00] ONLINECN.HGZ 
+-r-xr-xr-x   1    0    0       2832 May 30 2006 [ 369968 00] ONOFFSEL.HGZ 
+-r-xr-xr-x   1    0    0      57134 May 30 2006 [ 369984 00] PATCHSCR.HGZ 
+-r-xr-xr-x   1    0    0      12962 Jun 22 2006 [ 370016 00] PLAYERSTATS.HGZ 
+-r-xr-xr-x   1    0    0      78644 May 30 2006 [ 370032 00] PLAYTYPE.HGZ 
+-r-xr-xr-x   1    0    0       6508 May 30 2006 [ 370080 00] POPUP.HGZ 
+-r-xr-xr-x   1    0    0      79832 Jun 22 2006 [ 370096 00] POSTLOAD.HGZ 
+-r-xr-xr-x   1    0    0      49148 Jun 22 2006 [ 370144 00] PROFILE.HGZ 
+-r-xr-xr-x   1    0    0      45256 May 30 2006 [ 370176 00] PROFSCR.HGZ 
+-r-xr-xr-x   1    0    0      34694 May 30 2006 [ 370208 00] PROMO.HGZ 
+-r-xr-xr-x   1    0    0      71988 May 30 2006 [ 370240 00] PS_RATNG.HGZ 
+-r-xr-xr-x   1    0    0      50872 May 30 2006 [ 370288 00] PS_SUMRY.HGZ 
+-r-xr-xr-x   1    0    0       4724 Apr 19 2006 [ 370320 00] PUBNAV.HGZ 
+-r-xr-xr-x   1    0    0      27332 May 30 2006 [ 370336 00] QUKSLCT.HGZ 
+-r-xr-xr-x   1    0    0      21546 May 30 2006 [ 370352 00] RADIOLOG.HGZ 
+-r-xr-xr-x   1    0    0       6092 May 30 2006 [ 370368 00] RAIN_DROPS.HGZ 
+-r-xr-xr-x   1    0    0       3546 May 30 2006 [ 370384 00] RAIN_EFFECT.HGZ 
+-r-xr-xr-x   1    0    0      92144 May 30 2006 [ 370400 00] READYSCR.HGZ 
+-r-xr-xr-x   1    0    0       8822 Jun 22 2006 [ 370448 00] REWARDS.HGZ 
+-r-xr-xr-x   1    0    0      21502 May 30 2006 [ 370464 00] SCOREONE.HGZ 
+-r-xr-xr-x   1    0    0     284256 May 30 2006 [ 370480 00] SERVLIST.HOG 
+-r-xr-xr-x   1    0    0      69182 May 30 2006 [ 370624 00] SHELL.HGZ 
+-r-xr-xr-x   1    0    0      19598 May 30 2006 [ 370672 00] SMSCORES.HGZ 
+-r-xr-xr-x   1    0    0      46284 May 30 2006 [ 370688 00] SNGLMENU.HGZ 
+-r-xr-xr-x   1    0    0       4120 Apr 19 2006 [ 370720 00] SNOW_DROPS.HGZ 
+-r-xr-xr-x   1    0    0      34400 May 30 2006 [ 370736 00] SOON.HGZ 
+-r-xr-xr-x   1    0    0      67658 May 30 2006 [ 370768 00] SPLASH.HGZ 
+-r-xr-xr-x   1    0    0       1658 May 30 2006 [ 370816 00] STARTING.HGZ 
+-r-xr-xr-x   1    0    0      50836 May 30 2006 [ 370832 00] STORY.HGZ 
+-r-xr-xr-x   1    0    0       9468 Apr 19 2006 [ 370864 00] THROB.HGZ 
+-r-xr-xr-x   1    0    0      51352 May 30 2006 [ 370880 00] TRAINING.HGZ 
+-r-xr-xr-x   1    0    0      94588 May 30 2006 [ 370912 00] TRANSEL.HGZ 
+-r-xr-xr-x   1    0    0      10094 May 30 2006 [ 370960 00] UPPERNAV.HGZ 
+-r-xr-xr-x   1    0    0       9510 May 30 2006 [ 370976 00] UPPERNAVA.HGZ 
+-r-xr-xr-x   1    0    0      14538 May 30 2006 [ 370992 00] WEPSEL2.HGZ 
+-r-xr-xr-x   1    0    0      17566 May 30 2006 [ 371008 00] WEPSLPSP.HGZ 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/FRONTEND/PATCHES/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     44 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     34 02] .. 
+-r-xr-xr-x   1    0    0       8352 May 24 2006 [ 371024 00] 1PATCH1.TDX 
+-r-xr-xr-x   1    0    0       8352 May 24 2006 [ 371040 00] 1PATCH2.TDX 
+-r-xr-xr-x   1    0    0       8352 May 24 2006 [ 371056 00] 1PATCH3.TDX 
+-r-xr-xr-x   1    0    0       8352 May 24 2006 [ 371072 00] 1PATCH4.TDX 
+-r-xr-xr-x   1    0    0       8352 May 24 2006 [ 371088 00] 2PATCH1.TDX 
+-r-xr-xr-x   1    0    0       8352 May 24 2006 [ 371104 00] 2PATCH2.TDX 
+-r-xr-xr-x   1    0    0       8352 May 24 2006 [ 371120 00] 2PATCH3.TDX 
+-r-xr-xr-x   1    0    0       8352 May 24 2006 [ 371136 00] 2PATCH4.TDX 
+-r-xr-xr-x   1    0    0       8352 May 24 2006 [ 371152 00] 3PATCH1.TDX 
+-r-xr-xr-x   1    0    0       8352 May 24 2006 [ 371168 00] 3PATCH2.TDX 
+-r-xr-xr-x   1    0    0       8352 May 24 2006 [ 371184 00] 3PATCH3.TDX 
+-r-xr-xr-x   1    0    0       8352 May 24 2006 [ 371200 00] 3PATCH4.TDX 
+-r-xr-xr-x   1    0    0       8352 May 24 2006 [ 371216 00] 4PATCH1.TDX 
+-r-xr-xr-x   1    0    0       8352 May 24 2006 [ 371232 00] 4PATCH2.TDX 
+-r-xr-xr-x   1    0    0       8352 May 24 2006 [ 371248 00] 4PATCH3.TDX 
+-r-xr-xr-x   1    0    0       8352 May 24 2006 [ 371264 00] 4PATCH4.TDX 
+-r-xr-xr-x   1    0    0       8352 May 24 2006 [ 371280 00] 5PATCH1.TDX 
+-r-xr-xr-x   1    0    0       8352 May 24 2006 [ 371296 00] 5PATCH2.TDX 
+-r-xr-xr-x   1    0    0       8352 May 24 2006 [ 371312 00] 5PATCH3.TDX 
+-r-xr-xr-x   1    0    0       8352 May 24 2006 [ 371328 00] 5PATCH4.TDX 
+-r-xr-xr-x   1    0    0       8352 May 24 2006 [ 371344 00] 6PATCH1.TDX 
+-r-xr-xr-x   1    0    0       8352 May 24 2006 [ 371360 00] 6PATCH2.TDX 
+-r-xr-xr-x   1    0    0       8352 May 24 2006 [ 371376 00] 6PATCH3.TDX 
+-r-xr-xr-x   1    0    0       8352 May 24 2006 [ 371392 00] 6PATCH4.TDX 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/FRONTEND/RATINGS_VO/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     45 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     34 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     69 02] ENGLISH 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     70 02] FRENCH 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     71 02] GERMAN 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     72 02] ITALIAN 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     73 02] SPANISH 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/FRONTEND/SVO/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     46 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     34 02] .. 
+-r-xr-xr-x   1    0    0       1932 Apr 19 2006 [ 382208 00] BUTTON_FRM.HGZ 
+-r-xr-xr-x   1    0    0       4036 Apr 19 2006 [ 382224 00] WINDOW_FRM.HGZ 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/FRONTEND/UI_GROUPS/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     47 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     34 02] .. 
+-r-xr-xr-x   1    0    0      53702 Jun 21 2006 [ 382240 00] SHELL_FREED.HGZ 
+-r-xr-xr-x   1    0    0     794240 Jun 21 2006 [ 382272 00] SHELL_UNFREED.HGZ 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/MULTI/DEATHMATCH_B/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     48 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     36 02] .. 
+-r-xr-xr-x   1    0    0     165514 Jun 12 2006 [ 858144 00] FREED.HGZ 
+-r-xr-xr-x   1    0    0     612292 Jun 23 2006 [ 858240 00] FREEDGUI.HGZ 
+-r-xr-xr-x   1    0    0     619646 Jun 23 2006 [ 858544 00] FREEDGUI_L.HGZ 
+-r-xr-xr-x   1    0    0     168870 Jun 16 2006 [ 858848 00] FREED_L.HGZ 
+-r-xr-xr-x   1    0    0     605346 Apr 27 2006 [ 858944 00] UNFREED.HGZ 
+-r-xr-xr-x   1    0    0       1728 Apr 19 2006 [ 859248 00] UNFREED_E.HGZ 
+-r-xr-xr-x   1    0    0       1696 Apr 28 2006 [ 859264 00] UNFREED_F.HGZ 
+-r-xr-xr-x   1    0    0       1694 Apr 20 2006 [ 859280 00] UNFREED_G.HGZ 
+-r-xr-xr-x   1    0    0       1694 Apr 28 2006 [ 859296 00] UNFREED_I.HGZ 
+-r-xr-xr-x   1    0    0     603764 Apr 27 2006 [ 859312 00] UNFREED_L.HGZ 
+-r-xr-xr-x   1    0    0       1694 Apr 28 2006 [ 859616 00] UNFREED_S.HGZ 
+-r-xr-xr-x   1    0    0    4185536 Apr 19 2006 [ 859632 00] VOLATILE.HOG 
+-r-xr-xr-x   1    0    0    1069120 Apr 19 2006 [ 861680 00] VOLATILE_E.HOG 
+-r-xr-xr-x   1    0    0    1028160 Apr 28 2006 [ 862208 00] VOLATILE_F.HOG 
+-r-xr-xr-x   1    0    0    1005632 Apr 20 2006 [ 862720 00] VOLATILE_G.HOG 
+-r-xr-xr-x   1    0    0    1058880 Apr 28 2006 [ 863216 00] VOLATILE_I.HOG 
+-r-xr-xr-x   1    0    0    3116480 Apr 19 2006 [ 863744 00] VOLATILE_L.HOG 
+-r-xr-xr-x   1    0    0    1046592 Apr 28 2006 [ 865280 00] VOLATILE_S.HOG 
+-r-xr-xr-x   1    0    0    2721792 Apr 19 2006 [ 865792 00] VOMUSIC.SKX 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/MULTI/DETROIT/
+dr-xr-xr-x   1    0    0       4096 Jun 29 2006 [     49 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     36 02] .. 
+-r-xr-xr-x   1    0    0     182052 Jun  9 2006 [ 789568 00] FREED.HGZ 
+-r-xr-xr-x   1    0    0     596490 Jun 23 2006 [ 789664 00] FREEDGUI.HGZ 
+-r-xr-xr-x   1    0    0     611456 Jun 23 2006 [ 789968 00] FREEDGUI_L.HGZ 
+-r-xr-xr-x   1    0    0     596490 Jun 23 2006 [ 790272 00] FREEDGUI_OBJ.HGZ 
+-r-xr-xr-x   1    0    0     611456 Jun 23 2006 [ 790576 00] FREEDGUI_OBJ_L.HGZ 
+-r-xr-xr-x   1    0    0     183908 Jun 16 2006 [ 790880 00] FREED_L.HGZ 
+-r-xr-xr-x   1    0    0     182574 Jun  9 2006 [ 790976 00] FREED_OBJ.HGZ 
+-r-xr-xr-x   1    0    0     184796 Jun 16 2006 [ 791072 00] FREED_OBJ_L.HGZ 
+-r-xr-xr-x   1    0    0    1240148 Apr 19 2006 [ 791168 00] UNFREED.HGZ 
+-r-xr-xr-x   1    0    0       1728 Apr 19 2006 [ 791776 00] UNFREED_E.HGZ 
+-r-xr-xr-x   1    0    0       1696 Apr 28 2006 [ 791792 00] UNFREED_F.HGZ 
+-r-xr-xr-x   1    0    0       1694 Apr 20 2006 [ 791808 00] UNFREED_G.HGZ 
+-r-xr-xr-x   1    0    0       1694 Apr 28 2006 [ 791824 00] UNFREED_I.HGZ 
+-r-xr-xr-x   1    0    0    1238256 Apr 19 2006 [ 791840 00] UNFREED_L.HGZ 
+-r-xr-xr-x   1    0    0    1128868 Apr 19 2006 [ 792448 00] UNFREED_OBJ.HGZ 
+-r-xr-xr-x   1    0    0       2174 Apr 19 2006 [ 793008 00] UNFREED_OBJ_E.HGZ 
+-r-xr-xr-x   1    0    0       2180 May  2 2006 [ 793024 00] UNFREED_OBJ_F.HGZ 
+-r-xr-xr-x   1    0    0       2182 Apr 20 2006 [ 793040 00] UNFREED_OBJ_G.HGZ 
+-r-xr-xr-x   1    0    0       2182 Apr 28 2006 [ 793056 00] UNFREED_OBJ_I.HGZ 
+-r-xr-xr-x   1    0    0    1126990 Apr 19 2006 [ 793072 00] UNFREED_OBJ_L.HGZ 
+-r-xr-xr-x   1    0    0       2176 May  2 2006 [ 793632 00] UNFREED_OBJ_S.HGZ 
+-r-xr-xr-x   1    0    0       1694 Apr 28 2006 [ 793648 00] UNFREED_S.HGZ 
+-r-xr-xr-x   1    0    0    4155520 Apr 19 2006 [ 793664 00] VOLATILE.HOG 
+-r-xr-xr-x   1    0    0    1069120 Apr 19 2006 [ 795696 00] VOLATILE_E.HOG 
+-r-xr-xr-x   1    0    0    1028160 Apr 28 2006 [ 796224 00] VOLATILE_F.HOG 
+-r-xr-xr-x   1    0    0    1005632 Apr 20 2006 [ 796736 00] VOLATILE_G.HOG 
+-r-xr-xr-x   1    0    0    1058880 Apr 28 2006 [ 797232 00] VOLATILE_I.HOG 
+-r-xr-xr-x   1    0    0    3086464 Apr 19 2006 [ 797760 00] VOLATILE_L.HOG 
+-r-xr-xr-x   1    0    0    1411136 Apr 19 2006 [ 799280 00] VOLATILE_OBJ_E.HOG 
+-r-xr-xr-x   1    0    0    1323072 May  2 2006 [ 799984 00] VOLATILE_OBJ_F.HOG 
+-r-xr-xr-x   1    0    0    1392704 Apr 20 2006 [ 800640 00] VOLATILE_OBJ_G.HOG 
+-r-xr-xr-x   1    0    0    1431616 Apr 28 2006 [ 801328 00] VOLATILE_OBJ_I.HOG 
+-r-xr-xr-x   1    0    0    2753344 Apr 19 2006 [ 802032 00] VOLATILE_OBJ_L.HOG 
+-r-xr-xr-x   1    0    0    1378368 May  2 2006 [ 803392 00] VOLATILE_OBJ_S.HOG 
+-r-xr-xr-x   1    0    0    1046592 Apr 28 2006 [ 804080 00] VOLATILE_S.HOG 
+-r-xr-xr-x   1    0    0    2721792 Apr 19 2006 [ 804592 00] VOMUSIC.SKX 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/MULTI/REFINERY/
+dr-xr-xr-x   1    0    0       4096 Jun 29 2006 [     51 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     36 02] .. 
+-r-xr-xr-x   1    0    0     193178 Jun  9 2006 [ 805936 00] FREED.HGZ 
+-r-xr-xr-x   1    0    0     603202 Jun 23 2006 [ 806032 00] FREEDGUI.HGZ 
+-r-xr-xr-x   1    0    0     618558 Jun 23 2006 [ 806336 00] FREEDGUI_L.HGZ 
+-r-xr-xr-x   1    0    0     603202 Jun 23 2006 [ 806640 00] FREEDGUI_OBJ.HGZ 
+-r-xr-xr-x   1    0    0     618558 Jun 23 2006 [ 806944 00] FREEDGUI_OBJ_L.HGZ 
+-r-xr-xr-x   1    0    0     194670 Jun 16 2006 [ 807248 00] FREED_L.HGZ 
+-r-xr-xr-x   1    0    0     193700 Jun  9 2006 [ 807344 00] FREED_OBJ.HGZ 
+-r-xr-xr-x   1    0    0     195740 Jun 16 2006 [ 807440 00] FREED_OBJ_L.HGZ 
+-r-xr-xr-x   1    0    0    1673330 Apr 27 2006 [ 807536 00] UNFREED.HGZ 
+-r-xr-xr-x   1    0    0     962936 Apr 20 2006 [ 808368 00] UNFREED_E.HGZ 
+-r-xr-xr-x   1    0    0     954990 Apr 28 2006 [ 808848 00] UNFREED_F.HGZ 
+-r-xr-xr-x   1    0    0     909460 Apr 20 2006 [ 809328 00] UNFREED_G.HGZ 
+-r-xr-xr-x   1    0    0     904860 Apr 28 2006 [ 809776 00] UNFREED_I.HGZ 
+-r-xr-xr-x   1    0    0     689084 Apr 27 2006 [ 810224 00] UNFREED_L.HGZ 
+-r-xr-xr-x   1    0    0    2129180 Apr 27 2006 [ 810576 00] UNFREED_OBJ.HGZ 
+-r-xr-xr-x   1    0    0    1440264 Apr 19 2006 [ 811616 00] UNFREED_OBJ_E.HGZ 
+-r-xr-xr-x   1    0    0    1422482 May 11 2006 [ 812320 00] UNFREED_OBJ_F.HGZ 
+-r-xr-xr-x   1    0    0    1335666 May 11 2006 [ 813024 00] UNFREED_OBJ_G.HGZ 
+-r-xr-xr-x   1    0    0    1459090 May 11 2006 [ 813680 00] UNFREED_OBJ_I.HGZ 
+-r-xr-xr-x   1    0    0     689084 Apr 27 2006 [ 814400 00] UNFREED_OBJ_L.HGZ 
+-r-xr-xr-x   1    0    0    1485182 May 11 2006 [ 814752 00] UNFREED_OBJ_S.HGZ 
+-r-xr-xr-x   1    0    0     926540 Apr 28 2006 [ 815488 00] UNFREED_S.HGZ 
+-r-xr-xr-x   1    0    0    4189184 Apr 19 2006 [ 815952 00] VOLATILE.HOG 
+-r-xr-xr-x   1    0    0          5 Apr 19 2006 [ 818000 00] VOLATILE_E.HOG 
+-r-xr-xr-x   1    0    0          5 Apr 19 2006 [ 818016 00] VOLATILE_F.HOG 
+-r-xr-xr-x   1    0    0          5 Apr 19 2006 [ 818032 00] VOLATILE_G.HOG 
+-r-xr-xr-x   1    0    0          5 Apr 19 2006 [ 818048 00] VOLATILE_I.HOG 
+-r-xr-xr-x   1    0    0    4189184 Apr 19 2006 [ 818064 00] VOLATILE_L.HOG 
+-r-xr-xr-x   1    0    0          5 Apr 19 2006 [ 820112 00] VOLATILE_OBJ_E.HOG 
+-r-xr-xr-x   1    0    0          5 Apr 19 2006 [ 820128 00] VOLATILE_OBJ_F.HOG 
+-r-xr-xr-x   1    0    0          5 Apr 19 2006 [ 820144 00] VOLATILE_OBJ_G.HOG 
+-r-xr-xr-x   1    0    0          5 Apr 19 2006 [ 820160 00] VOLATILE_OBJ_I.HOG 
+-r-xr-xr-x   1    0    0    4189184 Apr 19 2006 [ 820176 00] VOLATILE_OBJ_L.HOG 
+-r-xr-xr-x   1    0    0          5 Apr 19 2006 [ 822224 00] VOLATILE_OBJ_S.HOG 
+-r-xr-xr-x   1    0    0          5 Apr 19 2006 [ 822240 00] VOLATILE_S.HOG 
+-r-xr-xr-x   1    0    0    2721792 Apr 19 2006 [ 822256 00] VOMUSIC.SKX 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/MULTI/SHANTY/
+dr-xr-xr-x   1    0    0       4096 Jun 29 2006 [     53 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     36 02] .. 
+-r-xr-xr-x   1    0    0     195344 Jun 23 2006 [ 823600 00] FREED.HGZ 
+-r-xr-xr-x   1    0    0     598436 Jun 23 2006 [ 823696 00] FREEDGUI.HGZ 
+-r-xr-xr-x   1    0    0     612812 Jun 23 2006 [ 824000 00] FREEDGUI_L.HGZ 
+-r-xr-xr-x   1    0    0     598436 Jun 23 2006 [ 824304 00] FREEDGUI_OBJ.HGZ 
+-r-xr-xr-x   1    0    0     612812 Jun 23 2006 [ 824608 00] FREEDGUI_OBJ_L.HGZ 
+-r-xr-xr-x   1    0    0     197200 Jun 23 2006 [ 824912 00] FREED_L.HGZ 
+-r-xr-xr-x   1    0    0     195738 Jun 23 2006 [ 825024 00] FREED_OBJ.HGZ 
+-r-xr-xr-x   1    0    0     197842 Jun 23 2006 [ 825120 00] FREED_OBJ_L.HGZ 
+-r-xr-xr-x   1    0    0    1370972 Apr 19 2006 [ 825232 00] UNFREED.HGZ 
+-r-xr-xr-x   1    0    0       1730 Apr 19 2006 [ 825904 00] UNFREED_E.HGZ 
+-r-xr-xr-x   1    0    0       1688 Apr 28 2006 [ 825920 00] UNFREED_F.HGZ 
+-r-xr-xr-x   1    0    0       1692 Apr 20 2006 [ 825936 00] UNFREED_G.HGZ 
+-r-xr-xr-x   1    0    0       1688 Apr 28 2006 [ 825952 00] UNFREED_I.HGZ 
+-r-xr-xr-x   1    0    0    1369626 Apr 19 2006 [ 825968 00] UNFREED_L.HGZ 
+-r-xr-xr-x   1    0    0    2277202 Apr 19 2006 [ 826640 00] UNFREED_OBJ.HGZ 
+-r-xr-xr-x   1    0    0       2156 Apr 19 2006 [ 827760 00] UNFREED_OBJ_E.HGZ 
+-r-xr-xr-x   1    0    0       2158 Apr 28 2006 [ 827776 00] UNFREED_OBJ_F.HGZ 
+-r-xr-xr-x   1    0    0       2152 Apr 20 2006 [ 827792 00] UNFREED_OBJ_G.HGZ 
+-r-xr-xr-x   1    0    0       2158 Apr 28 2006 [ 827808 00] UNFREED_OBJ_I.HGZ 
+-r-xr-xr-x   1    0    0    2275724 Apr 19 2006 [ 827824 00] UNFREED_OBJ_L.HGZ 
+-r-xr-xr-x   1    0    0       2152 Apr 28 2006 [ 828944 00] UNFREED_OBJ_S.HGZ 
+-r-xr-xr-x   1    0    0       1690 Apr 28 2006 [ 828960 00] UNFREED_S.HGZ 
+-r-xr-xr-x   1    0    0    4188480 Apr 19 2006 [ 828976 00] VOLATILE.HOG 
+-r-xr-xr-x   1    0    0    1071168 Apr 19 2006 [ 831024 00] VOLATILE_E.HOG 
+-r-xr-xr-x   1    0    0    1024064 Apr 28 2006 [ 831552 00] VOLATILE_F.HOG 
+-r-xr-xr-x   1    0    0     976960 Apr 20 2006 [ 832064 00] VOLATILE_G.HOG 
+-r-xr-xr-x   1    0    0    1024064 Apr 28 2006 [ 832544 00] VOLATILE_I.HOG 
+-r-xr-xr-x   1    0    0    3117376 Apr 19 2006 [ 833056 00] VOLATILE_L.HOG 
+-r-xr-xr-x   1    0    0    1480768 Apr 19 2006 [ 834592 00] VOLATILE_OBJ_E.HOG 
+-r-xr-xr-x   1    0    0    1538112 Apr 28 2006 [ 835328 00] VOLATILE_OBJ_F.HOG 
+-r-xr-xr-x   1    0    0    1441856 Apr 20 2006 [ 836080 00] VOLATILE_OBJ_G.HOG 
+-r-xr-xr-x   1    0    0    1511488 Apr 28 2006 [ 836800 00] VOLATILE_OBJ_I.HOG 
+-r-xr-xr-x   1    0    0    2563328 Apr 19 2006 [ 837552 00] VOLATILE_OBJ_L.HOG 
+-r-xr-xr-x   1    0    0    1595456 Apr 28 2006 [ 838816 00] VOLATILE_OBJ_S.HOG 
+-r-xr-xr-x   1    0    0    1024064 Apr 28 2006 [ 839600 00] VOLATILE_S.HOG 
+-r-xr-xr-x   1    0    0    2721792 Apr 19 2006 [ 840112 00] VOMUSIC.SKX 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/MULTI/WEAPONS/
+dr-xr-xr-x   1    0    0       4096 Jun 29 2006 [     55 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     36 02] .. 
+-r-xr-xr-x   1    0    0     182448 Jun  9 2006 [ 841456 00] FREED.HGZ 
+-r-xr-xr-x   1    0    0     598886 Jun 23 2006 [ 841552 00] FREEDGUI.HGZ 
+-r-xr-xr-x   1    0    0     609820 Jun 23 2006 [ 841856 00] FREEDGUI_L.HGZ 
+-r-xr-xr-x   1    0    0     598886 Jun 23 2006 [ 842160 00] FREEDGUI_OBJ.HGZ 
+-r-xr-xr-x   1    0    0     609820 Jun 23 2006 [ 842464 00] FREEDGUI_OBJ_L.HGZ 
+-r-xr-xr-x   1    0    0     184012 Jun 16 2006 [ 842768 00] FREED_L.HGZ 
+-r-xr-xr-x   1    0    0     182632 Jun  9 2006 [ 842864 00] FREED_OBJ.HGZ 
+-r-xr-xr-x   1    0    0     184378 Jun 16 2006 [ 842960 00] FREED_OBJ_L.HGZ 
+-r-xr-xr-x   1    0    0    2077462 Apr 19 2006 [ 843056 00] UNFREED.HGZ 
+-r-xr-xr-x   1    0    0     858310 Apr 19 2006 [ 844080 00] UNFREED_E.HGZ 
+-r-xr-xr-x   1    0    0     862670 Apr 28 2006 [ 844512 00] UNFREED_F.HGZ 
+-r-xr-xr-x   1    0    0     801044 Apr 20 2006 [ 844944 00] UNFREED_G.HGZ 
+-r-xr-xr-x   1    0    0     858096 Apr 28 2006 [ 845344 00] UNFREED_I.HGZ 
+-r-xr-xr-x   1    0    0    1219252 Apr 19 2006 [ 845776 00] UNFREED_L.HGZ 
+-r-xr-xr-x   1    0    0    2098118 Apr 19 2006 [ 846384 00] UNFREED_OBJ.HGZ 
+-r-xr-xr-x   1    0    0       1728 Apr 19 2006 [ 847424 00] UNFREED_OBJ_E.HGZ 
+-r-xr-xr-x   1    0    0       1730 Apr 28 2006 [ 847440 00] UNFREED_OBJ_F.HGZ 
+-r-xr-xr-x   1    0    0       1728 Apr 20 2006 [ 847456 00] UNFREED_OBJ_G.HGZ 
+-r-xr-xr-x   1    0    0       1728 Apr 28 2006 [ 847472 00] UNFREED_OBJ_I.HGZ 
+-r-xr-xr-x   1    0    0    2096516 Apr 19 2006 [ 847488 00] UNFREED_OBJ_L.HGZ 
+-r-xr-xr-x   1    0    0       1730 Apr 28 2006 [ 848512 00] UNFREED_OBJ_S.HGZ 
+-r-xr-xr-x   1    0    0     810414 Apr 28 2006 [ 848528 00] UNFREED_S.HGZ 
+-r-xr-xr-x   1    0    0    3753856 Apr 19 2006 [ 848928 00] VOLATILE.HOG 
+-r-xr-xr-x   1    0    0          5 Apr 19 2006 [ 850768 00] VOLATILE_E.HOG 
+-r-xr-xr-x   1    0    0          5 Apr 19 2006 [ 850784 00] VOLATILE_F.HOG 
+-r-xr-xr-x   1    0    0          5 Apr 19 2006 [ 850800 00] VOLATILE_G.HOG 
+-r-xr-xr-x   1    0    0          5 Apr 19 2006 [ 850816 00] VOLATILE_I.HOG 
+-r-xr-xr-x   1    0    0    3753856 Apr 19 2006 [ 850832 00] VOLATILE_L.HOG 
+-r-xr-xr-x   1    0    0    1128512 Apr 19 2006 [ 852672 00] VOLATILE_OBJ_E.HOG 
+-r-xr-xr-x   1    0    0    1194048 Apr 28 2006 [ 853232 00] VOLATILE_OBJ_F.HOG 
+-r-xr-xr-x   1    0    0    1042496 Apr 20 2006 [ 853824 00] VOLATILE_OBJ_G.HOG 
+-r-xr-xr-x   1    0    0    1167424 Apr 28 2006 [ 854336 00] VOLATILE_OBJ_I.HOG 
+-r-xr-xr-x   1    0    0    2649024 Apr 19 2006 [ 854912 00] VOLATILE_OBJ_L.HOG 
+-r-xr-xr-x   1    0    0    1165376 Apr 28 2006 [ 856208 00] VOLATILE_OBJ_S.HOG 
+-r-xr-xr-x   1    0    0          5 Apr 19 2006 [ 856784 00] VOLATILE_S.HOG 
+-r-xr-xr-x   1    0    0    2721792 Apr 19 2006 [ 856800 00] VOMUSIC.SKX 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/SINGLE/AERO_1P/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     57 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     37 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     74 02] AERO_A1 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     75 02] AERO_B1 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     76 02] AERO_C3 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     77 02] AERO_C4 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/SINGLE/CASIN_1P/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     58 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     37 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     78 02] CASIN_A1 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     79 02] CASIN_A2 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/SINGLE/HKONG_1P/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     59 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     37 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     80 02] HKONG_A1 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     81 02] HKONG_B1 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/SINGLE/NARBO_1P/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     60 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     37 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     82 02] NARBO_A1 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/SINGLE/REFIN_1P/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     61 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     37 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     83 02] REFIN_A1 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     84 02] REFIN_A2 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     85 02] REFIN_B1 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     86 02] REFIN_B2 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     87 02] REFIN_B3 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     88 02] REFIN_C1 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     89 02] REFIN_D1 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     90 02] REFIN_D2 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     91 02] REFIN_F1 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/SINGLE/SHANT_1P/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     62 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     37 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     92 02] SHANT_A1 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     93 02] SHANT_B1 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/SINGLE/TRAIN_1P/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     63 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     37 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     94 02] TRAIN_1 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     95 02] TRAIN_2 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     96 02] TRAIN_3 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     97 02] TRAIN_6 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     98 02] TRAIN_7 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     99 02] TRAIN_8 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/SINGLE/WEPPL_1P/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     64 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     37 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [    100 02] WEPPL_A1 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [    101 02] WEPPL_A2 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [    102 02] WEPPL_C1 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [    103 02] WEPPL_D1 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/SINGLE/ZUGSP_1P/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     65 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     37 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [    104 02] ZUGSP_A1 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [    105 02] ZUGSP_A2 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/FRONTEND/BONUS/AUDIO/
+dr-xr-xr-x   1    0    0       4096 Jun 29 2006 [     66 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     38 02] .. 
+-r-xr-xr-x   1    0    0    1994760 Apr 19 2006 [ 310448 00] AERO_JM_ACT.AT3 
+-r-xr-xr-x   1    0    0    1101216 Apr 19 2006 [ 311424 00] AERO_LR_ACT.AT3 
+-r-xr-xr-x   1    0    0    1092288 Apr 19 2006 [ 311968 00] AERO_LR_SUS.AT3 
+-r-xr-xr-x   1    0    0    1979136 Apr 19 2006 [ 312512 00] AERO_MS_ACT.AT3 
+-r-xr-xr-x   1    0    0    2001456 Apr 19 2006 [ 313488 00] AERO_MS_SUS.AT3 
+-r-xr-xr-x   1    0    0    1662192 Apr 19 2006 [ 314480 00] CASIN_JM_ACT.AT3 
+-r-xr-xr-x   1    0    0    1795368 Apr 19 2006 [ 315296 00] CASIN_JM_SUS.AT3 
+-r-xr-xr-x   1    0    0    1967232 Apr 19 2006 [ 316176 00] CASIN_MS_ACT.AT3 
+-r-xr-xr-x   1    0    0    1965744 Apr 19 2006 [ 317152 00] CASIN_MS_SUS.AT3 
+-r-xr-xr-x   1    0    0    1924080 Apr 19 2006 [ 318112 00] EPISODE_01.AT3 
+-r-xr-xr-x   1    0    0    1827360 Apr 19 2006 [ 319056 00] EPISODE_02.AT3 
+-r-xr-xr-x   1    0    0    1726176 Apr 19 2006 [ 319952 00] EPISODE_03.AT3 
+-r-xr-xr-x   1    0    0    1924080 Apr 19 2006 [ 320800 00] EPISODE_04.AT3 
+-r-xr-xr-x   1    0    0    1924080 Apr 19 2006 [ 321744 00] EPISODE_05.AT3 
+-r-xr-xr-x   1    0    0    1726176 Apr 19 2006 [ 322688 00] EPISODE_06.AT3 
+-r-xr-xr-x   1    0    0    1827360 Apr 19 2006 [ 323536 00] EPISODE_07.AT3 
+-r-xr-xr-x   1    0    0    1726176 Apr 19 2006 [ 324432 00] EPISODE_08.AT3 
+-r-xr-xr-x   1    0    0    1979880 Apr 19 2006 [ 325280 00] HKONG_JM_ACT.AT3 
+-r-xr-xr-x   1    0    0    2151000 Apr 19 2006 [ 326256 00] HKONG_JM_SUS.AT3 
+-r-xr-xr-x   1    0    0    2029728 Apr 19 2006 [ 327312 00] HKONG_MS_ACT.AT3 
+-r-xr-xr-x   1    0    0    2010384 Apr 19 2006 [ 328304 00] HKONG_MS_SUS.AT3 
+-r-xr-xr-x   1    0    0    1993272 Apr 19 2006 [ 329296 00] REFIN_AL_SUS.AT3 
+-r-xr-xr-x   1    0    0    1311768 Apr 19 2006 [ 330272 00] REFIN_JM_ACT.AT3 
+-r-xr-xr-x   1    0    0    1084848 Apr 19 2006 [ 330928 00] REFIN_LR_ACT.AT3 
+-r-xr-xr-x   1    0    0    1259688 Apr 19 2006 [ 331472 00] REFIN_LR_SUS.AT3 
+-r-xr-xr-x   1    0    0    1955328 Apr 19 2006 [ 332096 00] REFIN_MS_ACT.AT3 
+-r-xr-xr-x   1    0    0    2010384 Apr 19 2006 [ 333056 00] REFIN_MS_SUS.AT3 
+-r-xr-xr-x   1    0    0    2090736 Apr 19 2006 [ 334048 00] SHNT_JM_ACT.AT3 
+-r-xr-xr-x   1    0    0    2002200 Apr 19 2006 [ 335072 00] SHNT_JM_SUS.AT3 
+-r-xr-xr-x   1    0    0    1972440 Apr 19 2006 [ 336064 00] SHNT_MS_ACT.AT3 
+-r-xr-xr-x   1    0    0    1960536 Apr 19 2006 [ 337040 00] SHNT_MS_SUS.AT3 
+-r-xr-xr-x   1    0    0    2055024 Apr 19 2006 [ 338000 00] THM_GABE.AT3 
+-r-xr-xr-x   1    0    0    1654752 Apr 19 2006 [ 339008 00] THM_GEN_SUS.AT3 
+-r-xr-xr-x   1    0    0    2054280 Apr 19 2006 [ 339824 00] THM_HARGR.AT3 
+-r-xr-xr-x   1    0    0    2514816 Apr 19 2006 [ 340832 00] THM_JM_ACT.AT3 
+-r-xr-xr-x   1    0    0    1996992 Apr 19 2006 [ 342064 00] THM_JM_SUS2.AT3 
+-r-xr-xr-x   1    0    0    1633920 Apr 19 2006 [ 343040 00] THM_LR_ACT.AT3 
+-r-xr-xr-x   1    0    0    2037912 Apr 19 2006 [ 343840 00] THM_LR_BOSS.AT3 
+-r-xr-xr-x   1    0    0    1096008 Apr 19 2006 [ 344848 00] THM_LR_STEAL.AT3 
+-r-xr-xr-x   1    0    0    2328072 Apr 19 2006 [ 345392 00] THM_MAIN.AT3 
+-r-xr-xr-x   1    0    0    2050560 Apr 19 2006 [ 346544 00] THM_RS.AT3 
+-r-xr-xr-x   1    0    0     962088 Apr 19 2006 [ 347552 00] THM_SHNT_ACT.AT3 
+-r-xr-xr-x   1    0    0    1110888 Apr 19 2006 [ 348032 00] THM_SHNT_SUS.AT3 
+-r-xr-xr-x   1    0    0    2127936 Apr 19 2006 [ 348576 00] THM_SING.AT3 
+-r-xr-xr-x   1    0    0    1941192 Apr 19 2006 [ 349616 00] WEP_JM_HI.AT3 
+-r-xr-xr-x   1    0    0    1962024 Apr 19 2006 [ 350576 00] WEP_JM_SUS.AT3 
+-r-xr-xr-x   1    0    0    1157760 Apr 19 2006 [ 351536 00] WEP_LR_ACT.AT3 
+-r-xr-xr-x   1    0    0    1039464 Apr 19 2006 [ 352112 00] WEP_LR_SUS.AT3 
+-r-xr-xr-x   1    0    0    1996248 Apr 19 2006 [ 352624 00] WEP_MS_ACT.AT3 
+-r-xr-xr-x   1    0    0    1956816 Apr 19 2006 [ 353600 00] WEP_MS_SUS.AT3 
+-r-xr-xr-x   1    0    0    1995504 Apr 19 2006 [ 354560 00] ZUGS_MS_ACT.AT3 
+-r-xr-xr-x   1    0    0    1941192 Apr 19 2006 [ 355536 00] ZUGS_MS_SUS.AT3 
+-r-xr-xr-x   1    0    0    1069224 Apr 19 2006 [ 356496 00] ZUG_LR_ACT.AT3 
+-r-xr-xr-x   1    0    0    1084104 Apr 19 2006 [ 357024 00] ZUG_LR_SUS.AT3 
+-r-xr-xr-x   1    0    0    2013360 Apr 19 2006 [ 357568 00] ZUG_MS_ACT.AT3 
+-r-xr-xr-x   1    0    0    1973928 Apr 19 2006 [ 358560 00] ZUG_MS_SUS.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/FRONTEND/BONUS/CONCEPT/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     68 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     38 02] .. 
+-r-xr-xr-x   1    0    0     652794 Apr 19 2006 [ 359536 00] EPISODE_01.HGZ 
+-r-xr-xr-x   1    0    0     577382 Apr 19 2006 [ 359856 00] EPISODE_02.HGZ 
+-r-xr-xr-x   1    0    0     547284 Apr 19 2006 [ 360144 00] EPISODE_03.HGZ 
+-r-xr-xr-x   1    0    0     583804 Apr 19 2006 [ 360416 00] EPISODE_04.HGZ 
+-r-xr-xr-x   1    0    0     352446 Apr 19 2006 [ 360704 00] EPISODE_05.HGZ 
+-r-xr-xr-x   1    0    0     205064 Apr 19 2006 [ 360880 00] EPISODE_06.HGZ 
+-r-xr-xr-x   1    0    0     481288 Apr 19 2006 [ 360992 00] EPISODE_07.HGZ 
+-r-xr-xr-x   1    0    0     471484 Apr 19 2006 [ 361232 00] EPISODE_08.HGZ 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/FRONTEND/RATINGS_VO/ENGLISH/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     69 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     45 02] .. 
+-r-xr-xr-x   1    0    0     134760 Apr 21 2006 [ 371408 00] 40.1.1.1.AT3 
+-r-xr-xr-x   1    0    0     110208 Apr 21 2006 [ 371488 00] 40.1.1.2.AT3 
+-r-xr-xr-x   1    0    0     108720 Apr 21 2006 [ 371552 00] 40.1.1.3.AT3 
+-r-xr-xr-x   1    0    0     111696 Apr 21 2006 [ 371616 00] 40.1.1.4.AT3 
+-r-xr-xr-x   1    0    0     219576 Apr 21 2006 [ 371680 00] 40.1.2.1.AT3 
+-r-xr-xr-x   1    0    0     113928 Apr 21 2006 [ 371792 00] 40.1.2.2.AT3 
+-r-xr-xr-x   1    0    0     234456 Apr 21 2006 [ 371856 00] 40.1.2.3.AT3 
+-r-xr-xr-x   1    0    0     119880 Apr 21 2006 [ 371984 00] 40.1.2.4.AT3 
+-r-xr-xr-x   1    0    0     102768 Apr 21 2006 [ 372048 00] 40.2.1.1.AT3 
+-r-xr-xr-x   1    0    0     130296 Apr 21 2006 [ 372112 00] 40.2.1.2.AT3 
+-r-xr-xr-x   1    0    0     110952 Apr 21 2006 [ 372176 00] 40.2.1.3.AT3 
+-r-xr-xr-x   1    0    0     136248 Apr 21 2006 [ 372240 00] 40.2.1.4.AT3 
+-r-xr-xr-x   1    0    0     227760 Apr 21 2006 [ 372320 00] 40.2.2.1.AT3 
+-r-xr-xr-x   1    0    0     174192 Apr 21 2006 [ 372432 00] 40.2.2.2.AT3 
+-r-xr-xr-x   1    0    0     192048 Apr 21 2006 [ 372528 00] 40.2.2.3.AT3 
+-r-xr-xr-x   1    0    0     206184 Apr 21 2006 [ 372624 00] 40.2.2.4.AT3 
+-r-xr-xr-x   1    0    0     189072 Apr 21 2006 [ 372736 00] 40.3.1.1.AT3 
+-r-xr-xr-x   1    0    0     159312 Apr 21 2006 [ 372832 00] 40.3.1.2.AT3 
+-r-xr-xr-x   1    0    0     267936 Apr 21 2006 [ 372912 00] 40.3.1.3.AT3 
+-r-xr-xr-x   1    0    0     191304 Apr 21 2006 [ 373056 00] 40.3.1.4.AT3 
+-r-xr-xr-x   1    0    0     150384 Apr 21 2006 [ 373152 00] 40.3.2.1.AT3 
+-r-xr-xr-x   1    0    0      84168 Apr 21 2006 [ 373232 00] 40.3.2.2.AT3 
+-r-xr-xr-x   1    0    0     186096 Apr 21 2006 [ 373280 00] 40.3.2.3.AT3 
+-r-xr-xr-x   1    0    0     132528 Apr 21 2006 [ 373376 00] 40.3.2.4.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/FRONTEND/RATINGS_VO/FRENCH/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     70 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     45 02] .. 
+-r-xr-xr-x   1    0    0     149640 Apr 21 2006 [ 373456 00] 40.1.1.1.AT3 
+-r-xr-xr-x   1    0    0     122112 Apr 21 2006 [ 373536 00] 40.1.1.2.AT3 
+-r-xr-xr-x   1    0    0     117648 Apr 21 2006 [ 373600 00] 40.1.1.3.AT3 
+-r-xr-xr-x   1    0    0     126576 Apr 21 2006 [ 373664 00] 40.1.1.4.AT3 
+-r-xr-xr-x   1    0    0     225528 Apr 21 2006 [ 373728 00] 40.1.2.1.AT3 
+-r-xr-xr-x   1    0    0     110952 Apr 21 2006 [ 373840 00] 40.1.2.2.AT3 
+-r-xr-xr-x   1    0    0     212880 Apr 21 2006 [ 373904 00] 40.1.2.3.AT3 
+-r-xr-xr-x   1    0    0     110208 Apr 21 2006 [ 374016 00] 40.1.2.4.AT3 
+-r-xr-xr-x   1    0    0     119136 Apr 25 2006 [ 374080 00] 40.2.1.1.AT3 
+-r-xr-xr-x   1    0    0     150384 Apr 25 2006 [ 374144 00] 40.2.1.2.AT3 
+-r-xr-xr-x   1    0    0     119880 Apr 25 2006 [ 374224 00] 40.2.1.3.AT3 
+-r-xr-xr-x   1    0    0     158568 Apr 21 2006 [ 374288 00] 40.2.1.4.AT3 
+-r-xr-xr-x   1    0    0     252312 Apr 25 2006 [ 374368 00] 40.2.2.1.AT3 
+-r-xr-xr-x   1    0    0     186840 Apr 25 2006 [ 374496 00] 40.2.2.2.AT3 
+-r-xr-xr-x   1    0    0     182376 Apr 21 2006 [ 374592 00] 40.2.2.3.AT3 
+-r-xr-xr-x   1    0    0     192048 Apr 21 2006 [ 374688 00] 40.2.2.4.AT3 
+-r-xr-xr-x   1    0    0     184608 Apr 21 2006 [ 374784 00] 40.3.1.1.AT3 
+-r-xr-xr-x   1    0    0     165264 Apr 21 2006 [ 374880 00] 40.3.1.2.AT3 
+-r-xr-xr-x   1    0    0     238176 Apr 21 2006 [ 374976 00] 40.3.1.3.AT3 
+-r-xr-xr-x   1    0    0     183120 Apr 21 2006 [ 375104 00] 40.3.1.4.AT3 
+-r-xr-xr-x   1    0    0     165264 Apr 21 2006 [ 375200 00] 40.3.2.1.AT3 
+-r-xr-xr-x   1    0    0     102024 Apr 21 2006 [ 375296 00] 40.3.2.2.AT3 
+-r-xr-xr-x   1    0    0     196512 Apr 21 2006 [ 375360 00] 40.3.2.3.AT3 
+-r-xr-xr-x   1    0    0     154848 Apr 21 2006 [ 375456 00] 40.3.2.4.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/FRONTEND/RATINGS_VO/GERMAN/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     71 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     45 02] .. 
+-r-xr-xr-x   1    0    0     135504 Apr 21 2006 [ 375536 00] 40.1.1.1.AT3 
+-r-xr-xr-x   1    0    0     119880 Apr 21 2006 [ 375616 00] 40.1.1.2.AT3 
+-r-xr-xr-x   1    0    0     115416 Apr 21 2006 [ 375680 00] 40.1.1.3.AT3 
+-r-xr-xr-x   1    0    0     133272 Apr 21 2006 [ 375744 00] 40.1.1.4.AT3 
+-r-xr-xr-x   1    0    0     225528 Apr 21 2006 [ 375824 00] 40.1.2.1.AT3 
+-r-xr-xr-x   1    0    0     122112 Apr 21 2006 [ 375936 00] 40.1.2.2.AT3 
+-r-xr-xr-x   1    0    0     253800 Apr 21 2006 [ 376000 00] 40.1.2.3.AT3 
+-r-xr-xr-x   1    0    0     119136 Apr 21 2006 [ 376128 00] 40.1.2.4.AT3 
+-r-xr-xr-x   1    0    0     107232 Apr 25 2006 [ 376192 00] 40.2.1.1.AT3 
+-r-xr-xr-x   1    0    0     113184 Apr 25 2006 [ 376256 00] 40.2.1.2.AT3 
+-r-xr-xr-x   1    0    0     107976 Apr 25 2006 [ 376320 00] 40.2.1.3.AT3 
+-r-xr-xr-x   1    0    0     142200 Apr 21 2006 [ 376384 00] 40.2.1.4.AT3 
+-r-xr-xr-x   1    0    0     189072 Apr 25 2006 [ 376464 00] 40.2.2.1.AT3 
+-r-xr-xr-x   1    0    0     215112 Apr 25 2006 [ 376560 00] 40.2.2.2.AT3 
+-r-xr-xr-x   1    0    0     177912 Apr 21 2006 [ 376672 00] 40.2.2.3.AT3 
+-r-xr-xr-x   1    0    0     203952 Apr 21 2006 [ 376768 00] 40.2.2.4.AT3 
+-r-xr-xr-x   1    0    0     196512 Apr 21 2006 [ 376880 00] 40.3.1.1.AT3 
+-r-xr-xr-x   1    0    0     177168 Apr 21 2006 [ 376976 00] 40.3.1.2.AT3 
+-r-xr-xr-x   1    0    0     321504 Apr 21 2006 [ 377072 00] 40.3.1.3.AT3 
+-r-xr-xr-x   1    0    0     250824 Apr 21 2006 [ 377232 00] 40.3.1.4.AT3 
+-r-xr-xr-x   1    0    0     165264 Apr 21 2006 [ 377360 00] 40.3.2.1.AT3 
+-r-xr-xr-x   1    0    0     108720 Apr 21 2006 [ 377456 00] 40.3.2.2.AT3 
+-r-xr-xr-x   1    0    0     174192 Apr 21 2006 [ 377520 00] 40.3.2.3.AT3 
+-r-xr-xr-x   1    0    0     132528 Apr 21 2006 [ 377616 00] 40.3.2.4.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/FRONTEND/RATINGS_VO/ITALIAN/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     72 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     45 02] .. 
+-r-xr-xr-x   1    0    0     168240 Apr 21 2006 [ 377696 00] 40.1.1.1.AT3 
+-r-xr-xr-x   1    0    0     144432 Apr 21 2006 [ 377792 00] 40.1.1.2.AT3 
+-r-xr-xr-x   1    0    0     127320 Apr 21 2006 [ 377872 00] 40.1.1.3.AT3 
+-r-xr-xr-x   1    0    0     154104 Apr 21 2006 [ 377936 00] 40.1.1.4.AT3 
+-r-xr-xr-x   1    0    0     250824 Apr 21 2006 [ 378016 00] 40.1.2.1.AT3 
+-r-xr-xr-x   1    0    0     131040 Apr 21 2006 [ 378144 00] 40.1.2.2.AT3 
+-r-xr-xr-x   1    0    0     250080 Apr 21 2006 [ 378208 00] 40.1.2.3.AT3 
+-r-xr-xr-x   1    0    0     134016 Apr 21 2006 [ 378336 00] 40.1.2.4.AT3 
+-r-xr-xr-x   1    0    0     152616 Apr 25 2006 [ 378416 00] 40.2.1.1.AT3 
+-r-xr-xr-x   1    0    0     197256 Apr 25 2006 [ 378496 00] 40.2.1.2.AT3 
+-r-xr-xr-x   1    0    0     131040 Apr 25 2006 [ 378608 00] 40.2.1.3.AT3 
+-r-xr-xr-x   1    0    0     193536 Apr 21 2006 [ 378672 00] 40.2.1.4.AT3 
+-r-xr-xr-x   1    0    0     259008 Apr 25 2006 [ 378768 00] 40.2.2.1.AT3 
+-r-xr-xr-x   1    0    0     212880 Apr 25 2006 [ 378896 00] 40.2.2.2.AT3 
+-r-xr-xr-x   1    0    0     206928 Apr 21 2006 [ 379008 00] 40.2.2.3.AT3 
+-r-xr-xr-x   1    0    0     224784 Apr 21 2006 [ 379120 00] 40.2.2.4.AT3 
+-r-xr-xr-x   1    0    0     206928 Apr 21 2006 [ 379232 00] 40.3.1.1.AT3 
+-r-xr-xr-x   1    0    0     178656 Apr 21 2006 [ 379344 00] 40.3.1.2.AT3 
+-r-xr-xr-x   1    0    0     269424 Apr 21 2006 [ 379440 00] 40.3.1.3.AT3 
+-r-xr-xr-x   1    0    0     221808 Apr 21 2006 [ 379584 00] 40.3.1.4.AT3 
+-r-xr-xr-x   1    0    0     205440 Apr 21 2006 [ 379696 00] 40.3.2.1.AT3 
+-r-xr-xr-x   1    0    0     122856 Apr 21 2006 [ 379808 00] 40.3.2.2.AT3 
+-r-xr-xr-x   1    0    0     238176 Apr 21 2006 [ 379872 00] 40.3.2.3.AT3 
+-r-xr-xr-x   1    0    0     185352 Apr 21 2006 [ 380000 00] 40.3.2.4.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/FRONTEND/RATINGS_VO/SPANISH/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     73 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     45 02] .. 
+-r-xr-xr-x   1    0    0     143688 Apr 21 2006 [ 380096 00] 40.1.1.1.AT3 
+-r-xr-xr-x   1    0    0     107976 Apr 21 2006 [ 380176 00] 40.1.1.2.AT3 
+-r-xr-xr-x   1    0    0     111696 Apr 21 2006 [ 380240 00] 40.1.1.3.AT3 
+-r-xr-xr-x   1    0    0     110952 Apr 21 2006 [ 380304 00] 40.1.1.4.AT3 
+-r-xr-xr-x   1    0    0     229248 Apr 21 2006 [ 380368 00] 40.1.2.1.AT3 
+-r-xr-xr-x   1    0    0     111696 Apr 21 2006 [ 380480 00] 40.1.2.2.AT3 
+-r-xr-xr-x   1    0    0     237432 Apr 21 2006 [ 380544 00] 40.1.2.3.AT3 
+-r-xr-xr-x   1    0    0     122112 Apr 21 2006 [ 380672 00] 40.1.2.4.AT3 
+-r-xr-xr-x   1    0    0     111696 Apr 25 2006 [ 380736 00] 40.2.1.1.AT3 
+-r-xr-xr-x   1    0    0     136248 Apr 25 2006 [ 380800 00] 40.2.1.2.AT3 
+-r-xr-xr-x   1    0    0     103512 Apr 25 2006 [ 380880 00] 40.2.1.3.AT3 
+-r-xr-xr-x   1    0    0     140712 Apr 21 2006 [ 380944 00] 40.2.1.4.AT3 
+-r-xr-xr-x   1    0    0     244128 Apr 25 2006 [ 381024 00] 40.2.2.1.AT3 
+-r-xr-xr-x   1    0    0     167496 Apr 25 2006 [ 381152 00] 40.2.2.2.AT3 
+-r-xr-xr-x   1    0    0     192048 Apr 21 2006 [ 381248 00] 40.2.2.3.AT3 
+-r-xr-xr-x   1    0    0     209904 Apr 21 2006 [ 381344 00] 40.2.2.4.AT3 
+-r-xr-xr-x   1    0    0     195024 Apr 21 2006 [ 381456 00] 40.3.1.1.AT3 
+-r-xr-xr-x   1    0    0     171960 Apr 21 2006 [ 381552 00] 40.3.1.2.AT3 
+-r-xr-xr-x   1    0    0     271656 Apr 21 2006 [ 381648 00] 40.3.1.3.AT3 
+-r-xr-xr-x   1    0    0     197256 Apr 21 2006 [ 381792 00] 40.3.1.4.AT3 
+-r-xr-xr-x   1    0    0     151128 Apr 21 2006 [ 381904 00] 40.3.2.1.AT3 
+-r-xr-xr-x   1    0    0      79704 Apr 21 2006 [ 381984 00] 40.3.2.2.AT3 
+-r-xr-xr-x   1    0    0     177168 Apr 21 2006 [ 382032 00] 40.3.2.3.AT3 
+-r-xr-xr-x   1    0    0     132528 Apr 21 2006 [ 382128 00] 40.3.2.4.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/SINGLE/AERO_1P/AERO_A1/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     74 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     57 02] .. 
+-r-xr-xr-x   1    0    0     251790 Jun 27 2006 [ 382672 00] FREED.HGZ 
+-r-xr-xr-x   1    0    0     604070 Jun 27 2006 [ 382800 00] FREEDGUI.HGZ 
+-r-xr-xr-x   1    0    0     619900 Jun 27 2006 [ 383104 00] FREEDGUI_L.HGZ 
+-r-xr-xr-x   1    0    0     254668 Jun 27 2006 [ 383408 00] FREED_L.HGZ 
+-r-xr-xr-x   1    0    0    2698208 Jun 27 2006 [ 383536 00] UNFREED.HGZ 
+-r-xr-xr-x   1    0    0    1146542 Jun 27 2006 [ 384864 00] UNFREED_E.HGZ 
+-r-xr-xr-x   1    0    0    1133482 Jun 27 2006 [ 385424 00] UNFREED_F.HGZ 
+-r-xr-xr-x   1    0    0    1134830 Jun 27 2006 [ 385984 00] UNFREED_G.HGZ 
+-r-xr-xr-x   1    0    0    1115554 Jun 27 2006 [ 386544 00] UNFREED_I.HGZ 
+-r-xr-xr-x   1    0    0    1551224 Jun 27 2006 [ 387104 00] UNFREED_L.HGZ 
+-r-xr-xr-x   1    0    0    1117402 Jun 27 2006 [ 387872 00] UNFREED_S.HGZ 
+-r-xr-xr-x   1    0    0    4176704 Jun 27 2006 [ 388432 00] VOLATILE.HOG 
+-r-xr-xr-x   1    0    0          5 Jun 27 2006 [ 390480 00] VOLATILE_E.HOG 
+-r-xr-xr-x   1    0    0          5 Jun 27 2006 [ 390496 00] VOLATILE_F.HOG 
+-r-xr-xr-x   1    0    0          5 Jun 27 2006 [ 390512 00] VOLATILE_G.HOG 
+-r-xr-xr-x   1    0    0          5 Jun 27 2006 [ 390528 00] VOLATILE_I.HOG 
+-r-xr-xr-x   1    0    0    4176704 Jun 27 2006 [ 390544 00] VOLATILE_L.HOG 
+-r-xr-xr-x   1    0    0          5 Jun 27 2006 [ 392592 00] VOLATILE_S.HOG 
+-r-xr-xr-x   1    0    0    7524352 Jun 27 2006 [ 392608 00] VOMUSIC.SKX 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/SINGLE/AERO_1P/AERO_B1/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     75 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     57 02] .. 
+-r-xr-xr-x   1    0    0     221084 Jun 27 2006 [ 396288 00] FREED.HGZ 
+-r-xr-xr-x   1    0    0     602742 Jun 27 2006 [ 396400 00] FREEDGUI.HGZ 
+-r-xr-xr-x   1    0    0     617986 Jun 27 2006 [ 396704 00] FREEDGUI_L.HGZ 
+-r-xr-xr-x   1    0    0     223348 Jun 27 2006 [ 397008 00] FREED_L.HGZ 
+-r-xr-xr-x   1    0    0    3112186 Jun 27 2006 [ 397120 00] UNFREED.HGZ 
+-r-xr-xr-x   1    0    0       4382 Jun 27 2006 [ 398640 00] UNFREED_E.HGZ 
+-r-xr-xr-x   1    0    0       4430 Jun 27 2006 [ 398656 00] UNFREED_F.HGZ 
+-r-xr-xr-x   1    0    0       4552 Jun 27 2006 [ 398672 00] UNFREED_G.HGZ 
+-r-xr-xr-x   1    0    0       4378 Jun 27 2006 [ 398688 00] UNFREED_I.HGZ 
+-r-xr-xr-x   1    0    0    3108308 Jun 27 2006 [ 398704 00] UNFREED_L.HGZ 
+-r-xr-xr-x   1    0    0       4468 Jun 27 2006 [ 400224 00] UNFREED_S.HGZ 
+-r-xr-xr-x   1    0    0    4112384 Jun 27 2006 [ 400240 00] VOLATILE.HOG 
+-r-xr-xr-x   1    0    0    1175616 Jun 27 2006 [ 402256 00] VOLATILE_E.HOG 
+-r-xr-xr-x   1    0    0    1128512 Jun 27 2006 [ 402832 00] VOLATILE_F.HOG 
+-r-xr-xr-x   1    0    0    1177664 Jun 27 2006 [ 403392 00] VOLATILE_G.HOG 
+-r-xr-xr-x   1    0    0    1124416 Jun 27 2006 [ 403968 00] VOLATILE_I.HOG 
+-r-xr-xr-x   1    0    0    2838464 Jun 27 2006 [ 404528 00] VOLATILE_L.HOG 
+-r-xr-xr-x   1    0    0    1165376 Jun 27 2006 [ 405920 00] VOLATILE_S.HOG 
+-r-xr-xr-x   1    0    0    8679424 Jun 27 2006 [ 406496 00] VOMUSIC.SKX 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/SINGLE/AERO_1P/AERO_C3/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     76 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     57 02] .. 
+-r-xr-xr-x   1    0    0     239950 Jun 27 2006 [ 410736 00] FREED.HGZ 
+-r-xr-xr-x   1    0    0     604682 Jun 27 2006 [ 410864 00] FREEDGUI.HGZ 
+-r-xr-xr-x   1    0    0     622170 Jun 27 2006 [ 411168 00] FREEDGUI_L.HGZ 
+-r-xr-xr-x   1    0    0     242146 Jun 27 2006 [ 411472 00] FREED_L.HGZ 
+-r-xr-xr-x   1    0    0    2121698 Jun 27 2006 [ 411600 00] UNFREED.HGZ 
+-r-xr-xr-x   1    0    0     426944 Jun 27 2006 [ 412640 00] UNFREED_E.HGZ 
+-r-xr-xr-x   1    0    0     414140 Jun 27 2006 [ 412864 00] UNFREED_F.HGZ 
+-r-xr-xr-x   1    0    0     418646 Jun 27 2006 [ 413072 00] UNFREED_G.HGZ 
+-r-xr-xr-x   1    0    0     381830 Jun 27 2006 [ 413280 00] UNFREED_I.HGZ 
+-r-xr-xr-x   1    0    0    1694918 Jun 27 2006 [ 413472 00] UNFREED_L.HGZ 
+-r-xr-xr-x   1    0    0     408396 Jun 27 2006 [ 414304 00] UNFREED_S.HGZ 
+-r-xr-xr-x   1    0    0    4187392 Jun 27 2006 [ 414512 00] VOLATILE.HOG 
+-r-xr-xr-x   1    0    0     921664 Jun 27 2006 [ 416560 00] VOLATILE_E.HOG 
+-r-xr-xr-x   1    0    0     915520 Jun 27 2006 [ 417024 00] VOLATILE_F.HOG 
+-r-xr-xr-x   1    0    0     917568 Jun 27 2006 [ 417472 00] VOLATILE_G.HOG 
+-r-xr-xr-x   1    0    0     917568 Jun 27 2006 [ 417936 00] VOLATILE_I.HOG 
+-r-xr-xr-x   1    0    0    3247360 Jun 27 2006 [ 418400 00] VOLATILE_L.HOG 
+-r-xr-xr-x   1    0    0     921664 Jun 27 2006 [ 420000 00] VOLATILE_S.HOG 
+-r-xr-xr-x   1    0    0    9893888 Jun 27 2006 [ 420464 00] VOMUSIC.SKX 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/SINGLE/AERO_1P/AERO_C4/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     77 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     57 02] .. 
+-r-xr-xr-x   1    0    0     200848 Jun 27 2006 [ 425296 00] FREED.HGZ 
+-r-xr-xr-x   1    0    0     596884 Jun 27 2006 [ 425408 00] FREEDGUI.HGZ 
+-r-xr-xr-x   1    0    0     605130 Jun 27 2006 [ 425712 00] FREEDGUI_L.HGZ 
+-r-xr-xr-x   1    0    0     202372 Jun 27 2006 [ 426016 00] FREED_L.HGZ 
+-r-xr-xr-x   1    0    0    1793512 Jun 27 2006 [ 426128 00] UNFREED.HGZ 
+-r-xr-xr-x   1    0    0     425814 Jun 27 2006 [ 427008 00] UNFREED_E.HGZ 
+-r-xr-xr-x   1    0    0     413034 Jun 27 2006 [ 427216 00] UNFREED_F.HGZ 
+-r-xr-xr-x   1    0    0     417592 Jun 27 2006 [ 427424 00] UNFREED_G.HGZ 
+-r-xr-xr-x   1    0    0     380718 Jun 27 2006 [ 427632 00] UNFREED_I.HGZ 
+-r-xr-xr-x   1    0    0    1367622 Jun 27 2006 [ 427824 00] UNFREED_L.HGZ 
+-r-xr-xr-x   1    0    0     407260 Jun 27 2006 [ 428496 00] UNFREED_S.HGZ 
+-r-xr-xr-x   1    0    0    4184960 Jun 27 2006 [ 428704 00] VOLATILE.HOG 
+-r-xr-xr-x   1    0    0     874560 Jun 27 2006 [ 430752 00] VOLATILE_E.HOG 
+-r-xr-xr-x   1    0    0     858176 Jun 27 2006 [ 431184 00] VOLATILE_F.HOG 
+-r-xr-xr-x   1    0    0     874560 Jun 27 2006 [ 431616 00] VOLATILE_G.HOG 
+-r-xr-xr-x   1    0    0     866368 Jun 27 2006 [ 432048 00] VOLATILE_I.HOG 
+-r-xr-xr-x   1    0    0    3310464 Jun 27 2006 [ 432480 00] VOLATILE_L.HOG 
+-r-xr-xr-x   1    0    0     841792 Jun 27 2006 [ 434112 00] VOLATILE_S.HOG 
+-r-xr-xr-x   1    0    0    4225024 Jun 27 2006 [ 434528 00] VOMUSIC.SKX 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/SINGLE/CASIN_1P/CASIN_A1/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     78 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     58 02] .. 
+-r-xr-xr-x   1    0    0     219242 Jun 27 2006 [ 436592 00] FREED.HGZ 
+-r-xr-xr-x   1    0    0     601258 Jun 27 2006 [ 436704 00] FREEDGUI.HGZ 
+-r-xr-xr-x   1    0    0     616878 Jun 27 2006 [ 437008 00] FREEDGUI_L.HGZ 
+-r-xr-xr-x   1    0    0     221520 Jun 27 2006 [ 437312 00] FREED_L.HGZ 
+-r-xr-xr-x   1    0    0    3056332 Jun 27 2006 [ 437424 00] UNFREED.HGZ 
+-r-xr-xr-x   1    0    0     768428 Jun 27 2006 [ 438928 00] UNFREED_E.HGZ 
+-r-xr-xr-x   1    0    0     779826 Jun 27 2006 [ 439312 00] UNFREED_F.HGZ 
+-r-xr-xr-x   1    0    0     753066 Jun 27 2006 [ 439696 00] UNFREED_G.HGZ 
+-r-xr-xr-x   1    0    0     807032 Jun 27 2006 [ 440064 00] UNFREED_I.HGZ 
+-r-xr-xr-x   1    0    0    2286366 Jun 27 2006 [ 440464 00] UNFREED_L.HGZ 
+-r-xr-xr-x   1    0    0     777896 Jun 27 2006 [ 441584 00] UNFREED_S.HGZ 
+-r-xr-xr-x   1    0    0    4151104 Jun 27 2006 [ 441968 00] VOLATILE.HOG 
+-r-xr-xr-x   1    0    0     399424 Jun 27 2006 [ 444000 00] VOLATILE_E.HOG 
+-r-xr-xr-x   1    0    0     399424 Jun 27 2006 [ 444208 00] VOLATILE_F.HOG 
+-r-xr-xr-x   1    0    0     399424 Jun 27 2006 [ 444416 00] VOLATILE_G.HOG 
+-r-xr-xr-x   1    0    0     399424 Jun 27 2006 [ 444624 00] VOLATILE_I.HOG 
+-r-xr-xr-x   1    0    0    3751744 Jun 27 2006 [ 444832 00] VOLATILE_L.HOG 
+-r-xr-xr-x   1    0    0     399424 Jun 27 2006 [ 446672 00] VOLATILE_S.HOG 
+-r-xr-xr-x   1    0    0    6197248 Jun 27 2006 [ 446880 00] VOMUSIC.SKX 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/SINGLE/CASIN_1P/CASIN_A2/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     79 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     58 02] .. 
+-r-xr-xr-x   1    0    0     229634 Jun 27 2006 [ 449920 00] FREED.HGZ 
+-r-xr-xr-x   1    0    0     606092 Jun 27 2006 [ 450048 00] FREEDGUI.HGZ 
+-r-xr-xr-x   1    0    0     621146 Jun 27 2006 [ 450352 00] FREEDGUI_L.HGZ 
+-r-xr-xr-x   1    0    0     231794 Jun 27 2006 [ 450656 00] FREED_L.HGZ 
+-r-xr-xr-x   1    0    0    1900764 Jun 27 2006 [ 450784 00] UNFREED.HGZ 
+-r-xr-xr-x   1    0    0       3908 Jun 27 2006 [ 451728 00] UNFREED_E.HGZ 
+-r-xr-xr-x   1    0    0       4010 Jun 27 2006 [ 451744 00] UNFREED_F.HGZ 
+-r-xr-xr-x   1    0    0       3996 Jun 27 2006 [ 451760 00] UNFREED_G.HGZ 
+-r-xr-xr-x   1    0    0       3856 Jun 27 2006 [ 451776 00] UNFREED_I.HGZ 
+-r-xr-xr-x   1    0    0    1897464 Jun 27 2006 [ 451792 00] UNFREED_L.HGZ 
+-r-xr-xr-x   1    0    0       3914 Jun 27 2006 [ 452720 00] UNFREED_S.HGZ 
+-r-xr-xr-x   1    0    0    4181312 Jun 27 2006 [ 452736 00] VOLATILE.HOG 
+-r-xr-xr-x   1    0    0    1171520 Jun 27 2006 [ 454784 00] VOLATILE_E.HOG 
+-r-xr-xr-x   1    0    0    1140800 Jun 27 2006 [ 455360 00] VOLATILE_F.HOG 
+-r-xr-xr-x   1    0    0    1153088 Jun 27 2006 [ 455920 00] VOLATILE_G.HOG 
+-r-xr-xr-x   1    0    0    1157184 Jun 27 2006 [ 456496 00] VOLATILE_I.HOG 
+-r-xr-xr-x   1    0    0    3009856 Jun 27 2006 [ 457072 00] VOLATILE_L.HOG 
+-r-xr-xr-x   1    0    0    1155136 Jun 27 2006 [ 458544 00] VOLATILE_S.HOG 
+-r-xr-xr-x   1    0    0    6744064 Jun 27 2006 [ 459120 00] VOMUSIC.SKX 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/SINGLE/HKONG_1P/HKONG_A1/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     80 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     59 02] .. 
+-r-xr-xr-x   1    0    0     191962 Jun 27 2006 [ 462416 00] FREED.HGZ 
+-r-xr-xr-x   1    0    0     597868 Jun 27 2006 [ 462512 00] FREEDGUI.HGZ 
+-r-xr-xr-x   1    0    0     610916 Jun 27 2006 [ 462816 00] FREEDGUI_L.HGZ 
+-r-xr-xr-x   1    0    0     193850 Jun 27 2006 [ 463120 00] FREED_L.HGZ 
+-r-xr-xr-x   1    0    0    1541064 Jun 27 2006 [ 463216 00] UNFREED.HGZ 
+-r-xr-xr-x   1    0    0     957602 Jun 27 2006 [ 463984 00] UNFREED_E.HGZ 
+-r-xr-xr-x   1    0    0     966744 Jun 27 2006 [ 464464 00] UNFREED_F.HGZ 
+-r-xr-xr-x   1    0    0     957788 Jun 27 2006 [ 464944 00] UNFREED_G.HGZ 
+-r-xr-xr-x   1    0    0     981474 Jun 27 2006 [ 465424 00] UNFREED_I.HGZ 
+-r-xr-xr-x   1    0    0     583296 Jun 27 2006 [ 465904 00] UNFREED_L.HGZ 
+-r-xr-xr-x   1    0    0     963480 Jun 27 2006 [ 466192 00] UNFREED_S.HGZ 
+-r-xr-xr-x   1    0    0    4182720 Jun 27 2006 [ 466672 00] VOLATILE.HOG 
+-r-xr-xr-x   1    0    0          5 Jun 27 2006 [ 468720 00] VOLATILE_E.HOG 
+-r-xr-xr-x   1    0    0          5 Jun 27 2006 [ 468736 00] VOLATILE_F.HOG 
+-r-xr-xr-x   1    0    0          5 Jun 27 2006 [ 468752 00] VOLATILE_G.HOG 
+-r-xr-xr-x   1    0    0          5 Jun 27 2006 [ 468768 00] VOLATILE_I.HOG 
+-r-xr-xr-x   1    0    0    4182720 Jun 27 2006 [ 468784 00] VOLATILE_L.HOG 
+-r-xr-xr-x   1    0    0          5 Jun 27 2006 [ 470832 00] VOLATILE_S.HOG 
+-r-xr-xr-x   1    0    0    7450624 Jun 27 2006 [ 470848 00] VOMUSIC.SKX 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/SINGLE/HKONG_1P/HKONG_B1/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     81 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     59 02] .. 
+-r-xr-xr-x   1    0    0     183818 Jun 27 2006 [ 474496 00] FREED.HGZ 
+-r-xr-xr-x   1    0    0     601630 Jun 27 2006 [ 474592 00] FREEDGUI.HGZ 
+-r-xr-xr-x   1    0    0     612004 Jun 27 2006 [ 474896 00] FREEDGUI_L.HGZ 
+-r-xr-xr-x   1    0    0     185480 Jun 27 2006 [ 475200 00] FREED_L.HGZ 
+-r-xr-xr-x   1    0    0    2518868 Jun 27 2006 [ 475296 00] UNFREED.HGZ 
+-r-xr-xr-x   1    0    0     280714 Jun 27 2006 [ 476528 00] UNFREED_E.HGZ 
+-r-xr-xr-x   1    0    0     280868 Jun 27 2006 [ 476672 00] UNFREED_F.HGZ 
+-r-xr-xr-x   1    0    0     280898 Jun 27 2006 [ 476816 00] UNFREED_G.HGZ 
+-r-xr-xr-x   1    0    0     280804 Jun 27 2006 [ 476960 00] UNFREED_I.HGZ 
+-r-xr-xr-x   1    0    0    2239012 Jun 27 2006 [ 477104 00] UNFREED_L.HGZ 
+-r-xr-xr-x   1    0    0     280846 Jun 27 2006 [ 478208 00] UNFREED_S.HGZ 
+-r-xr-xr-x   1    0    0    4176000 Jun 27 2006 [ 478352 00] VOLATILE.HOG 
+-r-xr-xr-x   1    0    0     452672 Jun 27 2006 [ 480400 00] VOLATILE_E.HOG 
+-r-xr-xr-x   1    0    0     448576 Jun 27 2006 [ 480624 00] VOLATILE_F.HOG 
+-r-xr-xr-x   1    0    0     454720 Jun 27 2006 [ 480848 00] VOLATILE_G.HOG 
+-r-xr-xr-x   1    0    0     434240 Jun 27 2006 [ 481072 00] VOLATILE_I.HOG 
+-r-xr-xr-x   1    0    0    3723392 Jun 27 2006 [ 481296 00] VOLATILE_L.HOG 
+-r-xr-xr-x   1    0    0     458816 Jun 27 2006 [ 483120 00] VOLATILE_S.HOG 
+-r-xr-xr-x   1    0    0    6461440 Jun 27 2006 [ 483360 00] VOMUSIC.SKX 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/SINGLE/NARBO_1P/NARBO_A1/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     82 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     60 02] .. 
+-r-xr-xr-x   1    0    0     169272 Jun 27 2006 [ 486528 00] FREED.HGZ 
+-r-xr-xr-x   1    0    0     605094 Jun 27 2006 [ 486624 00] FREEDGUI.HGZ 
+-r-xr-xr-x   1    0    0     621694 Jun 27 2006 [ 486928 00] FREEDGUI_L.HGZ 
+-r-xr-xr-x   1    0    0     171792 Jun 27 2006 [ 487232 00] FREED_L.HGZ 
+-r-xr-xr-x   1    0    0    1620460 Jun 27 2006 [ 487328 00] UNFREED.HGZ 
+-r-xr-xr-x   1    0    0     414752 Jun 27 2006 [ 488128 00] UNFREED_E.HGZ 
+-r-xr-xr-x   1    0    0     414896 Jun 27 2006 [ 488336 00] UNFREED_F.HGZ 
+-r-xr-xr-x   1    0    0     415064 Jun 27 2006 [ 488544 00] UNFREED_G.HGZ 
+-r-xr-xr-x   1    0    0     414864 Jun 27 2006 [ 488752 00] UNFREED_I.HGZ 
+-r-xr-xr-x   1    0    0    1283384 Jun 27 2006 [ 488960 00] UNFREED_L.HGZ 
+-r-xr-xr-x   1    0    0     414948 Jun 27 2006 [ 489600 00] UNFREED_S.HGZ 
+-r-xr-xr-x   1    0    0    4189952 Jun 27 2006 [ 489808 00] VOLATILE.HOG 
+-r-xr-xr-x   1    0    0    1118272 Jun 27 2006 [ 491856 00] VOLATILE_E.HOG 
+-r-xr-xr-x   1    0    0    1095744 Jun 27 2006 [ 492416 00] VOLATILE_F.HOG 
+-r-xr-xr-x   1    0    0    1093696 Jun 27 2006 [ 492960 00] VOLATILE_G.HOG 
+-r-xr-xr-x   1    0    0    1097792 Jun 27 2006 [ 493504 00] VOLATILE_I.HOG 
+-r-xr-xr-x   1    0    0    3071744 Jun 27 2006 [ 494048 00] VOLATILE_L.HOG 
+-r-xr-xr-x   1    0    0    1089600 Jun 27 2006 [ 495552 00] VOLATILE_S.HOG 
+-r-xr-xr-x   1    0    0    6875136 Jun 27 2006 [ 496096 00] VOMUSIC.SKX 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/SINGLE/REFIN_1P/REFIN_A1/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     83 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     61 02] .. 
+-r-xr-xr-x   1    0    0     255664 Jun 27 2006 [ 499456 00] FREED.HGZ 
+-r-xr-xr-x   1    0    0     619040 Jun 27 2006 [ 499584 00] FREEDGUI.HGZ 
+-r-xr-xr-x   1    0    0     637092 Jun 27 2006 [ 499888 00] FREEDGUI_L.HGZ 
+-r-xr-xr-x   1    0    0     268300 Jun 27 2006 [ 500208 00] FREED_L.HGZ 
+-r-xr-xr-x   1    0    0    2309560 Jun 27 2006 [ 500352 00] UNFREED.HGZ 
+-r-xr-xr-x   1    0    0    1440018 Jun 27 2006 [ 501488 00] UNFREED_E.HGZ 
+-r-xr-xr-x   1    0    0    1457334 Jun 27 2006 [ 502192 00] UNFREED_F.HGZ 
+-r-xr-xr-x   1    0    0    1393936 Jun 27 2006 [ 502912 00] UNFREED_G.HGZ 
+-r-xr-xr-x   1    0    0    1420312 Jun 27 2006 [ 503600 00] UNFREED_I.HGZ 
+-r-xr-xr-x   1    0    0     864894 Jun 27 2006 [ 504304 00] UNFREED_L.HGZ 
+-r-xr-xr-x   1    0    0    1422428 Jun 27 2006 [ 504736 00] UNFREED_S.HGZ 
+-r-xr-xr-x   1    0    0    4147328 Jun 27 2006 [ 505440 00] VOLATILE.HOG 
+-r-xr-xr-x   1    0    0          5 Jun 27 2006 [ 507472 00] VOLATILE_E.HOG 
+-r-xr-xr-x   1    0    0          5 Jun 27 2006 [ 507488 00] VOLATILE_F.HOG 
+-r-xr-xr-x   1    0    0          5 Jun 27 2006 [ 507504 00] VOLATILE_G.HOG 
+-r-xr-xr-x   1    0    0          5 Jun 27 2006 [ 507520 00] VOLATILE_I.HOG 
+-r-xr-xr-x   1    0    0    4147328 Jun 27 2006 [ 507536 00] VOLATILE_L.HOG 
+-r-xr-xr-x   1    0    0          5 Jun 27 2006 [ 509568 00] VOLATILE_S.HOG 
+-r-xr-xr-x   1    0    0    7696384 Jun 27 2006 [ 509584 00] VOMUSIC.SKX 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/SINGLE/REFIN_1P/REFIN_A2/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     84 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     61 02] .. 
+-r-xr-xr-x   1    0    0     213208 Jun 27 2006 [ 513344 00] FREED.HGZ 
+-r-xr-xr-x   1    0    0     609064 Jun 27 2006 [ 513456 00] FREEDGUI.HGZ 
+-r-xr-xr-x   1    0    0     621866 Jun 27 2006 [ 513760 00] FREEDGUI_L.HGZ 
+-r-xr-xr-x   1    0    0     215708 Jun 27 2006 [ 514064 00] FREED_L.HGZ 
+-r-xr-xr-x   1    0    0    1431226 Jun 27 2006 [ 514176 00] UNFREED.HGZ 
+-r-xr-xr-x   1    0    0       4218 Jun 27 2006 [ 514880 00] UNFREED_E.HGZ 
+-r-xr-xr-x   1    0    0       4422 Jun 27 2006 [ 514896 00] UNFREED_F.HGZ 
+-r-xr-xr-x   1    0    0       4436 Jun 27 2006 [ 514912 00] UNFREED_G.HGZ 
+-r-xr-xr-x   1    0    0       4328 Jun 27 2006 [ 514928 00] UNFREED_I.HGZ 
+-r-xr-xr-x   1    0    0    1427006 Jun 27 2006 [ 514944 00] UNFREED_L.HGZ 
+-r-xr-xr-x   1    0    0       4386 Jun 27 2006 [ 515648 00] UNFREED_S.HGZ 
+-r-xr-xr-x   1    0    0    4173504 Jun 27 2006 [ 515664 00] VOLATILE.HOG 
+-r-xr-xr-x   1    0    0    1208384 Jun 27 2006 [ 517712 00] VOLATILE_E.HOG 
+-r-xr-xr-x   1    0    0    1165376 Jun 27 2006 [ 518304 00] VOLATILE_F.HOG 
+-r-xr-xr-x   1    0    0    1208384 Jun 27 2006 [ 518880 00] VOLATILE_G.HOG 
+-r-xr-xr-x   1    0    0    1200192 Jun 27 2006 [ 519472 00] VOLATILE_I.HOG 
+-r-xr-xr-x   1    0    0    2965120 Jun 27 2006 [ 520064 00] VOLATILE_L.HOG 
+-r-xr-xr-x   1    0    0    1185856 Jun 27 2006 [ 521520 00] VOLATILE_S.HOG 
+-r-xr-xr-x   1    0    0    6963200 Jun 27 2006 [ 522112 00] VOMUSIC.SKX 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/SINGLE/REFIN_1P/REFIN_B1/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     85 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     61 02] .. 
+-r-xr-xr-x   1    0    0     204290 Jun 27 2006 [ 525520 00] FREED.HGZ 
+-r-xr-xr-x   1    0    0     610926 Jun 27 2006 [ 525632 00] FREEDGUI.HGZ 
+-r-xr-xr-x   1    0    0     621776 Jun 27 2006 [ 525936 00] FREEDGUI_L.HGZ 
+-r-xr-xr-x   1    0    0     205696 Jun 27 2006 [ 526240 00] FREED_L.HGZ 
+-r-xr-xr-x   1    0    0    2038320 Jun 27 2006 [ 526352 00] UNFREED.HGZ 
+-r-xr-xr-x   1    0    0       3062 Jun 27 2006 [ 527360 00] UNFREED_E.HGZ 
+-r-xr-xr-x   1    0    0       3140 Jun 27 2006 [ 527376 00] UNFREED_F.HGZ 
+-r-xr-xr-x   1    0    0       3124 Jun 27 2006 [ 527392 00] UNFREED_G.HGZ 
+-r-xr-xr-x   1    0    0       3124 Jun 27 2006 [ 527408 00] UNFREED_I.HGZ 
+-r-xr-xr-x   1    0    0    2034714 Jun 27 2006 [ 527424 00] UNFREED_L.HGZ 
+-r-xr-xr-x   1    0    0       3142 Jun 27 2006 [ 528432 00] UNFREED_S.HGZ 
+-r-xr-xr-x   1    0    0    4138432 Jun 27 2006 [ 528448 00] VOLATILE.HOG 
+-r-xr-xr-x   1    0    0     933952 Jun 27 2006 [ 530480 00] VOLATILE_E.HOG 
+-r-xr-xr-x   1    0    0     919616 Jun 27 2006 [ 530944 00] VOLATILE_F.HOG 
+-r-xr-xr-x   1    0    0     931904 Jun 27 2006 [ 531408 00] VOLATILE_G.HOG 
+-r-xr-xr-x   1    0    0     921664 Jun 27 2006 [ 531872 00] VOLATILE_I.HOG 
+-r-xr-xr-x   1    0    0    3204544 Jun 27 2006 [ 532336 00] VOLATILE_L.HOG 
+-r-xr-xr-x   1    0    0     950336 Jun 27 2006 [ 533904 00] VOLATILE_S.HOG 
+-r-xr-xr-x   1    0    0    4499456 Jun 27 2006 [ 534384 00] VOMUSIC.SKX 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/SINGLE/REFIN_1P/REFIN_B2/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     86 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     61 02] .. 
+-r-xr-xr-x   1    0    0     241944 Jun 27 2006 [ 536592 00] FREED.HGZ 
+-r-xr-xr-x   1    0    0     613134 Jun 27 2006 [ 536720 00] FREEDGUI.HGZ 
+-r-xr-xr-x   1    0    0     624396 Jun 27 2006 [ 537024 00] FREEDGUI_L.HGZ 
+-r-xr-xr-x   1    0    0     243476 Jun 27 2006 [ 537344 00] FREED_L.HGZ 
+-r-xr-xr-x   1    0    0    1855018 Jun 27 2006 [ 537472 00] UNFREED.HGZ 
+-r-xr-xr-x   1    0    0       3278 Jun 27 2006 [ 538384 00] UNFREED_E.HGZ 
+-r-xr-xr-x   1    0    0       3402 Jun 27 2006 [ 538400 00] UNFREED_F.HGZ 
+-r-xr-xr-x   1    0    0       3366 Jun 27 2006 [ 538416 00] UNFREED_G.HGZ 
+-r-xr-xr-x   1    0    0       3302 Jun 27 2006 [ 538432 00] UNFREED_I.HGZ 
+-r-xr-xr-x   1    0    0    1851920 Jun 27 2006 [ 538448 00] UNFREED_L.HGZ 
+-r-xr-xr-x   1    0    0       3350 Jun 27 2006 [ 539360 00] UNFREED_S.HGZ 
+-r-xr-xr-x   1    0    0    4159168 Jun 27 2006 [ 539376 00] VOLATILE.HOG 
+-r-xr-xr-x   1    0    0     960576 Jun 27 2006 [ 541408 00] VOLATILE_E.HOG 
+-r-xr-xr-x   1    0    0     970816 Jun 27 2006 [ 541888 00] VOLATILE_F.HOG 
+-r-xr-xr-x   1    0    0     985152 Jun 27 2006 [ 542368 00] VOLATILE_G.HOG 
+-r-xr-xr-x   1    0    0     933952 Jun 27 2006 [ 542864 00] VOLATILE_I.HOG 
+-r-xr-xr-x   1    0    0    3198592 Jun 27 2006 [ 543328 00] VOLATILE_L.HOG 
+-r-xr-xr-x   1    0    0     960576 Jun 27 2006 [ 544896 00] VOLATILE_S.HOG 
+-r-xr-xr-x   1    0    0    4184064 Jun 27 2006 [ 545376 00] VOMUSIC.SKX 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/SINGLE/REFIN_1P/REFIN_B3/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     87 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     61 02] .. 
+-r-xr-xr-x   1    0    0     250302 Jun 27 2006 [ 547424 00] FREED.HGZ 
+-r-xr-xr-x   1    0    0     613168 Jun 27 2006 [ 547552 00] FREEDGUI.HGZ 
+-r-xr-xr-x   1    0    0     631356 Jun 27 2006 [ 547856 00] FREEDGUI_L.HGZ 
+-r-xr-xr-x   1    0    0     264252 Jun 27 2006 [ 548176 00] FREED_L.HGZ 
+-r-xr-xr-x   1    0    0    2990594 Jun 27 2006 [ 548320 00] UNFREED.HGZ 
+-r-xr-xr-x   1    0    0    1483284 Jun 27 2006 [ 549792 00] UNFREED_E.HGZ 
+-r-xr-xr-x   1    0    0    1513462 Jun 27 2006 [ 550528 00] UNFREED_F.HGZ 
+-r-xr-xr-x   1    0    0    1530010 Jun 27 2006 [ 551280 00] UNFREED_G.HGZ 
+-r-xr-xr-x   1    0    0    1492644 Jun 27 2006 [ 552032 00] UNFREED_I.HGZ 
+-r-xr-xr-x   1    0    0    1507404 Jun 27 2006 [ 552768 00] UNFREED_L.HGZ 
+-r-xr-xr-x   1    0    0    1497300 Jun 27 2006 [ 553520 00] UNFREED_S.HGZ 
+-r-xr-xr-x   1    0    0    4159424 Jun 27 2006 [ 554256 00] VOLATILE.HOG 
+-r-xr-xr-x   1    0    0          5 Jun 27 2006 [ 556288 00] VOLATILE_E.HOG 
+-r-xr-xr-x   1    0    0          5 Jun 27 2006 [ 556304 00] VOLATILE_F.HOG 
+-r-xr-xr-x   1    0    0          5 Jun 27 2006 [ 556320 00] VOLATILE_G.HOG 
+-r-xr-xr-x   1    0    0          5 Jun 27 2006 [ 556336 00] VOLATILE_I.HOG 
+-r-xr-xr-x   1    0    0    4159424 Jun 27 2006 [ 556352 00] VOLATILE_L.HOG 
+-r-xr-xr-x   1    0    0          5 Jun 27 2006 [ 558384 00] VOLATILE_S.HOG 
+-r-xr-xr-x   1    0    0    5091328 Jun 27 2006 [ 558400 00] VOMUSIC.SKX 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/SINGLE/REFIN_1P/REFIN_C1/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     88 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     61 02] .. 
+-r-xr-xr-x   1    0    0     221190 Jun 27 2006 [ 560896 00] FREED.HGZ 
+-r-xr-xr-x   1    0    0     615676 Jun 27 2006 [ 561008 00] FREEDGUI.HGZ 
+-r-xr-xr-x   1    0    0     631420 Jun 27 2006 [ 561312 00] FREEDGUI_L.HGZ 
+-r-xr-xr-x   1    0    0     223486 Jun 27 2006 [ 561632 00] FREED_L.HGZ 
+-r-xr-xr-x   1    0    0    2204590 Jun 27 2006 [ 561744 00] UNFREED.HGZ 
+-r-xr-xr-x   1    0    0     833038 Jun 27 2006 [ 562832 00] UNFREED_E.HGZ 
+-r-xr-xr-x   1    0    0     877046 Jun 27 2006 [ 563248 00] UNFREED_F.HGZ 
+-r-xr-xr-x   1    0    0     819426 Jun 27 2006 [ 563680 00] UNFREED_G.HGZ 
+-r-xr-xr-x   1    0    0     867144 Jun 27 2006 [ 564096 00] UNFREED_I.HGZ 
+-r-xr-xr-x   1    0    0    1372472 Jun 27 2006 [ 564528 00] UNFREED_L.HGZ 
+-r-xr-xr-x   1    0    0     856606 Jun 27 2006 [ 565200 00] UNFREED_S.HGZ 
+-r-xr-xr-x   1    0    0    4154368 Jun 27 2006 [ 565632 00] VOLATILE.HOG 
+-r-xr-xr-x   1    0    0     497728 Jun 27 2006 [ 567664 00] VOLATILE_E.HOG 
+-r-xr-xr-x   1    0    0     497728 Jun 27 2006 [ 567920 00] VOLATILE_F.HOG 
+-r-xr-xr-x   1    0    0     495680 Jun 27 2006 [ 568176 00] VOLATILE_G.HOG 
+-r-xr-xr-x   1    0    0     467008 Jun 27 2006 [ 568432 00] VOLATILE_I.HOG 
+-r-xr-xr-x   1    0    0    3656704 Jun 27 2006 [ 568672 00] VOLATILE_L.HOG 
+-r-xr-xr-x   1    0    0     497728 Jun 27 2006 [ 570464 00] VOLATILE_S.HOG 
+-r-xr-xr-x   1    0    0    8118272 Jun 27 2006 [ 570720 00] VOMUSIC.SKX 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/SINGLE/REFIN_1P/REFIN_D1/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     89 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     61 02] .. 
+-r-xr-xr-x   1    0    0     228638 Jun 27 2006 [ 574688 00] FREED.HGZ 
+-r-xr-xr-x   1    0    0     609486 Jun 27 2006 [ 574800 00] FREEDGUI.HGZ 
+-r-xr-xr-x   1    0    0     620816 Jun 27 2006 [ 575104 00] FREEDGUI_L.HGZ 
+-r-xr-xr-x   1    0    0     231410 Jun 27 2006 [ 575408 00] FREED_L.HGZ 
+-r-xr-xr-x   1    0    0    2522700 Jun 27 2006 [ 575536 00] UNFREED.HGZ 
+-r-xr-xr-x   1    0    0       3232 Jun 27 2006 [ 576768 00] UNFREED_E.HGZ 
+-r-xr-xr-x   1    0    0       3332 Jun 27 2006 [ 576784 00] UNFREED_F.HGZ 
+-r-xr-xr-x   1    0    0       3246 Jun 27 2006 [ 576800 00] UNFREED_G.HGZ 
+-r-xr-xr-x   1    0    0       3292 Jun 27 2006 [ 576816 00] UNFREED_I.HGZ 
+-r-xr-xr-x   1    0    0    2519774 Jun 27 2006 [ 576832 00] UNFREED_L.HGZ 
+-r-xr-xr-x   1    0    0       3272 Jun 27 2006 [ 578064 00] UNFREED_S.HGZ 
+-r-xr-xr-x   1    0    0    4065408 Jun 27 2006 [ 578080 00] VOLATILE.HOG 
+-r-xr-xr-x   1    0    0     976960 Jun 27 2006 [ 580080 00] VOLATILE_E.HOG 
+-r-xr-xr-x   1    0    0     987200 Jun 27 2006 [ 580560 00] VOLATILE_F.HOG 
+-r-xr-xr-x   1    0    0     966720 Jun 27 2006 [ 581056 00] VOLATILE_G.HOG 
+-r-xr-xr-x   1    0    0     979008 Jun 27 2006 [ 581536 00] VOLATILE_I.HOG 
+-r-xr-xr-x   1    0    0    3088448 Jun 27 2006 [ 582016 00] VOLATILE_L.HOG 
+-r-xr-xr-x   1    0    0     979008 Jun 27 2006 [ 583536 00] VOLATILE_S.HOG 
+-r-xr-xr-x   1    0    0    7350272 Jun 27 2006 [ 584016 00] VOMUSIC.SKX 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/SINGLE/REFIN_1P/REFIN_D2/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     90 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     61 02] .. 
+-r-xr-xr-x   1    0    0     245308 Jun 27 2006 [ 587616 00] FREED.HGZ 
+-r-xr-xr-x   1    0    0     610522 Jun 27 2006 [ 587744 00] FREEDGUI.HGZ 
+-r-xr-xr-x   1    0    0     623244 Jun 27 2006 [ 588048 00] FREEDGUI_L.HGZ 
+-r-xr-xr-x   1    0    0     246598 Jun 27 2006 [ 588368 00] FREED_L.HGZ 
+-r-xr-xr-x   1    0    0    2917242 Jun 27 2006 [ 588496 00] UNFREED.HGZ 
+-r-xr-xr-x   1    0    0       3306 Jun 27 2006 [ 589936 00] UNFREED_E.HGZ 
+-r-xr-xr-x   1    0    0       3406 Jun 27 2006 [ 589952 00] UNFREED_F.HGZ 
+-r-xr-xr-x   1    0    0       3348 Jun 27 2006 [ 589968 00] UNFREED_G.HGZ 
+-r-xr-xr-x   1    0    0       3336 Jun 27 2006 [ 589984 00] UNFREED_I.HGZ 
+-r-xr-xr-x   1    0    0    2913674 Jun 27 2006 [ 590000 00] UNFREED_L.HGZ 
+-r-xr-xr-x   1    0    0       3398 Jun 27 2006 [ 591424 00] UNFREED_S.HGZ 
+-r-xr-xr-x   1    0    0    4167744 Jun 27 2006 [ 591440 00] VOLATILE.HOG 
+-r-xr-xr-x   1    0    0    1058880 Jun 27 2006 [ 593488 00] VOLATILE_E.HOG 
+-r-xr-xr-x   1    0    0    1052736 Jun 27 2006 [ 594016 00] VOLATILE_F.HOG 
+-r-xr-xr-x   1    0    0    1032256 Jun 27 2006 [ 594544 00] VOLATILE_G.HOG 
+-r-xr-xr-x   1    0    0    1050688 Jun 27 2006 [ 595056 00] VOLATILE_I.HOG 
+-r-xr-xr-x   1    0    0    3108928 Jun 27 2006 [ 595584 00] VOLATILE_L.HOG 
+-r-xr-xr-x   1    0    0    1058880 Jun 27 2006 [ 597104 00] VOLATILE_S.HOG 
+-r-xr-xr-x   1    0    0    8505344 Jun 27 2006 [ 597632 00] VOMUSIC.SKX 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/SINGLE/REFIN_1P/REFIN_F1/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     91 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     61 02] .. 
+-r-xr-xr-x   1    0    0     227540 Jun 27 2006 [ 601792 00] FREED.HGZ 
+-r-xr-xr-x   1    0    0     613018 Jun 27 2006 [ 601904 00] FREEDGUI.HGZ 
+-r-xr-xr-x   1    0    0     626624 Jun 27 2006 [ 602208 00] FREEDGUI_L.HGZ 
+-r-xr-xr-x   1    0    0     231188 Jun 27 2006 [ 602528 00] FREED_L.HGZ 
+-r-xr-xr-x   1    0    0    2582072 Jun 27 2006 [ 602656 00] UNFREED.HGZ 
+-r-xr-xr-x   1    0    0     325776 Jun 27 2006 [ 603920 00] UNFREED_E.HGZ 
+-r-xr-xr-x   1    0    0     335240 Jun 27 2006 [ 604080 00] UNFREED_F.HGZ 
+-r-xr-xr-x   1    0    0     317482 Jun 27 2006 [ 604256 00] UNFREED_G.HGZ 
+-r-xr-xr-x   1    0    0     302936 Jun 27 2006 [ 604416 00] UNFREED_I.HGZ 
+-r-xr-xr-x   1    0    0    2256774 Jun 27 2006 [ 604576 00] UNFREED_L.HGZ 
+-r-xr-xr-x   1    0    0     329294 Jun 27 2006 [ 605680 00] UNFREED_S.HGZ 
+-r-xr-xr-x   1    0    0    4188992 Jun 27 2006 [ 605856 00] VOLATILE.HOG 
+-r-xr-xr-x   1    0    0     890944 Jun 27 2006 [ 607904 00] VOLATILE_E.HOG 
+-r-xr-xr-x   1    0    0     868416 Jun 27 2006 [ 608352 00] VOLATILE_F.HOG 
+-r-xr-xr-x   1    0    0     895040 Jun 27 2006 [ 608784 00] VOLATILE_G.HOG 
+-r-xr-xr-x   1    0    0     874560 Jun 27 2006 [ 609232 00] VOLATILE_I.HOG 
+-r-xr-xr-x   1    0    0    3298112 Jun 27 2006 [ 609664 00] VOLATILE_L.HOG 
+-r-xr-xr-x   1    0    0     872512 Jun 27 2006 [ 611280 00] VOLATILE_S.HOG 
+-r-xr-xr-x   1    0    0    5791744 Jun 27 2006 [ 611712 00] VOMUSIC.SKX 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/SINGLE/SHANT_1P/SHANT_A1/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     92 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     62 02] .. 
+-r-xr-xr-x   1    0    0     246748 Jun 27 2006 [ 614544 00] FREED.HGZ 
+-r-xr-xr-x   1    0    0     602650 Jun 27 2006 [ 614672 00] FREEDGUI.HGZ 
+-r-xr-xr-x   1    0    0     622714 Jun 27 2006 [ 614976 00] FREEDGUI_L.HGZ 
+-r-xr-xr-x   1    0    0     261942 Jun 27 2006 [ 615296 00] FREED_L.HGZ 
+-r-xr-xr-x   1    0    0    3023452 Jun 27 2006 [ 615424 00] UNFREED.HGZ 
+-r-xr-xr-x   1    0    0    1458676 Jun 27 2006 [ 616912 00] UNFREED_E.HGZ 
+-r-xr-xr-x   1    0    0    1454528 Jun 27 2006 [ 617632 00] UNFREED_F.HGZ 
+-r-xr-xr-x   1    0    0    1436788 Jun 27 2006 [ 618352 00] UNFREED_G.HGZ 
+-r-xr-xr-x   1    0    0    1471844 Jun 27 2006 [ 619056 00] UNFREED_I.HGZ 
+-r-xr-xr-x   1    0    0    1566954 Jun 27 2006 [ 619776 00] UNFREED_L.HGZ 
+-r-xr-xr-x   1    0    0    1465066 Jun 27 2006 [ 620544 00] UNFREED_S.HGZ 
+-r-xr-xr-x   1    0    0    4188096 Jun 27 2006 [ 621264 00] VOLATILE.HOG 
+-r-xr-xr-x   1    0    0          5 Jun 27 2006 [ 623312 00] VOLATILE_E.HOG 
+-r-xr-xr-x   1    0    0          5 Jun 27 2006 [ 623328 00] VOLATILE_F.HOG 
+-r-xr-xr-x   1    0    0          5 Jun 27 2006 [ 623344 00] VOLATILE_G.HOG 
+-r-xr-xr-x   1    0    0          5 Jun 27 2006 [ 623360 00] VOLATILE_I.HOG 
+-r-xr-xr-x   1    0    0    4188096 Jun 27 2006 [ 623376 00] VOLATILE_L.HOG 
+-r-xr-xr-x   1    0    0          5 Jun 27 2006 [ 625424 00] VOLATILE_S.HOG 
+-r-xr-xr-x   1    0    0    8118272 Jun 29 2006 [ 625440 00] VOMUSIC.SKX 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/SINGLE/SHANT_1P/SHANT_B1/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     93 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     62 02] .. 
+-r-xr-xr-x   1    0    0     201388 Jun 27 2006 [ 629408 00] FREED.HGZ 
+-r-xr-xr-x   1    0    0     601920 Jun 27 2006 [ 629520 00] FREEDGUI.HGZ 
+-r-xr-xr-x   1    0    0     618832 Jun 27 2006 [ 629824 00] FREEDGUI_L.HGZ 
+-r-xr-xr-x   1    0    0     203902 Jun 27 2006 [ 630128 00] FREED_L.HGZ 
+-r-xr-xr-x   1    0    0    1668058 Jun 27 2006 [ 630240 00] UNFREED.HGZ 
+-r-xr-xr-x   1    0    0     889462 Jun 27 2006 [ 631056 00] UNFREED_E.HGZ 
+-r-xr-xr-x   1    0    0     890434 Jun 27 2006 [ 631504 00] UNFREED_F.HGZ 
+-r-xr-xr-x   1    0    0     899190 Jun 27 2006 [ 631952 00] UNFREED_G.HGZ 
+-r-xr-xr-x   1    0    0     923594 Jun 27 2006 [ 632400 00] UNFREED_I.HGZ 
+-r-xr-xr-x   1    0    0     780458 Jun 27 2006 [ 632864 00] UNFREED_L.HGZ 
+-r-xr-xr-x   1    0    0     897610 Jun 27 2006 [ 633248 00] UNFREED_S.HGZ 
+-r-xr-xr-x   1    0    0    4067520 Jun 27 2006 [ 633696 00] VOLATILE.HOG 
+-r-xr-xr-x   1    0    0     329792 Jun 27 2006 [ 635696 00] VOLATILE_E.HOG 
+-r-xr-xr-x   1    0    0     329792 Jun 27 2006 [ 635872 00] VOLATILE_F.HOG 
+-r-xr-xr-x   1    0    0     329792 Jun 27 2006 [ 636048 00] VOLATILE_G.HOG 
+-r-xr-xr-x   1    0    0     329792 Jun 27 2006 [ 636224 00] VOLATILE_I.HOG 
+-r-xr-xr-x   1    0    0    3737792 Jun 27 2006 [ 636400 00] VOLATILE_L.HOG 
+-r-xr-xr-x   1    0    0     329792 Jun 27 2006 [ 638240 00] VOLATILE_S.HOG 
+-r-xr-xr-x   1    0    0    6303744 Jun 29 2006 [ 638416 00] VOMUSIC.SKX 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/SINGLE/TRAIN_1P/TRAIN_1/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     94 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     63 02] .. 
+-r-xr-xr-x   1    0    0     186092 Jun 27 2006 [ 717952 00] FREED.HGZ 
+-r-xr-xr-x   1    0    0     608754 Jun 27 2006 [ 718048 00] FREEDGUI.HGZ 
+-r-xr-xr-x   1    0    0     624598 Jun 27 2006 [ 718352 00] FREEDGUI_L.HGZ 
+-r-xr-xr-x   1    0    0     188774 Jun 27 2006 [ 718672 00] FREED_L.HGZ 
+-r-xr-xr-x   1    0    0    2245584 Jun 27 2006 [ 718768 00] UNFREED.HGZ 
+-r-xr-xr-x   1    0    0    1638920 Jun 27 2006 [ 719872 00] UNFREED_E.HGZ 
+-r-xr-xr-x   1    0    0    1647146 Jun 27 2006 [ 720688 00] UNFREED_F.HGZ 
+-r-xr-xr-x   1    0    0    1628466 Jun 27 2006 [ 721504 00] UNFREED_G.HGZ 
+-r-xr-xr-x   1    0    0    1801998 Jun 27 2006 [ 722304 00] UNFREED_I.HGZ 
+-r-xr-xr-x   1    0    0     609924 Jun 27 2006 [ 723184 00] UNFREED_L.HGZ 
+-r-xr-xr-x   1    0    0    1724510 Jun 27 2006 [ 723488 00] UNFREED_S.HGZ 
+-r-xr-xr-x   1    0    0    4160064 Jun 27 2006 [ 724336 00] VOLATILE.HOG 
+-r-xr-xr-x   1    0    0     389184 Jun 27 2006 [ 726368 00] VOLATILE_E.HOG 
+-r-xr-xr-x   1    0    0     389184 Jun 27 2006 [ 726560 00] VOLATILE_F.HOG 
+-r-xr-xr-x   1    0    0     358464 Jun 27 2006 [ 726752 00] VOLATILE_G.HOG 
+-r-xr-xr-x   1    0    0     393280 Jun 27 2006 [ 726928 00] VOLATILE_I.HOG 
+-r-xr-xr-x   1    0    0    3770880 Jun 27 2006 [ 727136 00] VOLATILE_L.HOG 
+-r-xr-xr-x   1    0    0     391232 Jun 27 2006 [ 728992 00] VOLATILE_S.HOG 
+-r-xr-xr-x   1    0    0    2310144 Jun 29 2006 [ 729184 00] VOMUSIC.SKX 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/SINGLE/TRAIN_1P/TRAIN_2/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     95 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     63 02] .. 
+-r-xr-xr-x   1    0    0     182108 Jun 29 2006 [ 730320 00] FREED.HGZ 
+-r-xr-xr-x   1    0    0     606868 Jun 27 2006 [ 730416 00] FREEDGUI.HGZ 
+-r-xr-xr-x   1    0    0     628550 Jun 27 2006 [ 730720 00] FREEDGUI_L.HGZ 
+-r-xr-xr-x   1    0    0     198412 Jun 29 2006 [ 731040 00] FREED_L.HGZ 
+-r-xr-xr-x   1    0    0    2548288 Jun 29 2006 [ 731152 00] UNFREED.HGZ 
+-r-xr-xr-x   1    0    0       7470 Jun 27 2006 [ 732400 00] UNFREED_E.HGZ 
+-r-xr-xr-x   1    0    0       7678 Jun 27 2006 [ 732416 00] UNFREED_F.HGZ 
+-r-xr-xr-x   1    0    0       8020 Jun 27 2006 [ 732432 00] UNFREED_G.HGZ 
+-r-xr-xr-x   1    0    0       7670 Jun 27 2006 [ 732448 00] UNFREED_I.HGZ 
+-r-xr-xr-x   1    0    0    2540584 Jun 29 2006 [ 732464 00] UNFREED_L.HGZ 
+-r-xr-xr-x   1    0    0       7976 Jun 27 2006 [ 733712 00] UNFREED_S.HGZ 
+-r-xr-xr-x   1    0    0    4174720 Jun 27 2006 [ 733728 00] VOLATILE.HOG 
+-r-xr-xr-x   1    0    0    3274816 Jun 27 2006 [ 735776 00] VOLATILE_E.HOG 
+-r-xr-xr-x   1    0    0    3254336 Jun 27 2006 [ 737376 00] VOLATILE_F.HOG 
+-r-xr-xr-x   1    0    0    3029056 Jun 27 2006 [ 738976 00] VOLATILE_G.HOG 
+-r-xr-xr-x   1    0    0    3223616 Jun 27 2006 [ 740464 00] VOLATILE_I.HOG 
+-r-xr-xr-x   1    0    0     899968 Jun 27 2006 [ 742048 00] VOLATILE_L.HOG 
+-r-xr-xr-x   1    0    0    3268672 Jun 27 2006 [ 742496 00] VOLATILE_S.HOG 
+-r-xr-xr-x   1    0    0    2336768 Jun 29 2006 [ 744096 00] VOMUSIC.SKX 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/SINGLE/TRAIN_1P/TRAIN_3/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     96 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     63 02] .. 
+-r-xr-xr-x   1    0    0     167732 Jun 27 2006 [ 745248 00] FREED.HGZ 
+-r-xr-xr-x   1    0    0     607184 Jun 27 2006 [ 745344 00] FREEDGUI.HGZ 
+-r-xr-xr-x   1    0    0     622756 Jun 27 2006 [ 745648 00] FREEDGUI_L.HGZ 
+-r-xr-xr-x   1    0    0     169878 Jun 27 2006 [ 745968 00] FREED_L.HGZ 
+-r-xr-xr-x   1    0    0    1144394 Jun 27 2006 [ 746064 00] UNFREED.HGZ 
+-r-xr-xr-x   1    0    0       5770 Jun 27 2006 [ 746624 00] UNFREED_E.HGZ 
+-r-xr-xr-x   1    0    0       5806 Jun 27 2006 [ 746640 00] UNFREED_F.HGZ 
+-r-xr-xr-x   1    0    0       5992 Jun 27 2006 [ 746656 00] UNFREED_G.HGZ 
+-r-xr-xr-x   1    0    0       5730 Jun 27 2006 [ 746672 00] UNFREED_I.HGZ 
+-r-xr-xr-x   1    0    0    1138622 Jun 27 2006 [ 746688 00] UNFREED_L.HGZ 
+-r-xr-xr-x   1    0    0       5960 Jun 27 2006 [ 747248 00] UNFREED_S.HGZ 
+-r-xr-xr-x   1    0    0    4189440 Jun 27 2006 [ 747264 00] VOLATILE.HOG 
+-r-xr-xr-x   1    0    0    1974336 Jun 27 2006 [ 749312 00] VOLATILE_E.HOG 
+-r-xr-xr-x   1    0    0    1951808 Jun 27 2006 [ 750288 00] VOLATILE_F.HOG 
+-r-xr-xr-x   1    0    0    1939520 Jun 27 2006 [ 751248 00] VOLATILE_G.HOG 
+-r-xr-xr-x   1    0    0    1927232 Jun 27 2006 [ 752208 00] VOLATILE_I.HOG 
+-r-xr-xr-x   1    0    0    2215104 Jun 27 2006 [ 753152 00] VOLATILE_L.HOG 
+-r-xr-xr-x   1    0    0    1914944 Jun 27 2006 [ 754240 00] VOLATILE_S.HOG 
+-r-xr-xr-x   1    0    0    2310144 Jun 29 2006 [ 755184 00] VOMUSIC.SKX 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/SINGLE/TRAIN_1P/TRAIN_6/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     97 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     63 02] .. 
+-r-xr-xr-x   1    0    0     160216 Jun 27 2006 [ 756320 00] FREED.HGZ 
+-r-xr-xr-x   1    0    0     596738 Jun 27 2006 [ 756400 00] FREEDGUI.HGZ 
+-r-xr-xr-x   1    0    0     601794 Jun 27 2006 [ 756704 00] FREEDGUI_L.HGZ 
+-r-xr-xr-x   1    0    0     161264 Jun 27 2006 [ 757008 00] FREED_L.HGZ 
+-r-xr-xr-x   1    0    0     587976 Jun 27 2006 [ 757088 00] UNFREED.HGZ 
+-r-xr-xr-x   1    0    0       2130 Jun 27 2006 [ 757376 00] UNFREED_E.HGZ 
+-r-xr-xr-x   1    0    0       2108 Jun 27 2006 [ 757392 00] UNFREED_F.HGZ 
+-r-xr-xr-x   1    0    0       2180 Jun 27 2006 [ 757408 00] UNFREED_G.HGZ 
+-r-xr-xr-x   1    0    0       2090 Jun 27 2006 [ 757424 00] UNFREED_I.HGZ 
+-r-xr-xr-x   1    0    0     585974 Jun 27 2006 [ 757440 00] UNFREED_L.HGZ 
+-r-xr-xr-x   1    0    0       2126 Jun 27 2006 [ 757728 00] UNFREED_S.HGZ 
+-r-xr-xr-x   1    0    0    3846016 Jun 27 2006 [ 757744 00] VOLATILE.HOG 
+-r-xr-xr-x   1    0    0     661568 Jun 27 2006 [ 759632 00] VOLATILE_E.HOG 
+-r-xr-xr-x   1    0    0     669760 Jun 27 2006 [ 759968 00] VOLATILE_F.HOG 
+-r-xr-xr-x   1    0    0     663616 Jun 27 2006 [ 760304 00] VOLATILE_G.HOG 
+-r-xr-xr-x   1    0    0     632896 Jun 27 2006 [ 760640 00] VOLATILE_I.HOG 
+-r-xr-xr-x   1    0    0    3184512 Jun 27 2006 [ 760960 00] VOLATILE_L.HOG 
+-r-xr-xr-x   1    0    0     667712 Jun 27 2006 [ 762528 00] VOLATILE_S.HOG 
+-r-xr-xr-x   1    0    0    5113856 Jun 29 2006 [ 762864 00] VOMUSIC.SKX 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/SINGLE/TRAIN_1P/TRAIN_7/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     98 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     63 02] .. 
+-r-xr-xr-x   1    0    0     160828 Jun 27 2006 [ 765376 00] FREED.HGZ 
+-r-xr-xr-x   1    0    0     596736 Jun 27 2006 [ 765456 00] FREEDGUI.HGZ 
+-r-xr-xr-x   1    0    0     605094 Jun 27 2006 [ 765760 00] FREEDGUI_L.HGZ 
+-r-xr-xr-x   1    0    0     162352 Jun 27 2006 [ 766064 00] FREED_L.HGZ 
+-r-xr-xr-x   1    0    0     982158 Jun 27 2006 [ 766144 00] UNFREED.HGZ 
+-r-xr-xr-x   1    0    0     425352 Jun 27 2006 [ 766624 00] UNFREED_E.HGZ 
+-r-xr-xr-x   1    0    0     412384 Jun 27 2006 [ 766832 00] UNFREED_F.HGZ 
+-r-xr-xr-x   1    0    0     417020 Jun 27 2006 [ 767040 00] UNFREED_G.HGZ 
+-r-xr-xr-x   1    0    0     380132 Jun 27 2006 [ 767248 00] UNFREED_I.HGZ 
+-r-xr-xr-x   1    0    0     556558 Jun 27 2006 [ 767440 00] UNFREED_L.HGZ 
+-r-xr-xr-x   1    0    0     406592 Jun 27 2006 [ 767712 00] UNFREED_S.HGZ 
+-r-xr-xr-x   1    0    0    3803456 Jun 27 2006 [ 767920 00] VOLATILE.HOG 
+-r-xr-xr-x   1    0    0     550976 Jun 27 2006 [ 769792 00] VOLATILE_E.HOG 
+-r-xr-xr-x   1    0    0     542784 Jun 27 2006 [ 770064 00] VOLATILE_F.HOG 
+-r-xr-xr-x   1    0    0     569408 Jun 27 2006 [ 770336 00] VOLATILE_G.HOG 
+-r-xr-xr-x   1    0    0     546880 Jun 27 2006 [ 770624 00] VOLATILE_I.HOG 
+-r-xr-xr-x   1    0    0    3252544 Jun 27 2006 [ 770896 00] VOLATILE_L.HOG 
+-r-xr-xr-x   1    0    0     567360 Jun 27 2006 [ 772496 00] VOLATILE_S.HOG 
+-r-xr-xr-x   1    0    0    5134336 Jun 29 2006 [ 772784 00] VOMUSIC.SKX 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/SINGLE/TRAIN_1P/TRAIN_8/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     99 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     63 02] .. 
+-r-xr-xr-x   1    0    0     160582 Jun 27 2006 [ 775296 00] FREED.HGZ 
+-r-xr-xr-x   1    0    0     606726 Jun 27 2006 [ 775376 00] FREEDGUI.HGZ 
+-r-xr-xr-x   1    0    0     629202 Jun 27 2006 [ 775680 00] FREEDGUI_L.HGZ 
+-r-xr-xr-x   1    0    0     173762 Jun 27 2006 [ 776000 00] FREED_L.HGZ 
+-r-xr-xr-x   1    0    0    2172874 Jun 27 2006 [ 776096 00] UNFREED.HGZ 
+-r-xr-xr-x   1    0    0     430424 Jun 27 2006 [ 777168 00] UNFREED_E.HGZ 
+-r-xr-xr-x   1    0    0     417548 Jun 27 2006 [ 777392 00] UNFREED_F.HGZ 
+-r-xr-xr-x   1    0    0     422456 Jun 27 2006 [ 777600 00] UNFREED_G.HGZ 
+-r-xr-xr-x   1    0    0     385406 Jun 27 2006 [ 777808 00] UNFREED_I.HGZ 
+-r-xr-xr-x   1    0    0    1743276 Jun 27 2006 [ 778000 00] UNFREED_L.HGZ 
+-r-xr-xr-x   1    0    0     411876 Jun 27 2006 [ 778864 00] UNFREED_S.HGZ 
+-r-xr-xr-x   1    0    0    3939200 Jun 27 2006 [ 779072 00] VOLATILE.HOG 
+-r-xr-xr-x   1    0    0    2674752 Jun 27 2006 [ 781008 00] VOLATILE_E.HOG 
+-r-xr-xr-x   1    0    0    2703424 Jun 27 2006 [ 782320 00] VOLATILE_F.HOG 
+-r-xr-xr-x   1    0    0    2908224 Jun 27 2006 [ 783648 00] VOLATILE_G.HOG 
+-r-xr-xr-x   1    0    0    2881600 Jun 27 2006 [ 785072 00] VOLATILE_I.HOG 
+-r-xr-xr-x   1    0    0    1264512 Jun 27 2006 [ 786480 00] VOLATILE_L.HOG 
+-r-xr-xr-x   1    0    0    2877504 Jun 27 2006 [ 787104 00] VOLATILE_S.HOG 
+-r-xr-xr-x   1    0    0    2154496 Jun 29 2006 [ 788512 00] VOMUSIC.SKX 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/SINGLE/WEPPL_1P/WEPPL_A1/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [    100 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     64 02] .. 
+-r-xr-xr-x   1    0    0     258974 Jun 27 2006 [ 641504 00] FREED.HGZ 
+-r-xr-xr-x   1    0    0     601956 Jun 27 2006 [ 641632 00] FREEDGUI.HGZ 
+-r-xr-xr-x   1    0    0     619542 Jun 27 2006 [ 641936 00] FREEDGUI_L.HGZ 
+-r-xr-xr-x   1    0    0     261408 Jun 27 2006 [ 642240 00] FREED_L.HGZ 
+-r-xr-xr-x   1    0    0    2200926 Jun 27 2006 [ 642368 00] UNFREED.HGZ 
+-r-xr-xr-x   1    0    0     677536 Jun 27 2006 [ 643456 00] UNFREED_E.HGZ 
+-r-xr-xr-x   1    0    0     695756 Jun 27 2006 [ 643792 00] UNFREED_F.HGZ 
+-r-xr-xr-x   1    0    0     682520 Jun 27 2006 [ 644144 00] UNFREED_G.HGZ 
+-r-xr-xr-x   1    0    0     701882 Jun 27 2006 [ 644480 00] UNFREED_I.HGZ 
+-r-xr-xr-x   1    0    0    1525086 Jun 27 2006 [ 644832 00] UNFREED_L.HGZ 
+-r-xr-xr-x   1    0    0     705108 Jun 27 2006 [ 645584 00] UNFREED_S.HGZ 
+-r-xr-xr-x   1    0    0    4160640 Jun 27 2006 [ 645936 00] VOLATILE.HOG 
+-r-xr-xr-x   1    0    0     399424 Jun 27 2006 [ 647968 00] VOLATILE_E.HOG 
+-r-xr-xr-x   1    0    0     399424 Jun 27 2006 [ 648176 00] VOLATILE_F.HOG 
+-r-xr-xr-x   1    0    0     399424 Jun 27 2006 [ 648384 00] VOLATILE_G.HOG 
+-r-xr-xr-x   1    0    0     399424 Jun 27 2006 [ 648592 00] VOLATILE_I.HOG 
+-r-xr-xr-x   1    0    0    3761280 Jun 27 2006 [ 648800 00] VOLATILE_L.HOG 
+-r-xr-xr-x   1    0    0     399424 Jun 27 2006 [ 650640 00] VOLATILE_S.HOG 
+-r-xr-xr-x   1    0    0    6287360 Jun 29 2006 [ 650848 00] VOMUSIC.SKX 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/SINGLE/WEPPL_1P/WEPPL_A2/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [    101 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     64 02] .. 
+-r-xr-xr-x   1    0    0     322930 Jun 27 2006 [ 653920 00] FREED.HGZ 
+-r-xr-xr-x   1    0    0     602014 Jun 27 2006 [ 654080 00] FREEDGUI.HGZ 
+-r-xr-xr-x   1    0    0     618456 Jun 27 2006 [ 654384 00] FREEDGUI_L.HGZ 
+-r-xr-xr-x   1    0    0     326470 Jun 27 2006 [ 654688 00] FREED_L.HGZ 
+-r-xr-xr-x   1    0    0    2597194 Jun 27 2006 [ 654848 00] UNFREED.HGZ 
+-r-xr-xr-x   1    0    0    1074026 Jun 27 2006 [ 656128 00] UNFREED_E.HGZ 
+-r-xr-xr-x   1    0    0    1103332 Jun 27 2006 [ 656656 00] UNFREED_F.HGZ 
+-r-xr-xr-x   1    0    0    1109766 Jun 27 2006 [ 657200 00] UNFREED_G.HGZ 
+-r-xr-xr-x   1    0    0    1116732 Jun 27 2006 [ 657744 00] UNFREED_I.HGZ 
+-r-xr-xr-x   1    0    0    1522804 Jun 27 2006 [ 658304 00] UNFREED_L.HGZ 
+-r-xr-xr-x   1    0    0    1073418 Jun 27 2006 [ 659056 00] UNFREED_S.HGZ 
+-r-xr-xr-x   1    0    0    3956480 Jun 27 2006 [ 659584 00] VOLATILE.HOG 
+-r-xr-xr-x   1    0    0          5 Jun 27 2006 [ 661520 00] VOLATILE_E.HOG 
+-r-xr-xr-x   1    0    0          5 Jun 27 2006 [ 661536 00] VOLATILE_F.HOG 
+-r-xr-xr-x   1    0    0          5 Jun 27 2006 [ 661552 00] VOLATILE_G.HOG 
+-r-xr-xr-x   1    0    0          5 Jun 27 2006 [ 661568 00] VOLATILE_I.HOG 
+-r-xr-xr-x   1    0    0    3956480 Jun 27 2006 [ 661584 00] VOLATILE_L.HOG 
+-r-xr-xr-x   1    0    0          5 Jun 27 2006 [ 663520 00] VOLATILE_S.HOG 
+-r-xr-xr-x   1    0    0    8411136 Jun 29 2006 [ 663536 00] VOMUSIC.SKX 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/SINGLE/WEPPL_1P/WEPPL_C1/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [    102 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     64 02] .. 
+-r-xr-xr-x   1    0    0     231124 Jun 27 2006 [ 667648 00] FREED.HGZ 
+-r-xr-xr-x   1    0    0     600980 Jun 27 2006 [ 667776 00] FREEDGUI.HGZ 
+-r-xr-xr-x   1    0    0     612666 Jun 27 2006 [ 668080 00] FREEDGUI_L.HGZ 
+-r-xr-xr-x   1    0    0     232500 Jun 27 2006 [ 668384 00] FREED_L.HGZ 
+-r-xr-xr-x   1    0    0    2259034 Jun 27 2006 [ 668512 00] UNFREED.HGZ 
+-r-xr-xr-x   1    0    0     735210 Jun 27 2006 [ 669616 00] UNFREED_E.HGZ 
+-r-xr-xr-x   1    0    0     748326 Jun 27 2006 [ 669984 00] UNFREED_F.HGZ 
+-r-xr-xr-x   1    0    0     733748 Jun 27 2006 [ 670352 00] UNFREED_G.HGZ 
+-r-xr-xr-x   1    0    0     759408 Jun 27 2006 [ 670720 00] UNFREED_I.HGZ 
+-r-xr-xr-x   1    0    0    1521468 Jun 27 2006 [ 671104 00] UNFREED_L.HGZ 
+-r-xr-xr-x   1    0    0     743082 Jun 27 2006 [ 671856 00] UNFREED_S.HGZ 
+-r-xr-xr-x   1    0    0    4143488 Jun 27 2006 [ 672224 00] VOLATILE.HOG 
+-r-xr-xr-x   1    0    0          5 Jun 27 2006 [ 674256 00] VOLATILE_E.HOG 
+-r-xr-xr-x   1    0    0          5 Jun 27 2006 [ 674272 00] VOLATILE_F.HOG 
+-r-xr-xr-x   1    0    0          5 Jun 27 2006 [ 674288 00] VOLATILE_G.HOG 
+-r-xr-xr-x   1    0    0          5 Jun 27 2006 [ 674304 00] VOLATILE_I.HOG 
+-r-xr-xr-x   1    0    0    4143488 Jun 27 2006 [ 674320 00] VOLATILE_L.HOG 
+-r-xr-xr-x   1    0    0          5 Jun 27 2006 [ 676352 00] VOLATILE_S.HOG 
+-r-xr-xr-x   1    0    0   10020864 Jun 29 2006 [ 676368 00] VOMUSIC.SKX 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/SINGLE/WEPPL_1P/WEPPL_D1/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [    103 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     64 02] .. 
+-r-xr-xr-x   1    0    0     213350 Jun 27 2006 [ 681264 00] FREED.HGZ 
+-r-xr-xr-x   1    0    0     594560 Jun 27 2006 [ 681376 00] FREEDGUI.HGZ 
+-r-xr-xr-x   1    0    0     599860 Jun 27 2006 [ 681680 00] FREEDGUI_L.HGZ 
+-r-xr-xr-x   1    0    0     214778 Jun 27 2006 [ 681984 00] FREED_L.HGZ 
+-r-xr-xr-x   1    0    0    1239176 Jun 27 2006 [ 682096 00] UNFREED.HGZ 
+-r-xr-xr-x   1    0    0     334418 Jun 27 2006 [ 682704 00] UNFREED_E.HGZ 
+-r-xr-xr-x   1    0    0     334594 Jun 27 2006 [ 682880 00] UNFREED_F.HGZ 
+-r-xr-xr-x   1    0    0     334512 Jun 27 2006 [ 683056 00] UNFREED_G.HGZ 
+-r-xr-xr-x   1    0    0     334402 Jun 27 2006 [ 683232 00] UNFREED_I.HGZ 
+-r-xr-xr-x   1    0    0     903232 Jun 27 2006 [ 683408 00] UNFREED_L.HGZ 
+-r-xr-xr-x   1    0    0     334480 Jun 27 2006 [ 683856 00] UNFREED_S.HGZ 
+-r-xr-xr-x   1    0    0    4189632 Jun 27 2006 [ 684032 00] VOLATILE.HOG 
+-r-xr-xr-x   1    0    0     438336 Jun 27 2006 [ 686080 00] VOLATILE_E.HOG 
+-r-xr-xr-x   1    0    0     411712 Jun 27 2006 [ 686304 00] VOLATILE_F.HOG 
+-r-xr-xr-x   1    0    0     438336 Jun 27 2006 [ 686512 00] VOLATILE_G.HOG 
+-r-xr-xr-x   1    0    0     424000 Jun 27 2006 [ 686736 00] VOLATILE_I.HOG 
+-r-xr-xr-x   1    0    0    3751296 Jun 27 2006 [ 686944 00] VOLATILE_L.HOG 
+-r-xr-xr-x   1    0    0     438336 Jun 27 2006 [ 688784 00] VOLATILE_S.HOG 
+-r-xr-xr-x   1    0    0   10020864 Jun 29 2006 [ 689008 00] VOMUSIC.SKX 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/SINGLE/ZUGSP_1P/ZUGSP_A1/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [    104 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     65 02] .. 
+-r-xr-xr-x   1    0    0     215714 Jun 27 2006 [ 693904 00] FREED.HGZ 
+-r-xr-xr-x   1    0    0     599820 Jun 27 2006 [ 694016 00] FREEDGUI.HGZ 
+-r-xr-xr-x   1    0    0     614366 Jun 27 2006 [ 694320 00] FREEDGUI_L.HGZ 
+-r-xr-xr-x   1    0    0     218190 Jun 27 2006 [ 694624 00] FREED_L.HGZ 
+-r-xr-xr-x   1    0    0    1390638 Jun 27 2006 [ 694736 00] UNFREED.HGZ 
+-r-xr-xr-x   1    0    0       4690 Jun 27 2006 [ 695424 00] UNFREED_E.HGZ 
+-r-xr-xr-x   1    0    0       4920 Jun 27 2006 [ 695440 00] UNFREED_F.HGZ 
+-r-xr-xr-x   1    0    0       4858 Jun 27 2006 [ 695456 00] UNFREED_G.HGZ 
+-r-xr-xr-x   1    0    0       4784 Jun 27 2006 [ 695472 00] UNFREED_I.HGZ 
+-r-xr-xr-x   1    0    0    1385506 Jun 27 2006 [ 695488 00] UNFREED_L.HGZ 
+-r-xr-xr-x   1    0    0       4868 Jun 27 2006 [ 696176 00] UNFREED_S.HGZ 
+-r-xr-xr-x   1    0    0    4183424 Jun 27 2006 [ 696192 00] VOLATILE.HOG 
+-r-xr-xr-x   1    0    0    1376320 Jun 27 2006 [ 698240 00] VOLATILE_E.HOG 
+-r-xr-xr-x   1    0    0    1312832 Jun 27 2006 [ 698928 00] VOLATILE_F.HOG 
+-r-xr-xr-x   1    0    0    1343552 Jun 27 2006 [ 699584 00] VOLATILE_G.HOG 
+-r-xr-xr-x   1    0    0    1306688 Jun 27 2006 [ 700256 00] VOLATILE_I.HOG 
+-r-xr-xr-x   1    0    0    2807104 Jun 27 2006 [ 700896 00] VOLATILE_L.HOG 
+-r-xr-xr-x   1    0    0    1333312 Jun 27 2006 [ 702272 00] VOLATILE_S.HOG 
+-r-xr-xr-x   1    0    0    6129664 Jun 29 2006 [ 702928 00] VOMUSIC.SKX 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/SINGLE/ZUGSP_1P/ZUGSP_A2/
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [    105 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 29 2006 [     65 02] .. 
+-r-xr-xr-x   1    0    0     235802 Jun 27 2006 [ 705936 00] FREED.HGZ 
+-r-xr-xr-x   1    0    0     601102 Jun 27 2006 [ 706064 00] FREEDGUI.HGZ 
+-r-xr-xr-x   1    0    0     612808 Jun 27 2006 [ 706368 00] FREEDGUI_L.HGZ 
+-r-xr-xr-x   1    0    0     237064 Jun 27 2006 [ 706672 00] FREED_L.HGZ 
+-r-xr-xr-x   1    0    0    1563864 Jun 27 2006 [ 706800 00] UNFREED.HGZ 
+-r-xr-xr-x   1    0    0       3072 Jun 27 2006 [ 707568 00] UNFREED_E.HGZ 
+-r-xr-xr-x   1    0    0       3172 Jun 27 2006 [ 707584 00] UNFREED_F.HGZ 
+-r-xr-xr-x   1    0    0       3172 Jun 27 2006 [ 707600 00] UNFREED_G.HGZ 
+-r-xr-xr-x   1    0    0       3134 Jun 27 2006 [ 707616 00] UNFREED_I.HGZ 
+-r-xr-xr-x   1    0    0    1561706 Jun 27 2006 [ 707632 00] UNFREED_L.HGZ 
+-r-xr-xr-x   1    0    0       3150 Jun 27 2006 [ 708400 00] UNFREED_S.HGZ 
+-r-xr-xr-x   1    0    0    4129216 Jun 27 2006 [ 708416 00] VOLATILE.HOG 
+-r-xr-xr-x   1    0    0     962624 Jun 27 2006 [ 710448 00] VOLATILE_E.HOG 
+-r-xr-xr-x   1    0    0     958528 Jun 27 2006 [ 710928 00] VOLATILE_F.HOG 
+-r-xr-xr-x   1    0    0    1017920 Jun 27 2006 [ 711408 00] VOLATILE_G.HOG 
+-r-xr-xr-x   1    0    0     940096 Jun 27 2006 [ 711920 00] VOLATILE_I.HOG 
+-r-xr-xr-x   1    0    0    3166592 Jun 27 2006 [ 712384 00] VOLATILE_L.HOG 
+-r-xr-xr-x   1    0    0     950336 Jun 27 2006 [ 713936 00] VOLATILE_S.HOG 
+-r-xr-xr-x   1    0    0    7233536 Jun 29 2006 [ 714416 00] VOMUSIC.SKX 
+=============================================================== 
+Generated on Sun 07/08/2022 at 19:29:15.62 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

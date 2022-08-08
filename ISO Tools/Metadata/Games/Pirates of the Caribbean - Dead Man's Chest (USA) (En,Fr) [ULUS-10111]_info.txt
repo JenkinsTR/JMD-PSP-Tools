@@ -1,0 +1,1516 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Pirates of the Caribbean - Dead Man's Chest   
+Title ID: ULUS-10111 
+Region: USA  
+Languages: En,Fr  
+Volume Creation Date: 2006-05-12 12:00:00 
+Volume Size: 449 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: 
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 230272
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Apr 24 2006 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Apr 24 2006 [    127 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Apr 24 2006 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     22 02] .. 
+-r-xr-xr-x   1    0    0      22176 Apr  3 2006 [  20832 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        472 May  9 2006 [  20672 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     263581 Apr  3 2006 [  20688 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Apr 24 2006 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Apr 24 2006 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Apr 24 2006 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 24 2006 [     23 02] .. 
+-r-xr-xr-x   1    0    0      79265 May 10 2006 [  20848 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0      79616 May 12 2006 [    128 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Apr 24 2006 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Apr 24 2006 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 24 2006 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 Apr 24 2006 [     27 02] MULTI 
+dr-xr-xr-x   1    0    0       2048 Apr 24 2006 [     28 02] SYSDIR 
+-r-xr-xr-x   1    0    0       2460 Mar 25 2006 [ 203936 00] ai.res 
+-r-xr-xr-x   1    0    0      80216 Apr  4 2006 [ 203888 00] animlist.res 
+dr-xr-xr-x   1    0    0       4096 May 12 2006 [     29 02] characters 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     31 02] front_end 
+-r-xr-xr-x   1    0    0     827040 Apr 11 2006 [ 203472 00] frontend.res 
+dr-xr-xr-x   1    0    0       4096 May 12 2006 [     32 02] fx 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     34 02] hazards 
+-r-xr-xr-x   1    0    0     572416 Apr  7 2006 [ 203184 00] interface.res 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     35 02] kmodule 
+-r-xr-xr-x   1    0    0       4356 Apr  7 2006 [ 203168 00] levellist.res 
+dr-xr-xr-x   1    0    0       4096 May 12 2006 [     36 02] levels 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     38 02] loc 
+-r-xr-xr-x   1    0    0    1979884 May 10 2006 [ 202192 00] lua.res 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     39 02] module 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     40 02] movies 
+-r-xr-xr-x   1    0    0    1152116 May  9 2006 [ 201616 00] one_time_lua.res 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     41 02] pirate_actions 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     42 02] savegame 
+-r-xr-xr-x   1    0    0     103088 Mar 26 2006 [ 201552 00] sounds.res 
+-r-xr-xr-x   1    0    0   71411296 Mar 25 2006 [ 166672 00] streams.res 
+-r-xr-xr-x   1    0    0      35888 Mar 25 2006 [ 166640 00] system.res 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     43 02] triggers 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     44 02] weapons 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Apr 24 2006 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 24 2006 [     24 02] .. 
+-r-xr-xr-x   1    0    0   14809632 Apr 24 2006 [   4288 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    3951712 Apr 24 2006 [    192 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       1772 Apr 24 2006 [    176 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/MULTI/
+dr-xr-xr-x   1    0    0       2048 Apr 24 2006 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 24 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0       5120 May 10 2006 [ 223152 00] animlist.res 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     45 02] characters 
+-r-xr-xr-x   1    0    0    3098140 May 10 2006 [ 223168 00] fx.res 
+-r-xr-xr-x   1    0    0    1556208 May 10 2006 [ 203952 00] interface.res 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     46 02] kmodule 
+-r-xr-xr-x   1    0    0       1796 May 10 2006 [ 204720 00] levellist.res 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     47 02] levels 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     48 02] loc 
+-r-xr-xr-x   1    0    0     256096 May 11 2006 [ 204736 00] lua.res 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     49 02] module 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     50 02] movies 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     51 02] savegame 
+-r-xr-xr-x   1    0    0      88608 May 10 2006 [ 204864 00] sounds.res 
+-r-xr-xr-x   1    0    0      80556 May 10 2006 [ 204912 00] system.res 
+-r-xr-xr-x   1    0    0    3734592 May 11 2006 [ 228448 00] upload.dat 
+-r-xr-xr-x   1    0    0     196044 May 10 2006 [ 204960 00] weapons.res 
+
+Directory listing of /PSP_GAME/USRDIR/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Apr 24 2006 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 24 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0    3658673 May 10 2006 [ 226656 00] MP_BOOT.BIN 
+-r-xr-xr-x   1    0    0    3997817 May 10 2006 [ 224688 00] SP_BOOT.BIN 
+
+Directory listing of /PSP_GAME/USRDIR/characters/
+dr-xr-xr-x   1    0    0       4096 May 12 2006 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 24 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0     133892 Mar 28 2006 [ 160256 00] bsoldier.res 
+-r-xr-xr-x   1    0    0     414748 Mar 31 2006 [ 160336 00] cannibal_01.res 
+-r-xr-xr-x   1    0    0     449596 Mar 31 2006 [ 160544 00] cannibal_02.res 
+-r-xr-xr-x   1    0    0      22748 Mar 28 2006 [ 160768 00] crow.res 
+-r-xr-xr-x   1    0    0     584712 Apr  7 2006 [ 160784 00] cs_jack.res 
+-r-xr-xr-x   1    0    0     484268 Apr  7 2006 [ 161072 00] cs_jack_cannibal.res 
+-r-xr-xr-x   1    0    0       1964 Mar 28 2006 [ 161312 00] cube.res 
+-r-xr-xr-x   1    0    0     449268 Apr  4 2006 [ 161456 00] dj_crew_01.res 
+-r-xr-xr-x   1    0    0     459940 Apr  4 2006 [ 161680 00] dj_crew_02.res 
+-r-xr-xr-x   1    0    0     258500 Mar 28 2006 [ 161328 00] djones.res 
+-r-xr-xr-x   1    0    0     314256 Mar 28 2006 [ 161920 00] eswain.res 
+-r-xr-xr-x   1    0    0     271648 Mar 28 2006 [ 162080 00] eswann_cs4.res 
+-r-xr-xr-x   1    0    0     121868 Mar 28 2006 [ 162224 00] flag_frontend.res 
+-r-xr-xr-x   1    0    0     459176 Mar 31 2006 [ 162288 00] human_pirate_01.res 
+-r-xr-xr-x   1    0    0     504844 Mar 31 2006 [ 162528 00] human_pirate_02.res 
+-r-xr-xr-x   1    0    0    1532228 Apr  6 2006 [ 162784 00] jsparrow.res 
+-r-xr-xr-x   1    0    0    1241616 Apr 11 2006 [ 163536 00] kraken.res 
+-r-xr-xr-x   1    0    0      29436 Mar 28 2006 [ 164144 00] macaw.res 
+-r-xr-xr-x   1    0    0     673152 Mar 29 2006 [ 164160 00] norrington.res 
+-r-xr-xr-x   1    0    0      54968 Mar 28 2006 [ 164512 00] pirate_action1.res 
+-r-xr-xr-x   1    0    0      17028 Mar 28 2006 [ 164496 00] pirateaction2_rope.res 
+-r-xr-xr-x   1    0    0      35048 Mar 25 2006 [ 164544 00] rope.res 
+-r-xr-xr-x   1    0    0      34924 Mar 25 2006 [ 164576 00] rope_2.res 
+-r-xr-xr-x   1    0    0      26960 Mar 25 2006 [ 164608 00] seagull_base.res 
+-r-xr-xr-x   1    0    0      21768 Mar 28 2006 [ 164624 00] seagull_nolegs.res 
+-r-xr-xr-x   1    0    0      20592 Mar 25 2006 [ 164640 00] seagull_nowings.res 
+-r-xr-xr-x   1    0    0     432916 Apr  5 2006 [ 164656 00] skeleton_pirate_01.res 
+-r-xr-xr-x   1    0    0     461236 Apr  5 2006 [ 164880 00] skeleton_pirate_02.res 
+-r-xr-xr-x   1    0    0     369568 Mar 28 2006 [ 165120 00] tentacle.res 
+-r-xr-xr-x   1    0    0     117884 Mar 28 2006 [ 165312 00] test_long_range_peon.res 
+-r-xr-xr-x   1    0    0     429932 Apr  4 2006 [ 165376 00] turkish_soldier_01.res 
+-r-xr-xr-x   1    0    0     453384 Apr  4 2006 [ 165600 00] turkish_soldier_02.res 
+-r-xr-xr-x   1    0    0     688852 Mar 29 2006 [ 165824 00] wturner.res 
+-r-xr-xr-x   1    0    0     447780 Apr  5 2006 [ 166176 00] zombie_pirate_02.res 
+-r-xr-xr-x   1    0    0     465124 Apr  5 2006 [ 166400 00] zombie_pirate_04.res 
+
+Directory listing of /PSP_GAME/USRDIR/front_end/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     31 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 24 2006 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     52 02] deu 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     53 02] eng 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     54 02] esl 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     55 02] fra 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     56 02] ita 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     57 02] jpn 
+
+Directory listing of /PSP_GAME/USRDIR/fx/
+dr-xr-xr-x   1    0    0       4096 May 12 2006 [     32 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 24 2006 [     25 02] .. 
+dr-xr-xr-x   1    0    0       4096 May 12 2006 [     58 02] breakable 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     60 02] cutscenes 
+-r-xr-xr-x   1    0    0      12872 Mar 28 2006 [ 143872 00] fx_arrow_poof.res 
+-r-xr-xr-x   1    0    0      11932 Mar 25 2006 [ 143888 00] fx_candle_flame.res 
+-r-xr-xr-x   1    0    0      18184 Mar 25 2006 [ 143920 00] fx_cave_drip_no_ring.res 
+-r-xr-xr-x   1    0    0      26188 Mar 25 2006 [ 143936 00] fx_cave_drip_ring.res 
+-r-xr-xr-x   1    0    0       3172 Mar 25 2006 [ 143904 00] fx_cave_drips.res 
+-r-xr-xr-x   1    0    0       3580 Mar 25 2006 [ 143952 00] fx_chimney_smoke.res 
+-r-xr-xr-x   1    0    0       9292 Mar 25 2006 [ 143968 00] fx_coffin.res 
+-r-xr-xr-x   1    0    0       9292 Mar 25 2006 [ 143984 00] fx_coffininterior.res 
+-r-xr-xr-x   1    0    0      12724 Mar 25 2006 [ 144000 00] fx_dragonfly.res 
+-r-xr-xr-x   1    0    0       7544 Mar 25 2006 [ 144016 00] fx_dust_particles.res 
+-r-xr-xr-x   1    0    0       3932 Mar 25 2006 [ 144032 00] fx_fireflies_large.res 
+-r-xr-xr-x   1    0    0       3996 Mar 25 2006 [ 144048 00] fx_fireflies_one_shot.res 
+-r-xr-xr-x   1    0    0       3836 Mar 25 2006 [ 144064 00] fx_fireflies_small.res 
+-r-xr-xr-x   1    0    0       3932 Mar 25 2006 [ 144080 00] fx_flies_large.res 
+-r-xr-xr-x   1    0    0       3996 Mar 25 2006 [ 144096 00] fx_flies_one_shot.res 
+-r-xr-xr-x   1    0    0       3836 Mar 25 2006 [ 144112 00] fx_flies_small.res 
+-r-xr-xr-x   1    0    0       8324 Mar 25 2006 [ 144128 00] fx_floating_fog.res 
+-r-xr-xr-x   1    0    0      17792 Mar 25 2006 [ 144144 00] fx_godray.res 
+-r-xr-xr-x   1    0    0       4276 Mar 28 2006 [ 144176 00] fx_l_foot_splash.res 
+-r-xr-xr-x   1    0    0       4276 Mar 28 2006 [ 144192 00] fx_l_foot_splash_low.res 
+-r-xr-xr-x   1    0    0      25528 Mar 25 2006 [ 144160 00] fx_leaves_falling.res 
+-r-xr-xr-x   1    0    0      23648 Mar 25 2006 [ 144208 00] fx_particle_fire_black.res 
+-r-xr-xr-x   1    0    0      62184 Mar 25 2006 [ 144224 00] fx_particle_fire_torch.res 
+-r-xr-xr-x   1    0    0      17896 Mar 28 2006 [ 144256 00] fx_particle_small_explosion.res 
+-r-xr-xr-x   1    0    0      17272 Mar 25 2006 [ 144272 00] fx_particle_smoke_black.res 
+-r-xr-xr-x   1    0    0       8740 Mar 25 2006 [ 144288 00] fx_particle_smoke_white.res 
+-r-xr-xr-x   1    0    0       9684 Mar 24 2006 [ 144304 00] fx_particle_water_spray_01.res 
+-r-xr-xr-x   1    0    0      11144 Mar 24 2006 [ 144320 00] fx_particle_water_white_cap.res 
+-r-xr-xr-x   1    0    0       4276 Mar 28 2006 [ 144368 00] fx_r_foot_splash.res 
+-r-xr-xr-x   1    0    0       4276 Mar 28 2006 [ 144384 00] fx_r_foot_splash_low.res 
+-r-xr-xr-x   1    0    0       7940 Mar 25 2006 [ 144336 00] fx_rain_hard_player.res 
+-r-xr-xr-x   1    0    0      13472 Mar 25 2006 [ 144352 00] fx_roach.res 
+-r-xr-xr-x   1    0    0       9784 Mar 24 2006 [ 144416 00] fx_sky_flash.res 
+-r-xr-xr-x   1    0    0      12644 Mar 28 2006 [ 144400 00] fx_skyflashes.res 
+-r-xr-xr-x   1    0    0       3176 Mar 25 2006 [ 144432 00] fx_sparkles.res 
+-r-xr-xr-x   1    0    0      17512 Mar 24 2006 [ 144464 00] fx_water_splash.res 
+-r-xr-xr-x   1    0    0      11932 Mar 25 2006 [ 144448 00] fx_waterfall.res 
+-r-xr-xr-x   1    0    0      11204 Mar 25 2006 [ 144480 00] fx_wind_whispy.res 
+-r-xr-xr-x   1    0    0      11204 Mar 25 2006 [ 144496 00] fx_wind_whispy_pit.res 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     61 02] mission_10 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     62 02] mission_1 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     63 02] mission_2 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     64 02] mission_3 
+dr-xr-xr-x   1    0    0       4096 May 12 2006 [     65 02] mission_4 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     67 02] mission_5 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     68 02] mission_6 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     69 02] mission_7 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     70 02] mission_8 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     71 02] mission_9 
+dr-xr-xr-x   1    0    0       4096 May 12 2006 [     72 02] pickups 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     74 02] pirateactions 
+dr-xr-xr-x   1    0    0       6144 May 12 2006 [     75 02] sounds 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     78 02] treasure_1 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     79 02] treasure_2 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     80 02] treasure_3 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     81 02] treasure_4 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     82 02] treasure_5 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     83 02] treasure_piece 
+
+Directory listing of /PSP_GAME/USRDIR/hazards/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     34 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 24 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0      49980 Mar 24 2006 [ 141600 00] bottle_hazard.res 
+-r-xr-xr-x   1    0    0      85644 Apr  4 2006 [ 141632 00] boulders.res 
+-r-xr-xr-x   1    0    0      30012 Mar 28 2006 [ 141680 00] flame_jet_large.res 
+-r-xr-xr-x   1    0    0      30012 Mar 25 2006 [ 141696 00] flame_jet_small.res 
+-r-xr-xr-x   1    0    0      34492 Mar 25 2006 [ 141712 00] wall_dart.res 
+
+Directory listing of /PSP_GAME/USRDIR/kmodule/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     35 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 24 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0       3264 Jan 17 2006 [ 141536 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0       5136 Jan 17 2006 [ 141552 00] mpegbase.prx 
+-r-xr-xr-x   1    0    0       6864 Jan 16 2006 [ 141568 00] sc_sascore.prx 
+-r-xr-xr-x   1    0    0       3440 Jan 16 2006 [ 141584 00] videocodec.prx 
+
+Directory listing of /PSP_GAME/USRDIR/levels/
+dr-xr-xr-x   1    0    0       4096 May 12 2006 [     36 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 24 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0       2100 Apr  7 2006 [  90464 00] empty_level.res 
+-r-xr-xr-x   1    0    0     999120 Mar 25 2006 [  90480 00] frontend.res 
+-r-xr-xr-x   1    0    0        616 Mar 25 2006 [  90976 00] frontend_lua.res 
+-r-xr-xr-x   1    0    0    5601556 May  4 2006 [  90992 00] mission_1.res 
+-r-xr-xr-x   1    0    0    4245920 Apr  7 2006 [  93728 00] mission_10.res 
+-r-xr-xr-x   1    0    0      14180 Apr  7 2006 [  95808 00] mission_10_lua.res 
+-r-xr-xr-x   1    0    0      79136 May  3 2006 [  95824 00] mission_1_lua.res 
+-r-xr-xr-x   1    0    0    5041000 Apr 11 2006 [  95872 00] mission_2.res 
+-r-xr-xr-x   1    0    0      57348 Apr 19 2006 [  98336 00] mission_2_lua.res 
+-r-xr-xr-x   1    0    0    5768764 Apr 11 2006 [  98368 00] mission_3.res 
+-r-xr-xr-x   1    0    0      71268 Apr 17 2006 [ 101200 00] mission_3_lua.res 
+-r-xr-xr-x   1    0    0    4998064 Apr 11 2006 [ 101248 00] mission_4.res 
+-r-xr-xr-x   1    0    0      71556 Apr 21 2006 [ 103696 00] mission_4_lua.res 
+-r-xr-xr-x   1    0    0    5759536 May  4 2006 [ 103744 00] mission_5.res 
+-r-xr-xr-x   1    0    0      91812 Apr 21 2006 [ 106560 00] mission_5_lua.res 
+-r-xr-xr-x   1    0    0    5847264 May 10 2006 [ 106608 00] mission_6.res 
+-r-xr-xr-x   1    0    0      79140 Apr  8 2006 [ 109472 00] mission_6_lua.res 
+-r-xr-xr-x   1    0    0    5830968 Apr 12 2006 [ 109520 00] mission_7.res 
+-r-xr-xr-x   1    0    0      71620 Apr 12 2006 [ 112368 00] mission_7_lua.res 
+-r-xr-xr-x   1    0    0    4578228 May  4 2006 [ 112416 00] mission_8.res 
+-r-xr-xr-x   1    0    0      58980 May  4 2006 [ 114656 00] mission_8_lua.res 
+-r-xr-xr-x   1    0    0    4742640 Apr 18 2006 [ 114688 00] mission_9.res 
+-r-xr-xr-x   1    0    0      49188 Apr 10 2006 [ 117008 00] mission_9_lua.res 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     84 02] test 
+-r-xr-xr-x   1    0    0    1229852 Apr  5 2006 [ 122000 00] treasure_1.res 
+-r-xr-xr-x   1    0    0      22020 Apr  4 2006 [ 122608 00] treasure_1_lua.res 
+-r-xr-xr-x   1    0    0    1689768 Apr  5 2006 [ 122624 00] treasure_2.res 
+-r-xr-xr-x   1    0    0      15652 Apr  3 2006 [ 123456 00] treasure_2_lua.res 
+-r-xr-xr-x   1    0    0    1390400 Apr  5 2006 [ 123472 00] treasure_3.res 
+-r-xr-xr-x   1    0    0      17348 Apr 12 2006 [ 124160 00] treasure_3_lua.res 
+-r-xr-xr-x   1    0    0    2449752 Apr 18 2006 [ 124176 00] treasure_4.res 
+-r-xr-xr-x   1    0    0      14788 Apr  3 2006 [ 125376 00] treasure_4_lua.res 
+-r-xr-xr-x   1    0    0    1806568 Apr  5 2006 [ 125392 00] treasure_5.res 
+-r-xr-xr-x   1    0    0      17220 Apr  3 2006 [ 126288 00] treasure_5_lua.res 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     85 02] xcutscenes 
+
+Directory listing of /PSP_GAME/USRDIR/loc/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     38 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 24 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0     224244 Apr 27 2006 [  35664 00] deu.res 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     86 02] deu 
+-r-xr-xr-x   1    0    0     218484 Apr 13 2006 [  44928 00] eng.res 
+-r-xr-xr-x   1    0    0     218484 Apr 13 2006 [  54192 00] english.res 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     87 02] english 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     88 02] eng 
+-r-xr-xr-x   1    0    0     222068 Apr 13 2006 [  63104 00] esl.res 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     89 02] esl 
+-r-xr-xr-x   1    0    0     218484 May 10 2006 [  71984 00] fra.res 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     90 02] fra 
+-r-xr-xr-x   1    0    0     221044 Apr 13 2006 [  81104 00] ita.res 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     91 02] ita 
+-r-xr-xr-x   1    0    0     226420 May  5 2006 [  90352 00] jpn.res 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     92 02] jpn 
+
+Directory listing of /PSP_GAME/USRDIR/module/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     39 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 24 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0      10128 Jan 17 2006 [  26672 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0      23488 Jan 17 2006 [  26688 00] libfont.prx 
+-r-xr-xr-x   1    0    0      20976 Jan 17 2006 [  26704 00] mpeg.prx 
+
+Directory listing of /PSP_GAME/USRDIR/movies/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     40 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 24 2006 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     93 02] logos 
+
+Directory listing of /PSP_GAME/USRDIR/pirate_actions/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     41 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 24 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0     129536 Apr  4 2006 [  21728 00] barrel.res 
+-r-xr-xr-x   1    0    0     162576 Mar 26 2006 [  21792 00] cannon.res 
+-r-xr-xr-x   1    0    0        728 Mar 25 2006 [  21872 00] climbing_rope.res 
+-r-xr-xr-x   1    0    0        664 Mar 25 2006 [  21888 00] fake_rope.res 
+-r-xr-xr-x   1    0    0     147860 Apr  3 2006 [  21904 00] powder_keg.res 
+-r-xr-xr-x   1    0    0     156588 Mar 25 2006 [  21984 00] push_crates.res 
+-r-xr-xr-x   1    0    0       1232 Mar 28 2006 [  22064 00] ripline.res 
+-r-xr-xr-x   1    0    0      36272 Mar 25 2006 [  22080 00] rope.res 
+-r-xr-xr-x   1    0    0      35548 Mar 25 2006 [  22112 00] rope_2.res 
+-r-xr-xr-x   1    0    0      68924 Mar 30 2006 [  22144 00] vendor_cart.res 
+
+Directory listing of /PSP_GAME/USRDIR/savegame/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     42 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 24 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0      20193 Jan  5 2006 [  21424 00] icon_mission_1.png 
+-r-xr-xr-x   1    0    0      23880 Feb 19 2006 [  21440 00] icon_mission_10.png 
+-r-xr-xr-x   1    0    0      25714 Jan  5 2006 [  21456 00] icon_mission_2.png 
+-r-xr-xr-x   1    0    0      19729 Jan  5 2006 [  21472 00] icon_mission_3.png 
+-r-xr-xr-x   1    0    0      20341 Jan  5 2006 [  21488 00] icon_mission_4.png 
+-r-xr-xr-x   1    0    0      19885 Jan  5 2006 [  21504 00] icon_mission_5.png 
+-r-xr-xr-x   1    0    0      19586 Jan  5 2006 [  21520 00] icon_mission_6.png 
+-r-xr-xr-x   1    0    0      19236 Jan  5 2006 [  21536 00] icon_mission_7.png 
+-r-xr-xr-x   1    0    0      24209 Feb 28 2006 [  21552 00] icon_mission_8.png 
+-r-xr-xr-x   1    0    0      24527 Feb 19 2006 [  21568 00] icon_mission_9.png 
+-r-xr-xr-x   1    0    0      20753 Jan  5 2006 [  21584 00] icon_treasure_1.png 
+-r-xr-xr-x   1    0    0      21425 Jan  5 2006 [  21600 00] icon_treasure_2.png 
+-r-xr-xr-x   1    0    0      21675 Jan  5 2006 [  21616 00] icon_treasure_3.png 
+-r-xr-xr-x   1    0    0      14323 Jan  5 2006 [  21632 00] icon_treasure_4.png 
+-r-xr-xr-x   1    0    0      21151 Jan  5 2006 [  21648 00] icon_treasure_5.png 
+-r-xr-xr-x   1    0    0      21141 Jan  5 2006 [  21408 00] iconempty.png 
+-r-xr-xr-x   1    0    0     125374 Apr  5 2006 [  21664 00] pic1.png 
+
+Directory listing of /PSP_GAME/USRDIR/triggers/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     43 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 24 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0     112176 Mar 25 2006 [  21344 00] pirate_action.res 
+
+Directory listing of /PSP_GAME/USRDIR/weapons/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     44 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 24 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0      53008 Mar 25 2006 [  20896 00] bottle.res 
+-r-xr-xr-x   1    0    0      13864 Mar 25 2006 [  20928 00] cannonball.res 
+-r-xr-xr-x   1    0    0      32964 Mar 25 2006 [  20944 00] js_dagger.res 
+-r-xr-xr-x   1    0    0      67192 Mar 25 2006 [  20976 00] js_grenade.res 
+-r-xr-xr-x   1    0    0      41136 Mar 25 2006 [  21024 00] js_hatchet.res 
+-r-xr-xr-x   1    0    0      11116 Mar 25 2006 [  21056 00] js_head_dress.res 
+-r-xr-xr-x   1    0    0      72616 Mar 25 2006 [  21072 00] js_molotov.res 
+-r-xr-xr-x   1    0    0      70840 Mar 27 2006 [  21120 00] js_pistol.res 
+-r-xr-xr-x   1    0    0       4236 Mar 25 2006 [  21168 00] js_stick.res 
+-r-xr-xr-x   1    0    0      12776 Mar 25 2006 [  21184 00] js_sword_base.res 
+-r-xr-xr-x   1    0    0       8332 Mar 25 2006 [  21200 00] js_toe_necklace.res 
+-r-xr-xr-x   1    0    0      70708 Apr  7 2006 [  21216 00] js_torch_base.res 
+-r-xr-xr-x   1    0    0      12780 Mar 25 2006 [  21264 00] peon_pistol.res 
+-r-xr-xr-x   1    0    0      47968 Mar 25 2006 [  21280 00] throw_chair.res 
+-r-xr-xr-x   1    0    0      48004 Mar 25 2006 [  21312 00] throw_stool.res 
+
+Directory listing of /PSP_GAME/USRDIR/MULTI/characters/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     45 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 24 2006 [     27 02] .. 
+-r-xr-xr-x   1    0    0     198160 May 10 2006 [ 205072 00] black_pearl.res 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     94 02] black_pearl 
+-r-xr-xr-x   1    0    0     120752 May 10 2006 [ 205184 00] flag_frontend.res 
+-r-xr-xr-x   1    0    0     171908 May 10 2006 [ 205248 00] flying_dutchman.res 
+-r-xr-xr-x   1    0    0      47440 May 10 2006 [ 205344 00] kraken.res 
+-r-xr-xr-x   1    0    0     158716 May 10 2006 [ 205376 00] ship_1_sloop.res 
+-r-xr-xr-x   1    0    0     195676 May 10 2006 [ 205456 00] ship_2_brigantine.res 
+-r-xr-xr-x   1    0    0     213852 May 10 2006 [ 205552 00] ship_3_fluyt.res 
+-r-xr-xr-x   1    0    0     203996 May 10 2006 [ 205664 00] ship_4_frigate.res 
+-r-xr-xr-x   1    0    0     208024 May 10 2006 [ 205776 00] ship_5_galleon.res 
+
+Directory listing of /PSP_GAME/USRDIR/MULTI/kmodule/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     46 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 24 2006 [     27 02] .. 
+-r-xr-xr-x   1    0    0       3264 Jan 16 2006 [ 205888 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0       5136 Jan 16 2006 [ 205904 00] mpegbase.prx 
+-r-xr-xr-x   1    0    0       6864 Jan 16 2006 [ 205920 00] sc_sascore.prx 
+-r-xr-xr-x   1    0    0       3440 Jan 16 2006 [ 205936 00] videocodec.prx 
+
+Directory listing of /PSP_GAME/USRDIR/MULTI/levels/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     47 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 24 2006 [     27 02] .. 
+-r-xr-xr-x   1    0    0     243872 May 10 2006 [ 205952 00] basic_level.res 
+-r-xr-xr-x   1    0    0       2100 May 10 2006 [ 206080 00] empty_level.res 
+-r-xr-xr-x   1    0    0     689232 May 10 2006 [ 206096 00] frontend.res 
+-r-xr-xr-x   1    0    0     865832 May 10 2006 [ 206448 00] map_1.res 
+-r-xr-xr-x   1    0    0     752960 May 10 2006 [ 206880 00] map_10.res 
+-r-xr-xr-x   1    0    0     684720 May 10 2006 [ 207248 00] map_2.res 
+-r-xr-xr-x   1    0    0     575952 May 10 2006 [ 207584 00] map_3.res 
+-r-xr-xr-x   1    0    0     595808 May 10 2006 [ 207872 00] map_4.res 
+-r-xr-xr-x   1    0    0     947596 May 10 2006 [ 208176 00] map_5.res 
+-r-xr-xr-x   1    0    0     743836 May 10 2006 [ 208640 00] map_6.res 
+-r-xr-xr-x   1    0    0     618992 May 10 2006 [ 209008 00] map_7.res 
+-r-xr-xr-x   1    0    0     800852 May 10 2006 [ 209312 00] map_8.res 
+-r-xr-xr-x   1    0    0     696372 May 10 2006 [ 209712 00] map_9.res 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     95 02] test 
+
+Directory listing of /PSP_GAME/USRDIR/MULTI/loc/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     48 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 24 2006 [     27 02] .. 
+-r-xr-xr-x   1    0    0    2261324 May 10 2006 [ 211792 00] deu.res 
+-r-xr-xr-x   1    0    0    2080204 May 10 2006 [ 212912 00] eng.res 
+-r-xr-xr-x   1    0    0    2116556 May 10 2006 [ 213936 00] esl.res 
+-r-xr-xr-x   1    0    0    2110796 May 10 2006 [ 214976 00] fra.res 
+-r-xr-xr-x   1    0    0    2243404 May 10 2006 [ 216016 00] ita.res 
+-r-xr-xr-x   1    0    0    2424268 May  5 2006 [ 217120 00] jpn.res 
+
+Directory listing of /PSP_GAME/USRDIR/MULTI/module/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     49 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 24 2006 [     27 02] .. 
+-r-xr-xr-x   1    0    0      10128 Jan 17 2006 [ 218304 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0      23488 Jan 17 2006 [ 218320 00] libfont.prx 
+-r-xr-xr-x   1    0    0      20976 Jan 17 2006 [ 218336 00] mpeg.prx 
+
+Directory listing of /PSP_GAME/USRDIR/MULTI/movies/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     50 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 24 2006 [     27 02] .. 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     96 02] logos 
+
+Directory listing of /PSP_GAME/USRDIR/MULTI/savegame/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     51 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 24 2006 [     27 02] .. 
+-r-xr-xr-x   1    0    0      20193 Jan 13 2006 [ 222848 00] icon_mission_1.png 
+-r-xr-xr-x   1    0    0      23880 Apr  3 2006 [ 222864 00] icon_mission_10.png 
+-r-xr-xr-x   1    0    0      25714 Jan 13 2006 [ 222880 00] icon_mission_2.png 
+-r-xr-xr-x   1    0    0      19729 Jan 13 2006 [ 222896 00] icon_mission_3.png 
+-r-xr-xr-x   1    0    0      20341 Jan 13 2006 [ 222912 00] icon_mission_4.png 
+-r-xr-xr-x   1    0    0      19885 Jan 13 2006 [ 222928 00] icon_mission_5.png 
+-r-xr-xr-x   1    0    0      19586 Jan 13 2006 [ 222944 00] icon_mission_6.png 
+-r-xr-xr-x   1    0    0      19236 Jan 13 2006 [ 222960 00] icon_mission_7.png 
+-r-xr-xr-x   1    0    0      24209 Apr  3 2006 [ 222976 00] icon_mission_8.png 
+-r-xr-xr-x   1    0    0      24527 Apr  3 2006 [ 222992 00] icon_mission_9.png 
+-r-xr-xr-x   1    0    0      20753 Jan 13 2006 [ 223008 00] icon_treasure_1.png 
+-r-xr-xr-x   1    0    0      21425 Jan 13 2006 [ 223024 00] icon_treasure_2.png 
+-r-xr-xr-x   1    0    0      21675 Jan 13 2006 [ 223040 00] icon_treasure_3.png 
+-r-xr-xr-x   1    0    0      14323 Jan 13 2006 [ 223056 00] icon_treasure_4.png 
+-r-xr-xr-x   1    0    0      21151 Jan 13 2006 [ 223072 00] icon_treasure_5.png 
+-r-xr-xr-x   1    0    0      21141 Jan 13 2006 [ 222832 00] iconempty.png 
+-r-xr-xr-x   1    0    0     125374 Apr  5 2006 [ 223088 00] pic1.png 
+
+Directory listing of /PSP_GAME/USRDIR/front_end/deu/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     52 02] . 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     31 02] .. 
+-r-xr-xr-x   1    0    0     402312 Mar 29 2006 [ 156512 00] legal_screen.tif 
+-r-xr-xr-x   1    0    0     403484 Mar 29 2006 [ 156720 00] select_multi.tif 
+-r-xr-xr-x   1    0    0     403448 Mar 29 2006 [ 156928 00] select_single.tif 
+
+Directory listing of /PSP_GAME/USRDIR/front_end/eng/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     53 02] . 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     31 02] .. 
+-r-xr-xr-x   1    0    0     402312 Mar 29 2006 [ 157136 00] legal_screen.tif 
+-r-xr-xr-x   1    0    0     403496 Mar 29 2006 [ 157344 00] select_multi.tif 
+-r-xr-xr-x   1    0    0     403476 Mar 29 2006 [ 157552 00] select_single.tif 
+
+Directory listing of /PSP_GAME/USRDIR/front_end/esl/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     54 02] . 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     31 02] .. 
+-r-xr-xr-x   1    0    0     402312 Mar 29 2006 [ 157760 00] legal_screen.tif 
+-r-xr-xr-x   1    0    0     403496 Mar 29 2006 [ 157968 00] select_multi.tif 
+-r-xr-xr-x   1    0    0     403440 Mar 29 2006 [ 158176 00] select_single.tif 
+
+Directory listing of /PSP_GAME/USRDIR/front_end/fra/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     55 02] . 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     31 02] .. 
+-r-xr-xr-x   1    0    0     402312 Mar 29 2006 [ 158384 00] legal_screen.tif 
+-r-xr-xr-x   1    0    0     403464 Mar 29 2006 [ 158592 00] select_multi.tif 
+-r-xr-xr-x   1    0    0     403416 Mar 29 2006 [ 158800 00] select_single.tif 
+
+Directory listing of /PSP_GAME/USRDIR/front_end/ita/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     56 02] . 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     31 02] .. 
+-r-xr-xr-x   1    0    0     402312 Mar 29 2006 [ 159008 00] legal_screen.tif 
+-r-xr-xr-x   1    0    0     403508 Mar 29 2006 [ 159216 00] select_multi.tif 
+-r-xr-xr-x   1    0    0     403468 Mar 29 2006 [ 159424 00] select_single.tif 
+
+Directory listing of /PSP_GAME/USRDIR/front_end/jpn/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     57 02] . 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     31 02] .. 
+-r-xr-xr-x   1    0    0     402312 Mar 29 2006 [ 159632 00] legal_screen.tif 
+-r-xr-xr-x   1    0    0     403488 Mar 31 2006 [ 159840 00] select_multi.tif 
+-r-xr-xr-x   1    0    0     403460 Mar 31 2006 [ 160048 00] select_single.tif 
+
+Directory listing of /PSP_GAME/USRDIR/fx/breakable/
+dr-xr-xr-x   1    0    0       4096 May 12 2006 [     58 02] . 
+dr-xr-xr-x   1    0    0       4096 May 12 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     142420 Apr 11 2006 [ 141744 00] fx_barrel_bottle_damage.res 
+-r-xr-xr-x   1    0    0      99092 Apr 11 2006 [ 141824 00] fx_barrel_damage.res 
+-r-xr-xr-x   1    0    0      18952 Mar 25 2006 [ 141888 00] fx_barrel_damage_0.res 
+-r-xr-xr-x   1    0    0      18352 Mar 25 2006 [ 141904 00] fx_barrel_damage_1.res 
+-r-xr-xr-x   1    0    0      22644 Mar 25 2006 [ 141920 00] fx_barrel_damage_2.res 
+-r-xr-xr-x   1    0    0      59680 Mar 28 2006 [ 141936 00] fx_barrel_damage_3.res 
+-r-xr-xr-x   1    0    0      18800 Mar 25 2006 [ 141968 00] fx_barrel_damage_4.res 
+-r-xr-xr-x   1    0    0     148360 Apr 11 2006 [ 141984 00] fx_barrel_fullhealth_damage.res 
+-r-xr-xr-x   1    0    0     140808 Apr 11 2006 [ 142064 00] fx_barrel_grenade_damage.res 
+-r-xr-xr-x   1    0    0     140808 Apr 11 2006 [ 142144 00] fx_barrel_hatchet_damage.res 
+-r-xr-xr-x   1    0    0     148840 Apr 11 2006 [ 142224 00] fx_barrel_health_damage.res 
+-r-xr-xr-x   1    0    0     142184 Apr 11 2006 [ 142304 00] fx_barrel_knives_damage.res 
+-r-xr-xr-x   1    0    0     143880 Apr 11 2006 [ 142384 00] fx_barrel_map_damage.res 
+-r-xr-xr-x   1    0    0     141208 Apr 11 2006 [ 142464 00] fx_barrel_molotov_damage.res 
+-r-xr-xr-x   1    0    0     152264 Apr 11 2006 [ 142544 00] fx_barrel_pistol2_damage.res 
+-r-xr-xr-x   1    0    0     149040 Apr 11 2006 [ 142624 00] fx_barrel_pistol_damage.res 
+-r-xr-xr-x   1    0    0     138988 Apr 11 2006 [ 142704 00] fx_crate_bottle_damage.res 
+-r-xr-xr-x   1    0    0      96024 Apr 11 2006 [ 142784 00] fx_crate_damage.res 
+-r-xr-xr-x   1    0    0       9360 Mar 25 2006 [ 142832 00] fx_crate_damage_0.res 
+-r-xr-xr-x   1    0    0       9196 Mar 25 2006 [ 142848 00] fx_crate_damage_1.res 
+-r-xr-xr-x   1    0    0      12152 Mar 25 2006 [ 142864 00] fx_crate_damage_2.res 
+-r-xr-xr-x   1    0    0      65956 Mar 28 2006 [ 142880 00] fx_crate_damage_3.res 
+-r-xr-xr-x   1    0    0      11320 Mar 25 2006 [ 142928 00] fx_crate_damage_4.res 
+-r-xr-xr-x   1    0    0     145292 Apr 11 2006 [ 142944 00] fx_crate_fullhealth_damage.res 
+-r-xr-xr-x   1    0    0     137740 Apr 11 2006 [ 143024 00] fx_crate_grenade_damage.res 
+-r-xr-xr-x   1    0    0     138252 Apr 11 2006 [ 143104 00] fx_crate_hatchet_damage.res 
+-r-xr-xr-x   1    0    0     145772 Apr 11 2006 [ 143184 00] fx_crate_health_damage.res 
+-r-xr-xr-x   1    0    0     139116 Apr 11 2006 [ 143264 00] fx_crate_knives_damage.res 
+-r-xr-xr-x   1    0    0     140972 Apr 11 2006 [ 143344 00] fx_crate_map_damage.res 
+-r-xr-xr-x   1    0    0     138140 Apr 11 2006 [ 143424 00] fx_crate_molotov_damage.res 
+-r-xr-xr-x   1    0    0     145836 Apr 11 2006 [ 143504 00] fx_crate_pistol_damage.res 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     97 02] sounds 
+
+Directory listing of /PSP_GAME/USRDIR/fx/cutscenes/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     60 02] . 
+dr-xr-xr-x   1    0    0       4096 May 12 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0      34856 Mar 25 2006 [ 143648 00] fx_bubbles.res 
+-r-xr-xr-x   1    0    0      14476 Mar 25 2006 [ 143680 00] fx_cs11_hat_ripple_01.res 
+-r-xr-xr-x   1    0    0       9180 Mar 25 2006 [ 143696 00] fx_cs11_ship_splash.res 
+-r-xr-xr-x   1    0    0      19196 Mar 25 2006 [ 143712 00] fx_cs11_tentacle_splash.res 
+-r-xr-xr-x   1    0    0      20968 Mar 28 2006 [ 143728 00] fx_cs15_coffinsplash.res 
+-r-xr-xr-x   1    0    0       9936 Mar 28 2006 [ 143744 00] fx_cs1_chest.res 
+-r-xr-xr-x   1    0    0      20588 Mar 28 2006 [ 143760 00] fx_cs1_key.res 
+-r-xr-xr-x   1    0    0      17112 Mar 24 2006 [ 143776 00] fx_cs2_bootstrap_ghost.res 
+-r-xr-xr-x   1    0    0      17540 Mar 25 2006 [ 143792 00] fx_cs2_windy_fog.res 
+-r-xr-xr-x   1    0    0       9896 Mar 25 2006 [ 143808 00] fx_cs6_low_fog.res 
+-r-xr-xr-x   1    0    0      12392 Mar 25 2006 [ 143824 00] fx_cs8_chest_poof.res 
+-r-xr-xr-x   1    0    0      14452 Mar 25 2006 [ 143840 00] fx_cs8_dirt_throw.res 
+-r-xr-xr-x   1    0    0       3236 Mar 28 2006 [ 143856 00] fx_cs9_dj_crew_drip.res 
+
+Directory listing of /PSP_GAME/USRDIR/fx/mission_10/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     61 02] . 
+dr-xr-xr-x   1    0    0       4096 May 12 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     562980 Mar 24 2006 [ 145312 00] fx_cargo_net_explosion_fx.res 
+-r-xr-xr-x   1    0    0       9180 Mar 31 2006 [ 145600 00] fx_cs11_ship_splash.res 
+-r-xr-xr-x   1    0    0      19196 Mar 31 2006 [ 145616 00] fx_cs11_tentacle_splash.res 
+-r-xr-xr-x   1    0    0      17032 Mar 24 2006 [ 145632 00] fx_rope_hit.res 
+-r-xr-xr-x   1    0    0     782928 Mar 25 2006 [ 145648 00] fx_swinging_sail.res 
+-r-xr-xr-x   1    0    0      65264 Mar 25 2006 [ 146032 00] fx_swinging_sail_2.res 
+-r-xr-xr-x   1    0    0       9404 Mar 25 2006 [ 146064 00] fx_water_splash_random.res 
+
+Directory listing of /PSP_GAME/USRDIR/fx/mission_1/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     62 02] . 
+dr-xr-xr-x   1    0    0       4096 May 12 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0      75712 Mar 28 2006 [ 144512 00] fx_cage_drop.res 
+-r-xr-xr-x   1    0    0       6808 Mar 28 2006 [ 144560 00] fx_cage_drop_particles.res 
+-r-xr-xr-x   1    0    0      35832 Mar 25 2006 [ 144576 00] fx_cave_drip_ring.res 
+-r-xr-xr-x   1    0    0      62416 Mar 25 2006 [ 144608 00] fx_coal_fire_pit.res 
+-r-xr-xr-x   1    0    0       9964 Mar 25 2006 [ 144640 00] fx_dirt_pile.res 
+-r-xr-xr-x   1    0    0      39912 Mar 26 2006 [ 144656 00] fx_door_1.res 
+-r-xr-xr-x   1    0    0       7576 Mar 25 2006 [ 144688 00] fx_dust_particles_1_cellar.res 
+-r-xr-xr-x   1    0    0     106860 Mar 28 2006 [ 144704 00] fx_explode_door.res 
+-r-xr-xr-x   1    0    0      12980 Mar 25 2006 [ 144768 00] fx_fake_keg.res 
+-r-xr-xr-x   1    0    0       3964 Mar 25 2006 [ 144784 00] fx_flies_large.res 
+-r-xr-xr-x   1    0    0       4028 Mar 25 2006 [ 144800 00] fx_flies_one_shot.res 
+-r-xr-xr-x   1    0    0       3836 Mar 25 2006 [ 144816 00] fx_flies_small.res 
+-r-xr-xr-x   1    0    0      10904 Mar 25 2006 [ 144832 00] fx_large_coal_pit_heat.res 
+-r-xr-xr-x   1    0    0      60524 Mar 25 2006 [ 144848 00] fx_lrgfire_high.res 
+-r-xr-xr-x   1    0    0      91776 Mar 25 2006 [ 144880 00] fx_m1_door.res 
+-r-xr-xr-x   1    0    0      95160 Mar 24 2006 [ 144928 00] fx_m1_doorwide.res 
+-r-xr-xr-x   1    0    0      56196 Mar 25 2006 [ 144976 00] fx_m1_metal_door.res 
+-r-xr-xr-x   1    0    0       1340 Mar 25 2006 [ 145008 00] fx_m1_plain_spawner.res 
+-r-xr-xr-x   1    0    0      43940 Apr  4 2006 [ 145024 00] fx_m1_platform.res 
+-r-xr-xr-x   1    0    0      30704 Mar 25 2006 [ 145056 00] fx_m1_spawner.res 
+-r-xr-xr-x   1    0    0     306128 Mar 25 2006 [ 145072 00] fx_pa_pile_fall.res 
+-r-xr-xr-x   1    0    0      86100 Apr  3 2006 [ 145232 00] fx_rotating_cage.res 
+-r-xr-xr-x   1    0    0       4068 Mar 25 2006 [ 145280 00] fx_stick_sword.res 
+-r-xr-xr-x   1    0    0      10512 Mar 25 2006 [ 145296 00] fx_torch_holder.res 
+
+Directory listing of /PSP_GAME/USRDIR/fx/mission_2/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     63 02] . 
+dr-xr-xr-x   1    0    0       4096 May 12 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0       6920 Mar 25 2006 [ 146080 00] fx_drop_spawn.res 
+-r-xr-xr-x   1    0    0       7568 Mar 25 2006 [ 146096 00] fx_drop_spawn4.res 
+-r-xr-xr-x   1    0    0      13536 Mar 25 2006 [ 146112 00] fx_hut.res 
+-r-xr-xr-x   1    0    0       8796 Mar 27 2006 [ 146128 00] fx_m2_blowdart.res 
+-r-xr-xr-x   1    0    0       8732 Mar 27 2006 [ 146144 00] fx_m2_blowdart2.res 
+-r-xr-xr-x   1    0    0       8444 Mar 27 2006 [ 146160 00] fx_m2_blowdart3.res 
+-r-xr-xr-x   1    0    0       8764 Mar 27 2006 [ 146176 00] fx_m2_blowdart4.res 
+-r-xr-xr-x   1    0    0      51552 Apr  5 2006 [ 146192 00] fx_m2_door.res 
+-r-xr-xr-x   1    0    0      40096 Apr  5 2006 [ 146224 00] fx_m2_door2.res 
+-r-xr-xr-x   1    0    0      42944 Apr  5 2006 [ 146256 00] fx_m2_door3.res 
+-r-xr-xr-x   1    0    0      66852 Mar 25 2006 [ 146320 00] fx_m2_door_puz1.res 
+-r-xr-xr-x   1    0    0      65692 Mar 25 2006 [ 146368 00] fx_m2_door_puz2.res 
+-r-xr-xr-x   1    0    0      65212 Mar 28 2006 [ 146416 00] fx_m2_door_puz3.res 
+-r-xr-xr-x   1    0    0      43384 Apr  5 2006 [ 146288 00] fx_m2_doorwide.res 
+-r-xr-xr-x   1    0    0     107364 Mar 25 2006 [ 146448 00] fx_m2_floorswitch.res 
+-r-xr-xr-x   1    0    0      34400 Mar 25 2006 [ 146512 00] fx_m2_floorswitch2.res 
+-r-xr-xr-x   1    0    0      34400 Mar 25 2006 [ 146544 00] fx_m2_floorswitch3.res 
+-r-xr-xr-x   1    0    0     481672 Apr  7 2006 [ 146576 00] fx_m2_floorswitch4.res 
+-r-xr-xr-x   1    0    0      74068 Mar 25 2006 [ 146816 00] fx_m2_hammer.res 
+-r-xr-xr-x   1    0    0     190848 Apr  3 2006 [ 146864 00] fx_m2_skull_trigger.res 
+
+Directory listing of /PSP_GAME/USRDIR/fx/mission_3/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     64 02] . 
+dr-xr-xr-x   1    0    0       4096 May 12 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     353120 Apr  4 2006 [ 146960 00] fx_bone_cage_w_rocks.res 
+-r-xr-xr-x   1    0    0      44484 Mar 31 2006 [ 147136 00] fx_boulder.res 
+-r-xr-xr-x   1    0    0     343972 Apr  2 2006 [ 147168 00] fx_cave_teeth_explode.res 
+-r-xr-xr-x   1    0    0       8932 Mar 31 2006 [ 147344 00] fx_jcann_texture_swap.res 
+-r-xr-xr-x   1    0    0       8540 Apr  2 2006 [ 147360 00] fx_m3_blowdart.res 
+-r-xr-xr-x   1    0    0       7312 Mar 30 2006 [ 147376 00] jcannibal_texture.tif.res 
+
+Directory listing of /PSP_GAME/USRDIR/fx/mission_4/
+dr-xr-xr-x   1    0    0       4096 May 12 2006 [     65 02] . 
+dr-xr-xr-x   1    0    0       4096 May 12 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0      34048 Mar 25 2006 [ 147392 00] fx_barn_beam.res 
+-r-xr-xr-x   1    0    0      53564 Mar 25 2006 [ 147424 00] fx_barn_create.res 
+-r-xr-xr-x   1    0    0     159180 Mar 30 2006 [ 147456 00] fx_barn_shutter.res 
+-r-xr-xr-x   1    0    0     159180 Mar 30 2006 [ 147536 00] fx_barn_shutter2.res 
+-r-xr-xr-x   1    0    0      74108 Apr  3 2006 [ 147616 00] fx_barn_shutter_rattle.res 
+-r-xr-xr-x   1    0    0      41288 Mar 25 2006 [ 147664 00] fx_barn_spawn_door.res 
+-r-xr-xr-x   1    0    0     164564 Mar 25 2006 [ 147696 00] fx_barn_switch.res 
+-r-xr-xr-x   1    0    0     115840 Mar 25 2006 [ 147792 00] fx_barn_teleport_icon.res 
+-r-xr-xr-x   1    0    0     117252 Mar 25 2006 [ 147856 00] fx_barn_teleport_icon_reuse.res 
+-r-xr-xr-x   1    0    0      40856 Mar 25 2006 [ 147920 00] fx_barn_zombie_door.res 
+-r-xr-xr-x   1    0    0      30732 Mar 25 2006 [ 147952 00] fx_barn_zombie_door_smash.res 
+-r-xr-xr-x   1    0    0     115840 Mar 25 2006 [ 147968 00] fx_cut_down_icon.res 
+-r-xr-xr-x   1    0    0      17728 Mar 25 2006 [ 148032 00] fx_fire_pit_idle.res 
+-r-xr-xr-x   1    0    0       9684 Mar 28 2006 [ 148048 00] fx_fire_pit_large_burst.res 
+-r-xr-xr-x   1    0    0       9588 Mar 28 2006 [ 148064 00] fx_fire_pit_small_burst.res 
+-r-xr-xr-x   1    0    0       8612 Mar 25 2006 [ 148080 00] fx_grave_mound.res 
+-r-xr-xr-x   1    0    0     115248 Mar 25 2006 [ 148096 00] fx_icon.res 
+-r-xr-xr-x   1    0    0     114176 Apr  2 2006 [ 148160 00] fx_icon2.res 
+-r-xr-xr-x   1    0    0       1264 Mar 25 2006 [ 148224 00] fx_m4_rail_spawn.res 
+-r-xr-xr-x   1    0    0       1536 Apr  5 2006 [ 148240 00] fx_m4_rail_spawn2.res 
+-r-xr-xr-x   1    0    0      64732 Mar 25 2006 [ 148256 00] fx_outhouse.res 
+-r-xr-xr-x   1    0    0      65736 Mar 25 2006 [ 148288 00] fx_outhouse_spawn.res 
+-r-xr-xr-x   1    0    0     115840 Mar 25 2006 [ 148336 00] fx_pull_down_icon.res 
+-r-xr-xr-x   1    0    0     115840 Mar 25 2006 [ 148400 00] fx_pull_lever_icon.res 
+-r-xr-xr-x   1    0    0      45116 Mar 25 2006 [ 148464 00] fx_smash_spawner.res 
+-r-xr-xr-x   1    0    0      24392 Mar 25 2006 [ 148496 00] fx_stairs.res 
+-r-xr-xr-x   1    0    0      19216 Mar 25 2006 [ 148512 00] fx_tomb_stone_explode_1.res 
+-r-xr-xr-x   1    0    0      13152 Mar 25 2006 [ 148528 00] fx_tomb_stone_explode_2.res 
+-r-xr-xr-x   1    0    0      36268 Mar 25 2006 [ 148544 00] fx_trap_door.res 
+-r-xr-xr-x   1    0    0      42560 Mar 25 2006 [ 148576 00] fx_trap_door_break.res 
+
+Directory listing of /PSP_GAME/USRDIR/fx/mission_5/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     67 02] . 
+dr-xr-xr-x   1    0    0       4096 May 12 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0      15984 Mar 25 2006 [ 148608 00] fx_ally_spawn.res 
+-r-xr-xr-x   1    0    0      54252 Apr  7 2006 [ 148624 00] fx_breakaway_floor.res 
+-r-xr-xr-x   1    0    0      30812 Mar 25 2006 [ 148656 00] fx_breakaway_floor_lit.res 
+-r-xr-xr-x   1    0    0      34740 Apr 17 2006 [ 148672 00] fx_coffin_door.res 
+-r-xr-xr-x   1    0    0      60584 Mar 27 2006 [ 148704 00] fx_coffin_door2.res 
+-r-xr-xr-x   1    0    0     173020 Mar 25 2006 [ 148736 00] fx_coffin_number_puzzle_1.res 
+-r-xr-xr-x   1    0    0     173028 Mar 25 2006 [ 148832 00] fx_coffin_number_puzzle_2.res 
+-r-xr-xr-x   1    0    0     173020 Mar 25 2006 [ 148928 00] fx_coffin_number_puzzle_3.res 
+-r-xr-xr-x   1    0    0     173020 Mar 25 2006 [ 149024 00] fx_coffin_number_puzzle_4.res 
+-r-xr-xr-x   1    0    0     173020 Mar 25 2006 [ 149120 00] fx_coffin_number_puzzle_5.res 
+-r-xr-xr-x   1    0    0      62532 Mar 25 2006 [ 149216 00] fx_drawbridge.res 
+-r-xr-xr-x   1    0    0      39448 Mar 28 2006 [ 149248 00] fx_m5_boards.res 
+-r-xr-xr-x   1    0    0      39552 Mar 25 2006 [ 149280 00] fx_m5_boards_hit.res 
+-r-xr-xr-x   1    0    0     177744 Apr  3 2006 [ 149312 00] fx_m5_corpse.res 
+-r-xr-xr-x   1    0    0     147716 Mar 25 2006 [ 149408 00] fx_m5_corpse_2.res 
+-r-xr-xr-x   1    0    0      50664 Apr  2 2006 [ 149488 00] fx_m5_door.res 
+-r-xr-xr-x   1    0    0      50392 Apr  2 2006 [ 149520 00] fx_m5_door_2.res 
+-r-xr-xr-x   1    0    0      50664 Apr  2 2006 [ 149552 00] fx_m5_door_3.res 
+-r-xr-xr-x   1    0    0      58124 Mar 25 2006 [ 149584 00] fx_m5_gate.res 
+-r-xr-xr-x   1    0    0     179852 Apr  3 2006 [ 149616 00] fx_oak_tree.res 
+-r-xr-xr-x   1    0    0      69896 Mar 28 2006 [ 149712 00] fx_opening_gate.res 
+-r-xr-xr-x   1    0    0      22324 Mar 25 2006 [ 149760 00] fx_switch.res 
+-r-xr-xr-x   1    0    0      54828 Apr  2 2006 [ 149776 00] fx_zombie_cove_1.res 
+-r-xr-xr-x   1    0    0      59628 Apr  2 2006 [ 149808 00] fx_zombie_cove_2.res 
+-r-xr-xr-x   1    0    0      57784 Apr  2 2006 [ 149840 00] fx_zombie_cove_3.res 
+-r-xr-xr-x   1    0    0      52476 Apr  2 2006 [ 149872 00] fx_zombie_cove_4.res 
+
+Directory listing of /PSP_GAME/USRDIR/fx/mission_6/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     68 02] . 
+dr-xr-xr-x   1    0    0       4096 May 12 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     113644 Apr  4 2006 [ 149904 00] fx_boom.res 
+-r-xr-xr-x   1    0    0      82912 Mar 25 2006 [ 149968 00] fx_cannon.res 
+-r-xr-xr-x   1    0    0      33832 Mar 24 2006 [ 150016 00] fx_cannon_fire.res 
+-r-xr-xr-x   1    0    0     438476 Apr  4 2006 [ 150048 00] fx_cargo_net_drop.res 
+-r-xr-xr-x   1    0    0        856 Mar 25 2006 [ 150272 00] fx_m7_spawn_ground.res 
+-r-xr-xr-x   1    0    0       1544 Mar 25 2006 [ 150288 00] fx_m7_spawn_hole.res 
+-r-xr-xr-x   1    0    0     128416 Mar 25 2006 [ 150304 00] fx_m7_spawn_window.res 
+-r-xr-xr-x   1    0    0     122428 Mar 28 2006 [ 150368 00] fx_ship_piece_explode_1.res 
+-r-xr-xr-x   1    0    0     132860 Mar 24 2006 [ 150432 00] fx_ship_piece_explode_2.res 
+-r-xr-xr-x   1    0    0     134268 Mar 28 2006 [ 150512 00] fx_ship_piece_explode_3.res 
+
+Directory listing of /PSP_GAME/USRDIR/fx/mission_7/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     69 02] . 
+dr-xr-xr-x   1    0    0       4096 May 12 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0      52544 Apr  4 2006 [ 150592 00] fx_bar_door.res 
+-r-xr-xr-x   1    0    0      31192 Mar 25 2006 [ 150624 00] fx_canon.res 
+-r-xr-xr-x   1    0    0       8748 Mar 25 2006 [ 150656 00] fx_canon_ball.res 
+-r-xr-xr-x   1    0    0      28256 Mar 25 2006 [ 150672 00] fx_canon_door.res 
+-r-xr-xr-x   1    0    0      17480 Mar 25 2006 [ 150688 00] fx_canon_door_1.res 
+-r-xr-xr-x   1    0    0      53476 Apr  3 2006 [ 150704 00] fx_canon_door_2.res 
+-r-xr-xr-x   1    0    0      77184 Apr  4 2006 [ 150736 00] fx_canon_door_3.res 
+-r-xr-xr-x   1    0    0      62264 Apr  4 2006 [ 150784 00] fx_canon_wall.res 
+-r-xr-xr-x   1    0    0      20408 Mar 26 2006 [ 150640 00] fx_canonball_stack.res 
+-r-xr-xr-x   1    0    0      23552 Mar 25 2006 [ 150816 00] fx_m7_barrelstack.res 
+-r-xr-xr-x   1    0    0      28664 Apr  4 2006 [ 150832 00] fx_m7_door.res 
+-r-xr-xr-x   1    0    0     120020 Mar 24 2006 [ 150848 00] fx_m7_door_explode.res 
+-r-xr-xr-x   1    0    0     298984 Apr  4 2006 [ 150912 00] fx_m7_rope_chandalier.res 
+-r-xr-xr-x   1    0    0      29036 Mar 25 2006 [ 151072 00] fx_m7_self_spawn.res 
+-r-xr-xr-x   1    0    0      32692 Apr  4 2006 [ 151088 00] fx_m7_self_spawn2.res 
+-r-xr-xr-x   1    0    0      41024 Apr  4 2006 [ 151104 00] fx_m7_spawn.res 
+-r-xr-xr-x   1    0    0      23228 Mar 25 2006 [ 151136 00] fx_pillar_rope.res 
+
+Directory listing of /PSP_GAME/USRDIR/fx/mission_8/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     70 02] . 
+dr-xr-xr-x   1    0    0       4096 May 12 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     216808 Mar 30 2006 [ 151152 00] fx_box_pile.res 
+-r-xr-xr-x   1    0    0      78748 Apr  3 2006 [ 151264 00] fx_bridge.res 
+-r-xr-xr-x   1    0    0      59520 Mar 28 2006 [ 151312 00] fx_door.res 
+-r-xr-xr-x   1    0    0      60956 Mar 28 2006 [ 151344 00] fx_door2.res 
+-r-xr-xr-x   1    0    0     239372 Mar 30 2006 [ 151376 00] fx_door2_explode.res 
+-r-xr-xr-x   1    0    0     216044 Mar 30 2006 [ 151504 00] fx_door2_mill_explode.res 
+-r-xr-xr-x   1    0    0     147476 Mar 30 2006 [ 151616 00] fx_falling_floor.res 
+-r-xr-xr-x   1    0    0        888 Mar 27 2006 [ 151696 00] fx_setruntonextspot.res 
+
+Directory listing of /PSP_GAME/USRDIR/fx/mission_9/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     71 02] . 
+dr-xr-xr-x   1    0    0       4096 May 12 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     268940 Apr  3 2006 [ 151712 00] fx_log_explode.res 
+-r-xr-xr-x   1    0    0      23396 Mar 26 2006 [ 151856 00] fx_ropetrigger.res 
+-r-xr-xr-x   1    0    0       8256 Mar 25 2006 [ 151872 00] fx_spawn_drop_2.res 
+-r-xr-xr-x   1    0    0     226772 Apr  6 2006 [ 151888 00] fx_swinging_hammer.res 
+
+Directory listing of /PSP_GAME/USRDIR/fx/pickups/
+dr-xr-xr-x   1    0    0       4096 May 12 2006 [     72 02] . 
+dr-xr-xr-x   1    0    0       4096 May 12 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0      41996 Apr  5 2006 [ 152000 00] fx_bottle.res 
+-r-xr-xr-x   1    0    0       5316 Mar 28 2006 [ 152032 00] fx_bottle_active.res 
+-r-xr-xr-x   1    0    0      21108 Mar 25 2006 [ 152048 00] fx_bottle_idle.res 
+-r-xr-xr-x   1    0    0      48428 Apr  5 2006 [ 152064 00] fx_full_health.res 
+-r-xr-xr-x   1    0    0       5316 Mar 28 2006 [ 152096 00] fx_full_health_active.res 
+-r-xr-xr-x   1    0    0      27380 Mar 25 2006 [ 152112 00] fx_full_health_idle.res 
+-r-xr-xr-x   1    0    0      40716 Apr  5 2006 [ 152128 00] fx_grenade.res 
+-r-xr-xr-x   1    0    0       5316 Mar 28 2006 [ 152160 00] fx_grenade_active.res 
+-r-xr-xr-x   1    0    0      19796 Mar 25 2006 [ 152176 00] fx_grenade_idle.res 
+-r-xr-xr-x   1    0    0      42288 Apr  5 2006 [ 152192 00] fx_grenade_reuse.res 
+-r-xr-xr-x   1    0    0      41228 Apr  5 2006 [ 152224 00] fx_hatchet.res 
+-r-xr-xr-x   1    0    0       5316 Mar 28 2006 [ 152256 00] fx_hatchet_active.res 
+-r-xr-xr-x   1    0    0      20308 Mar 25 2006 [ 152272 00] fx_hatchet_idle.res 
+-r-xr-xr-x   1    0    0      48780 Apr  5 2006 [ 152288 00] fx_health.res 
+-r-xr-xr-x   1    0    0       5316 Mar 28 2006 [ 152320 00] fx_health_active.res 
+-r-xr-xr-x   1    0    0      27860 Mar 25 2006 [ 152336 00] fx_health_idle.res 
+-r-xr-xr-x   1    0    0      42124 Apr  5 2006 [ 152352 00] fx_knives.res 
+-r-xr-xr-x   1    0    0       5316 Mar 28 2006 [ 152384 00] fx_knives_active.res 
+-r-xr-xr-x   1    0    0      21204 Mar 25 2006 [ 152400 00] fx_knives_idle.res 
+-r-xr-xr-x   1    0    0      47780 Apr  5 2006 [ 152416 00] fx_kraken.res 
+-r-xr-xr-x   1    0    0       5316 Mar 28 2006 [ 152448 00] fx_kraken_active.res 
+-r-xr-xr-x   1    0    0      26860 Mar 25 2006 [ 152464 00] fx_kraken_idle.res 
+-r-xr-xr-x   1    0    0      43916 Apr  7 2006 [ 152480 00] fx_map.res 
+-r-xr-xr-x   1    0    0       5316 Mar 28 2006 [ 152512 00] fx_map_active.res 
+-r-xr-xr-x   1    0    0       6452 Mar 25 2006 [ 152528 00] fx_map_ghost.res 
+-r-xr-xr-x   1    0    0      23220 Mar 25 2006 [ 152544 00] fx_map_idle.res 
+-r-xr-xr-x   1    0    0      41148 Apr  5 2006 [ 152560 00] fx_molotov.res 
+-r-xr-xr-x   1    0    0       5316 Mar 28 2006 [ 152592 00] fx_molotov_active.res 
+-r-xr-xr-x   1    0    0      20228 Mar 25 2006 [ 152608 00] fx_molotov_idle.res 
+-r-xr-xr-x   1    0    0       4552 Mar 28 2006 [ 152624 00] fx_pickup_burst_fx.res 
+-r-xr-xr-x   1    0    0      16204 Mar 25 2006 [ 152640 00] fx_pickup_fx.res 
+-r-xr-xr-x   1    0    0      48972 Apr  5 2006 [ 152656 00] fx_pistol.res 
+-r-xr-xr-x   1    0    0       5316 Mar 28 2006 [ 152688 00] fx_pistol_active.res 
+-r-xr-xr-x   1    0    0      52204 Apr  5 2006 [ 152704 00] fx_pistol_double.res 
+-r-xr-xr-x   1    0    0       5316 Mar 28 2006 [ 152736 00] fx_pistol_double_active.res 
+-r-xr-xr-x   1    0    0      31188 Mar 25 2006 [ 152752 00] fx_pistol_double_idle.res 
+-r-xr-xr-x   1    0    0      28020 Mar 25 2006 [ 152768 00] fx_pistol_idle.res 
+-r-xr-xr-x   1    0    0      42116 Apr  5 2006 [ 152784 00] fx_stick.res 
+-r-xr-xr-x   1    0    0       5316 Mar 28 2006 [ 152816 00] fx_stick_active.res 
+-r-xr-xr-x   1    0    0      21100 Mar 25 2006 [ 152832 00] fx_stick_idle.res 
+-r-xr-xr-x   1    0    0      49488 Apr  5 2006 [ 152848 00] fx_sword.res 
+-r-xr-xr-x   1    0    0       5316 Mar 28 2006 [ 152880 00] fx_sword_active.res 
+-r-xr-xr-x   1    0    0      28336 Mar 25 2006 [ 152896 00] fx_sword_idle.res 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     98 02] sounds 
+
+Directory listing of /PSP_GAME/USRDIR/fx/pirateactions/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     74 02] . 
+dr-xr-xr-x   1    0    0       4096 May 12 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0      62120 Mar 25 2006 [ 152928 00] fx_cannon_fire.res 
+-r-xr-xr-x   1    0    0      34248 Mar 25 2006 [ 152960 00] fx_cannon_fire_repeat.res 
+-r-xr-xr-x   1    0    0       7236 Mar 25 2006 [ 152992 00] fx_powder_keg_fuse_burn.res 
+-r-xr-xr-x   1    0    0       3196 Mar 25 2006 [ 153008 00] fx_pulley_section.res 
+-r-xr-xr-x   1    0    0       8492 Mar 25 2006 [ 153024 00] fx_temp_rope.res 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     99 02] sounds 
+
+Directory listing of /PSP_GAME/USRDIR/fx/sounds/
+dr-xr-xr-x   1    0    0       6144 May 12 2006 [     75 02] . 
+dr-xr-xr-x   1    0    0       4096 May 12 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0      25200 Mar 25 2006 [ 153056 00] fire_spout_loop.res 
+-r-xr-xr-x   1    0    0       6032 Mar 25 2006 [ 153072 00] fire_spout_poof.res 
+-r-xr-xr-x   1    0    0      71568 Mar 25 2006 [ 153088 00] m10_cargo_explode.res 
+-r-xr-xr-x   1    0    0      47792 Mar 25 2006 [ 153136 00] m10_cargo_swing_1.res 
+-r-xr-xr-x   1    0    0      15440 Mar 25 2006 [ 153168 00] m1_bar_door_1_closed.res 
+-r-xr-xr-x   1    0    0      13968 Mar 25 2006 [ 153184 00] m1_bar_door_1_open.res 
+-r-xr-xr-x   1    0    0      37200 Mar 31 2006 [ 153200 00] m1_cage_turn.res 
+-r-xr-xr-x   1    0    0      37264 Mar 25 2006 [ 153232 00] m1_dirt_kick.res 
+-r-xr-xr-x   1    0    0      15120 Mar 25 2006 [ 153264 00] m1_door_1_closed.res 
+-r-xr-xr-x   1    0    0      11696 Mar 25 2006 [ 153280 00] m1_door_1_open.res 
+-r-xr-xr-x   1    0    0      23792 Mar 25 2006 [ 153296 00] m1_door_wide.res 
+-r-xr-xr-x   1    0    0      35248 Mar 25 2006 [ 153312 00] m1_explode_door.res 
+-r-xr-xr-x   1    0    0      43440 Mar 25 2006 [ 153344 00] m1_start_break_wood.res 
+-r-xr-xr-x   1    0    0      45744 Mar 25 2006 [ 153376 00] m2_bone_cage.res 
+-r-xr-xr-x   1    0    0      25232 Mar 25 2006 [ 153408 00] m2_door_1.res 
+-r-xr-xr-x   1    0    0       6992 Mar 25 2006 [ 153424 00] m2_floor_switch_1.res 
+-r-xr-xr-x   1    0    0      20208 Mar 25 2006 [ 153440 00] m2_floor_switch_baffle_1.res 
+-r-xr-xr-x   1    0    0      20816 Mar 25 2006 [ 153456 00] m2_skull_trigger.res 
+-r-xr-xr-x   1    0    0      15152 Mar 25 2006 [ 153472 00] m2_swinging_wood.res 
+-r-xr-xr-x   1    0    0      16752 Mar 25 2006 [ 153488 00] m2_swinging_wood_creak_down.res 
+-r-xr-xr-x   1    0    0      18608 Mar 25 2006 [ 153504 00] m2_swinging_wood_creak_up.res 
+-r-xr-xr-x   1    0    0      27600 Mar 25 2006 [ 153520 00] m3_boulder.res 
+-r-xr-xr-x   1    0    0      62832 Mar 25 2006 [ 153536 00] m3_cave_teeth_explode.res 
+-r-xr-xr-x   1    0    0      15120 Mar 25 2006 [ 153568 00] m4_beam_break.res 
+-r-xr-xr-x   1    0    0      20944 Mar 25 2006 [ 153584 00] m4_crate_platform_lower.res 
+-r-xr-xr-x   1    0    0      26768 Mar 25 2006 [ 153600 00] m4_door_fall.res 
+-r-xr-xr-x   1    0    0      12528 Mar 25 2006 [ 153616 00] m4_door_smash.res 
+-r-xr-xr-x   1    0    0       2800 Mar 25 2006 [ 153632 00] m4_drip_1.res 
+-r-xr-xr-x   1    0    0       3056 Mar 25 2006 [ 153648 00] m4_drip_2.res 
+-r-xr-xr-x   1    0    0       2352 Mar 25 2006 [ 153664 00] m4_drip_3.res 
+-r-xr-xr-x   1    0    0       3504 Mar 25 2006 [ 153680 00] m4_latch_close.res 
+-r-xr-xr-x   1    0    0      45008 Mar 25 2006 [ 153696 00] m4_shutter_banging_loop.res 
+-r-xr-xr-x   1    0    0       6096 Mar 25 2006 [ 153728 00] m4_shutter_slam2.res 
+-r-xr-xr-x   1    0    0      18288 Mar 25 2006 [ 153744 00] m4_switch_1.res 
+-r-xr-xr-x   1    0    0      13136 Mar 25 2006 [ 153760 00] m4_trap_door_fall.res 
+-r-xr-xr-x   1    0    0      14512 Mar 25 2006 [ 153776 00] m4_trap_door_open.res 
+-r-xr-xr-x   1    0    0      10384 Mar 25 2006 [ 153792 00] m5_alley_spawn.res 
+-r-xr-xr-x   1    0    0      15344 Mar 25 2006 [ 153808 00] m5_boards_break.res 
+-r-xr-xr-x   1    0    0      23280 Mar 25 2006 [ 153824 00] m5_breakaway_floor.res 
+-r-xr-xr-x   1    0    0      25584 Mar 25 2006 [ 153840 00] m5_coffin_door.res 
+-r-xr-xr-x   1    0    0      25392 Mar 27 2006 [ 153856 00] m5_coffin_door_close.res 
+-r-xr-xr-x   1    0    0       8112 Mar 25 2006 [ 153872 00] m5_coffin_puzzle_1_close.res 
+-r-xr-xr-x   1    0    0       8560 Apr  3 2006 [ 153888 00] m5_coffin_puzzle_1_open.res 
+-r-xr-xr-x   1    0    0      28464 Apr  3 2006 [ 153904 00] m5_corpse_pull.res 
+-r-xr-xr-x   1    0    0      25584 Apr  2 2006 [ 153920 00] m5_door_3.res 
+-r-xr-xr-x   1    0    0      36688 Mar 25 2006 [ 153936 00] m5_drawbridge.res 
+-r-xr-xr-x   1    0    0      20880 Mar 25 2006 [ 153968 00] m5_gate.res 
+-r-xr-xr-x   1    0    0      27312 Mar 25 2006 [ 153984 00] m5_opening_gate.res 
+-r-xr-xr-x   1    0    0      11600 Mar 25 2006 [ 154000 00] m5_switch.res 
+-r-xr-xr-x   1    0    0      18928 Apr  2 2006 [ 154016 00] m5_zombie_cove_1.res 
+-r-xr-xr-x   1    0    0       8368 Apr  2 2006 [ 154032 00] m5_zombie_cove_1_end.res 
+-r-xr-xr-x   1    0    0      20432 Apr  2 2006 [ 154048 00] m5_zombie_cove_2.res 
+-r-xr-xr-x   1    0    0      10320 Apr  2 2006 [ 154064 00] m5_zombie_cove_2_end.res 
+-r-xr-xr-x   1    0    0      20080 Apr  2 2006 [ 154080 00] m5_zombie_cove_3.res 
+-r-xr-xr-x   1    0    0       8464 Apr  2 2006 [ 154096 00] m5_zombie_cove_3_end.res 
+-r-xr-xr-x   1    0    0      19664 Apr  2 2006 [ 154112 00] m5_zombie_cove_4.res 
+-r-xr-xr-x   1    0    0       8336 Apr  2 2006 [ 154128 00] m5_zombie_cove_4_end.res 
+-r-xr-xr-x   1    0    0      43408 Mar 25 2006 [ 154144 00] m6_break_boom.res 
+-r-xr-xr-x   1    0    0      26576 Mar 25 2006 [ 154176 00] m6_cannon_hit_ship_1.res 
+-r-xr-xr-x   1    0    0      37008 Mar 25 2006 [ 154192 00] m6_cannon_hit_ship_2.res 
+-r-xr-xr-x   1    0    0      38416 Mar 25 2006 [ 154224 00] m6_cannon_hit_ship_3.res 
+-r-xr-xr-x   1    0    0      16368 Mar 25 2006 [ 154256 00] m6_cannon_shoot.res 
+-r-xr-xr-x   1    0    0      22000 Mar 25 2006 [ 154272 00] m6_cargo_explode.res 
+-r-xr-xr-x   1    0    0      37264 Apr  3 2006 [ 154288 00] m6_platform_land_01.res 
+-r-xr-xr-x   1    0    0      17424 Mar 25 2006 [ 154320 00] m6_platform_land_wood_1.res 
+-r-xr-xr-x   1    0    0      24048 Apr  4 2006 [ 154336 00] m7_bar_door.res 
+-r-xr-xr-x   1    0    0      21936 Apr  4 2006 [ 154352 00] m7_cannon_wall.res 
+-r-xr-xr-x   1    0    0      49424 Apr  4 2006 [ 154368 00] m7_chandalier_fall.res 
+-r-xr-xr-x   1    0    0      20560 Apr  3 2006 [ 154400 00] m7_door_cannon_1.res 
+-r-xr-xr-x   1    0    0      14096 Apr  4 2006 [ 154416 00] m7_door_cannon_2.res 
+-r-xr-xr-x   1    0    0       8176 Apr  4 2006 [ 154432 00] m7_door_close_1.res 
+-r-xr-xr-x   1    0    0      20176 Apr  4 2006 [ 154448 00] m7_door_open_1.res 
+-r-xr-xr-x   1    0    0      31504 Mar 25 2006 [ 154464 00] m8_bridge_turn1.res 
+-r-xr-xr-x   1    0    0      10800 Mar 25 2006 [ 154480 00] m8_door1_close.res 
+-r-xr-xr-x   1    0    0      19312 Mar 25 2006 [ 154496 00] m8_door1_open.res 
+-r-xr-xr-x   1    0    0      31088 Mar 25 2006 [ 154512 00] m8_door2_explode.res 
+-r-xr-xr-x   1    0    0       9552 Mar 25 2006 [ 154528 00] m8_door_closed.res 
+-r-xr-xr-x   1    0    0     105104 Mar 25 2006 [ 154544 00] m8_falling_floor.res 
+-r-xr-xr-x   1    0    0     119344 Apr  2 2006 [ 154608 00] m9_log_explode.res 
+-r-xr-xr-x   1    0    0      16752 Mar 25 2006 [ 154672 00] m9_swinging_wood_creak_down.res 
+-r-xr-xr-x   1    0    0      18608 Mar 25 2006 [ 154688 00] m9_swinging_wood_creak_up.res 
+-r-xr-xr-x   1    0    0      26000 Mar 25 2006 [ 154704 00] torch_small_1.res 
+-r-xr-xr-x   1    0    0      16560 Mar 25 2006 [ 154720 00] tr_1_spawn_door.res 
+
+Directory listing of /PSP_GAME/USRDIR/fx/treasure_1/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     78 02] . 
+dr-xr-xr-x   1    0    0       4096 May 12 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0       4264 Mar 25 2006 [ 154736 00] fx_sand_splash.res 
+-r-xr-xr-x   1    0    0      28336 Mar 25 2006 [ 154752 00] fx_ship_wheel.res 
+-r-xr-xr-x   1    0    0      17860 Mar 25 2006 [ 154768 00] fx_skull_teeth.res 
+-r-xr-xr-x   1    0    0      34100 Mar 28 2006 [ 154784 00] fx_splash_cargo_net.res 
+-r-xr-xr-x   1    0    0      30832 Mar 25 2006 [ 154816 00] fx_t1_spawn.res 
+-r-xr-xr-x   1    0    0      11740 Mar 25 2006 [ 154832 00] fx_treasure_door.res 
+
+Directory listing of /PSP_GAME/USRDIR/fx/treasure_2/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     79 02] . 
+dr-xr-xr-x   1    0    0       4096 May 12 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0      13568 Mar 25 2006 [ 154848 00] fx_hut.res 
+-r-xr-xr-x   1    0    0      10936 Mar 25 2006 [ 154864 00] fx_lava_crack_spurts.res 
+
+Directory listing of /PSP_GAME/USRDIR/fx/treasure_3/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     80 02] . 
+dr-xr-xr-x   1    0    0       4096 May 12 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0      65736 Mar 25 2006 [ 154880 00] fx_t3_spawn.res 
+
+Directory listing of /PSP_GAME/USRDIR/fx/treasure_4/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     81 02] . 
+dr-xr-xr-x   1    0    0       4096 May 12 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0      32976 Mar 25 2006 [ 154928 00] fx_t4_spawn_door.res 
+-r-xr-xr-x   1    0    0       7192 Mar 25 2006 [ 154960 00] fx_t4_spawn_drop.res 
+-r-xr-xr-x   1    0    0       1860 Mar 25 2006 [ 154976 00] fx_t4_spawn_water.res 
+
+Directory listing of /PSP_GAME/USRDIR/fx/treasure_5/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     82 02] . 
+dr-xr-xr-x   1    0    0       4096 May 12 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0      12716 Mar 25 2006 [ 154992 00] fx_robster_craw_attack.res 
+-r-xr-xr-x   1    0    0      12684 Mar 25 2006 [ 155008 00] fx_robster_craw_idle.res 
+-r-xr-xr-x   1    0    0      19924 Mar 25 2006 [ 155024 00] fx_splash_side_ship.res 
+-r-xr-xr-x   1    0    0      32816 Mar 25 2006 [ 155040 00] fx_t5_spawn_door.res 
+-r-xr-xr-x   1    0    0       1296 Mar 24 2006 [ 155072 00] fx_t5_spawn_rail.res 
+-r-xr-xr-x   1    0    0      71620 Mar 25 2006 [ 155088 00] fx_t5_spawn_trap.res 
+
+Directory listing of /PSP_GAME/USRDIR/fx/treasure_piece/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     83 02] . 
+dr-xr-xr-x   1    0    0       4096 May 12 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0      52424 Apr  7 2006 [ 155136 00] fx_treasure_piece1.res 
+-r-xr-xr-x   1    0    0     148116 Apr 11 2006 [ 155168 00] fx_treasure_piece10.res 
+-r-xr-xr-x   1    0    0      52424 Apr  7 2006 [ 155248 00] fx_treasure_piece11.res 
+-r-xr-xr-x   1    0    0     148116 Apr 11 2006 [ 155280 00] fx_treasure_piece12.res 
+-r-xr-xr-x   1    0    0      52424 Apr  7 2006 [ 155360 00] fx_treasure_piece13.res 
+-r-xr-xr-x   1    0    0      52424 Apr  7 2006 [ 155392 00] fx_treasure_piece14.res 
+-r-xr-xr-x   1    0    0     148116 Apr 11 2006 [ 155424 00] fx_treasure_piece15.res 
+-r-xr-xr-x   1    0    0      52424 Apr  7 2006 [ 155504 00] fx_treasure_piece16.res 
+-r-xr-xr-x   1    0    0     148116 Apr 11 2006 [ 155536 00] fx_treasure_piece17.res 
+-r-xr-xr-x   1    0    0      52424 Apr  7 2006 [ 155616 00] fx_treasure_piece18.res 
+-r-xr-xr-x   1    0    0     148116 Apr 11 2006 [ 155648 00] fx_treasure_piece19.res 
+-r-xr-xr-x   1    0    0     148116 Apr 11 2006 [ 155728 00] fx_treasure_piece2.res 
+-r-xr-xr-x   1    0    0      52424 Apr  7 2006 [ 155808 00] fx_treasure_piece20.res 
+-r-xr-xr-x   1    0    0      52424 Apr  7 2006 [ 155840 00] fx_treasure_piece21.res 
+-r-xr-xr-x   1    0    0     148116 Apr 11 2006 [ 155872 00] fx_treasure_piece22.res 
+-r-xr-xr-x   1    0    0      52424 Apr  7 2006 [ 155952 00] fx_treasure_piece23.res 
+-r-xr-xr-x   1    0    0      52424 Apr  7 2006 [ 155984 00] fx_treasure_piece24.res 
+-r-xr-xr-x   1    0    0     148116 Apr 11 2006 [ 156016 00] fx_treasure_piece25.res 
+-r-xr-xr-x   1    0    0     148116 Apr 11 2006 [ 156096 00] fx_treasure_piece3.res 
+-r-xr-xr-x   1    0    0     148116 Apr 11 2006 [ 156176 00] fx_treasure_piece4.res 
+-r-xr-xr-x   1    0    0      52424 Apr  7 2006 [ 156256 00] fx_treasure_piece5.res 
+-r-xr-xr-x   1    0    0     148116 Apr 11 2006 [ 156288 00] fx_treasure_piece6.res 
+-r-xr-xr-x   1    0    0      52424 Apr  7 2006 [ 156368 00] fx_treasure_piece7.res 
+-r-xr-xr-x   1    0    0     148116 Apr 11 2006 [ 156400 00] fx_treasure_piece8.res 
+-r-xr-xr-x   1    0    0      52424 Apr  7 2006 [ 156480 00] fx_treasure_piece9.res 
+
+Directory listing of /PSP_GAME/USRDIR/levels/test/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     84 02] . 
+dr-xr-xr-x   1    0    0       4096 May 12 2006 [     36 02] .. 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    100 02] angela 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    101 02] christo 
+-r-xr-xr-x   1    0    0     310996 Mar 25 2006 [ 119952 00] climb_test.res 
+-r-xr-xr-x   1    0    0     939508 Apr 11 2006 [ 120112 00] daniel.res 
+-r-xr-xr-x   1    0    0       2092 Mar 25 2006 [ 120576 00] daniel_lua.res 
+-r-xr-xr-x   1    0    0    1610944 Mar 26 2006 [ 120592 00] drew.res 
+-r-xr-xr-x   1    0    0        652 Mar 25 2006 [ 121392 00] drew_lua.res 
+-r-xr-xr-x   1    0    0     456368 Mar 25 2006 [ 121408 00] fraser.res 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    102 02] kerwin 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    103 02] matt 
+-r-xr-xr-x   1    0    0     527548 Mar 25 2006 [ 121712 00] move_test.res 
+-r-xr-xr-x   1    0    0        972 Mar 25 2006 [ 121984 00] move_test_lua.res 
+
+Directory listing of /PSP_GAME/USRDIR/levels/xcutscenes/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     85 02] . 
+dr-xr-xr-x   1    0    0       4096 May 12 2006 [     36 02] .. 
+-r-xr-xr-x   1    0    0     998864 Mar 28 2006 [ 126304 00] credits.res 
+-r-xr-xr-x   1    0    0       1036 Apr  6 2006 [ 126800 00] credits_lua.res 
+-r-xr-xr-x   1    0    0    3335064 Mar 31 2006 [ 126816 00] cs1.res 
+-r-xr-xr-x   1    0    0    1419112 Mar 28 2006 [ 128448 00] cs10.res 
+-r-xr-xr-x   1    0    0       6252 Apr 11 2006 [ 129152 00] cs10_lua.res 
+-r-xr-xr-x   1    0    0    2671632 Apr  7 2006 [ 129168 00] cs11.res 
+-r-xr-xr-x   1    0    0       3852 Mar 31 2006 [ 130480 00] cs11_lua.res 
+-r-xr-xr-x   1    0    0    1064984 Mar 28 2006 [ 130496 00] cs1_5.res 
+-r-xr-xr-x   1    0    0       3116 Mar 29 2006 [ 131024 00] cs1_5_lua.res 
+-r-xr-xr-x   1    0    0      10252 Apr  3 2006 [ 131040 00] cs1_lua.res 
+-r-xr-xr-x   1    0    0    2350608 Mar 26 2006 [ 131056 00] cs2.res 
+-r-xr-xr-x   1    0    0       8108 Mar 29 2006 [ 132208 00] cs2_lua.res 
+-r-xr-xr-x   1    0    0    1367228 Apr  2 2006 [ 132224 00] cs3.res 
+-r-xr-xr-x   1    0    0       5196 Apr 10 2006 [ 132896 00] cs3_lua.res 
+-r-xr-xr-x   1    0    0    1750452 Mar 25 2006 [ 132912 00] cs4.res 
+-r-xr-xr-x   1    0    0       4300 Mar 29 2006 [ 133776 00] cs4_lua.res 
+-r-xr-xr-x   1    0    0    2360416 Mar 25 2006 [ 133792 00] cs5.res 
+-r-xr-xr-x   1    0    0    2433716 Mar 26 2006 [ 134960 00] cs5_5.res 
+-r-xr-xr-x   1    0    0       5836 Mar 29 2006 [ 136160 00] cs5_5_lua.res 
+-r-xr-xr-x   1    0    0       4428 Mar 29 2006 [ 136176 00] cs5_lua.res 
+-r-xr-xr-x   1    0    0    1887516 Mar 28 2006 [ 136192 00] cs6.res 
+-r-xr-xr-x   1    0    0    3471156 Mar 28 2006 [ 137120 00] cs6_5.res 
+-r-xr-xr-x   1    0    0       4716 Mar 31 2006 [ 138816 00] cs6_5_lua.res 
+-r-xr-xr-x   1    0    0       1164 Mar 29 2006 [ 138832 00] cs6_lua.res 
+-r-xr-xr-x   1    0    0    2329400 Apr 11 2006 [ 138848 00] cs7.res 
+-r-xr-xr-x   1    0    0    1674720 Mar 28 2006 [ 140000 00] cs7_5.res 
+-r-xr-xr-x   1    0    0       8908 Apr  4 2006 [ 140832 00] cs7_5_lua.res 
+-r-xr-xr-x   1    0    0       5548 Apr  5 2006 [ 140848 00] cs7_lua.res 
+-r-xr-xr-x   1    0    0     552160 Apr 11 2006 [ 140864 00] cs8.res 
+-r-xr-xr-x   1    0    0       7948 Mar 29 2006 [ 141136 00] cs8_lua.res 
+-r-xr-xr-x   1    0    0     742184 Mar 28 2006 [ 141152 00] cs9.res 
+-r-xr-xr-x   1    0    0       2508 Mar 29 2006 [ 141520 00] cs9_lua.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/deu/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     86 02] . 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     38 02] .. 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    104 02] characters 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    105 02] levels 
+
+Directory listing of /PSP_GAME/USRDIR/loc/english/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     87 02] . 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     38 02] .. 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    106 02] characters 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    107 02] levels 
+
+Directory listing of /PSP_GAME/USRDIR/loc/eng/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     88 02] . 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     38 02] .. 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    108 02] characters 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    109 02] levels 
+
+Directory listing of /PSP_GAME/USRDIR/loc/esl/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     89 02] . 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     38 02] .. 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    110 02] characters 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    111 02] levels 
+
+Directory listing of /PSP_GAME/USRDIR/loc/fra/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     90 02] . 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     38 02] .. 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    112 02] characters 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    113 02] levels 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ita/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     91 02] . 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     38 02] .. 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    114 02] characters 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    115 02] levels 
+
+Directory listing of /PSP_GAME/USRDIR/loc/jpn/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     92 02] . 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     38 02] .. 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    116 02] characters 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    117 02] levels 
+
+Directory listing of /PSP_GAME/USRDIR/movies/logos/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     93 02] . 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     40 02] .. 
+-r-xr-xr-x   1    0    0     575488 Apr 10 2006 [  22192 00] adrenium.pmf 
+-r-xr-xr-x   1    0    0    1132544 Feb 17 2006 [  22480 00] adrenium_2.pmf 
+-r-xr-xr-x   1    0    0    6504448 Apr 10 2006 [  23040 00] adrenium_3.pmf 
+-r-xr-xr-x   1    0    0     886784 May 10 2006 [  26224 00] japanese.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/MULTI/characters/black_pearl/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     94 02] . 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     45 02] .. 
+-r-xr-xr-x   1    0    0      10956 May 10 2006 [ 205056 00] sails.res 
+
+Directory listing of /PSP_GAME/USRDIR/MULTI/levels/test/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     95 02] . 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     47 02] .. 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    118 02] cristo 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    119 02] jeffe 
+
+Directory listing of /PSP_GAME/USRDIR/MULTI/movies/logos/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     96 02] . 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     50 02] .. 
+-r-xr-xr-x   1    0    0     575488 Apr 11 2006 [ 218352 00] adrenium.pmf 
+-r-xr-xr-x   1    0    0    1132544 Apr 11 2006 [ 218640 00] adrenium_2.pmf 
+-r-xr-xr-x   1    0    0    6504448 Apr 11 2006 [ 219200 00] adrenium_3.pmf 
+-r-xr-xr-x   1    0    0     886784 May  9 2006 [ 222384 00] japanese.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/fx/breakable/sounds/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     97 02] . 
+dr-xr-xr-x   1    0    0       4096 May 12 2006 [     58 02] .. 
+-r-xr-xr-x   1    0    0      16304 Mar 25 2006 [ 143584 00] wooden_barrel_break_end.res 
+-r-xr-xr-x   1    0    0       6896 Mar 25 2006 [ 143600 00] wooden_barrel_break_hit.res 
+-r-xr-xr-x   1    0    0      11600 Mar 25 2006 [ 143616 00] wooden_crate_break_end1.res 
+-r-xr-xr-x   1    0    0       3824 Mar 25 2006 [ 143632 00] wooden_crate_break_hit.res 
+
+Directory listing of /PSP_GAME/USRDIR/fx/pickups/sounds/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     98 02] . 
+dr-xr-xr-x   1    0    0       4096 May 12 2006 [     72 02] .. 
+-r-xr-xr-x   1    0    0      13264 Apr  5 2006 [ 152912 00] health_up.res 
+
+Directory listing of /PSP_GAME/USRDIR/fx/pirateactions/sounds/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     99 02] . 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     74 02] .. 
+-r-xr-xr-x   1    0    0      13648 Mar 25 2006 [ 153040 00] pulley_up.res 
+
+Directory listing of /PSP_GAME/USRDIR/levels/test/angela/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    100 02] . 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     84 02] .. 
+-r-xr-xr-x   1    0    0     174532 Mar 25 2006 [ 117040 00] aitest.res 
+-r-xr-xr-x   1    0    0        524 Mar 25 2006 [ 117136 00] aitest_lua.res 
+-r-xr-xr-x   1    0    0     948908 Mar 25 2006 [ 117152 00] hazardtest.res 
+-r-xr-xr-x   1    0    0       1388 Mar 25 2006 [ 117616 00] hazardtest_lua.res 
+-r-xr-xr-x   1    0    0     952416 Mar 25 2006 [ 117632 00] lipsynctest.res 
+-r-xr-xr-x   1    0    0        780 Mar 25 2006 [ 118112 00] lipsynctest_lua.res 
+-r-xr-xr-x   1    0    0     947828 Mar 25 2006 [ 118128 00] memcardtest.res 
+-r-xr-xr-x   1    0    0        652 Mar 25 2006 [ 118592 00] memcardtest_lua.res 
+-r-xr-xr-x   1    0    0     952364 Mar 25 2006 [ 118608 00] pirateactiontest.res 
+-r-xr-xr-x   1    0    0       3340 Mar 28 2006 [ 119088 00] pirateactiontest_lua.res 
+-r-xr-xr-x   1    0    0     947652 Mar 25 2006 [ 119104 00] scripttest.res 
+-r-xr-xr-x   1    0    0       2060 Mar 25 2006 [ 119568 00] scripttest_lua.res 
+
+Directory listing of /PSP_GAME/USRDIR/levels/test/christo/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    101 02] . 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     84 02] .. 
+-r-xr-xr-x   1    0    0     695868 Apr 11 2006 [ 119584 00] combattest.res 
+-r-xr-xr-x   1    0    0       4808 Mar 25 2006 [ 119936 00] combattest_lua.res 
+
+Directory listing of /PSP_GAME/USRDIR/levels/test/kerwin/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    102 02] . 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     84 02] .. 
+-r-xr-xr-x   1    0    0      75352 Mar 25 2006 [ 121632 00] training_test_fog.res 
+
+Directory listing of /PSP_GAME/USRDIR/levels/test/matt/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    103 02] . 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     84 02] .. 
+-r-xr-xr-x   1    0    0      28732 Mar 25 2006 [ 121680 00] ripline.res 
+-r-xr-xr-x   1    0    0       2824 Mar 25 2006 [ 121696 00] ripline_lua.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/deu/characters/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    104 02] . 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     86 02] .. 
+-r-xr-xr-x   1    0    0     364048 Mar 28 2006 [  26720 00] cannibal.res 
+-r-xr-xr-x   1    0    0     199888 Mar 28 2006 [  26912 00] djcrew_01.res 
+-r-xr-xr-x   1    0    0     208112 Mar 28 2006 [  27024 00] djcrew_02.res 
+-r-xr-xr-x   1    0    0     339920 Mar 24 2006 [  27136 00] human_pirate.res 
+-r-xr-xr-x   1    0    0      85712 Mar 24 2006 [  27312 00] norrington.res 
+-r-xr-xr-x   1    0    0     367568 Apr  3 2006 [  27360 00] skeleton_pirate.res 
+-r-xr-xr-x   1    0    0     282960 Apr  5 2006 [  27552 00] turkish_soldier.res 
+-r-xr-xr-x   1    0    0      71888 Mar 24 2006 [  27696 00] wturner.res 
+-r-xr-xr-x   1    0    0     488688 Mar 28 2006 [  27744 00] zombies.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/deu/levels/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    105 02] . 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     86 02] .. 
+-r-xr-xr-x   1    0    0     472720 Mar 24 2006 [  27984 00] mission_1.res 
+-r-xr-xr-x   1    0    0     517936 Mar 31 2006 [  28224 00] mission_10.res 
+-r-xr-xr-x   1    0    0     498128 Mar 24 2006 [  28480 00] mission_2.res 
+-r-xr-xr-x   1    0    0     331952 Mar 24 2006 [  28736 00] mission_3.res 
+-r-xr-xr-x   1    0    0     552368 Mar 24 2006 [  28912 00] mission_4.res 
+-r-xr-xr-x   1    0    0     506544 Mar 24 2006 [  29184 00] mission_5.res 
+-r-xr-xr-x   1    0    0     372112 Mar 24 2006 [  29440 00] mission_6.res 
+-r-xr-xr-x   1    0    0     386544 Mar 25 2006 [  29632 00] mission_7.res 
+-r-xr-xr-x   1    0    0     642352 Apr  7 2006 [  29824 00] mission_8.res 
+-r-xr-xr-x   1    0    0     312848 Mar 24 2006 [  30144 00] mission_9.res 
+-r-xr-xr-x   1    0    0      62928 Mar 24 2006 [  30304 00] treasure_1.res 
+-r-xr-xr-x   1    0    0      79696 Mar 24 2006 [  30336 00] treasure_2.res 
+-r-xr-xr-x   1    0    0     104048 Mar 24 2006 [  30384 00] treasure_3.res 
+-r-xr-xr-x   1    0    0     223952 Mar 24 2006 [  30448 00] treasure_4.res 
+-r-xr-xr-x   1    0    0     141744 Mar 24 2006 [  30560 00] treasure_5.res 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    120 02] xcutscenes 
+
+Directory listing of /PSP_GAME/USRDIR/loc/english/characters/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    106 02] . 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     87 02] .. 
+-r-xr-xr-x   1    0    0     410192 Mar 28 2006 [  45040 00] cannibal.res 
+-r-xr-xr-x   1    0    0     220720 Apr  4 2006 [  45248 00] djcrew_01.res 
+-r-xr-xr-x   1    0    0     224400 Apr  4 2006 [  45360 00] djcrew_02.res 
+-r-xr-xr-x   1    0    0     371120 Mar 25 2006 [  45472 00] human_pirate.res 
+-r-xr-xr-x   1    0    0      82160 Mar 28 2006 [  45664 00] norrington.res 
+-r-xr-xr-x   1    0    0     394128 Apr  3 2006 [  45712 00] skeleton_pirate.res 
+-r-xr-xr-x   1    0    0     302640 Mar 25 2006 [  45920 00] turkish_soldier.res 
+-r-xr-xr-x   1    0    0      45104 Mar 25 2006 [  46080 00] wturner.res 
+-r-xr-xr-x   1    0    0     495792 Mar 28 2006 [  46112 00] zombies.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/english/levels/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    107 02] . 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     87 02] .. 
+-r-xr-xr-x   1    0    0     476336 Mar 28 2006 [  46368 00] mission_1.res 
+-r-xr-xr-x   1    0    0     505808 Mar 31 2006 [  46608 00] mission_10.res 
+-r-xr-xr-x   1    0    0     486032 Mar 25 2006 [  46864 00] mission_2.res 
+-r-xr-xr-x   1    0    0     310128 Mar 25 2006 [  47104 00] mission_3.res 
+-r-xr-xr-x   1    0    0     574864 Mar 28 2006 [  47264 00] mission_4.res 
+-r-xr-xr-x   1    0    0     501104 Mar 25 2006 [  47552 00] mission_5.res 
+-r-xr-xr-x   1    0    0     382064 Mar 25 2006 [  47808 00] mission_6.res 
+-r-xr-xr-x   1    0    0     387600 Mar 25 2006 [  48000 00] mission_7.res 
+-r-xr-xr-x   1    0    0     625456 Mar 28 2006 [  48192 00] mission_8.res 
+-r-xr-xr-x   1    0    0     303280 Mar 28 2006 [  48512 00] mission_9.res 
+-r-xr-xr-x   1    0    0      51024 Mar 28 2006 [  48672 00] treasure_1.res 
+-r-xr-xr-x   1    0    0      84816 Mar 28 2006 [  48704 00] treasure_2.res 
+-r-xr-xr-x   1    0    0      94352 Mar 25 2006 [  48752 00] treasure_3.res 
+-r-xr-xr-x   1    0    0     217360 Mar 28 2006 [  48800 00] treasure_4.res 
+-r-xr-xr-x   1    0    0     127760 Mar 28 2006 [  48912 00] treasure_5.res 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    121 02] xcutscenes 
+
+Directory listing of /PSP_GAME/USRDIR/loc/eng/characters/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    108 02] . 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     88 02] .. 
+-r-xr-xr-x   1    0    0     410192 Mar 28 2006 [  35776 00] cannibal.res 
+-r-xr-xr-x   1    0    0     220720 Apr  4 2006 [  35984 00] djcrew_01.res 
+-r-xr-xr-x   1    0    0     224400 Apr  4 2006 [  36096 00] djcrew_02.res 
+-r-xr-xr-x   1    0    0     371120 Mar 25 2006 [  36208 00] human_pirate.res 
+-r-xr-xr-x   1    0    0      82160 Mar 28 2006 [  36400 00] norrington.res 
+-r-xr-xr-x   1    0    0     394128 Apr  3 2006 [  36448 00] skeleton_pirate.res 
+-r-xr-xr-x   1    0    0     302640 Mar 25 2006 [  36656 00] turkish_soldier.res 
+-r-xr-xr-x   1    0    0      45104 Mar 25 2006 [  36816 00] wturner.res 
+-r-xr-xr-x   1    0    0     495792 Mar 28 2006 [  36848 00] zombies.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/eng/levels/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    109 02] . 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     88 02] .. 
+-r-xr-xr-x   1    0    0     476336 Mar 28 2006 [  37104 00] mission_1.res 
+-r-xr-xr-x   1    0    0     505808 Mar 31 2006 [  37344 00] mission_10.res 
+-r-xr-xr-x   1    0    0     486032 Mar 25 2006 [  37600 00] mission_2.res 
+-r-xr-xr-x   1    0    0     310128 Mar 25 2006 [  37840 00] mission_3.res 
+-r-xr-xr-x   1    0    0     574864 Mar 28 2006 [  38000 00] mission_4.res 
+-r-xr-xr-x   1    0    0     501104 Mar 25 2006 [  38288 00] mission_5.res 
+-r-xr-xr-x   1    0    0     382064 Mar 25 2006 [  38544 00] mission_6.res 
+-r-xr-xr-x   1    0    0     387600 Mar 25 2006 [  38736 00] mission_7.res 
+-r-xr-xr-x   1    0    0     625456 Mar 28 2006 [  38928 00] mission_8.res 
+-r-xr-xr-x   1    0    0     303280 Mar 28 2006 [  39248 00] mission_9.res 
+-r-xr-xr-x   1    0    0      51024 Mar 28 2006 [  39408 00] treasure_1.res 
+-r-xr-xr-x   1    0    0      84816 Mar 28 2006 [  39440 00] treasure_2.res 
+-r-xr-xr-x   1    0    0      94352 Mar 25 2006 [  39488 00] treasure_3.res 
+-r-xr-xr-x   1    0    0     217360 Mar 28 2006 [  39536 00] treasure_4.res 
+-r-xr-xr-x   1    0    0     127760 Mar 28 2006 [  39648 00] treasure_5.res 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    122 02] xcutscenes 
+
+Directory listing of /PSP_GAME/USRDIR/loc/esl/characters/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    110 02] . 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     89 02] .. 
+-r-xr-xr-x   1    0    0     364048 Mar 28 2006 [  54304 00] cannibal.res 
+-r-xr-xr-x   1    0    0     199888 Mar 28 2006 [  54496 00] djcrew_01.res 
+-r-xr-xr-x   1    0    0     208112 Mar 28 2006 [  54608 00] djcrew_02.res 
+-r-xr-xr-x   1    0    0     346896 Mar 28 2006 [  54720 00] human_pirate.res 
+-r-xr-xr-x   1    0    0      72944 Mar 27 2006 [  54896 00] norrington.res 
+-r-xr-xr-x   1    0    0     367568 Apr  3 2006 [  54944 00] skeleton_pirate.res 
+-r-xr-xr-x   1    0    0     345808 Mar 29 2006 [  55136 00] turkish_soldier.res 
+-r-xr-xr-x   1    0    0      47568 Mar 28 2006 [  55312 00] wturner.res 
+-r-xr-xr-x   1    0    0     488688 Mar 28 2006 [  55344 00] zombies.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/esl/levels/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    111 02] . 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     89 02] .. 
+-r-xr-xr-x   1    0    0     447376 Mar 27 2006 [  55584 00] mission_1.res 
+-r-xr-xr-x   1    0    0     486512 Mar 31 2006 [  55808 00] mission_10.res 
+-r-xr-xr-x   1    0    0     468144 Mar 27 2006 [  56048 00] mission_2.res 
+-r-xr-xr-x   1    0    0     298640 Mar 27 2006 [  56288 00] mission_3.res 
+-r-xr-xr-x   1    0    0     526928 Mar 28 2006 [  56448 00] mission_4.res 
+-r-xr-xr-x   1    0    0     447056 Mar 28 2006 [  56720 00] mission_5.res 
+-r-xr-xr-x   1    0    0     353168 Mar 27 2006 [  56944 00] mission_6.res 
+-r-xr-xr-x   1    0    0     347824 Mar 25 2006 [  57120 00] mission_7.res 
+-r-xr-xr-x   1    0    0     568208 Mar 29 2006 [  57296 00] mission_8.res 
+-r-xr-xr-x   1    0    0     286384 Mar 25 2006 [  57584 00] mission_9.res 
+-r-xr-xr-x   1    0    0      49424 Mar 27 2006 [  57728 00] treasure_1.res 
+-r-xr-xr-x   1    0    0      80048 Mar 25 2006 [  57760 00] treasure_2.res 
+-r-xr-xr-x   1    0    0      84880 Mar 27 2006 [  57808 00] treasure_3.res 
+-r-xr-xr-x   1    0    0     208592 Mar 25 2006 [  57856 00] treasure_4.res 
+-r-xr-xr-x   1    0    0     124592 Mar 27 2006 [  57968 00] treasure_5.res 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    123 02] xcutscenes 
+
+Directory listing of /PSP_GAME/USRDIR/loc/fra/characters/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    112 02] . 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     90 02] .. 
+-r-xr-xr-x   1    0    0     364048 Mar 28 2006 [  63216 00] cannibal.res 
+-r-xr-xr-x   1    0    0     199888 Mar 28 2006 [  63408 00] djcrew_01.res 
+-r-xr-xr-x   1    0    0     208112 Mar 28 2006 [  63520 00] djcrew_02.res 
+-r-xr-xr-x   1    0    0     346896 Mar 28 2006 [  63632 00] human_pirate.res 
+-r-xr-xr-x   1    0    0      80976 Mar 27 2006 [  63808 00] norrington.res 
+-r-xr-xr-x   1    0    0     367568 Apr  3 2006 [  63856 00] skeleton_pirate.res 
+-r-xr-xr-x   1    0    0     289680 Apr  5 2006 [  64048 00] turkish_soldier.res 
+-r-xr-xr-x   1    0    0      43664 Mar 27 2006 [  64192 00] wturner.res 
+-r-xr-xr-x   1    0    0     488688 Mar 28 2006 [  64224 00] zombies.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/fra/levels/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    113 02] . 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     90 02] .. 
+-r-xr-xr-x   1    0    0     437840 Mar 27 2006 [  64464 00] mission_1.res 
+-r-xr-xr-x   1    0    0     489712 Mar 31 2006 [  64688 00] mission_10.res 
+-r-xr-xr-x   1    0    0     462992 Mar 27 2006 [  64928 00] mission_2.res 
+-r-xr-xr-x   1    0    0     289264 Mar 27 2006 [  65168 00] mission_3.res 
+-r-xr-xr-x   1    0    0     528848 Mar 28 2006 [  65312 00] mission_4.res 
+-r-xr-xr-x   1    0    0     464432 Mar 28 2006 [  65584 00] mission_5.res 
+-r-xr-xr-x   1    0    0     352976 Mar 27 2006 [  65824 00] mission_6.res 
+-r-xr-xr-x   1    0    0     351824 Mar 25 2006 [  66000 00] mission_7.res 
+-r-xr-xr-x   1    0    0     571248 Mar 27 2006 [  66176 00] mission_8.res 
+-r-xr-xr-x   1    0    0     287248 Mar 27 2006 [  66464 00] mission_9.res 
+-r-xr-xr-x   1    0    0      42032 Mar 27 2006 [  66608 00] treasure_1.res 
+-r-xr-xr-x   1    0    0      84432 Mar 27 2006 [  66640 00] treasure_2.res 
+-r-xr-xr-x   1    0    0      77936 Mar 25 2006 [  66688 00] treasure_3.res 
+-r-xr-xr-x   1    0    0     194480 Mar 27 2006 [  66736 00] treasure_4.res 
+-r-xr-xr-x   1    0    0     117648 Mar 27 2006 [  66832 00] treasure_5.res 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    124 02] xcutscenes 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ita/characters/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    114 02] . 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     91 02] .. 
+-r-xr-xr-x   1    0    0     364048 Mar 28 2006 [  72096 00] cannibal.res 
+-r-xr-xr-x   1    0    0     199888 Mar 28 2006 [  72288 00] djcrew_01.res 
+-r-xr-xr-x   1    0    0     208112 Mar 28 2006 [  72400 00] djcrew_02.res 
+-r-xr-xr-x   1    0    0     346896 Mar 25 2006 [  72512 00] human_pirate.res 
+-r-xr-xr-x   1    0    0      83824 Mar 27 2006 [  72688 00] norrington.res 
+-r-xr-xr-x   1    0    0     367568 Apr  3 2006 [  72736 00] skeleton_pirate.res 
+-r-xr-xr-x   1    0    0     289680 Apr  5 2006 [  72928 00] turkish_soldier.res 
+-r-xr-xr-x   1    0    0      45136 Mar 27 2006 [  73072 00] wturner.res 
+-r-xr-xr-x   1    0    0     488688 Mar 28 2006 [  73104 00] zombies.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ita/levels/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    115 02] . 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     91 02] .. 
+-r-xr-xr-x   1    0    0     476016 Mar 27 2006 [  73344 00] mission_1.res 
+-r-xr-xr-x   1    0    0     505648 Mar 31 2006 [  73584 00] mission_10.res 
+-r-xr-xr-x   1    0    0     485776 Mar 27 2006 [  73840 00] mission_2.res 
+-r-xr-xr-x   1    0    0     309936 Mar 27 2006 [  74080 00] mission_3.res 
+-r-xr-xr-x   1    0    0     571824 Mar 28 2006 [  74240 00] mission_4.res 
+-r-xr-xr-x   1    0    0     498160 Mar 28 2006 [  74528 00] mission_5.res 
+-r-xr-xr-x   1    0    0     381872 Mar 27 2006 [  74784 00] mission_6.res 
+-r-xr-xr-x   1    0    0     387248 Mar 25 2006 [  74976 00] mission_7.res 
+-r-xr-xr-x   1    0    0     625072 Mar 27 2006 [  75168 00] mission_8.res 
+-r-xr-xr-x   1    0    0     303120 Mar 27 2006 [  75488 00] mission_9.res 
+-r-xr-xr-x   1    0    0      50960 Mar 27 2006 [  75648 00] treasure_1.res 
+-r-xr-xr-x   1    0    0      84752 Mar 27 2006 [  75680 00] treasure_2.res 
+-r-xr-xr-x   1    0    0      94256 Mar 27 2006 [  75728 00] treasure_3.res 
+-r-xr-xr-x   1    0    0     217392 Mar 27 2006 [  75776 00] treasure_4.res 
+-r-xr-xr-x   1    0    0     127664 Mar 27 2006 [  75888 00] treasure_5.res 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    125 02] xcutscenes 
+
+Directory listing of /PSP_GAME/USRDIR/loc/jpn/characters/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    116 02] . 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     92 02] .. 
+-r-xr-xr-x   1    0    0     432112 Mar 28 2006 [  81216 00] cannibal.res 
+-r-xr-xr-x   1    0    0     221776 Mar 25 2006 [  81440 00] djcrew_01.res 
+-r-xr-xr-x   1    0    0     224976 Mar 25 2006 [  81552 00] djcrew_02.res 
+-r-xr-xr-x   1    0    0     369520 Mar 25 2006 [  81664 00] human_pirate.res 
+-r-xr-xr-x   1    0    0      83824 Mar 28 2006 [  81856 00] norrington.res 
+-r-xr-xr-x   1    0    0     394928 Apr  3 2006 [  81904 00] skeleton_pirate.res 
+-r-xr-xr-x   1    0    0     303088 Mar 28 2006 [  82112 00] turkish_soldier.res 
+-r-xr-xr-x   1    0    0      45136 Mar 28 2006 [  82272 00] wturner.res 
+-r-xr-xr-x   1    0    0     528560 Mar 25 2006 [  82304 00] zombies.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/jpn/levels/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    117 02] . 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     92 02] .. 
+-r-xr-xr-x   1    0    0     476016 Mar 28 2006 [  82576 00] mission_1.res 
+-r-xr-xr-x   1    0    0     505648 Mar 31 2006 [  82816 00] mission_10.res 
+-r-xr-xr-x   1    0    0     485456 Mar 28 2006 [  83072 00] mission_2.res 
+-r-xr-xr-x   1    0    0     309680 Mar 28 2006 [  83312 00] mission_3.res 
+-r-xr-xr-x   1    0    0     574544 Mar 28 2006 [  83472 00] mission_4.res 
+-r-xr-xr-x   1    0    0     500784 Mar 25 2006 [  83760 00] mission_5.res 
+-r-xr-xr-x   1    0    0     381872 Mar 28 2006 [  84016 00] mission_6.res 
+-r-xr-xr-x   1    0    0     387344 Mar 25 2006 [  84208 00] mission_7.res 
+-r-xr-xr-x   1    0    0     625072 Mar 25 2006 [  84400 00] mission_8.res 
+-r-xr-xr-x   1    0    0     303120 Mar 28 2006 [  84720 00] mission_9.res 
+-r-xr-xr-x   1    0    0      50960 Mar 28 2006 [  84880 00] treasure_1.res 
+-r-xr-xr-x   1    0    0      84752 Mar 28 2006 [  84912 00] treasure_2.res 
+-r-xr-xr-x   1    0    0      94256 Mar 28 2006 [  84960 00] treasure_3.res 
+-r-xr-xr-x   1    0    0     217232 Mar 28 2006 [  85008 00] treasure_4.res 
+-r-xr-xr-x   1    0    0     127664 Mar 28 2006 [  85120 00] treasure_5.res 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    126 02] xcutscenes 
+
+Directory listing of /PSP_GAME/USRDIR/MULTI/levels/test/cristo/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    118 02] . 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     95 02] .. 
+-r-xr-xr-x   1    0    0     646744 May 10 2006 [ 210064 00] maptest_300.res 
+-r-xr-xr-x   1    0    0     744280 May 10 2006 [ 210384 00] maptest_400.res 
+-r-xr-xr-x   1    0    0     897988 May 10 2006 [ 210752 00] maptest_500.res 
+
+Directory listing of /PSP_GAME/USRDIR/MULTI/levels/test/jeffe/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    119 02] . 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [     95 02] .. 
+-r-xr-xr-x   1    0    0     166340 May 10 2006 [ 211200 00] level_0.res 
+-r-xr-xr-x   1    0    0     339944 May 10 2006 [ 211296 00] level_1.res 
+-r-xr-xr-x   1    0    0     654092 May 10 2006 [ 211472 00] level_2.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/deu/levels/xcutscenes/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    120 02] . 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    105 02] .. 
+-r-xr-xr-x   1    0    0    1363312 Apr  3 2006 [  30640 00] cs1.res 
+-r-xr-xr-x   1    0    0     265424 Mar 27 2006 [  31312 00] cs10.res 
+-r-xr-xr-x   1    0    0     127952 Mar 25 2006 [  31456 00] cs11.res 
+-r-xr-xr-x   1    0    0     220816 Mar 27 2006 [  31520 00] cs1_5.res 
+-r-xr-xr-x   1    0    0     896400 Mar 24 2006 [  31632 00] cs2.res 
+-r-xr-xr-x   1    0    0     646928 Mar 24 2006 [  32080 00] cs3.res 
+-r-xr-xr-x   1    0    0     504176 Mar 24 2006 [  32400 00] cs4.res 
+-r-xr-xr-x   1    0    0     676272 Mar 24 2006 [  32656 00] cs5.res 
+-r-xr-xr-x   1    0    0     697648 Apr 12 2006 [  32992 00] cs5_5.res 
+-r-xr-xr-x   1    0    0     997616 Apr  2 2006 [  33344 00] cs6.res 
+-r-xr-xr-x   1    0    0    1598608 Apr  2 2006 [  33840 00] cs6_5.res 
+-r-xr-xr-x   1    0    0     441264 Apr  4 2006 [  34624 00] cs7.res 
+-r-xr-xr-x   1    0    0     915856 Apr  3 2006 [  34848 00] cs7_5.res 
+-r-xr-xr-x   1    0    0     437488 Mar 24 2006 [  35296 00] cs8.res 
+-r-xr-xr-x   1    0    0     271856 Mar 28 2006 [  35520 00] cs9.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/english/levels/xcutscenes/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    121 02] . 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    107 02] .. 
+-r-xr-xr-x   1    0    0    1458224 Apr  3 2006 [  48976 00] cs1.res 
+-r-xr-xr-x   1    0    0     256880 Mar 28 2006 [  49696 00] cs10.res 
+-r-xr-xr-x   1    0    0     127952 Mar 25 2006 [  49824 00] cs11.res 
+-r-xr-xr-x   1    0    0     232048 Mar 28 2006 [  49888 00] cs1_5.res 
+-r-xr-xr-x   1    0    0    1227376 Mar 28 2006 [  50016 00] cs2.res 
+-r-xr-xr-x   1    0    0     654192 Mar 25 2006 [  50624 00] cs3.res 
+-r-xr-xr-x   1    0    0     503856 Mar 25 2006 [  50944 00] cs4.res 
+-r-xr-xr-x   1    0    0     657584 Mar 28 2006 [  51200 00] cs5.res 
+-r-xr-xr-x   1    0    0     676016 Mar 28 2006 [  51536 00] cs5_5.res 
+-r-xr-xr-x   1    0    0     760496 Mar 31 2006 [  51872 00] cs6.res 
+-r-xr-xr-x   1    0    0    1787600 Mar 31 2006 [  52256 00] cs6_5.res 
+-r-xr-xr-x   1    0    0     421776 Apr  4 2006 [  53136 00] cs7.res 
+-r-xr-xr-x   1    0    0     935376 Apr  3 2006 [  53344 00] cs7_5.res 
+-r-xr-xr-x   1    0    0     412176 Mar 25 2006 [  53808 00] cs8.res 
+-r-xr-xr-x   1    0    0     335792 Mar 28 2006 [  54016 00] cs9.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/eng/levels/xcutscenes/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    122 02] . 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    109 02] .. 
+-r-xr-xr-x   1    0    0    1458224 Apr  3 2006 [  39712 00] cs1.res 
+-r-xr-xr-x   1    0    0     256880 Mar 28 2006 [  40432 00] cs10.res 
+-r-xr-xr-x   1    0    0     127952 Mar 25 2006 [  40560 00] cs11.res 
+-r-xr-xr-x   1    0    0     232048 Mar 28 2006 [  40624 00] cs1_5.res 
+-r-xr-xr-x   1    0    0    1227376 Mar 28 2006 [  40752 00] cs2.res 
+-r-xr-xr-x   1    0    0     654192 Mar 25 2006 [  41360 00] cs3.res 
+-r-xr-xr-x   1    0    0     503856 Mar 25 2006 [  41680 00] cs4.res 
+-r-xr-xr-x   1    0    0     657584 Mar 28 2006 [  41936 00] cs5.res 
+-r-xr-xr-x   1    0    0     676016 Mar 28 2006 [  42272 00] cs5_5.res 
+-r-xr-xr-x   1    0    0     760496 Mar 31 2006 [  42608 00] cs6.res 
+-r-xr-xr-x   1    0    0    1787600 Mar 31 2006 [  42992 00] cs6_5.res 
+-r-xr-xr-x   1    0    0     421776 Apr  4 2006 [  43872 00] cs7.res 
+-r-xr-xr-x   1    0    0     935376 Apr  3 2006 [  44080 00] cs7_5.res 
+-r-xr-xr-x   1    0    0     412176 Mar 25 2006 [  44544 00] cs8.res 
+-r-xr-xr-x   1    0    0     335792 Mar 28 2006 [  44752 00] cs9.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/esl/levels/xcutscenes/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    123 02] . 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    111 02] .. 
+-r-xr-xr-x   1    0    0    1400528 Apr  3 2006 [  58032 00] cs1.res 
+-r-xr-xr-x   1    0    0     266032 Apr  4 2006 [  58720 00] cs10.res 
+-r-xr-xr-x   1    0    0     127952 Mar 25 2006 [  58864 00] cs11.res 
+-r-xr-xr-x   1    0    0     238416 Mar 25 2006 [  58928 00] cs1_5.res 
+-r-xr-xr-x   1    0    0     875760 Apr 10 2006 [  59056 00] cs2.res 
+-r-xr-xr-x   1    0    0     651376 Mar 27 2006 [  59488 00] cs3.res 
+-r-xr-xr-x   1    0    0     481328 Apr 10 2006 [  59808 00] cs4.res 
+-r-xr-xr-x   1    0    0     626000 Mar 27 2006 [  60048 00] cs5.res 
+-r-xr-xr-x   1    0    0     658352 Mar 27 2006 [  60368 00] cs5_5.res 
+-r-xr-xr-x   1    0    0    1067440 Mar 31 2006 [  60704 00] cs6.res 
+-r-xr-xr-x   1    0    0    1720944 Mar 31 2006 [  61232 00] cs6_5.res 
+-r-xr-xr-x   1    0    0     423088 Apr  4 2006 [  62080 00] cs7.res 
+-r-xr-xr-x   1    0    0     905040 Apr 11 2006 [  62288 00] cs7_5.res 
+-r-xr-xr-x   1    0    0     402768 Mar 27 2006 [  62736 00] cs8.res 
+-r-xr-xr-x   1    0    0     311120 Mar 28 2006 [  62944 00] cs9.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/fra/levels/xcutscenes/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    124 02] . 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    113 02] .. 
+-r-xr-xr-x   1    0    0    1385520 Apr  3 2006 [  66896 00] cs1.res 
+-r-xr-xr-x   1    0    0     249776 Mar 27 2006 [  67584 00] cs10.res 
+-r-xr-xr-x   1    0    0     127952 Mar 25 2006 [  67712 00] cs11.res 
+-r-xr-xr-x   1    0    0     220464 Mar 27 2006 [  67776 00] cs1_5.res 
+-r-xr-xr-x   1    0    0     889168 Mar 27 2006 [  67888 00] cs2.res 
+-r-xr-xr-x   1    0    0     633840 Mar 27 2006 [  68336 00] cs3.res 
+-r-xr-xr-x   1    0    0     491856 Mar 27 2006 [  68656 00] cs4.res 
+-r-xr-xr-x   1    0    0     625904 Mar 27 2006 [  68912 00] cs5.res 
+-r-xr-xr-x   1    0    0     662320 Mar 25 2006 [  69232 00] cs5_5.res 
+-r-xr-xr-x   1    0    0    1054608 Mar 31 2006 [  69568 00] cs6.res 
+-r-xr-xr-x   1    0    0    1735632 Mar 31 2006 [  70096 00] cs6_5.res 
+-r-xr-xr-x   1    0    0     417744 Apr  4 2006 [  70944 00] cs7.res 
+-r-xr-xr-x   1    0    0     921296 Apr  3 2006 [  71152 00] cs7_5.res 
+-r-xr-xr-x   1    0    0     398128 Mar 27 2006 [  71616 00] cs8.res 
+-r-xr-xr-x   1    0    0     311120 Mar 25 2006 [  71824 00] cs9.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ita/levels/xcutscenes/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    125 02] . 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    115 02] .. 
+-r-xr-xr-x   1    0    0    1439824 Apr  3 2006 [  75952 00] cs1.res 
+-r-xr-xr-x   1    0    0     256752 Apr 10 2006 [  76656 00] cs10.res 
+-r-xr-xr-x   1    0    0     127952 Mar 25 2006 [  76784 00] cs11.res 
+-r-xr-xr-x   1    0    0     231984 Mar 27 2006 [  76848 00] cs1_5.res 
+-r-xr-xr-x   1    0    0     900048 Apr 10 2006 [  76976 00] cs2.res 
+-r-xr-xr-x   1    0    0     654128 Apr 10 2006 [  77424 00] cs3.res 
+-r-xr-xr-x   1    0    0     503792 Apr 10 2006 [  77744 00] cs4.res 
+-r-xr-xr-x   1    0    0     657456 Apr 10 2006 [  78000 00] cs5.res 
+-r-xr-xr-x   1    0    0     675792 Apr 10 2006 [  78336 00] cs5_5.res 
+-r-xr-xr-x   1    0    0    1071088 Apr 10 2006 [  78672 00] cs6.res 
+-r-xr-xr-x   1    0    0    1737584 Apr 10 2006 [  79200 00] cs6_5.res 
+-r-xr-xr-x   1    0    0     421744 Apr 10 2006 [  80064 00] cs7.res 
+-r-xr-xr-x   1    0    0     935088 Apr 11 2006 [  80272 00] cs7_5.res 
+-r-xr-xr-x   1    0    0     412016 Apr 10 2006 [  80736 00] cs8.res 
+-r-xr-xr-x   1    0    0     326352 Mar 28 2006 [  80944 00] cs9.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/jpn/levels/xcutscenes/
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    126 02] . 
+dr-xr-xr-x   1    0    0       2048 May 12 2006 [    117 02] .. 
+-r-xr-xr-x   1    0    0    1462896 Apr  3 2006 [  85184 00] cs1.res 
+-r-xr-xr-x   1    0    0     256752 Mar 25 2006 [  85904 00] cs10.res 
+-r-xr-xr-x   1    0    0     127952 Mar 25 2006 [  86032 00] cs11.res 
+-r-xr-xr-x   1    0    0     231984 Mar 25 2006 [  86096 00] cs1_5.res 
+-r-xr-xr-x   1    0    0     900048 Mar 28 2006 [  86224 00] cs2.res 
+-r-xr-xr-x   1    0    0     654128 Mar 25 2006 [  86672 00] cs3.res 
+-r-xr-xr-x   1    0    0     503856 Mar 25 2006 [  86992 00] cs4.res 
+-r-xr-xr-x   1    0    0     657456 Mar 28 2006 [  87248 00] cs5.res 
+-r-xr-xr-x   1    0    0     675824 Mar 28 2006 [  87584 00] cs5_5.res 
+-r-xr-xr-x   1    0    0    1078000 Mar 31 2006 [  87920 00] cs6.res 
+-r-xr-xr-x   1    0    0    1738640 Mar 31 2006 [  88448 00] cs6_5.res 
+-r-xr-xr-x   1    0    0     421744 Apr  4 2006 [  89312 00] cs7.res 
+-r-xr-xr-x   1    0    0     935088 Apr  3 2006 [  89520 00] cs7_5.res 
+-r-xr-xr-x   1    0    0     412016 Mar 28 2006 [  89984 00] cs8.res 
+-r-xr-xr-x   1    0    0     325776 Mar 28 2006 [  90192 00] cs9.res 
+=============================================================== 
+Generated on Mon 08/08/2022 at 15:46:38.73 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

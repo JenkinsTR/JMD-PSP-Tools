@@ -1,0 +1,463 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Luxor - The Wrath of Set   
+Title ID: ULUS-10201 
+Region: USA  
+Languages:   
+Volume Creation Date: 2006-09-27 16:31:07 
+Volume Size: 864 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: LUXOR_PSP
+Volume set id: 1
+Publisher id: MUMBOJUMBO
+Data preparer id: MUMBOJUMBO
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 442512
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Mar 15 2006 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Mar 15 2006 [     82 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Mar 15 2006 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     22 02] .. 
+-r-xr-xr-x   1    0    0      29355 Sep 23 2006 [ 433845 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        472 Sep 26 2006 [ 433860 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     392660 Sep 25 2006 [ 433653 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0     450544 Sep 26 2006 [ 433861 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 Mar 15 2006 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Mar 15 2006 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Mar 15 2006 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 15 2006 [     23 02] .. 
+-r-xr-xr-x   1    0    0    1336132 Sep 27 2006 [ 433000 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    1336480 Sep 27 2006 [     83 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Mar 15 2006 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Mar 15 2006 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 15 2006 [     23 02] .. 
+-r-xr-xr-x   1    0    0    9755985 Sep 27 2006 [ 437744 00] DATA.BIN 
+dr-xr-xr-x   1    0    0       2048 Sep 22 2006 [     27 02] DATA 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     28 02] PRX 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Mar 15 2006 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 15 2006 [     24 02] .. 
+-r-xr-xr-x   1    0    0   15456672 Mar 15 2006 [   4834 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5079424 Mar 15 2006 [    738 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Mar 15 2006 [    736 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/
+dr-xr-xr-x   1    0    0       2048 Sep 22 2006 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 15 2006 [     25 02] .. 
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] MAPS 
+
+Directory listing of /PSP_GAME/USRDIR/PRX/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 15 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0       3264 Aug 22 2006 [ 434081 00] AUDIOCODEC.PRX 
+-r-xr-xr-x   1    0    0      10128 Aug 22 2006 [ 434083 00] LIBATRAC3PLUS.PRX 
+-r-xr-xr-x   1    0    0       6864 Aug 22 2006 [ 434088 00] SC_SASCORE.PRX 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MAPS/
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 22 2006 [     27 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     31 02] 1_BARQUEOFTHEGODDESS 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     32 02] 1_COBRAICTWILIGHT 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     33 02] 1_DANCEOFTHECROCODILES 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     34 02] 1_DENOFTHEHYENAS 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     35 02] 1_DESCENTTOTHEUNDERWORLD 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     36 02] 1_FLIGHTOFTHESACREDIBIS 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     37 02] 1_HATHORSLOVINGEMBRACE 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     38 02] 1_IMHOTEPSFOLLY 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     39 02] 1_INNERSANCTUMOFTHETEMPLE 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     40 02] 1_INNUNDATIONOFTHENILE 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     41 02] 1_INTHESHADOWOFTHEPYRAMIDS 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     42 02] 1_KHUFUSREVENGE 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     43 02] 1_LAIROFTHEJACKALGOD 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     44 02] 1_NAVIGATINGTHECATARACTS 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     45 02] 1_NEPTHYSGARDEN 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     46 02] 1_OASISOFTHEEAST 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     47 02] 1_PATHOFTHEGOLDENGODDESS 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     48 02] 1_POOLOFTHELOTUSBLOSSUM 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     49 02] 1_RASJOURNEYTOTHEWEST 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     50 02] 1_RIDDLEOFTHESPHINX 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     51 02] 1_SCROLLOFTHOTH 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     52 02] 1_THEPILLAROFOSIRIS 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     53 02] 1_THEWRATHOFSET 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     54 02] 1_THREADINGCLEOPATRASNEEDLE 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     55 02] 1_URAEUSNEFERTARI 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     56 02] 2_ANUBISAEGYPTUS 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     57 02] 2_ARMAMEGIDDO 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     58 02] 2_BASTIONOFTHECATGODDESS 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     59 02] 2_CROSSINGTHEREEDSEA 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     60 02] 2_DIEKHUFUDIE 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     61 02] 2_EYEOFHORUS 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     62 02] 2_FESTIVALOFJUBILEE 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     63 02] 2_GRANDGALLERY 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     64 02] 2_HALLOFTHEAPISBULL 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     65 02] 2_HORUSHAWKASCENDING 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     66 02] 2_INVASIONOFTHEHYKSOS 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     67 02] 2_ISISKNOT 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     68 02] 2_MARSHESOFTHEDELTA 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     69 02] 2_MUMMYDEAREST 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     70 02] 2_NARMERPALETTE 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     71 02] 2_OASISOFTHEWEST 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     72 02] 2_OPENINGOFTHEMOUTHCEREMONY 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     73 02] 2_PHARAOHSWARCROWN 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     74 02] 2_QUEENOFDENIAL 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     75 02] 2_REIGNOFTHEHERETICKING 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     76 02] 2_THESTELLAEOFTHUTMOSIS 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     77 02] 2_THETREASURECITYOFRAMESES 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     78 02] 2_VALLEYOFTHEKINGS 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     79 02] 2_WALKINGLIKEANEGYPTIAN 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     80 02] 2_WEIGHINGOFTHEHEART 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     81 02] DEMO 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MAPS/1_BARQUEOFTHEGODDESS/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     31 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 434092 00] BACKGROUND.TGA 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MAPS/1_COBRAICTWILIGHT/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     32 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 434157 00] BACKGROUND.TGA 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MAPS/1_DANCEOFTHECROCODILES/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     33 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 434222 00] BACKGROUND.TGA 
+-r-xr-xr-x   1    0    0       6262 Sep 25 2006 [ 434287 00] MASK_PATH1.TGA 
+-r-xr-xr-x   1    0    0       6654 Sep 25 2006 [ 434291 00] MASK_PATH2.TGA 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MAPS/1_DENOFTHEHYENAS/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     34 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 434295 00] BACKGROUND.TGA 
+-r-xr-xr-x   1    0    0       5692 Sep 25 2006 [ 434360 00] MASK1_PATH1.TGA 
+-r-xr-xr-x   1    0    0       3274 Sep 25 2006 [ 434363 00] MASK2_PATH1.TGA 
+-r-xr-xr-x   1    0    0       3274 Sep 25 2006 [ 434365 00] MASK3_PATH1.TGA 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MAPS/1_DESCENTTOTHEUNDERWORLD/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     35 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 434367 00] BACKGROUND.TGA 
+-r-xr-xr-x   1    0    0       3912 Sep 25 2006 [ 434432 00] TUNNEL1.TGA 
+-r-xr-xr-x   1    0    0       4157 Sep 25 2006 [ 434434 00] TUNNEL2.TGA 
+-r-xr-xr-x   1    0    0       3877 Sep 25 2006 [ 434437 00] TUNNEL3.TGA 
+-r-xr-xr-x   1    0    0       3886 Sep 25 2006 [ 434439 00] TUNNEL4.TGA 
+-r-xr-xr-x   1    0    0       3947 Sep 25 2006 [ 434441 00] TUNNEL5.TGA 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MAPS/1_FLIGHTOFTHESACREDIBIS/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     36 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 434443 00] BACKGROUND.TGA 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MAPS/1_HATHORSLOVINGEMBRACE/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     37 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 434508 00] BACKGROUND.TGA 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MAPS/1_IMHOTEPSFOLLY/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     38 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 434573 00] BACKGROUND.TGA 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MAPS/1_INNERSANCTUMOFTHETEMPLE/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     39 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 434638 00] BACKGROUND.TGA 
+-r-xr-xr-x   1    0    0       4285 Sep 25 2006 [ 434703 00] MASK1_PATH1.TGA 
+-r-xr-xr-x   1    0    0       3954 Sep 25 2006 [ 434706 00] MASK2_PATH1.TGA 
+-r-xr-xr-x   1    0    0       7730 Sep 25 2006 [ 434708 00] MASK3_PATH1.TGA 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MAPS/1_INNUNDATIONOFTHENILE/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     40 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 434712 00] BACKGROUND.TGA 
+-r-xr-xr-x   1    0    0      13582 Sep 25 2006 [ 434777 00] MASK1_PATH1.TGA 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MAPS/1_INTHESHADOWOFTHEPYRAMIDS/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     41 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 434784 00] BACKGROUND.TGA 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MAPS/1_KHUFUSREVENGE/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     42 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 434849 00] BACKGROUND.TGA 
+-r-xr-xr-x   1    0    0      11752 Sep 25 2006 [ 434914 00] MASK.TGA 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MAPS/1_LAIROFTHEJACKALGOD/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     43 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 434920 00] BACKGROUND.TGA 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MAPS/1_NAVIGATINGTHECATARACTS/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     44 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 434985 00] BACKGROUND.TGA 
+-r-xr-xr-x   1    0    0      11550 Sep 25 2006 [ 435050 00] MASK1_PATH1.TGA 
+-r-xr-xr-x   1    0    0      12023 Sep 25 2006 [ 435056 00] MASK2_PATH1.TGA 
+-r-xr-xr-x   1    0    0      11920 Sep 25 2006 [ 435062 00] MASK3_PATH1.TGA 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MAPS/1_NEPTHYSGARDEN/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     45 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 435068 00] BACKGROUND.TGA 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MAPS/1_OASISOFTHEEAST/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     46 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 435133 00] BACKGROUND.TGA 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MAPS/1_PATHOFTHEGOLDENGODDESS/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     47 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 435198 00] BACKGROUND.TGA 
+-r-xr-xr-x   1    0    0       6740 Sep 25 2006 [ 435263 00] MASK1_PATH1.TGA 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MAPS/1_POOLOFTHELOTUSBLOSSUM/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     48 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 435267 00] BACKGROUND.TGA 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MAPS/1_RASJOURNEYTOTHEWEST/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     49 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 435332 00] BACKGROUND.TGA 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MAPS/1_RIDDLEOFTHESPHINX/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     50 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 435397 00] BACKGROUND.TGA 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MAPS/1_SCROLLOFTHOTH/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     51 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 435462 00] BACKGROUND.TGA 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MAPS/1_THEPILLAROFOSIRIS/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     52 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 435527 00] BACKGROUND.TGA 
+-r-xr-xr-x   1    0    0       7692 Sep 25 2006 [ 435592 00] MASK_PATH1.TGA 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MAPS/1_THEWRATHOFSET/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     53 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 435596 00] BACKGROUND.TGA 
+-r-xr-xr-x   1    0    0      14570 Sep 25 2006 [ 435661 00] SET.TGA 
+-r-xr-xr-x   1    0    0       4682 Sep 25 2006 [ 435669 00] TUNNEL1.TGA 
+-r-xr-xr-x   1    0    0       4877 Sep 25 2006 [ 435672 00] TUNNEL2.TGA 
+-r-xr-xr-x   1    0    0       3826 Sep 25 2006 [ 435675 00] TUNNEL3.TGA 
+-r-xr-xr-x   1    0    0       5129 Sep 25 2006 [ 435677 00] TUNNEL4.TGA 
+-r-xr-xr-x   1    0    0       3835 Sep 25 2006 [ 435680 00] TUNNEL5.TGA 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MAPS/1_THREADINGCLEOPATRASNEEDLE/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     54 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 435682 00] BACKGROUND.TGA 
+-r-xr-xr-x   1    0    0       6188 Sep 25 2006 [ 435747 00] MASK1_PATH1.TGA 
+-r-xr-xr-x   1    0    0       6183 Sep 25 2006 [ 435751 00] MASK2_PATH1.TGA 
+-r-xr-xr-x   1    0    0      12669 Sep 25 2006 [ 435755 00] MASK3_PATH1.TGA 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MAPS/1_URAEUSNEFERTARI/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     55 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 435762 00] BACKGROUND.TGA 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MAPS/2_ANUBISAEGYPTUS/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     56 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 435827 00] BACKGROUND.TGA 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MAPS/2_ARMAMEGIDDO/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     57 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 435892 00] BACKGROUND.TGA 
+-r-xr-xr-x   1    0    0      16036 Sep 25 2006 [ 435957 00] TUNNEL1.TGA 
+-r-xr-xr-x   1    0    0       3434 Sep 25 2006 [ 435965 00] TUNNEL2.TGA 
+-r-xr-xr-x   1    0    0       4006 Sep 25 2006 [ 435967 00] TUNNEL3.TGA 
+-r-xr-xr-x   1    0    0       8500 Sep 25 2006 [ 435969 00] TUNNEL4.TGA 
+-r-xr-xr-x   1    0    0       7483 Sep 25 2006 [ 435974 00] TUNNEL5.TGA 
+-r-xr-xr-x   1    0    0       6142 Sep 25 2006 [ 435978 00] TUNNEL6.TGA 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MAPS/2_BASTIONOFTHECATGODDESS/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     58 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 435981 00] BACKGROUND.TGA 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MAPS/2_CROSSINGTHEREEDSEA/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     59 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 436046 00] BACKGROUND.TGA 
+-r-xr-xr-x   1    0    0       2719 Sep 25 2006 [ 436111 00] MASK1_PATH1.TGA 
+-r-xr-xr-x   1    0    0       2442 Sep 25 2006 [ 436113 00] MASK2_PATH1.TGA 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MAPS/2_DIEKHUFUDIE/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     60 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 436115 00] BACKGROUND.TGA 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MAPS/2_EYEOFHORUS/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     61 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 436180 00] BACKGROUND.TGA 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MAPS/2_FESTIVALOFJUBILEE/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     62 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 436245 00] BACKGROUND.TGA 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MAPS/2_GRANDGALLERY/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     63 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 436310 00] BACKGROUND.TGA 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MAPS/2_HALLOFTHEAPISBULL/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     64 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 436375 00] BACKGROUND.TGA 
+-r-xr-xr-x   1    0    0      10438 Sep 25 2006 [ 436440 00] MASK1_PATH1.TGA 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MAPS/2_HORUSHAWKASCENDING/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     65 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 436446 00] BACKGROUND.TGA 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MAPS/2_INVASIONOFTHEHYKSOS/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     66 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 436511 00] BACKGROUND.TGA 
+-r-xr-xr-x   1    0    0       2395 Sep 25 2006 [ 436576 00] TUNNEL1.TGA 
+-r-xr-xr-x   1    0    0       2524 Sep 25 2006 [ 436578 00] TUNNEL2.TGA 
+-r-xr-xr-x   1    0    0       2410 Sep 25 2006 [ 436580 00] TUNNEL3.TGA 
+-r-xr-xr-x   1    0    0       2563 Sep 25 2006 [ 436582 00] TUNNEL4.TGA 
+-r-xr-xr-x   1    0    0       2846 Sep 25 2006 [ 436584 00] TUNNEL5.TGA 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MAPS/2_ISISKNOT/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     67 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 436586 00] BACKGROUND.TGA 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MAPS/2_MARSHESOFTHEDELTA/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     68 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 436651 00] BACKGROUND.TGA 
+-r-xr-xr-x   1    0    0       4906 Sep 25 2006 [ 436716 00] MASK1_PATH1.TGA 
+-r-xr-xr-x   1    0    0       5728 Sep 25 2006 [ 436719 00] MASK2_PATH1.TGA 
+-r-xr-xr-x   1    0    0       6782 Sep 25 2006 [ 436722 00] MASK3_PATH1.TGA 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MAPS/2_MUMMYDEAREST/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     69 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 436726 00] BACKGROUND.TGA 
+-r-xr-xr-x   1    0    0       3149 Sep 25 2006 [ 436791 00] SCARAB.TGA 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MAPS/2_NARMERPALETTE/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     70 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 436793 00] BACKGROUND.TGA 
+-r-xr-xr-x   1    0    0       9814 Sep 25 2006 [ 436858 00] TUNNEL.TGA 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MAPS/2_OASISOFTHEWEST/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     71 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 436863 00] BACKGROUND.TGA 
+-r-xr-xr-x   1    0    0       3486 Sep 25 2006 [ 436928 00] MASK1_PATH1.TGA 
+-r-xr-xr-x   1    0    0       2527 Sep 25 2006 [ 436930 00] MASK2_PATH1.TGA 
+-r-xr-xr-x   1    0    0       2602 Sep 25 2006 [ 436932 00] MASK3_PATH1.TGA 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MAPS/2_OPENINGOFTHEMOUTHCEREMONY/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     72 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 436934 00] BACKGROUND.TGA 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MAPS/2_PHARAOHSWARCROWN/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     73 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 436999 00] BACKGROUND.TGA 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MAPS/2_QUEENOFDENIAL/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     74 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 437064 00] BACKGROUND.TGA 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MAPS/2_REIGNOFTHEHERETICKING/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     75 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 437129 00] BACKGROUND.TGA 
+-r-xr-xr-x   1    0    0       3058 Sep 25 2006 [ 437194 00] TUNNEL_1.TGA 
+-r-xr-xr-x   1    0    0       8258 Sep 25 2006 [ 437196 00] TUNNEL_2.TGA 
+-r-xr-xr-x   1    0    0       2738 Sep 25 2006 [ 437201 00] TUNNEL_3.TGA 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MAPS/2_THESTELLAEOFTHUTMOSIS/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     76 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 437203 00] BACKGROUND.TGA 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MAPS/2_THETREASURECITYOFRAMESES/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     77 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 437268 00] BACKGROUND.TGA 
+-r-xr-xr-x   1    0    0       2410 Sep 25 2006 [ 437333 00] COIN.TGA 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MAPS/2_VALLEYOFTHEKINGS/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     78 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 437335 00] BACKGROUND.TGA 
+-r-xr-xr-x   1    0    0       9792 Sep 25 2006 [ 437400 00] MASK1_PATH1.TGA 
+-r-xr-xr-x   1    0    0      15028 Sep 25 2006 [ 437405 00] MASK2_PATH1.TGA 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MAPS/2_WALKINGLIKEANEGYPTIAN/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     79 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 437413 00] BACKGROUND.TGA 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MAPS/2_WEIGHINGOFTHEHEART/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     80 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 437478 00] BACKGROUND.TGA 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MAPS/DEMO/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     81 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 437543 00] LOADSCREEN.TGA 
+-r-xr-xr-x   1    0    0       6242 Sep 25 2006 [ 437608 00] LOAD_BAR.TGA 
+-r-xr-xr-x   1    0    0         61 Sep 19 2006 [ 437612 00] LOGO1.SPR 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 437613 00] LOGO1.TGA 
+-r-xr-xr-x   1    0    0         61 Sep 19 2006 [ 437678 00] LOGO2.SPR 
+-r-xr-xr-x   1    0    0     131602 Sep 25 2006 [ 437679 00] LOGO2.TGA 
+=============================================================== 
+Generated on Sun 07/08/2022 at 19:29:02.95 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

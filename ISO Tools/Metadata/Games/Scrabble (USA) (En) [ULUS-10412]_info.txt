@@ -1,0 +1,359 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Scrabble   
+Title ID: ULUS-10412 
+Region: USA  
+Languages: En  
+Volume Creation Date: 2008-12-19 16:38:15 
+Volume Size: 67 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: TEST
+Volume set id: TEST
+Publisher id: EA
+Data preparer id: NICK
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 34576
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Dec 19 2008 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 19 2008 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct 22 2008 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Oct 22 2008 [     38 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Oct 22 2008 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 19 2008 [     22 02] .. 
+-r-xr-xr-x   1    0    0      11051 Dec  9 2008 [  34336 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0          0 Dec  9 2008 [  34352 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 Jan  6 2009 [  34432 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      29010 Jan 14 2009 [  34368 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0      80768 Dec  9 2008 [  34384 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0     257520 Dec 19 2008 [  34448 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 Oct 22 2008 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Oct 22 2008 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Oct 22 2008 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 22 2008 [     23 02] .. 
+-r-xr-xr-x   1    0    0    6605944 Feb  2 2009 [  23776 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    6606288 Feb  2 2009 [     48 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Oct 22 2008 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Oct 22 2008 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 22 2008 [     23 02] .. 
+-r-xr-xr-x   1    0    0    4026860 Feb  2 2009 [  27008 00] DATA.WAD 
+dr-xr-xr-x   1    0    0       2048 Oct 22 2008 [     27 02] DATA 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Oct 22 2008 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 22 2008 [     24 02] .. 
+-r-xr-xr-x   1    0    0   21602544 Oct 22 2008 [   7392 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5476608 Oct 22 2008 [   3296 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Oct 22 2008 [   3280 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/
+dr-xr-xr-x   1    0    0       2048 Oct 22 2008 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 22 2008 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct 22 2008 [     28 02] BOARDS 
+-r-xr-xr-x   1    0    0       1681 Dec  9 2008 [  29008 00] CONTROLS_GENERAL.TXT 
+-r-xr-xr-x   1    0    0          0 Oct  6 2008 [  29024 00] CONTROLS_JOYPAD.TXT 
+-r-xr-xr-x   1    0    0          0 Oct  6 2008 [  28976 00] CONTROLS_KEYBOARD.TXT 
+-r-xr-xr-x   1    0    0         25 Dec  9 2008 [  28992 00] CONTROLS_MOUSE.TXT 
+dr-xr-xr-x   1    0    0       2048 Oct 22 2008 [     29 02] DICTIONARY 
+dr-xr-xr-x   1    0    0      16384 Oct 22 2008 [     30 02] TEXTURES_PSP 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/BOARDS/
+dr-xr-xr-x   1    0    0       2048 Oct 22 2008 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 22 2008 [     27 02] .. 
+-r-xr-xr-x   1    0    0        261 Oct  6 2008 [  29040 00] CLASSIC.TXT 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/DICTIONARY/
+dr-xr-xr-x   1    0    0       2048 Oct 22 2008 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 22 2008 [     27 02] .. 
+-r-xr-xr-x   1    0    0     344548 Dec 11 2008 [  33264 00] DWG_DICT.BIN 
+-r-xr-xr-x   1    0    0     116488 Oct 16 2008 [  33440 00] SCRAB_A06.DEF 
+-r-xr-xr-x   1    0    0     101410 Oct 16 2008 [  33504 00] SCRAB_ALL_R06.DEF 
+-r-xr-xr-x   1    0    0      41178 Oct 16 2008 [  33568 00] SCRAB_ALL_U06.DEF 
+-r-xr-xr-x   1    0    0     117565 Feb  2 2009 [  33600 00] SCRAB_B06.DEF 
+-r-xr-xr-x   1    0    0     160316 Oct 16 2008 [  33664 00] SCRAB_C06.DEF 
+-r-xr-xr-x   1    0    0     100995 Oct 16 2008 [  33744 00] SCRAB_D06.DEF 
+-r-xr-xr-x   1    0    0      66780 Oct 16 2008 [  33808 00] SCRAB_E06.DEF 
+-r-xr-xr-x   1    0    0      90474 Oct 16 2008 [  33856 00] SCRAB_F06.DEF 
+-r-xr-xr-x   1    0    0      72495 Oct 16 2008 [  33904 00] SCRAB_G06.DEF 
+-r-xr-xr-x   1    0    0      67209 Feb  2 2009 [  33952 00] SCRAB_H06.DEF 
+-r-xr-xr-x   1    0    0      42362 Oct 16 2008 [  34000 00] SCRAB_I06.DEF 
+-r-xr-xr-x   1    0    0      19674 Oct 16 2008 [  34032 00] SCRAB_J06.DEF 
+-r-xr-xr-x   1    0    0      26732 Oct 16 2008 [  34048 00] SCRAB_K06.DEF 
+-r-xr-xr-x   1    0    0      74017 Feb  2 2009 [  34064 00] SCRAB_L06.DEF 
+-r-xr-xr-x   1    0    0     108561 Oct 16 2008 [  34112 00] SCRAB_M06.DEF 
+-r-xr-xr-x   1    0    0      40363 Oct 16 2008 [  34176 00] SCRAB_N06.DEF 
+-r-xr-xr-x   1    0    0      63154 Oct 16 2008 [  34208 00] SCRAB_O06.DEF 
+-r-xr-xr-x   1    0    0     152858 Feb  2 2009 [  34240 00] SCRAB_P06.DEF 
+-r-xr-xr-x   1    0    0      10188 Oct 16 2008 [  34320 00] SCRAB_Q06.DEF 
+-r-xr-xr-x   1    0    0     235290 Nov 16 2008 [  32960 00] SCRAB_S06.DEF 
+-r-xr-xr-x   1    0    0     114793 Oct 16 2008 [  33088 00] SCRAB_T06.DEF 
+-r-xr-xr-x   1    0    0      36063 Oct 16 2008 [  33152 00] SCRAB_V06.DEF 
+-r-xr-xr-x   1    0    0      55382 Oct 16 2008 [  33184 00] SCRAB_W06.DEF 
+-r-xr-xr-x   1    0    0       1948 Oct 13 2008 [  33216 00] SCRAB_X06.DEF 
+-r-xr-xr-x   1    0    0       8892 Oct 16 2008 [  33232 00] SCRAB_Y06.DEF 
+-r-xr-xr-x   1    0    0       9572 Oct 16 2008 [  33248 00] SCRAB_Z06.DEF 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/TEXTURES_PSP/
+dr-xr-xr-x   1    0    0      16384 Oct 22 2008 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 22 2008 [     27 02] .. 
+-r-xr-xr-x   1    0    0       2713 Nov 18 2008 [  29184 00] ABC.IMG 
+-r-xr-xr-x   1    0    0       2797 Dec  9 2008 [  29200 00] ABCOVER.IMG 
+-r-xr-xr-x   1    0    0       2537 Oct 13 2008 [  29216 00] ARROWDOWN.IMG 
+-r-xr-xr-x   1    0    0       2648 Dec  9 2008 [  29232 00] ARROWDOWNOVER.IMG 
+-r-xr-xr-x   1    0    0       2537 Oct 13 2008 [  29248 00] ARROWUP.IMG 
+-r-xr-xr-x   1    0    0       2654 Dec  9 2008 [  29264 00] ARROWUPOVER.IMG 
+-r-xr-xr-x   1    0    0       2392 Nov 17 2008 [  30144 00] AVATAR32_10_0.IMG 
+-r-xr-xr-x   1    0    0       2567 Nov 17 2008 [  30160 00] AVATAR32_10_1.IMG 
+-r-xr-xr-x   1    0    0       2502 Nov 17 2008 [  30176 00] AVATAR32_10_2.IMG 
+-r-xr-xr-x   1    0    0       2463 Nov 17 2008 [  30192 00] AVATAR32_10_3.IMG 
+-r-xr-xr-x   1    0    0       2574 Nov 17 2008 [  30208 00] AVATAR32_10_4.IMG 
+-r-xr-xr-x   1    0    0       2462 Nov 17 2008 [  30224 00] AVATAR32_10_5.IMG 
+-r-xr-xr-x   1    0    0       2238 Nov 17 2008 [  29280 00] AVATAR32_1_0.IMG 
+-r-xr-xr-x   1    0    0       2580 Nov 17 2008 [  29296 00] AVATAR32_1_1.IMG 
+-r-xr-xr-x   1    0    0       2540 Nov 17 2008 [  29312 00] AVATAR32_1_2.IMG 
+-r-xr-xr-x   1    0    0       2606 Nov 17 2008 [  29328 00] AVATAR32_1_3.IMG 
+-r-xr-xr-x   1    0    0       2494 Nov 17 2008 [  29344 00] AVATAR32_1_4.IMG 
+-r-xr-xr-x   1    0    0       2609 Nov 17 2008 [  29360 00] AVATAR32_1_5.IMG 
+-r-xr-xr-x   1    0    0       2459 Dec 11 2008 [  29376 00] AVATAR32_2_0.IMG 
+-r-xr-xr-x   1    0    0       2637 Nov 17 2008 [  29392 00] AVATAR32_2_1.IMG 
+-r-xr-xr-x   1    0    0       2534 Nov 17 2008 [  29408 00] AVATAR32_2_2.IMG 
+-r-xr-xr-x   1    0    0       2624 Dec 16 2008 [  29424 00] AVATAR32_2_3.IMG 
+-r-xr-xr-x   1    0    0       2566 Dec 16 2008 [  29440 00] AVATAR32_2_4.IMG 
+-r-xr-xr-x   1    0    0       2523 Dec 16 2008 [  29456 00] AVATAR32_2_5.IMG 
+-r-xr-xr-x   1    0    0       2170 Nov 17 2008 [  29472 00] AVATAR32_3_0.IMG 
+-r-xr-xr-x   1    0    0       2290 Nov 17 2008 [  29488 00] AVATAR32_3_1.IMG 
+-r-xr-xr-x   1    0    0       2529 Nov 17 2008 [  29504 00] AVATAR32_3_2.IMG 
+-r-xr-xr-x   1    0    0       2367 Nov 17 2008 [  29520 00] AVATAR32_3_3.IMG 
+-r-xr-xr-x   1    0    0       2618 Nov 17 2008 [  29536 00] AVATAR32_3_4.IMG 
+-r-xr-xr-x   1    0    0       2627 Nov 17 2008 [  29552 00] AVATAR32_3_5.IMG 
+-r-xr-xr-x   1    0    0       2269 Nov 17 2008 [  29568 00] AVATAR32_4_0.IMG 
+-r-xr-xr-x   1    0    0       2468 Nov 17 2008 [  29584 00] AVATAR32_4_1.IMG 
+-r-xr-xr-x   1    0    0       2576 Nov 17 2008 [  29600 00] AVATAR32_4_2.IMG 
+-r-xr-xr-x   1    0    0       2468 Nov 17 2008 [  29616 00] AVATAR32_4_3.IMG 
+-r-xr-xr-x   1    0    0       2541 Nov 17 2008 [  29632 00] AVATAR32_4_4.IMG 
+-r-xr-xr-x   1    0    0       2484 Nov 17 2008 [  29648 00] AVATAR32_4_5.IMG 
+-r-xr-xr-x   1    0    0       2375 Dec 16 2008 [  29664 00] AVATAR32_5_0.IMG 
+-r-xr-xr-x   1    0    0       2470 Nov 17 2008 [  29680 00] AVATAR32_5_1.IMG 
+-r-xr-xr-x   1    0    0       2535 Nov 17 2008 [  29696 00] AVATAR32_5_2.IMG 
+-r-xr-xr-x   1    0    0       2595 Nov 17 2008 [  29712 00] AVATAR32_5_3.IMG 
+-r-xr-xr-x   1    0    0       2451 Nov 17 2008 [  29728 00] AVATAR32_5_4.IMG 
+-r-xr-xr-x   1    0    0       2415 Nov 17 2008 [  29744 00] AVATAR32_5_5.IMG 
+-r-xr-xr-x   1    0    0       2526 Nov 17 2008 [  29760 00] AVATAR32_6_0.IMG 
+-r-xr-xr-x   1    0    0       2474 Nov 17 2008 [  29776 00] AVATAR32_6_1.IMG 
+-r-xr-xr-x   1    0    0       2535 Nov 17 2008 [  29792 00] AVATAR32_6_2.IMG 
+-r-xr-xr-x   1    0    0       2502 Nov 17 2008 [  29808 00] AVATAR32_6_3.IMG 
+-r-xr-xr-x   1    0    0       2424 Nov 17 2008 [  29824 00] AVATAR32_6_4.IMG 
+-r-xr-xr-x   1    0    0       2463 Nov 17 2008 [  29840 00] AVATAR32_6_5.IMG 
+-r-xr-xr-x   1    0    0       2382 Nov 17 2008 [  29856 00] AVATAR32_7_0.IMG 
+-r-xr-xr-x   1    0    0       2430 Nov 17 2008 [  29872 00] AVATAR32_7_1.IMG 
+-r-xr-xr-x   1    0    0       2370 Nov 17 2008 [  29888 00] AVATAR32_7_2.IMG 
+-r-xr-xr-x   1    0    0       2451 Nov 17 2008 [  29904 00] AVATAR32_7_3.IMG 
+-r-xr-xr-x   1    0    0       2471 Nov 17 2008 [  29920 00] AVATAR32_7_4.IMG 
+-r-xr-xr-x   1    0    0       2430 Nov 17 2008 [  29936 00] AVATAR32_7_5.IMG 
+-r-xr-xr-x   1    0    0       2396 Nov 17 2008 [  29952 00] AVATAR32_8_0.IMG 
+-r-xr-xr-x   1    0    0       2427 Nov 17 2008 [  29968 00] AVATAR32_8_1.IMG 
+-r-xr-xr-x   1    0    0       2424 Nov 17 2008 [  29984 00] AVATAR32_8_2.IMG 
+-r-xr-xr-x   1    0    0       2446 Nov 17 2008 [  30000 00] AVATAR32_8_3.IMG 
+-r-xr-xr-x   1    0    0       2430 Nov 17 2008 [  30016 00] AVATAR32_8_4.IMG 
+-r-xr-xr-x   1    0    0       2526 Nov 17 2008 [  30032 00] AVATAR32_8_5.IMG 
+-r-xr-xr-x   1    0    0       2502 Nov 17 2008 [  30048 00] AVATAR32_9_0.IMG 
+-r-xr-xr-x   1    0    0       2452 Nov 17 2008 [  30064 00] AVATAR32_9_1.IMG 
+-r-xr-xr-x   1    0    0       2394 Nov 17 2008 [  30080 00] AVATAR32_9_2.IMG 
+-r-xr-xr-x   1    0    0       2374 Nov 17 2008 [  30096 00] AVATAR32_9_3.IMG 
+-r-xr-xr-x   1    0    0       2459 Nov 17 2008 [  30112 00] AVATAR32_9_4.IMG 
+-r-xr-xr-x   1    0    0       2440 Nov 17 2008 [  30128 00] AVATAR32_9_5.IMG 
+-r-xr-xr-x   1    0    0       3595 Dec  6 2008 [  31104 00] AVATAR54_10_0.IMG 
+-r-xr-xr-x   1    0    0       3899 Dec  6 2008 [  31120 00] AVATAR54_10_1.IMG 
+-r-xr-xr-x   1    0    0       3809 Dec  6 2008 [  31136 00] AVATAR54_10_2.IMG 
+-r-xr-xr-x   1    0    0       3827 Dec  6 2008 [  31152 00] AVATAR54_10_3.IMG 
+-r-xr-xr-x   1    0    0       3799 Dec  6 2008 [  31168 00] AVATAR54_10_4.IMG 
+-r-xr-xr-x   1    0    0       3744 Dec  6 2008 [  31184 00] AVATAR54_10_5.IMG 
+-r-xr-xr-x   1    0    0       3346 Dec  6 2008 [  30240 00] AVATAR54_1_0.IMG 
+-r-xr-xr-x   1    0    0       3688 Dec  6 2008 [  30256 00] AVATAR54_1_1.IMG 
+-r-xr-xr-x   1    0    0       3759 Dec  6 2008 [  30272 00] AVATAR54_1_2.IMG 
+-r-xr-xr-x   1    0    0       3787 Dec  6 2008 [  30288 00] AVATAR54_1_3.IMG 
+-r-xr-xr-x   1    0    0       3678 Dec  6 2008 [  30304 00] AVATAR54_1_4.IMG 
+-r-xr-xr-x   1    0    0       3787 Dec  6 2008 [  30320 00] AVATAR54_1_5.IMG 
+-r-xr-xr-x   1    0    0       4154 Dec  6 2008 [  30336 00] AVATAR54_2_0.IMG 
+-r-xr-xr-x   1    0    0       4412 Dec  6 2008 [  30352 00] AVATAR54_2_1.IMG 
+-r-xr-xr-x   1    0    0       4223 Dec  6 2008 [  30368 00] AVATAR54_2_2.IMG 
+-r-xr-xr-x   1    0    0       4228 Dec 16 2008 [  30384 00] AVATAR54_2_3.IMG 
+-r-xr-xr-x   1    0    0       4148 Dec 16 2008 [  30400 00] AVATAR54_2_4.IMG 
+-r-xr-xr-x   1    0    0       4249 Dec 16 2008 [  30416 00] AVATAR54_2_5.IMG 
+-r-xr-xr-x   1    0    0       3317 Dec  6 2008 [  30432 00] AVATAR54_3_0.IMG 
+-r-xr-xr-x   1    0    0       3389 Dec  6 2008 [  30448 00] AVATAR54_3_1.IMG 
+-r-xr-xr-x   1    0    0       3644 Dec  6 2008 [  30464 00] AVATAR54_3_2.IMG 
+-r-xr-xr-x   1    0    0       3435 Dec  6 2008 [  30480 00] AVATAR54_3_3.IMG 
+-r-xr-xr-x   1    0    0       3829 Dec  6 2008 [  30496 00] AVATAR54_3_4.IMG 
+-r-xr-xr-x   1    0    0       3734 Dec  6 2008 [  30512 00] AVATAR54_3_5.IMG 
+-r-xr-xr-x   1    0    0       3412 Dec  6 2008 [  30528 00] AVATAR54_4_0.IMG 
+-r-xr-xr-x   1    0    0       3457 Dec  6 2008 [  30544 00] AVATAR54_4_1.IMG 
+-r-xr-xr-x   1    0    0       3671 Dec  6 2008 [  30560 00] AVATAR54_4_2.IMG 
+-r-xr-xr-x   1    0    0       3808 Dec  6 2008 [  30576 00] AVATAR54_4_3.IMG 
+-r-xr-xr-x   1    0    0       3916 Dec  6 2008 [  30592 00] AVATAR54_4_4.IMG 
+-r-xr-xr-x   1    0    0       3725 Dec  6 2008 [  30608 00] AVATAR54_4_5.IMG 
+-r-xr-xr-x   1    0    0       9491 Dec  6 2008 [  30624 00] AVATAR54_5_0.IMG 
+-r-xr-xr-x   1    0    0       4238 Dec  6 2008 [  30640 00] AVATAR54_5_1.IMG 
+-r-xr-xr-x   1    0    0       4224 Dec  6 2008 [  30656 00] AVATAR54_5_2.IMG 
+-r-xr-xr-x   1    0    0       4079 Dec  6 2008 [  30672 00] AVATAR54_5_3.IMG 
+-r-xr-xr-x   1    0    0       4020 Dec  6 2008 [  30688 00] AVATAR54_5_4.IMG 
+-r-xr-xr-x   1    0    0       4064 Dec  6 2008 [  30704 00] AVATAR54_5_5.IMG 
+-r-xr-xr-x   1    0    0       4187 Dec  6 2008 [  30720 00] AVATAR54_6_0.IMG 
+-r-xr-xr-x   1    0    0       3980 Dec  6 2008 [  30736 00] AVATAR54_6_1.IMG 
+-r-xr-xr-x   1    0    0       4108 Dec  6 2008 [  30752 00] AVATAR54_6_2.IMG 
+-r-xr-xr-x   1    0    0       4011 Dec  6 2008 [  30768 00] AVATAR54_6_3.IMG 
+-r-xr-xr-x   1    0    0       4029 Dec  6 2008 [  30784 00] AVATAR54_6_4.IMG 
+-r-xr-xr-x   1    0    0       4122 Dec  6 2008 [  30800 00] AVATAR54_6_5.IMG 
+-r-xr-xr-x   1    0    0       4088 Dec  6 2008 [  30816 00] AVATAR54_7_0.IMG 
+-r-xr-xr-x   1    0    0       4212 Dec  6 2008 [  30832 00] AVATAR54_7_1.IMG 
+-r-xr-xr-x   1    0    0       4059 Dec  6 2008 [  30848 00] AVATAR54_7_2.IMG 
+-r-xr-xr-x   1    0    0       4119 Dec  6 2008 [  30864 00] AVATAR54_7_3.IMG 
+-r-xr-xr-x   1    0    0       3915 Dec  6 2008 [  30880 00] AVATAR54_7_4.IMG 
+-r-xr-xr-x   1    0    0       3807 Dec  6 2008 [  30896 00] AVATAR54_7_5.IMG 
+-r-xr-xr-x   1    0    0       3693 Dec  6 2008 [  30912 00] AVATAR54_8_0.IMG 
+-r-xr-xr-x   1    0    0       3743 Dec  6 2008 [  30928 00] AVATAR54_8_1.IMG 
+-r-xr-xr-x   1    0    0       3949 Dec  6 2008 [  30944 00] AVATAR54_8_2.IMG 
+-r-xr-xr-x   1    0    0       3546 Dec  6 2008 [  30960 00] AVATAR54_8_3.IMG 
+-r-xr-xr-x   1    0    0       3575 Dec  6 2008 [  30976 00] AVATAR54_8_4.IMG 
+-r-xr-xr-x   1    0    0       3753 Dec  6 2008 [  30992 00] AVATAR54_8_5.IMG 
+-r-xr-xr-x   1    0    0       4344 Dec  6 2008 [  31008 00] AVATAR54_9_0.IMG 
+-r-xr-xr-x   1    0    0       4271 Dec  6 2008 [  31024 00] AVATAR54_9_1.IMG 
+-r-xr-xr-x   1    0    0       4141 Dec  6 2008 [  31040 00] AVATAR54_9_2.IMG 
+-r-xr-xr-x   1    0    0       4033 Dec  6 2008 [  31056 00] AVATAR54_9_3.IMG 
+-r-xr-xr-x   1    0    0       4114 Dec  6 2008 [  31072 00] AVATAR54_9_4.IMG 
+-r-xr-xr-x   1    0    0       3986 Dec  6 2008 [  31088 00] AVATAR54_9_5.IMG 
+-r-xr-xr-x   1    0    0       1958 Dec  6 2008 [  31200 00] AVATAR54_BLANK.IMG 
+-r-xr-xr-x   1    0    0       3146 Oct 10 2008 [  31216 00] AVATARBACKPLATE.IMG 
+-r-xr-xr-x   1    0    0        469 Oct 13 2008 [  31232 00] AVATARSTAR.IMG 
+-r-xr-xr-x   1    0    0       2573 Oct 13 2008 [  31248 00] BACKBUTTON.IMG 
+-r-xr-xr-x   1    0    0       2671 Dec  9 2008 [  31264 00] BACKBUTTONOVER.IMG 
+-r-xr-xr-x   1    0    0     139743 Dec 23 2008 [  31280 00] BACKGROUNDNOLOGO.IMG 
+-r-xr-xr-x   1    0    0     155602 Dec 23 2008 [  31360 00] BACKGROUNDWITHLOGO.IMG 
+-r-xr-xr-x   1    0    0       4154 Oct 13 2008 [  31440 00] BINGO.IMG 
+-r-xr-xr-x   1    0    0       7114 Oct 13 2008 [  31456 00] BINGONONUMBER.IMG 
+-r-xr-xr-x   1    0    0       2700 Oct 13 2008 [  31472 00] BINOCULAR.IMG 
+-r-xr-xr-x   1    0    0       2780 Dec  9 2008 [  31488 00] BINOCULAROVER.IMG 
+-r-xr-xr-x   1    0    0      91232 Dec  9 2008 [  31504 00] BLANKBOARD256X256.IMG 
+-r-xr-xr-x   1    0    0        963 Oct  7 2008 [  31552 00] BUTTONGREEN.IMG 
+-r-xr-xr-x   1    0    0        948 Oct  7 2008 [  31568 00] BUTTONGREENDARK.IMG 
+-r-xr-xr-x   1    0    0        969 Oct  7 2008 [  31584 00] BUTTONRED.IMG 
+-r-xr-xr-x   1    0    0        946 Oct  7 2008 [  31600 00] BUTTONREDDARK.IMG 
+-r-xr-xr-x   1    0    0       2735 Oct 13 2008 [  31616 00] CARDFLIP.IMG 
+-r-xr-xr-x   1    0    0       2817 Dec  9 2008 [  31632 00] CARDFLIPOVER.IMG 
+-r-xr-xr-x   1    0    0       2610 Oct 13 2008 [  31648 00] CHALLENGEBUTTON.IMG 
+-r-xr-xr-x   1    0    0       2699 Dec  9 2008 [  31664 00] CHALLENGEBUTTONOVER.IMG 
+-r-xr-xr-x   1    0    0        400 Oct  7 2008 [  31680 00] CIRCLE.IMG 
+-r-xr-xr-x   1    0    0        388 Dec  9 2008 [  31696 00] CURSOR.IMG 
+-r-xr-xr-x   1    0    0       2677 Oct 13 2008 [  31712 00] DICTIONARYBUTTON.IMG 
+-r-xr-xr-x   1    0    0       2780 Dec  9 2008 [  31728 00] DICTIONARYBUTTONOVER.IMG 
+-r-xr-xr-x   1    0    0       1110 Oct  7 2008 [  31744 00] DIFFICULTYBAR.IMG 
+-r-xr-xr-x   1    0    0        424 Oct  7 2008 [  31760 00] DOUBLELETTER.IMG 
+-r-xr-xr-x   1    0    0        424 Oct  7 2008 [  31776 00] DOUBLEWORD.IMG 
+-r-xr-xr-x   1    0    0       8072 Oct  7 2008 [  31792 00] DOUTRIWORDSELECT.IMG 
+-r-xr-xr-x   1    0    0        258 Oct  7 2008 [  31808 00] DW32X32.IMG 
+-r-xr-xr-x   1    0    0      22634 Dec 23 2008 [  31824 00] EA_SCRABBLE_LOGO_SPLASH.IMG 
+-r-xr-xr-x   1    0    0       2506 Oct 13 2008 [  31840 00] ERASER.IMG 
+-r-xr-xr-x   1    0    0       2615 Dec  9 2008 [  31856 00] ERASEROVER.IMG 
+-r-xr-xr-x   1    0    0       2576 Oct 13 2008 [  31872 00] GREENARROWLEFT.IMG 
+-r-xr-xr-x   1    0    0       2673 Dec  9 2008 [  31888 00] GREENARROWLEFTOVER.IMG 
+-r-xr-xr-x   1    0    0       2583 Oct 31 2008 [  31904 00] GREENARROWRIGHT.IMG 
+-r-xr-xr-x   1    0    0       2633 Dec  9 2008 [  31920 00] GREENARROWRIGHTOVER.IMG 
+-r-xr-xr-x   1    0    0        645 Oct  7 2008 [  31936 00] GREENSLIDERBUTTON.IMG 
+-r-xr-xr-x   1    0    0       1432 Oct 12 2008 [  31952 00] GRIDSELECT.IMG 
+-r-xr-xr-x   1    0    0      15194 Dec 23 2008 [  31968 00] HASBRO_LOGO_SPLASH.IMG 
+-r-xr-xr-x   1    0    0       2714 Oct 13 2008 [  31984 00] LOADBUTTON.IMG 
+-r-xr-xr-x   1    0    0       2814 Dec  9 2008 [  32000 00] LOADBUTTONOVER.IMG 
+-r-xr-xr-x   1    0    0       6967 Oct  7 2008 [  32016 00] LOCKICON.IMG 
+-r-xr-xr-x   1    0    0      11026 Dec  6 2008 [  32032 00] LONGBLUEBUTTON.IMG 
+-r-xr-xr-x   1    0    0     122630 Nov 20 2008 [  32048 00] METRO.IMG 
+-r-xr-xr-x   1    0    0       2602 Oct 13 2008 [  32112 00] NOPLAYBUTTON.IMG 
+-r-xr-xr-x   1    0    0       2714 Dec  9 2008 [  32128 00] NOPLAYBUTTONOVER.IMG 
+-r-xr-xr-x   1    0    0       1247 Oct  7 2008 [  32144 00] ONOFFBUTTON.IMG 
+-r-xr-xr-x   1    0    0       1716 Oct 13 2008 [  32160 00] PERSONALBEST.IMG 
+-r-xr-xr-x   1    0    0       2582 Oct 13 2008 [  32176 00] PLAYBUTTON.IMG 
+-r-xr-xr-x   1    0    0       2696 Dec  9 2008 [  32192 00] PLAYBUTTONOVER.IMG 
+-r-xr-xr-x   1    0    0      32368 Oct  7 2008 [  32208 00] PRORANK.IMG 
+-r-xr-xr-x   1    0    0       2487 Jan 15 2009 [  32224 00] QUESTION1.IMG 
+-r-xr-xr-x   1    0    0       2591 Jan 15 2009 [  32240 00] QUESTION1OVER.IMG 
+-r-xr-xr-x   1    0    0       2537 Jan 15 2009 [  32256 00] QUESTION2.IMG 
+-r-xr-xr-x   1    0    0       2633 Jan 15 2009 [  32272 00] QUESTION2OVER.IMG 
+-r-xr-xr-x   1    0    0       2532 Jan 15 2009 [  32288 00] QUESTION3.IMG 
+-r-xr-xr-x   1    0    0       2629 Jan 15 2009 [  32304 00] QUESTION3OVER.IMG 
+-r-xr-xr-x   1    0    0       2561 Oct 13 2008 [  32320 00] QUESTIONMARKBUTTON.IMG 
+-r-xr-xr-x   1    0    0       2637 Dec  9 2008 [  32336 00] QUESTIONMARKBUTTONOVER.IMG 
+-r-xr-xr-x   1    0    0       5536 Nov 19 2008 [  32352 00] QWERTYKEYBOARD.IMG 
+-r-xr-xr-x   1    0    0       2557 Oct 13 2008 [  32368 00] REDARROWRIGHT.IMG 
+-r-xr-xr-x   1    0    0       2654 Dec  9 2008 [  32384 00] REDARROWRIGHTOVER.IMG 
+-r-xr-xr-x   1    0    0       2669 Oct 13 2008 [  32400 00] SAVEBUTTON.IMG 
+-r-xr-xr-x   1    0    0       2766 Dec  9 2008 [  32416 00] SAVEBUTTONOVER.IMG 
+-r-xr-xr-x   1    0    0      34458 Dec 16 2008 [  32448 00] SCRABBLEFONT.IMG 
+-r-xr-xr-x   1    0    0      24757 Dec 11 2008 [  32480 00] SCRABBLEFONTBIG.IMG 
+-r-xr-xr-x   1    0    0      24653 Dec 23 2008 [  32432 00] SCRABBLE_LOGO_SPLASH.IMG 
+-r-xr-xr-x   1    0    0       1021 Oct  7 2008 [  32496 00] SCROLLLEFTBUTTON.IMG 
+-r-xr-xr-x   1    0    0       1019 Oct  7 2008 [  32512 00] SCROLLRIGHTBUTTON.IMG 
+-r-xr-xr-x   1    0    0       2568 Oct 13 2008 [  32528 00] SHUFFLEBUTTON2.IMG 
+-r-xr-xr-x   1    0    0       2680 Jan 15 2009 [  32544 00] SHUFFLEBUTTON2OVER.IMG 
+-r-xr-xr-x   1    0    0       2692 Jan 15 2009 [  32560 00] SHUFLLEBUTTON1.IMG 
+-r-xr-xr-x   1    0    0       2766 Jan 15 2009 [  32576 00] SHUFLLEBUTTON1OVER.IMG 
+-r-xr-xr-x   1    0    0      69604 Dec  9 2008 [  32592 00] SLAM_CARD.IMG 
+-r-xr-xr-x   1    0    0       2362 Oct  7 2008 [  32640 00] SLIDERBAR.IMG 
+-r-xr-xr-x   1    0    0       3795 Oct  7 2008 [  32656 00] SUMMARYSTATGRADIENT.IMG 
+-r-xr-xr-x   1    0    0       3278 Oct  7 2008 [  32672 00] SUMMARYSTATRED.IMG 
+-r-xr-xr-x   1    0    0       2583 Oct 31 2008 [  32688 00] TICKBUTTON.IMG 
+-r-xr-xr-x   1    0    0       2604 Oct 31 2008 [  32704 00] TICKBUTTONOVER.IMG 
+-r-xr-xr-x   1    0    0       2903 Jan 15 2009 [  32720 00] TILEBAGBUTTON.IMG 
+-r-xr-xr-x   1    0    0       2911 Jan 15 2009 [  32736 00] TILEBAGBUTTONOVER.IMG 
+-r-xr-xr-x   1    0    0        682 Nov 27 2008 [  32752 00] TILESELECT1.IMG 
+-r-xr-xr-x   1    0    0        682 Nov 27 2008 [  32768 00] TILESELECT2.IMG 
+-r-xr-xr-x   1    0    0        524 Oct  7 2008 [  32784 00] TRIPLELETTER.IMG 
+-r-xr-xr-x   1    0    0        524 Oct  7 2008 [  32800 00] TRIPLEWORD.IMG 
+-r-xr-xr-x   1    0    0       2829 Jan 15 2009 [  32816 00] TWOLETBUTTON.IMG 
+-r-xr-xr-x   1    0    0       2829 Jan 15 2009 [  32832 00] TWOLETBUTTONOVER.IMG 
+-r-xr-xr-x   1    0    0       2625 Jan 15 2009 [  32848 00] TWOLETTERBUTTON.IMG 
+-r-xr-xr-x   1    0    0       2677 Jan 15 2009 [  32864 00] TWOLETTERBUTTONOVER.IMG 
+-r-xr-xr-x   1    0    0        876 Oct  7 2008 [  32880 00] WIRELESS_ON.IMG 
+-r-xr-xr-x   1    0    0        872 Oct  7 2008 [  32896 00] WIRELESS_STRENGTH_LEVEL_0_B.IMG 
+-r-xr-xr-x   1    0    0        888 Oct  7 2008 [  32912 00] WIRELESS_STRENGTH_LEVEL_0_W.IMG 
+-r-xr-xr-x   1    0    0        882 Oct  7 2008 [  32928 00] WIRELESS_STRENGTH_LEVEL_1_B.IMG 
+-r-xr-xr-x   1    0    0        889 Oct  7 2008 [  32944 00] WIRELESS_STRENGTH_LEVEL_1_W.IMG 
+-r-xr-xr-x   1    0    0        879 Oct  7 2008 [  29056 00] WIRELESS_STRENGTH_LEVEL_2_B.IMG 
+-r-xr-xr-x   1    0    0        886 Oct  7 2008 [  29072 00] WIRELESS_STRENGTH_LEVEL_2_W.IMG 
+-r-xr-xr-x   1    0    0        877 Oct  7 2008 [  29088 00] WIRELESS_STRENGTH_LEVEL_3_B.IMG 
+-r-xr-xr-x   1    0    0        876 Oct  7 2008 [  29104 00] WIRELESS_STRENGTH_LEVEL_3_W.IMG 
+-r-xr-xr-x   1    0    0       2599 Oct 31 2008 [  29120 00] XBUTTON.IMG 
+-r-xr-xr-x   1    0    0       2666 Dec  9 2008 [  29136 00] XBUTTONOVER.IMG 
+-r-xr-xr-x   1    0    0        644 Oct  7 2008 [  29152 00] YELLOWSLIDER.IMG 
+-r-xr-xr-x   1    0    0       1256 Oct  7 2008 [  29168 00] YELLOWVERTSCROLLBUT.IMG 
+=============================================================== 
+Generated on Mon 08/08/2022 at 15:46:43.22 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

@@ -1,0 +1,170 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: NFL Street 3   
+Title ID: ULUS-10135 
+Region: USA  
+Languages: En  
+Volume Creation Date: 2006-10-17 11:52:45 
+Volume Size: 859 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: NFLSTREET3
+Volume set id: 
+Publisher id: ELECTRONIC ARTS
+Data preparer id: ELECTRONIC ARTS
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 440256
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Oct 17 2006 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2006 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 20 2006 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Sep 20 2006 [     30 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Sep 20 2006 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2006 [     22 02] .. 
+-r-xr-xr-x   1    0    0      21247 Aug 23 2006 [ 324176 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     219136 Sep  6 2006 [ 324192 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 Oct  6 2006 [ 324304 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      20140 Aug 23 2006 [ 324000 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0     190109 Aug 23 2006 [ 324016 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0     129620 Sep  6 2006 [ 324112 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 Sep 20 2006 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Sep 20 2006 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Sep 20 2006 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 20 2006 [     23 02] .. 
+-r-xr-xr-x   1    0    0    4911084 Oct 17 2006 [ 324624 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    4911424 Oct 17 2006 [     32 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Sep 20 2006 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Sep 20 2006 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 20 2006 [     23 02] .. 
+dr-xr-xr-x   1    0    0       4096 Sep 20 2006 [     27 02] data 
+dr-xr-xr-x   1    0    0       2048 Sep 20 2006 [     29 02] modules 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Sep 20 2006 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 20 2006 [     24 02] .. 
+-r-xr-xr-x   1    0    0   15456672 Sep 20 2006 [   6544 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5079424 Sep 20 2006 [   2448 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Sep 20 2006 [   2432 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/data/
+dr-xr-xr-x   1    0    0       4096 Sep 20 2006 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 20 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0    2304000 Sep 29 2006 [ 432288 00] AMBBANK.dat 
+-r-xr-xr-x   1    0    0   11130880 Oct  2 2006 [ 433424 00] ANIMDATA.dat 
+-r-xr-xr-x   1    0    0      17124 Sep 29 2006 [ 366080 00] ARTINGAM.dat 
+-r-xr-xr-x   1    0    0      30276 Sep 29 2006 [ 363792 00] BACKGRND.dat 
+-r-xr-xr-x   1    0    0      43844 Sep 29 2006 [ 363808 00] BOOT.dat 
+-r-xr-xr-x   1    0    0     165888 Aug 23 2006 [ 366096 00] CROWDDAT.dat 
+-r-xr-xr-x   1    0    0     635136 Sep 29 2006 [ 365248 00] DB_TEAMS.dat 
+-r-xr-xr-x   1    0    0      12288 Sep 29 2006 [ 365232 00] EAGL_ANIM.dat 
+-r-xr-xr-x   1    0    0    6696832 Oct  4 2006 [ 366192 00] ENVRNMT.dat 
+-r-xr-xr-x   1    0    0    7393280 Sep 29 2006 [ 428672 00] FIELDSFX.dat 
+-r-xr-xr-x   1    0    0     166376 Aug 23 2006 [ 327088 00] FONTS.dat 
+-r-xr-xr-x   1    0    0      72632 Sep 29 2006 [ 363840 00] GAMEOPTI.dat 
+-r-xr-xr-x   1    0    0     211456 Sep 29 2006 [ 327440 00] ICONS.dat 
+-r-xr-xr-x   1    0    0     133120 Sep 29 2006 [ 366000 00] IGDATA.dat 
+-r-xr-xr-x   1    0    0     157124 Oct  9 2006 [ 387776 00] INGAME.dat 
+-r-xr-xr-x   1    0    0     107256 Sep 29 2006 [ 327024 00] LCOMMON.dat 
+-r-xr-xr-x   1    0    0      56036 Sep 29 2006 [ 369472 00] LGAME.dat 
+-r-xr-xr-x   1    0    0     131440 Sep 29 2006 [ 363888 00] LGENERAL.dat 
+-r-xr-xr-x   1    0    0    5413248 Sep 29 2006 [ 403312 00] LOADDATA.dat 
+-r-xr-xr-x   1    0    0     545816 Oct 17 2006 [ 363968 00] MAINFLOW.dat 
+-r-xr-xr-x   1    0    0       5632 Sep 29 2006 [ 327552 00] MEMCARD.dat 
+-r-xr-xr-x   1    0    0      62884 Sep 29 2006 [ 364240 00] MINIGAME.dat 
+-r-xr-xr-x   1    0    0   70113536 Oct  6 2006 [ 329552 00] MOVIEDAT.dat 
+-r-xr-xr-x   1    0    0   26816512 Sep 29 2006 [ 374672 00] MUSIC.DAT 
+-r-xr-xr-x   1    0    0     872448 Oct  2 2006 [ 365568 00] OBJDEFS.dat 
+-r-xr-xr-x   1    0    0     731136 Oct  2 2006 [ 369504 00] OBJMODEL.dat 
+-r-xr-xr-x   1    0    0      74196 Sep 29 2006 [ 364272 00] ONLINE.dat 
+-r-xr-xr-x   1    0    0      47892 Sep 29 2006 [ 364320 00] PICKUPGA.dat 
+-r-xr-xr-x   1    0    0      59648 Sep 29 2006 [ 364560 00] PLADYNCL.dat 
+-r-xr-xr-x   1    0    0    8546304 Sep 29 2006 [ 414720 00] PLAFACE.dat 
+-r-xr-xr-x   1    0    0      98304 Sep 29 2006 [ 411968 00] PLAGLASS.dat 
+-r-xr-xr-x   1    0    0    2922496 Sep 29 2006 [ 405968 00] PLAHAIR.dat 
+-r-xr-xr-x   1    0    0     800768 Sep 29 2006 [ 411568 00] PLAHAT.dat 
+-r-xr-xr-x   1    0    0    5525504 Sep 29 2006 [ 412016 00] PLAJEWEL.dat 
+-r-xr-xr-x   1    0    0     878464 Sep 29 2006 [ 364592 00] PLAMODEL.dat 
+-r-xr-xr-x   1    0    0    8493056 Sep 29 2006 [ 407408 00] PLAROSTERHAIR.dat 
+-r-xr-xr-x   1    0    0   19504256 Sep 29 2006 [ 418896 00] PLATEX.dat 
+-r-xr-xr-x   1    0    0     331556 Sep 29 2006 [ 364352 00] PREGAME.dat 
+-r-xr-xr-x   1    0    0      67548 Oct  9 2006 [ 329504 00] SGENERAL.dat 
+-r-xr-xr-x   1    0    0     411392 Oct  5 2006 [ 365024 00] STATMOD.dat 
+-r-xr-xr-x   1    0    0     138544 Oct 10 2006 [ 369872 00] Streamed.db 
+-r-xr-xr-x   1    0    0      62168 Sep 29 2006 [ 364528 00] TEAMEDIT.dat 
+-r-xr-xr-x   1    0    0     516672 Oct 10 2006 [ 327184 00] TEMPLATE.dat 
+-r-xr-xr-x   1    0    0     466944 Sep 29 2006 [ 428432 00] UISOUND.dat 
+-r-xr-xr-x   1    0    0        900 Sep 29 2006 [ 327568 00] UI_PROJ.dat 
+-r-xr-xr-x   1    0    0    8317512 Oct 17 2006 [ 387856 00] fe.qkl 
+-r-xr-xr-x   1    0    0     478720 Sep 29 2006 [ 329264 00] fieldpics.dat 
+-r-xr-xr-x   1    0    0    2567704 Oct 17 2006 [ 391920 00] game0.qkl 
+-r-xr-xr-x   1    0    0    2133022 Oct 17 2006 [ 393184 00] game1.qkl 
+-r-xr-xr-x   1    0    0    2174578 Oct 17 2006 [ 394240 00] game2.qkl 
+-r-xr-xr-x   1    0    0    2528792 Oct 17 2006 [ 395312 00] game3.qkl 
+-r-xr-xr-x   1    0    0    2073610 Oct 17 2006 [ 396560 00] game4.qkl 
+-r-xr-xr-x   1    0    0    2332274 Oct 17 2006 [ 397584 00] game5.qkl 
+-r-xr-xr-x   1    0    0    2414378 Oct 17 2006 [ 398736 00] game6.qkl 
+-r-xr-xr-x   1    0    0    2501662 Oct 17 2006 [ 399920 00] game7.qkl 
+-r-xr-xr-x   1    0    0    2088562 Oct 17 2006 [ 401152 00] game8.qkl 
+-r-xr-xr-x   1    0    0    2317811 Oct 17 2006 [ 402176 00] game9.qkl 
+-r-xr-xr-x   1    0    0     230016 Sep 29 2006 [ 329136 00] minigamepics.dat 
+-r-xr-xr-x   1    0    0     118272 Sep 29 2006 [ 329072 00] uis_foot.dat 
+-r-xr-xr-x   1    0    0      21120 Sep 29 2006 [ 371712 00] uis_igpc.dat 
+-r-xr-xr-x   1    0    0    3583488 Sep 29 2006 [ 369952 00] uis_port.dat 
+-r-xr-xr-x   1    0    0    6014464 Sep 29 2006 [ 371728 00] uis_post.dat 
+-r-xr-xr-x   1    0    0    2846720 Oct  3 2006 [ 438864 00] uis_tlig.dat 
+-r-xr-xr-x   1    0    0    3039488 Sep 29 2006 [ 327584 00] uis_tmlo.dat 
+
+Directory listing of /PSP_GAME/USRDIR/modules/
+dr-xr-xr-x   1    0    0       2048 Sep 20 2006 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 20 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0       1088 Sep  5 2006 [ 324320 00] libadler.prx 
+-r-xr-xr-x   1    0    0       1472 Sep  5 2006 [ 324336 00] libbase64.prx 
+-r-xr-xr-x   1    0    0       3520 Sep  5 2006 [ 324352 00] libccc.prx 
+-r-xr-xr-x   1    0    0       4416 Sep  5 2006 [ 324368 00] libdeflt.prx 
+-r-xr-xr-x   1    0    0      23456 Sep  5 2006 [ 324384 00] libfont.prx 
+-r-xr-xr-x   1    0    0       4192 Sep  5 2006 [ 324400 00] libfpu.prx 
+-r-xr-xr-x   1    0    0       2400 Sep  5 2006 [ 324416 00] libmd5.prx 
+-r-xr-xr-x   1    0    0       1312 Sep  5 2006 [ 324432 00] libmt19937.prx 
+-r-xr-xr-x   1    0    0      35904 Sep  5 2006 [ 324448 00] libpsmfplayer.prx 
+-r-xr-xr-x   1    0    0       1952 Sep  5 2006 [ 324480 00] libqpcode.prx 
+-r-xr-xr-x   1    0    0       2576 Sep  5 2006 [ 324496 00] libsha1.prx 
+-r-xr-xr-x   1    0    0       2928 Sep  5 2006 [ 324512 00] libsha224.prx 
+-r-xr-xr-x   1    0    0       2928 Sep  5 2006 [ 324528 00] libsha256.prx 
+-r-xr-xr-x   1    0    0       4672 Sep  5 2006 [ 324544 00] libsha512.prx 
+-r-xr-xr-x   1    0    0       7440 Sep  5 2006 [ 324592 00] psmf.prx 
+-r-xr-xr-x   1    0    0       2448 Sep  5 2006 [ 324608 00] pspnet_ap_dialog_dummy.prx 
+-r-xr-xr-x   1    0    0      31792 Sep  5 2006 [ 324576 00] scan.prx 
+-r-xr-xr-x   1    0    0      29520 Sep  5 2006 [ 324560 00] show_macaddr.prx 
+=============================================================== 
+Generated on Mon 08/08/2022 at 15:46:36.15 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

@@ -1,0 +1,108 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Valhalla Knights 2   
+Title ID: ULES-01265 
+Region: EUR  
+Languages:   
+Volume Creation Date: 2009-04-06 12:11:07 
+Volume Size: 1020 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: 
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 522416
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Apr  6 2009 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr  6 2009 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Nov 15 2007 [     30 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr  6 2009 [     22 02] .. 
+-r-xr-xr-x   1    0    0      10406 Jul 23 2008 [  22112 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        472 Mar 31 2009 [  22096 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     272320 Feb 27 2008 [  22128 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     23 02] .. 
+-r-xr-xr-x   1    0    0    1599028 Apr  6 2009 [  21312 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    1599376 Apr  6 2009 [     32 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 Apr  2 2009 [     27 02] Rom 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     24 02] .. 
+-r-xr-xr-x   1    0    0   21602544 Nov 15 2007 [   4928 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5476608 Nov 15 2007 [    832 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Nov 15 2007 [    816 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/Rom/
+dr-xr-xr-x   1    0    0       2048 Apr  2 2009 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     25 02] .. 
+-r-xr-xr-x   1    0    0   20224000 May 20 2008 [ 381984 00] bgm.pak 
+-r-xr-xr-x   1    0    0   93083648 Apr  2 2009 [  22272 00] equip.pak 
+-r-xr-xr-x   1    0    0    2703360 Mar 31 2009 [ 380656 00] language.pak 
+dr-xr-xr-x   1    0    0       2048 Mar 30 2009 [     28 02] movie 
+-r-xr-xr-x   1    0    0  607774720 Mar 31 2009 [  67728 00] scene.pak 
+-r-xr-xr-x   1    0    0   33067008 Mar 31 2009 [ 364496 00] system.pak 
+
+Directory listing of /PSP_GAME/USRDIR/Rom/movie/
+dr-xr-xr-x   1    0    0       2048 Mar 30 2009 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr  2 2009 [     27 02] .. 
+dr-xr-xr-x   1    0    0       2048 Mar 30 2009 [     29 02] s 
+
+Directory listing of /PSP_GAME/USRDIR/Rom/movie/s/
+dr-xr-xr-x   1    0    0       2048 Mar 30 2009 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 30 2009 [     28 02] .. 
+-r-xr-xr-x   1    0    0   21905408 Mar 31 2009 [ 391872 00] mv_ed00.pmf 
+-r-xr-xr-x   1    0    0   21891072 Mar 31 2009 [ 402576 00] mv_ed01.pmf 
+-r-xr-xr-x   1    0    0   21899264 Mar 31 2009 [ 413280 00] mv_ed02.pmf 
+-r-xr-xr-x   1    0    0   21866496 Mar 31 2009 [ 423984 00] mv_ed03.pmf 
+-r-xr-xr-x   1    0    0   21901312 Mar 31 2009 [ 434672 00] mv_ed04.pmf 
+-r-xr-xr-x   1    0    0   21884928 Mar 31 2009 [ 445376 00] mv_ed05.pmf 
+-r-xr-xr-x   1    0    0   21899264 Mar 31 2009 [ 456064 00] mv_ed06.pmf 
+-r-xr-xr-x   1    0    0   21893120 Mar 31 2009 [ 466768 00] mv_ed07.pmf 
+-r-xr-xr-x   1    0    0   21886976 Mar 31 2009 [ 477472 00] mv_ed09.pmf 
+-r-xr-xr-x   1    0    0   21878784 Mar 31 2009 [ 488160 00] mv_ed0a.pmf 
+-r-xr-xr-x   1    0    0   11743232 Mar 31 2009 [ 498848 00] mv_op00.pmf 
+-r-xr-xr-x   1    0    0   34951168 Aug  4 2008 [ 504592 00] mv_op01.pmf 
+-r-xr-xr-x   1    0    0    1529856 Aug  4 2008 [ 521664 00] mv_str00.pmf 
+=============================================================== 
+Generated on Sun 07/08/2022 at 19:29:20.22 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

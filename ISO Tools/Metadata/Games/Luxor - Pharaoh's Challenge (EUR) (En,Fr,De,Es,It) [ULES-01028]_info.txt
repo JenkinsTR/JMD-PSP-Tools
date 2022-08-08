@@ -1,0 +1,107 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Luxor - Pharaoh's Challenge   
+Title ID: ULES-01028 
+Region: EUR  
+Languages: En,Fr,De,Es,It  
+Volume Creation Date: 2007-11-15 14:48:40 
+Volume Size: 128 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: ULES01028
+Volume set id: 1
+Publisher id: MUMBOJUMBO
+Data preparer id: MUMBOJUMBOLA
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 65856
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2007 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Oct 17 2007 [     28 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Oct 17 2007 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     22 02] .. 
+-r-xr-xr-x   1    0    0      25833 Oct 19 2007 [  61888 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        472 Jan 23 2008 [  65840 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     267342 Oct 19 2007 [  61904 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0     479188 Oct 23 2007 [  61648 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2007 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2007 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Oct 17 2007 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2007 [     23 02] .. 
+-r-xr-xr-x   1    0    0    1677960 Jan 23 2008 [  54128 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    1678304 Jan 23 2008 [     32 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2007 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Oct 17 2007 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2007 [     23 02] .. 
+-r-xr-xr-x   1    0    0   13681376 Jan 16 2008 [  54960 00] ASSETS_PSP.PPK 
+dr-xr-xr-x   1    0    0       2048 Jan 15 2008 [     27 02] ASSETS_PSP 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Oct 17 2007 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2007 [     24 02] .. 
+-r-xr-xr-x   1    0    0   18622480 Oct 17 2007 [   4976 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5293248 Oct 17 2007 [    880 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Oct 17 2007 [    864 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/ASSETS_PSP/
+dr-xr-xr-x   1    0    0       2048 Jan 15 2008 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2007 [     25 02] .. 
+-r-xr-xr-x   1    0    0     312864 Jan  9 2008 [  65280 00] MP_ANKS.PPK 
+-r-xr-xr-x   1    0    0     275616 Jan  9 2008 [  65440 00] MP_CARVE.PPK 
+-r-xr-xr-x   1    0    0     291328 Jan  9 2008 [  65584 00] MP_DAWN.PPK 
+-r-xr-xr-x   1    0    0     200992 Jan  9 2008 [  65728 00] MP_GUARD.PPK 
+-r-xr-xr-x   1    0    0     304672 Jan  9 2008 [  62048 00] MP_HALL.PPK 
+-r-xr-xr-x   1    0    0     317472 Jan  9 2008 [  62208 00] MP_HEAD.PPK 
+-r-xr-xr-x   1    0    0     325152 Jan  9 2008 [  62368 00] MP_HONOR.PPK 
+-r-xr-xr-x   1    0    0     311072 Jan  9 2008 [  62528 00] MP_LAMP.PPK 
+-r-xr-xr-x   1    0    0     171808 Jan  9 2008 [  62688 00] MP_MAAT.PPK 
+-r-xr-xr-x   1    0    0     280320 Jan  9 2008 [  62784 00] MP_NEFER.PPK 
+-r-xr-xr-x   1    0    0     303392 Jan  9 2008 [  62928 00] MP_POOL.PPK 
+-r-xr-xr-x   1    0    0     288416 Jan  9 2008 [  63088 00] MP_PTAH.PPK 
+-r-xr-xr-x   1    0    0     293952 Jan  9 2008 [  63232 00] MP_PYLON.PPK 
+-r-xr-xr-x   1    0    0     150272 Jan  9 2008 [  63376 00] MP_RUINS.PPK 
+-r-xr-xr-x   1    0    0     468192 Jan  9 2008 [  63456 00] MP_SENET.PPK 
+-r-xr-xr-x   1    0    0     382112 Jan  9 2008 [  63696 00] MP_SETS.PPK 
+-r-xr-xr-x   1    0    0     151136 Jan  9 2008 [  63888 00] MP_STEP.PPK 
+-r-xr-xr-x   1    0    0     182432 Jan  9 2008 [  63968 00] MP_TEMPL.PPK 
+-r-xr-xr-x   1    0    0     364448 Jan  9 2008 [  64064 00] MP_TEXTS.PPK 
+-r-xr-xr-x   1    0    0     307488 Jan  9 2008 [  64256 00] MP_TOWN.PPK 
+-r-xr-xr-x   1    0    0     332960 Jan  9 2008 [  64416 00] MP_TWO.PPK 
+-r-xr-xr-x   1    0    0     310944 Jan  9 2008 [  64592 00] MP_VALLY.PPK 
+-r-xr-xr-x   1    0    0     325824 Jan  9 2008 [  64752 00] MP_WALL.PPK 
+-r-xr-xr-x   1    0    0     424608 Jan  9 2008 [  64912 00] MP_WEAVE.PPK 
+-r-xr-xr-x   1    0    0     295072 Jan  9 2008 [  65120 00] MP_WINGS.PPK 
+=============================================================== 
+Generated on Sun 07/08/2022 at 19:29:02.85 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

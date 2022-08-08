@@ -1,0 +1,102 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: WipEout Pulse   
+Title ID: UCET-00713 
+Region: Europe  
+Languages: En,Fr,De,Es,It  
+Volume Creation Date: 2007-05-31 18:03:21 
+Volume Size: 502 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: SCEE
+Volume set id: SCEE
+Publisher id: SCEE
+Data preparer id: MARC LITTLEMORE
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 257120
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 May 31 2007 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 May 31 2007 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb  1 2007 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Feb  1 2007 [     31 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Feb  1 2007 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 May 31 2007 [     22 02] .. 
+-r-xr-xr-x   1    0    0      11784 Nov 29 2006 [  22288 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        472 May 23 2007 [ 252416 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     149522 Nov 29 2006 [  22304 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Feb  1 2007 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 May 31 2007 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Feb  1 2007 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb  1 2007 [     23 02] .. 
+-r-xr-xr-x   1    0    0    3596928 May 31 2007 [ 250656 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    3597264 May 31 2007 [     32 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Feb  1 2007 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 May 31 2007 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb  1 2007 [     23 02] .. 
+-r-xr-xr-x   1    0    0  466017472 May 31 2007 [  22384 00] Data.wad 
+-r-xr-xr-x   1    0    0    1446144 May 31 2007 [ 249936 00] FEData.wad 
+dr-xr-xr-x   1    0    0       2048 May 30 2007 [     27 02] UCET00713 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Feb  1 2007 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb  1 2007 [     24 02] .. 
+-r-xr-xr-x   1    0    0   16820256 Feb  1 2007 [   5904 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5214848 Feb  1 2007 [   1808 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Feb  1 2007 [   1792 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/UCET00713/
+dr-xr-xr-x   1    0    0       2048 May 30 2007 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 May 31 2007 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 May 30 2007 [     28 02] GSHARE 
+dr-xr-xr-x   1    0    0       2048 May 30 2007 [     29 02] PRX 
+dr-xr-xr-x   1    0    0       2048 May 30 2007 [     30 02] SYSDIR 
+
+Directory listing of /PSP_GAME/USRDIR/UCET00713/GSHARE/
+dr-xr-xr-x   1    0    0       2048 May 30 2007 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 May 30 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0    1027856 Feb  9 2007 [ 252432 00] SHARE.BIN 
+
+Directory listing of /PSP_GAME/USRDIR/UCET00713/PRX/
+dr-xr-xr-x   1    0    0       2048 May 30 2007 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 May 30 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0      23456 Aug 17 2006 [ 252944 00] libfont.prx 
+-r-xr-xr-x   1    0    0       4000 Aug 17 2006 [ 252960 00] libmp3.prx 
+-r-xr-xr-x   1    0    0       2448 Aug 17 2006 [ 252976 00] pspnet_ap_dialog_dummy.prx 
+
+Directory listing of /PSP_GAME/USRDIR/UCET00713/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 May 30 2007 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 May 30 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0    8429869 May 26 2005 [ 252992 00] BOOT.BIN 
+=============================================================== 
+Generated on Sun 07/08/2022 at 13:43:40.99 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

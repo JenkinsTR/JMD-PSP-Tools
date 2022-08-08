@@ -1,0 +1,139 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Mercury Meltdown   
+Title ID: ULUX-80215 
+Region: USA  
+Languages: Beta  
+Volume Creation Date: 2006-06-08 18:52:05 
+Volume Size: 252 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: 
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 129440
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Jun  8 2006 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun  8 2006 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov  3 2005 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Nov  3 2005 [     31 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Nov  3 2005 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun  8 2006 [     22 02] .. 
+-r-xr-xr-x   1    0    0      25596 Mar  2 2006 [  21904 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     421888 Mar  3 2006 [  21696 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 Jun  8 2006 [  53472 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     139537 Jun  8 2006 [ 129360 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Nov  3 2005 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Nov  3 2005 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Nov  3 2005 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov  3 2005 [     23 02] .. 
+-r-xr-xr-x   1    0    0    1747561 Jun  8 2006 [  52608 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    1747904 Jun  8 2006 [     32 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Nov  3 2005 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Nov  3 2005 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov  3 2005 [     23 02] .. 
+-r-xr-xr-x   1    0    0   87235510 Jun  8 2006 [  53488 00] General.paq 
+-r-xr-xr-x   1    0    0   46793636 Jun  8 2006 [  96096 00] World1.paq 
+dr-xr-xr-x   1    0    0       2048 Nov  3 2005 [     27 02] data 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Nov  3 2005 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov  3 2005 [     24 02] .. 
+-r-xr-xr-x   1    0    0   15027936 Nov  3 2005 [   5008 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5089088 Nov  3 2005 [    912 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Nov  3 2005 [    896 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/data/
+dr-xr-xr-x   1    0    0       2048 Nov  3 2005 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov  3 2005 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun  1 2006 [     28 02] movies 
+dr-xr-xr-x   1    0    0       2048 Jun  5 2006 [     29 02] pspsys 
+
+Directory listing of /PSP_GAME/USRDIR/data/movies/
+dr-xr-xr-x   1    0    0       2048 Jun  1 2006 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov  3 2005 [     27 02] .. 
+-r-xr-xr-x   1    0    0    2498560 May  3 2006 [  42944 00] aero_unlock.pmf 
+-r-xr-xr-x   1    0    0    2746368 May  3 2006 [  44176 00] astro_unlock.pmf 
+-r-xr-xr-x   1    0    0     423936 Oct 10 2005 [  45520 00] attract_sequence.pmf 
+-r-xr-xr-x   1    0    0    2945024 May 16 2006 [  45728 00] biology_unlock.pmf 
+-r-xr-xr-x   1    0    0    2969600 May  3 2006 [  47168 00] chem_unlock.pmf 
+-r-xr-xr-x   1    0    0    2742272 May  3 2006 [  48624 00] electric_unlock.pmf 
+-r-xr-xr-x   1    0    0    3207168 May  3 2006 [  49968 00] geo_unlock.pmf 
+-r-xr-xr-x   1    0    0    2174976 Nov 23 2005 [  51536 00] hitech_Intro.pmf 
+-r-xr-xr-x   1    0    0    1099776 Feb 13 2006 [  21920 00] ignition_bumper.pmf 
+-r-xr-xr-x   1    0    0    1124352 Jun  1 2006 [  22464 00] intro.pmf 
+-r-xr-xr-x   1    0    0    2097152 Feb  3 2005 [  23024 00] logocombo.pmf 
+-r-xr-xr-x   1    0    0    3629056 May  8 2006 [  24048 00] metrix_unlock.pmf 
+-r-xr-xr-x   1    0    0    2764800 May 16 2006 [  25824 00] micro_unlock.pmf 
+-r-xr-xr-x   1    0    0   21286912 Jun  7 2006 [ 118960 00] mm_trailer.pmf 
+-r-xr-xr-x   1    0    0    2955264 May  3 2006 [  27184 00] nuclear_unlock.pmf 
+-r-xr-xr-x   1    0    0    3655680 May  8 2006 [  28640 00] paint_unlock.pmf 
+-r-xr-xr-x   1    0    0    3649536 May  8 2006 [  30432 00] race_unlock.pmf 
+-r-xr-xr-x   1    0    0    3665920 May  8 2006 [  32224 00] rodeo_unlock.pmf 
+-r-xr-xr-x   1    0    0    3659776 May  9 2006 [  34016 00] shove_unlock.pmf 
+-r-xr-xr-x   1    0    0    2494464 May  9 2006 [  35808 00] underwater_unlock.pmf 
+-r-xr-xr-x   1    0    0    2764800 May  3 2006 [  37040 00] virtual_unlock.pmf 
+-r-xr-xr-x   1    0    0    4231168 May 10 2006 [  38400 00] winner.pmf 
+-r-xr-xr-x   1    0    0    5038080 May 11 2006 [  40480 00] winnerb.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/data/pspsys/
+dr-xr-xr-x   1    0    0       2048 Jun  5 2006 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov  3 2005 [     27 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun  5 2006 [     30 02] module 
+
+Directory listing of /PSP_GAME/USRDIR/data/pspsys/module/
+dr-xr-xr-x   1    0    0       2048 Jun  5 2006 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun  5 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0       1104 Apr 26 2006 [  21392 00] libadler.prx 
+-r-xr-xr-x   1    0    0       1472 Apr 26 2006 [  21408 00] libbase64.prx 
+-r-xr-xr-x   1    0    0       3520 Apr 26 2006 [  21424 00] libccc.prx 
+-r-xr-xr-x   1    0    0       4432 Apr 26 2006 [  21440 00] libdeflt.prx 
+-r-xr-xr-x   1    0    0      23456 Apr 26 2006 [  21456 00] libfont.prx 
+-r-xr-xr-x   1    0    0       4176 Apr 26 2006 [  21472 00] libfpu.prx 
+-r-xr-xr-x   1    0    0       2400 Apr 26 2006 [  21488 00] libmd5.prx 
+-r-xr-xr-x   1    0    0       1312 Apr 26 2006 [  21504 00] libmt19937.prx 
+-r-xr-xr-x   1    0    0      35984 Apr 26 2006 [  21664 00] libpsmfplayer.prx 
+-r-xr-xr-x   1    0    0       1936 Apr 26 2006 [  21520 00] libqpcode.prx 
+-r-xr-xr-x   1    0    0       2576 Apr 26 2006 [  21536 00] libsha1.prx 
+-r-xr-xr-x   1    0    0       2928 Apr 26 2006 [  21648 00] libsha224.prx 
+-r-xr-xr-x   1    0    0       2944 Apr 26 2006 [  21632 00] libsha256.prx 
+-r-xr-xr-x   1    0    0       4672 Apr 26 2006 [  21616 00] libsha512.prx 
+-r-xr-xr-x   1    0    0       7440 Apr 26 2006 [  21552 00] psmf.prx 
+-r-xr-xr-x   1    0    0       2448 Apr 26 2006 [  21568 00] pspnet_ap_dialog_dummy.prx 
+-r-xr-xr-x   1    0    0      31824 Apr 26 2006 [  21584 00] scan.prx 
+-r-xr-xr-x   1    0    0      29536 Apr 26 2006 [  21600 00] show_macaddr.prx 
+=============================================================== 
+Generated on Sun 07/08/2022 at 13:43:39.20 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

@@ -1,0 +1,76 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Page Zero   
+Title ID: UCET-01058 
+Region: Europe  
+Languages: En,Fr,De,Es,It  
+Volume Creation Date: 2009-02-20 13:58:24 
+Volume Size: 107 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: 
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 55088
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Feb 20 2009 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 20 2009 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct 27 2008 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Oct 27 2008 [     27 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Oct 27 2008 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 20 2009 [     22 02] .. 
+-r-xr-xr-x   1    0    0      14928 Feb 17 2009 [  54592 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        500 Feb 20 2009 [  55072 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      68612 Feb 17 2009 [  54544 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Oct 27 2008 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Oct 27 2008 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Oct 27 2008 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 27 2008 [     23 02] .. 
+-r-xr-xr-x   1    0    0    1271209 Feb 20 2009 [  53920 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    1271552 Feb 20 2009 [     32 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Oct 27 2008 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Oct 27 2008 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 27 2008 [     23 02] .. 
+-r-xr-xr-x   1    0    0     939343 Feb 20 2009 [  54608 00] Ui.psarc 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Oct 27 2008 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 27 2008 [     24 02] .. 
+-r-xr-xr-x   1    0    0   21602544 Oct 27 2008 [   4768 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5476608 Oct 27 2008 [    672 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Oct 27 2008 [    656 00] PARAM.SFO 
+=============================================================== 
+Generated on Sun 07/08/2022 at 13:43:39.70 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

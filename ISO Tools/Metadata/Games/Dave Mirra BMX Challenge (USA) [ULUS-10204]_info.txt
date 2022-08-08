@@ -1,0 +1,120 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Dave Mirra BMX Challenge   
+Title ID: ULUS-10204 
+Region: USA  
+Languages:   
+Volume Creation Date: 2006-09-27 18:09:09 
+Volume Size: 696 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: MIRRA
+Volume set id: RC
+Publisher id: 
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 356368
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2006 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Feb 21 2006 [     31 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Feb 21 2006 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2006 [     22 02] .. 
+-r-xr-xr-x   1    0    0       4402 Jun  8 2006 [ 280001 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        472 Sep 20 2006 [ 280000 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      34097 Sep 20 2006 [ 280004 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2006 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2006 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Feb 21 2006 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2006 [     23 02] .. 
+-r-xr-xr-x   1    0    0    3269693 Sep 27 2006 [ 280021 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    3270032 Sep 27 2006 [     32 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2006 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Feb 21 2006 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2006 [     23 02] .. 
+-r-xr-xr-x   1    0    0    1254686 Sep 27 2006 [ 290091 00] ANIM.PAK 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2006 [     27 02] Audio 
+-r-xr-xr-x   1    0    0  122286596 Sep 27 2006 [ 290704 00] DATA.PAK 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2006 [     28 02] MOVIES 
+-r-xr-xr-x   1    0    0      26478 Sep 27 2006 [ 290078 00] PART.PAK 
+-r-xr-xr-x   1    0    0     181448 Sep 27 2006 [ 289989 00] PERMTEX.PAK 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2006 [     29 02] PRX 
+-r-xr-xr-x   1    0    0     245316 Sep 27 2006 [ 289869 00] SHELL.PAK 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Feb 21 2006 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2006 [     24 02] .. 
+-r-xr-xr-x   1    0    0   15456336 Feb 21 2006 [   5727 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5079424 Feb 21 2006 [   1631 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Feb 21 2006 [   1629 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/Audio/
+dr-xr-xr-x   1    0    0       2048 Feb 21 2006 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2006 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2006 [     30 02] Streams 
+
+Directory listing of /PSP_GAME/USRDIR/MOVIES/
+dr-xr-xr-x   1    0    0       2048 Feb 21 2006 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0   15239168 Sep 24 2006 [ 281929 00] bmxdemo.pmf 
+-r-xr-xr-x   1    0    0     495616 Sep  1 2006 [ 281687 00] crave.pmf 
+-r-xr-xr-x   1    0    0    1021952 Sep  3 2006 [ 289370 00] lfplogo.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/PRX/
+dr-xr-xr-x   1    0    0       2048 Feb 21 2006 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0       7440 Aug 17 2006 [ 281649 00] PSMF.PRX 
+-r-xr-xr-x   1    0    0       2448 Aug 17 2006 [ 281653 00] PSPNET_AP_DIALOG_DUMMY.PRX 
+-r-xr-xr-x   1    0    0       1088 Aug 17 2006 [ 281671 00] libadler.prx 
+-r-xr-xr-x   1    0    0       1472 Aug 17 2006 [ 281618 00] libbase64.prx 
+-r-xr-xr-x   1    0    0       3520 Aug 17 2006 [ 281619 00] libccc.prx 
+-r-xr-xr-x   1    0    0       4416 Aug 17 2006 [ 281621 00] libdeflt.prx 
+-r-xr-xr-x   1    0    0      23456 Aug 17 2006 [ 281624 00] libfont.prx 
+-r-xr-xr-x   1    0    0       4192 Aug 17 2006 [ 281636 00] libfpu.prx 
+-r-xr-xr-x   1    0    0       2400 Aug 17 2006 [ 281639 00] libmd5.prx 
+-r-xr-xr-x   1    0    0       1312 Aug 17 2006 [ 281641 00] libmt19937.prx 
+-r-xr-xr-x   1    0    0       1952 Aug 17 2006 [ 281642 00] libqpcode.prx 
+-r-xr-xr-x   1    0    0       2576 Aug 17 2006 [ 281643 00] libsha1.prx 
+-r-xr-xr-x   1    0    0       2928 Aug 17 2006 [ 281645 00] libsha224.prx 
+-r-xr-xr-x   1    0    0       2928 Aug 17 2006 [ 281647 00] libsha256.prx 
+-r-xr-xr-x   1    0    0      31792 Aug 17 2006 [ 281655 00] scan.prx 
+-r-xr-xr-x   1    0    0      29520 Aug 17 2006 [ 281672 00] show_macaddr.prx 
+
+Directory listing of /PSP_GAME/USRDIR/Audio/Streams/
+dr-xr-xr-x   1    0    0       2048 Feb 21 2006 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2006 [     27 02] .. 
+-r-xr-xr-x   1    0    0   12171940 Aug 31 2006 [ 350415 00] STREAM_PSP.PAK 
+=============================================================== 
+Generated on Sun 07/08/2022 at 19:28:56.62 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

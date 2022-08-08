@@ -1,0 +1,99 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Rocky Balboa   
+Title ID: ULES-00670 
+Region: EUR  
+Languages: En,Fr,De,Es,It  
+Volume Creation Date: 2006-11-08 13:58:41 
+Volume Size: 864 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: UBISOFT
+Volume set id: UBISOFT
+Publisher id: UBISOFT
+Data preparer id: UBISOFT
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 442528
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Nov  8 2006 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov  8 2006 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov  8 2006 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Nov  8 2006 [     29 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Nov  8 2006 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov  8 2006 [     22 02] .. 
+-r-xr-xr-x   1    0    0      16375 Oct  1 2006 [ 247248 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     360448 Oct  6 2006 [ 247264 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 Nov 24 2006 [ 247440 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      19819 Oct 25 2006 [ 247456 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0     131953 Oct 25 2006 [ 247472 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0     125604 Sep 29 2006 [ 247552 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 Nov  8 2006 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Nov 24 2006 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Nov  8 2006 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov  8 2006 [     23 02] .. 
+-r-xr-xr-x   1    0    0    3993797 Nov 25 2006 [ 245296 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    3994144 Nov 27 2006 [     32 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Nov  8 2006 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Nov 24 2006 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov  8 2006 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct 24 2006 [     27 02] NET 
+dr-xr-xr-x   1    0    0       2048 Oct 24 2006 [     28 02] PSP_MODULES 
+-r-xr-xr-x   1    0    0  398835081 Nov 25 2006 [ 247776 00] ROCKY6.BIG 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Nov  8 2006 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov  8 2006 [     24 02] .. 
+-r-xr-xr-x   1    0    0   15456416 Nov  8 2006 [   6096 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5079424 Nov  8 2006 [   2000 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Nov  8 2006 [   1984 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/NET/
+dr-xr-xr-x   1    0    0       2048 Oct 24 2006 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 24 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0         97 Sep  6 2006 [ 247616 00] DEV003.CNF 
+-r-xr-xr-x   1    0    0        150 Sep  6 2006 [ 247632 00] IFC003.CNF 
+-r-xr-xr-x   1    0    0        684 Sep  6 2006 [ 247648 00] NET.DB 
+-r-xr-xr-x   1    0    0        103 Sep  6 2006 [ 247664 00] NET003.CNF 
+
+Directory listing of /PSP_GAME/USRDIR/PSP_MODULES/
+dr-xr-xr-x   1    0    0       2048 Oct 24 2006 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 24 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0       3264 Sep  6 2006 [ 247680 00] AUDIOCODEC.PRX 
+-r-xr-xr-x   1    0    0      10128 Sep  6 2006 [ 247696 00] LIBATRAC3PLUS.PRX 
+-r-xr-xr-x   1    0    0      20976 Sep  6 2006 [ 247712 00] MPEG.PRX 
+-r-xr-xr-x   1    0    0       5136 Sep  6 2006 [ 247728 00] MPEGBASE.PRX 
+-r-xr-xr-x   1    0    0       6864 Sep  6 2006 [ 247744 00] SC_SASCORE.PRX 
+-r-xr-xr-x   1    0    0       3440 Sep  6 2006 [ 247760 00] VIDEOCODEC.PRX 
+=============================================================== 
+Generated on Sun 07/08/2022 at 19:29:10.43 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

@@ -1,0 +1,127 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Who Wants To Be A Millionare   
+Title ID: ULES-00540 
+Region: EUR  
+Languages: v1.02  
+Volume Creation Date: 2006-10-17 14:29:40 
+Volume Size: 314 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: ULES00540
+Volume set id: 1
+Publisher id: EIDOS
+Data preparer id: KOSTAS KOSTIADIS
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 160960
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Oct 17 2006 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2006 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2006 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Oct 17 2006 [     31 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Oct 17 2006 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2006 [     22 02] .. 
+-r-xr-xr-x   1    0    0      18711 Aug 31 2006 [  21696 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        472 Oct 17 2006 [  21712 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      80068 Aug 31 2006 [  21728 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0     116135 Aug 31 2006 [  21776 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2006 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2006 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Oct 17 2006 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2006 [     23 02] .. 
+-r-xr-xr-x   1    0    0    2369704 Oct 17 2006 [  21840 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    2370048 Oct 17 2006 [     32 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2006 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Oct 17 2006 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2006 [     23 02] .. 
+-r-xr-xr-x   1    0    0  212819472 Oct 17 2006 [  23184 00] ARCHIVE.IMP 
+-r-xr-xr-x   1    0    0     354567 Oct 17 2006 [  23008 00] ARCHIVE.XML 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2006 [     27 02] MODULE 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2006 [     28 02] STREAMS 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Oct 17 2006 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2006 [     24 02] .. 
+-r-xr-xr-x   1    0    0   15456672 Oct 17 2006 [   5312 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5079424 Oct 17 2006 [   1216 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Oct 17 2006 [   1200 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/MODULE/
+dr-xr-xr-x   1    0    0       2048 Oct 17 2006 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0       1088 Dec  8 2005 [ 127104 00] LIBADLER.PRX 
+-r-xr-xr-x   1    0    0      10128 Dec  8 2005 [ 127120 00] LIBATRAC3PLUS.PRX 
+-r-xr-xr-x   1    0    0       1472 Dec  8 2005 [ 127136 00] LIBBASE64.PRX 
+-r-xr-xr-x   1    0    0       3520 Dec  8 2005 [ 127152 00] LIBCCC.PRX 
+-r-xr-xr-x   1    0    0       4416 Dec  8 2005 [ 127168 00] LIBDEFLT.PRX 
+-r-xr-xr-x   1    0    0      23488 Dec  8 2005 [ 127184 00] LIBFONT.PRX 
+-r-xr-xr-x   1    0    0       3696 Dec  8 2005 [ 127200 00] LIBFPU.PRX 
+-r-xr-xr-x   1    0    0       2384 Dec  8 2005 [ 127216 00] LIBMD5.PRX 
+-r-xr-xr-x   1    0    0       1296 Dec  8 2005 [ 127232 00] LIBMT19937.PRX 
+-r-xr-xr-x   1    0    0      35632 Dec  8 2005 [ 127248 00] LIBPSMFPLAYER.PRX 
+-r-xr-xr-x   1    0    0       1936 Dec  8 2005 [ 127280 00] LIBQPCODE.PRX 
+-r-xr-xr-x   1    0    0       2576 Dec  8 2005 [ 127296 00] LIBSHA1.PRX 
+-r-xr-xr-x   1    0    0       2912 Dec  8 2005 [ 127312 00] LIBSHA224.PRX 
+-r-xr-xr-x   1    0    0       2912 Dec  8 2005 [ 127328 00] LIBSHA256.PRX 
+-r-xr-xr-x   1    0    0       4592 Dec  8 2005 [ 127344 00] LIBSHA512.PRX 
+-r-xr-xr-x   1    0    0      20976 Dec  8 2005 [ 127360 00] MPEG.PRX 
+-r-xr-xr-x   1    0    0       6320 Dec  8 2005 [ 127376 00] PSMF.PRX 
+-r-xr-xr-x   1    0    0       2448 Dec  8 2005 [ 127392 00] PSPNET_AP_DIALOG_DUMMY.PRX 
+-r-xr-xr-x   1    0    0      31824 Dec  8 2005 [ 127408 00] SCAN.PRX 
+-r-xr-xr-x   1    0    0      29536 Dec  8 2005 [ 127424 00] SHOW_MACADDR.PRX 
+
+Directory listing of /PSP_GAME/USRDIR/STREAMS/
+dr-xr-xr-x   1    0    0       2048 Oct 17 2006 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2006 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2006 [     29 02] MOVIES 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2006 [     30 02] SOUND 
+
+Directory listing of /PSP_GAME/USRDIR/STREAMS/MOVIES/
+dr-xr-xr-x   1    0    0       2048 Oct 17 2006 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2006 [     28 02] .. 
+-r-xr-xr-x   1    0    0    4614144 Oct 17 2006 [ 158256 00] ATT.PMF 
+-r-xr-xr-x   1    0    0     708608 Oct 17 2006 [ 156912 00] CEL.PMF 
+-r-xr-xr-x   1    0    0     729088 Oct 17 2006 [ 157264 00] CMX.PMF 
+-r-xr-xr-x   1    0    0    1259520 Oct 17 2006 [ 157632 00] EID.PMF 
+-r-xr-xr-x   1    0    0     905216 Oct 17 2006 [ 160512 00] LEG.PMF 
+
+Directory listing of /PSP_GAME/USRDIR/STREAMS/SOUND/
+dr-xr-xr-x   1    0    0       2048 Oct 17 2006 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2006 [     28 02] .. 
+-r-xr-xr-x   1    0    0   59955712 Oct 17 2006 [ 127440 00] MUSIC.ATC 
+-r-xr-xr-x   1    0    0        792 Oct 17 2006 [ 156720 00] MUSIC.HSH 
+-r-xr-xr-x   1    0    0        128 Oct 17 2006 [ 156736 00] SFX.HSH 
+-r-xr-xr-x   1    0    0     313216 Oct 17 2006 [ 156752 00] SFX.MSC 
+=============================================================== 
+Generated on Sun 07/08/2022 at 19:29:21.11 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

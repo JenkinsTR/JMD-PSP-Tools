@@ -1,0 +1,300 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: LEGO Star Wars II The Original Trilogy   
+Title ID: ULES-00479 
+Region: EUR  
+Languages: En,Fr,De,Es,It,Da  
+Volume Creation Date: 2006-09-22 15:35:29 
+Volume Size: 1252 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 2_00
+Volume set id: 2_00
+Publisher id: LUCASARTS
+Data preparer id: LUCASARTS
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 641024
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Sep 22 2006 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 22 2006 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 22 2006 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Sep 22 2006 [     37 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Sep 22 2006 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 22 2006 [     22 02] .. 
+-r-xr-xr-x   1    0    0      18149 Apr 28 2006 [  23680 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        472 Aug 31 2006 [  23696 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     141063 Jul 28 2006 [  23456 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0     291068 Jul 28 2006 [  23536 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 Sep 22 2006 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Sep 22 2006 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Sep 22 2006 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 22 2006 [     23 02] .. 
+-r-xr-xr-x   1    0    0    2966016 Sep 22 2006 [  22000 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    2966352 Sep 22 2006 [     48 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Sep 22 2006 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Sep 22 2006 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 22 2006 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 22 2006 [     27 02] audio 
+dr-xr-xr-x   1    0    0       2048 Sep 22 2006 [     28 02] movies 
+-r-xr-xr-x   1    0    0          3 Jul 16 2006 [ 210064 00] psp_config.txt 
+-r-xr-xr-x   1    0    0  882563104 Aug 31 2006 [ 210080 00] pspdat.dat 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Sep 22 2006 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 22 2006 [     24 02] .. 
+-r-xr-xr-x   1    0    0   15456672 Sep 22 2006 [   5616 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5079424 Sep 22 2006 [   1520 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Sep 22 2006 [   1504 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/audio/
+dr-xr-xr-x   1    0    0       2048 Sep 22 2006 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 22 2006 [     25 02] .. 
+dr-xr-xr-x   1    0    0       6144 Sep 22 2006 [     29 02] _cutscenes 
+dr-xr-xr-x   1    0    0       8192 Sep 22 2006 [     32 02] _music 
+
+Directory listing of /PSP_GAME/USRDIR/movies/
+dr-xr-xr-x   1    0    0       2048 Sep 22 2006 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 22 2006 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 22 2006 [     36 02] ntsc 
+
+Directory listing of /PSP_GAME/USRDIR/audio/_cutscenes/
+dr-xr-xr-x   1    0    0       6144 Sep 22 2006 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 22 2006 [     27 02] .. 
+-r-xr-xr-x   1    0    0     268680 Jun 29 2006 [ 104816 00] AsteroidChase_Intro.at3 
+-r-xr-xr-x   1    0    0     264960 Jul 26 2006 [ 104960 00] AsteroidChase_Midtro.at3 
+-r-xr-xr-x   1    0    0     562560 Jun 18 2006 [ 105104 00] AsteroidChase_Outro.at3 
+-r-xr-xr-x   1    0    0    1114608 Jun 27 2006 [ 105392 00] BlockadeRunner_Intro.at3 
+-r-xr-xr-x   1    0    0     252312 Jun  9 2006 [ 105952 00] BlockadeRunner_Midtro.at3 
+-r-xr-xr-x   1    0    0     593808 Jun 16 2006 [ 106080 00] BlockadeRunner_Outro.at3 
+-r-xr-xr-x   1    0    0     300672 Jun 27 2006 [ 106384 00] BlockadeRunner_OutroA.at3 
+-r-xr-xr-x   1    0    0    1245552 Jun 28 2006 [ 106544 00] CloudCityEscape_Intro.at3 
+-r-xr-xr-x   1    0    0     359448 Jun 28 2006 [ 107168 00] CloudCityEscape_Midtro.at3 
+-r-xr-xr-x   1    0    0     828912 Jun 27 2006 [ 107344 00] CloudCityEscape_Outro.at3 
+-r-xr-xr-x   1    0    0     647376 Jun 17 2006 [ 107760 00] CloudCityTrapOutro.at3 
+-r-xr-xr-x   1    0    0     450216 Jun 18 2006 [ 108080 00] CloudCityTrap_intro.at3 
+-r-xr-xr-x   1    0    0     861648 Jul 12 2006 [ 108304 00] Dagobah_Intro.at3 
+-r-xr-xr-x   1    0    0     770136 Jun 27 2006 [ 108736 00] Dagobah_Midtro1.at3 
+-r-xr-xr-x   1    0    0     215112 Jun 27 2006 [ 109120 00] Dagobah_Midtro2.at3 
+-r-xr-xr-x   1    0    0     633984 Jun 27 2006 [ 109232 00] Dagobah_Outro.at3 
+-r-xr-xr-x   1    0    0     636216 Jun 29 2006 [ 109552 00] DeathStar2Battle_Intro.at3 
+-r-xr-xr-x   1    0    0    1065504 Jun 16 2006 [ 110384 00] DeathStarBattle_Intro.at3 
+-r-xr-xr-x   1    0    0     369864 Jun 17 2006 [ 110912 00] DeathStarBattle_Midtro.at3 
+-r-xr-xr-x   1    0    0     404832 Jul 17 2006 [ 111104 00] DeathStarBattle_Midtro_inga.at3 
+-r-xr-xr-x   1    0    0     722520 Jun 16 2006 [ 111312 00] DeathStarBattle_Outro.at3 
+-r-xr-xr-x   1    0    0     899592 May 12 2006 [ 112176 00] DeathStarRescue.at3 
+-r-xr-xr-x   1    0    0     372840 Jun 17 2006 [ 112624 00] DeathStarRescueOutro.at3 
+-r-xr-xr-x   1    0    0     946464 Jun 28 2006 [ 112816 00] DeathStarRescue_Intro.at3 
+-r-xr-xr-x   1    0    0     295464 Jun 16 2006 [ 113280 00] DeathStarRescue_Midtro.at3 
+-r-xr-xr-x   1    0    0     471048 Jun 29 2006 [ 109872 00] Deathstar2battle_midtro.at3 
+-r-xr-xr-x   1    0    0     535776 Jun 28 2006 [ 110112 00] Deathstar2battle_outro.at3 
+-r-xr-xr-x   1    0    0     631752 Jun 29 2006 [ 111680 00] DeathstarEscape_Intro.at3 
+-r-xr-xr-x   1    0    0     340848 Jun 28 2006 [ 112000 00] DeathstarEscape_Outro.at3 
+-r-xr-xr-x   1    0    0    1090056 Jun 30 2006 [ 113440 00] EmperorFight_Intro.at3 
+-r-xr-xr-x   1    0    0     828912 Jun 29 2006 [ 113984 00] EmperorFight_Outro.at3 
+-r-xr-xr-x   1    0    0    1139160 Jun 30 2006 [ 114400 00] EndorBattle_Intro.at3 
+-r-xr-xr-x   1    0    0     273888 Jun 27 2006 [ 114960 00] EndorBattle_Outro.at3 
+-r-xr-xr-x   1    0    0     485184 Jul  1 2006 [ 115104 00] Ep1_DarthMaulIntro.at3 
+-r-xr-xr-x   1    0    0     676392 Jul  1 2006 [ 115344 00] Ep1_DarthMaulOutro.at3 
+-r-xr-xr-x   1    0    0     134016 Jul  1 2006 [ 115680 00] Ep2_DookuFight.at3 
+-r-xr-xr-x   1    0    0     207672 Jul  1 2006 [ 115760 00] Ep2_DookuIntro.at3 
+-r-xr-xr-x   1    0    0     325224 Jul  1 2006 [ 115872 00] Ep2_DookuOutro.at3 
+-r-xr-xr-x   1    0    0     440544 Jul  1 2006 [ 116032 00] Ep2_DookuYodaArr.at3 
+-r-xr-xr-x   1    0    0     362424 Jul  1 2006 [ 116256 00] Ep3_VaderFight1.at3 
+-r-xr-xr-x   1    0    0     188328 Jul  1 2006 [ 116448 00] Ep3_VaderFight2.at3 
+-r-xr-xr-x   1    0    0     431616 Jul  1 2006 [ 116544 00] Ep3_VaderIntro.at3 
+-r-xr-xr-x   1    0    0     260496 Jul  1 2006 [ 116768 00] Ep3_VaderOutroExtended.at3 
+-r-xr-xr-x   1    0    0     195024 Jul  1 2006 [ 116896 00] Ep3_VaderOutroShort.at3 
+-r-xr-xr-x   1    0    0     589344 Jun 17 2006 [ 116992 00] Episode4Ending.at3 
+-r-xr-xr-x   1    0    0     883224 Jun 30 2006 [ 117280 00] Episode5Ending.at3 
+-r-xr-xr-x   1    0    0     949440 Jun 30 2006 [ 117712 00] Episode6_Ending.at3 
+-r-xr-xr-x   1    0    0    1593744 Jun 18 2006 [ 118176 00] HothBattle_Intro.at3 
+-r-xr-xr-x   1    0    0     725496 Jun 18 2006 [ 118960 00] HothBattle_Outro.at3 
+-r-xr-xr-x   1    0    0     346056 Jun 18 2006 [ 119328 00] HothEscape_Intro.at3 
+-r-xr-xr-x   1    0    0     480720 Jun 27 2006 [ 119504 00] HothEscape_Outro.at3 
+-r-xr-xr-x   1    0    0    1288704 Jun 27 2006 [ 119744 00] JabbasPalace_Intro.at3 
+-r-xr-xr-x   1    0    0     198744 Jun 27 2006 [ 120384 00] JabbasPalace_Midtro1.at3 
+-r-xr-xr-x   1    0    0     690528 Jun 27 2006 [ 120496 00] JabbasPalace_Midtro2.at3 
+-r-xr-xr-x   1    0    0     642168 Jun 27 2006 [ 120848 00] JabbasPalace_Outro.at3 
+-r-xr-xr-x   1    0    0     514200 May 12 2006 [ 121168 00] MosEisley_Intro.at3 
+-r-xr-xr-x   1    0    0     709872 May 12 2006 [ 121424 00] MosEisley_Midtro.at3 
+-r-xr-xr-x   1    0    0     655560 May 12 2006 [ 121776 00] MosEisley_Outro.at3 
+-r-xr-xr-x   1    0    0    1096752 Jun 30 2006 [ 122112 00] SarlaccPit_Intro.at3 
+-r-xr-xr-x   1    0    0     318528 Jun 27 2006 [ 122656 00] SarlaccPit_Midtro.at3 
+-r-xr-xr-x   1    0    0     153360 Jun 29 2006 [ 122816 00] SarlaccPit_Midtro2.at3 
+-r-xr-xr-x   1    0    0     588600 Jun 27 2006 [ 122896 00] SarlaccPit_Outro.at3 
+-r-xr-xr-x   1    0    0     578928 Jun 28 2006 [ 123184 00] SpeederChase_Intro.at3 
+-r-xr-xr-x   1    0    0     321504 Jun 27 2006 [ 123472 00] SpeederChase_Outro.at3 
+-r-xr-xr-x   1    0    0     915216 Jun  4 2006 [ 123632 00] Tatooine_Intro.at3 
+-r-xr-xr-x   1    0    0     567768 Jun  4 2006 [ 124080 00] Tatooine_Outro.at3 
+
+Directory listing of /PSP_GAME/USRDIR/audio/_music/
+dr-xr-xr-x   1    0    0       8192 Sep 22 2006 [     32 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 22 2006 [     27 02] .. 
+-r-xr-xr-x   1    0    0    2017892 Jul  7 2006 [  23712 00] Act_AstChase_ABC.at3 
+-r-xr-xr-x   1    0    0     712172 Jul  7 2006 [  24704 00] Act_AstChase_Cave.at3 
+-r-xr-xr-x   1    0    0    1839332 Jul  7 2006 [  25056 00] Act_AstChase_D.at3 
+-r-xr-xr-x   1    0    0    1462868 May 18 2006 [  26608 00] Act_BR_Tantive.at3 
+-r-xr-xr-x   1    0    0    1301420 Jul 19 2006 [  25968 00] Act_Bonus.at3 
+-r-xr-xr-x   1    0    0    2209844 Jul  9 2006 [  27328 00] Act_CC_Escape_A.at3 
+-r-xr-xr-x   1    0    0    2209844 Jul  9 2006 [  28416 00] Act_CC_Escape_BC.at3 
+-r-xr-xr-x   1    0    0    1103516 Jul 12 2006 [  29504 00] Act_CC_Trap.at3 
+-r-xr-xr-x   1    0    0    1855700 Jul 10 2006 [  31120 00] Act_DS2B_A.at3 
+-r-xr-xr-x   1    0    0    2316980 Jun 17 2006 [  32032 00] Act_DS2B_ABCEF.at3 
+-r-xr-xr-x   1    0    0    1218836 Jul 10 2006 [  33168 00] Act_DS2B_BC.at3 
+-r-xr-xr-x   1    0    0    1087892 Jul 10 2006 [  33776 00] Act_DS2B_D.at3 
+-r-xr-xr-x   1    0    0    1023164 Jul 10 2006 [  34320 00] Act_DS2B_EFG.at3 
+-r-xr-xr-x   1    0    0    1852724 Jun 17 2006 [  34832 00] Act_DS2B_G.at3 
+-r-xr-xr-x   1    0    0    2433788 Jul  6 2006 [  35744 00] Act_DSB_Appr.at3 
+-r-xr-xr-x   1    0    0     323060 Jul  6 2006 [  36944 00] Act_DSB_ShieldGone.at3 
+-r-xr-xr-x   1    0    0    1012004 Jul  6 2006 [  37104 00] Act_DSB_Trench.at3 
+-r-xr-xr-x   1    0    0    1474028 Jul  6 2006 [  37600 00] Act_DS_Escape.at3 
+-r-xr-xr-x   1    0    0    1854956 Jul  6 2006 [  38320 00] Act_DS_Rescue.at3 
+-r-xr-xr-x   1    0    0     735236 Jul  7 2006 [  30048 00] Act_Dagobah_ABCE.at3 
+-r-xr-xr-x   1    0    0    1413020 Jun 14 2006 [  30416 00] Act_Dagobah_D.at3 
+-r-xr-xr-x   1    0    0    1528340 Jul 10 2006 [  39232 00] Act_EmperorFight.at3 
+-r-xr-xr-x   1    0    0    1293236 Jul 10 2006 [  39984 00] Act_EndorBattle_ABC.at3 
+-r-xr-xr-x   1    0    0    1361684 Jul 10 2006 [  40624 00] Act_EndorBattle_D.at3 
+-r-xr-xr-x   1    0    0     621404 Jul 12 2006 [  41296 00] Act_GamorrDisco.at3 
+-r-xr-xr-x   1    0    0    2780492 Jul  7 2006 [  41600 00] Act_HothBattle_ACDE.at3 
+-r-xr-xr-x   1    0    0    1365404 Jul  7 2006 [  42960 00] Act_HothBattle_B.at3 
+-r-xr-xr-x   1    0    0    1413020 Jun 13 2006 [  43632 00] Act_HothEscape_ABC.at3 
+-r-xr-xr-x   1    0    0    1110956 Jun 13 2006 [  44336 00] Act_HothEscape_D.at3 
+-r-xr-xr-x   1    0    0     680180 Jul  9 2006 [  44880 00] Act_Jabbas_A.at3 
+-r-xr-xr-x   1    0    0    1267940 Jul  9 2006 [  45216 00] Act_Jabbas_BD.at3 
+-r-xr-xr-x   1    0    0     696548 Jul  9 2006 [  45840 00] Act_Jabbas_E.at3 
+-r-xr-xr-x   1    0    0    1407068 Jul 19 2006 [  46192 00] Act_MosAlley.at3 
+-r-xr-xr-x   1    0    0    1640684 May 12 2006 [  46880 00] Act_MosCant.at3 
+-r-xr-xr-x   1    0    0    1078964 May 12 2006 [  47696 00] Act_MosHangar.at3 
+-r-xr-xr-x   1    0    0    1532060 May 12 2006 [  48224 00] Act_Mos_A.at3 
+-r-xr-xr-x   1    0    0    1506020 May 12 2006 [  48976 00] Act_Mos_B.at3 
+-r-xr-xr-x   1    0    0     965876 Jul  9 2006 [  49712 00] Act_Sarlacc_A.at3 
+-r-xr-xr-x   1    0    0    1243388 Jul  9 2006 [  50192 00] Act_Sarlacc_B.at3 
+-r-xr-xr-x   1    0    0    1020188 Jul  9 2006 [  50800 00] Act_Sarlacc_C.at3 
+-r-xr-xr-x   1    0    0    2046908 Jul 10 2006 [  51312 00] Act_SpeederChase.at3 
+-r-xr-xr-x   1    0    0     751536 Jul  4 2006 [  52320 00] Act_Tatooine.at3 
+-r-xr-xr-x   1    0    0     751536 Jul  4 2006 [  52688 00] Act_Tatooine_B.at3 
+-r-xr-xr-x   1    0    0    2280524 May 12 2006 [  69344 00] Ep1_7_Action.at3 
+-r-xr-xr-x   1    0    0     265772 May 12 2006 [  70464 00] Ep1_7_Ambience.at3 
+-r-xr-xr-x   1    0    0     662324 May 12 2006 [  70608 00] Ep1_7_Quiet.at3 
+-r-xr-xr-x   1    0    0    1616132 May 12 2006 [  70944 00] Ep2_5_Action.at3 
+-r-xr-xr-x   1    0    0     244940 May 12 2006 [  71744 00] Ep2_5_Ambience.at3 
+-r-xr-xr-x   1    0    0    1732940 May 12 2006 [  71872 00] Ep2_5_Quiet.at3 
+-r-xr-xr-x   1    0    0    1634732 May 12 2006 [  72720 00] Ep3_6_Action.at3 
+-r-xr-xr-x   1    0    0     250892 May 12 2006 [  73520 00] Ep3_6_Ambience.at3 
+-r-xr-xr-x   1    0    0    3652460 Jul 25 2006 [  73648 00] Ep4_EndCredits.at3 
+-r-xr-xr-x   1    0    0    4296020 Jul 25 2006 [  75440 00] Ep5_EndCredits.at3 
+-r-xr-xr-x   1    0    0    5770628 Jul 25 2006 [  77552 00] Ep6_EndCredits.at3 
+-r-xr-xr-x   1    0    0    1059620 May 18 2006 [  81088 00] Qui_BR_Tantive.at3 
+-r-xr-xr-x   1    0    0    1415252 Jul 19 2006 [  80384 00] Qui_Bonus.at3 
+-r-xr-xr-x   1    0    0    1599764 Jul  9 2006 [  81616 00] Qui_CC_Escape_A.at3 
+-r-xr-xr-x   1    0    0    1599764 Jul  9 2006 [  82400 00] Qui_CC_Escape_BC.at3 
+-r-xr-xr-x   1    0    0    1648124 Jul 17 2006 [  83184 00] Qui_CC_Trap.at3 
+-r-xr-xr-x   1    0    0    1916708 May 18 2006 [  86128 00] Qui_DS_Escape.at3 
+-r-xr-xr-x   1    0    0    1117652 May 18 2006 [  87072 00] Qui_DS_Rescue.at3 
+-r-xr-xr-x   1    0    0    2654012 Jul  7 2006 [  84000 00] Qui_Dagobah_ABCE.at3 
+-r-xr-xr-x   1    0    0    1699460 Jun 14 2006 [  85296 00] Qui_Dagobah_D.at3 
+-r-xr-xr-x   1    0    0    1682348 Jul 10 2006 [  87632 00] Qui_EmperorFight.at3 
+-r-xr-xr-x   1    0    0    1613156 Jul 10 2006 [  88464 00] Qui_EndorBattle_ABC.at3 
+-r-xr-xr-x   1    0    0     787316 Jul 10 2006 [  89264 00] Qui_EndorBattle_D.at3 
+-r-xr-xr-x   1    0    0    2049884 Jul  7 2006 [  89664 00] Qui_HothEscape_ABC.at3 
+-r-xr-xr-x   1    0    0     610988 Jul  7 2006 [  90672 00] Qui_HothEscape_D.at3 
+-r-xr-xr-x   1    0    0    1659284 Jul 26 2006 [  90976 00] Qui_Jabbas_A.at3 
+-r-xr-xr-x   1    0    0    1651844 Jun 15 2006 [  91792 00] Qui_Jabbas_BD.at3 
+-r-xr-xr-x   1    0    0    1910012 Jun 15 2006 [  92608 00] Qui_Jabbas_E.at3 
+-r-xr-xr-x   1    0    0    1464356 May 12 2006 [  93552 00] Qui_MosAlley.at3 
+-r-xr-xr-x   1    0    0    2389892 May 12 2006 [  94272 00] Qui_MosCant1.at3 
+-r-xr-xr-x   1    0    0    2095268 May 12 2006 [  95440 00] Qui_MosCant2.at3 
+-r-xr-xr-x   1    0    0    1059620 May 12 2006 [  96464 00] Qui_MosHangar.at3 
+-r-xr-xr-x   1    0    0    1889924 May 12 2006 [  96992 00] Qui_Mos_A.at3 
+-r-xr-xr-x   1    0    0    1907780 May 12 2006 [  97920 00] Qui_Mos_B.at3 
+-r-xr-xr-x   1    0    0    1910012 Jun 16 2006 [  98864 00] Qui_Sarlacc_A.at3 
+-r-xr-xr-x   1    0    0    1139228 Jun 16 2006 [  99808 00] Qui_Sarlacc_B.at3 
+-r-xr-xr-x   1    0    0    1910012 Jun 16 2006 [ 100368 00] Qui_Sarlacc_C.at3 
+-r-xr-xr-x   1    0    0    1877276 Jul 10 2006 [ 101312 00] Qui_SpeederChase.at3 
+-r-xr-xr-x   1    0    0    1409300 May 18 2006 [ 102240 00] Qui_Tatooine.at3 
+-r-xr-xr-x   1    0    0    1684512 Jul  4 2006 [ 102944 00] Qui_Tatooine_B.at3 
+-r-xr-xr-x   1    0    0     745488 May 12 2006 [ 103776 00] StatusScreen.at3 
+-r-xr-xr-x   1    0    0    1352012 May 12 2006 [ 104144 00] Titles.at3 
+-r-xr-xr-x   1    0    0     712172 Jul  7 2006 [  53056 00] amb_AstChase_Cave.at3 
+-r-xr-xr-x   1    0    0    1178660 May 18 2006 [  53792 00] amb_BR_Tantive.at3 
+-r-xr-xr-x   1    0    0     762764 Jul 19 2006 [  53408 00] amb_Bonus.at3 
+-r-xr-xr-x   1    0    0     831212 Jun 15 2006 [  54368 00] amb_CC_Escape_BC.at3 
+-r-xr-xr-x   1    0    0     469628 Jun 14 2006 [  54784 00] amb_CC_Trap.at3 
+-r-xr-xr-x   1    0    0    1760468 May 18 2006 [  55888 00] amb_DSB.at3 
+-r-xr-xr-x   1    0    0     733748 Jun 17 2006 [  56752 00] amb_DSB_Int.at3 
+-r-xr-xr-x   1    0    0     952484 May 18 2006 [  57120 00] amb_DS_Escape.at3 
+-r-xr-xr-x   1    0    0     952484 May 18 2006 [  57600 00] amb_DS_Rescue.at3 
+-r-xr-xr-x   1    0    0     706964 Jun 14 2006 [  55024 00] amb_Dagobah_ABCE.at3 
+-r-xr-xr-x   1    0    0    1027628 Jun 14 2006 [  55376 00] amb_Dagobah_D.at3 
+-r-xr-xr-x   1    0    0     984476 Jun 16 2006 [  58080 00] amb_EndorBunker.at3 
+-r-xr-xr-x   1    0    0    1613156 Jun 16 2006 [  58576 00] amb_EndorForest.at3 
+-r-xr-xr-x   1    0    0    1537268 Jun 13 2006 [  59376 00] amb_HothBattle_ACDE.at3 
+-r-xr-xr-x   1    0    0    1506764 Jun 13 2006 [  60128 00] amb_HothBattle_B.at3 
+-r-xr-xr-x   1    0    0    1506764 Jun 13 2006 [  60864 00] amb_HothEscape_D.at3 
+-r-xr-xr-x   1    0    0     382580 Jun 15 2006 [  61600 00] amb_Jabbas_BDE.at3 
+-r-xr-xr-x   1    0    0    1663680 May 12 2006 [  61792 00] amb_Mos.at3 
+-r-xr-xr-x   1    0    0    1587116 May 18 2006 [  62608 00] amb_MosAlley.at3 
+-r-xr-xr-x   1    0    0    1753028 May 12 2006 [  63392 00] amb_MosCant.at3 
+-r-xr-xr-x   1    0    0    1430132 May 12 2006 [  64256 00] amb_MosHangar.at3 
+-r-xr-xr-x   1    0    0    1859420 May 18 2006 [  64960 00] amb_Tatooine.at3 
+-r-xr-xr-x   1    0    0     948020 May 20 2006 [  65872 00] amb_Tatooine_B.at3 
+-r-xr-xr-x   1    0    0    2165948 May 18 2006 [  66336 00] credits2m.at3 
+-r-xr-xr-x   1    0    0    1387724 May 12 2006 [  67408 00] ep1_1_action.at3 
+-r-xr-xr-x   1    0    0     185420 May 12 2006 [  68096 00] ep1_1_ambience.at3 
+-r-xr-xr-x   1    0    0    2351948 May 12 2006 [  68192 00] ep1_1_quiet.at3 
+
+Directory listing of /PSP_GAME/USRDIR/movies/ntsc/
+dr-xr-xr-x   1    0    0       2048 Sep 22 2006 [     36 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 22 2006 [     28 02] .. 
+-r-xr-xr-x   1    0    0   17299456 Jul 17 2006 [ 124368 00] demointro.pmf 
+-r-xr-xr-x   1    0    0    8771584 Jul 18 2006 [ 132816 00] storysofar1_danish.pmf 
+-r-xr-xr-x   1    0    0    8818688 Jul 17 2006 [ 137104 00] storysofar1_english.pmf 
+-r-xr-xr-x   1    0    0    8777728 Jul 18 2006 [ 141424 00] storysofar1_french.pmf 
+-r-xr-xr-x   1    0    0    8773632 Jul 18 2006 [ 145712 00] storysofar1_german.pmf 
+-r-xr-xr-x   1    0    0    8767488 Jul 18 2006 [ 150000 00] storysofar1_italian.pmf 
+-r-xr-xr-x   1    0    0    8769536 Jul 18 2006 [ 154288 00] storysofar1_spanish.pmf 
+-r-xr-xr-x   1    0    0    8763392 Jul 18 2006 [ 158576 00] storysofar2_danish.pmf 
+-r-xr-xr-x   1    0    0    8804352 Jul 17 2006 [ 162864 00] storysofar2_english.pmf 
+-r-xr-xr-x   1    0    0    8763392 Jul 18 2006 [ 167168 00] storysofar2_french.pmf 
+-r-xr-xr-x   1    0    0    8757248 Jul 18 2006 [ 171456 00] storysofar2_german.pmf 
+-r-xr-xr-x   1    0    0    8763392 Jul 18 2006 [ 175744 00] storysofar2_italian.pmf 
+-r-xr-xr-x   1    0    0    8757248 Jul 18 2006 [ 180032 00] storysofar2_spanish.pmf 
+-r-xr-xr-x   1    0    0    8763392 Jul 18 2006 [ 184320 00] storysofar3_danish.pmf 
+-r-xr-xr-x   1    0    0    8804352 Jul 17 2006 [ 188608 00] storysofar3_english.pmf 
+-r-xr-xr-x   1    0    0    8765440 Jul 18 2006 [ 192912 00] storysofar3_french.pmf 
+-r-xr-xr-x   1    0    0    8759296 Jul 18 2006 [ 197200 00] storysofar3_german.pmf 
+-r-xr-xr-x   1    0    0    8763392 Jul 18 2006 [ 201488 00] storysofar3_italian.pmf 
+-r-xr-xr-x   1    0    0    8755200 Jul 18 2006 [ 205776 00] storysofar3_spanish.pmf 
+=============================================================== 
+Generated on Sun 07/08/2022 at 19:29:01.90 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

@@ -1,0 +1,100 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Smart Bomb   
+Title ID: ULUS-10016 
+Region: USA  
+Languages: v1.03  
+Volume Creation Date: 2005-03-24 12:42:37 
+Volume Size: 113 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: SMART_BOMB
+Volume set id: 
+Publisher id: EIDOS_INTERACTIVE
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: EIDOS
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 58304
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Mar 24 2005 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 24 2005 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Dec 13 2004 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Dec 13 2004 [   1042 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Dec 13 2004 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 24 2005 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Dec 13 2004 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Jan 31 2005 [     25 02] USRDIR 
+-r-xr-xr-x   1    0    0        472 Mar 23 2005 [  58064 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      15286 Mar 23 2005 [  58080 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     131072 Mar  1 2005 [  58096 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0      16566 Mar  3 2005 [  58160 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0      18133 Mar  3 2005 [  58176 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0     227472 Mar 23 2005 [  58192 00] SND0.AT3 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Dec 13 2004 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 13 2004 [     23 02] .. 
+-r-xr-xr-x   1    0    0    2067168 Mar 24 2005 [     32 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0    2066829 Mar 24 2005 [   1056 00] BOOT.BIN 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Jan 31 2005 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 13 2004 [     23 02] .. 
+-r-xr-xr-x   1    0    0   29246944 Mar 24 2005 [   2080 00] GLOBAL.PSP 
+dr-xr-xr-x   1    0    0       2048 Jan 31 2005 [     26 02] MODS 
+dr-xr-xr-x   1    0    0       2048 Feb  4 2005 [     27 02] MOVIES 
+-r-xr-xr-x   1    0    0   80886160 Feb 16 2005 [  16368 00] USA.PSP 
+
+Directory listing of /PSP_GAME/USRDIR/MODS/
+dr-xr-xr-x   1    0    0       2048 Jan 31 2005 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 31 2005 [     25 02] .. 
+-r-xr-xr-x   1    0    0       5920 Dec 14 2004 [  55872 00] SC_SASCORE.PRX 
+-r-xr-xr-x   1    0    0      10832 Dec 14 2004 [  55888 00] IFHANDLE.PRX 
+-r-xr-xr-x   1    0    0      19524 Dec 14 2004 [  55904 00] LIBATRAC3PLUS.PRX 
+-r-xr-xr-x   1    0    0      15216 Dec 14 2004 [  55920 00] MEMAB.PRX 
+-r-xr-xr-x   1    0    0      60256 Dec 14 2004 [  55936 00] PSPNET.PRX 
+-r-xr-xr-x   1    0    0      40140 Dec 14 2004 [  55968 00] PSPNET_ADHOC.PRX 
+-r-xr-xr-x   1    0    0      10816 Dec 14 2004 [  56000 00] PSPNET_ADHOC_AUTH.PRX 
+-r-xr-xr-x   1    0    0      19480 Dec 14 2004 [  56016 00] PSPNET_ADHOC_MATCHING.PRX 
+-r-xr-xr-x   1    0    0      36416 Dec 14 2004 [  56032 00] PSPNET_ADHOCCTL.PRX 
+-r-xr-xr-x   1    0    0      45196 Dec 14 2004 [  56064 00] PSPNET_APCTL.PRX 
+-r-xr-xr-x   1    0    0     247248 Dec 14 2004 [  56096 00] PSPNET_INET.PRX 
+-r-xr-xr-x   1    0    0       3232 Dec 14 2004 [  56224 00] AUDIOCODEC.PRX 
+-r-xr-xr-x   1    0    0      39624 Jan 28 2005 [  56240 00] MPEG.PRX 
+-r-xr-xr-x   1    0    0       9552 Jan 28 2005 [  56272 00] MPEGBASE.PRX 
+-r-xr-xr-x   1    0    0       3808 Jan 28 2005 [  56288 00] VIDEOCODEC.PRX 
+
+Directory listing of /PSP_GAME/USRDIR/MOVIES/
+dr-xr-xr-x   1    0    0       2048 Feb  4 2005 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 31 2005 [     25 02] .. 
+-r-xr-xr-x   1    0    0    1454080 Feb  4 2005 [  56304 00] EIDOS.PMF 
+-r-xr-xr-x   1    0    0     966656 Feb  4 2005 [  57024 00] CORE2.PMF 
+-r-xr-xr-x   1    0    0    1128448 Feb  4 2005 [  57504 00] CORE1.PMF 
+=============================================================== 
+Generated on Sun 07/08/2022 at 19:29:12.41 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

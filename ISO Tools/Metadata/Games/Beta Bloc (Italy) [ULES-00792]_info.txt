@@ -1,0 +1,357 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Beta Bloc   
+Title ID: ULES-00792 
+Region: Italy  
+Languages:   
+Volume Creation Date: 2007-02-14 01:07:37 
+Volume Size: 85 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: D3PUBLISHER
+Volume set id: 
+Publisher id: D3PUBLISHER
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 43584
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Feb 14 2007 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 14 2007 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 14 2007 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Feb 14 2007 [     39 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Feb 14 2007 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 14 2007 [     22 02] .. 
+-r-xr-xr-x   1    0    0      23629 Oct 11 2006 [  21360 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     167936 Oct 11 2006 [  21264 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 Feb 14 2007 [  21488 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      14229 Oct 11 2006 [  21376 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0     176524 Oct 11 2006 [  21392 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Feb 14 2007 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Feb 14 2007 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Feb 14 2007 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 14 2007 [     23 02] .. 
+-r-xr-xr-x   1    0    0    1465644 Feb 13 2007 [  21504 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    1465984 Feb 14 2007 [     48 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Feb 14 2007 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Feb 14 2007 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 14 2007 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 13 2007 [     27 02] data 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Feb 14 2007 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 14 2007 [     24 02] .. 
+-r-xr-xr-x   1    0    0   16681232 Feb 14 2007 [   4880 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5227056 Feb 14 2007 [    784 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Feb 14 2007 [    768 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/data/
+dr-xr-xr-x   1    0    0       2048 Feb 13 2007 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 14 2007 [     25 02] .. 
+dr-xr-xr-x   1    0    0      10240 Feb 13 2007 [     28 02] bg 
+dr-xr-xr-x   1    0    0       4096 Feb 13 2007 [     33 02] cast 
+dr-xr-xr-x   1    0    0       2048 Feb 13 2007 [     35 02] map 
+dr-xr-xr-x   1    0    0       2048 Feb 13 2007 [     36 02] module 
+dr-xr-xr-x   1    0    0       2048 Feb 13 2007 [     37 02] snd 
+dr-xr-xr-x   1    0    0       2048 Feb 13 2007 [     38 02] sys 
+
+Directory listing of /PSP_GAME/USRDIR/data/bg/
+dr-xr-xr-x   1    0    0      10240 Feb 13 2007 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 13 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0     421280 Dec 30 2005 [  22224 00] z01s01.cat 
+-r-xr-xr-x   1    0    0        800 Jan  9 2006 [  22432 00] z01s01.sb 
+-r-xr-xr-x   1    0    0     557664 Dec 30 2005 [  22448 00] z01s02.cat 
+-r-xr-xr-x   1    0    0        864 Dec 28 2005 [  22736 00] z01s02.sb 
+-r-xr-xr-x   1    0    0        928 Dec 26 2005 [  22752 00] z01s03.sb 
+-r-xr-xr-x   1    0    0        848 Dec 28 2005 [  22768 00] z01s04.sb 
+-r-xr-xr-x   1    0    0        928 Jan  7 2006 [  22784 00] z01s05.sb 
+-r-xr-xr-x   1    0    0        912 Dec 28 2005 [  22800 00] z01s06.sb 
+-r-xr-xr-x   1    0    0        800 Dec 28 2005 [  22816 00] z01s07.sb 
+-r-xr-xr-x   1    0    0       1920 Jan  7 2006 [  22832 00] z01s08.sb 
+-r-xr-xr-x   1    0    0        976 Dec 28 2005 [  22848 00] z01s09.sb 
+-r-xr-xr-x   1    0    0       1168 Jan  6 2006 [  22864 00] z01s10.sb 
+-r-xr-xr-x   1    0    0       1328 Jan  9 2006 [  22880 00] z01s11.sb 
+-r-xr-xr-x   1    0    0        480 Dec 20 2005 [  22896 00] z01s12.sb 
+-r-xr-xr-x   1    0    0       1024 Dec 10 2005 [  22912 00] z01s13.sb 
+-r-xr-xr-x   1    0    0     371792 Dec 22 2005 [  22928 00] z02s01.cat 
+-r-xr-xr-x   1    0    0       1296 Jan  7 2006 [  23120 00] z02s01.sb 
+-r-xr-xr-x   1    0    0     329520 Dec 22 2005 [  23136 00] z02s02.cat 
+-r-xr-xr-x   1    0    0       1136 Jan  4 2006 [  23312 00] z02s02.sb 
+-r-xr-xr-x   1    0    0       1760 Jan  9 2006 [  23328 00] z02s03.sb 
+-r-xr-xr-x   1    0    0       1312 Jan  4 2006 [  23344 00] z02s04.sb 
+-r-xr-xr-x   1    0    0       1312 Dec 29 2005 [  23360 00] z02s05.sb 
+-r-xr-xr-x   1    0    0       1216 Jan 23 2006 [  23376 00] z02s06.sb 
+-r-xr-xr-x   1    0    0       2000 Dec 29 2005 [  23392 00] z02s07.sb 
+-r-xr-xr-x   1    0    0       1488 Jan  9 2006 [  23408 00] z02s08.sb 
+-r-xr-xr-x   1    0    0       1424 Jan  7 2006 [  23424 00] z02s09.sb 
+-r-xr-xr-x   1    0    0       1184 Jan  7 2006 [  23440 00] z02s10.sb 
+-r-xr-xr-x   1    0    0       2272 Jan  7 2006 [  23456 00] z02s11.sb 
+-r-xr-xr-x   1    0    0       1152 Dec 29 2005 [  23472 00] z02s12.sb 
+-r-xr-xr-x   1    0    0        480 Nov 14 2005 [  23488 00] z02s13.sb 
+-r-xr-xr-x   1    0    0     216144 Jan  3 2006 [  23504 00] z03s01.cat 
+-r-xr-xr-x   1    0    0        976 Dec 30 2005 [  23616 00] z03s01.sb 
+-r-xr-xr-x   1    0    0     273408 Jan  3 2006 [  23632 00] z03s02.cat 
+-r-xr-xr-x   1    0    0       1280 Dec 30 2005 [  23776 00] z03s02.sb 
+-r-xr-xr-x   1    0    0       1136 Dec 30 2005 [  23792 00] z03s03.sb 
+-r-xr-xr-x   1    0    0       1328 Jan  8 2006 [  23808 00] z03s04.sb 
+-r-xr-xr-x   1    0    0       1344 Jan 20 2006 [  23824 00] z03s05.sb 
+-r-xr-xr-x   1    0    0       1024 Jan 25 2006 [  23840 00] z03s06.sb 
+-r-xr-xr-x   1    0    0       1712 Dec 30 2005 [  23856 00] z03s07.sb 
+-r-xr-xr-x   1    0    0       1936 Dec  2 2005 [  23872 00] z03s08.sb 
+-r-xr-xr-x   1    0    0       1312 Jan  9 2006 [  23888 00] z03s09.sb 
+-r-xr-xr-x   1    0    0       1936 Mar 13 2006 [  23904 00] z03s10.sb 
+-r-xr-xr-x   1    0    0       2080 Jan 20 2006 [  23920 00] z03s11.sb 
+-r-xr-xr-x   1    0    0       1520 Jan 20 2006 [  23936 00] z03s12.sb 
+-r-xr-xr-x   1    0    0       2048 Feb 22 2006 [  23952 00] z03s13.sb 
+-r-xr-xr-x   1    0    0       1648 Jan  9 2006 [  23968 00] z03s14.sb 
+-r-xr-xr-x   1    0    0        480 Nov 14 2005 [  23984 00] z03s15.sb 
+-r-xr-xr-x   1    0    0     251760 Jan  5 2006 [  24000 00] z04s01.cat 
+-r-xr-xr-x   1    0    0       1088 Jan  8 2006 [  24128 00] z04s01.sb 
+-r-xr-xr-x   1    0    0     281248 Jan  5 2006 [  24144 00] z04s02.cat 
+-r-xr-xr-x   1    0    0        880 Jan  8 2006 [  24288 00] z04s02.sb 
+-r-xr-xr-x   1    0    0       1056 Jan  8 2006 [  24304 00] z04s03.sb 
+-r-xr-xr-x   1    0    0       1040 Jan  8 2006 [  24320 00] z04s04.sb 
+-r-xr-xr-x   1    0    0       1296 Jan 20 2006 [  24336 00] z04s05.sb 
+-r-xr-xr-x   1    0    0       1136 Dec 23 2005 [  24352 00] z04s06.sb 
+-r-xr-xr-x   1    0    0       1152 Jan  9 2006 [  24368 00] z04s07.sb 
+-r-xr-xr-x   1    0    0       1536 Jan  2 2006 [  24384 00] z04s08.sb 
+-r-xr-xr-x   1    0    0       1920 Dec 30 2005 [  24400 00] z04s09.sb 
+-r-xr-xr-x   1    0    0       1712 Jan  8 2006 [  24416 00] z04s10.sb 
+-r-xr-xr-x   1    0    0       1216 Jan 20 2006 [  24432 00] z04s11.sb 
+-r-xr-xr-x   1    0    0       1056 Dec 30 2005 [  24448 00] z04s12.sb 
+-r-xr-xr-x   1    0    0       1840 Dec 30 2005 [  24464 00] z04s13.sb 
+-r-xr-xr-x   1    0    0       1088 Jan  8 2006 [  24480 00] z04s14.sb 
+-r-xr-xr-x   1    0    0       1344 Dec 23 2005 [  24496 00] z04s15.sb 
+-r-xr-xr-x   1    0    0       2000 Jan  9 2006 [  24512 00] z04s16.sb 
+-r-xr-xr-x   1    0    0        480 Nov 25 2005 [  24528 00] z04s17.sb 
+-r-xr-xr-x   1    0    0     467536 Dec 22 2005 [  24544 00] z05s01.cat 
+-r-xr-xr-x   1    0    0       1200 Jan 20 2006 [  24784 00] z05s01.sb 
+-r-xr-xr-x   1    0    0     417808 Dec 22 2005 [  24800 00] z05s02.cat 
+-r-xr-xr-x   1    0    0       1008 Jan 20 2006 [  25008 00] z05s02.sb 
+-r-xr-xr-x   1    0    0       1392 Nov 17 2005 [  25024 00] z05s03.sb 
+-r-xr-xr-x   1    0    0       1968 Jan 21 2006 [  25040 00] z05s04.sb 
+-r-xr-xr-x   1    0    0       1936 Nov 17 2005 [  25056 00] z05s05.sb 
+-r-xr-xr-x   1    0    0       1536 Jan  2 2006 [  25072 00] z05s06.sb 
+-r-xr-xr-x   1    0    0       1632 Jan 21 2006 [  25088 00] z05s07.sb 
+-r-xr-xr-x   1    0    0       1664 Jan  7 2006 [  25104 00] z05s08.sb 
+-r-xr-xr-x   1    0    0       2352 Jan 21 2006 [  25120 00] z05s09.sb 
+-r-xr-xr-x   1    0    0       1936 Jan  8 2006 [  25136 00] z05s10.sb 
+-r-xr-xr-x   1    0    0       1488 Jan  2 2006 [  25152 00] z05s11.sb 
+-r-xr-xr-x   1    0    0       1696 Jan 21 2006 [  25168 00] z05s12.sb 
+-r-xr-xr-x   1    0    0        992 Dec  9 2005 [  25184 00] z05s13.sb 
+-r-xr-xr-x   1    0    0       1648 Jan  8 2006 [  25200 00] z05s14.sb 
+-r-xr-xr-x   1    0    0       2000 Feb 23 2006 [  25216 00] z05s15.sb 
+-r-xr-xr-x   1    0    0       1728 Jan  9 2006 [  25232 00] z05s16.sb 
+-r-xr-xr-x   1    0    0       1760 Jan  8 2006 [  25248 00] z05s17.sb 
+-r-xr-xr-x   1    0    0       1616 Jan  9 2006 [  25264 00] z05s18.sb 
+-r-xr-xr-x   1    0    0       1056 Nov  2 2005 [  25280 00] z05s19.sb 
+-r-xr-xr-x   1    0    0     444080 Dec 26 2005 [  25296 00] z06s01.cat 
+-r-xr-xr-x   1    0    0       1296 Jan  2 2006 [  25520 00] z06s01.sb 
+-r-xr-xr-x   1    0    0     376528 Dec 26 2005 [  25536 00] z06s02.cat 
+-r-xr-xr-x   1    0    0       1008 Jan  8 2006 [  25728 00] z06s02.sb 
+-r-xr-xr-x   1    0    0        992 Jan  2 2006 [  25744 00] z06s03.sb 
+-r-xr-xr-x   1    0    0       1072 Jan 21 2006 [  25760 00] z06s04.sb 
+-r-xr-xr-x   1    0    0       1872 Jan 21 2006 [  25776 00] z06s05.sb 
+-r-xr-xr-x   1    0    0       1104 Jan 21 2006 [  25792 00] z06s06.sb 
+-r-xr-xr-x   1    0    0       1216 Jan  8 2006 [  25808 00] z06s07.sb 
+-r-xr-xr-x   1    0    0       1408 Jan  8 2006 [  25824 00] z06s08.sb 
+-r-xr-xr-x   1    0    0       1776 Jan  8 2006 [  25840 00] z06s09.sb 
+-r-xr-xr-x   1    0    0       2160 Jan  2 2006 [  25856 00] z06s10.sb 
+-r-xr-xr-x   1    0    0       1632 Jan  3 2006 [  25872 00] z06s11.sb 
+-r-xr-xr-x   1    0    0       1024 Jan  8 2006 [  25888 00] z06s12.sb 
+-r-xr-xr-x   1    0    0       1632 Jan  8 2006 [  25904 00] z06s13.sb 
+-r-xr-xr-x   1    0    0       1856 Jan  9 2006 [  25920 00] z06s14.sb 
+-r-xr-xr-x   1    0    0       1584 Jan  8 2006 [  25936 00] z06s15.sb 
+-r-xr-xr-x   1    0    0       1696 Jan  3 2006 [  25952 00] z06s16.sb 
+-r-xr-xr-x   1    0    0       1536 Jan  3 2006 [  25968 00] z06s17.sb 
+-r-xr-xr-x   1    0    0       1856 Jan  9 2006 [  25984 00] z06s18.sb 
+-r-xr-xr-x   1    0    0       1392 Jan  8 2006 [  26000 00] z06s19.sb 
+-r-xr-xr-x   1    0    0        480 Nov 14 2005 [  26016 00] z06s20.sb 
+-r-xr-xr-x   1    0    0     500928 Jan  5 2006 [  26032 00] z07s01.cat 
+-r-xr-xr-x   1    0    0       1056 Jan  9 2006 [  26288 00] z07s01.sb 
+-r-xr-xr-x   1    0    0     531392 Jan  5 2006 [  26304 00] z07s02.cat 
+-r-xr-xr-x   1    0    0       1504 Jan 23 2006 [  26576 00] z07s02.sb 
+-r-xr-xr-x   1    0    0       1520 Jan  9 2006 [  26592 00] z07s03.sb 
+-r-xr-xr-x   1    0    0       1216 Jan  9 2006 [  26608 00] z07s04.sb 
+-r-xr-xr-x   1    0    0       2224 Jan  9 2006 [  26624 00] z07s05.sb 
+-r-xr-xr-x   1    0    0        912 Jan 23 2006 [  26640 00] z07s06.sb 
+-r-xr-xr-x   1    0    0       1408 Jan  9 2006 [  26656 00] z07s07.sb 
+-r-xr-xr-x   1    0    0       1376 Jan  9 2006 [  26672 00] z07s08.sb 
+-r-xr-xr-x   1    0    0       1840 Jan  9 2006 [  26688 00] z07s09.sb 
+-r-xr-xr-x   1    0    0       1376 Jan  9 2006 [  26704 00] z07s10.sb 
+-r-xr-xr-x   1    0    0       1040 Jan 23 2006 [  26720 00] z07s11.sb 
+-r-xr-xr-x   1    0    0       1088 Jan  9 2006 [  26736 00] z07s12.sb 
+-r-xr-xr-x   1    0    0       1472 Jan 24 2006 [  26752 00] z07s13.sb 
+-r-xr-xr-x   1    0    0       1504 Jan 23 2006 [  26768 00] z07s14.sb 
+-r-xr-xr-x   1    0    0       1024 Jan 23 2006 [  26784 00] z07s15.sb 
+-r-xr-xr-x   1    0    0       1184 Jan 23 2006 [  26800 00] z07s16.sb 
+-r-xr-xr-x   1    0    0       3520 Jan  9 2006 [  26816 00] z07s17.sb 
+-r-xr-xr-x   1    0    0       1136 Jan  9 2006 [  26832 00] z07s18.sb 
+-r-xr-xr-x   1    0    0       2368 Jan  9 2006 [  26848 00] z07s19.sb 
+-r-xr-xr-x   1    0    0        480 Nov 14 2005 [  26864 00] z07s20.sb 
+-r-xr-xr-x   1    0    0     344896 Jan  3 2006 [  26880 00] z08s01.cat 
+-r-xr-xr-x   1    0    0       1664 Jan  9 2006 [  27056 00] z08s01.sb 
+-r-xr-xr-x   1    0    0     480016 Jan  3 2006 [  27072 00] z08s02.cat 
+-r-xr-xr-x   1    0    0       1632 Jan  9 2006 [  27312 00] z08s02.sb 
+-r-xr-xr-x   1    0    0       1472 Jan  9 2006 [  27328 00] z08s03.sb 
+-r-xr-xr-x   1    0    0       1792 Jan  9 2006 [  27344 00] z08s04.sb 
+-r-xr-xr-x   1    0    0       1632 Jan  9 2006 [  27360 00] z08s05.sb 
+-r-xr-xr-x   1    0    0       1472 Jan  9 2006 [  27376 00] z08s06.sb 
+-r-xr-xr-x   1    0    0       1584 Jan  9 2006 [  27392 00] z08s07.sb 
+-r-xr-xr-x   1    0    0       1808 Jan  9 2006 [  27408 00] z08s08.sb 
+-r-xr-xr-x   1    0    0       1344 Jan  9 2006 [  27424 00] z08s09.sb 
+-r-xr-xr-x   1    0    0       1712 Jan  9 2006 [  27440 00] z08s10.sb 
+-r-xr-xr-x   1    0    0        880 Jan  9 2006 [  27456 00] z08s11.sb 
+-r-xr-xr-x   1    0    0       1856 Jan  9 2006 [  27472 00] z08s12.sb 
+-r-xr-xr-x   1    0    0       1984 Jan  9 2006 [  27488 00] z08s13.sb 
+-r-xr-xr-x   1    0    0       1680 Jan  9 2006 [  27504 00] z08s14.sb 
+-r-xr-xr-x   1    0    0       1936 Jan  9 2006 [  27520 00] z08s15.sb 
+-r-xr-xr-x   1    0    0       1696 Jan  9 2006 [  27536 00] z08s16.sb 
+-r-xr-xr-x   1    0    0       2016 Jan  9 2006 [  27552 00] z08s17.sb 
+-r-xr-xr-x   1    0    0       1376 Jan  9 2006 [  27568 00] z08s18.sb 
+-r-xr-xr-x   1    0    0       1888 Jan  9 2006 [  27584 00] z08s19.sb 
+-r-xr-xr-x   1    0    0        480 Nov 14 2005 [  27600 00] z08s20.sb 
+-r-xr-xr-x   1    0    0     366640 Nov 10 2005 [  27616 00] z09s01.cat 
+-r-xr-xr-x   1    0    0        816 Dec 27 2005 [  27808 00] z09s01.sb 
+-r-xr-xr-x   1    0    0       1184 Dec 27 2005 [  27824 00] z09s02.sb 
+-r-xr-xr-x   1    0    0       1168 Dec 27 2005 [  27840 00] z09s03.sb 
+-r-xr-xr-x   1    0    0       1248 Dec 27 2005 [  27856 00] z09s04.sb 
+-r-xr-xr-x   1    0    0        960 Feb 22 2006 [  27872 00] z09s05.sb 
+-r-xr-xr-x   1    0    0       1088 Dec 27 2005 [  27888 00] z09s06.sb 
+-r-xr-xr-x   1    0    0       1552 Jan  9 2006 [  27904 00] z09s07.sb 
+-r-xr-xr-x   1    0    0       1376 Jan  9 2006 [  27920 00] z09s08.sb 
+-r-xr-xr-x   1    0    0        944 Jan  9 2006 [  27936 00] z09s09.sb 
+-r-xr-xr-x   1    0    0       1712 Jan  9 2006 [  27952 00] z09s10.sb 
+
+Directory listing of /PSP_GAME/USRDIR/data/cast/
+dr-xr-xr-x   1    0    0       4096 Feb 13 2007 [     33 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 13 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0       5168 Jan  7 2006 [  27968 00] ball.ti 
+-r-xr-xr-x   1    0    0    1404160 Jan  7 2006 [  27984 00] block.cat 
+-r-xr-xr-x   1    0    0    1258016 Jan  7 2006 [  28672 00] bos01.cat 
+-r-xr-xr-x   1    0    0     942640 Jan  4 2006 [  29296 00] bos02.cat 
+-r-xr-xr-x   1    0    0     992432 Dec 14 2005 [  29760 00] bos03.cat 
+-r-xr-xr-x   1    0    0    1347456 Jan  4 2006 [  30256 00] bos04.cat 
+-r-xr-xr-x   1    0    0    1347456 Jan  4 2006 [  30928 00] bos05.cat 
+-r-xr-xr-x   1    0    0     484672 Jan  7 2006 [  31600 00] pdl.cat 
+-r-xr-xr-x   1    0    0     211744 Jan  6 2006 [  31840 00] z0101.cat 
+-r-xr-xr-x   1    0    0     213808 Jan  6 2006 [  31952 00] z0102.cat 
+-r-xr-xr-x   1    0    0     209712 Jan  6 2006 [  32064 00] z0103.cat 
+-r-xr-xr-x   1    0    0     222272 Jan  6 2006 [  32176 00] z0201.cat 
+-r-xr-xr-x   1    0    0     222272 Jan  6 2006 [  32288 00] z0202.cat 
+-r-xr-xr-x   1    0    0     222272 Jan  6 2006 [  32400 00] z0203.cat 
+-r-xr-xr-x   1    0    0          4 Nov  8 2005 [  32512 00] z0301.cat 
+-r-xr-xr-x   1    0    0          4 Nov  8 2005 [  32528 00] z0302.cat 
+-r-xr-xr-x   1    0    0          4 Nov  8 2005 [  32544 00] z0303.cat 
+-r-xr-xr-x   1    0    0     225056 Jan  6 2006 [  32560 00] z0401.cat 
+-r-xr-xr-x   1    0    0     225056 Jan  6 2006 [  32672 00] z0402.cat 
+-r-xr-xr-x   1    0    0     225056 Jan  6 2006 [  32784 00] z0403.cat 
+-r-xr-xr-x   1    0    0     216496 Jan  6 2006 [  32896 00] z0501.cat 
+-r-xr-xr-x   1    0    0     216496 Jan  6 2006 [  33008 00] z0502.cat 
+-r-xr-xr-x   1    0    0     216496 Jan  6 2006 [  33120 00] z0503.cat 
+-r-xr-xr-x   1    0    0     234976 Jan  6 2006 [  33232 00] z0601.cat 
+-r-xr-xr-x   1    0    0     242768 Jan  6 2006 [  33360 00] z0602.cat 
+-r-xr-xr-x   1    0    0     252928 Jan  6 2006 [  33488 00] z0603.cat 
+-r-xr-xr-x   1    0    0     234976 Jan  6 2006 [  33616 00] z0701.cat 
+-r-xr-xr-x   1    0    0     252928 Jan  6 2006 [  33744 00] z0702.cat 
+-r-xr-xr-x   1    0    0     242768 Jan  6 2006 [  33872 00] z0703.cat 
+-r-xr-xr-x   1    0    0     234976 Jan  6 2006 [  34000 00] z0801.cat 
+-r-xr-xr-x   1    0    0     252928 Jan  6 2006 [  34128 00] z0802.cat 
+-r-xr-xr-x   1    0    0     252928 Jan  6 2006 [  34256 00] z0803.cat 
+-r-xr-xr-x   1    0    0     234976 Feb  8 2006 [  34384 00] z0901.cat 
+-r-xr-xr-x   1    0    0     252928 Feb  8 2006 [  34512 00] z0902.cat 
+-r-xr-xr-x   1    0    0     252928 Feb  8 2006 [  34640 00] z0903.cat 
+
+Directory listing of /PSP_GAME/USRDIR/data/map/
+dr-xr-xr-x   1    0    0       2048 Feb 13 2007 [     35 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 13 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0      99920 Nov 24 2005 [  34768 00] selstage.cmp 
+-r-xr-xr-x   1    0    0     125728 Jan  4 2006 [  34832 00] selstz01.cmp 
+-r-xr-xr-x   1    0    0     129008 Jan  4 2006 [  34896 00] selstz02.cmp 
+-r-xr-xr-x   1    0    0     118400 Jan  4 2006 [  34960 00] selstz03.cmp 
+-r-xr-xr-x   1    0    0     118736 Jan  6 2006 [  35024 00] selstz04.cmp 
+-r-xr-xr-x   1    0    0     121936 Jan  4 2006 [  35088 00] selstz05.cmp 
+-r-xr-xr-x   1    0    0     121344 Jan  4 2006 [  35152 00] selstz06.cmp 
+-r-xr-xr-x   1    0    0     117712 Dec 29 2005 [  35216 00] selstz07.cmp 
+-r-xr-xr-x   1    0    0     115040 Dec 29 2005 [  35280 00] selstz08.cmp 
+-r-xr-xr-x   1    0    0     231280 Jan 26 2007 [  35344 00] selzone.cmp 
+-r-xr-xr-x   1    0    0     263216 Dec 12 2005 [  35472 00] zone_map.ti 
+
+Directory listing of /PSP_GAME/USRDIR/data/module/
+dr-xr-xr-x   1    0    0       2048 Feb 13 2007 [     36 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 13 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0       3264 Dec  8 2005 [  35616 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0      10128 Dec  8 2005 [  35632 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0      20976 Dec 26 2005 [  35648 00] mpeg.prx 
+-r-xr-xr-x   1    0    0       5136 Dec 26 2005 [  35664 00] mpegbase.prx 
+-r-xr-xr-x   1    0    0       6864 Dec  8 2005 [  35680 00] sc_sascore.prx 
+-r-xr-xr-x   1    0    0       3440 Dec 26 2005 [  35696 00] videocodec.prx 
+
+Directory listing of /PSP_GAME/USRDIR/data/snd/
+dr-xr-xr-x   1    0    0       2048 Feb 13 2007 [     37 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 13 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0      56908 Jan  5 2006 [  35712 00] aclear.at3 
+-r-xr-xr-x   1    0    0    1270800 Jan  5 2006 [  35744 00] boss.at3 
+-r-xr-xr-x   1    0    0     262384 Jan  4 2006 [  36368 00] boss1.hb 
+-r-xr-xr-x   1    0    0    2496528 Jan  5 2006 [  36512 00] boss2.at3 
+-r-xr-xr-x   1    0    0     125568 Jan  7 2006 [  37744 00] boss2.hb 
+-r-xr-xr-x   1    0    0     149120 Jan  6 2006 [  37808 00] boss3.hb 
+-r-xr-xr-x   1    0    0     314240 Jan  5 2006 [  37888 00] boss4.hb 
+-r-xr-xr-x   1    0    0      59212 Jan  5 2006 [  38048 00] clear.at3 
+-r-xr-xr-x   1    0    0       8908 Oct 11 2005 [  38080 00] dmy.at3 
+-r-xr-xr-x   1    0    0    1488844 Jan  5 2006 [  38096 00] end.at3 
+-r-xr-xr-x   1    0    0      46924 Jan  5 2006 [  38832 00] gameover.at3 
+-r-xr-xr-x   1    0    0     771600 Jan  5 2006 [  38864 00] m01.at3 
+-r-xr-xr-x   1    0    0    1381776 Jan  5 2006 [  39248 00] m02.at3 
+-r-xr-xr-x   1    0    0     824208 Jan  5 2006 [  39936 00] m03.at3 
+-r-xr-xr-x   1    0    0     719760 Jan  5 2006 [  40352 00] map.at3 
+-r-xr-xr-x   1    0    0     982800 Jan  5 2006 [  40704 00] menu.at3 
+-r-xr-xr-x   1    0    0     641424 Jan  5 2006 [  41184 00] result.at3 
+-r-xr-xr-x   1    0    0     562672 Jan  7 2006 [  41504 00] se1.hb 
+
+Directory listing of /PSP_GAME/USRDIR/data/sys/
+dr-xr-xr-x   1    0    0       2048 Feb 13 2007 [     38 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 13 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0     886784 Oct 26 2005 [  41792 00] d3p_logo.pmf 
+-r-xr-xr-x   1    0    0     532176 Feb  8 2007 [  42240 00] end.cmp 
+-r-xr-xr-x   1    0    0     565280 Feb  8 2007 [  42512 00] end2.cmp 
+-r-xr-xr-x   1    0    0     404800 Jan 26 2007 [  42800 00] f20_4.cmp 
+-r-xr-xr-x   1    0    0      37120 Jan  3 2006 [  43008 00] game2d.cmp 
+-r-xr-xr-x   1    0    0     515568 Jan 26 2007 [  43040 00] menu.bin 
+-r-xr-xr-x   1    0    0      19184 Jan 23 2006 [  43296 00] param.bin 
+-r-xr-xr-x   1    0    0      75072 Jan 26 2007 [  43312 00] sys2d.cmp 
+-r-xr-xr-x   1    0    0     261152 Dec 20 2005 [  43360 00] tamlogo.ti 
+-r-xr-xr-x   1    0    0        368 Aug 23 2005 [  43488 00] titlear.ti 
+-r-xr-xr-x   1    0    0     131632 Feb  8 2007 [  43504 00] titlebgp.ti 
+=============================================================== 
+Generated on Sun 07/08/2022 at 13:43:36.95 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

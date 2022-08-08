@@ -1,0 +1,123 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Phantasy Star Portable 2   
+Title ID: ULUS-10529 
+Region: USA  
+Languages: En  
+Volume Creation Date: 2010-07-06 18:37:14 
+Volume Size: 1279 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: 
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 655216
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Jul  6 2010 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul  6 2010 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jul  6 2010 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Jul  6 2010 [     30 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Jul  6 2010 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul  6 2010 [     22 02] .. 
+-r-xr-xr-x   1    0    0      21735 Jul  6 2010 [  56544 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     497664 Jul  6 2010 [  56560 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        560 Jul  6 2010 [  56528 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     242245 Jul  6 2010 [  56816 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Jul  6 2010 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Jul  6 2010 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Jul  6 2010 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul  6 2010 [     23 02] .. 
+-r-xr-xr-x   1    0    0    6590832 Jul  6 2010 [  56944 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    6591168 Jul  6 2010 [    544 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0        880 Jul  6 2010 [     32 00] OPNSSMP.BIN 
+dr-xr-xr-x   1    0    0       2048 Jul  6 2010 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Jul  6 2010 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul  6 2010 [     23 02] .. 
+dr-xr-xr-x   1    0    0       4096 Jul  6 2010 [     27 02] Movie 
+-r-xr-xr-x   1    0    0     421344 Jul  6 2010 [  60240 00] boost.fpb 
+-r-xr-xr-x   1    0    0  915605504 Jul  6 2010 [ 208128 00] file.fpb 
+dr-xr-xr-x   1    0    0       2048 Jul  6 2010 [     29 02] module 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Jul  6 2010 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul  6 2010 [     24 02] .. 
+-r-xr-xr-x   1    0    0   23372384 Jul  6 2010 [   7888 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5545568 Jul  6 2010 [   3792 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Jul  6 2010 [   3776 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/Movie/
+dr-xr-xr-x   1    0    0       4096 Jul  6 2010 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul  6 2010 [     25 02] .. 
+-r-xr-xr-x   1    0    0   17963008 May 19 2010 [  60448 00] Ev01_00_000.pmf 
+-r-xr-xr-x   1    0    0   19222528 May 14 2010 [  69232 00] Ev01_00_020.pmf 
+-r-xr-xr-x   1    0    0    1361920 Apr 21 2010 [  78624 00] Ev01_02_000.pmf 
+-r-xr-xr-x   1    0    0   18647040 May 14 2010 [  79296 00] Ev01_02_020.pmf 
+-r-xr-xr-x   1    0    0   29132800 Apr 28 2010 [  88416 00] Ev01_03_000.pmf 
+-r-xr-xr-x   1    0    0   10782720 Apr 21 2010 [ 102656 00] Ev01_03_010.pmf 
+-r-xr-xr-x   1    0    0    3557376 Apr 21 2010 [ 107936 00] Ev01_03_021.pmf 
+-r-xr-xr-x   1    0    0    3086336 Apr 21 2010 [ 109680 00] Ev01_03_070.pmf 
+-r-xr-xr-x   1    0    0    2818048 Apr 21 2010 [ 111200 00] Ev01_03_150.pmf 
+-r-xr-xr-x   1    0    0    3125248 May 14 2010 [ 112576 00] Ev02_00_010.pmf 
+-r-xr-xr-x   1    0    0    2813952 Apr 21 2010 [ 114112 00] Ev02_01_000.pmf 
+-r-xr-xr-x   1    0    0    8462336 May 14 2010 [ 115488 00] Ev02_01_040.pmf 
+-r-xr-xr-x   1    0    0   10024960 Apr 21 2010 [ 119632 00] Ev02_02_020.pmf 
+-r-xr-xr-x   1    0    0    8531968 Apr 21 2010 [ 124528 00] Ev03_03_070.pmf 
+-r-xr-xr-x   1    0    0    2813952 Apr 21 2010 [ 128704 00] Ev04_01_000.pmf 
+-r-xr-xr-x   1    0    0    4902912 Apr 21 2010 [ 130080 00] Ev04_01_020.pmf 
+-r-xr-xr-x   1    0    0    8212480 May 14 2010 [ 132480 00] Ev04_02_010.pmf 
+-r-xr-xr-x   1    0    0    1089536 Apr 21 2010 [ 136496 00] Ev04_02_060.pmf 
+-r-xr-xr-x   1    0    0    5591040 Apr 21 2010 [ 137040 00] Ev05_02_030.pmf 
+-r-xr-xr-x   1    0    0    6447104 Apr 21 2010 [ 139776 00] Ev07_02_050.pmf 
+-r-xr-xr-x   1    0    0    2365440 Apr 21 2010 [ 142928 00] Ev08_01_040.pmf 
+-r-xr-xr-x   1    0    0    1284096 Apr 21 2010 [ 144096 00] Ev08_02_040.pmf 
+-r-xr-xr-x   1    0    0   17252352 Apr 21 2010 [ 144736 00] Ev09_01_050.pmf 
+-r-xr-xr-x   1    0    0   15861760 Apr 21 2010 [ 153168 00] Ev09_02_050a.pmf 
+-r-xr-xr-x   1    0    0   23109632 Apr 21 2010 [ 160928 00] Ev09_02_050b.pmf 
+-r-xr-xr-x   1    0    0    3850240 Apr 21 2010 [ 172224 00] Ev09_03_030.pmf 
+-r-xr-xr-x   1    0    0    4298752 Apr 21 2010 [ 174112 00] Ev10_01_020.pmf 
+-r-xr-xr-x   1    0    0    5838848 Apr 21 2010 [ 176224 00] Ev10_01_030.pmf 
+-r-xr-xr-x   1    0    0    2115584 Apr 21 2010 [ 179088 00] Ev10_03_000.pmf 
+-r-xr-xr-x   1    0    0    1646592 Apr 21 2010 [ 180128 00] Ev10_03_020.pmf 
+-r-xr-xr-x   1    0    0   33212416 May 14 2010 [ 180944 00] Ev10_03_040.pmf 
+-r-xr-xr-x   1    0    0   22429696 Apr 21 2010 [ 197168 00] Ev10_03_080.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/module/
+dr-xr-xr-x   1    0    0       2048 Jul  6 2010 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul  6 2010 [     25 02] .. 
+-r-xr-xr-x   1    0    0      20720 Apr 21 2010 [  60176 00] libfont.prx 
+-r-xr-xr-x   1    0    0      82064 Apr 21 2010 [  60192 00] np_matching2.prx 
+=============================================================== 
+Generated on Mon 08/08/2022 at 15:47:21.68 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

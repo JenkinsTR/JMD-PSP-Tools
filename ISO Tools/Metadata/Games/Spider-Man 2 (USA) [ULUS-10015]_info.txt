@@ -1,0 +1,241 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Spider-Man 2   
+Title ID: ULUS-10015 
+Region: USA  
+Languages:   
+Volume Creation Date: 2005-02-16 11:02:34 
+Volume Size: 556 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: SPIDERMAN2PSP
+Volume set id: SPIDERMAN2PSP
+Publisher id: ACTIVISION
+Data preparer id: ACTIVISION
+Application id: PSP GAME
+Copyright File id: SPE/MARVEL
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 284928
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Feb 16 2005 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 16 2005 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 16 2005 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Feb 16 2005 [   2140 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Feb 16 2005 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 16 2005 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 16 2005 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Feb 16 2005 [     25 02] USRDIR 
+-r-xr-xr-x   1    0    0        472 Feb 15 2005 [ 284592 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     227328 Jan 19 2005 [ 284608 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0      26701 Jan 15 2005 [ 284720 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0      12202 Feb  8 2005 [ 284736 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0      89159 Feb  8 2005 [ 284752 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0     256656 Feb 11 2005 [ 284800 00] SND0.AT3 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Feb 16 2005 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 16 2005 [     23 02] .. 
+-r-xr-xr-x   1    0    0    4283952 Feb 16 2005 [     48 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0    4283605 Feb 16 2005 [ 282496 00] BOOT.BIN 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Feb 16 2005 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 16 2005 [     23 02] .. 
+dr-xr-xr-x   1    0    0       4096 Feb 16 2005 [     26 02] DATA 
+-r-xr-xr-x   1    0    0       3397 Feb  9 2005 [ 282480 00] GAME.INI 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/
+dr-xr-xr-x   1    0    0       4096 Feb 16 2005 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 16 2005 [     25 02] .. 
+-r-xr-xr-x   1    0    0     448136 Feb 15 2005 [   2144 00] A1S1CITY.GFC 
+-r-xr-xr-x   1    0    0   15413248 Feb 15 2005 [   2368 00] A1S1CITY.GOB 
+-r-xr-xr-x   1    0    0     411776 Feb 16 2005 [   9904 00] A2S1BRIDGE.GFC 
+-r-xr-xr-x   1    0    0   17496064 Feb 16 2005 [  10112 00] A2S1BRIDGE.GOB 
+-r-xr-xr-x   1    0    0     495772 Feb 15 2005 [  18656 00] A2S2WAREHOUSE.GFC 
+-r-xr-xr-x   1    0    0   17997824 Feb 15 2005 [  18912 00] A2S2WAREHOUSE.GOB 
+-r-xr-xr-x   1    0    0     366164 Feb 15 2005 [  27712 00] A2S3REACTOR.GFC 
+-r-xr-xr-x   1    0    0   13639680 Feb 15 2005 [  27904 00] A2S3REACTOR.GOB 
+-r-xr-xr-x   1    0    0     490128 Feb 15 2005 [  34576 00] A3S1MUSEUM.GFC 
+-r-xr-xr-x   1    0    0   17475584 Feb 15 2005 [  34816 00] A3S1MUSEUM.GOB 
+-r-xr-xr-x   1    0    0     548020 Feb 15 2005 [  43360 00] A3S3MUSEUM.GFC 
+-r-xr-xr-x   1    0    0   20584448 Feb 15 2005 [  43632 00] A3S3MUSEUM.GOB 
+-r-xr-xr-x   1    0    0     284812 Feb 15 2005 [  53696 00] A3S4MUSEUM.GFC 
+-r-xr-xr-x   1    0    0   12775424 Feb 15 2005 [  53840 00] A3S4MUSEUM.GOB 
+-r-xr-xr-x   1    0    0     537176 Feb 15 2005 [  60080 00] A4S1BANK.GFC 
+-r-xr-xr-x   1    0    0   17856512 Feb 15 2005 [  60352 00] A4S1BANK.GOB 
+-r-xr-xr-x   1    0    0     504620 Feb 15 2005 [  69072 00] A4S2BANK.GFC 
+-r-xr-xr-x   1    0    0   15800320 Feb 15 2005 [  69328 00] A4S2BANK.GOB 
+-r-xr-xr-x   1    0    0     374240 Feb 15 2005 [  77056 00] A4S3CITY.GFC 
+-r-xr-xr-x   1    0    0   10993664 Feb 15 2005 [  77248 00] A4S3CITY.GOB 
+-r-xr-xr-x   1    0    0     476344 Feb 15 2005 [  82624 00] A6S1CITY.GFC 
+-r-xr-xr-x   1    0    0   20563968 Feb 15 2005 [  82864 00] A6S1CITY.GOB 
+-r-xr-xr-x   1    0    0     514440 Feb 15 2005 [  92912 00] A6S2CITY.GFC 
+-r-xr-xr-x   1    0    0   16209920 Feb 15 2005 [  93168 00] A6S2CITY.GOB 
+-r-xr-xr-x   1    0    0     360636 Feb 15 2005 [ 101088 00] A6S3CITY.GFC 
+-r-xr-xr-x   1    0    0   19091456 Feb 15 2005 [ 101280 00] A6S3CITY.GOB 
+-r-xr-xr-x   1    0    0     552768 Feb 15 2005 [ 110608 00] A7S2WAREHOUSE.GFC 
+-r-xr-xr-x   1    0    0   17895424 Feb 15 2005 [ 110880 00] A7S2WAREHOUSE.GOB 
+-r-xr-xr-x   1    0    0     392544 Feb 15 2005 [ 119632 00] A7S3WAREHOUSE.GFC 
+-r-xr-xr-x   1    0    0   14872576 Feb 15 2005 [ 119824 00] A7S3WAREHOUSE.GOB 
+-r-xr-xr-x   1    0    0     455188 Feb 15 2005 [ 127088 00] A7S4WAREHOUSE.GFC 
+-r-xr-xr-x   1    0    0   22018048 Feb 15 2005 [ 127312 00] A7S4WAREHOUSE.GOB 
+-r-xr-xr-x   1    0    0     516696 Feb 15 2005 [ 138064 00] A8S2GCS.GFC 
+-r-xr-xr-x   1    0    0   16103424 Feb 15 2005 [ 138320 00] A8S2GCS.GOB 
+-r-xr-xr-x   1    0    0     410728 Feb 15 2005 [ 146192 00] A8S3TRAIN.GFC 
+-r-xr-xr-x   1    0    0   15484928 Feb 15 2005 [ 146400 00] A8S3TRAIN.GOB 
+-r-xr-xr-x   1    0    0     410416 Feb 15 2005 [ 153968 00] A9S4WAREHOUSE.GFC 
+-r-xr-xr-x   1    0    0   17496064 Feb 15 2005 [ 154176 00] A9S4WAREHOUSE.GOB 
+dr-xr-xr-x   1    0    0       2048 Feb 16 2005 [     28 02] AUDIO 
+-r-xr-xr-x   1    0    0       1596 Feb 15 2005 [ 186208 00] LEGAL.GFC 
+-r-xr-xr-x   1    0    0     104448 Feb 15 2005 [ 186224 00] LEGAL.GOB 
+-r-xr-xr-x   1    0    0     224760 Feb 15 2005 [ 186288 00] MENU.GFC 
+-r-xr-xr-x   1    0    0    6350848 Feb 15 2005 [ 186400 00] MENU.GOB 
+dr-xr-xr-x   1    0    0       2048 Feb 16 2005 [     29 02] MOVIES 
+-r-xr-xr-x   1    0    0       1047 Feb 12 2005 [ 247248 00] PATHS.TXT 
+dr-xr-xr-x   1    0    0       2048 Feb 16 2005 [     30 02] PRX 
+-r-xr-xr-x   1    0    0       1904 Feb 15 2005 [ 247376 00] START.GFC 
+-r-xr-xr-x   1    0    0     198656 Feb 15 2005 [ 247392 00] START.GOB 
+-r-xr-xr-x   1    0    0     270020 Feb 15 2005 [ 247504 00] T1S1BASICS.GFC 
+-r-xr-xr-x   1    0    0   22487040 Feb 15 2005 [ 247648 00] T1S1BASICS.GOB 
+-r-xr-xr-x   1    0    0     226396 Feb 15 2005 [ 258640 00] T3S1TARGETING.GFC 
+-r-xr-xr-x   1    0    0   10047488 Feb 15 2005 [ 258752 00] T3S1TARGETING.GOB 
+-r-xr-xr-x   1    0    0     209692 Feb 15 2005 [ 263664 00] T4S1ZIPPING.GFC 
+-r-xr-xr-x   1    0    0    4370432 Feb 15 2005 [ 263776 00] T4S1ZIPPING.GOB 
+-r-xr-xr-x   1    0    0     212612 Feb 15 2005 [ 265920 00] T6S1SWINGING.GFC 
+-r-xr-xr-x   1    0    0    4442112 Feb 15 2005 [ 266032 00] T6S1SWINGING.GOB 
+-r-xr-xr-x   1    0    0     278072 Feb 15 2005 [ 268208 00] T8S1FIGHT.GFC 
+-r-xr-xr-x   1    0    0   17364992 Feb 15 2005 [ 268352 00] T8S1FIGHT.GOB 
+-r-xr-xr-x   1    0    0     257660 Feb 15 2005 [ 276832 00] T9S1ACTION.GFC 
+-r-xr-xr-x   1    0    0    5537792 Feb 15 2005 [ 276960 00] T9S1ACTION.GOB 
+-r-xr-xr-x   1    0    0     255860 Feb 15 2005 [ 279664 00] T9S2ACTION.GFC 
+-r-xr-xr-x   1    0    0    5494784 Feb 15 2005 [ 279792 00] T9S2ACTION.GOB 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/AUDIO/
+dr-xr-xr-x   1    0    0       2048 Feb 16 2005 [     28 02] . 
+dr-xr-xr-x   1    0    0       4096 Feb 16 2005 [     26 02] .. 
+dr-xr-xr-x   1    0    0       4096 Feb 16 2005 [     31 02] MUSIC 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MOVIES/
+dr-xr-xr-x   1    0    0       2048 Feb 16 2005 [     29 02] . 
+dr-xr-xr-x   1    0    0       4096 Feb 16 2005 [     26 02] .. 
+-r-xr-xr-x   1    0    0    1544192 Feb  3 2005 [ 189504 00] ACTIVISN.PMF 
+-r-xr-xr-x   1    0    0    7141376 Jan 27 2005 [ 190272 00] SEQ2_1.PMF 
+-r-xr-xr-x   1    0    0   10950656 Jan 27 2005 [ 193760 00] SEQ2_6.PMF 
+-r-xr-xr-x   1    0    0    7942144 Jan 15 2005 [ 199120 00] SEQ3_1.PMF 
+-r-xr-xr-x   1    0    0    3174400 Jan 27 2005 [ 203008 00] SEQ3_2.PMF 
+-r-xr-xr-x   1    0    0    4823040 Jan 25 2005 [ 204560 00] SEQ3_6.PMF 
+-r-xr-xr-x   1    0    0    4143104 Jan 15 2005 [ 206928 00] SEQ4_1.PMF 
+-r-xr-xr-x   1    0    0    3102720 Jan 25 2005 [ 208960 00] SEQ4_3.PMF 
+-r-xr-xr-x   1    0    0    4681728 Jan 25 2005 [ 210480 00] SEQ6_1.PMF 
+-r-xr-xr-x   1    0    0    4939776 Jan 25 2005 [ 212768 00] SEQ6_5.PMF 
+-r-xr-xr-x   1    0    0    5900288 Jan 27 2005 [ 215184 00] SEQ7_1.PMF 
+-r-xr-xr-x   1    0    0    5711872 Jan 27 2005 [ 218080 00] SEQ7_6.PMF 
+-r-xr-xr-x   1    0    0    6111232 Jan 31 2005 [ 220880 00] SEQ8_1.PMF 
+-r-xr-xr-x   1    0    0    2668544 Jan 15 2005 [ 223872 00] SEQ8_4.PMF 
+-r-xr-xr-x   1    0    0    5832704 Jan 15 2005 [ 225184 00] SEQ8_5.PMF 
+-r-xr-xr-x   1    0    0    4116480 Jan 25 2005 [ 228032 00] SEQ9_1.PMF 
+-r-xr-xr-x   1    0    0    5447680 Jan 15 2005 [ 230048 00] SEQ9_4.PMF 
+-r-xr-xr-x   1    0    0   26017792 Feb  8 2005 [ 232720 00] SEQ9_7.PMF 
+-r-xr-xr-x   1    0    0    2977792 Feb  1 2005 [ 245424 00] TEASER.PMF 
+-r-xr-xr-x   1    0    0     739328 Jan 15 2005 [ 246880 00] VV.PMF 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/PRX/
+dr-xr-xr-x   1    0    0       2048 Feb 16 2005 [     30 02] . 
+dr-xr-xr-x   1    0    0       4096 Feb 16 2005 [     26 02] .. 
+-r-xr-xr-x   1    0    0       3232 Jan 15 2005 [ 247264 00] AUDIOCODEC.PRX 
+-r-xr-xr-x   1    0    0      19524 Jan 15 2005 [ 247280 00] LIBATRAC3PLUS.PRX 
+-r-xr-xr-x   1    0    0      39624 Jan 15 2005 [ 247296 00] MPEG.PRX 
+-r-xr-xr-x   1    0    0       9552 Jan 15 2005 [ 247328 00] MPEGBASE.PRX 
+-r-xr-xr-x   1    0    0       5920 Jan 15 2005 [ 247344 00] SC_SASCORE.PRX 
+-r-xr-xr-x   1    0    0       3808 Jan 15 2005 [ 247360 00] VIDEOCODEC.PRX 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/AUDIO/MUSIC/
+dr-xr-xr-x   1    0    0       4096 Feb 16 2005 [     31 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 16 2005 [     28 02] .. 
+-r-xr-xr-x   1    0    0    1584912 Feb  1 2005 [ 162720 00] BGM_MENU.AT3 
+-r-xr-xr-x   1    0    0     183244 Jan 15 2005 [ 163504 00] DEATH_MUSIC.AT3 
+-r-xr-xr-x   1    0    0    1024272 Jan 15 2005 [ 163600 00] ENDCREDITSMAIN1.AT3 
+-r-xr-xr-x   1    0    0    2389008 Jan 15 2005 [ 164112 00] ENDCREDITSMAIN2.AT3 
+-r-xr-xr-x   1    0    0     145228 Jan 31 2005 [ 165280 00] SEQ1_1A.AT3 
+-r-xr-xr-x   1    0    0     201676 Jan 31 2005 [ 165360 00] SEQ1_1B.AT3 
+-r-xr-xr-x   1    0    0     262348 Jan 31 2005 [ 165472 00] SEQ1_1C.AT3 
+-r-xr-xr-x   1    0    0     409036 Feb 14 2005 [ 165616 00] SEQ1_1D.AT3 
+-r-xr-xr-x   1    0    0     348748 Jan 31 2005 [ 165824 00] SEQ2_2A.AT3 
+-r-xr-xr-x   1    0    0     361036 Jan 31 2005 [ 166000 00] SEQ2_2B.AT3 
+-r-xr-xr-x   1    0    0      66892 Jan 31 2005 [ 166192 00] SEQ2_2C.AT3 
+-r-xr-xr-x   1    0    0     431692 Jan 31 2005 [ 166240 00] SEQ2_3.AT3 
+-r-xr-xr-x   1    0    0     202444 Jan 31 2005 [ 166464 00] SEQ2_4.AT3 
+-r-xr-xr-x   1    0    0     134092 Jan 31 2005 [ 166576 00] SEQ2_4D.AT3 
+-r-xr-xr-x   1    0    0      84556 Jan 31 2005 [ 166656 00] SEQ2_5.AT3 
+-r-xr-xr-x   1    0    0     200140 Jan 31 2005 [ 166704 00] SEQ2_8.AT3 
+-r-xr-xr-x   1    0    0     277324 Jan 31 2005 [ 166816 00] SEQ3_3A.AT3 
+-r-xr-xr-x   1    0    0     431308 Jan 31 2005 [ 166960 00] SEQ3_4A.AT3 
+-r-xr-xr-x   1    0    0     232396 Jan 31 2005 [ 167184 00] SEQ3_4B.AT3 
+-r-xr-xr-x   1    0    0     280396 Jan 31 2005 [ 167312 00] SEQ3_5.AT3 
+-r-xr-xr-x   1    0    0     235084 Jan 31 2005 [ 167456 00] SEQ4_2.AT3 
+-r-xr-xr-x   1    0    0     262732 Jan 31 2005 [ 167584 00] SEQ4_3A.AT3 
+-r-xr-xr-x   1    0    0     277324 Jan 31 2005 [ 167728 00] SEQ4_4A.AT3 
+-r-xr-xr-x   1    0    0     277324 Jan 31 2005 [ 167872 00] SEQ4_4B.AT3 
+-r-xr-xr-x   1    0    0     116428 Jan 31 2005 [ 168016 00] SEQ4_4F.AT3 
+-r-xr-xr-x   1    0    0     133708 Jan 31 2005 [ 168080 00] SEQ4_4G.AT3 
+-r-xr-xr-x   1    0    0     117196 Jan 31 2005 [ 168160 00] SEQ4_4H.AT3 
+-r-xr-xr-x   1    0    0     199372 Jan 31 2005 [ 168224 00] SEQ4_4I.AT3 
+-r-xr-xr-x   1    0    0     144460 Feb  4 2005 [ 168336 00] SEQ4_4K.AT3 
+-r-xr-xr-x   1    0    0     166348 Jan 31 2005 [ 168416 00] SEQ6_2A.AT3 
+-r-xr-xr-x   1    0    0     270412 Jan 31 2005 [ 168512 00] SEQ6_3B.AT3 
+-r-xr-xr-x   1    0    0     103756 Jan 31 2005 [ 168656 00] SEQ6_3D.AT3 
+-r-xr-xr-x   1    0    0     277324 Jan 31 2005 [ 168720 00] SEQ6_4.AT3 
+-r-xr-xr-x   1    0    0     207820 Jan 31 2005 [ 168864 00] SEQ6_6A.AT3 
+-r-xr-xr-x   1    0    0     100300 Jan 31 2005 [ 168976 00] SEQ7_4A.AT3 
+-r-xr-xr-x   1    0    0     139084 Jan 31 2005 [ 169040 00] SEQ7_4B.AT3 
+-r-xr-xr-x   1    0    0     222796 Jan 31 2005 [ 169120 00] SEQ7_4D.AT3 
+-r-xr-xr-x   1    0    0     389068 Jan 31 2005 [ 169232 00] SEQ7_4E.AT3 
+-r-xr-xr-x   1    0    0     382156 Jan 31 2005 [ 169424 00] SEQ7_5B.AT3 
+-r-xr-xr-x   1    0    0     271564 Jan 31 2005 [ 169616 00] SEQ7_5C.AT3 
+-r-xr-xr-x   1    0    0     194380 Feb  2 2005 [ 169760 00] SEQ7_5D.AT3 
+-r-xr-xr-x   1    0    0     211660 Jan 31 2005 [ 169856 00] SEQ8_2A.AT3 
+-r-xr-xr-x   1    0    0     343756 Jan 31 2005 [ 169968 00] SEQ8_3.AT3 
+-r-xr-xr-x   1    0    0      83788 Feb  5 2005 [ 170144 00] SEQ8_8.AT3 
+-r-xr-xr-x   1    0    0     354892 Feb  9 2005 [ 170192 00] SEQ9_4A.AT3 
+-r-xr-xr-x   1    0    0    1418256 Feb 11 2005 [ 170368 00] TRACK_00.AT3 
+-r-xr-xr-x   1    0    0    2399376 Feb 11 2005 [ 171072 00] TRACK_02.AT3 
+-r-xr-xr-x   1    0    0    2748432 Feb 11 2005 [ 172256 00] TRACK_03.AT3 
+-r-xr-xr-x   1    0    0    2918544 Feb 11 2005 [ 173600 00] TRACK_04.AT3 
+-r-xr-xr-x   1    0    0    1507344 Feb 11 2005 [ 175040 00] TRACK_06.AT3 
+-r-xr-xr-x   1    0    0    2607120 Feb 11 2005 [ 175792 00] TRACK_07.AT3 
+-r-xr-xr-x   1    0    0    3036048 Feb 11 2005 [ 177072 00] TRACK_08.AT3 
+-r-xr-xr-x   1    0    0    2561424 Feb 11 2005 [ 178560 00] TRACK_10.AT3 
+-r-xr-xr-x   1    0    0    2388240 Feb 11 2005 [ 179824 00] TRACK_11.AT3 
+-r-xr-xr-x   1    0    0    2198928 Feb 11 2005 [ 180992 00] TRACK_12.AT3 
+-r-xr-xr-x   1    0    0    2183568 Feb 11 2005 [ 182080 00] TRACK_14.AT3 
+-r-xr-xr-x   1    0    0    1689744 Feb 11 2005 [ 183152 00] TRACK_15.AT3 
+-r-xr-xr-x   1    0    0    2357136 Feb 11 2005 [ 183984 00] TRACK_16.AT3 
+-r-xr-xr-x   1    0    0    2071440 Feb 11 2005 [ 185136 00] TRACK_17.AT3 
+-r-xr-xr-x   1    0    0      83788 Jan 15 2005 [ 186160 00] VICTORY.AT3 
+=============================================================== 
+Generated on Sun 07/08/2022 at 19:29:13.64 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

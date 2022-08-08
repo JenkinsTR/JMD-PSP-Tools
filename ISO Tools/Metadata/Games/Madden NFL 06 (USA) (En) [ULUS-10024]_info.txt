@@ -1,0 +1,301 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Madden NFL 06   
+Title ID: ULUS-10024 
+Region: USA  
+Languages: En  
+Volume Creation Date: 2005-08-07 17:51:53 
+Volume Size: 1615 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: MADDENNFL06
+Volume set id: MADDENNFL06
+Publisher id: ELECTRONIC ARTS
+Data preparer id: TIBURON
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 826976
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Aug  7 2005 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2005 [     22 02] .. 
+-r-xr-xr-x   1    0    0         48 Jul 28 2005 [     40 00] UMD_DATA.BIN 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2005 [     23 02] PSP_GAME 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Jul 28 2005 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2005 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2005 [     24 02] SYSDIR 
+-r-xr-xr-x   1    0    0        472 Jul 31 2005 [  23792 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      19970 Jul 31 2005 [  27056 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        672 Jul 31 2005 [  27072 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0     214400 Jul 31 2005 [  27088 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0     442368 Jul 31 2005 [  27200 00] ICON1.PMF 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2005 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Jul 28 2005 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2005 [     23 02] .. 
+-r-xr-xr-x   1    0    0    6631264 Aug  7 2005 [     48 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2005 [     26 02] UPDATE 
+-r-xr-xr-x   1    0    0    6630916 Aug  7 2005 [  23808 00] BOOT.BIN 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Jul 28 2005 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2005 [     23 02] .. 
+dr-xr-xr-x   1    0    0       4096 Jul 28 2005 [     27 02] modules 
+dr-xr-xr-x   1    0    0       8192 Jul 28 2005 [     29 02] data 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2005 [     33 02] EACN 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Jul 28 2005 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2005 [     24 02] .. 
+-r-xr-xr-x   1    0    0       1732 Jul 28 2005 [   3296 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0    3680208 Jul 28 2005 [   3312 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0   10284528 Jul 28 2005 [   7408 00] DATA.BIN 
+
+Directory listing of /PSP_GAME/USRDIR/modules/
+dr-xr-xr-x   1    0    0       4096 Jul 28 2005 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2005 [     25 02] .. 
+-r-xr-xr-x   1    0    0      10816 Jul 31 2005 [  27424 00] ifhandle.prx 
+-r-xr-xr-x   1    0    0      17216 Jul 31 2005 [  27440 00] memab.prx 
+-r-xr-xr-x   1    0    0      11360 Jul 31 2005 [  27456 00] pspnet_adhoc_auth.prx 
+-r-xr-xr-x   1    0    0      60360 Jul 31 2005 [  27472 00] pspnet.prx 
+-r-xr-xr-x   1    0    0     239968 Jul 31 2005 [  27504 00] pspnet_inet.prx 
+-r-xr-xr-x   1    0    0      44412 Jul 31 2005 [  27632 00] pspnet_apctl.prx 
+-r-xr-xr-x   1    0    0      42492 Jul 31 2005 [  27664 00] pspnet_adhoc.prx 
+-r-xr-xr-x   1    0    0      31996 Jul 31 2005 [  27696 00] pspnet_adhocctl.prx 
+-r-xr-xr-x   1    0    0      12400 Jul 31 2005 [  27712 00] pspnet_resolver.prx 
+-r-xr-xr-x   1    0    0       4820 Jul 31 2005 [  27728 00] pspnet_ap_dialog_dummy.prx 
+-r-xr-xr-x   1    0    0       3200 Jul 31 2005 [  27744 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0       5904 Jul 31 2005 [  27760 00] sc_sascore.prx 
+-r-xr-xr-x   1    0    0       3808 Jul 31 2005 [  27776 00] videocodec.prx 
+-r-xr-xr-x   1    0    0       5808 Jul 31 2005 [  27792 00] mpegbase.prx 
+-r-xr-xr-x   1    0    0      43068 Jul 31 2005 [  27808 00] mpeg.prx 
+-r-xr-xr-x   1    0    0      19940 Jul 31 2005 [  27840 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0      14560 Jul 31 2005 [  27856 00] usbpspcm.prx 
+-r-xr-xr-x   1    0    0       1488 Jul 31 2005 [  27872 00] libadler.prx 
+-r-xr-xr-x   1    0    0      31104 Jul 31 2005 [  27888 00] rinit.prx 
+-r-xr-xr-x   1    0    0       2252 Jul 31 2005 [  27904 00] libbase64.prx 
+-r-xr-xr-x   1    0    0      40696 Jul 31 2005 [  27920 00] libfont.prx 
+-r-xr-xr-x   1    0    0       6644 Jul 31 2005 [  27952 00] libfpu.prx 
+-r-xr-xr-x   1    0    0      87032 Jul 31 2005 [  27968 00] libhttp.prx 
+-r-xr-xr-x   1    0    0       3248 Jul 31 2005 [  28016 00] libmd5.prx 
+-r-xr-xr-x   1    0    0       1816 Jul 31 2005 [  28032 00] libmt19937.prx 
+-r-xr-xr-x   1    0    0       5180 Jul 31 2005 [  28048 00] libparse_http.prx 
+-r-xr-xr-x   1    0    0      15584 Jul 31 2005 [  28064 00] libparse_uri.prx 
+-r-xr-xr-x   1    0    0       2924 Jul 31 2005 [  28080 00] libqpcode.prx 
+-r-xr-xr-x   1    0    0       3912 Jul 31 2005 [  28096 00] libsha1.prx 
+-r-xr-xr-x   1    0    0      15828 Jul 31 2005 [  28112 00] pspnet_adhoc_download.prx 
+-r-xr-xr-x   1    0    0      19688 Jul 31 2005 [  28128 00] pspnet_adhoc_matching.prx 
+-r-xr-xr-x   1    0    0      67400 Jul 31 2005 [  28144 00] scan.prx 
+-r-xr-xr-x   1    0    0      63532 Jul 31 2005 [  28192 00] show_macaddr.prx 
+
+Directory listing of /PSP_GAME/USRDIR/data/
+dr-xr-xr-x   1    0    0       8192 Jul 28 2005 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2005 [     25 02] .. 
+-r-xr-xr-x   1    0    0      24204 Aug  1 2005 [ 236845 00] fonts.dat 
+-r-xr-xr-x   1    0    0       2920 Aug  1 2005 [ 236864 00] uionline.dat 
+-r-xr-xr-x   1    0    0    1356268 Jul 14 2005 [ 236880 00] osdkstrn.dat 
+-r-xr-xr-x   1    0    0     241964 Aug  1 2005 [ 237552 00] cafeolbc.dat 
+-r-xr-xr-x   1    0    0      42048 Aug  1 2005 [ 237680 00] cafestdl.dat 
+-r-xr-xr-x   1    0    0     105508 Aug  1 2005 [ 237712 00] cafeoweb.dat 
+-r-xr-xr-x   1    0    0      25508 Aug  1 2005 [ 237776 00] cafeostg.dat 
+-r-xr-xr-x   1    0    0     110444 Aug  1 2005 [ 237792 00] cafeostb.dat 
+-r-xr-xr-x   1    0    0       2216 Aug  1 2005 [ 237856 00] cafeosnd.dat 
+-r-xr-xr-x   1    0    0      27412 Aug  1 2005 [ 237872 00] cafeosmd.dat 
+-r-xr-xr-x   1    0    0       8508 Aug  1 2005 [ 237888 00] cafeorst.dat 
+-r-xr-xr-x   1    0    0     845476 Aug  1 2005 [ 237904 00] cafeomn_.dat 
+-r-xr-xr-x   1    0    0      92836 Aug  1 2005 [ 238320 00] cafeolkr.dat 
+-r-xr-xr-x   1    0    0     476352 Aug  1 2005 [ 238368 00] cafeolib.dat 
+-r-xr-xr-x   1    0    0       9232 Aug  1 2005 [ 238608 00] cafeolgn.dat 
+-r-xr-xr-x   1    0    0     134876 Aug  1 2005 [ 238624 00] cafeolby.dat 
+-r-xr-xr-x   1    0    0      31744 Aug  1 2005 [ 238704 00] cafeoldb.dat 
+-r-xr-xr-x   1    0    0        956 Aug  1 2005 [ 238720 00] cafeoiml.dat 
+-r-xr-xr-x   1    0    0     402164 Aug  1 2005 [ 238736 00] cafeognl.dat 
+-r-xr-xr-x   1    0    0     103408 Aug  1 2005 [ 238944 00] cafemain.dat 
+-r-xr-xr-x   1    0    0      35188 Aug  1 2005 [ 239008 00] cafeicns.dat 
+-r-xr-xr-x   1    0    0     197500 Aug  1 2005 [ 239040 00] cafegimg.dat 
+-r-xr-xr-x   1    0    0      38280 Aug  1 2005 [ 239152 00] cafeartl.dat 
+-r-xr-xr-x   1    0    0      58248 Jul 17 2005 [ 239184 00] backgrnd.dat 
+-r-xr-xr-x   1    0    0      60004 Jul  9 2005 [ 239216 00] mainflow.dat 
+-r-xr-xr-x   1    0    0      81244 Jul 25 2005 [ 239248 00] online.dat 
+-r-xr-xr-x   1    0    0       1516 Jun  9 2005 [ 239296 00] ui_proj.dat 
+-r-xr-xr-x   1    0    0      83376 Jul  9 2005 [ 239312 00] sgeneral.dat 
+-r-xr-xr-x   1    0    0     140856 Jul 20 2005 [ 239360 00] lgeneral.dat 
+-r-xr-xr-x   1    0    0      77368 Jul 20 2005 [ 239440 00] lcommon.dat 
+-r-xr-xr-x   1    0    0      79232 Jul 27 2005 [ 242656 00] icons.dat 
+-r-xr-xr-x   1    0    0    1541376 Jul 25 2005 [ 242704 00] loaddata.dat 
+-r-xr-xr-x   1    0    0      12288 Jul 19 2005 [ 243472 00] memcard.dat 
+-r-xr-xr-x   1    0    0     131340 Feb 24 2005 [ 243488 00] stryhdln.dat 
+-r-xr-xr-x   1    0    0     185552 Feb 24 2005 [ 243568 00] strycptn.dat 
+-r-xr-xr-x   1    0    0    2197224 Feb 24 2005 [ 243664 00] strytext.dat 
+-r-xr-xr-x   1    0    0     230252 Feb 24 2005 [ 244752 00] stryemal.dat 
+-r-xr-xr-x   1    0    0     526048 Feb 24 2005 [ 244880 00] strydata.dat 
+-r-xr-xr-x   1    0    0       5648 Feb 24 2005 [ 245152 00] storymsg.dat 
+-r-xr-xr-x   1    0    0   25784512 Jul 29 2005 [ 245168 00] cameo1.dat 
+-r-xr-xr-x   1    0    0        896 Jun 22 2005 [ 257760 00] cameo2.dat 
+-r-xr-xr-x   1    0    0       1216 Jun 22 2005 [ 257776 00] cameo3.dat 
+-r-xr-xr-x   1    0    0    5209348 Jul 30 2005 [ 257792 00] strmdata.db 
+-r-xr-xr-x   1    0    0     388660 Jul 28 2005 [ 260336 00] uis_banr.dat 
+-r-xr-xr-x   1    0    0     100608 Jul 25 2005 [ 260528 00] uis_prgm.dat 
+-r-xr-xr-x   1    0    0     152168 Jan 21 2005 [ 260592 00] uis_mdrc.dat 
+-r-xr-xr-x   1    0    0      70432 Jul 28 2005 [ 260672 00] uis_memc.dat 
+-r-xr-xr-x   1    0    0     232408 Jul 29 2005 [ 260720 00] uis_paus.dat 
+-r-xr-xr-x   1    0    0     397628 Jul 29 2005 [ 260848 00] uis_pauc.dat 
+-r-xr-xr-x   1    0    0     128660 Jul 25 2005 [ 261056 00] uis_sfpc.dat 
+-r-xr-xr-x   1    0    0     412068 Jul 25 2005 [ 261120 00] uis_pops.dat 
+-r-xr-xr-x   1    0    0      98704 Jul 25 2005 [ 261328 00] uis_prps.dat 
+-r-xr-xr-x   1    0    0      48192 Jul 25 2005 [ 261392 00] uis_sett.dat 
+-r-xr-xr-x   1    0    0     811072 Jul 18 2005 [ 261424 00] uis_coac.dat 
+-r-xr-xr-x   1    0    0        448 Jul 25 2005 [ 261824 00] uis_csty.dat 
+-r-xr-xr-x   1    0    0       4800 Feb 28 2005 [ 261840 00] uis_ccst.dat 
+-r-xr-xr-x   1    0    0     129152 Jul 25 2005 [ 261856 00] uis_comn.dat 
+-r-xr-xr-x   1    0    0     356544 Apr  4 2005 [ 261920 00] uis_ctlo.dat 
+-r-xr-xr-x   1    0    0     146752 Jul 25 2005 [ 262096 00] uis_font.dat 
+-r-xr-xr-x   1    0    0        256 Jul 25 2005 [ 262176 00] uis_fsty.dat 
+-r-xr-xr-x   1    0    0      77376 Feb 28 2005 [ 262192 00] uis_modl.dat 
+-r-xr-xr-x   1    0    0     247936 Jul 25 2005 [ 262240 00] uis_ig.dat 
+-r-xr-xr-x   1    0    0     289024 Apr  4 2005 [ 262368 00] uis_sliv.dat 
+-r-xr-xr-x   1    0    0      99776 Feb 28 2005 [ 262512 00] uis_mcfl.dat 
+-r-xr-xr-x   1    0    0     109120 Feb 28 2005 [ 262576 00] uis_mcic.dat 
+-r-xr-xr-x   1    0    0     127104 Apr  4 2005 [ 262640 00] uis_omg.dat 
+-r-xr-xr-x   1    0    0   11130752 Jul 20 2005 [ 262704 00] uis_plyr.dat 
+-r-xr-xr-x   1    0    0    1104512 Jul 25 2005 [ 268144 00] uis_sbld.dat 
+-r-xr-xr-x   1    0    0     200448 Feb 28 2005 [ 268688 00] uis_tmfn.dat 
+-r-xr-xr-x   1    0    0     617216 Jul 17 2005 [ 268800 00] uis_tmlo.dat 
+-r-xr-xr-x   1    0    0    1361280 Jul 17 2005 [ 269104 00] uis_tmll.dat 
+-r-xr-xr-x   1    0    0    1449920 Jul 23 2005 [ 269776 00] uis_solo.dat 
+-r-xr-xr-x   1    0    0    2057984 Jul 15 2005 [ 270496 00] uis_load.dat 
+-r-xr-xr-x   1    0    0     240320 May 19 2005 [ 271504 00] uis_bgim.dat 
+-r-xr-xr-x   1    0    0     163584 Jul 25 2005 [ 271632 00] uis_pdai.dat 
+-r-xr-xr-x   1    0    0    1001472 Jul 25 2005 [ 271712 00] uis_pers.dat 
+-r-xr-xr-x   1    0    0     120576 May 12 2005 [ 272208 00] uis_adai.dat 
+-r-xr-xr-x   1    0    0         32 Jun  9 2005 [ 272272 00] spchmoto.dat 
+-r-xr-xr-x   1    0    0    2601856 Jun 22 2005 [ 272288 00] db_teams.dat 
+-r-xr-xr-x   1    0    0      12288 Jun 22 2005 [ 273568 00] eagl_anim.dat 
+-r-xr-xr-x   1    0    0    1796096 Jun 22 2005 [ 273584 00] plyrface.dat 
+-r-xr-xr-x   1    0    0    1121408 Jul 23 2005 [ 274464 00] stadata.dat 
+-r-xr-xr-x   1    0    0    5962496 Jul 19 2005 [ 275024 00] fieldart.dat 
+-r-xr-xr-x   1    0    0   11963392 Jul 25 2005 [ 277936 00] stadiums.dat 
+-r-xr-xr-x   1    0    0    1462272 Jul 25 2005 [ 283792 00] uis_fe.dat 
+-r-xr-xr-x   1    0    0   10880256 Jul 19 2005 [ 284512 00] uniforms.dat 
+-r-xr-xr-x   1    0    0    1180544 Jul 15 2005 [ 289840 00] pladata.dat 
+-r-xr-xr-x   1    0    0    3009792 Jul 11 2005 [ 290432 00] gamedata.dat 
+-r-xr-xr-x   1    0    0   43924896 Aug  1 2005 [ 291904 00] game.qkl 
+-r-xr-xr-x   1    0    0   10342720 Jul 26 2005 [ 313360 00] animdata.dat 
+-r-xr-xr-x   1    0    0    1988736 Jul 15 2005 [ 318416 00] uis_stad.dat 
+-r-xr-xr-x   1    0    0   40459904 Jul 24 2005 [ 319392 00] spchdata.dat 
+-r-xr-xr-x   1    0    0    2008192 Jul 30 2005 [ 339152 00] template.dat 
+-r-xr-xr-x   1    0    0    7859400 Aug  1 2005 [ 340144 00] fe.qkl 
+-r-xr-xr-x   1    0    0    6350848 Jul 29 2005 [ 343984 00] uis_all.dat 
+-r-xr-xr-x   1    0    0   49303552 Jul 31 2005 [ 347088 00] sounddat.dat 
+-r-xr-xr-x   1    0    0   59566080 Jul 11 2005 [ 371168 00] bgm.dat 
+-r-xr-xr-x   1    0    0  268892864 Jul 24 2005 [ 443008 00] spchmad1.dat 
+-r-xr-xr-x   1    0    0   94703424 Jul 24 2005 [ 574304 00] spchmad2.dat 
+-r-xr-xr-x   1    0    0  239052432 Jul 25 2005 [ 620560 00] spchfedt.dat 
+-r-xr-xr-x   1    0    0  183642112 Feb 28 2005 [ 737296 00] uis_fmv.dat 
+
+Directory listing of /PSP_GAME/USRDIR/EACN/
+dr-xr-xr-x   1    0    0       2048 Jul 28 2005 [     33 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2005 [     25 02] .. 
+-r-xr-xr-x   1    0    0    2386502 Jul 31 2005 [ 239488 00] bundle.big 
+-r-xr-xr-x   1    0    0    1489629 Jul 31 2005 [ 240656 00] EACN.BIN 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2005 [     34 02] apt 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2005 [     35 02] fonts 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2005 [     36 02] icons 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2005 [     37 02] Locale 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2005 [     38 02] prx 
+
+Directory listing of /PSP_GAME/USRDIR/EACN/apt/
+dr-xr-xr-x   1    0    0       2048 Jul 28 2005 [     34 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2005 [     33 02] .. 
+-r-xr-xr-x   1    0    0        669 Jul 31 2005 [ 241392 00] fonttable.txt 
+-r-xr-xr-x   1    0    0         92 Jul 31 2005 [ 241408 00] REALfonts.txt 
+
+Directory listing of /PSP_GAME/USRDIR/EACN/fonts/
+dr-xr-xr-x   1    0    0       2048 Jul 28 2005 [     35 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2005 [     33 02] .. 
+-r-xr-xr-x   1    0    0      15952 Jul 31 2005 [ 241424 00] EaSportsBlackSmallCaps14b.mfn 
+-r-xr-xr-x   1    0    0      12980 Jul 31 2005 [ 241440 00] ExtraEAConnect.mfn 
+-r-xr-xr-x   1    0    0      13008 Jul 31 2005 [ 241456 00] NBA06_body.mfn 
+-r-xr-xr-x   1    0    0      16592 Jul 31 2005 [ 241472 00] NBA06_header.mfn 
+-r-xr-xr-x   1    0    0       8336 Jul 31 2005 [ 241488 00] NBA06_help.mfn 
+-r-xr-xr-x   1    0    0      13200 Jul 31 2005 [ 241504 00] NBA06_menu.mfn 
+-r-xr-xr-x   1    0    0      32592 Jul 31 2005 [ 241520 00] NBA06_ranking.mfn 
+-r-xr-xr-x   1    0    0       9296 Jul 31 2005 [ 241536 00] NBA06_ticker.mfn 
+-r-xr-xr-x   1    0    0      15824 Jul 31 2005 [ 241552 00] NBA06_title.mfn 
+-r-xr-xr-x   1    0    0      22864 Jul 31 2005 [ 241568 00] Transmission24.mfn 
+
+Directory listing of /PSP_GAME/USRDIR/EACN/icons/
+dr-xr-xr-x   1    0    0       2048 Jul 28 2005 [     36 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2005 [     33 02] .. 
+-r-xr-xr-x   1    0    0      16089 Jul 31 2005 [ 241584 00] EAConnectSave.png 
+
+Directory listing of /PSP_GAME/USRDIR/EACN/Locale/
+dr-xr-xr-x   1    0    0       2048 Jul 28 2005 [     37 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2005 [     33 02] .. 
+-r-xr-xr-x   1    0    0     183324 Jul 31 2005 [ 241600 00] English.loc 
+-r-xr-xr-x   1    0    0     183628 Jul 31 2005 [ 241696 00] French.loc 
+-r-xr-xr-x   1    0    0     184164 Jul 31 2005 [ 241792 00] German.loc 
+-r-xr-xr-x   1    0    0     183904 Jul 31 2005 [ 241888 00] Italian.loc 
+-r-xr-xr-x   1    0    0     184276 Jul 31 2005 [ 241984 00] Spanish.loc 
+-r-xr-xr-x   1    0    0      29184 Jul 31 2005 [ 242080 00] string.idx 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2005 [     39 02] TRC 
+
+Directory listing of /PSP_GAME/USRDIR/EACN/prx/
+dr-xr-xr-x   1    0    0       2048 Jul 28 2005 [     38 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2005 [     33 02] .. 
+-r-xr-xr-x   1    0    0       3200 Jul 31 2005 [ 242208 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0      10816 Jul 31 2005 [ 242224 00] ifhandle.prx 
+-r-xr-xr-x   1    0    0      19940 Jul 31 2005 [ 242240 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0      17216 Jul 31 2005 [ 242256 00] memab.prx 
+-r-xr-xr-x   1    0    0      43068 Jul 31 2005 [ 242272 00] mpeg.prx 
+-r-xr-xr-x   1    0    0       5808 Jul 31 2005 [ 242304 00] mpegbase.prx 
+-r-xr-xr-x   1    0    0      60360 Jul 31 2005 [ 242320 00] pspnet.prx 
+-r-xr-xr-x   1    0    0      42492 Jul 31 2005 [ 242352 00] pspnet_adhoc.prx 
+-r-xr-xr-x   1    0    0      11360 Jul 31 2005 [ 242384 00] pspnet_adhoc_auth.prx 
+-r-xr-xr-x   1    0    0      19688 Jul 31 2005 [ 242400 00] pspnet_adhoc_matching.prx 
+-r-xr-xr-x   1    0    0      31996 Jul 31 2005 [ 242416 00] pspnet_adhocctl.prx 
+-r-xr-xr-x   1    0    0       4820 Jul 31 2005 [ 242432 00] pspnet_ap_dialog_dummy.prx 
+-r-xr-xr-x   1    0    0      44412 Jul 31 2005 [ 242448 00] pspnet_apctl.prx 
+-r-xr-xr-x   1    0    0     239968 Jul 31 2005 [ 242480 00] pspnet_inet.prx 
+-r-xr-xr-x   1    0    0      12400 Jul 31 2005 [ 242608 00] pspnet_resolver.prx 
+-r-xr-xr-x   1    0    0       5904 Jul 31 2005 [ 242624 00] sc_sascore.prx 
+-r-xr-xr-x   1    0    0       3808 Jul 31 2005 [ 242640 00] videocodec.prx 
+
+Directory listing of /PSP_GAME/USRDIR/EACN/Locale/TRC/
+dr-xr-xr-x   1    0    0       2048 Jul 28 2005 [     39 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2005 [     37 02] .. 
+-r-xr-xr-x   1    0    0       5116 Jul 31 2005 [ 242096 00] English.loc 
+-r-xr-xr-x   1    0    0       5780 Jul 31 2005 [ 242112 00] French.loc 
+-r-xr-xr-x   1    0    0       5384 Jul 31 2005 [ 242128 00] German.loc 
+-r-xr-xr-x   1    0    0       5624 Jul 31 2005 [ 242144 00] Italian.loc 
+-r-xr-xr-x   1    0    0       3424 Jul 31 2005 [ 242160 00] Japanese.loc 
+-r-xr-xr-x   1    0    0       5500 Jul 31 2005 [ 242176 00] Spanish.loc 
+-r-xr-xr-x   1    0    0        384 Jul 31 2005 [ 242192 00] string.idx 
+=============================================================== 
+Generated on Mon 08/08/2022 at 15:47:07.16 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

@@ -1,0 +1,900 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Yu-Gi-Oh GX - Tag Force   
+Title ID: ULUS-10136 
+Region: USA  
+Languages: En  
+Volume Creation Date: 2006-10-10 17:08:13 
+Volume Size: 669 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: 
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 342624
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Oct 10 2006 [     67 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     22 02] .. 
+-r-xr-xr-x   1    0    0      27564 Aug  3 2006 [  21600 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        472 Oct  6 2006 [  21584 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     241829 Aug  3 2006 [  21456 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     23 02] .. 
+-r-xr-xr-x   1    0    0    1110278 Oct 10 2006 [  21616 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    1110624 Oct 10 2006 [     80 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     27 02] card 
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     28 02] database 
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     29 02] deck 
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     30 02] duelsys 
+dr-xr-xr-x   1    0    0      10240 Oct 10 2006 [     31 02] duel 
+dr-xr-xr-x   1    0    0       4096 Oct 10 2006 [     36 02] field 
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     38 02] gmodule 
+dr-xr-xr-x   1    0    0       4096 Oct 10 2006 [     39 02] help 
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     41 02] labo 
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     42 02] main 
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     43 02] module 
+dr-xr-xr-x   1    0    0       4096 Oct 10 2006 [     44 02] movie 
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     46 02] script 
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     47 02] shop 
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     48 02] snd 
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     49 02] title_menu 
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     50 02] tutorial 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     24 02] .. 
+-r-xr-xr-x   1    0    0   15456672 Oct 10 2006 [   4736 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5079424 Oct 10 2006 [    640 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Oct 10 2006 [    624 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/card/
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0   10375168 Oct 10 2006 [ 228752 00] cardh_e.cip 
+-r-xr-xr-x   1    0    0    5199872 Oct 10 2006 [ 233824 00] cardm_e.cip 
+
+Directory listing of /PSP_GAME/USRDIR/database/
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0     640624 Sep 17 2006 [ 236368 00] cardalbum.ehp 
+-r-xr-xr-x   1    0    0     744816 Sep 17 2006 [ 236688 00] charalist.ehp 
+-r-xr-xr-x   1    0    0     155776 Sep 17 2006 [ 237056 00] duelrecord.ehp 
+-r-xr-xr-x   1    0    0     390384 Sep 17 2006 [ 237136 00] limitlist.ehp 
+-r-xr-xr-x   1    0    0      39280 Sep 17 2006 [ 237328 00] tutoriallist.ehp 
+
+Directory listing of /PSP_GAME/USRDIR/deck/
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0    2507168 Oct 10 2006 [ 237360 00] all_e.ehp 
+-r-xr-xr-x   1    0    0    2447424 Sep 17 2006 [ 238592 00] all_f.ehp 
+-r-xr-xr-x   1    0    0    2447264 Sep 17 2006 [ 239792 00] all_g.ehp 
+-r-xr-xr-x   1    0    0    2447504 Sep 17 2006 [ 240992 00] all_i.ehp 
+-r-xr-xr-x   1    0    0    2493168 Sep 17 2006 [ 242192 00] all_j.ehp 
+-r-xr-xr-x   1    0    0    2447072 Sep 17 2006 [ 243424 00] all_s.ehp 
+-r-xr-xr-x   1    0    0     145824 Sep 17 2006 [ 244624 00] deckswap.ehp 
+-r-xr-xr-x   1    0    0     211440 Sep 17 2006 [ 244704 00] recipe_view_e.ehp 
+-r-xr-xr-x   1    0    0     215680 Sep 17 2006 [ 244816 00] recipe_view_f.ehp 
+-r-xr-xr-x   1    0    0     215680 Sep 17 2006 [ 244928 00] recipe_view_g.ehp 
+-r-xr-xr-x   1    0    0     215680 Sep 17 2006 [ 245040 00] recipe_view_i.ehp 
+-r-xr-xr-x   1    0    0     211440 Sep 17 2006 [ 245152 00] recipe_view_j.ehp 
+-r-xr-xr-x   1    0    0     215680 Sep 17 2006 [ 245264 00] recipe_view_s.ehp 
+-r-xr-xr-x   1    0    0    1692896 Sep 17 2006 [ 245376 00] tutorial.ehp 
+
+Directory listing of /PSP_GAME/USRDIR/duelsys/
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0    1023968 Sep 17 2006 [ 307680 00] cardinfo_eng.ehp 
+-r-xr-xr-x   1    0    0    1118544 Sep 17 2006 [ 308192 00] cardinfo_fra.ehp 
+-r-xr-xr-x   1    0    0    1161792 Sep 17 2006 [ 308752 00] cardinfo_ger.ehp 
+-r-xr-xr-x   1    0    0    1122864 Sep 17 2006 [ 309328 00] cardinfo_ita.ehp 
+-r-xr-xr-x   1    0    0     923088 Sep 17 2006 [ 309888 00] cardinfo_jpn.ehp 
+-r-xr-xr-x   1    0    0    1097520 Sep 17 2006 [ 310352 00] cardinfo_spa.ehp 
+-r-xr-xr-x   1    0    0       3344 Oct 24 2005 [ 310896 00] recipe_npc.ehp 
+
+Directory listing of /PSP_GAME/USRDIR/duel/
+dr-xr-xr-x   1    0    0      10240 Oct 10 2006 [     31 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0    1405872 Sep 20 2006 [ 246208 00] basic_be.ehp 
+-r-xr-xr-x   1    0    0    1345616 Sep 20 2006 [ 246896 00] basic_bf.ehp 
+-r-xr-xr-x   1    0    0    1386784 Sep 20 2006 [ 247568 00] basic_bg.ehp 
+-r-xr-xr-x   1    0    0    1350928 Sep 20 2006 [ 248256 00] basic_bi.ehp 
+-r-xr-xr-x   1    0    0    1345568 Sep 20 2006 [ 248928 00] basic_bs.ehp 
+-r-xr-xr-x   1    0    0    1013664 Sep 20 2006 [ 249600 00] basic_ea.ehp 
+-r-xr-xr-x   1    0    0    1013664 Sep 20 2006 [ 250096 00] basic_eb.ehp 
+-r-xr-xr-x   1    0    0    1405792 Sep 20 2006 [ 250592 00] basic_fe.ehp 
+-r-xr-xr-x   1    0    0    1345536 Sep 20 2006 [ 251280 00] basic_ff.ehp 
+-r-xr-xr-x   1    0    0    1386704 Sep 20 2006 [ 251952 00] basic_fg.ehp 
+-r-xr-xr-x   1    0    0    1350848 Sep 20 2006 [ 252640 00] basic_fi.ehp 
+-r-xr-xr-x   1    0    0    1345488 Sep 20 2006 [ 253312 00] basic_fs.ehp 
+-r-xr-xr-x   1    0    0    1405808 Sep 20 2006 [ 253984 00] basic_ge.ehp 
+-r-xr-xr-x   1    0    0    1345552 Sep 20 2006 [ 254672 00] basic_gf.ehp 
+-r-xr-xr-x   1    0    0    1386720 Sep 20 2006 [ 255344 00] basic_gg.ehp 
+-r-xr-xr-x   1    0    0    1350864 Sep 20 2006 [ 256032 00] basic_gi.ehp 
+-r-xr-xr-x   1    0    0    1345504 Sep 20 2006 [ 256704 00] basic_gs.ehp 
+-r-xr-xr-x   1    0    0    1405792 Sep 20 2006 [ 257376 00] basic_ie.ehp 
+-r-xr-xr-x   1    0    0    1345536 Sep 20 2006 [ 258064 00] basic_if.ehp 
+-r-xr-xr-x   1    0    0    1386704 Sep 20 2006 [ 258736 00] basic_ig.ehp 
+-r-xr-xr-x   1    0    0    1350848 Sep 20 2006 [ 259424 00] basic_ii.ehp 
+-r-xr-xr-x   1    0    0    1345488 Sep 20 2006 [ 260096 00] basic_is.ehp 
+-r-xr-xr-x   1    0    0    1405792 Sep 20 2006 [ 260768 00] basic_se.ehp 
+-r-xr-xr-x   1    0    0    1345536 Sep 20 2006 [ 261456 00] basic_sf.ehp 
+-r-xr-xr-x   1    0    0    1386704 Sep 20 2006 [ 262128 00] basic_sg.ehp 
+-r-xr-xr-x   1    0    0    1350848 Sep 20 2006 [ 262816 00] basic_si.ehp 
+-r-xr-xr-x   1    0    0    1345488 Sep 20 2006 [ 263488 00] basic_ss.ehp 
+-r-xr-xr-x   1    0    0    1437872 Sep 20 2006 [ 264160 00] basic_ue.ehp 
+-r-xr-xr-x   1    0    0    1377616 Sep 20 2006 [ 264864 00] basic_uf.ehp 
+-r-xr-xr-x   1    0    0    1418784 Sep 20 2006 [ 265552 00] basic_ug.ehp 
+-r-xr-xr-x   1    0    0    1382928 Sep 20 2006 [ 266256 00] basic_ui.ehp 
+-r-xr-xr-x   1    0    0    1377568 Sep 20 2006 [ 266944 00] basic_us.ehp 
+dr-xr-xr-x   1    0    0       4096 Oct 10 2006 [     51 02] bg 
+-r-xr-xr-x   1    0    0    1471328 Sep 20 2006 [ 272992 00] cutin_abdos01.ehp 
+-r-xr-xr-x   1    0    0    1451040 Sep 20 2006 [ 273712 00] cutin_amunael01.ehp 
+-r-xr-xr-x   1    0    0     880480 Sep 20 2006 [ 274432 00] cutin_aska01.ehp 
+-r-xr-xr-x   1    0    0    1001344 Sep 20 2006 [ 274864 00] cutin_ayukawa01.ehp 
+-r-xr-xr-x   1    0    0    1003952 Sep 20 2006 [ 275360 00] cutin_bmgirl01.ehp 
+-r-xr-xr-x   1    0    0    1119120 Sep 20 2006 [ 275856 00] cutin_boy01.ehp 
+-r-xr-xr-x   1    0    0    1015008 Sep 20 2006 [ 276416 00] cutin_chousaku01.ehp 
+-r-xr-xr-x   1    0    0     122608 Aug 21 2006 [ 276912 00] cutin_cmn.ehp 
+-r-xr-xr-x   1    0    0       3120 Sep 20 2006 [ 276976 00] cutin_common.ehp 
+-r-xr-xr-x   1    0    0    1052032 Sep 20 2006 [ 277504 00] cutin_da_boy_b01.ehp 
+-r-xr-xr-x   1    0    0    1052544 Sep 20 2006 [ 278032 00] cutin_da_boy_b02.ehp 
+-r-xr-xr-x   1    0    0    1057520 Sep 20 2006 [ 278560 00] cutin_da_boy_b03.ehp 
+-r-xr-xr-x   1    0    0    1058240 Sep 20 2006 [ 279088 00] cutin_da_boy_b04.ehp 
+-r-xr-xr-x   1    0    0    1061056 Sep 20 2006 [ 279616 00] cutin_da_boy_b05.ehp 
+-r-xr-xr-x   1    0    0    1000128 Sep 20 2006 [ 280144 00] cutin_da_boy_r01.ehp 
+-r-xr-xr-x   1    0    0    1000176 Sep 20 2006 [ 280640 00] cutin_da_boy_r02.ehp 
+-r-xr-xr-x   1    0    0    1004016 Sep 20 2006 [ 281136 00] cutin_da_boy_r03.ehp 
+-r-xr-xr-x   1    0    0    1004272 Sep 20 2006 [ 281632 00] cutin_da_boy_r04.ehp 
+-r-xr-xr-x   1    0    0    1014560 Sep 20 2006 [ 282128 00] cutin_da_boy_r05.ehp 
+-r-xr-xr-x   1    0    0    1000816 Sep 20 2006 [ 282624 00] cutin_da_boy_y01.ehp 
+-r-xr-xr-x   1    0    0    1000272 Sep 20 2006 [ 283120 00] cutin_da_boy_y02.ehp 
+-r-xr-xr-x   1    0    0    1004080 Sep 20 2006 [ 283616 00] cutin_da_boy_y03.ehp 
+-r-xr-xr-x   1    0    0    1005072 Sep 20 2006 [ 284112 00] cutin_da_boy_y04.ehp 
+-r-xr-xr-x   1    0    0    1014528 Sep 20 2006 [ 284608 00] cutin_da_boy_y05.ehp 
+dr-xr-xr-x   1    0    0       4096 Oct 10 2006 [     53 02] cutin_da_faces 
+-r-xr-xr-x   1    0    0     994032 Sep 20 2006 [ 287168 00] cutin_da_girl01.ehp 
+-r-xr-xr-x   1    0    0     991632 Sep 20 2006 [ 287664 00] cutin_da_girl02.ehp 
+-r-xr-xr-x   1    0    0    1001680 Sep 20 2006 [ 288160 00] cutin_da_girl03.ehp 
+-r-xr-xr-x   1    0    0     998160 Sep 20 2006 [ 288656 00] cutin_da_girl04.ehp 
+-r-xr-xr-x   1    0    0    1005248 Sep 20 2006 [ 289152 00] cutin_da_girl05.ehp 
+-r-xr-xr-x   1    0    0    1145680 Sep 20 2006 [ 289648 00] cutin_da_teacher01.ehp 
+-r-xr-xr-x   1    0    0    1022832 Sep 20 2006 [ 276992 00] cutin_daitokuji01.ehp 
+-r-xr-xr-x   1    0    0     962368 Sep 20 2006 [ 290208 00] cutin_fubuki01.ehp 
+-r-xr-xr-x   1    0    0    1180480 Sep 20 2006 [ 290688 00] cutin_fubuki_drk01.ehp 
+-r-xr-xr-x   1    0    0    1064800 Sep 20 2006 [ 291280 00] cutin_hayato01.ehp 
+-r-xr-xr-x   1    0    0     939440 Sep 20 2006 [ 291808 00] cutin_junko01.ehp 
+-r-xr-xr-x   1    0    0     985104 Sep 20 2006 [ 292272 00] cutin_jyudai01.ehp 
+-r-xr-xr-x   1    0    0     901424 Sep 20 2006 [ 292768 00] cutin_kagemaru01.ehp 
+-r-xr-xr-x   1    0    0    1325136 Sep 20 2006 [ 293216 00] cutin_kagemaru02_a.ehp 
+-r-xr-xr-x   1    0    0      12368 Sep 14 2006 [ 293872 00] cutin_kagemaru03msg.ehp 
+-r-xr-xr-x   1    0    0    1365232 Sep 20 2006 [ 293888 00] cutin_kamula01.ehp 
+-r-xr-xr-x   1    0    0       5904 Jun 22 2006 [ 294560 00] cutin_kamura01.ehp 
+-r-xr-xr-x   1    0    0    1339936 Oct  6 2006 [ 294576 00] cutin_kuronosu01.ehp 
+-r-xr-xr-x   1    0    0    1026944 Sep 20 2006 [ 295232 00] cutin_meikyu_k01.ehp 
+-r-xr-xr-x   1    0    0    1018992 Sep 20 2006 [ 295744 00] cutin_meikyu_m01.ehp 
+-r-xr-xr-x   1    0    0    1063696 Sep 20 2006 [ 296256 00] cutin_misawa01.ehp 
+-r-xr-xr-x   1    0    0     474912 Sep 20 2006 [ 296784 00] cutin_mokeo01.ehp 
+-r-xr-xr-x   1    0    0     912832 Sep 20 2006 [ 297024 00] cutin_momoe01.ehp 
+-r-xr-xr-x   1    0    0     243632 Sep 20 2006 [ 297472 00] cutin_player01.ehp 
+-r-xr-xr-x   1    0    0     686912 Sep 20 2006 [ 297600 00] cutin_psychoshocker01.ehp 
+-r-xr-xr-x   1    0    0     958960 Sep 20 2006 [ 297936 00] cutin_rei01.ehp 
+-r-xr-xr-x   1    0    0     942656 Sep 20 2006 [ 298416 00] cutin_rei02.ehp 
+-r-xr-xr-x   1    0    0     881072 Sep 20 2006 [ 298880 00] cutin_ryo01.ehp 
+-r-xr-xr-x   1    0    0     489888 Sep 20 2006 [ 299312 00] cutin_sal01.ehp 
+-r-xr-xr-x   1    0    0    1407360 Sep 20 2006 [ 299552 00] cutin_sala01.ehp 
+-r-xr-xr-x   1    0    0     939232 Sep 20 2006 [ 300240 00] cutin_seiko01.ehp 
+-r-xr-xr-x   1    0    0     881728 Sep 20 2006 [ 300704 00] cutin_shou01.ehp 
+-r-xr-xr-x   1    0    0    1000736 Sep 20 2006 [ 301136 00] cutin_shouji01.ehp 
+-r-xr-xr-x   1    0    0    1390992 Sep 20 2006 [ 301632 00] cutin_taizan01.ehp 
+-r-xr-xr-x   1    0    0    1176128 Sep 20 2006 [ 302320 00] cutin_tania01.ehp 
+-r-xr-xr-x   1    0    0     977712 Sep 20 2006 [ 302896 00] cutin_thunder01.ehp 
+-r-xr-xr-x   1    0    0    1035360 Sep 20 2006 [ 303376 00] cutin_thunder_blk01.ehp 
+-r-xr-xr-x   1    0    0    1006192 Sep 20 2006 [ 303888 00] cutin_titan01.ehp 
+-r-xr-xr-x   1    0    0    1093040 Sep 20 2006 [ 304384 00] cutin_tome01.ehp 
+-r-xr-xr-x   1    0    0    1125984 Sep 20 2006 [ 304928 00] cutin_zaloog01_a.ehp 
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     55 02] result 
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     56 02] start 
+-r-xr-xr-x   1    0    0       5104 Sep 14 2006 [ 307152 00] zakov50.ehp 
+-r-xr-xr-x   1    0    0       5104 Sep 14 2006 [ 307168 00] zakov51.ehp 
+-r-xr-xr-x   1    0    0       5104 Sep 14 2006 [ 307184 00] zakov52.ehp 
+-r-xr-xr-x   1    0    0       5104 Sep 14 2006 [ 307200 00] zakov53.ehp 
+-r-xr-xr-x   1    0    0       5104 Sep 14 2006 [ 307216 00] zakov54.ehp 
+-r-xr-xr-x   1    0    0       5056 Sep 14 2006 [ 307232 00] zakov55.ehp 
+-r-xr-xr-x   1    0    0       5056 Sep 14 2006 [ 307248 00] zakov56.ehp 
+-r-xr-xr-x   1    0    0       5056 Sep 14 2006 [ 307264 00] zakov57.ehp 
+-r-xr-xr-x   1    0    0       5056 Sep 14 2006 [ 307280 00] zakov58.ehp 
+-r-xr-xr-x   1    0    0       5056 Sep 14 2006 [ 307296 00] zakov59.ehp 
+-r-xr-xr-x   1    0    0       5104 Sep 14 2006 [ 307312 00] zakov60.ehp 
+-r-xr-xr-x   1    0    0       5104 Sep 14 2006 [ 307328 00] zakov61.ehp 
+-r-xr-xr-x   1    0    0       5104 Sep 14 2006 [ 307344 00] zakov62.ehp 
+-r-xr-xr-x   1    0    0       5104 Sep 14 2006 [ 307360 00] zakov63.ehp 
+-r-xr-xr-x   1    0    0       5104 Sep 14 2006 [ 307376 00] zakov64.ehp 
+-r-xr-xr-x   1    0    0       5040 Sep 14 2006 [ 307392 00] zakov65.ehp 
+-r-xr-xr-x   1    0    0       5040 Sep 14 2006 [ 307408 00] zakov66.ehp 
+-r-xr-xr-x   1    0    0       5040 Sep 14 2006 [ 307424 00] zakov67.ehp 
+-r-xr-xr-x   1    0    0       5040 Sep 14 2006 [ 307440 00] zakov68.ehp 
+-r-xr-xr-x   1    0    0       5040 Sep 14 2006 [ 307456 00] zakov69.ehp 
+-r-xr-xr-x   1    0    0       5248 Sep 14 2006 [ 307472 00] zakov70.ehp 
+-r-xr-xr-x   1    0    0       5264 Sep 14 2006 [ 307488 00] zakov71.ehp 
+-r-xr-xr-x   1    0    0       5264 Sep 14 2006 [ 307504 00] zakov72.ehp 
+-r-xr-xr-x   1    0    0       5264 Sep 14 2006 [ 307520 00] zakov73.ehp 
+-r-xr-xr-x   1    0    0       5264 Sep 14 2006 [ 307536 00] zakov74.ehp 
+-r-xr-xr-x   1    0    0       5280 Sep 14 2006 [ 307552 00] zakov75.ehp 
+-r-xr-xr-x   1    0    0       5280 Sep 14 2006 [ 307568 00] zakov76.ehp 
+-r-xr-xr-x   1    0    0       5280 Sep 14 2006 [ 307584 00] zakov77.ehp 
+-r-xr-xr-x   1    0    0       5280 Sep 14 2006 [ 307600 00] zakov78.ehp 
+-r-xr-xr-x   1    0    0       5280 Sep 14 2006 [ 307616 00] zakov79.ehp 
+-r-xr-xr-x   1    0    0       5312 Sep 14 2006 [ 307632 00] zakov80.ehp 
+-r-xr-xr-x   1    0    0       5120 Sep 14 2006 [ 307648 00] zakov81.ehp 
+-r-xr-xr-x   1    0    0       5232 Sep 14 2006 [ 307664 00] zakov82.ehp 
+
+Directory listing of /PSP_GAME/USRDIR/field/
+dr-xr-xr-x   1    0    0       4096 Oct 10 2006 [     36 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0     494304 Sep 20 2006 [ 310912 00] always_bri_eng.ehp 
+-r-xr-xr-x   1    0    0     491296 Sep 20 2006 [ 311168 00] always_bri_fra.ehp 
+-r-xr-xr-x   1    0    0     491056 Sep 20 2006 [ 311408 00] always_bri_ger.ehp 
+-r-xr-xr-x   1    0    0     493424 Sep 20 2006 [ 311648 00] always_bri_ita.ehp 
+-r-xr-xr-x   1    0    0     492704 Sep 20 2006 [ 311904 00] always_bri_spa.ehp 
+-r-xr-xr-x   1    0    0     494224 Sep 20 2006 [ 312160 00] always_fra_eng.ehp 
+-r-xr-xr-x   1    0    0     491216 Sep 20 2006 [ 312416 00] always_fra_fra.ehp 
+-r-xr-xr-x   1    0    0     490976 Sep 20 2006 [ 312656 00] always_fra_ger.ehp 
+-r-xr-xr-x   1    0    0     493344 Sep 20 2006 [ 312896 00] always_fra_ita.ehp 
+-r-xr-xr-x   1    0    0     492624 Sep 20 2006 [ 313152 00] always_fra_spa.ehp 
+-r-xr-xr-x   1    0    0     494240 Sep 20 2006 [ 313408 00] always_ger_eng.ehp 
+-r-xr-xr-x   1    0    0     491232 Sep 20 2006 [ 313664 00] always_ger_fra.ehp 
+-r-xr-xr-x   1    0    0     490992 Sep 20 2006 [ 313904 00] always_ger_ger.ehp 
+-r-xr-xr-x   1    0    0     493360 Sep 20 2006 [ 314144 00] always_ger_ita.ehp 
+-r-xr-xr-x   1    0    0     492640 Sep 20 2006 [ 314400 00] always_ger_spa.ehp 
+-r-xr-xr-x   1    0    0     494224 Sep 20 2006 [ 314656 00] always_ita_eng.ehp 
+-r-xr-xr-x   1    0    0     491216 Sep 20 2006 [ 314912 00] always_ita_fra.ehp 
+-r-xr-xr-x   1    0    0     490976 Sep 20 2006 [ 315152 00] always_ita_ger.ehp 
+-r-xr-xr-x   1    0    0     493344 Sep 20 2006 [ 315392 00] always_ita_ita.ehp 
+-r-xr-xr-x   1    0    0     492624 Sep 20 2006 [ 315648 00] always_ita_spa.ehp 
+-r-xr-xr-x   1    0    0     494224 Sep 20 2006 [ 315904 00] always_spa_eng.ehp 
+-r-xr-xr-x   1    0    0     491216 Sep 20 2006 [ 316160 00] always_spa_fra.ehp 
+-r-xr-xr-x   1    0    0     490976 Sep 20 2006 [ 316400 00] always_spa_ger.ehp 
+-r-xr-xr-x   1    0    0     493344 Sep 20 2006 [ 316640 00] always_spa_ita.ehp 
+-r-xr-xr-x   1    0    0     492624 Sep 20 2006 [ 316896 00] always_spa_spa.ehp 
+-r-xr-xr-x   1    0    0     526304 Sep 20 2006 [ 317152 00] always_usa_eng.ehp 
+-r-xr-xr-x   1    0    0     523296 Sep 20 2006 [ 317424 00] always_usa_fra.ehp 
+-r-xr-xr-x   1    0    0     523056 Sep 20 2006 [ 317680 00] always_usa_ger.ehp 
+-r-xr-xr-x   1    0    0     525424 Sep 20 2006 [ 317936 00] always_usa_ita.ehp 
+-r-xr-xr-x   1    0    0     524704 Sep 20 2006 [ 318208 00] always_usa_spa.ehp 
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     57 02] big_map 
+dr-xr-xr-x   1    0    0       4096 Oct 10 2006 [     58 02] bustup 
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     60 02] event 
+-r-xr-xr-x   1    0    0     133664 Sep 20 2006 [ 323424 00] for_bread.ehp 
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     61 02] map 
+dr-xr-xr-x   1    0    0       8192 Oct 10 2006 [     62 02] sdchr 
+
+Directory listing of /PSP_GAME/USRDIR/gmodule/
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     38 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0      54106 Oct 10 2006 [  22160 00] libcardalbum.prx 
+-r-xr-xr-x   1    0    0      56034 Oct 10 2006 [  22192 00] libcharalist.prx 
+-r-xr-xr-x   1    0    0      52794 Oct 10 2006 [  22224 00] libconv_machine.prx 
+-r-xr-xr-x   1    0    0     175626 Oct 10 2006 [  22256 00] libdeck.prx 
+-r-xr-xr-x   1    0    0     119314 Oct 10 2006 [  22352 00] libdeck_swap.prx 
+-r-xr-xr-x   1    0    0     168698 Oct 10 2006 [  22416 00] libdeck_tutorial.prx 
+-r-xr-xr-x   1    0    0     643626 Oct 10 2006 [  22528 00] libduel_draw.prx 
+-r-xr-xr-x   1    0    0    1494138 Oct 10 2006 [  22848 00] libduel_eng.prx 
+-r-xr-xr-x   1    0    0     128754 Oct 10 2006 [  23584 00] libduel_mgr.prx 
+-r-xr-xr-x   1    0    0      32162 Oct 10 2006 [  22512 00] libduelrecord.prx 
+-r-xr-xr-x   1    0    0     303642 Oct 10 2006 [  23648 00] libfield.prx 
+-r-xr-xr-x   1    0    0      21426 Oct 10 2006 [  23808 00] libhtml_view.prx 
+-r-xr-xr-x   1    0    0      33706 Oct 10 2006 [  23824 00] liblabo.prx 
+-r-xr-xr-x   1    0    0      49050 Oct 10 2006 [  23856 00] liblimitlist.prx 
+-r-xr-xr-x   1    0    0      41202 Oct 10 2006 [  23888 00] libpassword.prx 
+-r-xr-xr-x   1    0    0      55874 Oct 10 2006 [  23920 00] librecipe_viewer.prx 
+-r-xr-xr-x   1    0    0     125698 Oct 10 2006 [  23952 00] libselect_card.prx 
+-r-xr-xr-x   1    0    0     155482 Oct 10 2006 [  24016 00] libshop.prx 
+-r-xr-xr-x   1    0    0     150594 Oct 10 2006 [  24096 00] libstory.prx 
+-r-xr-xr-x   1    0    0     232210 Oct 10 2006 [  24176 00] libtitle.prx 
+-r-xr-xr-x   1    0    0      64954 Oct 10 2006 [  24304 00] libtutorial.prx 
+-r-xr-xr-x   1    0    0      30234 Oct 10 2006 [  24336 00] libtutoriallist.prx 
+
+Directory listing of /PSP_GAME/USRDIR/help/
+dr-xr-xr-x   1    0    0       4096 Oct 10 2006 [     39 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0      65664 Aug 20 2006 [ 340688 00] help_deckimg_001.gim 
+-r-xr-xr-x   1    0    0       9424 Aug 21 2006 [ 340736 00] help_deckimg_003.gim 
+-r-xr-xr-x   1    0    0      17616 Aug 21 2006 [ 340752 00] help_deckimg_008.gim 
+-r-xr-xr-x   1    0    0      17616 Aug 21 2006 [ 340768 00] help_deckimg_033.gim 
+-r-xr-xr-x   1    0    0      17616 Aug 21 2006 [ 340784 00] help_deckimg_035.gim 
+-r-xr-xr-x   1    0    0      17616 Aug 21 2006 [ 340800 00] help_deckimg_036.gim 
+-r-xr-xr-x   1    0    0      17616 Aug 21 2006 [ 340816 00] help_deckimg_037.gim 
+-r-xr-xr-x   1    0    0      17616 Aug 21 2006 [ 340832 00] help_deckimg_038.gim 
+-r-xr-xr-x   1    0    0      17616 Aug 21 2006 [ 340848 00] help_deckimg_046.gim 
+-r-xr-xr-x   1    0    0       5328 Aug 21 2006 [ 340864 00] help_deckimg_049.gim 
+-r-xr-xr-x   1    0    0       5328 Aug 21 2006 [ 340880 00] help_deckimg_050.gim 
+-r-xr-xr-x   1    0    0       5328 Aug 21 2006 [ 340896 00] help_deckimg_051.gim 
+-r-xr-xr-x   1    0    0       5328 Aug 21 2006 [ 340912 00] help_deckimg_052.gim 
+-r-xr-xr-x   1    0    0       5328 Aug 21 2006 [ 340928 00] help_deckimg_053.gim 
+-r-xr-xr-x   1    0    0      17616 Aug 21 2006 [ 340944 00] help_deckimg_055.gim 
+-r-xr-xr-x   1    0    0       5328 Aug 21 2006 [ 340960 00] help_deckimg_058.gim 
+-r-xr-xr-x   1    0    0       5328 Aug 21 2006 [ 340976 00] help_deckimg_059.gim 
+-r-xr-xr-x   1    0    0       5328 Aug 21 2006 [ 340992 00] help_deckimg_060.gim 
+-r-xr-xr-x   1    0    0      17616 Aug 21 2006 [ 341008 00] help_deckimg_067.gim 
+-r-xr-xr-x   1    0    0       5328 Aug 21 2006 [ 341024 00] help_deckimg_068.gim 
+-r-xr-xr-x   1    0    0      17616 Aug 21 2006 [ 341040 00] help_deckimg_071.gim 
+-r-xr-xr-x   1    0    0      17616 Aug 21 2006 [ 341056 00] help_deckimg_074.gim 
+-r-xr-xr-x   1    0    0      65664 Aug 20 2006 [ 341072 00] help_duelimg_001.gim 
+-r-xr-xr-x   1    0    0       9424 Aug 21 2006 [ 341120 00] help_duelimg_005.gim 
+-r-xr-xr-x   1    0    0      17616 Aug 21 2006 [ 341136 00] help_duelimg_009.gim 
+-r-xr-xr-x   1    0    0      17616 Aug 21 2006 [ 341152 00] help_duelimg_010.gim 
+-r-xr-xr-x   1    0    0      17616 Aug 21 2006 [ 341168 00] help_duelimg_011.gim 
+-r-xr-xr-x   1    0    0      17616 Aug 21 2006 [ 341184 00] help_duelimg_012.gim 
+-r-xr-xr-x   1    0    0      17616 Aug 21 2006 [ 341200 00] help_duelimg_013.gim 
+-r-xr-xr-x   1    0    0      17616 Aug 21 2006 [ 341216 00] help_duelimg_014.gim 
+-r-xr-xr-x   1    0    0      17616 Aug 21 2006 [ 341232 00] help_duelimg_016.gim 
+-r-xr-xr-x   1    0    0      17616 Aug 21 2006 [ 341248 00] help_duelimg_018.gim 
+-r-xr-xr-x   1    0    0      17616 Aug 21 2006 [ 341264 00] help_duelimg_019.gim 
+-r-xr-xr-x   1    0    0      17616 Aug 21 2006 [ 341280 00] help_duelimg_020.gim 
+-r-xr-xr-x   1    0    0      17616 Aug 21 2006 [ 341296 00] help_duelimg_021.gim 
+-r-xr-xr-x   1    0    0      17616 Aug 21 2006 [ 341312 00] help_duelimg_029.gim 
+-r-xr-xr-x   1    0    0       5328 Aug 21 2006 [ 341328 00] help_duelimg_032.gim 
+-r-xr-xr-x   1    0    0       5328 Aug 21 2006 [ 341344 00] help_duelimg_033.gim 
+-r-xr-xr-x   1    0    0       5328 Aug 21 2006 [ 341360 00] help_duelimg_034.gim 
+-r-xr-xr-x   1    0    0       5328 Aug 21 2006 [ 341376 00] help_duelimg_035.gim 
+-r-xr-xr-x   1    0    0       5328 Aug 21 2006 [ 341392 00] help_duelimg_036.gim 
+-r-xr-xr-x   1    0    0      17616 Aug 21 2006 [ 341408 00] help_duelimg_038.gim 
+-r-xr-xr-x   1    0    0       5328 Aug 21 2006 [ 341424 00] help_duelimg_041.gim 
+-r-xr-xr-x   1    0    0       5328 Aug 21 2006 [ 341440 00] help_duelimg_042.gim 
+-r-xr-xr-x   1    0    0       3280 Aug 21 2006 [ 341456 00] help_duelimg_047.gim 
+-r-xr-xr-x   1    0    0       3280 Aug 21 2006 [ 341472 00] help_duelimg_048.gim 
+-r-xr-xr-x   1    0    0       3280 Aug 21 2006 [ 341488 00] help_duelimg_049.gim 
+-r-xr-xr-x   1    0    0       3280 Aug 21 2006 [ 341504 00] help_duelimg_061.gim 
+-r-xr-xr-x   1    0    0       3280 Aug 21 2006 [ 341520 00] help_duelimg_062.gim 
+-r-xr-xr-x   1    0    0       3280 Aug 21 2006 [ 341536 00] help_duelimg_068.gim 
+-r-xr-xr-x   1    0    0       5328 Aug 21 2006 [ 341552 00] help_duelimg_069.gim 
+-r-xr-xr-x   1    0    0      17616 Aug 21 2006 [ 341568 00] help_duelimg_076.gim 
+-r-xr-xr-x   1    0    0       5328 Aug 21 2006 [ 341584 00] help_duelimg_077.gim 
+-r-xr-xr-x   1    0    0      17616 Aug 21 2006 [ 341600 00] help_duelimg_080.gim 
+-r-xr-xr-x   1    0    0      17616 Aug 21 2006 [ 341616 00] help_duelimg_083.gim 
+
+Directory listing of /PSP_GAME/USRDIR/labo/
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     41 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0    1184272 Sep 17 2006 [ 341632 00] conv_machine.ehp 
+-r-xr-xr-x   1    0    0     384224 Sep 17 2006 [ 342224 00] password.ehp 
+-r-xr-xr-x   1    0    0     420928 Sep 17 2006 [ 342416 00] rental.ehp 
+
+Directory listing of /PSP_GAME/USRDIR/main/
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     42 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0     112544 Aug 10 2006 [  24352 00] msd.ehp 
+
+Directory listing of /PSP_GAME/USRDIR/module/
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     43 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0       1088 Aug 17 2006 [  21120 00] libadler.prx 
+-r-xr-xr-x   1    0    0       1472 Aug 17 2006 [  21136 00] libbase64.prx 
+-r-xr-xr-x   1    0    0       3520 Aug 17 2006 [  21152 00] libccc.prx 
+-r-xr-xr-x   1    0    0       4416 Aug 17 2006 [  21168 00] libdeflt.prx 
+-r-xr-xr-x   1    0    0      23456 Aug 17 2006 [  21184 00] libfont.prx 
+-r-xr-xr-x   1    0    0       4192 Aug 17 2006 [  21200 00] libfpu.prx 
+-r-xr-xr-x   1    0    0       3392 Aug 17 2006 [  21216 00] libheap.prx 
+-r-xr-xr-x   1    0    0       2400 Aug 17 2006 [  21232 00] libmd5.prx 
+-r-xr-xr-x   1    0    0       1312 Aug 17 2006 [  21248 00] libmt19937.prx 
+-r-xr-xr-x   1    0    0      35904 Aug 17 2006 [  21264 00] libpsmfplayer.prx 
+-r-xr-xr-x   1    0    0       1952 Aug 17 2006 [  21296 00] libqpcode.prx 
+-r-xr-xr-x   1    0    0       2576 Aug 17 2006 [  21312 00] libsha1.prx 
+-r-xr-xr-x   1    0    0       2928 Aug 17 2006 [  21328 00] libsha224.prx 
+-r-xr-xr-x   1    0    0       2928 Aug 17 2006 [  21344 00] libsha256.prx 
+-r-xr-xr-x   1    0    0       4672 Aug 17 2006 [  21360 00] libsha384.prx 
+-r-xr-xr-x   1    0    0       4672 Aug 17 2006 [  21376 00] libsha512.prx 
+-r-xr-xr-x   1    0    0       7440 Aug 17 2006 [  21392 00] psmf.prx 
+-r-xr-xr-x   1    0    0       2448 Aug 17 2006 [  21408 00] pspnet_ap_dialog_dummy.prx 
+-r-xr-xr-x   1    0    0      31792 Aug 17 2006 [  21424 00] scan.prx 
+-r-xr-xr-x   1    0    0      29520 Aug 17 2006 [  21440 00] show_macaddr.prx 
+
+Directory listing of /PSP_GAME/USRDIR/movie/
+dr-xr-xr-x   1    0    0       4096 Oct 10 2006 [     44 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0    3182592 Jun 28 2006 [  24416 00] armed_attack.pmf 
+-r-xr-xr-x   1    0    0    4089856 Jun 28 2006 [  25984 00] armed_summon.pmf 
+-r-xr-xr-x   1    0    0    2494464 Jun 28 2006 [  27984 00] ced_attack.pmf 
+-r-xr-xr-x   1    0    0    2770944 Jun 30 2006 [  29216 00] ced_summon.pmf 
+-r-xr-xr-x   1    0    0    2066432 Jun 28 2006 [  30576 00] ctd_attack.pmf 
+-r-xr-xr-x   1    0    0    1742848 Jun 28 2006 [  31600 00] ctd_summon.pmf 
+-r-xr-xr-x   1    0    0    1732608 Aug  7 2006 [  32464 00] cyb_attack_a.pmf 
+-r-xr-xr-x   1    0    0    1853440 Aug  7 2006 [  33312 00] cyb_summon_a.pmf 
+-r-xr-xr-x   1    0    0    1550336 Jun 28 2006 [  34224 00] dm_attack.pmf 
+-r-xr-xr-x   1    0    0    2457600 Jul  4 2006 [  34992 00] dm_summon.pmf 
+-r-xr-xr-x   1    0    0    2371584 Jun 30 2006 [  36192 00] eric_attack.pmf 
+-r-xr-xr-x   1    0    0    1261568 Jun 28 2006 [  37360 00] eric_summon.pmf 
+-r-xr-xr-x   1    0    0    4925440 Jun 28 2006 [  37984 00] exodia_finish.pmf 
+-r-xr-xr-x   1    0    0    1628160 Jun 30 2006 [  40400 00] fwm_attack.pmf 
+-r-xr-xr-x   1    0    0    1312768 Jun 30 2006 [  41200 00] fwm_summon.pmf 
+-r-xr-xr-x   1    0    0    1429504 Jun 30 2006 [  41856 00] gear_attack.pmf 
+-r-xr-xr-x   1    0    0    2062336 Jun 28 2006 [  42560 00] gear_summon.pmf 
+-r-xr-xr-x   1    0    0    2723840 Jun 28 2006 [  43568 00] hamon_attack.pmf 
+-r-xr-xr-x   1    0    0    2705408 Jun 28 2006 [  44912 00] hamon_summon.pmf 
+-r-xr-xr-x   1    0    0    1828864 Jun 28 2006 [  46240 00] jairoid_attack.pmf 
+-r-xr-xr-x   1    0    0    1259520 Jun 28 2006 [  47136 00] jairoid_summon.pmf 
+-r-xr-xr-x   1    0    0    1339392 Jun 28 2006 [  47760 00] ojama_attack.pmf 
+-r-xr-xr-x   1    0    0    1847296 Jun 30 2006 [  48416 00] ojama_summon.pmf 
+-r-xr-xr-x   1    0    0   46329856 Aug 22 2006 [  49328 00] opening_a.pmf 
+-r-xr-xr-x   1    0    0    3958784 Jun 28 2006 [  71952 00] ouijaboard_death.pmf 
+-r-xr-xr-x   1    0    0    2181120 Jun 28 2006 [  73888 00] ouijaboard_final.pmf 
+-r-xr-xr-x   1    0    0    1802240 Jun 28 2006 [  74960 00] oz_attack.pmf 
+-r-xr-xr-x   1    0    0    1241088 Jun 28 2006 [  75840 00] oz_summon.pmf 
+-r-xr-xr-x   1    0    0    2664448 Jun 28 2006 [  76448 00] rabiel_attack.pmf 
+-r-xr-xr-x   1    0    0    3758080 Jun 28 2006 [  77760 00] rabiel_summon.pmf 
+-r-xr-xr-x   1    0    0    1982464 Aug  7 2006 [  79600 00] rampart_attack_a.pmf 
+-r-xr-xr-x   1    0    0    1837056 Aug  7 2006 [  80576 00] rampart_summon_a.pmf 
+-r-xr-xr-x   1    0    0    2635776 Jun 28 2006 [  81488 00] redeye_attack.pmf 
+-r-xr-xr-x   1    0    0    2279424 Jun 30 2006 [  82784 00] redeye_summon.pmf 
+-r-xr-xr-x   1    0    0    2467840 Jun 28 2006 [  83904 00] shining_fwm_attack.pmf 
+-r-xr-xr-x   1    0    0    2525184 Jul 13 2006 [  85120 00] shining_fwm_summon.pmf 
+-r-xr-xr-x   1    0    0    1339392 Jun 28 2006 [  86368 00] sof_attack.pmf 
+-r-xr-xr-x   1    0    0    1937408 Jun 28 2006 [  87024 00] sof_summon.pmf 
+-r-xr-xr-x   1    0    0   56256512 Sep 13 2006 [  87984 00] staffroll_a.pmf 
+-r-xr-xr-x   1    0    0    1945600 Jun 28 2006 [ 115456 00] tris_attack.pmf 
+-r-xr-xr-x   1    0    0    3096576 Jun 28 2006 [ 116416 00] tris_summon.pmf 
+-r-xr-xr-x   1    0    0    4108288 Jun 28 2006 [ 117936 00] uria_attack.pmf 
+-r-xr-xr-x   1    0    0    5316608 Jun 28 2006 [ 119952 00] uria_summon.pmf 
+-r-xr-xr-x   1    0    0    2129920 Jun 28 2006 [ 122560 00] vg_attack.pmf 
+-r-xr-xr-x   1    0    0    2660352 Jun 30 2006 [ 123600 00] vg_summon.pmf 
+-r-xr-xr-x   1    0    0    2195456 Jun 28 2006 [ 124912 00] water_attack.pmf 
+-r-xr-xr-x   1    0    0    2304000 Jun 30 2006 [ 125984 00] water_summon.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/script/
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     46 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0     437136 Sep 20 2006 [ 127120 00] st01_t01_brain.ehp 
+-r-xr-xr-x   1    0    0     372768 Sep 20 2006 [ 127344 00] st01_t01_e.ehp 
+-r-xr-xr-x   1    0    0      93504 Sep 20 2006 [ 127536 00] st01_t01_f.ehp 
+-r-xr-xr-x   1    0    0      93536 Sep 20 2006 [ 127584 00] st01_t01_g.ehp 
+-r-xr-xr-x   1    0    0      93392 Sep 20 2006 [ 127632 00] st01_t01_i.ehp 
+-r-xr-xr-x   1    0    0     462688 Sep 20 2006 [ 127680 00] st01_t01_j.ehp 
+-r-xr-xr-x   1    0    0      93552 Sep 20 2006 [ 127920 00] st01_t01_s.ehp 
+-r-xr-xr-x   1    0    0     709424 Sep 20 2006 [ 127968 00] st02_t01_brain.ehp 
+-r-xr-xr-x   1    0    0     141616 Sep 20 2006 [ 128320 00] st02_t01_e.ehp 
+-r-xr-xr-x   1    0    0      66272 Sep 20 2006 [ 128400 00] st02_t01_f.ehp 
+-r-xr-xr-x   1    0    0      66432 Sep 20 2006 [ 128448 00] st02_t01_g.ehp 
+-r-xr-xr-x   1    0    0      66592 Sep 20 2006 [ 128496 00] st02_t01_i.ehp 
+-r-xr-xr-x   1    0    0     174992 Sep 20 2006 [ 128544 00] st02_t01_j.ehp 
+-r-xr-xr-x   1    0    0      66432 Sep 20 2006 [ 128640 00] st02_t01_s.ehp 
+
+Directory listing of /PSP_GAME/USRDIR/shop/
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     47 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0    3054800 Sep 17 2006 [ 128688 00] all_e.ehp 
+-r-xr-xr-x   1    0    0    3054800 Sep 17 2006 [ 130192 00] all_f.ehp 
+-r-xr-xr-x   1    0    0    3054800 Sep 17 2006 [ 131696 00] all_g.ehp 
+-r-xr-xr-x   1    0    0    3054800 Sep 17 2006 [ 133200 00] all_i.ehp 
+-r-xr-xr-x   1    0    0    3054800 Sep 17 2006 [ 134704 00] all_j.ehp 
+-r-xr-xr-x   1    0    0    3054800 Sep 17 2006 [ 136208 00] all_s.ehp 
+
+Directory listing of /PSP_GAME/USRDIR/snd/
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     48 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0  166545408 Aug 22 2006 [ 137712 00] psp_snddat.bin 
+
+Directory listing of /PSP_GAME/USRDIR/title_menu/
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     49 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0    2440304 Sep 20 2006 [ 219040 00] title_menu_e.ehp 
+-r-xr-xr-x   1    0    0    2454640 Sep 20 2006 [ 220240 00] title_menu_f.ehp 
+-r-xr-xr-x   1    0    0    2586976 Sep 20 2006 [ 221440 00] title_menu_g.ehp 
+-r-xr-xr-x   1    0    0    2454640 Sep 20 2006 [ 222704 00] title_menu_i.ehp 
+-r-xr-xr-x   1    0    0    2462608 Sep 20 2006 [ 223904 00] title_menu_j.ehp 
+-r-xr-xr-x   1    0    0    2454640 Sep 20 2006 [ 225120 00] title_menu_s.ehp 
+
+Directory listing of /PSP_GAME/USRDIR/tutorial/
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     50 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     66 02] face 
+-r-xr-xr-x   1    0    0     707136 Sep 20 2006 [ 227600 00] tutorial_e.ehp 
+-r-xr-xr-x   1    0    0     210016 Sep 20 2006 [ 227952 00] tutorial_f.ehp 
+-r-xr-xr-x   1    0    0     210016 Sep 20 2006 [ 228064 00] tutorial_g.ehp 
+-r-xr-xr-x   1    0    0     210016 Sep 20 2006 [ 228176 00] tutorial_i.ehp 
+-r-xr-xr-x   1    0    0     710256 Sep 20 2006 [ 228288 00] tutorial_j.ehp 
+-r-xr-xr-x   1    0    0     210016 Sep 20 2006 [ 228640 00] tutorial_s.ehp 
+
+Directory listing of /PSP_GAME/USRDIR/duel/bg/
+dr-xr-xr-x   1    0    0       4096 Oct 10 2006 [     51 02] . 
+dr-xr-xr-x   1    0    0      10240 Oct 10 2006 [     31 02] .. 
+-r-xr-xr-x   1    0    0     176896 Aug 21 2006 [ 267632 00] fmagic0000.ehp 
+-r-xr-xr-x   1    0    0     211760 Aug 21 2006 [ 267728 00] fmagic4336.ehp 
+-r-xr-xr-x   1    0    0     369088 Aug 21 2006 [ 267840 00] fmagic4337.ehp 
+-r-xr-xr-x   1    0    0     337568 Aug 21 2006 [ 268032 00] fmagic4338.ehp 
+-r-xr-xr-x   1    0    0     344768 Aug 21 2006 [ 268208 00] fmagic4339.ehp 
+-r-xr-xr-x   1    0    0     224336 Aug 21 2006 [ 268384 00] fmagic4340.ehp 
+-r-xr-xr-x   1    0    0     109792 Aug 21 2006 [ 268496 00] fmagic4341.ehp 
+-r-xr-xr-x   1    0    0     446160 Aug 21 2006 [ 268560 00] fmagic4899.ehp 
+-r-xr-xr-x   1    0    0     327120 Aug 21 2006 [ 268784 00] fmagic4932.ehp 
+-r-xr-xr-x   1    0    0     303392 Aug 21 2006 [ 268944 00] fmagic4933.ehp 
+-r-xr-xr-x   1    0    0     377648 Aug 21 2006 [ 269104 00] fmagic4934.ehp 
+-r-xr-xr-x   1    0    0     299936 Aug 21 2006 [ 269296 00] fmagic4935.ehp 
+-r-xr-xr-x   1    0    0     192096 Aug 21 2006 [ 269456 00] fmagic4936.ehp 
+-r-xr-xr-x   1    0    0     256288 Aug 21 2006 [ 269552 00] fmagic4937.ehp 
+-r-xr-xr-x   1    0    0     296656 Aug 21 2006 [ 269680 00] fmagic5182.ehp 
+-r-xr-xr-x   1    0    0     203056 Aug 21 2006 [ 269840 00] fmagic5187.ehp 
+-r-xr-xr-x   1    0    0     472912 Aug 21 2006 [ 269952 00] fmagic5276.ehp 
+-r-xr-xr-x   1    0    0     276624 Aug 21 2006 [ 270192 00] fmagic5329.ehp 
+-r-xr-xr-x   1    0    0     326144 Aug 21 2006 [ 270336 00] fmagic5387.ehp 
+-r-xr-xr-x   1    0    0     400224 Aug 21 2006 [ 270496 00] fmagic5533.ehp 
+-r-xr-xr-x   1    0    0     336608 Aug 21 2006 [ 270704 00] fmagic5788.ehp 
+-r-xr-xr-x   1    0    0     430000 Aug 21 2006 [ 270880 00] fmagic5791.ehp 
+-r-xr-xr-x   1    0    0     458176 Aug 21 2006 [ 271104 00] fmagic5982.ehp 
+-r-xr-xr-x   1    0    0     489392 Aug 21 2006 [ 271328 00] fmagic6207.ehp 
+-r-xr-xr-x   1    0    0     208656 Aug 21 2006 [ 271568 00] fmagic6271.ehp 
+-r-xr-xr-x   1    0    0     264400 Aug 21 2006 [ 271680 00] fmagic6399.ehp 
+-r-xr-xr-x   1    0    0     412624 Aug 21 2006 [ 271824 00] fmagic6642.ehp 
+-r-xr-xr-x   1    0    0     498768 Aug 21 2006 [ 272032 00] fmagic6668.ehp 
+-r-xr-xr-x   1    0    0     373472 Aug 21 2006 [ 272288 00] fmagic6758.ehp 
+-r-xr-xr-x   1    0    0     398912 Aug 21 2006 [ 272480 00] fmagic6759.ehp 
+-r-xr-xr-x   1    0    0     389808 Aug 21 2006 [ 272688 00] fmagic6775.ehp 
+-r-xr-xr-x   1    0    0     209568 Aug 21 2006 [ 272880 00] fmagic6823.ehp 
+
+Directory listing of /PSP_GAME/USRDIR/duel/cutin_da_faces/
+dr-xr-xr-x   1    0    0       4096 Oct 10 2006 [     53 02] . 
+dr-xr-xr-x   1    0    0      10240 Oct 10 2006 [     31 02] .. 
+-r-xr-xr-x   1    0    0      66768 Aug 20 2006 [ 285104 00] da_boy_B01.gim 
+-r-xr-xr-x   1    0    0      66768 Aug 20 2006 [ 285152 00] da_boy_B02.gim 
+-r-xr-xr-x   1    0    0      66768 Aug 20 2006 [ 285200 00] da_boy_B03.gim 
+-r-xr-xr-x   1    0    0      66768 Aug 20 2006 [ 285248 00] da_boy_B04.gim 
+-r-xr-xr-x   1    0    0      66768 Aug 20 2006 [ 285296 00] da_boy_B05.gim 
+-r-xr-xr-x   1    0    0      66768 Aug 20 2006 [ 285344 00] da_boy_B06.gim 
+-r-xr-xr-x   1    0    0      66768 Aug 20 2006 [ 285392 00] da_boy_B07.gim 
+-r-xr-xr-x   1    0    0      66768 Aug 20 2006 [ 285440 00] da_boy_B08.gim 
+-r-xr-xr-x   1    0    0      66768 Aug 20 2006 [ 285488 00] da_boy_B09.gim 
+-r-xr-xr-x   1    0    0      66768 Aug 20 2006 [ 285536 00] da_boy_B10.gim 
+-r-xr-xr-x   1    0    0      66768 Aug 20 2006 [ 285584 00] da_boy_R01.gim 
+-r-xr-xr-x   1    0    0      66768 Aug 20 2006 [ 285632 00] da_boy_R02.gim 
+-r-xr-xr-x   1    0    0      66768 Aug 20 2006 [ 285680 00] da_boy_R03.gim 
+-r-xr-xr-x   1    0    0      66768 Aug 20 2006 [ 285728 00] da_boy_R04.gim 
+-r-xr-xr-x   1    0    0      66768 Aug 20 2006 [ 285776 00] da_boy_R05.gim 
+-r-xr-xr-x   1    0    0      66768 Aug 20 2006 [ 285824 00] da_boy_R06.gim 
+-r-xr-xr-x   1    0    0      66768 Aug 20 2006 [ 285872 00] da_boy_R07.gim 
+-r-xr-xr-x   1    0    0      66768 Aug 20 2006 [ 285920 00] da_boy_R08.gim 
+-r-xr-xr-x   1    0    0      66768 Aug 20 2006 [ 285968 00] da_boy_R09.gim 
+-r-xr-xr-x   1    0    0      66768 Aug 20 2006 [ 286016 00] da_boy_R10.gim 
+-r-xr-xr-x   1    0    0      66768 Aug 20 2006 [ 286064 00] da_boy_Y01.gim 
+-r-xr-xr-x   1    0    0      66768 Aug 20 2006 [ 286112 00] da_boy_Y02.gim 
+-r-xr-xr-x   1    0    0      66768 Aug 20 2006 [ 286160 00] da_boy_Y03.gim 
+-r-xr-xr-x   1    0    0      66768 Aug 20 2006 [ 286208 00] da_boy_Y04.gim 
+-r-xr-xr-x   1    0    0      66768 Aug 20 2006 [ 286256 00] da_boy_Y05.gim 
+-r-xr-xr-x   1    0    0      66768 Aug 20 2006 [ 286304 00] da_boy_Y06.gim 
+-r-xr-xr-x   1    0    0      66768 Aug 20 2006 [ 286352 00] da_boy_Y07.gim 
+-r-xr-xr-x   1    0    0      66768 Aug 20 2006 [ 286400 00] da_boy_Y08.gim 
+-r-xr-xr-x   1    0    0      66768 Aug 20 2006 [ 286448 00] da_boy_Y09.gim 
+-r-xr-xr-x   1    0    0      66768 Aug 20 2006 [ 286496 00] da_boy_Y10.gim 
+-r-xr-xr-x   1    0    0      66768 Aug 20 2006 [ 286544 00] da_girl01.gim 
+-r-xr-xr-x   1    0    0      66768 Aug 20 2006 [ 286592 00] da_girl02.gim 
+-r-xr-xr-x   1    0    0      66768 Aug 20 2006 [ 286640 00] da_girl03.gim 
+-r-xr-xr-x   1    0    0      66768 Aug 20 2006 [ 286688 00] da_girl04.gim 
+-r-xr-xr-x   1    0    0      66768 Aug 20 2006 [ 286736 00] da_girl05.gim 
+-r-xr-xr-x   1    0    0      66768 Aug 20 2006 [ 286784 00] da_girl06.gim 
+-r-xr-xr-x   1    0    0      66768 Aug 20 2006 [ 286832 00] da_girl07.gim 
+-r-xr-xr-x   1    0    0      66768 Aug 20 2006 [ 286880 00] da_girl08.gim 
+-r-xr-xr-x   1    0    0      66768 Aug 20 2006 [ 286928 00] da_girl09.gim 
+-r-xr-xr-x   1    0    0      66768 Aug 20 2006 [ 286976 00] da_girl10.gim 
+-r-xr-xr-x   1    0    0     262272 Jun 21 2006 [ 287024 00] da_teache01.gim 
+
+Directory listing of /PSP_GAME/USRDIR/duel/result/
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     55 02] . 
+dr-xr-xr-x   1    0    0      10240 Oct 10 2006 [     31 02] .. 
+-r-xr-xr-x   1    0    0     222416 Sep 17 2006 [ 305488 00] result_e.ehp 
+-r-xr-xr-x   1    0    0     233648 Sep 17 2006 [ 305600 00] result_f.ehp 
+-r-xr-xr-x   1    0    0     268448 Sep 17 2006 [ 305728 00] result_g.ehp 
+-r-xr-xr-x   1    0    0     241008 Sep 17 2006 [ 305872 00] result_i.ehp 
+-r-xr-xr-x   1    0    0     209952 Sep 17 2006 [ 306000 00] result_j.ehp 
+-r-xr-xr-x   1    0    0     233776 Sep 17 2006 [ 306112 00] result_s.ehp 
+
+Directory listing of /PSP_GAME/USRDIR/duel/start/
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     56 02] . 
+dr-xr-xr-x   1    0    0      10240 Oct 10 2006 [     31 02] .. 
+-r-xr-xr-x   1    0    0    1843888 Sep 17 2006 [ 306240 00] start_all.ehp 
+
+Directory listing of /PSP_GAME/USRDIR/field/big_map/
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     57 02] . 
+dr-xr-xr-x   1    0    0       4096 Oct 10 2006 [     36 02] .. 
+-r-xr-xr-x   1    0    0     595872 Sep 20 2006 [ 318480 00] world_day.ehp 
+-r-xr-xr-x   1    0    0     637088 Sep 20 2006 [ 318784 00] world_night.ehp 
+-r-xr-xr-x   1    0    0     597856 Sep 20 2006 [ 319104 00] world_sunset.ehp 
+
+Directory listing of /PSP_GAME/USRDIR/field/bustup/
+dr-xr-xr-x   1    0    0       4096 Oct 10 2006 [     58 02] . 
+dr-xr-xr-x   1    0    0       4096 Oct 10 2006 [     36 02] .. 
+-r-xr-xr-x   1    0    0      58665 Sep 20 2006 [ 319408 00] bu_ad3.ehp.gz 
+-r-xr-xr-x   1    0    0      68505 Sep 20 2006 [ 319440 00] bu_amu.ehp.gz 
+-r-xr-xr-x   1    0    0      56048 Sep 20 2006 [ 319488 00] bu_ani.ehp.gz 
+-r-xr-xr-x   1    0    0     107327 Sep 20 2006 [ 319520 00] bu_ask.ehp.gz 
+-r-xr-xr-x   1    0    0      50235 Sep 20 2006 [ 319584 00] bu_ayu.ehp.gz 
+-r-xr-xr-x   1    0    0      76395 Sep 20 2006 [ 319616 00] bu_bmg.ehp.gz 
+-r-xr-xr-x   1    0    0      46929 Sep 20 2006 [ 319664 00] bu_boy.ehp.gz 
+-r-xr-xr-x   1    0    0      49006 Sep 20 2006 [ 319696 00] bu_cho.ehp.gz 
+-r-xr-xr-x   1    0    0      61924 Sep 20 2006 [ 319728 00] bu_cmu.ehp.gz 
+-r-xr-xr-x   1    0    0     131557 Sep 20 2006 [ 319760 00] bu_cro.ehp.gz 
+-r-xr-xr-x   1    0    0      37410 Sep 20 2006 [ 319840 00] bu_daa.ehp.gz 
+-r-xr-xr-x   1    0    0      88411 Sep 20 2006 [ 319872 00] bu_dai.ehp.gz 
+-r-xr-xr-x   1    0    0      36368 Sep 20 2006 [ 319920 00] bu_dak.ehp.gz 
+-r-xr-xr-x   1    0    0      66894 Sep 20 2006 [ 319952 00] bu_doc.ehp.gz 
+-r-xr-xr-x   1    0    0      28199 Sep 20 2006 [ 320000 00] bu_far.ehp.gz 
+-r-xr-xr-x   1    0    0      86143 Sep 20 2006 [ 320016 00] bu_fba.ehp.gz 
+-r-xr-xr-x   1    0    0      86138 Sep 20 2006 [ 320064 00] bu_fbb.ehp.gz 
+-r-xr-xr-x   1    0    0      57915 Sep 20 2006 [ 320112 00] bu_hko.ehp.gz 
+-r-xr-xr-x   1    0    0     107938 Sep 20 2006 [ 320144 00] bu_hyt.ehp.gz 
+-r-xr-xr-x   1    0    0     150183 Sep 20 2006 [ 320208 00] bu_jdi.ehp.gz 
+-r-xr-xr-x   1    0    0      93283 Sep 20 2006 [ 320288 00] bu_jun.ehp.gz 
+-r-xr-xr-x   1    0    0      26736 Sep 20 2006 [ 320336 00] bu_kab.ehp.gz 
+-r-xr-xr-x   1    0    0      25481 Sep 20 2006 [ 320352 00] bu_ken.ehp.gz 
+-r-xr-xr-x   1    0    0      74690 Sep 20 2006 [ 320368 00] bu_kgo.ehp.gz 
+-r-xr-xr-x   1    0    0      81462 Sep 20 2006 [ 320416 00] bu_kgw.ehp.gz 
+-r-xr-xr-x   1    0    0      64626 Sep 20 2006 [ 320464 00] bu_kgy.ehp.gz 
+-r-xr-xr-x   1    0    0      76285 Sep 20 2006 [ 320496 00] bu_kmz.ehp.gz 
+-r-xr-xr-x   1    0    0      66012 Sep 20 2006 [ 320544 00] bu_kni.ehp.gz 
+-r-xr-xr-x   1    0    0     119049 Sep 20 2006 [ 320592 00] bu_maa.ehp.gz 
+-r-xr-xr-x   1    0    0     136758 Sep 20 2006 [ 320656 00] bu_mab.ehp.gz 
+-r-xr-xr-x   1    0    0     106244 Sep 20 2006 [ 320736 00] bu_mis.ehp.gz 
+-r-xr-xr-x   1    0    0      90009 Sep 20 2006 [ 320800 00] bu_moe.ehp.gz 
+-r-xr-xr-x   1    0    0      44490 Sep 20 2006 [ 320848 00] bu_mtg.ehp.gz 
+-r-xr-xr-x   1    0    0      52745 Sep 20 2006 [ 320880 00] bu_oto.ehp.gz 
+-r-xr-xr-x   1    0    0      77918 Sep 20 2006 [ 320912 00] bu_rec.ehp.gz 
+-r-xr-xr-x   1    0    0      82660 Sep 20 2006 [ 320960 00] bu_rei.ehp.gz 
+-r-xr-xr-x   1    0    0      32399 Sep 20 2006 [ 321008 00] bu_rin.ehp.gz 
+-r-xr-xr-x   1    0    0      78359 Sep 20 2006 [ 321024 00] bu_ryo.ehp.gz 
+-r-xr-xr-x   1    0    0      54109 Sep 20 2006 [ 321072 00] bu_sal.ehp.gz 
+-r-xr-xr-x   1    0    0      57763 Sep 20 2006 [ 321104 00] bu_sam.ehp.gz 
+-r-xr-xr-x   1    0    0      35067 Sep 20 2006 [ 321136 00] bu_sas.ehp.gz 
+-r-xr-xr-x   1    0    0      27521 Sep 20 2006 [ 321168 00] bu_sei.ehp.gz 
+-r-xr-xr-x   1    0    0      37011 Sep 20 2006 [ 321184 00] bu_shg.ehp.gz 
+-r-xr-xr-x   1    0    0     135897 Sep 20 2006 [ 321216 00] bu_sho.ehp.gz 
+-r-xr-xr-x   1    0    0      51579 Sep 20 2006 [ 321296 00] bu_sra.ehp.gz 
+-r-xr-xr-x   1    0    0      78472 Sep 20 2006 [ 321328 00] bu_tai.ehp.gz 
+-r-xr-xr-x   1    0    0      60226 Sep 20 2006 [ 321376 00] bu_tit.ehp.gz 
+-r-xr-xr-x   1    0    0      61647 Sep 20 2006 [ 321408 00] bu_tiy.ehp.gz 
+-r-xr-xr-x   1    0    0      60015 Sep 20 2006 [ 321440 00] bu_tny.ehp.gz 
+-r-xr-xr-x   1    0    0      35079 Sep 20 2006 [ 321472 00] bu_tob.ehp.gz 
+-r-xr-xr-x   1    0    0      28836 Sep 20 2006 [ 321504 00] bu_tom.ehp.gz 
+-r-xr-xr-x   1    0    0      53010 Sep 20 2006 [ 321520 00] bu_zmg.ehp.gz 
+-r-xr-xr-x   1    0    0      58975 Sep 20 2006 [ 321552 00] bu_zrg.ehp.gz 
+
+Directory listing of /PSP_GAME/USRDIR/field/event/
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     60 02] . 
+dr-xr-xr-x   1    0    0       4096 Oct 10 2006 [     36 02] .. 
+-r-xr-xr-x   1    0    0     132304 Aug 20 2006 [ 321584 00] eve_01.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 20 2006 [ 321664 00] eve_02.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 20 2006 [ 321744 00] eve_04.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 20 2006 [ 321824 00] eve_05.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 20 2006 [ 321904 00] eve_06.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 20 2006 [ 321984 00] eve_07.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 20 2006 [ 322064 00] eve_08.gim 
+-r-xr-xr-x   1    0    0     132304 Apr 24 2006 [ 322144 00] eve_08a.gim 
+-r-xr-xr-x   1    0    0     132304 Apr 24 2006 [ 322224 00] eve_08b.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 20 2006 [ 322304 00] eve_09.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 20 2006 [ 322384 00] eve_11.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 20 2006 [ 322464 00] eve_12.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 20 2006 [ 322544 00] eve_13.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 20 2006 [ 322624 00] eve_14.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 20 2006 [ 322704 00] eve_15.gim 
+-r-xr-xr-x   1    0    0     132304 Apr 24 2006 [ 322784 00] eve_15a.gim 
+-r-xr-xr-x   1    0    0     132304 Apr 24 2006 [ 322864 00] eve_15b.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 20 2006 [ 322944 00] eve_16.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 20 2006 [ 323024 00] eve_17.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 20 2006 [ 323104 00] eve_18.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 20 2006 [ 323184 00] eve_19.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 20 2006 [ 323264 00] eve_20.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 20 2006 [ 323344 00] eve_21.gim 
+
+Directory listing of /PSP_GAME/USRDIR/field/map/
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     61 02] . 
+dr-xr-xr-x   1    0    0       4096 Oct 10 2006 [     36 02] .. 
+-r-xr-xr-x   1    0    0     419392 Aug 21 2006 [ 323504 00] bg_01_01.ehp 
+-r-xr-xr-x   1    0    0     503200 Aug 21 2006 [ 323712 00] bg_01_02.ehp 
+-r-xr-xr-x   1    0    0     370048 Aug 21 2006 [ 323968 00] bg_02_01.ehp 
+-r-xr-xr-x   1    0    0     384672 Aug 21 2006 [ 324160 00] bg_02_02.ehp 
+-r-xr-xr-x   1    0    0     421440 Aug 21 2006 [ 324352 00] bg_02_03.ehp 
+-r-xr-xr-x   1    0    0     462976 Aug 21 2006 [ 324560 00] bg_02_04.ehp 
+-r-xr-xr-x   1    0    0     318544 Aug 21 2006 [ 324800 00] bg_02_05.ehp 
+-r-xr-xr-x   1    0    0     340816 Aug 21 2006 [ 324960 00] bg_02_06.ehp 
+-r-xr-xr-x   1    0    0     363088 Aug 21 2006 [ 325136 00] bg_02_07.ehp 
+-r-xr-xr-x   1    0    0     524416 Aug 21 2006 [ 325328 00] bg_02_08.ehp 
+-r-xr-xr-x   1    0    0     273520 Aug 21 2006 [ 325600 00] bg_03_01.ehp 
+-r-xr-xr-x   1    0    0     365600 Aug 21 2006 [ 325744 00] bg_04_01.ehp 
+-r-xr-xr-x   1    0    0     517808 Aug 21 2006 [ 325936 00] bg_05_01.ehp 
+-r-xr-xr-x   1    0    0     579968 Aug 21 2006 [ 326192 00] bg_06_01.ehp 
+-r-xr-xr-x   1    0    0     373760 Aug 21 2006 [ 326480 00] bg_07_01.ehp 
+-r-xr-xr-x   1    0    0     383504 Aug 21 2006 [ 326672 00] bg_08_01.ehp 
+-r-xr-xr-x   1    0    0     955104 Aug 21 2006 [ 326864 00] bg_09_01.ehp 
+-r-xr-xr-x   1    0    0     670720 Aug 21 2006 [ 327344 00] bg_10_01.ehp 
+-r-xr-xr-x   1    0    0     465152 Aug 21 2006 [ 327680 00] bg_11_01.ehp 
+-r-xr-xr-x   1    0    0     530384 Aug 21 2006 [ 327920 00] bg_14_01.ehp 
+-r-xr-xr-x   1    0    0     759536 Aug 21 2006 [ 328192 00] bg_15_01.ehp 
+-r-xr-xr-x   1    0    0     746416 Aug 21 2006 [ 328576 00] bg_16_01.ehp 
+-r-xr-xr-x   1    0    0     644912 Aug 21 2006 [ 328944 00] bg_18_01.ehp 
+-r-xr-xr-x   1    0    0     394288 Aug 21 2006 [ 329264 00] bg_19_01.ehp 
+-r-xr-xr-x   1    0    0     752112 Aug 21 2006 [ 329472 00] bg_20_01.ehp 
+-r-xr-xr-x   1    0    0     640672 Aug 21 2006 [ 329840 00] bg_21_01.ehp 
+-r-xr-xr-x   1    0    0     887136 Aug 21 2006 [ 330160 00] bg_22_01.ehp 
+-r-xr-xr-x   1    0    0     616960 Aug 21 2006 [ 330608 00] bg_22_02.ehp 
+
+Directory listing of /PSP_GAME/USRDIR/field/sdchr/
+dr-xr-xr-x   1    0    0       8192 Oct 10 2006 [     62 02] . 
+dr-xr-xr-x   1    0    0       4096 Oct 10 2006 [     36 02] .. 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 330912 00] sd_abido_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 330992 00] sd_abido_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 331072 00] sd_amnae_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 331152 00] sd_amnae_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 331232 00] sd_asuka_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 331312 00] sd_asuka_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 331392 00] sd_ayuka_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 331472 00] sd_ayuka_ver.gim 
+-r-xr-xr-x   1    0    0      65888 Aug 21 2006 [ 331552 00] sd_body_01.gim 
+-r-xr-xr-x   1    0    0      65808 Aug 21 2006 [ 331600 00] sd_body_02.gim 
+-r-xr-xr-x   1    0    0      65808 Aug 21 2006 [ 331648 00] sd_body_03.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 331696 00] sd_boy_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 331776 00] sd_boy_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 331856 00] sd_buram_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 331936 00] sd_buram_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 332016 00] sd_chosa_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 332096 00] sd_chosa_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 332176 00] sd_commi_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 332256 00] sd_commi_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 332336 00] sd_daito_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 332416 00] sd_daito_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 332496 00] sd_doc_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 332576 00] sd_doc_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 332656 00] sd_fbk_d_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 332736 00] sd_fbk_d_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 332816 00] sd_fbk_n_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 332896 00] sd_fbk_n_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Jan 16 2006 [ 332976 00] sd_goris_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Jan 16 2006 [ 333056 00] sd_goris_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 333136 00] sd_grave_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 333216 00] sd_grave_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 333296 00] sd_hayat_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 333376 00] sd_hayat_ver.gim 
+-r-xr-xr-x   1    0    0      66432 Aug 21 2006 [ 333456 00] sd_head_01.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 333504 00] sd_inoso_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 333584 00] sd_inoso_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 333664 00] sd_judai_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 333744 00] sd_judai_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 333824 00] sd_junko_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 333904 00] sd_junko_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 333984 00] sd_kabay_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 334064 00] sd_kabay_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 334144 00] sd_kamyu_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 334224 00] sd_kamyu_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Jan 16 2006 [ 334304 00] sd_kgm_o_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Jan 16 2006 [ 334384 00] sd_kgm_o_ver.gim 
+-r-xr-xr-x   1    0    0     263376 Jun 12 2006 [ 334464 00] sd_kgm_suit.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 334608 00] sd_kgm_y_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 334688 00] sd_kgm_y_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 334768 00] sd_krono_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 334848 00] sd_krono_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 334928 00] sd_kumaz_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 335008 00] sd_kumaz_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 335088 00] sd_kuniz_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 335168 00] sd_kuniz_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 335248 00] sd_lab_s_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 335328 00] sd_lab_s_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 335408 00] sd_maz_o_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 335488 00] sd_maz_o_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 335568 00] sd_maz_y_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 335648 00] sd_maz_y_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 335728 00] sd_misaw_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 335808 00] sd_misaw_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 335888 00] sd_mjm_b_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 335968 00] sd_mjm_b_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 336048 00] sd_mjm_r_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 336128 00] sd_mjm_r_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 336208 00] sd_moke_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 336288 00] sd_moke_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 336368 00] sd_mokum_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 336448 00] sd_mokum_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 336528 00] sd_momoe_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 336608 00] sd_momoe_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 336688 00] sd_phara_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 336768 00] sd_phara_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 336848 00] sd_play_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 336928 00] sd_play_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 337008 00] sd_princ_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 337088 00] sd_princ_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Jun  6 2006 [ 337168 00] sd_profe_sla.gim 
+-r-xr-xr-x   1    0    0     132304 May 26 2006 [ 337248 00] sd_profe_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 337328 00] sd_psych_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 337408 00] sd_psych_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 337488 00] sd_rei_m_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 337568 00] sd_rei_m_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 337648 00] sd_rei_n_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 337728 00] sd_rei_n_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 337808 00] sd_ryo_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 337888 00] sd_ryo_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 337968 00] sd_sal_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 338048 00] sd_sal_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 338128 00] sd_sanju_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 338208 00] sd_sanju_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 338288 00] sd_sara_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 338368 00] sd_sara_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 338448 00] sd_seiko_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 338528 00] sd_seiko_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 338608 00] sd_seizi_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 338688 00] sd_seizi_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 338768 00] sd_senjo_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 338848 00] sd_senjo_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 338928 00] sd_sho_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 339008 00] sd_sho_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 339088 00] sd_siron_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 339168 00] sd_siron_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 339248 00] sd_taiza_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 339328 00] sd_taiza_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 339408 00] sd_taniy_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 339488 00] sd_taniy_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 339568 00] sd_tit_d_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 339648 00] sd_tit_d_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 339728 00] sd_tit_n_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 339808 00] sd_tit_n_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 339888 00] sd_tom_b_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 339968 00] sd_tom_b_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 340048 00] sd_tom_n_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 340128 00] sd_tom_n_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 340208 00] sd_umium_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 340288 00] sd_umium_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 340368 00] sd_zar_d_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 340448 00] sd_zar_d_ver.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 340528 00] sd_zar_n_sla.gim 
+-r-xr-xr-x   1    0    0     132304 Aug 21 2006 [ 340608 00] sd_zar_n_ver.gim 
+
+Directory listing of /PSP_GAME/USRDIR/tutorial/face/
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     66 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     50 02] .. 
+-r-xr-xr-x   1    0    0     221776 Aug 21 2006 [ 226320 00] bu_ask.ehp 
+-r-xr-xr-x   1    0    0     200736 Aug 21 2006 [ 226432 00] bu_cro.ehp 
+-r-xr-xr-x   1    0    0      91904 Aug 21 2006 [ 226544 00] bu_dai.ehp 
+-r-xr-xr-x   1    0    0     292416 Aug 21 2006 [ 226592 00] bu_hyt.ehp 
+-r-xr-xr-x   1    0    0     298944 Aug 21 2006 [ 226736 00] bu_jdi.ehp 
+-r-xr-xr-x   1    0    0     223760 Aug 21 2006 [ 226896 00] bu_maa.ehp 
+-r-xr-xr-x   1    0    0     258800 Aug 21 2006 [ 227008 00] bu_mab.ehp 
+-r-xr-xr-x   1    0    0     241376 Aug 21 2006 [ 227136 00] bu_mis.ehp 
+-r-xr-xr-x   1    0    0     201760 Aug 21 2006 [ 227264 00] bu_ryo.ehp 
+-r-xr-xr-x   1    0    0     110416 Aug 21 2006 [ 227376 00] bu_sam.ehp 
+-r-xr-xr-x   1    0    0     327184 Aug 21 2006 [ 227440 00] bu_sho.ehp 
+=============================================================== 
+Generated on Mon 08/08/2022 at 15:46:52.71 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

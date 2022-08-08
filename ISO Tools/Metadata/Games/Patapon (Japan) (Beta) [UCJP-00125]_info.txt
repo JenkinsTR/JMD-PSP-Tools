@@ -1,0 +1,98 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Patapon   
+Title ID: UCJP-00125 
+Region: Japan  
+Languages: Beta  
+Volume Creation Date: 2007-08-17 21:27:24 
+Volume Size: 236 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: SCEI
+Volume set id: SCEI
+Publisher id: SCEI
+Data preparer id: SCEI
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 120832
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Aug 17 2007 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2007 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2007 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Aug 17 2007 [     28 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2007 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2007 [     22 02] .. 
+-r-xr-xr-x   1    0    0      26398 Aug 17 2007 [  21571 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        472 Aug 23 2007 [  21563 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      12395 Aug 17 2007 [  21564 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2007 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Aug 24 2007 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2007 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2007 [     23 02] .. 
+-r-xr-xr-x   1    0    0    2153716 Aug 24 2007 [ 119776 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    2154064 Aug 24 2007 [     29 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2007 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Aug 24 2007 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2007 [     23 02] .. 
+-r-xr-xr-x   1    0    0  200929280 Aug 24 2007 [  21584 00] DATA_CMN.BND 
+-r-xr-xr-x   1    0    0      34816 Aug 24 2007 [ 119694 00] DATA_TLK.BND 
+dr-xr-xr-x   1    0    0       2048 Aug 24 2007 [     27 02] MODULE 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2007 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2007 [     24 02] .. 
+-r-xr-xr-x   1    0    0   16332832 Aug 17 2007 [   5179 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5212656 Aug 17 2007 [   1083 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Aug 17 2007 [   1081 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/MODULE/
+dr-xr-xr-x   1    0    0       2048 Aug 24 2007 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 24 2007 [     25 02] .. 
+-r-xr-xr-x   1    0    0        752 Aug  9 2007 [ 119711 00] LIBADLER.PRX 
+-r-xr-xr-x   1    0    0       1136 Aug  9 2007 [ 119712 00] LIBBASE64.PRX 
+-r-xr-xr-x   1    0    0       3152 Aug  9 2007 [ 119713 00] LIBCCC.PRX 
+-r-xr-xr-x   1    0    0       4048 Aug  9 2007 [ 119715 00] LIBDEFLT.PRX 
+-r-xr-xr-x   1    0    0      22976 Aug  9 2007 [ 119717 00] LIBFONT.PRX 
+-r-xr-xr-x   1    0    0       3920 Aug  9 2007 [ 119729 00] LIBFPU.PRX 
+-r-xr-xr-x   1    0    0       2032 Aug  9 2007 [ 119731 00] LIBMD5.PRX 
+-r-xr-xr-x   1    0    0        976 Aug  9 2007 [ 119732 00] LIBMT19937.PRX 
+-r-xr-xr-x   1    0    0       1584 Aug  9 2007 [ 119733 00] LIBQPCODE.PRX 
+-r-xr-xr-x   1    0    0       2240 Aug  9 2007 [ 119734 00] LIBSHA1.PRX 
+-r-xr-xr-x   1    0    0       2576 Aug  9 2007 [ 119736 00] LIBSHA224.PRX 
+-r-xr-xr-x   1    0    0       2576 Aug  9 2007 [ 119738 00] LIBSHA256.PRX 
+-r-xr-xr-x   1    0    0       7056 Aug  9 2007 [ 119740 00] PSMF.PRX 
+-r-xr-xr-x   1    0    0       2000 Aug  9 2007 [ 119744 00] PSPNET_AP_DIALOG_DUMMY.PRX 
+-r-xr-xr-x   1    0    0      31168 Aug  9 2007 [ 119745 00] SCAN.PRX 
+-r-xr-xr-x   1    0    0      28880 Aug  9 2007 [ 119761 00] SHOW_MACADDR.PRX 
+=============================================================== 
+Generated on Sun 07/08/2022 at 13:43:39.85 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

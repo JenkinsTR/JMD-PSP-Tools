@@ -1,0 +1,594 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Aedis Eclipse - Generation of Chaos   
+Title ID: ULUS-10242 
+Region: USA  
+Languages: En  
+Volume Creation Date: 2007-02-21 14:22:18 
+Volume Size: 638 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: 
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 326656
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Feb 21 2007 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2007 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2007 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Feb 21 2007 [     64 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Feb 21 2007 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2007 [     22 02] .. 
+-r-xr-xr-x   1    0    0      30188 Sep  6 2006 [  23664 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        472 Feb 23 2007 [  23648 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     256448 Oct 12 2006 [  23680 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2007 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Feb  1 2007 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Feb 21 2007 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2007 [     23 02] .. 
+-r-xr-xr-x   1    0    0    3115956 Feb 26 2007 [  22112 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    3116304 Feb 26 2007 [     80 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2007 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Feb  1 2007 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2007 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 20 2007 [     27 02] data 
+dr-xr-xr-x   1    0    0       2048 Feb  1 2007 [     28 02] icon 
+dr-xr-xr-x   1    0    0       2048 Feb 19 2007 [     29 02] modules 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2007 [     30 02] movie 
+dr-xr-xr-x   1    0    0       2048 Feb 26 2007 [     31 02] union 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Feb 21 2007 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2007 [     24 02] .. 
+-r-xr-xr-x   1    0    0   16703024 Feb 21 2007 [   5728 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5174464 Feb 21 2007 [   1632 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Feb 21 2007 [   1616 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/data/
+dr-xr-xr-x   1    0    0       2048 Feb 20 2007 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb  1 2007 [     25 02] .. 
+-r-xr-xr-x   1    0    0   26839040 Feb 28 2006 [ 138048 00] BGM.dat 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     32 02] SE 
+-r-xr-xr-x   1    0    0   93003664 Feb 20 2007 [ 154832 00] VOICE.dat 
+-r-xr-xr-x   1    0    0  104390016 Feb 14 2007 [ 200256 00] VOICE_J.dat 
+
+Directory listing of /PSP_GAME/USRDIR/icon/
+dr-xr-xr-x   1    0    0       2048 Feb  1 2007 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb  1 2007 [     25 02] .. 
+-r-xr-xr-x   1    0    0      23833 Sep  6 2006 [ 251232 00] ENPTY.PNG 
+-r-xr-xr-x   1    0    0      30188 Sep  6 2006 [ 251248 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0      27736 Feb 28 2006 [ 251264 00] ICON2.PNG 
+-r-xr-xr-x   1    0    0      31447 Feb 28 2006 [ 251344 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0     256448 Oct 12 2006 [ 251360 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0     131072 Feb 28 2006 [ 251280 00] jis2ucs.bin 
+-r-xr-xr-x   1    0    0      36864 Nov 21 2006 [ 251488 00] thumbs.db 
+-r-xr-xr-x   1    0    0     131072 Feb 28 2006 [ 251520 00] ucs2jis.bin 
+
+Directory listing of /PSP_GAME/USRDIR/modules/
+dr-xr-xr-x   1    0    0       2048 Feb 19 2007 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb  1 2007 [     25 02] .. 
+-r-xr-xr-x   1    0    0       3264 Feb 28 2006 [  23808 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0      10128 Feb 28 2006 [  23824 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0      20976 Feb 28 2006 [  23872 00] mpeg.prx 
+-r-xr-xr-x   1    0    0       5136 Feb 28 2006 [  23856 00] mpegbase.prx 
+-r-xr-xr-x   1    0    0       7456 Jan 11 2007 [  23888 00] psmf.prx 
+-r-xr-xr-x   1    0    0       3440 Feb 28 2006 [  23840 00] videocodec.prx 
+
+Directory listing of /PSP_GAME/USRDIR/movie/
+dr-xr-xr-x   1    0    0       2048 Feb 21 2007 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb  1 2007 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     33 02] cutin 
+-r-xr-xr-x   1    0    0   15009792 Feb 21 2007 [ 270880 00] ed001.pmf 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     34 02] etc 
+-r-xr-xr-x   1    0    0     247808 Feb  5 2007 [ 285584 00] if.pmf 
+-r-xr-xr-x   1    0    0    1583104 Feb  5 2007 [ 285712 00] if_n.pmf 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     35 02] kime 
+-r-xr-xr-x   1    0    0   11810816 Feb  2 2007 [ 290608 00] op.pmf 
+-r-xr-xr-x   1    0    0   12046336 Feb  5 2007 [ 296384 00] op001.pmf 
+-r-xr-xr-x   1    0    0   12056576 Feb  5 2007 [ 302272 00] op002.pmf 
+-r-xr-xr-x   1    0    0   12054528 Feb  5 2007 [ 308160 00] op003.pmf 
+-r-xr-xr-x   1    0    0   13613056 Feb  1 2007 [ 314048 00] title01.pmf 
+-r-xr-xr-x   1    0    0   12171264 Feb  1 2007 [ 320704 00] title02.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/union/
+dr-xr-xr-x   1    0    0       2048 Feb 26 2007 [     31 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb  1 2007 [     25 02] .. 
+-r-xr-xr-x   1    0    0     681984 Feb 21 2007 [  98480 00] battle.uni 
+-r-xr-xr-x   1    0    0   30011392 Mar 27 2006 [  98816 00] battlebg.uni 
+-r-xr-xr-x   1    0    0   50315264 Feb 23 2007 [ 113472 00] body.uni 
+-r-xr-xr-x   1    0    0   14942208 Feb 26 2007 [  23904 00] btlscr.uni 
+-r-xr-xr-x   1    0    0   14796800 Feb 21 2007 [  55296 00] btlskill.uni 
+-r-xr-xr-x   1    0    0   28624896 Mar  9 2006 [  62528 00] btlunit.uni 
+-r-xr-xr-x   1    0    0    2146304 Mar  9 2006 [  31200 00] f_dot_01.uni 
+-r-xr-xr-x   1    0    0     827392 Mar  9 2006 [  32256 00] f_dot_02.uni 
+-r-xr-xr-x   1    0    0    2099200 Mar  9 2006 [  32672 00] f_dot_03.uni 
+-r-xr-xr-x   1    0    0   44185600 Feb 21 2007 [  33712 00] field.uni 
+-r-xr-xr-x   1    0    0   25843712 Jan 12 2007 [  76512 00] gallery.uni 
+-r-xr-xr-x   1    0    0     212992 Mar  9 2006 [  89136 00] memory.uni 
+-r-xr-xr-x   1    0    0    4747264 Feb 23 2007 [  89248 00] option.uni 
+-r-xr-xr-x   1    0    0   11421696 Feb 26 2007 [  91568 00] script.uni 
+-r-xr-xr-x   1    0    0    2709504 Feb 21 2007 [  97152 00] world.uni 
+
+Directory listing of /PSP_GAME/USRDIR/data/SE/
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     32 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 20 2007 [     27 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     36 02] 001 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     37 02] 021 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     38 02] 041 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     39 02] 061 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     40 02] 081 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     41 02] 101 
+
+Directory listing of /PSP_GAME/USRDIR/movie/cutin/
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     33 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2007 [     30 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     42 02] 01 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     43 02] 02 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     44 02] 03 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     45 02] 04 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     46 02] 05 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     47 02] 06 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     48 02] 07 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     49 02] 08 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     50 02] 09 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     51 02] 10 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     52 02] 11 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     53 02] 12 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     54 02] 13 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     55 02] 14 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     56 02] 15 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     57 02] 16 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     58 02] 17 
+
+Directory listing of /PSP_GAME/USRDIR/movie/etc/
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     34 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2007 [     30 02] .. 
+-r-xr-xr-x   1    0    0   15054848 Feb 28 2006 [ 278224 00] ev001.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/movie/kime/
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     35 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2007 [     30 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     59 02] 01 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     60 02] 02 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     61 02] 03 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     62 02] 04 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     63 02] 05 
+
+Directory listing of /PSP_GAME/USRDIR/data/SE/001/
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     36 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0       5696 Feb 28 2006 [ 151168 00] 001.vag 
+-r-xr-xr-x   1    0    0       5264 Feb 28 2006 [ 151184 00] 002.vag 
+-r-xr-xr-x   1    0    0       6176 Feb 28 2006 [ 151200 00] 003.vag 
+-r-xr-xr-x   1    0    0      20960 Feb 28 2006 [ 151216 00] 004.vag 
+-r-xr-xr-x   1    0    0      34816 Feb 28 2006 [ 151232 00] 005.vag 
+-r-xr-xr-x   1    0    0       8192 Feb 28 2006 [ 151264 00] 006.vag 
+-r-xr-xr-x   1    0    0      31936 Feb 28 2006 [ 151280 00] 007.vag 
+-r-xr-xr-x   1    0    0      36032 Feb 28 2006 [ 151296 00] 008.vag 
+-r-xr-xr-x   1    0    0      16048 Feb 28 2006 [ 151328 00] 009.vag 
+-r-xr-xr-x   1    0    0      14368 Feb 28 2006 [ 151344 00] 010.vag 
+-r-xr-xr-x   1    0    0      18048 Feb 28 2006 [ 151360 00] 011.vag 
+-r-xr-xr-x   1    0    0      12272 Feb 28 2006 [ 151376 00] 012.vag 
+-r-xr-xr-x   1    0    0      22944 Feb 28 2006 [ 151392 00] 013.vag 
+-r-xr-xr-x   1    0    0       9888 Feb 28 2006 [ 151408 00] 014.vag 
+-r-xr-xr-x   1    0    0       8384 Feb 28 2006 [ 151424 00] 015.vag 
+-r-xr-xr-x   1    0    0     104832 Feb 28 2006 [ 151440 00] 016.vag 
+-r-xr-xr-x   1    0    0     125712 Feb 28 2006 [ 151504 00] 017.vag 
+-r-xr-xr-x   1    0    0      27808 Feb 28 2006 [ 151568 00] 018.vag 
+-r-xr-xr-x   1    0    0      26416 Feb 28 2006 [ 151584 00] 019.vag 
+-r-xr-xr-x   1    0    0      43136 Feb 28 2006 [ 151600 00] 020.vag 
+
+Directory listing of /PSP_GAME/USRDIR/data/SE/021/
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     37 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0      92064 Feb 28 2006 [ 151632 00] 021.vag 
+-r-xr-xr-x   1    0    0      38384 Feb 28 2006 [ 151680 00] 022.vag 
+-r-xr-xr-x   1    0    0     106816 Feb 28 2006 [ 151712 00] 023.vag 
+-r-xr-xr-x   1    0    0      52400 Feb 28 2006 [ 151776 00] 024.vag 
+-r-xr-xr-x   1    0    0      24416 Feb 28 2006 [ 151808 00] 025.vag 
+-r-xr-xr-x   1    0    0      89376 Feb 28 2006 [ 151824 00] 026.vag 
+-r-xr-xr-x   1    0    0      55152 Feb 28 2006 [ 151872 00] 027.vag 
+-r-xr-xr-x   1    0    0     111680 Feb 28 2006 [ 151904 00] 028.vag 
+-r-xr-xr-x   1    0    0      63424 Feb 28 2006 [ 151968 00] 029.vag 
+-r-xr-xr-x   1    0    0     110272 Feb 28 2006 [ 152000 00] 030.vag 
+-r-xr-xr-x   1    0    0      34016 Feb 28 2006 [ 152064 00] 031.vag 
+-r-xr-xr-x   1    0    0     103792 Feb 28 2006 [ 152096 00] 032.vag 
+-r-xr-xr-x   1    0    0     121376 Feb 28 2006 [ 152160 00] 033.vag 
+-r-xr-xr-x   1    0    0       9024 Feb 28 2006 [ 152224 00] 034.vag 
+-r-xr-xr-x   1    0    0      62624 Feb 28 2006 [ 152240 00] 035.vag 
+-r-xr-xr-x   1    0    0     139600 Feb 28 2006 [ 152272 00] 036.vag 
+-r-xr-xr-x   1    0    0      48336 Feb 28 2006 [ 152352 00] 037.vag 
+-r-xr-xr-x   1    0    0      72624 Feb 28 2006 [ 152384 00] 038.vag 
+-r-xr-xr-x   1    0    0     111152 Feb 28 2006 [ 152432 00] 039.vag 
+-r-xr-xr-x   1    0    0      51904 Feb 28 2006 [ 152496 00] 040.vag 
+
+Directory listing of /PSP_GAME/USRDIR/data/SE/041/
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     38 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0      75200 Feb 28 2006 [ 152528 00] 041.vag 
+-r-xr-xr-x   1    0    0      26304 Feb 28 2006 [ 152576 00] 042.vag 
+-r-xr-xr-x   1    0    0      48448 Feb 28 2006 [ 152592 00] 043.vag 
+-r-xr-xr-x   1    0    0      23280 Feb 28 2006 [ 152624 00] 044.vag 
+-r-xr-xr-x   1    0    0      93680 Feb 28 2006 [ 152640 00] 045.vag 
+-r-xr-xr-x   1    0    0      18928 Feb 28 2006 [ 152688 00] 046.vag 
+-r-xr-xr-x   1    0    0      66912 Feb 28 2006 [ 152704 00] 047.vag 
+-r-xr-xr-x   1    0    0      61744 Feb 28 2006 [ 152752 00] 048.vag 
+-r-xr-xr-x   1    0    0      68208 Feb 28 2006 [ 152784 00] 049.vag 
+-r-xr-xr-x   1    0    0      84928 Feb 28 2006 [ 152832 00] 050.vag 
+-r-xr-xr-x   1    0    0      83296 Feb 28 2006 [ 152880 00] 051.vag 
+-r-xr-xr-x   1    0    0     113920 Feb 28 2006 [ 152928 00] 052.vag 
+-r-xr-xr-x   1    0    0      57680 Feb 28 2006 [ 152992 00] 053.vag 
+-r-xr-xr-x   1    0    0      34576 Feb 28 2006 [ 153024 00] 054.vag 
+-r-xr-xr-x   1    0    0      90544 Feb 28 2006 [ 153056 00] 055.vag 
+-r-xr-xr-x   1    0    0       8912 Feb 28 2006 [ 153104 00] 056.vag 
+-r-xr-xr-x   1    0    0       1264 Feb 28 2006 [ 153120 00] 057.vag 
+-r-xr-xr-x   1    0    0      43376 Feb 28 2006 [ 153136 00] 058.vag 
+-r-xr-xr-x   1    0    0      17136 Feb 28 2006 [ 153168 00] 059.vag 
+-r-xr-xr-x   1    0    0      11056 Feb 28 2006 [ 153184 00] 060.vag 
+
+Directory listing of /PSP_GAME/USRDIR/data/SE/061/
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     39 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0      10896 Feb 28 2006 [ 153200 00] 061.vag 
+-r-xr-xr-x   1    0    0      20000 Feb 28 2006 [ 153216 00] 062.vag 
+-r-xr-xr-x   1    0    0      26160 Feb 28 2006 [ 153232 00] 063.vag 
+-r-xr-xr-x   1    0    0       8032 Feb 28 2006 [ 153248 00] 064.vag 
+-r-xr-xr-x   1    0    0      12752 Feb 28 2006 [ 153264 00] 065.vag 
+-r-xr-xr-x   1    0    0       4320 Feb 28 2006 [ 153280 00] 066.vag 
+-r-xr-xr-x   1    0    0       2336 Feb 28 2006 [ 153296 00] 067.vag 
+-r-xr-xr-x   1    0    0       1680 Feb 28 2006 [ 153312 00] 068.vag 
+-r-xr-xr-x   1    0    0       1680 Feb 28 2006 [ 153328 00] 069.vag 
+-r-xr-xr-x   1    0    0      26912 Feb 28 2006 [ 153344 00] 070.vag 
+-r-xr-xr-x   1    0    0      62256 Feb 28 2006 [ 153360 00] 071.vag 
+-r-xr-xr-x   1    0    0     158224 Feb 28 2006 [ 153392 00] 072.vag 
+-r-xr-xr-x   1    0    0      77648 Feb 28 2006 [ 153472 00] 073.vag 
+-r-xr-xr-x   1    0    0      43552 Feb 28 2006 [ 153520 00] 074.vag 
+-r-xr-xr-x   1    0    0      91728 Feb 28 2006 [ 153552 00] 075.vag 
+-r-xr-xr-x   1    0    0      50656 Feb 28 2006 [ 153600 00] 076.vag 
+-r-xr-xr-x   1    0    0      97520 Feb 28 2006 [ 153632 00] 077.vag 
+-r-xr-xr-x   1    0    0      45392 Feb 28 2006 [ 153680 00] 078.vag 
+-r-xr-xr-x   1    0    0      37808 Feb 28 2006 [ 153712 00] 079.vag 
+-r-xr-xr-x   1    0    0      32512 Feb 28 2006 [ 153744 00] 080.vag 
+
+Directory listing of /PSP_GAME/USRDIR/data/SE/081/
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     40 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0      37280 Feb 28 2006 [ 153760 00] 081.vag 
+-r-xr-xr-x   1    0    0      77584 Feb 28 2006 [ 153792 00] 082.vag 
+-r-xr-xr-x   1    0    0      66768 Feb 28 2006 [ 153840 00] 083.vag 
+-r-xr-xr-x   1    0    0     101056 Feb 28 2006 [ 153888 00] 084.vag 
+-r-xr-xr-x   1    0    0      96736 Feb 28 2006 [ 153952 00] 085.vag 
+-r-xr-xr-x   1    0    0      29408 Feb 28 2006 [ 154000 00] 086.vag 
+-r-xr-xr-x   1    0    0      97040 Feb 28 2006 [ 154016 00] 087.vag 
+-r-xr-xr-x   1    0    0     121072 Feb 28 2006 [ 154064 00] 088.vag 
+-r-xr-xr-x   1    0    0     142432 Feb 28 2006 [ 154128 00] 089.vag 
+-r-xr-xr-x   1    0    0     153552 Feb 28 2006 [ 154208 00] 090.vag 
+-r-xr-xr-x   1    0    0     149360 Feb 28 2006 [ 154288 00] 091.vag 
+-r-xr-xr-x   1    0    0     104768 Feb 28 2006 [ 154368 00] 092.vag 
+-r-xr-xr-x   1    0    0     111232 Feb 28 2006 [ 154432 00] 093.vag 
+-r-xr-xr-x   1    0    0     158656 Feb 28 2006 [ 154496 00] 094.vag 
+-r-xr-xr-x   1    0    0      35808 Feb 28 2006 [ 154576 00] 095.vag 
+-r-xr-xr-x   1    0    0       6496 Feb 28 2006 [ 154608 00] 096.vag 
+-r-xr-xr-x   1    0    0      30576 Feb 28 2006 [ 154624 00] 097.vag 
+-r-xr-xr-x   1    0    0      10512 Feb 28 2006 [ 154640 00] 098.vag 
+-r-xr-xr-x   1    0    0       8704 Feb 28 2006 [ 154656 00] 099.vag 
+-r-xr-xr-x   1    0    0       7648 Feb 28 2006 [ 154672 00] 100.vag 
+
+Directory listing of /PSP_GAME/USRDIR/data/SE/101/
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     41 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0      18560 Feb 28 2006 [ 154688 00] 101.vag 
+-r-xr-xr-x   1    0    0      14336 Feb 28 2006 [ 154704 00] 102.vag 
+-r-xr-xr-x   1    0    0       1680 Feb 28 2006 [ 154720 00] 103.vag 
+-r-xr-xr-x   1    0    0       1680 Feb 28 2006 [ 154736 00] 104.vag 
+-r-xr-xr-x   1    0    0       1680 Feb 28 2006 [ 154752 00] 105.vag 
+-r-xr-xr-x   1    0    0     124880 Feb 28 2006 [ 154768 00] 106.vag 
+
+Directory listing of /PSP_GAME/USRDIR/movie/cutin/01/
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     42 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     33 02] .. 
+-r-xr-xr-x   1    0    0     186368 Feb 28 2006 [ 251584 00] cutin001.pmf 
+-r-xr-xr-x   1    0    0     155648 Feb 28 2006 [ 251680 00] cutin002.pmf 
+-r-xr-xr-x   1    0    0     182272 Feb 28 2006 [ 251760 00] cutin003.pmf 
+-r-xr-xr-x   1    0    0     178176 Feb 28 2006 [ 251856 00] cutin004.pmf 
+-r-xr-xr-x   1    0    0     188416 Feb 28 2006 [ 251952 00] cutin005.pmf 
+-r-xr-xr-x   1    0    0     163840 Feb 28 2006 [ 252048 00] cutin006.pmf 
+-r-xr-xr-x   1    0    0     227328 Feb 28 2006 [ 252128 00] cutin007.pmf 
+-r-xr-xr-x   1    0    0     182272 Feb 28 2006 [ 252240 00] cutin008.pmf 
+-r-xr-xr-x   1    0    0     473088 Feb 28 2006 [ 252336 00] cutin009.pmf 
+-r-xr-xr-x   1    0    0     239616 Feb 28 2006 [ 252576 00] cutin010.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/movie/cutin/02/
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     43 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     33 02] .. 
+-r-xr-xr-x   1    0    0     333824 Feb 28 2006 [ 252704 00] cutin011.pmf 
+-r-xr-xr-x   1    0    0     237568 Feb 28 2006 [ 252880 00] cutin012.pmf 
+-r-xr-xr-x   1    0    0     192512 Feb 28 2006 [ 253008 00] cutin013.pmf 
+-r-xr-xr-x   1    0    0     487424 Feb 28 2006 [ 253104 00] cutin014.pmf 
+-r-xr-xr-x   1    0    0     147456 Feb 28 2006 [ 253344 00] cutin015.pmf 
+-r-xr-xr-x   1    0    0     204800 Feb 28 2006 [ 253424 00] cutin016.pmf 
+-r-xr-xr-x   1    0    0     290816 Feb 28 2006 [ 253536 00] cutin017.pmf 
+-r-xr-xr-x   1    0    0     362496 Feb 28 2006 [ 253680 00] cutin018.pmf 
+-r-xr-xr-x   1    0    0     491520 Feb 28 2006 [ 253872 00] cutin019.pmf 
+-r-xr-xr-x   1    0    0     202752 Feb 28 2006 [ 254112 00] cutin020.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/movie/cutin/03/
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     44 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     33 02] .. 
+-r-xr-xr-x   1    0    0     358400 Feb 28 2006 [ 254224 00] cutin021.pmf 
+-r-xr-xr-x   1    0    0     258048 Feb 28 2006 [ 254400 00] cutin022.pmf 
+-r-xr-xr-x   1    0    0     227328 Feb 28 2006 [ 254528 00] cutin023.pmf 
+-r-xr-xr-x   1    0    0     274432 Feb 28 2006 [ 254640 00] cutin024.pmf 
+-r-xr-xr-x   1    0    0     225280 Feb 28 2006 [ 254784 00] cutin025.pmf 
+-r-xr-xr-x   1    0    0     305152 Feb 28 2006 [ 254896 00] cutin026.pmf 
+-r-xr-xr-x   1    0    0     327680 Feb 28 2006 [ 255056 00] cutin027.pmf 
+-r-xr-xr-x   1    0    0     112640 Feb 28 2006 [ 255216 00] cutin028.pmf 
+-r-xr-xr-x   1    0    0     172032 Feb 28 2006 [ 255280 00] cutin029.pmf 
+-r-xr-xr-x   1    0    0     192512 Feb 28 2006 [ 255376 00] cutin030.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/movie/cutin/04/
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     45 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     33 02] .. 
+-r-xr-xr-x   1    0    0     153600 Feb 28 2006 [ 255472 00] cutin031.pmf 
+-r-xr-xr-x   1    0    0     245760 Feb 28 2006 [ 255552 00] cutin032.pmf 
+-r-xr-xr-x   1    0    0     196608 Feb 28 2006 [ 255680 00] cutin033.pmf 
+-r-xr-xr-x   1    0    0     342016 Feb 28 2006 [ 255776 00] cutin034.pmf 
+-r-xr-xr-x   1    0    0     348160 Feb 28 2006 [ 255952 00] cutin035.pmf 
+-r-xr-xr-x   1    0    0     235520 Feb 28 2006 [ 256128 00] cutin036.pmf 
+-r-xr-xr-x   1    0    0     270336 Feb 28 2006 [ 256256 00] cutin037.pmf 
+-r-xr-xr-x   1    0    0     176128 Feb 28 2006 [ 256400 00] cutin038.pmf 
+-r-xr-xr-x   1    0    0     360448 Feb 28 2006 [ 256496 00] cutin039.pmf 
+-r-xr-xr-x   1    0    0     288768 Feb 28 2006 [ 256672 00] cutin040.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/movie/cutin/05/
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     46 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     33 02] .. 
+-r-xr-xr-x   1    0    0     288768 Feb 28 2006 [ 256816 00] cutin041.pmf 
+-r-xr-xr-x   1    0    0     389120 Feb 28 2006 [ 256960 00] cutin042.pmf 
+-r-xr-xr-x   1    0    0     536576 Feb 28 2006 [ 257152 00] cutin043.pmf 
+-r-xr-xr-x   1    0    0     366592 Feb 28 2006 [ 257424 00] cutin044.pmf 
+-r-xr-xr-x   1    0    0     167936 Feb 28 2006 [ 257616 00] cutin045.pmf 
+-r-xr-xr-x   1    0    0     159744 Feb 28 2006 [ 257712 00] cutin046.pmf 
+-r-xr-xr-x   1    0    0     237568 Feb 28 2006 [ 257792 00] cutin047.pmf 
+-r-xr-xr-x   1    0    0     245760 Feb 28 2006 [ 257920 00] cutin048.pmf 
+-r-xr-xr-x   1    0    0     282624 Feb 28 2006 [ 258048 00] cutin049.pmf 
+-r-xr-xr-x   1    0    0     370688 Feb 28 2006 [ 258192 00] cutin050.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/movie/cutin/06/
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     47 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     33 02] .. 
+-r-xr-xr-x   1    0    0     292864 Feb 28 2006 [ 258384 00] cutin051.pmf 
+-r-xr-xr-x   1    0    0     339968 Feb 28 2006 [ 258528 00] cutin052.pmf 
+-r-xr-xr-x   1    0    0     225280 Feb 28 2006 [ 258704 00] cutin053.pmf 
+-r-xr-xr-x   1    0    0     153600 Feb 28 2006 [ 258816 00] cutin054.pmf 
+-r-xr-xr-x   1    0    0     276480 Feb 28 2006 [ 258896 00] cutin055.pmf 
+-r-xr-xr-x   1    0    0     323584 Feb 28 2006 [ 259040 00] cutin056.pmf 
+-r-xr-xr-x   1    0    0     305152 Feb 28 2006 [ 259200 00] cutin057.pmf 
+-r-xr-xr-x   1    0    0     151552 Feb 28 2006 [ 259360 00] cutin058.pmf 
+-r-xr-xr-x   1    0    0     425984 Feb 28 2006 [ 259440 00] cutin059.pmf 
+-r-xr-xr-x   1    0    0     251904 Feb 28 2006 [ 259648 00] cutin060.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/movie/cutin/07/
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     48 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     33 02] .. 
+-r-xr-xr-x   1    0    0     118784 Feb 28 2006 [ 259776 00] cutin061.pmf 
+-r-xr-xr-x   1    0    0     210944 Feb 28 2006 [ 259840 00] cutin062.pmf 
+-r-xr-xr-x   1    0    0     178176 Feb 28 2006 [ 259952 00] cutin063.pmf 
+-r-xr-xr-x   1    0    0     206848 Feb 28 2006 [ 260048 00] cutin064.pmf 
+-r-xr-xr-x   1    0    0     233472 Feb 28 2006 [ 260160 00] cutin065.pmf 
+-r-xr-xr-x   1    0    0     243712 Feb 28 2006 [ 260288 00] cutin066.pmf 
+-r-xr-xr-x   1    0    0     245760 Feb 28 2006 [ 260416 00] cutin067.pmf 
+-r-xr-xr-x   1    0    0     149504 Feb 28 2006 [ 260544 00] cutin068.pmf 
+-r-xr-xr-x   1    0    0     270336 Feb 28 2006 [ 260624 00] cutin069.pmf 
+-r-xr-xr-x   1    0    0     288768 Feb 28 2006 [ 260768 00] cutin070.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/movie/cutin/08/
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     49 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     33 02] .. 
+-r-xr-xr-x   1    0    0     366592 Feb 28 2006 [ 260912 00] cutin071.pmf 
+-r-xr-xr-x   1    0    0     346112 Feb 28 2006 [ 261104 00] cutin072.pmf 
+-r-xr-xr-x   1    0    0     208896 Feb 28 2006 [ 261280 00] cutin073.pmf 
+-r-xr-xr-x   1    0    0     278528 Feb 28 2006 [ 261392 00] cutin074.pmf 
+-r-xr-xr-x   1    0    0     555008 Feb 28 2006 [ 261536 00] cutin075.pmf 
+-r-xr-xr-x   1    0    0     114688 Feb 28 2006 [ 261808 00] cutin076.pmf 
+-r-xr-xr-x   1    0    0     352256 Feb 28 2006 [ 261872 00] cutin077.pmf 
+-r-xr-xr-x   1    0    0     278528 Feb 28 2006 [ 262048 00] cutin078.pmf 
+-r-xr-xr-x   1    0    0     217088 Feb 28 2006 [ 262192 00] cutin079.pmf 
+-r-xr-xr-x   1    0    0     186368 Feb 28 2006 [ 262304 00] cutin080.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/movie/cutin/09/
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     50 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     33 02] .. 
+-r-xr-xr-x   1    0    0     325632 Feb 28 2006 [ 262400 00] cutin081.pmf 
+-r-xr-xr-x   1    0    0     391168 Feb 28 2006 [ 262560 00] cutin082.pmf 
+-r-xr-xr-x   1    0    0     200704 Feb 28 2006 [ 262752 00] cutin083.pmf 
+-r-xr-xr-x   1    0    0     466944 Feb 28 2006 [ 262864 00] cutin084.pmf 
+-r-xr-xr-x   1    0    0     227328 Feb 28 2006 [ 263104 00] cutin085.pmf 
+-r-xr-xr-x   1    0    0     317440 Feb 28 2006 [ 263216 00] cutin086.pmf 
+-r-xr-xr-x   1    0    0     284672 Feb 28 2006 [ 263376 00] cutin087.pmf 
+-r-xr-xr-x   1    0    0     292864 Feb 28 2006 [ 263520 00] cutin088.pmf 
+-r-xr-xr-x   1    0    0     292864 Feb 28 2006 [ 263664 00] cutin089.pmf 
+-r-xr-xr-x   1    0    0     227328 Feb 28 2006 [ 263808 00] cutin090.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/movie/cutin/10/
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     51 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     33 02] .. 
+-r-xr-xr-x   1    0    0     270336 Feb 28 2006 [ 263920 00] cutin091.pmf 
+-r-xr-xr-x   1    0    0     274432 Feb 28 2006 [ 264064 00] cutin092.pmf 
+-r-xr-xr-x   1    0    0     356352 Feb 28 2006 [ 264208 00] cutin093.pmf 
+-r-xr-xr-x   1    0    0     348160 Feb 28 2006 [ 264384 00] cutin094.pmf 
+-r-xr-xr-x   1    0    0     317440 Feb 28 2006 [ 264560 00] cutin095.pmf 
+-r-xr-xr-x   1    0    0     299008 Feb 28 2006 [ 264720 00] cutin096.pmf 
+-r-xr-xr-x   1    0    0     196608 Feb 28 2006 [ 264880 00] cutin097.pmf 
+-r-xr-xr-x   1    0    0     272384 Feb 28 2006 [ 264976 00] cutin098.pmf 
+-r-xr-xr-x   1    0    0     268288 Feb 28 2006 [ 265120 00] cutin099.pmf 
+-r-xr-xr-x   1    0    0     344064 Feb 28 2006 [ 265264 00] cutin100.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/movie/cutin/11/
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     52 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     33 02] .. 
+-r-xr-xr-x   1    0    0     346112 Feb 28 2006 [ 265440 00] cutin101.pmf 
+-r-xr-xr-x   1    0    0     253952 Feb 28 2006 [ 265616 00] cutin102.pmf 
+-r-xr-xr-x   1    0    0     256000 Feb 28 2006 [ 265744 00] cutin103.pmf 
+-r-xr-xr-x   1    0    0     276480 Feb 28 2006 [ 265872 00] cutin104.pmf 
+-r-xr-xr-x   1    0    0     245760 Feb 28 2006 [ 266016 00] cutin105.pmf 
+-r-xr-xr-x   1    0    0     333824 Feb 28 2006 [ 266144 00] cutin106.pmf 
+-r-xr-xr-x   1    0    0     241664 Feb 28 2006 [ 266320 00] cutin107.pmf 
+-r-xr-xr-x   1    0    0     237568 Feb 28 2006 [ 266448 00] cutin108.pmf 
+-r-xr-xr-x   1    0    0     245760 Feb 28 2006 [ 266576 00] cutin109.pmf 
+-r-xr-xr-x   1    0    0     368640 Feb 28 2006 [ 266704 00] cutin110.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/movie/cutin/12/
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     53 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     33 02] .. 
+-r-xr-xr-x   1    0    0     337920 Feb 28 2006 [ 266896 00] cutin111.pmf 
+-r-xr-xr-x   1    0    0     276480 Feb 28 2006 [ 267072 00] cutin112.pmf 
+-r-xr-xr-x   1    0    0     311296 Feb 28 2006 [ 267216 00] cutin113.pmf 
+-r-xr-xr-x   1    0    0     258048 Feb 28 2006 [ 267376 00] cutin114.pmf 
+-r-xr-xr-x   1    0    0     337920 Feb 28 2006 [ 267504 00] cutin115.pmf 
+-r-xr-xr-x   1    0    0     327680 Feb 28 2006 [ 267680 00] cutin116.pmf 
+-r-xr-xr-x   1    0    0     458752 Feb 28 2006 [ 267840 00] cutin117.pmf 
+-r-xr-xr-x   1    0    0     249856 Feb 28 2006 [ 268064 00] cutin118.pmf 
+-r-xr-xr-x   1    0    0     225280 Feb 28 2006 [ 268192 00] cutin119.pmf 
+-r-xr-xr-x   1    0    0     198656 Feb 28 2006 [ 268304 00] cutin120.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/movie/cutin/13/
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     54 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     33 02] .. 
+-r-xr-xr-x   1    0    0     258048 Feb 28 2006 [ 268416 00] cutin121.pmf 
+-r-xr-xr-x   1    0    0     241664 Feb 28 2006 [ 268544 00] cutin122.pmf 
+-r-xr-xr-x   1    0    0     305152 Feb 28 2006 [ 268672 00] cutin123.pmf 
+-r-xr-xr-x   1    0    0     215040 Feb 28 2006 [ 268832 00] cutin124.pmf 
+-r-xr-xr-x   1    0    0     208896 Feb 28 2006 [ 268944 00] cutin125.pmf 
+-r-xr-xr-x   1    0    0     292864 Feb 28 2006 [ 269056 00] cutin126.pmf 
+-r-xr-xr-x   1    0    0     325632 Feb 28 2006 [ 269200 00] cutin127.pmf 
+-r-xr-xr-x   1    0    0     319488 Feb 28 2006 [ 269360 00] cutin128.pmf 
+-r-xr-xr-x   1    0    0     362496 Feb 28 2006 [ 269520 00] cutin129.pmf 
+-r-xr-xr-x   1    0    0     202752 Feb 28 2006 [ 269712 00] cutin130.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/movie/cutin/14/
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     55 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     33 02] .. 
+-r-xr-xr-x   1    0    0     407552 Feb 28 2006 [ 269824 00] cutin131.pmf 
+-r-xr-xr-x   1    0    0     370688 Feb 28 2006 [ 270032 00] cutin132.pmf 
+-r-xr-xr-x   1    0    0     266240 Feb 28 2006 [ 270224 00] cutin133.pmf 
+-r-xr-xr-x   1    0    0     280576 Feb 28 2006 [ 270368 00] cutin134.pmf 
+-r-xr-xr-x   1    0    0     344064 Feb 28 2006 [ 270512 00] cutin135.pmf 
+-r-xr-xr-x   1    0    0     370688 Feb 28 2006 [ 270688 00] cutin136.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/movie/cutin/15/
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     56 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     33 02] .. 
+
+Directory listing of /PSP_GAME/USRDIR/movie/cutin/16/
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     57 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     33 02] .. 
+
+Directory listing of /PSP_GAME/USRDIR/movie/cutin/17/
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     58 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     33 02] .. 
+
+Directory listing of /PSP_GAME/USRDIR/movie/kime/01/
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     59 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     35 02] .. 
+-r-xr-xr-x   1    0    0     106496 Feb  6 2007 [ 286496 00] kime001.pmf 
+-r-xr-xr-x   1    0    0     149504 Feb  6 2007 [ 286560 00] kime002.pmf 
+-r-xr-xr-x   1    0    0     151552 Feb  6 2007 [ 286640 00] kime003.pmf 
+-r-xr-xr-x   1    0    0     174080 Feb  6 2007 [ 286720 00] kime004.pmf 
+-r-xr-xr-x   1    0    0     159744 Feb  6 2007 [ 286816 00] kime005.pmf 
+-r-xr-xr-x   1    0    0     129024 Feb  6 2007 [ 286896 00] kime006.pmf 
+-r-xr-xr-x   1    0    0     149504 Feb  6 2007 [ 286960 00] kime007.pmf 
+-r-xr-xr-x   1    0    0     149504 Feb  6 2007 [ 287040 00] kime008.pmf 
+-r-xr-xr-x   1    0    0     198656 Feb  6 2007 [ 287120 00] kime009.pmf 
+-r-xr-xr-x   1    0    0     194560 Feb  6 2007 [ 287232 00] kime010.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/movie/kime/02/
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     60 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     35 02] .. 
+-r-xr-xr-x   1    0    0     114688 Feb  6 2007 [ 287328 00] kime011.pmf 
+-r-xr-xr-x   1    0    0     129024 Feb  6 2007 [ 287392 00] kime012.pmf 
+-r-xr-xr-x   1    0    0     169984 Feb  6 2007 [ 287456 00] kime013.pmf 
+-r-xr-xr-x   1    0    0     163840 Feb  6 2007 [ 287552 00] kime014.pmf 
+-r-xr-xr-x   1    0    0     157696 Feb  6 2007 [ 287632 00] kime015.pmf 
+-r-xr-xr-x   1    0    0     151552 Feb  6 2007 [ 287712 00] kime016.pmf 
+-r-xr-xr-x   1    0    0     151552 Feb  6 2007 [ 287792 00] kime017.pmf 
+-r-xr-xr-x   1    0    0     137216 Feb  6 2007 [ 287872 00] kime018.pmf 
+-r-xr-xr-x   1    0    0     163840 Feb  6 2007 [ 287952 00] kime019.pmf 
+-r-xr-xr-x   1    0    0     165888 Feb  6 2007 [ 288032 00] kime020.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/movie/kime/03/
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     61 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     35 02] .. 
+-r-xr-xr-x   1    0    0     137216 Feb  6 2007 [ 288128 00] kime021.pmf 
+-r-xr-xr-x   1    0    0     192512 Feb  6 2007 [ 288208 00] kime022.pmf 
+-r-xr-xr-x   1    0    0     129024 Feb  6 2007 [ 288304 00] kime023.pmf 
+-r-xr-xr-x   1    0    0     227328 Feb  6 2007 [ 288368 00] kime024.pmf 
+-r-xr-xr-x   1    0    0     172032 Feb  6 2007 [ 288480 00] kime025.pmf 
+-r-xr-xr-x   1    0    0     180224 Feb  6 2007 [ 288576 00] kime026.pmf 
+-r-xr-xr-x   1    0    0     137216 Feb  6 2007 [ 288672 00] kime027.pmf 
+-r-xr-xr-x   1    0    0     200704 Feb  6 2007 [ 288752 00] kime028.pmf 
+-r-xr-xr-x   1    0    0     129024 Feb  6 2007 [ 288864 00] kime029.pmf 
+-r-xr-xr-x   1    0    0     157696 Feb  6 2007 [ 288928 00] kime030.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/movie/kime/04/
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     62 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     35 02] .. 
+-r-xr-xr-x   1    0    0     131072 Feb  6 2007 [ 289008 00] kime031.pmf 
+-r-xr-xr-x   1    0    0     108544 Feb  6 2007 [ 289072 00] kime032.pmf 
+-r-xr-xr-x   1    0    0     157696 Feb  6 2007 [ 289136 00] kime033.pmf 
+-r-xr-xr-x   1    0    0     157696 Feb  6 2007 [ 289216 00] kime034.pmf 
+-r-xr-xr-x   1    0    0     143360 Feb  6 2007 [ 289296 00] kime035.pmf 
+-r-xr-xr-x   1    0    0     114688 Feb  6 2007 [ 289376 00] kime036.pmf 
+-r-xr-xr-x   1    0    0     114688 Feb  6 2007 [ 289440 00] kime037.pmf 
+-r-xr-xr-x   1    0    0     241664 Feb  6 2007 [ 289504 00] kime038.pmf 
+-r-xr-xr-x   1    0    0      94208 Feb  6 2007 [ 289632 00] kime039.pmf 
+-r-xr-xr-x   1    0    0      94208 Feb  6 2007 [ 289680 00] kime040.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/movie/kime/05/
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     63 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2006 [     35 02] .. 
+-r-xr-xr-x   1    0    0     157696 Feb  6 2007 [ 289728 00] kime041.pmf 
+-r-xr-xr-x   1    0    0     182272 Feb  6 2007 [ 289808 00] kime042.pmf 
+-r-xr-xr-x   1    0    0     122880 Feb  6 2007 [ 289904 00] kime043.pmf 
+-r-xr-xr-x   1    0    0     137216 Feb  6 2007 [ 289968 00] kime044.pmf 
+-r-xr-xr-x   1    0    0     169984 Feb  6 2007 [ 290048 00] kime045.pmf 
+-r-xr-xr-x   1    0    0     182272 Feb  6 2007 [ 290144 00] kime046.pmf 
+-r-xr-xr-x   1    0    0     182272 Feb  6 2007 [ 290240 00] kime047.pmf 
+-r-xr-xr-x   1    0    0     221184 Feb  6 2007 [ 290336 00] kime048.pmf 
+-r-xr-xr-x   1    0    0     151552 Feb  6 2007 [ 290448 00] kime049.pmf 
+-r-xr-xr-x   1    0    0     135168 Feb  6 2007 [ 290528 00] kime050.pmf 
+=============================================================== 
+Generated on Mon 08/08/2022 at 15:46:20.28 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

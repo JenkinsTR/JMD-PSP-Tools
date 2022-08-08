@@ -1,0 +1,99 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: PaRappa the Rapper   
+Title ID: UCES-00775 
+Region: Australia  
+Languages: En,Fr,De,Es,It  
+Volume Creation Date: 2007-05-08 16:27:49 
+Volume Size: 359 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: 
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 184224
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 May  8 2007 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 May  8 2007 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 May  8 2007 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 May  8 2007 [     28 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 May  8 2007 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 May  8 2007 [     22 02] .. 
+-r-xr-xr-x   1    0    0      17383 Jan 26 2007 [  21552 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     167936 Jan 26 2007 [  21568 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 May  8 2007 [  21536 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      39412 Mar  8 2007 [  21664 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0      15044 Jan 26 2007 [  21696 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0      21072 Jan 26 2007 [  21712 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 May  8 2007 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 May  8 2007 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 May  8 2007 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 May  8 2007 [     23 02] .. 
+-r-xr-xr-x   1    0    0    2045524 May  8 2007 [  21728 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    2045872 May  8 2007 [     32 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 May  8 2007 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 May  8 2007 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 May  8 2007 [     23 02] .. 
+-r-xr-xr-x   1    0    0  329879552 May  8 2007 [  23136 00] cmp.img 
+dr-xr-xr-x   1    0    0       2048 May  8 2007 [     27 02] modules.psp 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 May  8 2007 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 May  8 2007 [     24 02] .. 
+-r-xr-xr-x   1    0    0   16820256 May  8 2007 [   5152 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5214848 May  8 2007 [   1056 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 May  8 2007 [   1040 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/modules.psp/
+dr-xr-xr-x   1    0    0       2048 May  8 2007 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 May  8 2007 [     25 02] .. 
+-r-xr-xr-x   1    0    0      10816 Jan 26 2007 [  22736 00] ifhandle.prx 
+-r-xr-xr-x   1    0    0      10928 Jan 26 2007 [  22752 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0      23456 Jan 26 2007 [  22768 00] libfont.prx 
+-r-xr-xr-x   1    0    0      21752 Jan 26 2007 [  22784 00] libnetcnf.prx 
+-r-xr-xr-x   1    0    0      17216 Jan 26 2007 [  22800 00] memab.prx 
+-r-xr-xr-x   1    0    0      20096 Jan 26 2007 [  22816 00] mpeg.prx 
+-r-xr-xr-x   1    0    0       7440 Jan 26 2007 [  22832 00] psmf.prx 
+-r-xr-xr-x   1    0    0      60360 Jan 26 2007 [  22848 00] pspnet.prx 
+-r-xr-xr-x   1    0    0      42492 Jan 26 2007 [  22880 00] pspnet_adhoc.prx 
+-r-xr-xr-x   1    0    0      11360 Jan 26 2007 [  22928 00] pspnet_adhoc_auth.prx 
+-r-xr-xr-x   1    0    0      19688 Jan 26 2007 [  22944 00] pspnet_adhoc_matching.prx 
+-r-xr-xr-x   1    0    0      31996 Jan 26 2007 [  22912 00] pspnet_adhocctl.prx 
+-r-xr-xr-x   1    0    0      44412 Jan 26 2007 [  22960 00] pspnet_apctl.prx 
+-r-xr-xr-x   1    0    0     239968 Jan 26 2007 [  22992 00] pspnet_inet.prx 
+-r-xr-xr-x   1    0    0      12400 Jan 26 2007 [  23120 00] pspnet_resolver.prx 
+=============================================================== 
+Generated on Mon 08/08/2022 at 12:16:42.01 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

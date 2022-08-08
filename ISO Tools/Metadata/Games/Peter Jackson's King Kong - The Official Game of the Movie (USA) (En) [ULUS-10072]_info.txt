@@ -1,0 +1,134 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Peter Jackson's King Kong - The Official Game of the Movie   
+Title ID: ULUS-10072 
+Region: USA  
+Languages: En  
+Volume Creation Date: 2005-11-29 09:41:35 
+Volume Size: 472 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: ULUS10072
+Volume set id: ULUS10072
+Publisher id: UBISOFT
+Data preparer id: UBISOFT
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 241792
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Nov 29 2005 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 29 2005 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov 29 2005 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Nov 29 2005 [     30 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Nov 29 2005 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 29 2005 [     22 02] .. 
+-r-xr-xr-x   1    0    0      24968 Oct 17 2005 [ 241648 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        472 Nov 29 2005 [  23856 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     251658 Oct 17 2005 [ 241664 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Nov 29 2005 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Nov 29 2005 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Nov 29 2005 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 29 2005 [     23 02] .. 
+-r-xr-xr-x   1    0    0    6792702 Nov 27 2005 [ 238320 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    6793040 Nov 29 2005 [     32 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Nov 29 2005 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Nov 29 2005 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 29 2005 [     23 02] .. 
+-r-xr-xr-x   1    0    0  334790656 Nov 26 2005 [  74768 00] KingKong.bf 
+dr-xr-xr-x   1    0    0       2048 Nov 29 2005 [     27 02] MC 
+dr-xr-xr-x   1    0    0       4096 Nov 29 2005 [     28 02] PMF 
+-r-xr-xr-x   1    0    0       3200 Aug  8 2005 [  74736 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0          0 Nov  4 2005 [  74752 00] jade.spe 
+-r-xr-xr-x   1    0    0      46160 Aug 15 2005 [ 238240 00] mpeg.prx 
+-r-xr-xr-x   1    0    0       5792 Aug  8 2005 [ 238272 00] mpegbase.prx 
+-r-xr-xr-x   1    0    0       6400 Aug  8 2005 [ 238288 00] sc_sascore.prx 
+-r-xr-xr-x   1    0    0       4016 Aug  8 2005 [ 238304 00] videocodec.prx 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Nov 29 2005 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 29 2005 [     24 02] .. 
+-r-xr-xr-x   1    0    0   13885040 Nov 29 2005 [   7472 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    3970656 Nov 29 2005 [   3376 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       1772 Nov 29 2005 [   3360 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/MC/
+dr-xr-xr-x   1    0    0       2048 Nov 29 2005 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 29 2005 [     25 02] .. 
+-r-xr-xr-x   1    0    0      24968 Oct 17 2005 [  74592 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     255105 Oct 19 2005 [  74608 00] PIC1.PNG 
+
+Directory listing of /PSP_GAME/USRDIR/PMF/
+dr-xr-xr-x   1    0    0       4096 Nov 29 2005 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 29 2005 [     25 02] .. 
+-r-xr-xr-x   1    0    0   23836672 Oct 14 2005 [  23872 00] 20A.PMF 
+-r-xr-xr-x   1    0    0      10262 Oct 20 2005 [  35520 00] 20A.TXT 
+-r-xr-xr-x   1    0    0    5193728 Oct 14 2005 [  35536 00] 20C.PMF 
+-r-xr-xr-x   1    0    0          0 Oct 17 2005 [  38080 00] 20C.TXT 
+-r-xr-xr-x   1    0    0   11380736 Nov  3 2005 [  38096 00] CREDITS.PMF 
+-r-xr-xr-x   1    0    0       1629 Oct 21 2005 [  43664 00] CREDITS.TXT 
+-r-xr-xr-x   1    0    0    1132544 Oct 14 2005 [  43680 00] INTRO.PMF 
+-r-xr-xr-x   1    0    0          0 Oct 17 2005 [  44240 00] INTRO.TXT 
+-r-xr-xr-x   1    0    0    4354048 Nov  3 2005 [  44256 00] KTA.PMF 
+-r-xr-xr-x   1    0    0          0 Oct 17 2005 [  46384 00] KTA.TXT 
+-r-xr-xr-x   1    0    0    1325056 Nov  3 2005 [  46400 00] LOAD01B.PMF 
+-r-xr-xr-x   1    0    0          0 Oct 17 2005 [  47056 00] LOAD01B.TXT 
+-r-xr-xr-x   1    0    0    1767424 Nov  3 2005 [  47072 00] LOAD02C.PMF 
+-r-xr-xr-x   1    0    0          0 Oct 17 2005 [  47936 00] LOAD02C.TXT 
+-r-xr-xr-x   1    0    0    1144832 Nov  3 2005 [  47952 00] LOAD03A.PMF 
+-r-xr-xr-x   1    0    0          0 Oct 17 2005 [  48512 00] LOAD03A.TXT 
+-r-xr-xr-x   1    0    0    1400832 Nov  3 2005 [  48528 00] LOAD03B.PMF 
+-r-xr-xr-x   1    0    0          0 Oct 17 2005 [  49216 00] LOAD03B.TXT 
+-r-xr-xr-x   1    0    0    1374208 Nov  3 2005 [  49232 00] LOAD03C.PMF 
+-r-xr-xr-x   1    0    0          0 Oct 17 2005 [  49904 00] LOAD03C.TXT 
+-r-xr-xr-x   1    0    0    1105920 Nov  3 2005 [  49920 00] LOAD03D.PMF 
+-r-xr-xr-x   1    0    0          0 Oct 17 2005 [  50464 00] LOAD03D.TXT 
+-r-xr-xr-x   1    0    0    1466368 Nov  3 2005 [  50480 00] LOAD04A.PMF 
+-r-xr-xr-x   1    0    0          0 Oct 17 2005 [  51200 00] LOAD04A.TXT 
+-r-xr-xr-x   1    0    0    1390592 Nov  3 2005 [  51216 00] LOAD05A.PMF 
+-r-xr-xr-x   1    0    0          0 Oct 17 2005 [  51904 00] LOAD05A.TXT 
+-r-xr-xr-x   1    0    0    1300480 Nov  3 2005 [  51920 00] LOAD05C.PMF 
+-r-xr-xr-x   1    0    0          0 Oct 17 2005 [  52560 00] LOAD05C.TXT 
+-r-xr-xr-x   1    0    0    1146880 Nov  3 2005 [  52576 00] LOAD17C.PMF 
+-r-xr-xr-x   1    0    0          0 Oct 17 2005 [  53136 00] LOAD17C.TXT 
+-r-xr-xr-x   1    0    0      40960 Oct 16 2005 [  53152 00] LOADING.PMF 
+-r-xr-xr-x   1    0    0        469 Oct 16 2005 [  53184 00] LOADING.TXT 
+-r-xr-xr-x   1    0    0    1173504 Oct 14 2005 [  53200 00] LOGOU.PMF 
+-r-xr-xr-x   1    0    0          0 Oct 17 2005 [  53776 00] LOGOU.TXT 
+-r-xr-xr-x   1    0    0     591872 Oct 14 2005 [  53792 00] LOGOW.PMF 
+-r-xr-xr-x   1    0    0          0 Oct 17 2005 [  54096 00] LOGOW.TXT 
+-r-xr-xr-x   1    0    0   22622208 Oct 14 2005 [  54112 00] SACRIF.PMF 
+-r-xr-xr-x   1    0    0       2553 Oct 20 2005 [  65168 00] SACRIF.TXT 
+-r-xr-xr-x   1    0    0   19218432 Nov  3 2005 [  65184 00] VENTURE.PMF 
+-r-xr-xr-x   1    0    0      15703 Oct 20 2005 [  74576 00] VENTURE.TXT 
+=============================================================== 
+Generated on Mon 08/08/2022 at 15:46:38.02 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

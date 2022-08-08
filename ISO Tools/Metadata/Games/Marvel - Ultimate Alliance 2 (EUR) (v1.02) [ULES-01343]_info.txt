@@ -1,0 +1,1305 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Marvel - Ultimate Alliance 2   
+Title ID: ULES-01343 
+Region: EUR  
+Languages: v1.02  
+Volume Creation Date: 2009-09-24 18:47:41 
+Volume Size: 1705 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: MUA2
+Volume set id: MUA2
+Publisher id: ACTIVISION
+Data preparer id: SAVAGE ENTERTAINMENT
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 873328
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Sep 24 2009 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 24 2009 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Apr 17 2008 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Apr 17 2008 [    171 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Apr 17 2008 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 24 2009 [     22 02] .. 
+-r-xr-xr-x   1    0    0      17089 May 28 2009 [  29584 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     442368 Jul 29 2009 [  29600 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 Sep 24 2009 [  29568 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      16208 Jan 29 2009 [  29952 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0     182752 Jan 29 2009 [  29824 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0      58056 Jul 27 2009 [  29920 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 Apr 17 2008 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Apr 17 2008 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Apr 17 2008 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 17 2008 [     23 02] .. 
+-r-xr-xr-x   1    0    0    9090492 Sep 23 2009 [  25120 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    9090832 Sep 24 2009 [    176 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Apr 17 2008 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Apr 17 2008 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 17 2008 [     23 02] .. 
+-r-xr-xr-x   1    0    0      10612 Jun 10 2009 [  29968 00] NEWICON.PNG 
+dr-xr-xr-x   1    0    0       4096 Apr 18 2008 [     27 02] modules 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     29 02] movies 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     30 02] sounds 
+dr-xr-xr-x   1    0    0       2048 Sep 24 2009 [     31 02] z 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Apr 17 2008 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 17 2008 [     24 02] .. 
+-r-xr-xr-x   1    0    0   23221936 Apr 17 2008 [   8736 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5546112 Apr 17 2008 [   4640 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Apr 17 2008 [   4624 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/modules/
+dr-xr-xr-x   1    0    0       4096 Apr 18 2008 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 17 2008 [     25 02] .. 
+-r-xr-xr-x   1    0    0        736 Nov  6 2008 [  96688 00] libadler.prx 
+-r-xr-xr-x   1    0    0        832 Nov  6 2008 [  97008 00] libbase16.prx 
+-r-xr-xr-x   1    0    0       1216 Nov  6 2008 [  97024 00] libbase32.prx 
+-r-xr-xr-x   1    0    0       1120 Nov  6 2008 [  96704 00] libbase64.prx 
+-r-xr-xr-x   1    0    0       3024 Nov  6 2008 [  96720 00] libccc.prx 
+-r-xr-xr-x   1    0    0       3984 Nov  6 2008 [  96736 00] libdeflt.prx 
+-r-xr-xr-x   1    0    0      20736 Nov  6 2008 [  96752 00] libfont.prx 
+-r-xr-xr-x   1    0    0       3456 Nov  6 2008 [  96768 00] libfpu.prx 
+-r-xr-xr-x   1    0    0       4400 Nov  6 2008 [  96784 00] libheap.prx 
+-r-xr-xr-x   1    0    0       2000 Nov  6 2008 [  96800 00] libmd5.prx 
+-r-xr-xr-x   1    0    0        960 Nov  6 2008 [  96816 00] libmt19937.prx 
+-r-xr-xr-x   1    0    0      32128 Nov  6 2008 [  96832 00] libpsmfplayer.prx 
+-r-xr-xr-x   1    0    0       1792 Nov  6 2008 [  97040 00] libpuny.prx 
+-r-xr-xr-x   1    0    0       1552 Nov  6 2008 [  96848 00] libqpcode.prx 
+-r-xr-xr-x   1    0    0       1856 Nov  6 2008 [  97120 00] libsfmt11213.prx 
+-r-xr-xr-x   1    0    0       1824 Nov  6 2008 [  97072 00] libsfmt1279.prx 
+-r-xr-xr-x   1    0    0       1856 Nov  6 2008 [  97184 00] libsfmt132049.prx 
+-r-xr-xr-x   1    0    0       1856 Nov  6 2008 [  97136 00] libsfmt19937.prx 
+-r-xr-xr-x   1    0    0       1872 Nov  6 2008 [  96976 00] libsfmt216091.prx 
+-r-xr-xr-x   1    0    0       1840 Nov  6 2008 [  97088 00] libsfmt2281.prx 
+-r-xr-xr-x   1    0    0       1840 Nov  6 2008 [  97104 00] libsfmt4253.prx 
+-r-xr-xr-x   1    0    0       1856 Nov  6 2008 [  97152 00] libsfmt44497.prx 
+-r-xr-xr-x   1    0    0       1824 Nov  6 2008 [  97056 00] libsfmt607.prx 
+-r-xr-xr-x   1    0    0       1840 Nov  6 2008 [  97168 00] libsfmt86243.prx 
+-r-xr-xr-x   1    0    0       2192 Nov  6 2008 [  96992 00] libsha0.prx 
+-r-xr-xr-x   1    0    0       2208 Nov  6 2008 [  96864 00] libsha1.prx 
+-r-xr-xr-x   1    0    0       2544 Nov  6 2008 [  96880 00] libsha224.prx 
+-r-xr-xr-x   1    0    0       2544 Nov  6 2008 [  96896 00] libsha256.prx 
+-r-xr-xr-x   1    0    0       4272 Nov  6 2008 [  96912 00] libsha384.prx 
+-r-xr-xr-x   1    0    0       4272 Nov  6 2008 [  96928 00] libsha512.prx 
+-r-xr-xr-x   1    0    0       6800 Nov  6 2008 [  96944 00] psmf.prx 
+-r-xr-xr-x   1    0    0       1872 Nov  6 2008 [  96960 00] pspnet_ap_dialog_dummy.prx 
+-r-xr-xr-x   1    0    0      28560 Nov  6 2008 [  97200 00] scan.prx 
+-r-xr-xr-x   1    0    0      26432 Nov  6 2008 [  97216 00] show_macaddr.prx 
+
+Directory listing of /PSP_GAME/USRDIR/movies/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 17 2008 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     32 02] ntsc 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 17 2008 [     25 02] .. 
+-r-xr-xr-x   1    0    0       2464 Aug 21 2008 [  97232 00] badaudio.vag 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     33 02] eng 
+
+Directory listing of /PSP_GAME/USRDIR/z/
+dr-xr-xr-x   1    0    0       2048 Sep 24 2009 [     31 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 17 2008 [     25 02] .. 
+-r-xr-xr-x   1    0    0  136562031 Sep 24 2009 [  29984 00] assetsfb.wad 
+-r-xr-xr-x   1    0    0      32768 Nov  7 2007 [  96672 00] zzzz.zzz 
+
+Directory listing of /PSP_GAME/USRDIR/movies/ntsc/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     32 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     29 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     34 02] eng 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     33 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     30 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     35 02] L 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     36 02] a 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     37 02] b 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     38 02] c 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     39 02] d 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     40 02] e 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     41 02] f 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     42 02] g 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     43 02] h 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     44 02] i 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     45 02] j 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     46 02] k 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     47 02] m 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     48 02] n 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     49 02] o 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     50 02] p 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     51 02] q 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     52 02] r 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     53 02] s 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     54 02] t 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     55 02] u 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     56 02] v 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     57 02] w 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     58 02] x 
+
+Directory listing of /PSP_GAME/USRDIR/movies/ntsc/eng/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     34 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     32 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     59 02] b 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     60 02] c 
+dr-xr-xr-x   1    0    0       2048 Aug  5 2009 [     61 02] e 
+dr-xr-xr-x   1    0    0       2048 Aug  5 2009 [     62 02] i 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     63 02] p 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/L/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     35 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     33 02] .. 
+dr-xr-xr-x   1    0    0       2048 Aug  3 2009 [     64 02] a 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     65 02] c 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     66 02] i 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     67 02] t 
+dr-xr-xr-x   1    0    0       2048 Aug  4 2009 [     68 02] u 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/a/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     36 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     33 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     69 02] b 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     70 02] s 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/b/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     37 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     33 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     71 02] e 
+dr-xr-xr-x   1    0    0       2048 Aug  4 2009 [     72 02] l 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     73 02] o 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     74 02] p 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     75 02] w 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/c/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     38 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     33 02] .. 
+dr-xr-xr-x   1    0    0       2048 Aug  4 2009 [     76 02] a 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     77 02] d 
+dr-xr-xr-x   1    0    0       2048 Aug  3 2009 [     78 02] h 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     79 02] k 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     80 02] l 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     81 02] m 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     82 02] s 
+dr-xr-xr-x   1    0    0       2048 Aug  4 2009 [     83 02] y 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/d/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     39 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     33 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     84 02] a 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     85 02] b 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     86 02] c 
+-r-xr-xr-x   1    0    0      81232 Dec  4 2008 [ 209744 00] dbstat_m.zsM 
+dr-xr-xr-x   1    0    0       2048 Aug  4 2009 [     87 02] d 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     88 02] g 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     89 02] i 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     90 02] m 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     91 02] o 
+dr-xr-xr-x   1    0    0       2048 Aug  4 2009 [     92 02] p 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     93 02] r 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     94 02] s 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/e/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     40 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     33 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     95 02] l 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/f/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     41 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     33 02] .. 
+dr-xr-xr-x   1    0    0       2048 Aug  3 2009 [     96 02] b 
+dr-xr-xr-x   1    0    0       2048 Aug  4 2009 [     97 02] u 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/g/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     42 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     33 02] .. 
+dr-xr-xr-x   1    0    0       2048 Aug  4 2009 [     98 02] a 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     99 02] c 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    100 02] g 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    101 02] h 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    102 02] i 
+dr-xr-xr-x   1    0    0       2048 Aug  4 2009 [    103 02] o 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    104 02] r 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/h/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     43 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     33 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    105 02] e 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    106 02] t 
+dr-xr-xr-x   1    0    0       2048 Aug  4 2009 [    107 02] u 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    108 02] w 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/i/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     44 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     33 02] .. 
+dr-xr-xr-x   1    0    0       2048 Aug  4 2009 [    109 02] c 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    110 02] m 
+dr-xr-xr-x   1    0    0       2048 Aug  4 2009 [    111 02] n 
+dr-xr-xr-x   1    0    0       2048 Aug  4 2009 [    112 02] r 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    113 02] w 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/j/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     45 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     33 02] .. 
+dr-xr-xr-x   1    0    0       2048 Aug  4 2009 [    114 02] e 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/k/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     46 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     33 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    115 02] m 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    116 02] u 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/m/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     47 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     33 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    117 02] e 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    118 02] g 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    119 02] l 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    120 02] m 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    121 02] n 
+dr-xr-xr-x   1    0    0       2048 Aug  4 2009 [    122 02] r 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    123 02] y 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/n/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     48 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     33 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    124 02] a 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    125 02] b 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    126 02] d 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    127 02] e 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    128 02] s 
+dr-xr-xr-x   1    0    0       2048 Aug  3 2009 [    129 02] y 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/o/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     49 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     33 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    130 02] m 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/p/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     50 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     33 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    131 02] a 
+dr-xr-xr-x   1    0    0       2048 Aug  3 2009 [    132 02] b 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    133 02] d 
+dr-xr-xr-x   1    0    0       2048 Aug  4 2009 [    134 02] e 
+dr-xr-xr-x   1    0    0       2048 Aug  4 2009 [    135 02] s 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/q/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     51 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     33 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    136 02] k 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/r/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     52 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     33 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    137 02] a 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    138 02] b 
+dr-xr-xr-x   1    0    0       2048 Aug  3 2009 [    139 02] e 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    140 02] h 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    141 02] m 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    142 02] o 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    143 02] s 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/s/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     53 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     33 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    144 02] c 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    145 02] e 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    146 02] h 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    147 02] i 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    148 02] k 
+dr-xr-xr-x   1    0    0       2048 Aug  4 2009 [    149 02] o 
+dr-xr-xr-x   1    0    0       2048 Aug  4 2009 [    150 02] p 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    151 02] s 
+dr-xr-xr-x   1    0    0       2048 Aug  4 2009 [    152 02] t 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    153 02] w 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/t/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     54 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     33 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    154 02] b 
+dr-xr-xr-x   1    0    0       2048 Aug  4 2009 [    155 02] h 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    156 02] o 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/u/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     55 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     33 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    157 02] l 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/v/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     56 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     33 02] .. 
+dr-xr-xr-x   1    0    0       2048 Aug  4 2009 [    158 02] e 
+dr-xr-xr-x   1    0    0       2048 Aug  3 2009 [    159 02] i 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/w/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     57 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     33 02] .. 
+dr-xr-xr-x   1    0    0       2048 Aug  4 2009 [    160 02] a 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    161 02] k 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    162 02] n 
+dr-xr-xr-x   1    0    0       2048 Aug  4 2009 [    163 02] o 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/x/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     58 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     33 02] .. 
+dr-xr-xr-x   1    0    0       2048 Aug 22 2009 [    164 02] _ 
+
+Directory listing of /PSP_GAME/USRDIR/movies/ntsc/eng/b/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     59 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     34 02] .. 
+dr-xr-xr-x   1    0    0       2048 Aug  5 2009 [    165 02] r 
+
+Directory listing of /PSP_GAME/USRDIR/movies/ntsc/eng/c/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     60 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     34 02] .. 
+dr-xr-xr-x   1    0    0       2048 Aug  8 2009 [    166 02] r 
+
+Directory listing of /PSP_GAME/USRDIR/movies/ntsc/eng/e/
+dr-xr-xr-x   1    0    0       2048 Aug  5 2009 [     61 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     34 02] .. 
+dr-xr-xr-x   1    0    0       2048 Aug  6 2009 [    167 02] n 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    168 02] t 
+
+Directory listing of /PSP_GAME/USRDIR/movies/ntsc/eng/i/
+dr-xr-xr-x   1    0    0       2048 Aug  5 2009 [     62 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     34 02] .. 
+dr-xr-xr-x   1    0    0       2048 Aug  8 2009 [    169 02] 1 
+
+Directory listing of /PSP_GAME/USRDIR/movies/ntsc/eng/p/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     63 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     34 02] .. 
+dr-xr-xr-x   1    0    0       2048 Aug  1 2009 [    170 02] r 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/L/a/
+dr-xr-xr-x   1    0    0       2048 Aug  3 2009 [     64 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     35 02] .. 
+-r-xr-xr-x   1    0    0    1548512 Nov 18 2008 [ 352880 00] lat1_c.zsS 
+-r-xr-xr-x   1    0    0     142800 Aug  3 2009 [ 353648 00] lat1_m.zsM 
+-r-xr-xr-x   1    0    0    2697136 Aug  3 2009 [ 353728 00] lat1_v.zsS 
+-r-xr-xr-x   1    0    0    1548512 Nov 18 2008 [ 355056 00] lat2_c.zsS 
+-r-xr-xr-x   1    0    0     178256 Aug  3 2009 [ 355824 00] lat2_m.zsM 
+-r-xr-xr-x   1    0    0    2535216 Aug  3 2009 [ 355920 00] lat2_v.zsS 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/L/c/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     65 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     35 02] .. 
+-r-xr-xr-x   1    0    0      44784 Jan 16 2009 [ 357168 00] lcage_m.zsM 
+-r-xr-xr-x   1    0    0      38144 Jan 16 2009 [ 357200 00] lcage_v.zsS 
+-r-xr-xr-x   1    0    0     391568 Aug 21 2008 [ 357232 00] lcsim_m.zsm 
+-r-xr-xr-x   1    0    0    7436976 Aug 21 2008 [ 357424 00] lcsim_v.zss 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/L/i/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     66 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     35 02] .. 
+-r-xr-xr-x   1    0    0      19920 Jan 31 2009 [ 361056 00] lizard_m.zsM 
+-r-xr-xr-x   1    0    0      78432 Jan 16 2009 [ 361072 00] lizard_v.zsS 
+-r-xr-xr-x   1    0    0     520176 Aug 21 2008 [ 361120 00] lizsim_m.zsm 
+-r-xr-xr-x   1    0    0    7228336 Aug 21 2008 [ 361376 00] lizsim_v.zss 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/L/t/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     67 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     35 02] .. 
+-r-xr-xr-x   1    0    0     133840 Mar 11 2009 [ 364912 00] ltsldr_m.zsM 
+-r-xr-xr-x   1    0    0     243728 Mar 11 2009 [ 364992 00] ltsldr_v.zsS 
+-r-xr-xr-x   1    0    0      52224 Mar 11 2009 [ 365120 00] ltsnpr_m.zsM 
+-r-xr-xr-x   1    0    0      21808 Mar  4 2009 [ 365152 00] ltsnpr_v.zsM 
+-r-xr-xr-x   1    0    0     256144 Mar 11 2009 [ 365168 00] ltsnpr_v.zsS 
+-r-xr-xr-x   1    0    0      58736 Mar 11 2009 [ 365296 00] lttech_m.zsM 
+-r-xr-xr-x   1    0    0     273136 Mar 11 2009 [ 365328 00] lttech_v.zsS 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/L/u/
+dr-xr-xr-x   1    0    0       2048 Aug  4 2009 [     68 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     35 02] .. 
+-r-xr-xr-x   1    0    0     135072 Aug  4 2009 [ 365472 00] lukeca_m.zsm 
+-r-xr-xr-x   1    0    0     752176 Aug  4 2009 [ 365552 00] lukeca_v.zss 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/a/b/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     69 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     36 02] .. 
+-r-xr-xr-x   1    0    0     172720 Jan 16 2009 [  97248 00] absman_m.zsM 
+-r-xr-xr-x   1    0    0      36240 Jan 16 2009 [  97344 00] absman_v.zsS 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/a/s/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     70 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     36 02] .. 
+-r-xr-xr-x   1    0    0     524032 Aug 21 2008 [ 105024 00] Asgrd2_m.zsm 
+-r-xr-xr-x   1    0    0    7524768 Aug 21 2008 [ 105280 00] Asgrd2_v.zss 
+-r-xr-xr-x   1    0    0     511904 Aug 21 2008 [  97376 00] asgrd1_m.zsm 
+-r-xr-xr-x   1    0    0   15110864 Aug 21 2008 [  97632 00] asgrd1_v.zss 
+-r-xr-xr-x   1    0    0     473264 Aug 21 2008 [ 108960 00] asgrd3_m.zsm 
+-r-xr-xr-x   1    0    0   11566544 Aug 21 2008 [ 109200 00] asgrd3_v.zss 
+-r-xr-xr-x   1    0    0     481776 Aug 21 2008 [ 114848 00] asgrd4_m.zsm 
+-r-xr-xr-x   1    0    0    8919216 Aug 21 2008 [ 115088 00] asgrd4_v.zss 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/b/e/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     71 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     37 02] .. 
+-r-xr-xr-x   1    0    0      56032 Mar  3 2009 [ 119456 00] bertha_m.zsM 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/b/l/
+dr-xr-xr-x   1    0    0       2048 Aug  4 2009 [     72 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     37 02] .. 
+-r-xr-xr-x   1    0    0     157600 Aug 21 2008 [ 119488 00] blackp_m.zsm 
+-r-xr-xr-x   1    0    0    1207872 Aug 21 2008 [ 119568 00] blackp_v.zss 
+-r-xr-xr-x   1    0    0     125856 Aug  4 2009 [ 120160 00] blade_m.zsm 
+-r-xr-xr-x   1    0    0     685872 Aug  4 2009 [ 120224 00] blade_v.zss 
+-r-xr-xr-x   1    0    0     223824 Aug 21 2008 [ 120560 00] blsim_m.zsm 
+-r-xr-xr-x   1    0    0    8630592 Aug 21 2008 [ 120672 00] blsim_v.zss 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/b/o/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     73 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     37 02] .. 
+-r-xr-xr-x   1    0    0     597120 Aug 21 2008 [ 124896 00] boss1_m.zsm 
+-r-xr-xr-x   1    0    0   10281600 Aug 21 2008 [ 125200 00] boss1_v.zss 
+-r-xr-xr-x   1    0    0     608480 Aug 21 2008 [ 130224 00] boss2_m.zsm 
+-r-xr-xr-x   1    0    0   11773136 Aug 21 2008 [ 130528 00] boss2_v.zss 
+-r-xr-xr-x   1    0    0     533312 Aug 21 2008 [ 142368 00] boss3_m.zsm 
+-r-xr-xr-x   1    0    0    9472912 Aug 21 2008 [ 142640 00] boss3_v.zss 
+-r-xr-xr-x   1    0    0     645728 Aug 21 2008 [ 136288 00] boss3b_m.zsm 
+-r-xr-xr-x   1    0    0   11787168 Aug 21 2008 [ 136608 00] boss3b_v.zss 
+-r-xr-xr-x   1    0    0     666080 Aug 21 2008 [ 147280 00] boss4_m.zsm 
+-r-xr-xr-x   1    0    0   11460192 Aug 21 2008 [ 147616 00] boss4_v.zss 
+-r-xr-xr-x   1    0    0     540608 Aug 21 2008 [ 153216 00] boss5_m.zsm 
+-r-xr-xr-x   1    0    0   11030336 Aug 21 2008 [ 153488 00] boss5_v.zss 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/b/p/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     74 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     37 02] .. 
+-r-xr-xr-x   1    0    0     313168 Aug 21 2008 [ 158880 00] bpsim_m.zsm 
+-r-xr-xr-x   1    0    0   10131104 Aug 21 2008 [ 159040 00] bpsim_v.zss 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/b/w/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     75 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     37 02] .. 
+-r-xr-xr-x   1    0    0     166000 Aug 21 2008 [ 164000 00] bwidow_m.zsm 
+-r-xr-xr-x   1    0    0    1695216 Aug 21 2008 [ 164096 00] bwidow_v.zss 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/c/a/
+dr-xr-xr-x   1    0    0       2048 Aug  4 2009 [     76 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     38 02] .. 
+-r-xr-xr-x   1    0    0     236176 Aug 21 2008 [ 164928 00] capmvl_m.zsm 
+-r-xr-xr-x   1    0    0    1250048 Aug 21 2008 [ 165056 00] capmvl_v.zss 
+-r-xr-xr-x   1    0    0     132960 Aug  4 2009 [ 165680 00] captam_m.zsm 
+-r-xr-xr-x   1    0    0     751984 Aug  4 2009 [ 165760 00] captam_v.zss 
+-r-xr-xr-x   1    0    0      18096 Feb  6 2009 [ 166128 00] capvbp_m.zsM 
+-r-xr-xr-x   1    0    0     424784 Aug 21 2008 [ 166144 00] casim_m.zsm 
+-r-xr-xr-x   1    0    0   10128352 Aug 21 2008 [ 166352 00] casim_v.zss 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/c/d/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     77 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     38 02] .. 
+-r-xr-xr-x   1    0    0     312288 Aug 21 2008 [ 171312 00] cdsim_m.zsm 
+-r-xr-xr-x   1    0    0    9614720 Aug 21 2008 [ 171472 00] cdsim_v.zss 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/c/h/
+dr-xr-xr-x   1    0    0       2048 Aug  3 2009 [     78 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     38 02] .. 
+-r-xr-xr-x   1    0    0     641360 Aug 21 2008 [ 176176 00] china1_m.zsm 
+-r-xr-xr-x   1    0    0    9024000 Aug 21 2008 [ 176496 00] china1_v.zss 
+-r-xr-xr-x   1    0    0     592032 Aug 21 2008 [ 180912 00] china2_m.zsm 
+-r-xr-xr-x   1    0    0   13501840 Aug 21 2008 [ 181216 00] china2_v.zss 
+-r-xr-xr-x   1    0    0     596016 Aug 21 2008 [ 187824 00] china3_m.zsm 
+-r-xr-xr-x   1    0    0    8232240 Aug 21 2008 [ 188128 00] china3_v.zss 
+-r-xr-xr-x   1    0    0     436704 Aug 21 2008 [ 192160 00] china4_m.zsm 
+-r-xr-xr-x   1    0    0    8592656 Aug 21 2008 [ 192384 00] china4_v.zss 
+-r-xr-xr-x   1    0    0     215072 Aug  3 2009 [ 196592 00] chma1_m.zsM 
+-r-xr-xr-x   1    0    0    2529728 Jul 29 2009 [ 196704 00] chma1_v.zsS 
+-r-xr-xr-x   1    0    0     235472 Aug  3 2009 [ 197952 00] chma2_m.zsM 
+-r-xr-xr-x   1    0    0    2739904 Jul 29 2009 [ 198080 00] chma2_v.zsS 
+-r-xr-xr-x   1    0    0     188112 Aug  3 2009 [ 199424 00] chma3_m.zsM 
+-r-xr-xr-x   1    0    0    2591376 Jul 29 2009 [ 199520 00] chma3_v.zsS 
+-r-xr-xr-x   1    0    0     265856 Aug  3 2009 [ 200800 00] chmp1_m.zsM 
+-r-xr-xr-x   1    0    0    2518128 Aug  3 2009 [ 200944 00] chmp1_v.zsS 
+-r-xr-xr-x   1    0    0     235472 Aug  3 2009 [ 202176 00] chmp2_m.zsM 
+-r-xr-xr-x   1    0    0    2671872 Jul 15 2009 [ 202304 00] chmp2_v.zsS 
+-r-xr-xr-x   1    0    0    2660176 Aug  3 2009 [ 203616 00] chmp3_v.zsS 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/c/k/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     79 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     38 02] .. 
+-r-xr-xr-x   1    0    0      20768 Mar  3 2009 [ 204928 00] ckillr_m.zsM 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/c/l/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     80 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     38 02] .. 
+-r-xr-xr-x   1    0    0      50896 Feb 18 2009 [ 204944 00] cloak_m.zsM 
+-r-xr-xr-x   1    0    0      26704 Jan 16 2009 [ 204976 00] cloak_v.zsS 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/c/m/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     81 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     38 02] .. 
+-r-xr-xr-x   1    0    0      40784 Mar  3 2009 [ 204992 00] cmedic_m.zsM 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/c/s/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     82 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     38 02] .. 
+-r-xr-xr-x   1    0    0      29232 Mar  3 2009 [ 205024 00] csnipr_m.zsM 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/c/y/
+dr-xr-xr-x   1    0    0       2048 Aug  4 2009 [     83 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     38 02] .. 
+-r-xr-xr-x   1    0    0     158240 Aug  4 2009 [ 205040 00] cyke_m.zsM 
+-r-xr-xr-x   1    0    0     747568 Aug  4 2009 [ 205120 00] cyke_v.zsS 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/d/a/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     84 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     39 02] .. 
+-r-xr-xr-x   1    0    0      34000 Jan 16 2009 [ 205488 00] dagger_m.zsM 
+-r-xr-xr-x   1    0    0      31696 Jan 16 2009 [ 205520 00] dagger_v.zsS 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/d/b/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     85 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     39 02] .. 
+-r-xr-xr-x   1    0    0      90208 Mar  3 2009 [ 205536 00] dbstat_m.zsM 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/d/c/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     86 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     39 02] .. 
+-r-xr-xr-x   1    0    0      36688 Feb 20 2009 [ 205584 00] dcable_m.zsM 
+-r-xr-xr-x   1    0    0      68304 Jan 16 2009 [ 205616 00] dcable_v.zsS 
+-r-xr-xr-x   1    0    0      32624 Feb 25 2009 [ 205664 00] dcap_m.zsM 
+-r-xr-xr-x   1    0    0      38480 Feb 25 2009 [ 205680 00] dcap_v.zsS 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/d/d/
+dr-xr-xr-x   1    0    0       2048 Aug  4 2009 [     87 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     39 02] .. 
+-r-xr-xr-x   1    0    0      99680 Aug  4 2009 [ 205712 00] ddevil_m.zsm 
+-r-xr-xr-x   1    0    0     634640 Aug  4 2009 [ 205776 00] ddevil_v.zss 
+-r-xr-xr-x   1    0    0     366160 Aug 21 2008 [ 206096 00] ddsim_m.zsm 
+-r-xr-xr-x   1    0    0    7059728 Aug 21 2008 [ 206288 00] ddsim_v.zss 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/d/g/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     88 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     39 02] .. 
+-r-xr-xr-x   1    0    0      45296 Feb 25 2009 [ 209792 00] dggob_m.zsM 
+-r-xr-xr-x   1    0    0      75376 Feb 25 2009 [ 209824 00] dggob_v.zsS 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/d/i/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     89 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     39 02] .. 
+-r-xr-xr-x   1    0    0      51232 Feb 25 2009 [ 209872 00] diron_m.zsM 
+-r-xr-xr-x   1    0    0      53232 Feb 25 2009 [ 209904 00] diron_v.zsS 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/d/m/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     90 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     39 02] .. 
+-r-xr-xr-x   1    0    0     378000 Aug 21 2008 [ 209936 00] dmsim_m.zsm 
+-r-xr-xr-x   1    0    0   10682544 Aug 21 2008 [ 210128 00] dmsim_v.zss 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/d/o/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     91 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     39 02] .. 
+-r-xr-xr-x   1    0    0     517984 Aug 21 2008 [ 215360 00] doom1_m.zsm 
+-r-xr-xr-x   1    0    0    9309776 Aug 21 2008 [ 215616 00] doom1_v.zss 
+-r-xr-xr-x   1    0    0     588352 Aug 21 2008 [ 220176 00] doom2_m.zsm 
+-r-xr-xr-x   1    0    0   11344672 Aug 21 2008 [ 220464 00] doom2_v.zss 
+-r-xr-xr-x   1    0    0     642704 Aug 21 2008 [ 226016 00] doom3_m.zsm 
+-r-xr-xr-x   1    0    0   13145984 Aug 21 2008 [ 226336 00] doom3_v.zss 
+-r-xr-xr-x   1    0    0     532608 Aug 21 2008 [ 232768 00] doom4_m.zsm 
+-r-xr-xr-x   1    0    0   11828112 Aug 21 2008 [ 233040 00] doom4_v.zss 
+-r-xr-xr-x   1    0    0      81248 Mar 11 2009 [ 238816 00] doombt_m.zsM 
+-r-xr-xr-x   1    0    0      21920 Mar  4 2009 [ 238864 00] doombt_v.zsM 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/d/p/
+dr-xr-xr-x   1    0    0       2048 Aug  4 2009 [     92 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     39 02] .. 
+-r-xr-xr-x   1    0    0      32128 Mar  4 2009 [ 238880 00] doombt_m.zsM 
+-r-xr-xr-x   1    0    0     125536 Aug  4 2009 [ 238896 00] dphero_m.zsm 
+-r-xr-xr-x   1    0    0    1492752 Aug  4 2009 [ 238960 00] dphero_v.zss 
+-r-xr-xr-x   1    0    0     304656 Aug 21 2008 [ 239696 00] dpsim_m.zsm 
+-r-xr-xr-x   1    0    0    9895888 Aug 21 2008 [ 239856 00] dpsim_v.zss 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/d/r/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     93 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     39 02] .. 
+-r-xr-xr-x   1    0    0     194032 Aug 21 2008 [ 244688 00] drsim_m.zsm 
+-r-xr-xr-x   1    0    0    8812688 Aug 21 2008 [ 244784 00] drsim_v.zss 
+-r-xr-xr-x   1    0    0     157232 Aug 21 2008 [ 249088 00] drstr_m.zsm 
+-r-xr-xr-x   1    0    0    1112000 Aug 21 2008 [ 249168 00] drstr_v.zss 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/d/s/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     94 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     39 02] .. 
+-r-xr-xr-x   1    0    0     248112 Aug 21 2008 [ 249712 00] dsfite_m.zsm 
+-r-xr-xr-x   1    0    0    8881792 Aug 21 2008 [ 249840 00] dsfite_v.zss 
+-r-xr-xr-x   1    0    0      42800 Mar 10 2009 [ 254192 00] dsong_m.zsM 
+-r-xr-xr-x   1    0    0      50304 Jan 16 2009 [ 254224 00] dstorm_m.zsM 
+-r-xr-xr-x   1    0    0      46288 Jan 16 2009 [ 254256 00] dstorm_v.zsS 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/e/l/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     95 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     40 02] .. 
+-r-xr-xr-x   1    0    0     142464 Aug 21 2008 [ 254288 00] elekra_m.zsm 
+-r-xr-xr-x   1    0    0    1145552 Aug 21 2008 [ 254368 00] elekra_v.zss 
+-r-xr-xr-x   1    0    0     434384 Aug 21 2008 [ 254928 00] elsim_m.zsm 
+-r-xr-xr-x   1    0    0    5830960 Aug 21 2008 [ 255152 00] elsim_v.zss 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/f/b/
+dr-xr-xr-x   1    0    0       2048 Aug  3 2009 [     96 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     41 02] .. 
+-r-xr-xr-x   1    0    0      98480 Aug  3 2009 [ 258000 00] fb1_m.zsM 
+-r-xr-xr-x   1    0    0    2913232 Jul 29 2009 [ 258064 00] fb1_v.zsS 
+-r-xr-xr-x   1    0    0      81792 Aug  3 2009 [ 259488 00] fb2_m.zsM 
+-r-xr-xr-x   1    0    0    3128688 Aug  3 2009 [ 259536 00] fb2_v.zsS 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/f/u/
+dr-xr-xr-x   1    0    0       2048 Aug  4 2009 [     97 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     41 02] .. 
+-r-xr-xr-x   1    0    0     149024 Aug  4 2009 [ 261072 00] fury_m.zsm 
+-r-xr-xr-x   1    0    0     830096 Aug  4 2009 [ 261152 00] fury_v.zss 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/g/a/
+dr-xr-xr-x   1    0    0       2048 Aug  4 2009 [     98 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     42 02] .. 
+-r-xr-xr-x   1    0    0     102624 Aug  4 2009 [ 261568 00] gambit_m.zsM 
+-r-xr-xr-x   1    0    0     854896 Aug  4 2009 [ 261632 00] gambit_v.zsS 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/g/c/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     99 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     42 02] .. 
+-r-xr-xr-x   1    0    0      36384 Mar  3 2009 [ 262064 00] gcassn_m.zsM 
+-r-xr-xr-x   1    0    0      26176 Mar  3 2009 [ 262096 00] gcbskr_m.zsM 
+-r-xr-xr-x   1    0    0      59952 Mar  3 2009 [ 262112 00] gcshmn_m.zsM 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/g/g/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    100 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     42 02] .. 
+-r-xr-xr-x   1    0    0      95504 Jan 16 2009 [ 262144 00] ggarg_m.zsM 
+-r-xr-xr-x   1    0    0      34880 Jan 16 2009 [ 262192 00] ggarg_v.zsS 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/g/h/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    101 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     42 02] .. 
+-r-xr-xr-x   1    0    0     142000 Aug 21 2008 [ 262224 00] ghost_m.zsm 
+-r-xr-xr-x   1    0    0    1114592 Aug 21 2008 [ 262304 00] ghost_v.zss 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/g/i/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    102 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     42 02] .. 
+-r-xr-xr-x   1    0    0     433792 Aug 21 2008 [ 262864 00] giant1_m.zsm 
+-r-xr-xr-x   1    0    0   11720240 Aug 21 2008 [ 263088 00] giant1_v.zss 
+-r-xr-xr-x   1    0    0     498736 Aug 21 2008 [ 268816 00] giant2_m.zsm 
+-r-xr-xr-x   1    0    0   13547040 Aug 21 2008 [ 269072 00] giant2_v.zss 
+-r-xr-xr-x   1    0    0     647424 Aug 21 2008 [ 275696 00] giant3_m.zsm 
+-r-xr-xr-x   1    0    0    7412832 Aug 21 2008 [ 276016 00] giant3_v.zss 
+-r-xr-xr-x   1    0    0     498848 Aug 21 2008 [ 279648 00] giant4_m.zsm 
+-r-xr-xr-x   1    0    0   13661472 Aug 21 2008 [ 279904 00] giant4_v.zss 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/g/o/
+dr-xr-xr-x   1    0    0       2048 Aug  4 2009 [    103 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     42 02] .. 
+-r-xr-xr-x   1    0    0     161280 Aug  4 2009 [ 286576 00] goblin_m.zsM 
+-r-xr-xr-x   1    0    0    1174864 Aug  4 2009 [ 286656 00] goblin_v.zsS 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/g/r/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    104 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     42 02] .. 
+-r-xr-xr-x   1    0    0     188464 Aug 21 2008 [ 287232 00] grsim_m.zsm 
+-r-xr-xr-x   1    0    0    8221984 Aug 21 2008 [ 287328 00] grsim_v.zss 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/h/e/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    105 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     43 02] .. 
+-r-xr-xr-x   1    0    0     541728 Aug 21 2008 [ 291344 00] heli1_m.zsm 
+-r-xr-xr-x   1    0    0    9957648 Aug 21 2008 [ 291616 00] heli1_v.zss 
+-r-xr-xr-x   1    0    0     670032 Aug 21 2008 [ 296480 00] heli2_m.zsm 
+-r-xr-xr-x   1    0    0   11801424 Aug 21 2008 [ 296816 00] heli2_v.zss 
+-r-xr-xr-x   1    0    0     587216 Aug 21 2008 [ 302592 00] heli3_m.zsm 
+-r-xr-xr-x   1    0    0   13459360 Aug 21 2008 [ 302880 00] heli3_v.zss 
+-r-xr-xr-x   1    0    0     622256 Aug 21 2008 [ 309456 00] heli4_m.zsm 
+-r-xr-xr-x   1    0    0   11915232 Aug 21 2008 [ 309760 00] heli4_v.zss 
+-r-xr-xr-x   1    0    0    1947504 Aug 21 2008 [ 315584 00] heli_v.zss 
+-r-xr-xr-x   1    0    0      65024 Jan 16 2009 [ 316544 00] herc_m.zsM 
+-r-xr-xr-x   1    0    0      46464 Jan 16 2009 [ 316576 00] herc_v.zsS 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/h/t/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    106 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     43 02] .. 
+-r-xr-xr-x   1    0    0     369680 Aug 21 2008 [ 316608 00] htsim_m.zsm 
+-r-xr-xr-x   1    0    0    9603504 Aug 21 2008 [ 316800 00] htsim_v.zss 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/h/u/
+dr-xr-xr-x   1    0    0       2048 Aug  4 2009 [    107 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     43 02] .. 
+-r-xr-xr-x   1    0    0    1123312 Aug  3 2009 [ 321504 00] hub11_v.zsS 
+-r-xr-xr-x   1    0    0    1003568 Jan 31 2009 [ 322064 00] hub12_v.zsS 
+-r-xr-xr-x   1    0    0    1201872 Jul 15 2009 [ 322560 00] hub21_v.zsS 
+-r-xr-xr-x   1    0    0     852448 Aug  3 2009 [ 323152 00] hub22_v.zsS 
+-r-xr-xr-x   1    0    0    1126608 Jul 15 2009 [ 323584 00] hub23_v.zsS 
+-r-xr-xr-x   1    0    0    1156096 Jul 15 2009 [ 324144 00] hub24_v.zsS 
+-r-xr-xr-x   1    0    0     861888 Aug  3 2009 [ 324720 00] hub31_v.zsS 
+-r-xr-xr-x   1    0    0       4352 Aug  3 2009 [ 325152 00] hub32_m.zsM 
+-r-xr-xr-x   1    0    0    1109472 Aug  3 2009 [ 325168 00] hub32_v.zsS 
+-r-xr-xr-x   1    0    0       4352 Aug  3 2009 [ 325712 00] hub33_m.zsM 
+-r-xr-xr-x   1    0    0     833984 Aug  3 2009 [ 325728 00] hub33_v.zsS 
+-r-xr-xr-x   1    0    0     807968 Jan 31 2009 [ 326144 00] hub41_v.zsS 
+-r-xr-xr-x   1    0    0      19616 Nov 20 2008 [ 326544 00] hub42_m.zsM 
+-r-xr-xr-x   1    0    0    1085984 Jan 26 2009 [ 326560 00] hub42_v.zsS 
+-r-xr-xr-x   1    0    0     166240 Aug  4 2009 [ 327104 00] hulk_m.zsM 
+-r-xr-xr-x   1    0    0    1015344 Aug  4 2009 [ 327200 00] hulk_v.zsS 
+-r-xr-xr-x   1    0    0     116784 Aug  4 2009 [ 327696 00] humant_m.zsm 
+-r-xr-xr-x   1    0    0    1167344 Aug  4 2009 [ 327760 00] humant_v.zss 
+-r-xr-xr-x   1    0    0     373456 Aug 21 2008 [ 328336 00] husim_m.zsm 
+-r-xr-xr-x   1    0    0    7053968 Aug 21 2008 [ 328528 00] husim_v.zss 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/h/w/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    108 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     43 02] .. 
+-r-xr-xr-x   1    0    0     184320 Aug 21 2008 [ 331984 00] hwkeye_m.zsm 
+-r-xr-xr-x   1    0    0    1730752 Aug 21 2008 [ 332080 00] hwkeye_v.zss 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/i/c/
+dr-xr-xr-x   1    0    0       2048 Aug  4 2009 [    109 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     44 02] .. 
+-r-xr-xr-x   1    0    0      87632 Aug  4 2009 [ 332928 00] iceman_m.zsm 
+-r-xr-xr-x   1    0    0     842592 Aug  4 2009 [ 332976 00] iceman_v.zss 
+-r-xr-xr-x   1    0    0     202128 Aug 21 2008 [ 333392 00] icsim_m.zsm 
+-r-xr-xr-x   1    0    0    8535616 Aug 21 2008 [ 333504 00] icsim_v.zss 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/i/m/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    110 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     44 02] .. 
+-r-xr-xr-x   1    0    0     349648 Aug 21 2008 [ 337680 00] imsim_m.zsm 
+-r-xr-xr-x   1    0    0    9832448 Aug 21 2008 [ 337856 00] imsim_v.zss 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/i/n/
+dr-xr-xr-x   1    0    0       2048 Aug  4 2009 [    111 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     44 02] .. 
+-r-xr-xr-x   1    0    0     132000 Aug  4 2009 [ 342672 00] invisw_m.zsm 
+-r-xr-xr-x   1    0    0     837568 Aug  4 2009 [ 342752 00] invisw_v.zss 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/i/r/
+dr-xr-xr-x   1    0    0       2048 Aug  4 2009 [    112 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     44 02] .. 
+-r-xr-xr-x   1    0    0      86752 Aug  4 2009 [ 343168 00] iron_m.zsm 
+-r-xr-xr-x   1    0    0    1135408 Aug  4 2009 [ 343216 00] iron_v.zss 
+-r-xr-xr-x   1    0    0      34288 Feb  6 2009 [ 343776 00] irovbp_m.zsM 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/i/w/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    113 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     44 02] .. 
+-r-xr-xr-x   1    0    0     351696 Aug 21 2008 [ 343808 00] iwsim_m.zsm 
+-r-xr-xr-x   1    0    0    8755152 Aug 21 2008 [ 343984 00] iwsim_v.zss 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/j/e/
+dr-xr-xr-x   1    0    0       2048 Aug  4 2009 [    114 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     45 02] .. 
+-r-xr-xr-x   1    0    0      91376 Aug  4 2009 [ 348272 00] jean_m.zsM 
+-r-xr-xr-x   1    0    0     877888 Aug  4 2009 [ 348320 00] jean_v.zsS 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/k/m/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    115 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     46 02] .. 
+-r-xr-xr-x   1    0    0      22064 Nov 21 2008 [ 348752 00] kmikze_m.zsM 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/k/u/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    116 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     46 02] .. 
+-r-xr-xr-x   1    0    0     459136 Aug 21 2008 [ 348768 00] kursim_m.zsm 
+-r-xr-xr-x   1    0    0    7926144 Aug 21 2008 [ 349008 00] kursim_v.zss 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/m/e/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    117 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     47 02] .. 
+-r-xr-xr-x   1    0    0     583888 Aug 21 2008 [ 365920 00] mef1_m.zsm 
+-r-xr-xr-x   1    0    0    8494400 Aug 21 2008 [ 366208 00] mef1_v.zss 
+-r-xr-xr-x   1    0    0     574368 Aug 21 2008 [ 370368 00] mef2_m.zsm 
+-r-xr-xr-x   1    0    0    9841968 Aug 21 2008 [ 370656 00] mef2_v.zss 
+-r-xr-xr-x   1    0    0     514416 Aug 21 2008 [ 375472 00] mef3_m.zsm 
+-r-xr-xr-x   1    0    0   12391888 Aug 21 2008 [ 375728 00] mef3_v.zss 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/m/g/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    118 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     47 02] .. 
+-r-xr-xr-x   1    0    0     174784 Mar 10 2009 [ 381792 00] mgneto_m.zsM 
+-r-xr-xr-x   1    0    0      50672 Jan 16 2009 [ 381888 00] mgneto_v.zsS 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/m/l/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    119 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     47 02] .. 
+-r-xr-xr-x   1    0    0      71264 Mar 11 2009 [ 381920 00] mltman_m.zsM 
+-r-xr-xr-x   1    0    0      58560 Jan 16 2009 [ 381968 00] mltman_v.zsS 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/m/m/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    120 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     47 02] .. 
+-r-xr-xr-x   1    0    0     350224 Aug 21 2008 [ 382000 00] mmsim_m.zsm 
+-r-xr-xr-x   1    0    0   11859200 Aug 21 2008 [ 382176 00] mmsim_v.zss 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/m/n/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    121 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     47 02] .. 
+-r-xr-xr-x   1    0    0      68960 Jan 16 2009 [ 387968 00] mnstn_m.zsM 
+-r-xr-xr-x   1    0    0      33168 Jan 16 2009 [ 388016 00] mnstn_v.zsS 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/m/r/
+dr-xr-xr-x   1    0    0       2048 Aug  4 2009 [    122 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     47 02] .. 
+-r-xr-xr-x   1    0    0     100816 Aug  4 2009 [ 388048 00] mrfan_m.zsm 
+-r-xr-xr-x   1    0    0     676944 Aug  4 2009 [ 388112 00] mrfan_v.zss 
+-r-xr-xr-x   1    0    0     359632 Aug 21 2008 [ 388448 00] mrsim_m.zsm 
+-r-xr-xr-x   1    0    0    9715376 Aug 21 2008 [ 388624 00] mrsim_v.zss 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/m/y/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    123 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     47 02] .. 
+-r-xr-xr-x   1    0    0     343952 Aug 21 2008 [ 393376 00] mysim_m.zsm 
+-r-xr-xr-x   1    0    0    9185344 Aug 21 2008 [ 393552 00] mysim_v.zss 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/n/a/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    124 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     48 02] .. 
+-r-xr-xr-x   1    0    0      32576 Mar  3 2009 [ 398048 00] nanhvy_m.zsM 
+-r-xr-xr-x   1    0    0      14672 Mar  3 2009 [ 398064 00] nanlit_m.zsM 
+-r-xr-xr-x   1    0    0      35984 Mar  3 2009 [ 398080 00] nannkr_m.zsM 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/n/b/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    125 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     48 02] .. 
+-r-xr-xr-x   1    0    0     148128 Mar  4 2009 [ 398112 00] nb1_m.zsM 
+-r-xr-xr-x   1    0    0    1607648 Dec  5 2008 [ 398192 00] nb1_v.zsS 
+-r-xr-xr-x   1    0    0      86320 Nov 12 2008 [ 398992 00] nb2_m.zsM 
+-r-xr-xr-x   1    0    0    2215328 Dec  5 2008 [ 399040 00] nb2_v.zsS 
+-r-xr-xr-x   1    0    0      23984 Mar  3 2009 [ 400128 00] nblstr_m.zsM 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/n/d/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    126 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     48 02] .. 
+-r-xr-xr-x   1    0    0      58560 Jan 16 2009 [ 400144 00] ndroid_m.zsM 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/n/e/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    127 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     48 02] .. 
+-r-xr-xr-x   1    0    0      28800 Mar  3 2009 [ 400176 00] negz_m.zsM 
+-r-xr-xr-x   1    0    0      17936 Jan 27 2009 [ 400192 00] negz_v.zsS 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/n/s/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    128 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     48 02] .. 
+-r-xr-xr-x   1    0    0      26944 Jan 16 2009 [ 400208 00] nscorp_m.zsM 
+-r-xr-xr-x   1    0    0      30080 Feb 25 2009 [ 400224 00] nscorp_v.zsS 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/n/y/
+dr-xr-xr-x   1    0    0       2048 Aug  3 2009 [    129 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     48 02] .. 
+-r-xr-xr-x   1    0    0     363440 Aug  3 2009 [ 400240 00] nyc1_m.zsM 
+-r-xr-xr-x   1    0    0    1516800 Dec  4 2008 [ 400432 00] nyc1_v.zsS 
+-r-xr-xr-x   1    0    0     117120 Aug  3 2009 [ 401184 00] nyc2_m.zsM 
+-r-xr-xr-x   1    0    0    3221008 Jul 15 2009 [ 401248 00] nyc2_v.zsS 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/o/m/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    130 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     49 02] .. 
+-r-xr-xr-x   1    0    0     464256 Aug 21 2008 [ 402832 00] omega1_m.zsm 
+-r-xr-xr-x   1    0    0    8504432 Aug 21 2008 [ 403072 00] omega1_v.zss 
+-r-xr-xr-x   1    0    0     362576 Aug 21 2008 [ 407232 00] omega2_m.zsm 
+-r-xr-xr-x   1    0    0    7458144 Aug 21 2008 [ 407424 00] omega2_v.zss 
+-r-xr-xr-x   1    0    0     535792 Aug 21 2008 [ 411072 00] omega3_m.zsm 
+-r-xr-xr-x   1    0    0    8668272 Aug 21 2008 [ 411344 00] omega3_v.zss 
+-r-xr-xr-x   1    0    0     576384 Aug 21 2008 [ 415584 00] omega4_m.zsm 
+-r-xr-xr-x   1    0    0   11764752 Aug 21 2008 [ 415872 00] omega4_v.zss 
+-r-xr-xr-x   1    0    0     335280 Aug 21 2008 [ 421632 00] omega5_m.zsm 
+-r-xr-xr-x   1    0    0    6235760 Aug 21 2008 [ 421808 00] omega5_v.zss 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/p/a/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    131 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     50 02] .. 
+-r-xr-xr-x   1    0    0     532272 Aug 21 2008 [ 424864 00] paisim_m.zsm 
+-r-xr-xr-x   1    0    0    9581968 Aug 21 2008 [ 425136 00] paisim_v.zss 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/p/b/
+dr-xr-xr-x   1    0    0       2048 Aug  3 2009 [    132 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     50 02] .. 
+-r-xr-xr-x   1    0    0     116160 Aug  3 2009 [ 429824 00] pb1_m.zsM 
+-r-xr-xr-x   1    0    0    2238432 Jul 15 2009 [ 429888 00] pb1_v.zsS 
+-r-xr-xr-x   1    0    0     203552 Aug  3 2009 [ 430992 00] pb2_m.zsM 
+-r-xr-xr-x   1    0    0    2561136 Jul 15 2009 [ 431104 00] pb2_v.zsS 
+-r-xr-xr-x   1    0    0     144496 Aug  3 2009 [ 432368 00] pb3_m.zsM 
+-r-xr-xr-x   1    0    0    2311088 Jul 15 2009 [ 432448 00] pb3_v.zsS 
+-r-xr-xr-x   1    0    0    2582240 Jul 15 2009 [ 433584 00] pb4_v.zsS 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/p/d/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    133 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     50 02] .. 
+-r-xr-xr-x   1    0    0     287360 Aug 21 2008 [ 434848 00] pdsim_m.zsm 
+-r-xr-xr-x   1    0    0    8895072 Aug 21 2008 [ 434992 00] pdsim_v.zss 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/p/e/
+dr-xr-xr-x   1    0    0       2048 Aug  4 2009 [    134 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     50 02] .. 
+-r-xr-xr-x   1    0    0     102704 Aug  4 2009 [ 439344 00] pence_m.zsM 
+-r-xr-xr-x   1    0    0     975472 Aug  4 2009 [ 439408 00] pence_v.zsS 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/p/s/
+dr-xr-xr-x   1    0    0       2048 Aug  4 2009 [    135 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     50 02] .. 
+-r-xr-xr-x   1    0    0     157888 Aug  4 2009 [ 439888 00] psylk_m.zsM 
+-r-xr-xr-x   1    0    0     905904 Aug  4 2009 [ 439968 00] psylk_v.zsS 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/q/k/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    136 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     51 02] .. 
+-r-xr-xr-x   1    0    0      25936 Jan 16 2009 [ 440416 00] qkslvr_m.zsM 
+-r-xr-xr-x   1    0    0      48464 Jan 16 2009 [ 440432 00] qkslvr_v.zsS 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/r/a/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    137 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     52 02] .. 
+-r-xr-xr-x   1    0    0     602352 Aug 21 2008 [ 445456 00] Rain2_m.zsm 
+-r-xr-xr-x   1    0    0   12248544 Aug 21 2008 [ 445760 00] Rain2_v.zss 
+-r-xr-xr-x   1    0    0     513056 Aug 21 2008 [ 440464 00] rain1_m.zsm 
+-r-xr-xr-x   1    0    0    9666736 Aug 21 2008 [ 440720 00] rain1_v.zss 
+-r-xr-xr-x   1    0    0      26576 Jan 16 2009 [ 451744 00] raman_m.zsM 
+-r-xr-xr-x   1    0    0      37104 Jan 16 2009 [ 451760 00] raman_v.zsS 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/r/b/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    138 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     52 02] .. 
+-r-xr-xr-x   1    0    0      71648 Mar  3 2009 [ 451792 00] rbruis_m.zsM 
+-r-xr-xr-x   1    0    0      33568 Mar  4 2009 [ 451840 00] rbruis_v.zsM 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/r/e/
+dr-xr-xr-x   1    0    0       2048 Aug  3 2009 [    139 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     52 02] .. 
+-r-xr-xr-x   1    0    0     240432 Aug  3 2009 [ 451872 00] reba1_m.zsM 
+-r-xr-xr-x   1    0    0    1712672 Aug  3 2009 [ 452000 00] reba1_v.zsS 
+-r-xr-xr-x   1    0    0     178480 Aug  3 2009 [ 452848 00] reba2_m.zsM 
+-r-xr-xr-x   1    0    0    2717680 Aug  3 2009 [ 452944 00] reba2_v.zsS 
+-r-xr-xr-x   1    0    0     227392 Aug  3 2009 [ 454272 00] reba3_m.zsM 
+-r-xr-xr-x   1    0    0    2616272 Jul 29 2009 [ 454384 00] reba3_v.zsS 
+-r-xr-xr-x   1    0    0     270304 Aug  3 2009 [ 455664 00] rebp1_m.zsM 
+-r-xr-xr-x   1    0    0    2423584 Aug  3 2009 [ 455808 00] rebp1_v.zsS 
+-r-xr-xr-x   1    0    0     141104 Aug  3 2009 [ 456992 00] rebp2_m.zsM 
+-r-xr-xr-x   1    0    0    2488640 Aug  3 2009 [ 457072 00] rebp2_v.zsS 
+-r-xr-xr-x   1    0    0     154672 Aug  3 2009 [ 458288 00] rebp3_m.zsM 
+-r-xr-xr-x   1    0    0    2914448 Aug  3 2009 [ 458368 00] rebp3_v.zsS 
+-r-xr-xr-x   1    0    0      58128 Jan 31 2009 [ 459792 00] rebp4_m.zsM 
+-r-xr-xr-x   1    0    0    1564656 Aug  3 2009 [ 459824 00] rebp4_v.zsS 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/r/h/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    140 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     52 02] .. 
+-r-xr-xr-x   1    0    0      41776 Mar  3 2009 [ 460592 00] rhealr_m.zsM 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/r/m/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    141 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     52 02] .. 
+-r-xr-xr-x   1    0    0      14976 Mar  3 2009 [ 460624 00] rmfire_m.zsM 
+-r-xr-xr-x   1    0    0      32624 Mar  3 2009 [ 460640 00] rmice_m.zsM 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/r/o/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    142 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     52 02] .. 
+-r-xr-xr-x   1    0    0     192976 Aug 21 2008 [ 460656 00] ronin_m.zsm 
+-r-xr-xr-x   1    0    0    1235120 Aug 21 2008 [ 460752 00] ronin_v.zss 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/r/s/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    143 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     52 02] .. 
+-r-xr-xr-x   1    0    0      47616 Mar  3 2009 [ 461360 00] rscrap_m.zsM 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/s/c/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    144 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     53 02] .. 
+-r-xr-xr-x   1    0    0      63536 Jan 16 2009 [ 461392 00] scrchr_m.zsM 
+-r-xr-xr-x   1    0    0      41168 Jan 31 2009 [ 461424 00] scrchr_v.zsS 
+-r-xr-xr-x   1    0    0     359216 Aug 21 2008 [ 461456 00] scsim_m.zsm 
+-r-xr-xr-x   1    0    0   11600928 Aug 21 2008 [ 461632 00] scsim_v.zss 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/s/e/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    145 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     53 02] .. 
+-r-xr-xr-x   1    0    0     541248 Aug 21 2008 [ 467312 00] sea1_m.zsm 
+-r-xr-xr-x   1    0    0   16367792 Aug 21 2008 [ 467584 00] sea1_v.zss 
+-r-xr-xr-x   1    0    0     563808 Aug 21 2008 [ 475584 00] sea2_m.zsm 
+-r-xr-xr-x   1    0    0   10701360 Aug 21 2008 [ 475872 00] sea2_v.zss 
+-r-xr-xr-x   1    0    0     549520 Aug 21 2008 [ 481104 00] sea3_m.zsm 
+-r-xr-xr-x   1    0    0    8267888 Aug 21 2008 [ 481376 00] sea3_v.zss 
+-r-xr-xr-x   1    0    0     635744 Aug 21 2008 [ 485424 00] sea4_m.zsm 
+-r-xr-xr-x   1    0    0   12531744 Aug 21 2008 [ 485744 00] sea4_v.zss 
+-r-xr-xr-x   1    0    0     587088 Aug 21 2008 [ 491872 00] sea5_m.zsm 
+-r-xr-xr-x   1    0    0   12119008 Aug 21 2008 [ 492160 00] sea5_v.zss 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/s/h/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    146 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     53 02] .. 
+-r-xr-xr-x   1    0    0     656432 Aug 21 2008 [ 498080 00] shiar1_m.zsm 
+-r-xr-xr-x   1    0    0    8349168 Aug 21 2008 [ 498416 00] shiar1_v.zss 
+-r-xr-xr-x   1    0    0     590816 Aug 21 2008 [ 502496 00] shiar2_m.zsm 
+-r-xr-xr-x   1    0    0   10100864 Aug 21 2008 [ 502800 00] shiar2_v.zss 
+-r-xr-xr-x   1    0    0     493920 Aug 21 2008 [ 507744 00] shiar3_m.zsm 
+-r-xr-xr-x   1    0    0   10841680 Aug 21 2008 [ 508000 00] shiar3_v.zss 
+-r-xr-xr-x   1    0    0     459456 Aug 21 2008 [ 513296 00] shiar4_m.zsm 
+-r-xr-xr-x   1    0    0   12564096 Aug 21 2008 [ 513536 00] shiar4_v.zss 
+-r-xr-xr-x   1    0    0     558848 Aug 21 2008 [ 519680 00] shiar5_m.zsm 
+-r-xr-xr-x   1    0    0    8818992 Aug 21 2008 [ 519968 00] shiar5_v.zss 
+-r-xr-xr-x   1    0    0      22576 Dec  9 2008 [ 524288 00] shield_m.zsM 
+-r-xr-xr-x   1    0    0      44944 Mar  4 2009 [ 524304 00] shield_v.zsM 
+-r-xr-xr-x   1    0    0     349648 Aug 21 2008 [ 524336 00] shsim_m.zsm 
+-r-xr-xr-x   1    0    0    7754528 Aug 21 2008 [ 524512 00] shsim_v.zss 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/s/i/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    147 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     53 02] .. 
+-r-xr-xr-x   1    0    0     155056 Aug 21 2008 [ 528304 00] silver_m.zsm 
+-r-xr-xr-x   1    0    0    1238800 Aug 21 2008 [ 528384 00] silver_v.zss 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/s/k/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    148 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     53 02] .. 
+-r-xr-xr-x   1    0    0     587776 Aug 21 2008 [ 528992 00] skrul1_m.zsm 
+-r-xr-xr-x   1    0    0   10157808 Aug 21 2008 [ 529280 00] skrul1_v.zss 
+-r-xr-xr-x   1    0    0     512208 Aug 21 2008 [ 534240 00] skrul2_m.zsm 
+-r-xr-xr-x   1    0    0   10225456 Aug 21 2008 [ 534496 00] skrul2_v.zss 
+-r-xr-xr-x   1    0    0     533632 Aug 21 2008 [ 539504 00] skrul3_m.zsm 
+-r-xr-xr-x   1    0    0   10415344 Aug 21 2008 [ 539776 00] skrul3_v.zss 
+-r-xr-xr-x   1    0    0     492320 Aug 21 2008 [ 544864 00] skrul4_m.zsm 
+-r-xr-xr-x   1    0    0   13366512 Aug 21 2008 [ 545120 00] skrul4_v.zss 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/s/o/
+dr-xr-xr-x   1    0    0       2048 Aug  4 2009 [    149 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     53 02] .. 
+-r-xr-xr-x   1    0    0     346496 Aug  4 2009 [ 551648 00] song_m.zsM 
+-r-xr-xr-x   1    0    0     597728 Jun 26 2009 [ 551824 00] song_v.zsS 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/s/p/
+dr-xr-xr-x   1    0    0       2048 Aug  4 2009 [    150 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     53 02] .. 
+-r-xr-xr-x   1    0    0     109104 Aug  4 2009 [ 552128 00] spider_m.zsm 
+-r-xr-xr-x   1    0    0     851840 Aug  4 2009 [ 552192 00] spider_v.zss 
+-r-xr-xr-x   1    0    0     143824 Aug 21 2008 [ 552608 00] spidwm_m.zsm 
+-r-xr-xr-x   1    0    0    1172816 Aug 21 2008 [ 552688 00] spidwm_v.zss 
+-r-xr-xr-x   1    0    0     366768 Aug 21 2008 [ 553264 00] spsim_m.zsm 
+-r-xr-xr-x   1    0    0    8573408 Aug 21 2008 [ 553456 00] spsim_v.zss 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/s/s/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    151 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     53 02] .. 
+-r-xr-xr-x   1    0    0     527856 Aug 21 2008 [ 557648 00] ssksim_m.zsm 
+-r-xr-xr-x   1    0    0    9564912 Aug 21 2008 [ 557920 00] ssksim_v.zss 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/s/t/
+dr-xr-xr-x   1    0    0       2048 Aug  4 2009 [    152 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     53 02] .. 
+-r-xr-xr-x   1    0    0     314480 Aug  3 2009 [ 562592 00] stc1_m.zsM 
+-r-xr-xr-x   1    0    0    2460752 Aug  3 2009 [ 562752 00] stc1_v.zsS 
+-r-xr-xr-x   1    0    0     240560 Aug  3 2009 [ 563968 00] stc2_m.zsM 
+-r-xr-xr-x   1    0    0    2471008 Jul 15 2009 [ 564096 00] stc2_v.zsS 
+-r-xr-xr-x   1    0    0     405760 Aug  3 2009 [ 565312 00] stc3_m.zsM 
+-r-xr-xr-x   1    0    0    2524544 Aug  3 2009 [ 565520 00] stc3_v.zsS 
+-r-xr-xr-x   1    0    0     117856 Aug  4 2009 [ 566768 00] storm_m.zsm 
+-r-xr-xr-x   1    0    0    1351760 Aug  4 2009 [ 566832 00] storm_v.zss 
+-r-xr-xr-x   1    0    0     297456 Aug 21 2008 [ 567504 00] stsim_m.zsm 
+-r-xr-xr-x   1    0    0    7766112 Aug 21 2008 [ 567664 00] stsim_v.zss 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/s/w/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    153 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     53 02] .. 
+-r-xr-xr-x   1    0    0     349648 Aug 21 2008 [ 571472 00] swsim_m.zsm 
+-r-xr-xr-x   1    0    0    7967600 Aug 21 2008 [ 571648 00] swsim_v.zss 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/t/b/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    154 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     54 02] .. 
+-r-xr-xr-x   1    0    0     505408 Aug 21 2008 [ 575552 00] tbsim_m.zsm 
+-r-xr-xr-x   1    0    0    7892000 Aug 21 2008 [ 575808 00] tbsim_v.zss 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/t/h/
+dr-xr-xr-x   1    0    0       2048 Aug  4 2009 [    155 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     54 02] .. 
+-r-xr-xr-x   1    0    0     135872 Aug  4 2009 [ 579664 00] thing_m.zsm 
+-r-xr-xr-x   1    0    0     939344 Aug  4 2009 [ 579744 00] thing_v.zss 
+-r-xr-xr-x   1    0    0     380304 Aug 21 2008 [ 580208 00] thisim_m.zsm 
+-r-xr-xr-x   1    0    0    7220176 Aug 21 2008 [ 580400 00] thisim_v.zss 
+-r-xr-xr-x   1    0    0     121584 Aug  4 2009 [ 583936 00] thor_m.zsm 
+-r-xr-xr-x   1    0    0    1463344 Aug  4 2009 [ 584000 00] thor_v.zss 
+-r-xr-xr-x   1    0    0     289568 Aug 21 2008 [ 584720 00] thosim_m.zsm 
+-r-xr-xr-x   1    0    0    8835680 Aug 21 2008 [ 584864 00] thosim_v.zss 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/t/o/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    156 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     54 02] .. 
+-r-xr-xr-x   1    0    0     587600 Aug 21 2008 [ 669936 00] Toy2_m.zsm 
+-r-xr-xr-x   1    0    0   11248000 Aug 21 2008 [ 670224 00] Toy2_v.zss 
+-r-xr-xr-x   1    0    0     108816 Aug 21 2008 [ 589184 00] town1B_m.zsm 
+-r-xr-xr-x   1    0    0   15091536 Aug 21 2008 [ 589248 00] town1B_v.zss 
+-r-xr-xr-x   1    0    0     143712 Aug 21 2008 [ 596624 00] town1_m.zsm 
+-r-xr-xr-x   1    0    0   18637840 Aug 21 2008 [ 596704 00] town1_v.zss 
+-r-xr-xr-x   1    0    0      73408 Aug 21 2008 [ 605808 00] town2B_m.zsm 
+-r-xr-xr-x   1    0    0   15582240 Aug 21 2008 [ 605856 00] town2B_v.zss 
+-r-xr-xr-x   1    0    0     128560 Aug 21 2008 [ 613472 00] town2_m.zsm 
+-r-xr-xr-x   1    0    0   18831648 Aug 21 2008 [ 613536 00] town2_v.zss 
+-r-xr-xr-x   1    0    0     230720 Aug 21 2008 [ 622736 00] town3B_m.zsm 
+-r-xr-xr-x   1    0    0   18038848 Aug 21 2008 [ 622864 00] town3B_v.zss 
+-r-xr-xr-x   1    0    0     382704 Aug 21 2008 [ 631680 00] town3_m.zsm 
+-r-xr-xr-x   1    0    0   16334096 Aug 21 2008 [ 631872 00] town3_v.zss 
+-r-xr-xr-x   1    0    0      93744 Aug 21 2008 [ 639856 00] town4B_m.zsm 
+-r-xr-xr-x   1    0    0   16009120 Aug 21 2008 [ 639904 00] town4B_v.zss 
+-r-xr-xr-x   1    0    0     119024 Aug 21 2008 [ 647728 00] town4_m.zsm 
+-r-xr-xr-x   1    0    0   19837136 Aug 21 2008 [ 647792 00] town4_v.zss 
+-r-xr-xr-x   1    0    0     240496 Aug 21 2008 [ 662704 00] town5_m.zsm 
+-r-xr-xr-x   1    0    0    4417680 Aug 21 2008 [ 662832 00] town5_v.zss 
+-r-xr-xr-x   1    0    0      95648 Aug 21 2008 [ 657488 00] town5b_m.zsm 
+-r-xr-xr-x   1    0    0   10569808 Aug 21 2008 [ 657536 00] town5b_v.zss 
+-r-xr-xr-x   1    0    0     561504 Aug 21 2008 [ 664992 00] toy1_m.zsm 
+-r-xr-xr-x   1    0    0    9530848 Aug 21 2008 [ 665280 00] toy1_v.zss 
+-r-xr-xr-x   1    0    0     426064 Aug 21 2008 [ 675728 00] toy3_m.zsm 
+-r-xr-xr-x   1    0    0    8389552 Aug 21 2008 [ 675952 00] toy3_v.zss 
+-r-xr-xr-x   1    0    0     544976 Aug 21 2008 [ 680064 00] toy4_m.zsm 
+-r-xr-xr-x   1    0    0    7575808 Aug 21 2008 [ 680336 00] toy4_v.zss 
+-r-xr-xr-x   1    0    0     652800 Aug 21 2008 [ 684048 00] toy5_m.zsm 
+-r-xr-xr-x   1    0    0   10481952 Aug 21 2008 [ 684368 00] toy5_v.zss 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/u/l/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    157 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     55 02] .. 
+-r-xr-xr-x   1    0    0     258288 Aug 21 2008 [ 689488 00] ulisim_m.zsm 
+-r-xr-xr-x   1    0    0    8370016 Aug 21 2008 [ 689616 00] ulisim_v.zss 
+-r-xr-xr-x   1    0    0     357824 Aug 21 2008 [ 693712 00] ultsim_m.zsm 
+-r-xr-xr-x   1    0    0    6435792 Aug 21 2008 [ 693888 00] ultsim_v.zss 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/v/e/
+dr-xr-xr-x   1    0    0       2048 Aug  4 2009 [    158 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     56 02] .. 
+-r-xr-xr-x   1    0    0     109648 Aug  4 2009 [ 697040 00] venom_m.zsM 
+-r-xr-xr-x   1    0    0    1130528 Aug  4 2009 [ 697104 00] venom_v.zsS 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/v/i/
+dr-xr-xr-x   1    0    0       2048 Aug  3 2009 [    159 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     56 02] .. 
+-r-xr-xr-x   1    0    0    1961600 Jan  4 2009 [ 697664 00] pb2_v.zsS 
+-r-xr-xr-x   1    0    0     226416 Aug  3 2009 [ 698624 00] vil1a_m.zsM 
+-r-xr-xr-x   1    0    0    2470640 Aug  3 2009 [ 698736 00] vil1a_v.zsS 
+-r-xr-xr-x   1    0    0     212336 Aug  3 2009 [ 699952 00] vil1b_m.zsM 
+-r-xr-xr-x   1    0    0    2633200 Jul 15 2009 [ 700064 00] vil1b_v.zsS 
+-r-xr-xr-x   1    0    0     142688 Aug  3 2009 [ 701360 00] vil2a_m.zsM 
+-r-xr-xr-x   1    0    0    2390672 Jul 15 2009 [ 701440 00] vil2a_v.zsS 
+-r-xr-xr-x   1    0    0     115920 Aug  3 2009 [ 702608 00] vil2b_m.zsM 
+-r-xr-xr-x   1    0    0    2201200 Jul 15 2009 [ 702672 00] vil2b_v.zsS 
+-r-xr-xr-x   1    0    0      87296 Jan 31 2009 [ 703760 00] vil2c_m.zsM 
+-r-xr-xr-x   1    0    0    2113200 Feb  7 2009 [ 703808 00] vil2c_v.zsS 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/w/a/
+dr-xr-xr-x   1    0    0       2048 Aug  4 2009 [    160 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     57 02] .. 
+-r-xr-xr-x   1    0    0     298208 Aug  3 2009 [ 704848 00] wak1_m.zsM 
+-r-xr-xr-x   1    0    0    2631568 Jul 15 2009 [ 705008 00] wak1_v.zsS 
+-r-xr-xr-x   1    0    0     344528 Aug  3 2009 [ 706304 00] wak2_m.zsM 
+-r-xr-xr-x   1    0    0    3224208 Aug  3 2009 [ 706480 00] wak2_v.zsS 
+-r-xr-xr-x   1    0    0      83552 Aug  4 2009 [ 708064 00] warbir_m.zsm 
+-r-xr-xr-x   1    0    0     913808 Aug  4 2009 [ 708112 00] warbir_v.zss 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/w/k/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    161 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     57 02] .. 
+-r-xr-xr-x   1    0    0      48288 Mar  3 2009 [ 708560 00] wkfmle_m.zsM 
+-r-xr-xr-x   1    0    0      16128 Mar  3 2009 [ 708592 00] wkgrd_m.zsM 
+-r-xr-xr-x   1    0    0      44240 Mar  3 2009 [ 708608 00] wkmale_m.zsM 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/w/n/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    162 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     57 02] .. 
+-r-xr-xr-x   1    0    0     143520 Jan 16 2009 [ 708640 00] wndman_m.zsM 
+-r-xr-xr-x   1    0    0      50032 Jan 16 2009 [ 708720 00] wndman_v.zsS 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/w/o/
+dr-xr-xr-x   1    0    0       2048 Aug  4 2009 [    163 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     57 02] .. 
+-r-xr-xr-x   1    0    0     120192 Aug  4 2009 [ 708752 00] wolv_m.zsm 
+-r-xr-xr-x   1    0    0     877232 Aug  4 2009 [ 708816 00] wolv_v.zss 
+-r-xr-xr-x   1    0    0     404048 Aug 21 2008 [ 709248 00] wosim_m.zsm 
+-r-xr-xr-x   1    0    0    7554576 Aug 21 2008 [ 709456 00] wosim_v.zss 
+
+Directory listing of /PSP_GAME/USRDIR/sounds/eng/x/_/
+dr-xr-xr-x   1    0    0       2048 Aug 22 2009 [    164 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     58 02] .. 
+-r-xr-xr-x   1    0    0     505664 Aug 22 2009 [ 713152 00] x_common.zsm 
+-r-xr-xr-x   1    0    0    3481440 Aug 22 2009 [ 713408 00] x_voice.zss 
+
+Directory listing of /PSP_GAME/USRDIR/movies/ntsc/eng/b/r/
+dr-xr-xr-x   1    0    0       2048 Aug  5 2009 [    165 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     59 02] .. 
+-r-xr-xr-x   1    0    0    3026944 Jul 17 2009 [ 715120 00] brf01.pmf 
+-r-xr-xr-x   1    0    0    6348800 Jul 29 2009 [ 716608 00] brf02.pmf 
+-r-xr-xr-x   1    0    0    5734400 Jul 16 2009 [ 719712 00] brf03.pmf 
+-r-xr-xr-x   1    0    0    2484224 Jun  8 2009 [ 722512 00] brf04.pmf 
+-r-xr-xr-x   1    0    0    3522560 Jun  8 2009 [ 723728 00] brf05.pmf 
+-r-xr-xr-x   1    0    0    8638464 Jul 16 2009 [ 725456 00] brf08.pmf 
+-r-xr-xr-x   1    0    0    5525504 Jul 16 2009 [ 850160 00] brf09.pmf 
+-r-xr-xr-x   1    0    0    5908480 Aug  5 2009 [ 855248 00] brf10.pmf 
+-r-xr-xr-x   1    0    0    4864000 Jul 27 2009 [ 852864 00] brf11.pmf 
+-r-xr-xr-x   1    0    0    3584000 Aug  5 2009 [ 858144 00] brf15.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/movies/ntsc/eng/c/r/
+dr-xr-xr-x   1    0    0       2048 Aug  8 2009 [    166 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     60 02] .. 
+-r-xr-xr-x   1    0    0   65970176 Aug  8 2009 [ 817936 00] cred.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/movies/ntsc/eng/e/n/
+dr-xr-xr-x   1    0    0       2048 Aug  6 2009 [    167 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug  5 2009 [     61 02] .. 
+-r-xr-xr-x   1    0    0   14157824 Aug  5 2009 [ 859904 00] enda.pmf 
+-r-xr-xr-x   1    0    0   13297664 Aug  5 2009 [ 866832 00] endp.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/movies/ntsc/eng/e/t/
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [    168 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug  5 2009 [     61 02] .. 
+-r-xr-xr-x   1    0    0     145408 Jun  8 2009 [ 729680 00] etrans.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/movies/ntsc/eng/i/1/
+dr-xr-xr-x   1    0    0       2048 Aug  8 2009 [    169 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug  5 2009 [     62 02] .. 
+-r-xr-xr-x   1    0    0    2088960 Jun  8 2009 [ 729760 00] i101.pmf 
+-r-xr-xr-x   1    0    0    1492992 Jun  8 2009 [ 730784 00] i102.pmf 
+-r-xr-xr-x   1    0    0     577536 Apr  3 2009 [ 731520 00] i103.pmf 
+-r-xr-xr-x   1    0    0     581632 Jun  8 2009 [ 731808 00] i104.pmf 
+-r-xr-xr-x   1    0    0     933888 Jul 27 2009 [ 732096 00] i105.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/movies/ntsc/eng/p/r/
+dr-xr-xr-x   1    0    0       2048 Aug  1 2009 [    170 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 31 2009 [     63 02] .. 
+-r-xr-xr-x   1    0    0   17881088 Aug  1 2009 [ 732560 00] prc01.pmf 
+-r-xr-xr-x   1    0    0   13901824 Jul 31 2009 [ 741296 00] prc02.pmf 
+-r-xr-xr-x   1    0    0    6273024 Jul 31 2009 [ 748096 00] prc03.pmf 
+-r-xr-xr-x   1    0    0    5758976 Jul 31 2009 [ 751168 00] prc04.pmf 
+-r-xr-xr-x   1    0    0   25769984 Jul 31 2009 [ 753984 00] prc05.pmf 
+-r-xr-xr-x   1    0    0   33503232 Jul 31 2009 [ 766576 00] prc06.pmf 
+-r-xr-xr-x   1    0    0   14544896 Jul 31 2009 [ 782944 00] prc07.pmf 
+-r-xr-xr-x   1    0    0    9226240 Jul 31 2009 [ 790048 00] prc08.pmf 
+-r-xr-xr-x   1    0    0    6209536 Jul 31 2009 [ 794560 00] prc11.pmf 
+-r-xr-xr-x   1    0    0   20291584 Jul 31 2009 [ 797600 00] prc12.pmf 
+-r-xr-xr-x   1    0    0   11847680 Jul 31 2009 [ 807520 00] prc13.pmf 
+-r-xr-xr-x   1    0    0    9449472 Jul 31 2009 [ 813312 00] prc16.pmf 
+=============================================================== 
+Generated on Sun 07/08/2022 at 19:29:03.54 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

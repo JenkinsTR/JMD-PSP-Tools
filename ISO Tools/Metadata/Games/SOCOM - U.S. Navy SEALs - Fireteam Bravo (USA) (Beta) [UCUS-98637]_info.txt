@@ -1,0 +1,423 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: SOCOM - U.S. Navy SEALs - Fireteam Bravo   
+Title ID: UCUS-98637 
+Region: USA  
+Languages: Beta  
+Volume Creation Date: 2005-08-19 16:42:18 
+Volume Size: 358 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: SOCOM_FTB
+Volume set id: 
+Publisher id: ZIPPER INTERACTIVE
+Data preparer id: CMYERS
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 183424
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Aug 19 2005 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 19 2005 [     22 02] .. 
+-r-xr-xr-x   1    0    0         48 Aug  3 2005 [     46 00] UMD_DATA.BIN 
+dr-xr-xr-x   1    0    0       2048 Aug  3 2005 [     23 02] PSP_GAME 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Aug  3 2005 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 19 2005 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Aug  3 2005 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Aug  3 2005 [     25 02] USRDIR 
+-r-xr-xr-x   1    0    0     503808 Aug 18 2005 [  25536 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0      19287 Aug 18 2005 [  25792 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     204269 Aug 18 2005 [  25808 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0        472 Aug 18 2005 [  25920 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Aug  3 2005 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug  3 2005 [     23 02] .. 
+-r-xr-xr-x   1    0    0    4709088 Aug 19 2005 [     48 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Aug  3 2005 [     26 02] UPDATE 
+-r-xr-xr-x   1    0    0    4708752 Aug 19 2005 [  22848 00] BOOT.BIN 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Aug  3 2005 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug  3 2005 [     23 02] .. 
+-r-xr-xr-x   1    0    0      19287 Aug 18 2005 [  25152 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     503808 Aug 18 2005 [  25168 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0     204269 Aug 18 2005 [  25424 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Aug 19 2005 [     27 02] RUN 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Aug  3 2005 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug  3 2005 [     24 02] .. 
+-r-xr-xr-x   1    0    0       1732 Aug  3 2005 [   2352 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0    3680208 Aug  3 2005 [   2368 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0   10284528 Aug  3 2005 [   6464 00] DATA.BIN 
+
+Directory listing of /PSP_GAME/USRDIR/RUN/
+dr-xr-xr-x   1    0    0       2048 Aug 19 2005 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug  3 2005 [     25 02] .. 
+-r-xr-xr-x   1    0    0    1163312 Aug 19 2005 [  25936 00] AUX_GZAN.ZDB 
+-r-xr-xr-x   1    0    0     112096 Aug 19 2005 [  26512 00] AUX_MZAN.ZDB 
+-r-xr-xr-x   1    0    0        352 Aug 19 2005 [  26576 00] AUX_SOUN.ZDB 
+-r-xr-xr-x   1    0    0     526656 Aug 19 2005 [  26592 00] AUX_SVO.ZDB 
+-r-xr-xr-x   1    0    0     364480 Aug 19 2005 [  26864 00] AUX_SZAN.ZDB 
+-r-xr-xr-x   1    0    0      92976 Aug 19 2005 [  27056 00] AUX_VZAN.ZDB 
+-r-xr-xr-x   1    0    0    1978800 Aug 19 2005 [  27104 00] GLOBAL.ZDB 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2005 [     28 02] ICONS 
+-r-xr-xr-x   1    0    0     731808 Aug 19 2005 [  28352 00] KEYSTONE.ZDB 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2005 [     29 02] LOCALE 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2005 [     30 02] MOVIES 
+-r-xr-xr-x   1    0    0        304 Aug 19 2005 [  78336 00] MPBASE.ZDB 
+dr-xr-xr-x   1    0    0       2048 Aug 19 2005 [     31 02] MP_CHILE_RAILYARD 
+-r-xr-xr-x   1    0    0        304 Aug 19 2005 [  82928 00] NODR_LAN.ZDB 
+-r-xr-xr-x   1    0    0        304 Aug 19 2005 [  82944 00] NODR_MOP.ZDB 
+-r-xr-xr-x   1    0    0        304 Aug 19 2005 [  82960 00] NODR_PEU.ZDB 
+-r-xr-xr-x   1    0    0        304 Aug 19 2005 [  82976 00] NODR_REN.ZDB 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2005 [     32 02] PRX 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2005 [     33 02] RAW 
+-r-xr-xr-x   1    0    0    4239736 Aug 17 2005 [  89520 00] scushgui.elf 
+dr-xr-xr-x   1    0    0       4096 Aug 19 2005 [     34 02] SOUNDS 
+-r-xr-xr-x   1    0    0         57 Aug 17 2005 [ 176528 00] SYSTEM.CNF 
+-r-xr-xr-x   1    0    0     712746 Aug 19 2005 [ 176544 00] TOKEN.DAT 
+dr-xr-xr-x   1    0    0       2048 Aug 19 2005 [     36 02] UI 
+-r-xr-xr-x   1    0    0        304 Aug 19 2005 [ 183408 00] WOODLAND.ZDB 
+
+Directory listing of /PSP_GAME/USRDIR/RUN/ICONS/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2005 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 19 2005 [     27 02] .. 
+-r-xr-xr-x   1    0    0      50234 Aug 17 2005 [  28080 00] copying.ico 
+-r-xr-xr-x   1    0    0      50234 Aug 17 2005 [  28112 00] deleting.ico 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2005 [     37 02] HDD 
+-r-xr-xr-x   1    0    0        964 Aug 17 2005 [  28240 00] icon.sys 
+-r-xr-xr-x   1    0    0      50234 Aug 17 2005 [  28256 00] list.ico 
+-r-xr-xr-x   1    0    0      50234 Aug 17 2005 [  28288 00] medius.ico 
+-r-xr-xr-x   1    0    0      33688 Aug 17 2005 [  28320 00] SYS_NET.ICO 
+
+Directory listing of /PSP_GAME/USRDIR/RUN/LOCALE/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2005 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 19 2005 [     27 02] .. 
+dr-xr-xr-x   1    0    0       4096 Aug 17 2005 [     38 02] STATES 
+dr-xr-xr-x   1    0    0       4096 Aug 17 2005 [     40 02] UK 
+
+Directory listing of /PSP_GAME/USRDIR/RUN/MOVIES/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2005 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 19 2005 [     27 02] .. 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2005 [     42 02] COMMON 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2005 [     43 02] TEST 
+
+Directory listing of /PSP_GAME/USRDIR/RUN/MP_CHILE_RAILYARD/
+dr-xr-xr-x   1    0    0       2048 Aug 19 2005 [     31 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 19 2005 [     27 02] .. 
+-r-xr-xr-x   1    0    0    4062608 Aug 19 2005 [  78352 00] ISLAND_R.ZDB 
+-r-xr-xr-x   1    0    0     261024 Aug 19 2005 [  80336 00] MP_CHILE.ZDB 
+-r-xr-xr-x   1    0    0     244800 Aug 19 2005 [  80464 00] OCN_2.ZDB 
+-r-xr-xr-x   1    0    0       4336 Aug 19 2005 [  80592 00] PM33.ZDB 
+-r-xr-xr-x   1    0    0      15408 Aug 19 2005 [  80608 00] PM33DEM.ZDB 
+-r-xr-xr-x   1    0    0      19664 Aug 19 2005 [  80624 00] PM33EXT.ZDB 
+-r-xr-xr-x   1    0    0       9232 Aug 19 2005 [  80640 00] PM33FFA.ZDB 
+-r-xr-xr-x   1    0    0      11856 Aug 19 2005 [  80656 00] PM33SUP.ZDB 
+-r-xr-xr-x   1    0    0      10560 Aug 19 2005 [  80672 00] PM33TAG.ZDB 
+-r-xr-xr-x   1    0    0      74240 Aug 19 2005 [  80688 00] ROUNDCOM.ZDB 
+-r-xr-xr-x   1    0    0     198256 Aug 19 2005 [  80736 00] VCOMMON_PM33.ZDB 
+-r-xr-xr-x   1    0    0     941776 Aug 19 2005 [  80848 00] VCOMMON_PM33DEM.ZDB 
+-r-xr-xr-x   1    0    0     933136 Aug 19 2005 [  81312 00] VCOMMON_PM33EXT.ZDB 
+-r-xr-xr-x   1    0    0     453440 Aug 19 2005 [  81776 00] VCOMMON_PM33FFA.ZDB 
+-r-xr-xr-x   1    0    0     933136 Aug 19 2005 [  82000 00] VCOMMON_PM33SUP.ZDB 
+-r-xr-xr-x   1    0    0     933136 Aug 19 2005 [  82464 00] VCOMMON_PM33TAG.ZDB 
+
+Directory listing of /PSP_GAME/USRDIR/RUN/PRX/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2005 [     32 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 19 2005 [     27 02] .. 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2005 [     44 02] kmodule 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2005 [     45 02] module 
+
+Directory listing of /PSP_GAME/USRDIR/RUN/RAW/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2005 [     33 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 19 2005 [     27 02] .. 
+-r-xr-xr-x   1    0    0     327680 Aug 17 2005 [  83440 00] ERRE.raw 
+-r-xr-xr-x   1    0    0     327680 Aug 17 2005 [  83600 00] ERRF.raw 
+-r-xr-xr-x   1    0    0     327680 Aug 17 2005 [  83760 00] ERRG.raw 
+-r-xr-xr-x   1    0    0     327680 Aug 17 2005 [  83920 00] ERRI.raw 
+-r-xr-xr-x   1    0    0     327680 Aug 17 2005 [  84080 00] ERRS.raw 
+-r-xr-xr-x   1    0    0    1146880 Aug 17 2005 [  84240 00] LOADING.RAW 
+-r-xr-xr-x   1    0    0    1146880 Aug 17 2005 [  84800 00] LOADING2.raw 
+-r-xr-xr-x   1    0    0     327680 Aug 17 2005 [  85360 00] LOFE.RAW 
+-r-xr-xr-x   1    0    0     327680 Aug 17 2005 [  85520 00] LOFF.raw 
+-r-xr-xr-x   1    0    0     327680 Aug 17 2005 [  85680 00] LOFG.raw 
+-r-xr-xr-x   1    0    0     327680 Aug 17 2005 [  85840 00] LOFI.raw 
+-r-xr-xr-x   1    0    0     327680 Aug 17 2005 [  86000 00] LOFS.raw 
+-r-xr-xr-x   1    0    0     327680 Aug 17 2005 [  86160 00] MC1E.RAW 
+-r-xr-xr-x   1    0    0     327680 Aug 17 2005 [  86320 00] MC1F.RAW 
+-r-xr-xr-x   1    0    0     327680 Aug 17 2005 [  86480 00] MC1G.RAW 
+-r-xr-xr-x   1    0    0     327680 Aug 17 2005 [  86640 00] MC1I.RAW 
+-r-xr-xr-x   1    0    0     327680 Aug 17 2005 [  86800 00] MC1J.raw 
+-r-xr-xr-x   1    0    0     327680 Aug 17 2005 [  86960 00] MC1K.raw 
+-r-xr-xr-x   1    0    0     327680 Aug 17 2005 [  87120 00] MC1S.RAW 
+-r-xr-xr-x   1    0    0     327680 Aug 17 2005 [  87280 00] MC2E.RAW 
+-r-xr-xr-x   1    0    0     327680 Aug 17 2005 [  87440 00] MC2F.RAW 
+-r-xr-xr-x   1    0    0     327680 Aug 17 2005 [  87600 00] MC2G.RAW 
+-r-xr-xr-x   1    0    0     327680 Aug 17 2005 [  87760 00] MC2I.RAW 
+-r-xr-xr-x   1    0    0     327680 Aug 17 2005 [  87920 00] MC2J.raw 
+-r-xr-xr-x   1    0    0     327680 Aug 17 2005 [  88080 00] MC2K.raw 
+-r-xr-xr-x   1    0    0     327680 Aug 17 2005 [  88240 00] MC2S.RAW 
+-r-xr-xr-x   1    0    0     327680 Aug 17 2005 [  88400 00] MLE.RAW 
+-r-xr-xr-x   1    0    0     327680 Aug 17 2005 [  88560 00] MLF.raw 
+-r-xr-xr-x   1    0    0     327680 Aug 17 2005 [  88720 00] MLG.raw 
+-r-xr-xr-x   1    0    0     327680 Aug 17 2005 [  88880 00] MLI.raw 
+-r-xr-xr-x   1    0    0     327680 Aug 17 2005 [  89040 00] MLJ.raw 
+-r-xr-xr-x   1    0    0     327680 Aug 17 2005 [  89200 00] MLK.raw 
+-r-xr-xr-x   1    0    0     327680 Aug 17 2005 [  89360 00] MLS.raw 
+
+Directory listing of /PSP_GAME/USRDIR/RUN/SOUNDS/
+dr-xr-xr-x   1    0    0       4096 Aug 19 2005 [     34 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 19 2005 [     27 02] .. 
+-r-xr-xr-x   1    0    0       9768 Aug 17 2005 [  91600 00] a_FIREs.bnk 
+-r-xr-xr-x   1    0    0     869768 Aug 17 2005 [  91616 00] a_P311.bnk 
+-r-xr-xr-x   1    0    0     825384 Aug 17 2005 [  92048 00] a_P312.bnk 
+-r-xr-xr-x   1    0    0     685008 Aug 17 2005 [  92464 00] a_P313.bnk 
+-r-xr-xr-x   1    0    0     685008 Aug 17 2005 [  92800 00] a_P314.bnk 
+-r-xr-xr-x   1    0    0     824736 Aug 17 2005 [  93136 00] a_P321.bnk 
+-r-xr-xr-x   1    0    0     788976 Aug 17 2005 [  93552 00] a_P322.bnk 
+-r-xr-xr-x   1    0    0     685008 Aug 17 2005 [  93952 00] a_P323.bnk 
+-r-xr-xr-x   1    0    0     718912 Aug 17 2005 [  94288 00] a_P331.bnk 
+-r-xr-xr-x   1    0    0     778328 Aug 17 2005 [  94640 00] a_P332.bnk 
+-r-xr-xr-x   1    0    0     685008 Aug 17 2005 [  95024 00] a_P333.bnk 
+-r-xr-xr-x   1    0    0     911984 Aug 17 2005 [  95360 00] a_P334.bnk 
+-r-xr-xr-x   1    0    0     897424 Aug 17 2005 [  95808 00] a_p341.bnk 
+-r-xr-xr-x   1    0    0     705928 Aug 17 2005 [  96256 00] a_P342.bnk 
+-r-xr-xr-x   1    0    0     846032 Aug 17 2005 [  96608 00] a_P343.bnk 
+-r-xr-xr-x   1    0    0     114728 Aug 17 2005 [  97024 00] a_Water.bnk 
+-r-xr-xr-x   1    0    0   21647488 Aug 19 2005 [  97088 00] BNKSTORE.ZAR 
+-r-xr-xr-x   1    0    0      20848 Aug 17 2005 [ 107664 00] Echo.bnk 
+-r-xr-xr-x   1    0    0     559112 Aug 17 2005 [ 107680 00] FX_PSP.bnk 
+-r-xr-xr-x   1    0    0       8480 Aug 17 2005 [ 107968 00] HUD.bnk 
+-r-xr-xr-x   1    0    0     971736 Aug 17 2005 [ 107984 00] Jungle.bnk 
+-r-xr-xr-x   1    0    0     598744 Aug 17 2005 [ 108464 00] P11.bnk 
+-r-xr-xr-x   1    0    0     598400 Aug 17 2005 [ 108768 00] P12.bnk 
+-r-xr-xr-x   1    0    0     574412 Aug 17 2005 [ 109072 00] P13.bnk 
+-r-xr-xr-x   1    0    0     579032 Aug 17 2005 [ 109360 00] P14.bnk 
+-r-xr-xr-x   1    0    0     576392 Aug 17 2005 [ 109648 00] P21.bnk 
+-r-xr-xr-x   1    0    0     563788 Aug 17 2005 [ 109936 00] P22.bnk 
+-r-xr-xr-x   1    0    0     575160 Aug 17 2005 [ 110224 00] P23.bnk 
+-r-xr-xr-x   1    0    0     585528 Aug 17 2005 [ 110512 00] P31.bnk 
+-r-xr-xr-x   1    0    0     565356 Aug 17 2005 [ 110800 00] P32.bnk 
+-r-xr-xr-x   1    0    0     580968 Aug 17 2005 [ 111088 00] P33.bnk 
+-r-xr-xr-x   1    0    0     593872 Aug 17 2005 [ 111376 00] P34.bnk 
+-r-xr-xr-x   1    0    0    1201764 Aug 17 2005 [ 111680 00] P41.bnk 
+-r-xr-xr-x   1    0    0     564156 Aug 17 2005 [ 112272 00] P42.bnk 
+-r-xr-xr-x   1    0    0     574248 Aug 17 2005 [ 112560 00] P43.bnk 
+-r-xr-xr-x   1    0    0     178552 Aug 17 2005 [ 112848 00] UI.bnk 
+-r-xr-xr-x   1    0    0  129822720 Aug 19 2005 [ 112944 00] VAGSTORE.ZAR 
+-r-xr-xr-x   1    0    0       4096 Aug 19 2005 [ 176336 00] VAGS_ENG.ZAR 
+-r-xr-xr-x   1    0    0       4096 Aug 19 2005 [ 176352 00] VAGS_FRN.ZAR 
+-r-xr-xr-x   1    0    0       4096 Aug 19 2005 [ 176368 00] VAGS_GER.ZAR 
+-r-xr-xr-x   1    0    0       4096 Aug 19 2005 [ 176384 00] VAGS_ITL.ZAR 
+-r-xr-xr-x   1    0    0       4096 Aug 19 2005 [ 176400 00] VAGS_JPN.ZAR 
+-r-xr-xr-x   1    0    0       4096 Aug 19 2005 [ 176416 00] VAGS_KOR.ZAR 
+-r-xr-xr-x   1    0    0       4096 Aug 19 2005 [ 176432 00] VAGS_SPN.ZAR 
+-r-xr-xr-x   1    0    0     140792 Aug 17 2005 [ 176448 00] v_C130i.bnk 
+
+Directory listing of /PSP_GAME/USRDIR/RUN/UI/
+dr-xr-xr-x   1    0    0       2048 Aug 19 2005 [     36 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 19 2005 [     27 02] .. 
+-r-xr-xr-x   1    0    0       2768 Aug 19 2005 [ 176896 00] DEFAULT.ZDB 
+-r-xr-xr-x   1    0    0     286288 Aug 19 2005 [ 176912 00] GAMECOMP.ZDB 
+-r-xr-xr-x   1    0    0    1473632 Aug 19 2005 [ 177056 00] GAMELOBB.ZDB 
+-r-xr-xr-x   1    0    0       1408 Aug 19 2005 [ 177776 00] JOIN_CLA.ZDB 
+-r-xr-xr-x   1    0    0       3392 Aug 19 2005 [ 177792 00] MP_GAME_.ZDB 
+-r-xr-xr-x   1    0    0       3056 Aug 19 2005 [ 177808 00] MULTIPLA.ZDB 
+-r-xr-xr-x   1    0    0     230144 Aug 19 2005 [ 177824 00] OCN_2.ZDB 
+-r-xr-xr-x   1    0    0       3728 Aug 19 2005 [ 177952 00] POSTMISS.ZDB 
+-r-xr-xr-x   1    0    0      74256 Aug 19 2005 [ 177968 00] ROUNDCOM.ZDB 
+-r-xr-xr-x   1    0    0     657936 Aug 19 2005 [ 178016 00] UI.ZDB 
+-r-xr-xr-x   1    0    0    1247616 Aug 19 2005 [ 178352 00] UILAN.ZDB 
+-r-xr-xr-x   1    0    0     459840 Aug 19 2005 [ 178976 00] UIMOVIE.ZDB 
+-r-xr-xr-x   1    0    0    2335232 Aug 19 2005 [ 179216 00] UIMP.ZDB 
+-r-xr-xr-x   1    0    0     604624 Aug 19 2005 [ 180368 00] UINL.ZDB 
+-r-xr-xr-x   1    0    0    1028400 Aug 19 2005 [ 180672 00] UIPN.ZDB 
+-r-xr-xr-x   1    0    0     329456 Aug 19 2005 [ 181184 00] UIPOSTMI.ZDB 
+-r-xr-xr-x   1    0    0    3057152 Aug 19 2005 [ 181360 00] UISP.ZDB 
+-r-xr-xr-x   1    0    0       3584 Aug 19 2005 [ 182864 00] UI_NET_A.ZDB 
+-r-xr-xr-x   1    0    0       3488 Aug 19 2005 [ 182880 00] UI_NET_E.ZDB 
+-r-xr-xr-x   1    0    0        304 Aug 19 2005 [ 182896 00] VCOMMON_DEFAULT.ZDB 
+-r-xr-xr-x   1    0    0        304 Aug 19 2005 [ 182912 00] VCOMMON_JOIN_CLAN_GAME.ZDB 
+-r-xr-xr-x   1    0    0     196560 Aug 19 2005 [ 182928 00] VCOMMON_MP_GAME_OVER.ZDB 
+-r-xr-xr-x   1    0    0     196560 Aug 19 2005 [ 183024 00] VCOMMON_MULTIPLAYER.ZDB 
+-r-xr-xr-x   1    0    0     196560 Aug 19 2005 [ 183120 00] VCOMMON_POSTMISSION.ZDB 
+-r-xr-xr-x   1    0    0     196560 Aug 19 2005 [ 183216 00] VCOMMON_UI_NET_ABORT.ZDB 
+-r-xr-xr-x   1    0    0     196560 Aug 19 2005 [ 183312 00] VCOMMON_UI_NET_ERROR.ZDB 
+
+Directory listing of /PSP_GAME/USRDIR/RUN/ICONS/HDD/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2005 [     37 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2005 [     28 02] .. 
+-r-xr-xr-x   1    0    0      50234 Aug 17 2005 [  28144 00] deleting.ico 
+-r-xr-xr-x   1    0    0        380 Aug 17 2005 [  28176 00] icon.sys 
+-r-xr-xr-x   1    0    0      50234 Aug 17 2005 [  28192 00] list.ico 
+-r-xr-xr-x   1    0    0         55 Aug 17 2005 [  28224 00] SYSTEM.CNF 
+
+Directory listing of /PSP_GAME/USRDIR/RUN/LOCALE/STATES/
+dr-xr-xr-x   1    0    0       4096 Aug 17 2005 [     38 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2005 [     29 02] .. 
+-r-xr-xr-x   1    0    0      34528 Aug 17 2005 [  28720 00] ALBLOC.ZAR 
+-r-xr-xr-x   1    0    0      19472 Aug 17 2005 [  28752 00] ALGLOC.ZAR 
+-r-xr-xr-x   1    0    0      38768 Aug 17 2005 [  28768 00] BRAZLOC.ZAR 
+-r-xr-xr-x   1    0    0     132080 Aug 17 2005 [  28800 00] HUDCLOC.zar 
+-r-xr-xr-x   1    0    0        176 Aug 17 2005 [  28880 00] M0LOC.zar 
+-r-xr-xr-x   1    0    0      22912 Aug 17 2005 [  28896 00] M51LOC.ZAR 
+-r-xr-xr-x   1    0    0      13728 Aug 17 2005 [  28912 00] M52LOC.ZAR 
+-r-xr-xr-x   1    0    0      14192 Aug 17 2005 [  28928 00] M53LOC.ZAR 
+-r-xr-xr-x   1    0    0      29872 Aug 17 2005 [  28944 00] M61LOC.ZAR 
+-r-xr-xr-x   1    0    0      15696 Aug 17 2005 [  28960 00] M62LOC.ZAR 
+-r-xr-xr-x   1    0    0      23120 Aug 17 2005 [  28976 00] M63LOC.ZAR 
+-r-xr-xr-x   1    0    0      10144 Aug 17 2005 [  28992 00] M71LOC.ZAR 
+-r-xr-xr-x   1    0    0      11520 Aug 17 2005 [  29008 00] M72LOC.ZAR 
+-r-xr-xr-x   1    0    0      14176 Aug 17 2005 [  29024 00] M73LOC.ZAR 
+-r-xr-xr-x   1    0    0      20848 Aug 17 2005 [  29040 00] M81LOC.ZAR 
+-r-xr-xr-x   1    0    0      12864 Aug 17 2005 [  29056 00] M82LOC.ZAR 
+-r-xr-xr-x   1    0    0      18128 Aug 17 2005 [  29072 00] M83LOC.ZAR 
+-r-xr-xr-x   1    0    0       3184 Aug 17 2005 [  29088 00] MP10LOC.ZAR 
+-r-xr-xr-x   1    0    0       3296 Aug 17 2005 [  29104 00] MP11LOC.ZAR 
+-r-xr-xr-x   1    0    0       2992 Aug 17 2005 [  29120 00] MP12LOC.ZAR 
+-r-xr-xr-x   1    0    0       2880 Aug 17 2005 [  29136 00] MP1LOC.ZAR 
+-r-xr-xr-x   1    0    0       1920 Aug 17 2005 [  29152 00] MP2LOC.ZAR 
+-r-xr-xr-x   1    0    0       1808 Aug 17 2005 [  29168 00] MP51LOC.ZAR 
+-r-xr-xr-x   1    0    0       4112 Aug 17 2005 [  29184 00] MP52LOC.ZAR 
+-r-xr-xr-x   1    0    0       4496 Aug 17 2005 [  29200 00] MP53LOC.ZAR 
+-r-xr-xr-x   1    0    0       2048 Aug 17 2005 [  29216 00] MP5LOC.ZAR 
+-r-xr-xr-x   1    0    0       3840 Aug 17 2005 [  29232 00] MP61LOC.ZAR 
+-r-xr-xr-x   1    0    0       4176 Aug 17 2005 [  29248 00] MP62LOC.ZAR 
+-r-xr-xr-x   1    0    0       1184 Aug 17 2005 [  29264 00] MP63LOC.ZAR 
+-r-xr-xr-x   1    0    0       2016 Aug 17 2005 [  29280 00] MP64LOC.ZAR 
+-r-xr-xr-x   1    0    0       3568 Aug 17 2005 [  29296 00] MP6LOC.ZAR 
+-r-xr-xr-x   1    0    0       3152 Aug 17 2005 [  29312 00] MP71LOC.ZAR 
+-r-xr-xr-x   1    0    0       3344 Aug 17 2005 [  29328 00] MP72LOC.ZAR 
+-r-xr-xr-x   1    0    0       3744 Aug 17 2005 [  29344 00] MP73LOC.ZAR 
+-r-xr-xr-x   1    0    0       2880 Aug 17 2005 [  29360 00] MP7LOC.ZAR 
+-r-xr-xr-x   1    0    0       2192 Aug 17 2005 [  29376 00] MP81LOC.ZAR 
+-r-xr-xr-x   1    0    0       4768 Aug 17 2005 [  29392 00] MP82LOC.ZAR 
+-r-xr-xr-x   1    0    0       2880 Aug 17 2005 [  29408 00] MP83LOC.ZAR 
+-r-xr-xr-x   1    0    0       2288 Aug 17 2005 [  29424 00] MP8LOC.ZAR 
+-r-xr-xr-x   1    0    0       2992 Aug 17 2005 [  29440 00] MP9LOC.ZAR 
+-r-xr-xr-x   1    0    0      31248 Aug 17 2005 [  29456 00] MPEGSLOC.ZAR 
+-r-xr-xr-x   1    0    0      27008 Aug 17 2005 [  29472 00] RUSSLOC.ZAR 
+-r-xr-xr-x   1    0    0       1024 Aug 17 2005 [  29488 00] UILDLOC.zar 
+-r-xr-xr-x   1    0    0        176 Aug 17 2005 [  29504 00] UILOC.zar 
+-r-xr-xr-x   1    0    0     303632 Aug 17 2005 [  29520 00] UIMNLOC.zar 
+-r-xr-xr-x   1    0    0       4352 Aug 17 2005 [  29680 00] UIMPXLOC.zar 
+-r-xr-xr-x   1    0    0       5664 Aug 17 2005 [  29696 00] UIXLOC.zar 
+
+Directory listing of /PSP_GAME/USRDIR/RUN/LOCALE/UK/
+dr-xr-xr-x   1    0    0       4096 Aug 17 2005 [     40 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2005 [     29 02] .. 
+-r-xr-xr-x   1    0    0      34400 Aug 17 2005 [  29712 00] ALBLOC.ZAR 
+-r-xr-xr-x   1    0    0      19472 Aug 17 2005 [  29744 00] ALGLOC.ZAR 
+-r-xr-xr-x   1    0    0      38768 Aug 17 2005 [  29760 00] BRAZLOC.ZAR 
+-r-xr-xr-x   1    0    0     132224 Aug 17 2005 [  29792 00] HUDCLOC.ZAR 
+-r-xr-xr-x   1    0    0      22912 Aug 17 2005 [  29872 00] M51LOC.ZAR 
+-r-xr-xr-x   1    0    0      13728 Aug 17 2005 [  29888 00] M52LOC.ZAR 
+-r-xr-xr-x   1    0    0      14192 Aug 17 2005 [  29904 00] M53LOC.ZAR 
+-r-xr-xr-x   1    0    0      29888 Aug 17 2005 [  29920 00] M61LOC.ZAR 
+-r-xr-xr-x   1    0    0      15696 Aug 17 2005 [  29936 00] M62LOC.ZAR 
+-r-xr-xr-x   1    0    0      22992 Aug 17 2005 [  29952 00] M63LOC.ZAR 
+-r-xr-xr-x   1    0    0      10144 Aug 17 2005 [  29968 00] M71LOC.ZAR 
+-r-xr-xr-x   1    0    0      11520 Aug 17 2005 [  29984 00] M72LOC.ZAR 
+-r-xr-xr-x   1    0    0      14192 Aug 17 2005 [  30000 00] M73LOC.ZAR 
+-r-xr-xr-x   1    0    0      20848 Aug 17 2005 [  30016 00] M81LOC.ZAR 
+-r-xr-xr-x   1    0    0      12864 Aug 17 2005 [  30032 00] M82LOC.ZAR 
+-r-xr-xr-x   1    0    0      16720 Aug 17 2005 [  30048 00] M83LOC.ZAR 
+-r-xr-xr-x   1    0    0       3184 Aug 17 2005 [  30064 00] MP10LOC.ZAR 
+-r-xr-xr-x   1    0    0       3296 Aug 17 2005 [  30080 00] MP11LOC.ZAR 
+-r-xr-xr-x   1    0    0       2992 Aug 17 2005 [  30096 00] MP12LOC.ZAR 
+-r-xr-xr-x   1    0    0       2880 Aug 17 2005 [  30112 00] MP1LOC.ZAR 
+-r-xr-xr-x   1    0    0       1920 Aug 17 2005 [  30128 00] MP2LOC.ZAR 
+-r-xr-xr-x   1    0    0       1808 Aug 17 2005 [  30144 00] MP51LOC.ZAR 
+-r-xr-xr-x   1    0    0       4112 Aug 17 2005 [  30160 00] MP52LOC.ZAR 
+-r-xr-xr-x   1    0    0       4496 Aug 17 2005 [  30176 00] MP53LOC.ZAR 
+-r-xr-xr-x   1    0    0       2048 Aug 17 2005 [  30192 00] MP5LOC.ZAR 
+-r-xr-xr-x   1    0    0       3840 Aug 17 2005 [  30208 00] MP61LOC.ZAR 
+-r-xr-xr-x   1    0    0       4176 Aug 17 2005 [  30224 00] MP62LOC.ZAR 
+-r-xr-xr-x   1    0    0       1184 Aug 17 2005 [  30240 00] MP63LOC.ZAR 
+-r-xr-xr-x   1    0    0       2016 Aug 17 2005 [  30256 00] MP64LOC.ZAR 
+-r-xr-xr-x   1    0    0       3568 Aug 17 2005 [  30272 00] MP6LOC.ZAR 
+-r-xr-xr-x   1    0    0       3152 Aug 17 2005 [  30288 00] MP71LOC.ZAR 
+-r-xr-xr-x   1    0    0       3344 Aug 17 2005 [  30304 00] MP72LOC.ZAR 
+-r-xr-xr-x   1    0    0       3744 Aug 17 2005 [  30320 00] MP73LOC.ZAR 
+-r-xr-xr-x   1    0    0       2880 Aug 17 2005 [  30336 00] MP7LOC.ZAR 
+-r-xr-xr-x   1    0    0       2192 Aug 17 2005 [  30352 00] MP81LOC.ZAR 
+-r-xr-xr-x   1    0    0       4768 Aug 17 2005 [  30368 00] MP82LOC.ZAR 
+-r-xr-xr-x   1    0    0       2880 Aug 17 2005 [  30384 00] MP83LOC.ZAR 
+-r-xr-xr-x   1    0    0       2288 Aug 17 2005 [  30400 00] MP8LOC.ZAR 
+-r-xr-xr-x   1    0    0       2992 Aug 17 2005 [  30416 00] MP9LOC.ZAR 
+-r-xr-xr-x   1    0    0      30880 Aug 17 2005 [  30432 00] MPEGSLOC.ZAR 
+-r-xr-xr-x   1    0    0      26256 Aug 17 2005 [  30448 00] RECOLOC.ZAR 
+-r-xr-xr-x   1    0    0      26880 Aug 17 2005 [  30464 00] RUSSLOC.ZAR 
+-r-xr-xr-x   1    0    0       1024 Aug 17 2005 [  30480 00] UILDLOC.ZAR 
+-r-xr-xr-x   1    0    0     300624 Aug 17 2005 [  30496 00] UIMNLOC.ZAR 
+-r-xr-xr-x   1    0    0       4352 Aug 17 2005 [  30656 00] UIMPXLOC.ZAR 
+-r-xr-xr-x   1    0    0       5664 Aug 17 2005 [  30672 00] UIXLOC.ZAR 
+
+Directory listing of /PSP_GAME/USRDIR/RUN/MOVIES/COMMON/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2005 [     42 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2005 [     30 02] .. 
+-r-xr-xr-x   1    0    0   30982148 Aug 17 2005 [  30688 00] render_test_PPRO.pss 
+-r-xr-xr-x   1    0    0   27983876 Aug 17 2005 [  45824 00] render_test_PREM.pss 
+-r-xr-xr-x   1    0    0    5701636 Aug 17 2005 [  59504 00] sony448.pss 
+
+Directory listing of /PSP_GAME/USRDIR/RUN/MOVIES/TEST/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2005 [     43 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2005 [     30 02] .. 
+-r-xr-xr-x   1    0    0    8773632 Aug 17 2005 [  62304 00] demo01.pmf 
+-r-xr-xr-x   1    0    0        256 Aug 17 2005 [  66592 00] demo01.stt 
+-r-xr-xr-x   1    0    0    8744960 Aug 17 2005 [  66608 00] demo02.pmf 
+-r-xr-xr-x   1    0    0   15241216 Aug 17 2005 [  70880 00] morocco.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/RUN/PRX/kmodule/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2005 [     44 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2005 [     32 02] .. 
+-r-xr-xr-x   1    0    0       3200 Aug 17 2005 [  82992 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0      10816 Aug 17 2005 [  83008 00] ifhandle.prx 
+-r-xr-xr-x   1    0    0      17216 Aug 17 2005 [  83024 00] memab.prx 
+-r-xr-xr-x   1    0    0       5808 Aug 17 2005 [  83040 00] mpegbase.prx 
+-r-xr-xr-x   1    0    0      11360 Aug 17 2005 [  83056 00] pspnet_adhoc_auth.prx 
+-r-xr-xr-x   1    0    0       5904 Aug 17 2005 [  83072 00] sc_sascore.prx 
+-r-xr-xr-x   1    0    0      14560 Aug 17 2005 [  83088 00] usbpspcm.prx 
+-r-xr-xr-x   1    0    0       3808 Aug 17 2005 [  83104 00] videocodec.prx 
+
+Directory listing of /PSP_GAME/USRDIR/RUN/PRX/module/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2005 [     45 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2005 [     32 02] .. 
+-r-xr-xr-x   1    0    0      19940 Aug 17 2005 [  83120 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0      43068 Aug 17 2005 [  83136 00] mpeg.prx 
+-r-xr-xr-x   1    0    0      60360 Aug 17 2005 [  83168 00] pspnet.prx 
+-r-xr-xr-x   1    0    0      42492 Aug 17 2005 [  83200 00] pspnet_adhoc.prx 
+-r-xr-xr-x   1    0    0      31996 Aug 17 2005 [  83232 00] pspnet_adhocctl.prx 
+-r-xr-xr-x   1    0    0      44412 Aug 17 2005 [  83248 00] pspnet_apctl.prx 
+-r-xr-xr-x   1    0    0       4820 Aug 17 2005 [  83280 00] pspnet_ap_dialog_dummy.prx 
+-r-xr-xr-x   1    0    0     239968 Aug 17 2005 [  83296 00] pspnet_inet.prx 
+-r-xr-xr-x   1    0    0      12400 Aug 17 2005 [  83424 00] pspnet_resolver.prx 
+=============================================================== 
+Generated on Sun 07/08/2022 at 13:43:40.47 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

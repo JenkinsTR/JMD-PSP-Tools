@@ -1,0 +1,1296 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: PlayStation Network Collection - Power Pack   
+Title ID: UCES-01160 
+Region: EUR  
+Languages: En,Fr,De,Es,It  
+Volume Creation Date: 2008-09-08 13:00:00 
+Volume Size: 525 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: 
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 268896
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Sep  8 2008 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  8 2008 [     26 02] .. 
+dr-xr-xr-x   1    0    0       2048 May  2 2008 [     27 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 May  2 2008 [    169 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 May  2 2008 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  8 2008 [     26 02] .. 
+-r-xr-xr-x   1    0    0       5576 Aug 22 2008 [  53888 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        472 Sep  8 2008 [  53904 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0       4028 Aug 28 2008 [  53872 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 May  2 2008 [     28 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 May  7 2008 [     29 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 May  2 2008 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 May  2 2008 [     27 02] .. 
+-r-xr-xr-x   1    0    0     853469 Sep  1 2008 [  53920 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0     853808 Sep  8 2008 [    176 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 May  2 2008 [     30 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 May  7 2008 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 May  2 2008 [     27 02] .. 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] BARS 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2008 [     34 02] GAMEDATA 
+-r-xr-xr-x   1    0    0       2300 Nov 27 2007 [ 104896 00] GAME_SCEE.INI 
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     35 02] MODULES 
+-r-xr-xr-x   1    0    0      16881 Jan 25 2008 [ 266352 00] assetlists.wad 
+dr-xr-xr-x   1    0    0       2048 Aug 15 2008 [     36 02] bin 
+-r-xr-xr-x   1    0    0        648 Aug 30 2007 [ 104960 00] config.xml 
+-r-xr-xr-x   1    0    0    4963937 Jan 25 2008 [ 266368 00] flow.wad 
+-r-xr-xr-x   1    0    0      22718 Jan 25 2008 [ 268800 00] language.wad 
+-r-xr-xr-x   1    0    0      25649 Jan 25 2008 [ 268816 00] language_de.wad 
+-r-xr-xr-x   1    0    0      25491 Jan 25 2008 [ 268832 00] language_dut.wad 
+-r-xr-xr-x   1    0    0      22096 Jan 25 2008 [ 268848 00] language_es.wad 
+-r-xr-xr-x   1    0    0      22631 Jan 25 2008 [ 268864 00] language_fr.wad 
+-r-xr-xr-x   1    0    0      22336 Jan 25 2008 [ 268880 00] language_it.wad 
+-r-xr-xr-x   1    0    0      19061 Jan 25 2008 [ 224320 00] language_jp.wad 
+-r-xr-xr-x   1    0    0      24470 Jan 25 2008 [ 224336 00] language_por.wad 
+-r-xr-xr-x   1    0    0    3850871 Sep  1 2008 [  54352 00] launcher.psarc 
+dr-xr-xr-x   1    0    0       2048 Nov 22 2007 [     37 02] modules 
+-r-xr-xr-x   1    0    0     107487 Jan 25 2008 [ 224352 00] scee.wad 
+-r-xr-xr-x   1    0    0      64910 Jan 25 2008 [ 224416 00] start.wad 
+-r-xr-xr-x   1    0    0      68046 Jan 25 2008 [ 224448 00] start_de.wad 
+-r-xr-xr-x   1    0    0      65384 Jan 25 2008 [ 224496 00] start_dut.wad 
+-r-xr-xr-x   1    0    0      67584 Jan 25 2008 [ 224528 00] start_es.wad 
+-r-xr-xr-x   1    0    0      67717 Jan 25 2008 [ 224576 00] start_fr.wad 
+-r-xr-xr-x   1    0    0      65666 Jan 25 2008 [ 224624 00] start_it.wad 
+-r-xr-xr-x   1    0    0      65329 Jan 25 2008 [ 224672 00] start_jp.wad 
+-r-xr-xr-x   1    0    0      67597 Jan 25 2008 [ 224704 00] start_por.wad 
+dr-xr-xr-x   1    0    0       4096 Jan 25 2008 [     38 02] streams 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 May  2 2008 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 May  2 2008 [     28 02] .. 
+-r-xr-xr-x   1    0    0   20544736 May  2 2008 [   4720 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5216752 May  2 2008 [    624 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 May  2 2008 [    608 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] . 
+dr-xr-xr-x   1    0    0       2048 May  7 2008 [     29 02] .. 
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     40 02] CLG_1001 
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     41 02] CLG_1002 
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     42 02] CLG_1003 
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     43 02] CLG_1005 
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     44 02] CLG_1007 
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     45 02] CLG_1008 
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     46 02] CLG_1009 
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     47 02] CLG_100A 
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     48 02] CLG_100B 
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     49 02] CLG_100C 
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     50 02] CLG_100D 
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     51 02] CLG_100E 
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     52 02] JAM_0002 
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     53 02] JAM_0003 
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     54 02] JAM_0004 
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     55 02] JAM_0005 
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     56 02] JAM_0006 
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     57 02] JAM_0007 
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     58 02] JAM_0008 
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     59 02] JAM_0009 
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     60 02] JAM_000B 
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     61 02] JAM_000C 
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     62 02] JAM_000D 
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     63 02] THM_0000 
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     64 02] THM_0002 
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     65 02] THM_0003 
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     66 02] THM_0004 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [     67 02] THM_0005 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [     68 02] THM_0006 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [     69 02] THM_0007 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [     70 02] THM_0008 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [     71 02] THM_0009 
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     72 02] TUT_0000 
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     73 02] VIS_1001 
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     74 02] VIS_1002 
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     75 02] VIS_1003 
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     76 02] VIS_1004 
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     77 02] VIS_1005 
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     78 02] VIS_1006 
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     79 02] VIS_1007 
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     80 02] VIS_1008 
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     81 02] VIS_1009 
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     82 02] VIS_100A 
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     83 02] VIS_100B 
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     84 02] VIS_100C 
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     85 02] VIS_100D 
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     86 02] VIS_100E 
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     87 02] VIS_100F 
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     88 02] VIS_1010 
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     89 02] VIS_1011 
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     90 02] VIS_1012 
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     91 02] VIS_1013 
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     92 02] VIS_1014 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [     93 02] VIS_1015 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [     94 02] VIS_1016 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [     95 02] VIS_1017 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [     96 02] VIS_1018 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [     97 02] VIS_1019 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [     98 02] VIS_101A 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [     99 02] VIS_101B 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    100 02] VIS_101C 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    101 02] VIS_101D 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    102 02] VIS_101E 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    103 02] VIS_101F 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    104 02] VIS_1020 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    105 02] VIS_1021 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    106 02] VIS_1022 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    107 02] VIS_1023 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    108 02] VIS_1024 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    109 02] VIS_1025 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    110 02] VIS_1026 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    111 02] VIS_1027 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    112 02] VIS_1028 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    113 02] VIS_1029 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    114 02] VIS_102A 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    115 02] VIS_102B 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    116 02] VIS_102C 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    117 02] VIS_102D 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    118 02] VIS_102E 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    119 02] VIS_102F 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    120 02] VIS_1030 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    121 02] VIS_1031 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    122 02] VIS_1032 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    123 02] VIS_1033 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    124 02] VIS_1034 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    125 02] VIS_1035 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    126 02] VIS_1036 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    127 02] VIS_1037 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    128 02] VIS_1038 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    129 02] VIS_1039 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    130 02] VIS_103A 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    131 02] VIS_103B 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    132 02] VIS_103C 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    133 02] VIS_103D 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    134 02] VIS_103E 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    135 02] VIS_103F 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    136 02] VIS_1040 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    137 02] VIS_1041 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    138 02] VIS_1042 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    139 02] VIS_1043 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    140 02] VIS_1044 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    141 02] VIS_1045 
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    142 02] VIS_1046 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/
+dr-xr-xr-x   1    0    0       2048 Jul 28 2008 [     34 02] . 
+dr-xr-xr-x   1    0    0       2048 May  7 2008 [     29 02] .. 
+dr-xr-xr-x   1    0    0       4096 Jul 28 2008 [    143 02] COMMON 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2008 [    145 02] FRONTEND 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2008 [    146 02] MULTI 
+
+Directory listing of /PSP_GAME/USRDIR/MODULES/
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     35 02] . 
+dr-xr-xr-x   1    0    0       2048 May  7 2008 [     29 02] .. 
+-r-xr-xr-x   1    0    0      22976 Jun  6 2007 [ 104912 00] LIBFONT.PRX 
+-r-xr-xr-x   1    0    0       3936 Jun  6 2007 [ 104928 00] LIBMP3.PRX 
+-r-xr-xr-x   1    0    0       7056 Jun  6 2007 [ 104944 00] PSMF.PRX 
+
+Directory listing of /PSP_GAME/USRDIR/bin/
+dr-xr-xr-x   1    0    0       2048 Aug 15 2008 [     36 02] . 
+dr-xr-xr-x   1    0    0       2048 May  7 2008 [     29 02] .. 
+-r-xr-xr-x   1    0    0    2851141 Oct  2 2007 [  61936 00] beats.prx 
+-r-xr-xr-x   1    0    0    2323137 Jan 25 2008 [  56240 00] flow.prx 
+-r-xr-xr-x   1    0    0    9326644 Nov 27 2007 [  57376 00] syphon.prx 
+
+Directory listing of /PSP_GAME/USRDIR/modules/
+dr-xr-xr-x   1    0    0       2048 Nov 22 2007 [     37 02] . 
+dr-xr-xr-x   1    0    0       2048 May  7 2008 [     29 02] .. 
+-r-xr-xr-x   1    0    0       2000 Nov 22 2007 [ 224752 00] pspnet_ap_dialog_dummy.prx 
+
+Directory listing of /PSP_GAME/USRDIR/streams/
+dr-xr-xr-x   1    0    0       4096 Jan 25 2008 [     38 02] . 
+dr-xr-xr-x   1    0    0       2048 May  7 2008 [     29 02] .. 
+-r-xr-xr-x   1    0    0    1448732 Jan 25 2008 [ 224768 00] C0_L0.stm.psp 
+-r-xr-xr-x   1    0    0    1471052 Jan 25 2008 [ 225488 00] C1_L1.stm.psp 
+-r-xr-xr-x   1    0    0    1471052 Jan 25 2008 [ 226208 00] C1_L11.stm.psp 
+-r-xr-xr-x   1    0    0    1471052 Jan 25 2008 [ 226928 00] C1_L13.stm.psp 
+-r-xr-xr-x   1    0    0    1471052 Jan 25 2008 [ 227648 00] C1_L15.stm.psp 
+-r-xr-xr-x   1    0    0    1471052 Jan 25 2008 [ 228368 00] C1_L17.stm.psp 
+-r-xr-xr-x   1    0    0    1471052 Jan 25 2008 [ 229088 00] C1_L19.stm.psp 
+-r-xr-xr-x   1    0    0    1471052 Jan 25 2008 [ 229808 00] C1_L20.stm.psp 
+-r-xr-xr-x   1    0    0    1471052 Jan 25 2008 [ 230528 00] C1_L3.stm.psp 
+-r-xr-xr-x   1    0    0    1471052 Jan 25 2008 [ 231248 00] C1_L5.stm.psp 
+-r-xr-xr-x   1    0    0    1471052 Jan 25 2008 [ 231968 00] C1_L7.stm.psp 
+-r-xr-xr-x   1    0    0    1471052 Jan 25 2008 [ 232688 00] C1_L9.stm.psp 
+-r-xr-xr-x   1    0    0    1451708 Jan 25 2008 [ 233408 00] C2_L1.stm.psp 
+-r-xr-xr-x   1    0    0    1451708 Jan 25 2008 [ 234128 00] C2_L11.stm.psp 
+-r-xr-xr-x   1    0    0    1451708 Jan 25 2008 [ 234848 00] C2_L13.stm.psp 
+-r-xr-xr-x   1    0    0    1451708 Jan 25 2008 [ 235568 00] C2_L15.stm.psp 
+-r-xr-xr-x   1    0    0    1451708 Jan 25 2008 [ 236288 00] C2_L17.stm.psp 
+-r-xr-xr-x   1    0    0    1451708 Jan 25 2008 [ 237008 00] C2_L19.stm.psp 
+-r-xr-xr-x   1    0    0    1451708 Jan 25 2008 [ 237728 00] C2_L20.stm.psp 
+-r-xr-xr-x   1    0    0    1451708 Jan 25 2008 [ 238448 00] C2_L3.stm.psp 
+-r-xr-xr-x   1    0    0    1451708 Jan 25 2008 [ 239168 00] C2_L5.stm.psp 
+-r-xr-xr-x   1    0    0    1451708 Jan 25 2008 [ 239888 00] C2_L7.stm.psp 
+-r-xr-xr-x   1    0    0    1451708 Jan 25 2008 [ 240608 00] C2_L9.stm.psp 
+-r-xr-xr-x   1    0    0    1476260 Jan 25 2008 [ 241328 00] C3_L1.stm.psp 
+-r-xr-xr-x   1    0    0    1476260 Jan 25 2008 [ 242064 00] C3_L11.stm.psp 
+-r-xr-xr-x   1    0    0    1476260 Jan 25 2008 [ 242800 00] C3_L13.stm.psp 
+-r-xr-xr-x   1    0    0    1476260 Jan 25 2008 [ 243536 00] C3_L15.stm.psp 
+-r-xr-xr-x   1    0    0    1476260 Jan 25 2008 [ 244272 00] C3_L17.stm.psp 
+-r-xr-xr-x   1    0    0    1476260 Jan 25 2008 [ 245008 00] C3_L19.stm.psp 
+-r-xr-xr-x   1    0    0    1476260 Jan 25 2008 [ 245744 00] C3_L20.stm.psp 
+-r-xr-xr-x   1    0    0    1476260 Jan 25 2008 [ 246480 00] C3_L3.stm.psp 
+-r-xr-xr-x   1    0    0    1476260 Jan 25 2008 [ 247216 00] C3_L5.stm.psp 
+-r-xr-xr-x   1    0    0    1476260 Jan 25 2008 [ 247952 00] C3_L7.stm.psp 
+-r-xr-xr-x   1    0    0    1476260 Jan 25 2008 [ 248688 00] C3_L9.stm.psp 
+-r-xr-xr-x   1    0    0    1442780 Jan 25 2008 [ 249424 00] C4_L1.stm.psp 
+-r-xr-xr-x   1    0    0    1442780 Jan 25 2008 [ 250144 00] C4_L11.stm.psp 
+-r-xr-xr-x   1    0    0    1442780 Jan 25 2008 [ 250864 00] C4_L13.stm.psp 
+-r-xr-xr-x   1    0    0    1442780 Jan 25 2008 [ 251584 00] C4_L15.stm.psp 
+-r-xr-xr-x   1    0    0    1442780 Jan 25 2008 [ 252304 00] C4_L17.stm.psp 
+-r-xr-xr-x   1    0    0    1442780 Jan 25 2008 [ 253024 00] C4_L19.stm.psp 
+-r-xr-xr-x   1    0    0    1442780 Jan 25 2008 [ 253744 00] C4_L20.stm.psp 
+-r-xr-xr-x   1    0    0    1442780 Jan 25 2008 [ 254464 00] C4_L3.stm.psp 
+-r-xr-xr-x   1    0    0    1442780 Jan 25 2008 [ 255184 00] C4_L5.stm.psp 
+-r-xr-xr-x   1    0    0    1442780 Jan 25 2008 [ 255904 00] C4_L7.stm.psp 
+-r-xr-xr-x   1    0    0    1442780 Jan 25 2008 [ 256624 00] C4_L9.stm.psp 
+-r-xr-xr-x   1    0    0    1458404 Jan 25 2008 [ 257344 00] C5_L1.stm.psp 
+-r-xr-xr-x   1    0    0    1458404 Jan 25 2008 [ 258064 00] C5_L11.stm.psp 
+-r-xr-xr-x   1    0    0    1458404 Jan 25 2008 [ 258784 00] C5_L13.stm.psp 
+-r-xr-xr-x   1    0    0    1458404 Jan 25 2008 [ 259504 00] C5_L15.stm.psp 
+-r-xr-xr-x   1    0    0    1458404 Jan 25 2008 [ 260224 00] C5_L17.stm.psp 
+-r-xr-xr-x   1    0    0    1458404 Jan 25 2008 [ 260944 00] C5_L19.stm.psp 
+-r-xr-xr-x   1    0    0    1458404 Jan 25 2008 [ 261664 00] C5_L20.stm.psp 
+-r-xr-xr-x   1    0    0    1458404 Jan 25 2008 [ 262384 00] C5_L3.stm.psp 
+-r-xr-xr-x   1    0    0    1458404 Jan 25 2008 [ 263104 00] C5_L5.stm.psp 
+-r-xr-xr-x   1    0    0    1458404 Jan 25 2008 [ 263824 00] C5_L7.stm.psp 
+-r-xr-xr-x   1    0    0    1458404 Jan 25 2008 [ 264544 00] C5_L9.stm.psp 
+-r-xr-xr-x   1    0    0    1475516 Jan 25 2008 [ 265264 00] C7_L0.stm.psp 
+-r-xr-xr-x   1    0    0     150384 Jan 25 2008 [ 266000 00] End_Campaign_1.stm.psp 
+-r-xr-xr-x   1    0    0     172704 Jan 25 2008 [ 266080 00] End_Campaign_2.stm.psp 
+-r-xr-xr-x   1    0    0     192048 Jan 25 2008 [ 266176 00] End_Game_1.stm.psp 
+-r-xr-xr-x   1    0    0     156336 Jan 25 2008 [ 266272 00] End_Game_2.stm.psp 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/CLG_1001/
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     40 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0    1868632 Aug  6 2007 [ 104976 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/CLG_1002/
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     41 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0     559336 Aug  6 2007 [ 105904 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/CLG_1003/
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     42 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0    1491964 Aug  6 2007 [ 106192 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/CLG_1005/
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     43 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0    1624256 Aug  6 2007 [ 106928 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/CLG_1007/
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     44 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0    1699944 Aug  6 2007 [ 107728 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/CLG_1008/
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     45 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0    1497028 Aug  6 2007 [ 108560 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/CLG_1009/
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     46 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0     773692 Aug  6 2007 [ 109296 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/CLG_100A/
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     47 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0    1475744 Aug  6 2007 [ 109680 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/CLG_100B/
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     48 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0    1572748 Aug  6 2007 [ 110416 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/CLG_100C/
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     49 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0    2230768 Aug  6 2007 [ 111184 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/CLG_100D/
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     50 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0    2191480 Aug  6 2007 [ 112288 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/CLG_100E/
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     51 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0    1568896 Aug  6 2007 [ 113360 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/JAM_0002/
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     52 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0    5135856 Aug  6 2007 [ 114128 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/JAM_0003/
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     53 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0    5905036 Aug  6 2007 [ 116640 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/JAM_0004/
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     54 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0    4531504 Aug  6 2007 [ 119536 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/JAM_0005/
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     55 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0    5495980 Aug  6 2007 [ 121760 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/JAM_0006/
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     56 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0    5297608 Aug  6 2007 [ 124448 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/JAM_0007/
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     57 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0    5117288 Aug  6 2007 [ 127040 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/JAM_0008/
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     58 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0    6450100 Aug  6 2007 [ 129552 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/JAM_0009/
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     59 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0    5381184 Aug  6 2007 [ 132704 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/JAM_000B/
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     60 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0    5632368 Aug  6 2007 [ 135344 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/JAM_000C/
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     61 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0    5788268 Aug  6 2007 [ 138096 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/JAM_000D/
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     62 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0    5454028 Aug  6 2007 [ 140928 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/THM_0000/
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     63 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0   18326392 Aug  6 2007 [ 143600 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/THM_0002/
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     64 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0   22914800 Aug  6 2007 [ 152560 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/THM_0003/
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     65 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0   12090272 Aug  6 2007 [ 163760 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/THM_0004/
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     66 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0   16089808 Aug  6 2007 [ 169664 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/THM_0005/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [     67 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0   11808900 Aug  6 2007 [ 177536 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/THM_0006/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [     68 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0    9421384 Aug  6 2007 [ 183312 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/THM_0007/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [     69 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0   18696604 Aug  6 2007 [ 187920 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/THM_0008/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [     70 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0   27919636 Aug  6 2007 [ 197056 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/THM_0009/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [     71 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0   17485276 Aug  6 2007 [ 210704 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/TUT_0000/
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     72 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0    5478460 Aug  6 2007 [ 219248 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_1001/
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     73 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      77448 Aug  6 2007 [ 221936 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_1002/
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     74 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      43296 Aug  6 2007 [ 221984 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_1003/
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     75 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      41440 Aug  6 2007 [ 222016 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_1004/
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     76 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      44400 Aug  6 2007 [ 222048 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_1005/
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     77 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      41876 Aug  6 2007 [ 222080 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_1006/
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     78 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      76448 Aug  6 2007 [ 222112 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_1007/
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     79 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      42884 Aug  6 2007 [ 222160 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_1008/
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     80 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      38556 Aug  6 2007 [ 222192 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_1009/
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     81 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      43620 Aug  6 2007 [ 222224 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_100A/
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     82 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      44004 Aug  6 2007 [ 222256 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_100B/
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     83 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      78424 Aug  6 2007 [ 222288 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_100C/
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     84 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      44620 Aug  6 2007 [ 222336 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_100D/
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     85 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      40952 Aug  6 2007 [ 222368 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_100E/
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     86 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      40156 Aug  6 2007 [ 222400 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_100F/
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     87 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      40464 Aug  6 2007 [ 222432 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_1010/
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     88 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      78780 Aug  6 2007 [ 222464 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_1011/
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     89 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      45800 Aug  6 2007 [ 222512 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_1012/
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     90 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      41568 Aug  6 2007 [ 222544 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_1013/
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     91 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      41116 Aug  6 2007 [ 222576 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_1014/
+dr-xr-xr-x   1    0    0       2048 Aug  6 2007 [     92 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      39576 Aug  6 2007 [ 222608 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_1015/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [     93 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_1016/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [     94 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      50692 Aug  7 2007 [ 222640 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_1017/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [     95 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      42164 Aug  7 2007 [ 222672 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_1018/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [     96 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      43456 Aug  7 2007 [ 222704 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_1019/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [     97 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      54572 Aug  7 2007 [ 222736 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_101A/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [     98 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      42812 Aug  7 2007 [ 222768 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_101B/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [     99 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      52848 Aug  7 2007 [ 222800 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_101C/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    100 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      50360 Aug  7 2007 [ 222832 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_101D/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    101 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      48512 Aug  7 2007 [ 222864 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_101E/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    102 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      44676 Aug  7 2007 [ 222896 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_101F/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    103 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      51044 Aug  7 2007 [ 222928 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_1020/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    104 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      55644 Aug  7 2007 [ 222960 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_1021/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    105 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      43176 Aug  7 2007 [ 222992 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_1022/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    106 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      63772 Aug  7 2007 [ 223024 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_1023/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    107 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      54960 Aug  7 2007 [ 223056 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_1024/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    108 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      84832 Aug  7 2007 [ 223088 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_1025/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    109 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      76156 Aug  7 2007 [ 223136 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_1026/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    110 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      74716 Aug  7 2007 [ 223184 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_1027/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    111 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      74224 Aug  7 2007 [ 223232 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_1028/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    112 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      76700 Aug  7 2007 [ 223280 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_1029/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    113 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      43164 Aug  7 2007 [ 223328 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_102A/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    114 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      41436 Aug  7 2007 [ 223360 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_102B/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    115 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      52720 Aug  7 2007 [ 223392 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_102C/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    116 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      47176 Aug  7 2007 [ 223424 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_102D/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    117 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      51776 Aug  7 2007 [ 223456 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_102E/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    118 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      47500 Aug  7 2007 [ 223488 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_102F/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    119 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      49056 Aug  7 2007 [ 223520 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_1030/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    120 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      49628 Aug  7 2007 [ 223552 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_1031/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    121 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      48540 Aug  7 2007 [ 223584 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_1032/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    122 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      53832 Aug  7 2007 [ 223616 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_1033/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    123 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      46760 Aug  7 2007 [ 223648 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_1034/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    124 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      58208 Aug  7 2007 [ 223680 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_1035/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    125 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      51676 Aug  7 2007 [ 223712 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_1036/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    126 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      68696 Aug  7 2007 [ 223744 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_1037/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    127 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      59020 Aug  7 2007 [ 223792 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_1038/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    128 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      31976 Aug  7 2007 [ 223824 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_1039/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    129 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      37368 Aug  7 2007 [ 223840 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_103A/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    130 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      42412 Aug  7 2007 [ 223872 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_103B/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    131 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      64588 Aug  7 2007 [ 223904 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_103C/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    132 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      55132 Aug  7 2007 [ 223936 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_103D/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    133 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      69216 Aug  7 2007 [ 223968 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_103E/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    134 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      60400 Aug  7 2007 [ 224016 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_103F/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    135 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      69884 Aug  7 2007 [ 224048 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_1040/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    136 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      52932 Aug  7 2007 [ 224096 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_1041/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    137 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      52020 Aug  7 2007 [ 224128 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_1042/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    138 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      45452 Aug  7 2007 [ 224160 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_1043/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    139 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      60008 Aug  7 2007 [ 224192 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_1044/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    140 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      46912 Aug  7 2007 [ 224224 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_1045/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    141 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      57312 Aug  7 2007 [ 224256 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/BARS/VIS_1046/
+dr-xr-xr-x   1    0    0       2048 Aug  7 2007 [    142 02] . 
+dr-xr-xr-x   1    0    0       6144 Aug  6 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0      46368 Aug  7 2007 [ 224288 00] BULK.BAR 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/COMMON/
+dr-xr-xr-x   1    0    0       4096 Jul 28 2008 [    143 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2008 [     34 02] .. 
+-r-xr-xr-x   1    0    0         60 Nov 27 2007 [  63344 00] ANIMSOUND.CSV 
+-r-xr-xr-x   1    0    0      21211 Oct 20 2007 [  63360 00] CREDITS.TXT 
+-r-xr-xr-x   1    0    0       2000 Aug 30 2007 [  63376 00] FACE.HGZ 
+-r-xr-xr-x   1    0    0       1836 Nov 27 2007 [  63392 00] FEEDBACK.CSV 
+-r-xr-xr-x   1    0    0      21308 Aug 30 2007 [  63408 00] FONTS.HGZ 
+-r-xr-xr-x   1    0    0      34778 Oct  1 2007 [  63424 00] FONTS_RP.HGZ 
+-r-xr-xr-x   1    0    0     510302 Oct 17 2007 [  63456 00] GLBSND.HGZ 
+-r-xr-xr-x   1    0    0        220 Nov 27 2007 [  63712 00] HELMET.CSV 
+-r-xr-xr-x   1    0    0       7182 Nov 27 2007 [  63728 00] IAMAPN.HGZ 
+-r-xr-xr-x   1    0    0     156218 Nov 27 2007 [  63744 00] IARCADEN.HGZ 
+-r-xr-xr-x   1    0    0       1912 Aug 30 2007 [  63824 00] INPUTMAP.DAT 
+-r-xr-xr-x   1    0    0       1960 Aug 30 2007 [  63840 00] INPUTMAP1.DAT 
+-r-xr-xr-x   1    0    0       1960 Aug 30 2007 [  63856 00] INPUTMAP2.DAT 
+-r-xr-xr-x   1    0    0        180 Nov 27 2007 [  63872 00] JACKET.CSV 
+-r-xr-xr-x   1    0    0        228 Nov 27 2007 [  63888 00] MATERIALS.CSV 
+-r-xr-xr-x   1    0    0        676 Nov 27 2007 [  63904 00] MELEEDATA.CSV 
+-r-xr-xr-x   1    0    0     262664 Aug 30 2007 [  63920 00] MISMODCOMTEX.HGZ 
+-r-xr-xr-x   1    0    0    2830864 Nov  8 2007 [  64064 00] NPC.HOG 
+-r-xr-xr-x   1    0    0       5216 Aug 30 2007 [  65456 00] PL_SHDOW.TDX 
+-r-xr-xr-x   1    0    0       1344 Aug 30 2007 [  65472 00] PROPLIST.LST 
+-r-xr-xr-x   1    0    0        284 Nov 27 2007 [  65488 00] SCOREMULTIPLIERS.CSV 
+-r-xr-xr-x   1    0    0     578720 Aug 30 2007 [  65504 00] SKA.HOG 
+-r-xr-xr-x   1    0    0     450800 Aug 30 2007 [  65792 00] SKALINKS.SKALNK 
+-r-xr-xr-x   1    0    0       1456 Aug 30 2007 [  66016 00] SKAS_PVP.HGZ 
+-r-xr-xr-x   1    0    0        434 Aug 30 2007 [  66032 00] SKEL.HGZ 
+-r-xr-xr-x   1    0    0       2202 Nov  8 2007 [  66048 00] SKL.HGZ 
+-r-xr-xr-x   1    0    0    2441216 Aug 30 2007 [  66064 00] SND.HOG 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2008 [    147 02] SPY_WARS 
+-r-xr-xr-x   1    0    0     144324 Nov 27 2007 [  67632 00] STRINGS_E.DAT 
+-r-xr-xr-x   1    0    0     159324 Nov 27 2007 [  67712 00] STRINGS_F.DAT 
+-r-xr-xr-x   1    0    0     159736 Nov 27 2007 [  67792 00] STRINGS_G.DAT 
+-r-xr-xr-x   1    0    0     154228 Nov 27 2007 [  67872 00] STRINGS_I.DAT 
+-r-xr-xr-x   1    0    0     150216 Nov 27 2007 [  67952 00] STRINGS_P.DAT 
+-r-xr-xr-x   1    0    0     202524 Nov 27 2007 [  68032 00] STRINGS_R.DAT 
+-r-xr-xr-x   1    0    0     157744 Nov 27 2007 [  68144 00] STRINGS_S.DAT 
+-r-xr-xr-x   1    0    0        388 Nov 27 2007 [  68224 00] TURRETDATA.CSV 
+-r-xr-xr-x   1    0    0       7972 Nov 27 2007 [  68240 00] TWEAKS.INI 
+dr-xr-xr-x   1    0    0      14336 Jul 28 2008 [    148 02] VOICES 
+-r-xr-xr-x   1    0    0       2208 Aug 30 2007 [  81872 00] WATERMAP.TDX 
+-r-xr-xr-x   1    0    0       5148 Nov 27 2007 [  81888 00] WEAPONS.CSV 
+-r-xr-xr-x   1    0    0     423982 Aug 30 2007 [  81904 00] WPN.HGZ 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/FRONTEND/
+dr-xr-xr-x   1    0    0       2048 Jul 28 2008 [    145 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2008 [     34 02] .. 
+-r-xr-xr-x   1    0    0     502176 Aug 30 2007 [  82112 00] CELLPTCH.HOG 
+-r-xr-xr-x   1    0    0      88460 Nov 27 2007 [  82368 00] EFIGSTDX.HGZ 
+-r-xr-xr-x   1    0    0     510302 Oct 17 2007 [  82416 00] GLBSND.HGZ 
+-r-xr-xr-x   1    0    0      23572 Aug 30 2007 [  82672 00] ICONS.HGZ 
+-r-xr-xr-x   1    0    0       4088 Aug 30 2007 [  82688 00] LEDNUMS.HGZ 
+-r-xr-xr-x   1    0    0        316 Nov 27 2007 [  82704 00] LIGHTING.INI 
+-r-xr-xr-x   1    0    0       2208 Aug 30 2007 [  82720 00] MINIMAPA.TDX 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2008 [    155 02] MUSIC 
+dr-xr-xr-x   1    0    0       4096 Jul 28 2008 [    156 02] NTSC 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2008 [    158 02] SVO 
+-r-xr-xr-x   1    0    0        732 Nov 27 2007 [  84656 00] TEAMINFO.CSV 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2008 [    159 02] UI_GROUPS 
+-r-xr-xr-x   1    0    0       1006 Aug 30 2007 [  85280 00] UI_ICONS.HGZ 
+-r-xr-xr-x   1    0    0     350496 Aug 30 2007 [  85296 00] UNLOCKS.HOG 
+-r-xr-xr-x   1    0    0      98536 Aug 30 2007 [  85472 00] VULGAR.DAT 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/MULTI/
+dr-xr-xr-x   1    0    0       2048 Jul 28 2008 [    146 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2008 [     34 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2008 [    160 02] AEROSPACE 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2008 [    161 02] BATTLE 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2008 [    162 02] FACEOFF 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2008 [    163 02] FISHVILLAGE 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/COMMON/SPY_WARS/
+dr-xr-xr-x   1    0    0       2048 Jul 28 2008 [    147 02] . 
+dr-xr-xr-x   1    0    0       4096 Jul 28 2008 [    143 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2008 [    164 02] SCEE 
+-r-xr-xr-x   1    0    0       2224 Nov 27 2007 [  67520 00] STRINGS_E.DAT 
+-r-xr-xr-x   1    0    0       2416 Nov 27 2007 [  67536 00] STRINGS_F.DAT 
+-r-xr-xr-x   1    0    0       2520 Nov 27 2007 [  67552 00] STRINGS_G.DAT 
+-r-xr-xr-x   1    0    0       2328 Nov 27 2007 [  67568 00] STRINGS_I.DAT 
+-r-xr-xr-x   1    0    0       2260 Nov 27 2007 [  67584 00] STRINGS_P.DAT 
+-r-xr-xr-x   1    0    0       3152 Nov 27 2007 [  67600 00] STRINGS_R.DAT 
+-r-xr-xr-x   1    0    0       2448 Nov 27 2007 [  67616 00] STRINGS_S.DAT 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/COMMON/VOICES/
+dr-xr-xr-x   1    0    0      14336 Jul 28 2008 [    148 02] . 
+dr-xr-xr-x   1    0    0       4096 Jul 28 2008 [    143 02] .. 
+-r-xr-xr-x   1    0    0       3440 Aug 30 2007 [  68256 00] VOLEVEL_DM_TA_E.CTL 
+-r-xr-xr-x   1    0    0      11807 Aug 30 2007 [  68272 00] VOLEVEL_DM_TA_E.H 
+-r-xr-xr-x   1    0    0       2140 Aug 30 2007 [  68288 00] VOLEVEL_DM_TA_E.MRK 
+-r-xr-xr-x   1    0    0     473088 Aug 30 2007 [  68304 00] VOLEVEL_DM_TA_E.SKX 
+-r-xr-xr-x   1    0    0        536 Aug 30 2007 [  68544 00] VOLEVEL_DM_TA_E.TBL 
+-r-xr-xr-x   1    0    0       3440 Aug 30 2007 [  68560 00] VOLEVEL_DM_TA_F.CTL 
+-r-xr-xr-x   1    0    0      11807 Aug 30 2007 [  68576 00] VOLEVEL_DM_TA_F.H 
+-r-xr-xr-x   1    0    0       2208 Aug 30 2007 [  68592 00] VOLEVEL_DM_TA_F.MRK 
+-r-xr-xr-x   1    0    0     458752 Aug 30 2007 [  68608 00] VOLEVEL_DM_TA_F.SKX 
+-r-xr-xr-x   1    0    0        536 Aug 30 2007 [  68832 00] VOLEVEL_DM_TA_F.TBL 
+-r-xr-xr-x   1    0    0       3440 Aug 30 2007 [  68848 00] VOLEVEL_DM_TA_G.CTL 
+-r-xr-xr-x   1    0    0      11807 Aug 30 2007 [  68864 00] VOLEVEL_DM_TA_G.H 
+-r-xr-xr-x   1    0    0       2184 Aug 30 2007 [  68880 00] VOLEVEL_DM_TA_G.MRK 
+-r-xr-xr-x   1    0    0     454656 Aug 30 2007 [  68896 00] VOLEVEL_DM_TA_G.SKX 
+-r-xr-xr-x   1    0    0        536 Aug 30 2007 [  69120 00] VOLEVEL_DM_TA_G.TBL 
+-r-xr-xr-x   1    0    0       3440 Aug 30 2007 [  69136 00] VOLEVEL_DM_TA_I.CTL 
+-r-xr-xr-x   1    0    0      11807 Aug 30 2007 [  69152 00] VOLEVEL_DM_TA_I.H 
+-r-xr-xr-x   1    0    0       2180 Aug 30 2007 [  69168 00] VOLEVEL_DM_TA_I.MRK 
+-r-xr-xr-x   1    0    0     471040 Aug 30 2007 [  69184 00] VOLEVEL_DM_TA_I.SKX 
+-r-xr-xr-x   1    0    0        536 Aug 30 2007 [  69424 00] VOLEVEL_DM_TA_I.TBL 
+-r-xr-xr-x   1    0    0       3440 Aug 30 2007 [  69440 00] VOLEVEL_DM_TA_S.CTL 
+-r-xr-xr-x   1    0    0      11807 Aug 30 2007 [  69456 00] VOLEVEL_DM_TA_S.H 
+-r-xr-xr-x   1    0    0       2084 Aug 30 2007 [  69472 00] VOLEVEL_DM_TA_S.MRK 
+-r-xr-xr-x   1    0    0     444416 Aug 30 2007 [  69488 00] VOLEVEL_DM_TA_S.SKX 
+-r-xr-xr-x   1    0    0        536 Aug 30 2007 [  69712 00] VOLEVEL_DM_TA_S.TBL 
+-r-xr-xr-x   1    0    0       3900 Aug 30 2007 [  69728 00] VOLEVEL_RET_TA_E.CTL 
+-r-xr-xr-x   1    0    0      13230 Aug 30 2007 [  69744 00] VOLEVEL_RET_TA_E.H 
+-r-xr-xr-x   1    0    0       2396 Aug 30 2007 [  69760 00] VOLEVEL_RET_TA_E.MRK 
+-r-xr-xr-x   1    0    0     534528 Aug 30 2007 [  69776 00] VOLEVEL_RET_TA_E.SKX 
+-r-xr-xr-x   1    0    0        596 Aug 30 2007 [  70048 00] VOLEVEL_RET_TA_E.TBL 
+-r-xr-xr-x   1    0    0       3900 Aug 30 2007 [  70064 00] VOLEVEL_RET_TA_F.CTL 
+-r-xr-xr-x   1    0    0      13230 Aug 30 2007 [  70080 00] VOLEVEL_RET_TA_F.H 
+-r-xr-xr-x   1    0    0       2592 Aug 30 2007 [  70096 00] VOLEVEL_RET_TA_F.MRK 
+-r-xr-xr-x   1    0    0     503808 Aug 30 2007 [  70112 00] VOLEVEL_RET_TA_F.SKX 
+-r-xr-xr-x   1    0    0        596 Aug 30 2007 [  70368 00] VOLEVEL_RET_TA_F.TBL 
+-r-xr-xr-x   1    0    0       3900 Aug 30 2007 [  70384 00] VOLEVEL_RET_TA_G.CTL 
+-r-xr-xr-x   1    0    0      13230 Aug 30 2007 [  70400 00] VOLEVEL_RET_TA_G.H 
+-r-xr-xr-x   1    0    0       2408 Aug 30 2007 [  70416 00] VOLEVEL_RET_TA_G.MRK 
+-r-xr-xr-x   1    0    0     430080 Aug 30 2007 [  70432 00] VOLEVEL_RET_TA_G.SKX 
+-r-xr-xr-x   1    0    0        596 Aug 30 2007 [  70656 00] VOLEVEL_RET_TA_G.TBL 
+-r-xr-xr-x   1    0    0       3900 Aug 30 2007 [  70672 00] VOLEVEL_RET_TA_I.CTL 
+-r-xr-xr-x   1    0    0      13230 Aug 30 2007 [  70688 00] VOLEVEL_RET_TA_I.H 
+-r-xr-xr-x   1    0    0       2516 Aug 30 2007 [  70704 00] VOLEVEL_RET_TA_I.MRK 
+-r-xr-xr-x   1    0    0     518144 Aug 30 2007 [  70720 00] VOLEVEL_RET_TA_I.SKX 
+-r-xr-xr-x   1    0    0        596 Aug 30 2007 [  70976 00] VOLEVEL_RET_TA_I.TBL 
+-r-xr-xr-x   1    0    0       3900 Aug 30 2007 [  70992 00] VOLEVEL_RET_TA_S.CTL 
+-r-xr-xr-x   1    0    0      13230 Aug 30 2007 [  71008 00] VOLEVEL_RET_TA_S.H 
+-r-xr-xr-x   1    0    0       2408 Aug 30 2007 [  71024 00] VOLEVEL_RET_TA_S.MRK 
+-r-xr-xr-x   1    0    0     503808 Aug 30 2007 [  71040 00] VOLEVEL_RET_TA_S.SKX 
+-r-xr-xr-x   1    0    0        596 Aug 30 2007 [  71296 00] VOLEVEL_RET_TA_S.TBL 
+-r-xr-xr-x   1    0    0       3900 Aug 30 2007 [  71312 00] VOLEVEL_RET_TB_E.CTL 
+-r-xr-xr-x   1    0    0      13230 Aug 30 2007 [  71328 00] VOLEVEL_RET_TB_E.H 
+-r-xr-xr-x   1    0    0       2380 Aug 30 2007 [  71344 00] VOLEVEL_RET_TB_E.MRK 
+-r-xr-xr-x   1    0    0     520192 Aug 30 2007 [  71360 00] VOLEVEL_RET_TB_E.SKX 
+-r-xr-xr-x   1    0    0        596 Aug 30 2007 [  71616 00] VOLEVEL_RET_TB_E.TBL 
+-r-xr-xr-x   1    0    0       3900 Aug 30 2007 [  71632 00] VOLEVEL_RET_TB_F.CTL 
+-r-xr-xr-x   1    0    0      13230 Aug 30 2007 [  71648 00] VOLEVEL_RET_TB_F.H 
+-r-xr-xr-x   1    0    0       2556 Aug 30 2007 [  71664 00] VOLEVEL_RET_TB_F.MRK 
+-r-xr-xr-x   1    0    0     518144 Aug 30 2007 [  71680 00] VOLEVEL_RET_TB_F.SKX 
+-r-xr-xr-x   1    0    0        596 Aug 30 2007 [  71936 00] VOLEVEL_RET_TB_F.TBL 
+-r-xr-xr-x   1    0    0       3900 Aug 30 2007 [  71952 00] VOLEVEL_RET_TB_G.CTL 
+-r-xr-xr-x   1    0    0      13230 Aug 30 2007 [  71968 00] VOLEVEL_RET_TB_G.H 
+-r-xr-xr-x   1    0    0       2464 Aug 30 2007 [  71984 00] VOLEVEL_RET_TB_G.MRK 
+-r-xr-xr-x   1    0    0     368640 Aug 30 2007 [  72000 00] VOLEVEL_RET_TB_G.SKX 
+-r-xr-xr-x   1    0    0        596 Aug 30 2007 [  72192 00] VOLEVEL_RET_TB_G.TBL 
+-r-xr-xr-x   1    0    0       3900 Nov 27 2007 [  72208 00] VOLEVEL_RET_TB_I.CTL 
+-r-xr-xr-x   1    0    0      13230 Nov 27 2007 [  72224 00] VOLEVEL_RET_TB_I.H 
+-r-xr-xr-x   1    0    0       2468 Nov 27 2007 [  72240 00] VOLEVEL_RET_TB_I.MRK 
+-r-xr-xr-x   1    0    0     503808 Nov 27 2007 [  72256 00] VOLEVEL_RET_TB_I.SKX 
+-r-xr-xr-x   1    0    0        596 Nov 27 2007 [  72512 00] VOLEVEL_RET_TB_I.TBL 
+-r-xr-xr-x   1    0    0       3900 Aug 30 2007 [  72528 00] VOLEVEL_RET_TB_S.CTL 
+-r-xr-xr-x   1    0    0      13230 Aug 30 2007 [  72544 00] VOLEVEL_RET_TB_S.H 
+-r-xr-xr-x   1    0    0       2396 Aug 30 2007 [  72560 00] VOLEVEL_RET_TB_S.MRK 
+-r-xr-xr-x   1    0    0     497664 Aug 30 2007 [  72576 00] VOLEVEL_RET_TB_S.SKX 
+-r-xr-xr-x   1    0    0        596 Aug 30 2007 [  72832 00] VOLEVEL_RET_TB_S.TBL 
+-r-xr-xr-x   1    0    0       6108 Aug 30 2007 [  72848 00] VOLEVEL_ROG_TA_E.CTL 
+-r-xr-xr-x   1    0    0      20046 Aug 30 2007 [  72864 00] VOLEVEL_ROG_TA_E.H 
+-r-xr-xr-x   1    0    0       3440 Aug 30 2007 [  72880 00] VOLEVEL_ROG_TA_E.MRK 
+-r-xr-xr-x   1    0    0     815104 Aug 30 2007 [  72896 00] VOLEVEL_ROG_TA_E.SKX 
+-r-xr-xr-x   1    0    0        884 Aug 30 2007 [  73296 00] VOLEVEL_ROG_TA_E.TBL 
+-r-xr-xr-x   1    0    0       6108 Aug 30 2007 [  73312 00] VOLEVEL_ROG_TA_F.CTL 
+-r-xr-xr-x   1    0    0      20046 Aug 30 2007 [  73328 00] VOLEVEL_ROG_TA_F.H 
+-r-xr-xr-x   1    0    0       3748 Aug 30 2007 [  73344 00] VOLEVEL_ROG_TA_F.MRK 
+-r-xr-xr-x   1    0    0     759808 Aug 30 2007 [  73360 00] VOLEVEL_ROG_TA_F.SKX 
+-r-xr-xr-x   1    0    0        884 Aug 30 2007 [  73744 00] VOLEVEL_ROG_TA_F.TBL 
+-r-xr-xr-x   1    0    0       6108 Aug 30 2007 [  73760 00] VOLEVEL_ROG_TA_G.CTL 
+-r-xr-xr-x   1    0    0      20046 Aug 30 2007 [  73776 00] VOLEVEL_ROG_TA_G.H 
+-r-xr-xr-x   1    0    0       3784 Aug 30 2007 [  73792 00] VOLEVEL_ROG_TA_G.MRK 
+-r-xr-xr-x   1    0    0     645120 Aug 30 2007 [  73808 00] VOLEVEL_ROG_TA_G.SKX 
+-r-xr-xr-x   1    0    0        884 Aug 30 2007 [  74128 00] VOLEVEL_ROG_TA_G.TBL 
+-r-xr-xr-x   1    0    0       6108 Aug 30 2007 [  74144 00] VOLEVEL_ROG_TA_I.CTL 
+-r-xr-xr-x   1    0    0      20046 Aug 30 2007 [  74160 00] VOLEVEL_ROG_TA_I.H 
+-r-xr-xr-x   1    0    0       3644 Aug 30 2007 [  74176 00] VOLEVEL_ROG_TA_I.MRK 
+-r-xr-xr-x   1    0    0     778240 Aug 30 2007 [  74192 00] VOLEVEL_ROG_TA_I.SKX 
+-r-xr-xr-x   1    0    0        884 Aug 30 2007 [  74576 00] VOLEVEL_ROG_TA_I.TBL 
+-r-xr-xr-x   1    0    0       6108 Aug 30 2007 [  74592 00] VOLEVEL_ROG_TA_S.CTL 
+-r-xr-xr-x   1    0    0      20046 Aug 30 2007 [  74608 00] VOLEVEL_ROG_TA_S.H 
+-r-xr-xr-x   1    0    0       3524 Aug 30 2007 [  74624 00] VOLEVEL_ROG_TA_S.MRK 
+-r-xr-xr-x   1    0    0     770048 Aug 30 2007 [  74640 00] VOLEVEL_ROG_TA_S.SKX 
+-r-xr-xr-x   1    0    0        884 Aug 30 2007 [  75024 00] VOLEVEL_ROG_TA_S.TBL 
+-r-xr-xr-x   1    0    0       4820 Aug 30 2007 [  75040 00] VOLEVEL_SAB_TA_E.CTL 
+-r-xr-xr-x   1    0    0      16070 Aug 30 2007 [  75056 00] VOLEVEL_SAB_TA_E.H 
+-r-xr-xr-x   1    0    0       2984 Aug 30 2007 [  75072 00] VOLEVEL_SAB_TA_E.MRK 
+-r-xr-xr-x   1    0    0     659456 Aug 30 2007 [  75088 00] VOLEVEL_SAB_TA_E.SKX 
+-r-xr-xr-x   1    0    0        716 Aug 30 2007 [  75424 00] VOLEVEL_SAB_TA_E.TBL 
+-r-xr-xr-x   1    0    0       4820 Aug 30 2007 [  75440 00] VOLEVEL_SAB_TA_F.CTL 
+-r-xr-xr-x   1    0    0      16070 Aug 30 2007 [  75456 00] VOLEVEL_SAB_TA_F.H 
+-r-xr-xr-x   1    0    0       3172 Aug 30 2007 [  75472 00] VOLEVEL_SAB_TA_F.MRK 
+-r-xr-xr-x   1    0    0     630784 Aug 30 2007 [  75488 00] VOLEVEL_SAB_TA_F.SKX 
+-r-xr-xr-x   1    0    0        716 Aug 30 2007 [  75808 00] VOLEVEL_SAB_TA_F.TBL 
+-r-xr-xr-x   1    0    0       4820 Aug 30 2007 [  75824 00] VOLEVEL_SAB_TA_G.CTL 
+-r-xr-xr-x   1    0    0      16070 Aug 30 2007 [  75840 00] VOLEVEL_SAB_TA_G.H 
+-r-xr-xr-x   1    0    0       3116 Aug 30 2007 [  75856 00] VOLEVEL_SAB_TA_G.MRK 
+-r-xr-xr-x   1    0    0     606208 Aug 30 2007 [  75872 00] VOLEVEL_SAB_TA_G.SKX 
+-r-xr-xr-x   1    0    0        716 Aug 30 2007 [  76176 00] VOLEVEL_SAB_TA_G.TBL 
+-r-xr-xr-x   1    0    0       4820 Aug 30 2007 [  76192 00] VOLEVEL_SAB_TA_I.CTL 
+-r-xr-xr-x   1    0    0      16070 Aug 30 2007 [  76208 00] VOLEVEL_SAB_TA_I.H 
+-r-xr-xr-x   1    0    0       3060 Aug 30 2007 [  76224 00] VOLEVEL_SAB_TA_I.MRK 
+-r-xr-xr-x   1    0    0     643072 Aug 30 2007 [  76240 00] VOLEVEL_SAB_TA_I.SKX 
+-r-xr-xr-x   1    0    0        716 Aug 30 2007 [  76560 00] VOLEVEL_SAB_TA_I.TBL 
+-r-xr-xr-x   1    0    0       4820 Aug 30 2007 [  76576 00] VOLEVEL_SAB_TA_S.CTL 
+-r-xr-xr-x   1    0    0      16070 Aug 30 2007 [  76592 00] VOLEVEL_SAB_TA_S.H 
+-r-xr-xr-x   1    0    0       2964 Aug 30 2007 [  76608 00] VOLEVEL_SAB_TA_S.MRK 
+-r-xr-xr-x   1    0    0     624640 Aug 30 2007 [  76624 00] VOLEVEL_SAB_TA_S.SKX 
+-r-xr-xr-x   1    0    0        716 Aug 30 2007 [  76944 00] VOLEVEL_SAB_TA_S.TBL 
+-r-xr-xr-x   1    0    0       4728 Aug 30 2007 [  76960 00] VOLEVEL_SAB_TB_E.CTL 
+-r-xr-xr-x   1    0    0      15786 Aug 30 2007 [  76976 00] VOLEVEL_SAB_TB_E.H 
+-r-xr-xr-x   1    0    0       2980 Aug 30 2007 [  76992 00] VOLEVEL_SAB_TB_E.MRK 
+-r-xr-xr-x   1    0    0     665600 Aug 30 2007 [  77008 00] VOLEVEL_SAB_TB_E.SKX 
+-r-xr-xr-x   1    0    0        704 Aug 30 2007 [  77344 00] VOLEVEL_SAB_TB_E.TBL 
+-r-xr-xr-x   1    0    0       4728 Aug 30 2007 [  77360 00] VOLEVEL_SAB_TB_F.CTL 
+-r-xr-xr-x   1    0    0      15786 Aug 30 2007 [  77376 00] VOLEVEL_SAB_TB_F.H 
+-r-xr-xr-x   1    0    0       3272 Aug 30 2007 [  77392 00] VOLEVEL_SAB_TB_F.MRK 
+-r-xr-xr-x   1    0    0     651264 Aug 30 2007 [  77408 00] VOLEVEL_SAB_TB_F.SKX 
+-r-xr-xr-x   1    0    0        704 Aug 30 2007 [  77728 00] VOLEVEL_SAB_TB_F.TBL 
+-r-xr-xr-x   1    0    0       4728 Aug 30 2007 [  77744 00] VOLEVEL_SAB_TB_G.CTL 
+-r-xr-xr-x   1    0    0      15786 Aug 30 2007 [  77760 00] VOLEVEL_SAB_TB_G.H 
+-r-xr-xr-x   1    0    0       3204 Aug 30 2007 [  77776 00] VOLEVEL_SAB_TB_G.MRK 
+-r-xr-xr-x   1    0    0     475136 Aug 30 2007 [  77792 00] VOLEVEL_SAB_TB_G.SKX 
+-r-xr-xr-x   1    0    0        704 Aug 30 2007 [  78032 00] VOLEVEL_SAB_TB_G.TBL 
+-r-xr-xr-x   1    0    0       4728 Aug 30 2007 [  78048 00] VOLEVEL_SAB_TB_I.CTL 
+-r-xr-xr-x   1    0    0      15786 Aug 30 2007 [  78064 00] VOLEVEL_SAB_TB_I.H 
+-r-xr-xr-x   1    0    0       3124 Aug 30 2007 [  78080 00] VOLEVEL_SAB_TB_I.MRK 
+-r-xr-xr-x   1    0    0     649216 Aug 30 2007 [  78096 00] VOLEVEL_SAB_TB_I.SKX 
+-r-xr-xr-x   1    0    0        704 Aug 30 2007 [  78416 00] VOLEVEL_SAB_TB_I.TBL 
+-r-xr-xr-x   1    0    0       4728 Aug 30 2007 [  78432 00] VOLEVEL_SAB_TB_S.CTL 
+-r-xr-xr-x   1    0    0      15786 Aug 30 2007 [  78448 00] VOLEVEL_SAB_TB_S.H 
+-r-xr-xr-x   1    0    0       3068 Aug 30 2007 [  78464 00] VOLEVEL_SAB_TB_S.MRK 
+-r-xr-xr-x   1    0    0     643072 Aug 30 2007 [  78480 00] VOLEVEL_SAB_TB_S.SKX 
+-r-xr-xr-x   1    0    0        704 Aug 30 2007 [  78800 00] VOLEVEL_SAB_TB_S.TBL 
+-r-xr-xr-x   1    0    0       3348 Aug 30 2007 [  78816 00] VOLEVEL_TDM_TA_E.CTL 
+-r-xr-xr-x   1    0    0      11526 Aug 30 2007 [  78832 00] VOLEVEL_TDM_TA_E.H 
+-r-xr-xr-x   1    0    0       2284 Aug 30 2007 [  78848 00] VOLEVEL_TDM_TA_E.MRK 
+-r-xr-xr-x   1    0    0     485376 Aug 30 2007 [  78864 00] VOLEVEL_TDM_TA_E.SKX 
+-r-xr-xr-x   1    0    0        524 Aug 30 2007 [  79104 00] VOLEVEL_TDM_TA_E.TBL 
+-r-xr-xr-x   1    0    0       3348 Aug 30 2007 [  79120 00] VOLEVEL_TDM_TA_F.CTL 
+-r-xr-xr-x   1    0    0      11526 Aug 30 2007 [  79136 00] VOLEVEL_TDM_TA_F.H 
+-r-xr-xr-x   1    0    0       2200 Aug 30 2007 [  79152 00] VOLEVEL_TDM_TA_F.MRK 
+-r-xr-xr-x   1    0    0     450560 Aug 30 2007 [  79168 00] VOLEVEL_TDM_TA_F.SKX 
+-r-xr-xr-x   1    0    0        524 Aug 30 2007 [  79392 00] VOLEVEL_TDM_TA_F.TBL 
+-r-xr-xr-x   1    0    0       3348 Aug 30 2007 [  79408 00] VOLEVEL_TDM_TA_G.CTL 
+-r-xr-xr-x   1    0    0      11526 Aug 30 2007 [  79424 00] VOLEVEL_TDM_TA_G.H 
+-r-xr-xr-x   1    0    0       2256 Aug 30 2007 [  79440 00] VOLEVEL_TDM_TA_G.MRK 
+-r-xr-xr-x   1    0    0     468992 Aug 30 2007 [  79456 00] VOLEVEL_TDM_TA_G.SKX 
+-r-xr-xr-x   1    0    0        524 Aug 30 2007 [  79696 00] VOLEVEL_TDM_TA_G.TBL 
+-r-xr-xr-x   1    0    0       3348 Aug 30 2007 [  79712 00] VOLEVEL_TDM_TA_I.CTL 
+-r-xr-xr-x   1    0    0      11526 Aug 30 2007 [  79728 00] VOLEVEL_TDM_TA_I.H 
+-r-xr-xr-x   1    0    0       2152 Aug 30 2007 [  79744 00] VOLEVEL_TDM_TA_I.MRK 
+-r-xr-xr-x   1    0    0     477184 Aug 30 2007 [  79760 00] VOLEVEL_TDM_TA_I.SKX 
+-r-xr-xr-x   1    0    0        524 Aug 30 2007 [  80000 00] VOLEVEL_TDM_TA_I.TBL 
+-r-xr-xr-x   1    0    0       3348 Aug 30 2007 [  80016 00] VOLEVEL_TDM_TA_S.CTL 
+-r-xr-xr-x   1    0    0      11526 Aug 30 2007 [  80032 00] VOLEVEL_TDM_TA_S.H 
+-r-xr-xr-x   1    0    0       2120 Aug 30 2007 [  80048 00] VOLEVEL_TDM_TA_S.MRK 
+-r-xr-xr-x   1    0    0     454656 Aug 30 2007 [  80064 00] VOLEVEL_TDM_TA_S.SKX 
+-r-xr-xr-x   1    0    0        524 Aug 30 2007 [  80288 00] VOLEVEL_TDM_TA_S.TBL 
+-r-xr-xr-x   1    0    0       3348 Aug 30 2007 [  80304 00] VOLEVEL_TDM_TB_E.CTL 
+-r-xr-xr-x   1    0    0      11526 Aug 30 2007 [  80320 00] VOLEVEL_TDM_TB_E.H 
+-r-xr-xr-x   1    0    0       2428 Aug 30 2007 [  80336 00] VOLEVEL_TDM_TB_E.MRK 
+-r-xr-xr-x   1    0    0     536576 Aug 30 2007 [  80352 00] VOLEVEL_TDM_TB_E.SKX 
+-r-xr-xr-x   1    0    0        524 Aug 30 2007 [  80624 00] VOLEVEL_TDM_TB_E.TBL 
+-r-xr-xr-x   1    0    0       3348 Aug 30 2007 [  80640 00] VOLEVEL_TDM_TB_F.CTL 
+-r-xr-xr-x   1    0    0      11526 Aug 30 2007 [  80656 00] VOLEVEL_TDM_TB_F.H 
+-r-xr-xr-x   1    0    0       2688 Aug 30 2007 [  80672 00] VOLEVEL_TDM_TB_F.MRK 
+-r-xr-xr-x   1    0    0     520192 Aug 30 2007 [  80688 00] VOLEVEL_TDM_TB_F.SKX 
+-r-xr-xr-x   1    0    0        524 Aug 30 2007 [  80944 00] VOLEVEL_TDM_TB_F.TBL 
+-r-xr-xr-x   1    0    0       3348 Aug 30 2007 [  80960 00] VOLEVEL_TDM_TB_G.CTL 
+-r-xr-xr-x   1    0    0      11526 Aug 30 2007 [  80976 00] VOLEVEL_TDM_TB_G.H 
+-r-xr-xr-x   1    0    0       2440 Aug 30 2007 [  80992 00] VOLEVEL_TDM_TB_G.MRK 
+-r-xr-xr-x   1    0    0     409600 Aug 30 2007 [  81008 00] VOLEVEL_TDM_TB_G.SKX 
+-r-xr-xr-x   1    0    0        524 Aug 30 2007 [  81216 00] VOLEVEL_TDM_TB_G.TBL 
+-r-xr-xr-x   1    0    0       3348 Aug 30 2007 [  81232 00] VOLEVEL_TDM_TB_I.CTL 
+-r-xr-xr-x   1    0    0      11526 Aug 30 2007 [  81248 00] VOLEVEL_TDM_TB_I.H 
+-r-xr-xr-x   1    0    0       2452 Aug 30 2007 [  81264 00] VOLEVEL_TDM_TB_I.MRK 
+-r-xr-xr-x   1    0    0     514048 Aug 30 2007 [  81280 00] VOLEVEL_TDM_TB_I.SKX 
+-r-xr-xr-x   1    0    0        524 Aug 30 2007 [  81536 00] VOLEVEL_TDM_TB_I.TBL 
+-r-xr-xr-x   1    0    0       3348 Aug 30 2007 [  81552 00] VOLEVEL_TDM_TB_S.CTL 
+-r-xr-xr-x   1    0    0      11526 Aug 30 2007 [  81568 00] VOLEVEL_TDM_TB_S.H 
+-r-xr-xr-x   1    0    0       2416 Aug 30 2007 [  81584 00] VOLEVEL_TDM_TB_S.MRK 
+-r-xr-xr-x   1    0    0     518144 Aug 30 2007 [  81600 00] VOLEVEL_TDM_TB_S.SKX 
+-r-xr-xr-x   1    0    0        524 Aug 30 2007 [  81856 00] VOLEVEL_TDM_TB_S.TBL 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/FRONTEND/MUSIC/
+dr-xr-xr-x   1    0    0       2048 Jul 28 2008 [    155 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2008 [    145 02] .. 
+-r-xr-xr-x   1    0    0    1331216 Aug 30 2007 [  82736 00] GABE_AND_LIAN_LOOP.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/FRONTEND/NTSC/
+dr-xr-xr-x   1    0    0       4096 Jul 28 2008 [    156 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2008 [    145 02] .. 
+-r-xr-xr-x   1    0    0      20606 Nov 27 2007 [  83392 00] AUTOSAVE.HGZ 
+-r-xr-xr-x   1    0    0       2600 Nov 27 2007 [  83408 00] BONUSBAR.HGZ 
+-r-xr-xr-x   1    0    0      17226 Nov 27 2007 [  83424 00] BRIEFING.HGZ 
+-r-xr-xr-x   1    0    0       2974 Nov 27 2007 [  83440 00] COMBO.HGZ 
+-r-xr-xr-x   1    0    0      41944 Nov 27 2007 [  83456 00] EQMODIFY.HGZ 
+-r-xr-xr-x   1    0    0      17706 Nov 27 2007 [  83488 00] EQUIPNT.HGZ 
+-r-xr-xr-x   1    0    0      11110 Nov 27 2007 [  83504 00] ESRB_ENG.HGZ 
+-r-xr-xr-x   1    0    0      10286 Nov 27 2007 [  83520 00] GAME.HGZ 
+-r-xr-xr-x   1    0    0      22660 Nov 27 2007 [  83536 00] GAMECTRL.HGZ 
+-r-xr-xr-x   1    0    0      46806 Nov 27 2007 [  83552 00] GAMEGUI.HGZ 
+-r-xr-xr-x   1    0    0      26532 Nov 27 2007 [  83584 00] GAMEOPT.HGZ 
+-r-xr-xr-x   1    0    0      47006 Nov 27 2007 [  83600 00] GAMEPROF.HGZ 
+-r-xr-xr-x   1    0    0      44574 Nov 27 2007 [  83632 00] GAMESTATS.HGZ 
+-r-xr-xr-x   1    0    0      16208 Nov 27 2007 [  83664 00] INGAMENU.HGZ 
+-r-xr-xr-x   1    0    0      16436 Nov 27 2007 [  83680 00] KEYBOARD.HGZ 
+-r-xr-xr-x   1    0    0     131356 Nov 27 2007 [  83696 00] LANGSELECT.HGZ 
+-r-xr-xr-x   1    0    0     174320 Nov 27 2007 [  83776 00] LEGALSCN.HGZ 
+-r-xr-xr-x   1    0    0     118938 Nov 27 2007 [  83872 00] LOADSCRN.HGZ 
+-r-xr-xr-x   1    0    0     128736 Nov 27 2007 [  83936 00] MAINLOAD.HGZ 
+-r-xr-xr-x   1    0    0      14078 Nov 27 2007 [  84000 00] MAP_STATS.HGZ 
+-r-xr-xr-x   1    0    0     100322 Nov 27 2007 [  84016 00] MEMSLOT.HGZ 
+-r-xr-xr-x   1    0    0      82848 Nov 27 2007 [  84080 00] MODIFYSCRN.HGZ 
+-r-xr-xr-x   1    0    0       7952 Nov 27 2007 [  84128 00] MOD_INTERACT_LIST.HGZ 
+-r-xr-xr-x   1    0    0      30952 Nov 27 2007 [  84144 00] MOD_MAP.HGZ 
+-r-xr-xr-x   1    0    0       6562 Nov 27 2007 [  84160 00] MOD_MODE.HGZ 
+-r-xr-xr-x   1    0    0      13346 Nov 27 2007 [  84176 00] MOD_PAUSE.HGZ 
+-r-xr-xr-x   1    0    0      18690 Nov 27 2007 [  84192 00] MOD_REVIEW.HGZ 
+-r-xr-xr-x   1    0    0      17012 Nov 27 2007 [  84208 00] MOD_SAVE3.HGZ 
+-r-xr-xr-x   1    0    0       8376 Nov 27 2007 [  84224 00] MOD_WELCOME.HGZ 
+-r-xr-xr-x   1    0    0       1338 Nov 27 2007 [  84240 00] NETISSUE.HGZ 
+-r-xr-xr-x   1    0    0       5386 Nov 27 2007 [  84256 00] POPUP.HGZ 
+-r-xr-xr-x   1    0    0      25934 Nov 27 2007 [  84272 00] POSTLOAD.HGZ 
+-r-xr-xr-x   1    0    0      49140 Nov 27 2007 [  84288 00] POST_GAME.HGZ 
+-r-xr-xr-x   1    0    0      73008 Nov 27 2007 [  84320 00] PVP_VOTING.HGZ 
+-r-xr-xr-x   1    0    0      48412 Nov 27 2007 [  84368 00] READYSCR.HGZ 
+-r-xr-xr-x   1    0    0       4610 Nov 27 2007 [  84400 00] RED_HEALTH.HGZ 
+-r-xr-xr-x   1    0    0      56314 Nov 27 2007 [  84416 00] REWARDS.HGZ 
+-r-xr-xr-x   1    0    0       3140 Nov 27 2007 [  84448 00] SCE_ENG.HGZ 
+-r-xr-xr-x   1    0    0      73700 Nov 27 2007 [  84464 00] SHELL.HGZ 
+-r-xr-xr-x   1    0    0      21906 Nov 27 2007 [  84512 00] SMSCORES2.HGZ 
+-r-xr-xr-x   1    0    0     128948 Nov 27 2007 [  84528 00] SPLASH.HGZ 
+-r-xr-xr-x   1    0    0       1660 Nov 27 2007 [  84592 00] STARTING.HGZ 
+-r-xr-xr-x   1    0    0      16664 Nov 27 2007 [  84608 00] WEPSLPSP.HGZ 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/FRONTEND/SVO/
+dr-xr-xr-x   1    0    0       2048 Jul 28 2008 [    158 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2008 [    145 02] .. 
+-r-xr-xr-x   1    0    0       2074 Oct 16 2007 [  84624 00] BUTTON_FRM.HGZ 
+-r-xr-xr-x   1    0    0       4764 Aug 30 2007 [  84640 00] WINDOW_FRM.HGZ 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/FRONTEND/UI_GROUPS/
+dr-xr-xr-x   1    0    0       2048 Jul 28 2008 [    159 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2008 [    145 02] .. 
+-r-xr-xr-x   1    0    0      49050 Nov 27 2007 [  84672 00] SHELL_FREED.HGZ 
+-r-xr-xr-x   1    0    0    1154870 Nov 27 2007 [  84704 00] SHELL_UNFREED.HGZ 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/MULTI/AEROSPACE/
+dr-xr-xr-x   1    0    0       2048 Jul 28 2008 [    160 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2008 [    146 02] .. 
+-r-xr-xr-x   1    0    0         64 Oct 26 2007 [  85536 00] COLLISIONPROPERTIES.TXT 
+-r-xr-xr-x   1    0    0    4879216 Nov  9 2007 [  85552 00] DATA.HOG 
+-r-xr-xr-x   1    0    0     404264 Nov 27 2007 [  87936 00] DATA.POP 
+-r-xr-xr-x   1    0    0          8 Oct 20 2007 [  88144 00] DATARELOC.BIN 
+-r-xr-xr-x   1    0    0    5085616 Nov  9 2007 [  88160 00] DATA_N.HOG 
+-r-xr-xr-x   1    0    0     898384 Aug 30 2007 [  90656 00] DATA_TDX1.HOG 
+-r-xr-xr-x   1    0    0     494064 Aug 30 2007 [  91104 00] DATA_TDX2.HOG 
+-r-xr-xr-x   1    0    0      23586 Aug 30 2007 [  91360 00] DSPMAPTEX.HGZ 
+-r-xr-xr-x   1    0    0       1244 Nov 27 2007 [  91376 00] LEVEL.INI 
+-r-xr-xr-x   1    0    0        308 Nov 27 2007 [  91392 00] LVLDICT.CSV 
+-r-xr-xr-x   1    0    0     197808 Aug 30 2007 [  91408 00] MAP.HOG 
+-r-xr-xr-x   1    0    0     466784 Aug 30 2007 [  91520 00] MISMODTEX.HOG 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2008 [    165 02] MISSIONS 
+-r-xr-xr-x   1    0    0     265840 Oct 17 2007 [  91840 00] OBJECTS.HOG 
+-r-xr-xr-x   1    0    0      29022 Nov 27 2007 [  91984 00] PAR.HGZ 
+-r-xr-xr-x   1    0    0      91028 Nov 27 2007 [  92000 00] PAR_TDX.HGZ 
+-r-xr-xr-x   1    0    0      84204 Nov 27 2007 [  92048 00] SPECFX.HGZ 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/MULTI/BATTLE/
+dr-xr-xr-x   1    0    0       2048 Jul 28 2008 [    161 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2008 [    146 02] .. 
+-r-xr-xr-x   1    0    0         78 Aug 30 2007 [  92096 00] COLLISIONPROPERTIES.TXT 
+-r-xr-xr-x   1    0    0    3090176 Nov 10 2007 [  92112 00] DATA.HOG 
+-r-xr-xr-x   1    0    0     352276 Nov 27 2007 [  93632 00] DATA.POP 
+-r-xr-xr-x   1    0    0          8 Oct 20 2007 [  93808 00] DATARELOC.BIN 
+-r-xr-xr-x   1    0    0    3134528 Nov 10 2007 [  93824 00] DATA_N.HOG 
+-r-xr-xr-x   1    0    0     466608 Aug 30 2007 [  95360 00] DATA_TDX1.HOG 
+-r-xr-xr-x   1    0    0     466608 Aug 30 2007 [  95600 00] DATA_TDX2.HOG 
+-r-xr-xr-x   1    0    0      27570 Aug 30 2007 [  95840 00] DSPMAPTEX.HGZ 
+-r-xr-xr-x   1    0    0       1244 Nov 27 2007 [  95856 00] LEVEL.INI 
+-r-xr-xr-x   1    0    0        308 Nov 27 2007 [  95872 00] LVLDICT.CSV 
+-r-xr-xr-x   1    0    0     263680 Aug 30 2007 [  95888 00] MAP.HOG 
+-r-xr-xr-x   1    0    0     533504 Aug 30 2007 [  96032 00] MISMODTEX.HOG 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2008 [    166 02] MISSIONS 
+-r-xr-xr-x   1    0    0     749488 Oct 16 2007 [  96384 00] OBJECTS.HOG 
+-r-xr-xr-x   1    0    0      29022 Nov 27 2007 [  96752 00] PAR.HGZ 
+-r-xr-xr-x   1    0    0      91028 Nov 27 2007 [  96768 00] PAR_TDX.HGZ 
+-r-xr-xr-x   1    0    0      84204 Nov 27 2007 [  96816 00] SPECFX.HGZ 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/MULTI/FACEOFF/
+dr-xr-xr-x   1    0    0       2048 Jul 28 2008 [    162 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2008 [    146 02] .. 
+-r-xr-xr-x   1    0    0         92 Oct  3 2007 [  96864 00] COLLISIONPROPERTIES.TXT 
+-r-xr-xr-x   1    0    0    2180800 Nov  9 2007 [  96880 00] DATA.HOG 
+-r-xr-xr-x   1    0    0     341128 Nov  9 2007 [  97952 00] DATA.POP 
+-r-xr-xr-x   1    0    0          8 Oct 20 2007 [  98128 00] DATARELOC.BIN 
+-r-xr-xr-x   1    0    0    2166608 Nov  9 2007 [  98144 00] DATA_N.HOG 
+-r-xr-xr-x   1    0    0     380064 Aug 30 2007 [  99216 00] DATA_TDX1.HOG 
+-r-xr-xr-x   1    0    0     380064 Aug 30 2007 [  99408 00] DATA_TDX2.HOG 
+-r-xr-xr-x   1    0    0      52842 Aug 31 2007 [  99600 00] DSPMAPTEX.HGZ 
+-r-xr-xr-x   1    0    0       1244 Nov 27 2007 [  99632 00] LEVEL.INI 
+-r-xr-xr-x   1    0    0        300 Nov 27 2007 [  99648 00] LVLDICT.CSV 
+-r-xr-xr-x   1    0    0     263696 Aug 30 2007 [  99664 00] MAP.HOG 
+-r-xr-xr-x   1    0    0     533440 Aug 31 2007 [  99808 00] MISMODTEX.HOG 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2008 [    167 02] MISSIONS 
+-r-xr-xr-x   1    0    0     482448 Oct 30 2007 [ 100160 00] OBJECTS.HOG 
+-r-xr-xr-x   1    0    0      29022 Nov 27 2007 [ 100400 00] PAR.HGZ 
+-r-xr-xr-x   1    0    0      91028 Nov 27 2007 [ 100416 00] PAR_TDX.HGZ 
+-r-xr-xr-x   1    0    0      84204 Nov 27 2007 [ 100464 00] SPECFX.HGZ 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/MULTI/FISHVILLAGE/
+dr-xr-xr-x   1    0    0       2048 Jul 28 2008 [    163 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2008 [    146 02] .. 
+-r-xr-xr-x   1    0    0         45 Aug 30 2007 [ 100512 00] COLLISIONPROPERTIES.TXT 
+-r-xr-xr-x   1    0    0    2675088 Oct 19 2007 [ 100528 00] DATA.HOG 
+-r-xr-xr-x   1    0    0     226332 Oct 19 2007 [ 101840 00] DATA.POP 
+-r-xr-xr-x   1    0    0          8 Aug 30 2007 [ 101952 00] DATARELOC.BIN 
+-r-xr-xr-x   1    0    0    2613536 Oct 19 2007 [ 101968 00] DATA_N.HOG 
+-r-xr-xr-x   1    0    0     658400 Aug 30 2007 [ 103248 00] DATA_TDX1.HOG 
+-r-xr-xr-x   1    0    0     774304 Aug 30 2007 [ 103584 00] DATA_TDX2.HOG 
+-r-xr-xr-x   1    0    0      46354 Aug 30 2007 [ 103968 00] DSPMAPTEX.HGZ 
+-r-xr-xr-x   1    0    0       1244 Nov 27 2007 [ 104000 00] LEVEL.INI 
+-r-xr-xr-x   1    0    0        260 Nov 27 2007 [ 104016 00] LVLDICT.CSV 
+-r-xr-xr-x   1    0    0     197808 Aug 30 2007 [ 104032 00] MAP.HOG 
+-r-xr-xr-x   1    0    0     400096 Aug 30 2007 [ 104144 00] MISMODTEX.HOG 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2008 [    168 02] MISSIONS 
+-r-xr-xr-x   1    0    0     706144 Sep 17 2007 [ 104432 00] OBJECTS.HOG 
+-r-xr-xr-x   1    0    0      29432 Nov 27 2007 [ 104784 00] PAR.HGZ 
+-r-xr-xr-x   1    0    0      91166 Nov 27 2007 [ 104800 00] PAR_TDX.HGZ 
+-r-xr-xr-x   1    0    0      84204 Nov 27 2007 [ 104848 00] SPECFX.HGZ 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/COMMON/SPY_WARS/SCEE/
+dr-xr-xr-x   1    0    0       2048 Jul 28 2008 [    164 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2008 [    147 02] .. 
+-r-xr-xr-x   1    0    0       8408 Aug 30 2007 [  67264 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0       6296 Aug 30 2007 [  67280 00] ICON0_NEW.PNG 
+-r-xr-xr-x   1    0    0     229376 Aug 30 2007 [  67296 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0      95742 Aug 30 2007 [  67408 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0     127844 Aug 30 2007 [  67456 00] SND0.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/MULTI/AEROSPACE/MISSIONS/
+dr-xr-xr-x   1    0    0       2048 Jul 28 2008 [    165 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2008 [    160 02] .. 
+-r-xr-xr-x   1    0    0       1144 Oct 10 2007 [  91760 00] AEROSPACE_DM.DEF 
+-r-xr-xr-x   1    0    0       1792 Oct 10 2007 [  91776 00] AEROSPACE_RET.DEF 
+-r-xr-xr-x   1    0    0       1384 Oct 10 2007 [  91792 00] AEROSPACE_ROG.DEF 
+-r-xr-xr-x   1    0    0       1632 Oct 10 2007 [  91808 00] AEROSPACE_SAB.DEF 
+-r-xr-xr-x   1    0    0       1248 Oct 10 2007 [  91824 00] AEROSPACE_TDM.DEF 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/MULTI/BATTLE/MISSIONS/
+dr-xr-xr-x   1    0    0       2048 Jul 28 2008 [    166 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2008 [    161 02] .. 
+-r-xr-xr-x   1    0    0       1744 Oct 10 2007 [  96304 00] FORTRESS_DM.DEF 
+-r-xr-xr-x   1    0    0       1704 Oct 10 2007 [  96320 00] FORTRESS_RET.DEF 
+-r-xr-xr-x   1    0    0       1256 Oct 10 2007 [  96336 00] FORTRESS_ROG.DEF 
+-r-xr-xr-x   1    0    0       1752 Oct 10 2007 [  96352 00] FORTRESS_SAB.DEF 
+-r-xr-xr-x   1    0    0       1784 Oct 10 2007 [  96368 00] FORTRESS_TDM.DEF 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/MULTI/FACEOFF/MISSIONS/
+dr-xr-xr-x   1    0    0       2048 Jul 28 2008 [    167 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2008 [    162 02] .. 
+-r-xr-xr-x   1    0    0       1088 Oct 10 2007 [ 100080 00] RUINS_DM.DEF 
+-r-xr-xr-x   1    0    0       1664 Oct 10 2007 [ 100096 00] RUINS_RET.DEF 
+-r-xr-xr-x   1    0    0       1320 Oct 10 2007 [ 100112 00] RUINS_ROG.DEF 
+-r-xr-xr-x   1    0    0       1736 Oct 10 2007 [ 100128 00] RUINS_SAB.DEF 
+-r-xr-xr-x   1    0    0       1640 Oct 10 2007 [ 100144 00] RUINS_TDM.DEF 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/MULTI/FISHVILLAGE/MISSIONS/
+dr-xr-xr-x   1    0    0       2048 Jul 28 2008 [    168 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2008 [    163 02] .. 
+-r-xr-xr-x   1    0    0        944 Oct 10 2007 [ 104352 00] VILLAGE_DM.DEF 
+-r-xr-xr-x   1    0    0       1344 Oct 10 2007 [ 104368 00] VILLAGE_RET.DEF 
+-r-xr-xr-x   1    0    0       1184 Oct 10 2007 [ 104384 00] VILLAGE_ROG.DEF 
+-r-xr-xr-x   1    0    0       1416 Oct 10 2007 [ 104400 00] VILLAGE_SAB.DEF 
+-r-xr-xr-x   1    0    0       1296 Oct 10 2007 [ 104416 00] VILLAGE_TDM.DEF 
+=============================================================== 
+Generated on Sun 07/08/2022 at 19:29:07.71 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

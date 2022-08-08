@@ -1,0 +1,136 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: NeoPets - Petpet Adventures - The Wand of Wishing   
+Title ID: UCUS-98622 
+Region: USA  
+Languages: En  
+Volume Creation Date: 2006-01-28 22:51:43 
+Volume Size: 823 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: 
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 421536
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Jan 28 2006 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 28 2006 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov 23 2005 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Nov 23 2005 [     31 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Nov 23 2005 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 28 2006 [     22 02] .. 
+-r-xr-xr-x   1    0    0      20481 Dec 23 2005 [  24368 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     329728 Dec 22 2005 [  24384 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 Jan 28 2006 [  24560 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     179356 Jan 17 2006 [  24576 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0     167376 Dec 22 2005 [  24672 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 Nov 23 2005 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Nov 23 2005 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Nov 23 2005 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 23 2005 [     23 02] .. 
+-r-xr-xr-x   1    0    0    3908993 Jan 28 2006 [  22448 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    3909344 Jan 28 2006 [     32 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Nov 23 2005 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Nov 23 2005 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 23 2005 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov 23 2005 [     27 02] KMODULES 
+dr-xr-xr-x   1    0    0       2048 Nov 23 2005 [     28 02] MODULES 
+dr-xr-xr-x   1    0    0       2048 Nov 23 2005 [     29 02] PETPETS 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Nov 23 2005 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 23 2005 [     24 02] .. 
+-r-xr-xr-x   1    0    0   14809632 Nov 23 2005 [   6064 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    3951712 Nov 23 2005 [   1968 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       1772 Nov 23 2005 [   1952 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/KMODULES/
+dr-xr-xr-x   1    0    0       2048 Nov 23 2005 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 23 2005 [     25 02] .. 
+-r-xr-xr-x   1    0    0       3312 Oct 19 2005 [  24768 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0       5392 Oct 19 2005 [  24784 00] mpegbase.prx 
+-r-xr-xr-x   1    0    0       6832 Oct 19 2005 [  24800 00] sc_sascore.prx 
+-r-xr-xr-x   1    0    0       3888 Oct 19 2005 [  24816 00] usbacc.prx 
+-r-xr-xr-x   1    0    0       6704 Oct 19 2005 [  24832 00] usbmic.prx 
+-r-xr-xr-x   1    0    0      15072 Oct 19 2005 [  24848 00] usbpspcm.prx 
+-r-xr-xr-x   1    0    0       3504 Oct 19 2005 [  24864 00] videocodec.prx 
+
+Directory listing of /PSP_GAME/USRDIR/MODULES/
+dr-xr-xr-x   1    0    0       2048 Nov 23 2005 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 23 2005 [     25 02] .. 
+-r-xr-xr-x   1    0    0       1088 Oct 27 2005 [  24880 00] libadler.prx 
+-r-xr-xr-x   1    0    0      10128 Oct 27 2005 [  24896 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0       1472 Oct 27 2005 [  24912 00] libbase64.prx 
+-r-xr-xr-x   1    0    0       3488 Oct 27 2005 [  24928 00] libccc.prx 
+-r-xr-xr-x   1    0    0       4416 Oct 27 2005 [  24944 00] libdeflt.prx 
+-r-xr-xr-x   1    0    0      23296 Oct 27 2005 [  24960 00] libfont.prx 
+-r-xr-xr-x   1    0    0       3664 Oct 27 2005 [  24976 00] libfpu.prx 
+-r-xr-xr-x   1    0    0       2384 Oct 27 2005 [  24992 00] libmd5.prx 
+-r-xr-xr-x   1    0    0       1296 Oct 27 2005 [  25008 00] libmt19937.prx 
+-r-xr-xr-x   1    0    0       1936 Oct 27 2005 [  25024 00] libqpcode.prx 
+-r-xr-xr-x   1    0    0       2576 Oct 27 2005 [  25040 00] libsha1.prx 
+-r-xr-xr-x   1    0    0       2912 Oct 27 2005 [  25056 00] libsha224.prx 
+-r-xr-xr-x   1    0    0       2912 Oct 27 2005 [  25072 00] libsha256.prx 
+-r-xr-xr-x   1    0    0      23088 Oct 27 2005 [  25088 00] mpeg.prx 
+-r-xr-xr-x   1    0    0       6208 Oct 27 2005 [  25104 00] psmf.prx 
+-r-xr-xr-x   1    0    0       2448 Oct 27 2005 [  25120 00] pspnet_ap_dialog_dummy.prx 
+-r-xr-xr-x   1    0    0      31824 Oct 27 2005 [  25136 00] scan.prx 
+-r-xr-xr-x   1    0    0      29536 Oct 27 2005 [  25152 00] show_macaddr.prx 
+
+Directory listing of /PSP_GAME/USRDIR/PETPETS/
+dr-xr-xr-x   1    0    0       2048 Nov 23 2005 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 23 2005 [     25 02] .. 
+-r-xr-xr-x   1    0    0  495355904 Jan 28 2006 [ 179648 00] BIGFILE.DAT 
+-r-xr-xr-x   1    0    0     229408 Jan 28 2006 [ 179520 00] BIGFILE.IDX 
+-r-xr-xr-x   1    0    0   44354553 Jan  6 2006 [ 136192 00] IAN.TXT 
+dr-xr-xr-x   1    0    0       2048 Nov 23 2005 [     30 02] MOVIES 
+-r-xr-xr-x   1    0    0   44354553 Jan  6 2006 [ 157856 00] RAT.TXT 
+-r-xr-xr-x   1    0    0   44354553 Jan  6 2006 [ 114528 00] ROB.TXT 
+
+Directory listing of /PSP_GAME/USRDIR/PETPETS/MOVIES/
+dr-xr-xr-x   1    0    0       2048 Nov 23 2005 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 23 2005 [     29 02] .. 
+-r-xr-xr-x   1    0    0   34385920 Jan 17 2006 [  97728 00] CREDITS.PMF 
+-r-xr-xr-x   1    0    0   24827904 Jan 28 2006 [  25168 00] INTRODF.PMF 
+-r-xr-xr-x   1    0    0   24829952 Jan 28 2006 [  37296 00] INTROKR.PMF 
+-r-xr-xr-x   1    0    0   24817664 Jan 28 2006 [  49424 00] INTROMC.PMF 
+-r-xr-xr-x   1    0    0   24817664 Jan 28 2006 [  61552 00] INTROMZ.PMF 
+-r-xr-xr-x   1    0    0   12302336 Jan 28 2006 [  73680 00] OUTRODF.PMF 
+-r-xr-xr-x   1    0    0   12302336 Jan 28 2006 [  79696 00] OUTROKR.PMF 
+-r-xr-xr-x   1    0    0   12271616 Jan 28 2006 [  85712 00] OUTROMC.PMF 
+-r-xr-xr-x   1    0    0   12292096 Jan 28 2006 [  91712 00] OUTROMZ.PMF 
+=============================================================== 
+Generated on Mon 08/08/2022 at 15:46:35.81 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

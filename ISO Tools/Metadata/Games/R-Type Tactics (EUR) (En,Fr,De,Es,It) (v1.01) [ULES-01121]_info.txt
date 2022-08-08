@@ -1,0 +1,115 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: R-Type Tactics   
+Title ID: ULES-01121 
+Region: EUR  
+Languages: En,Fr,De,Es,It  
+Volume Creation Date: 2008-08-06 11:09:50 
+Volume Size: 830 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: ATLUS U.S.A., INC.
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 425328
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Aug  6 2008 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug  6 2008 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2008 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Feb 21 2008 [     30 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Feb 21 2008 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug  6 2008 [     22 02] .. 
+-r-xr-xr-x   1    0    0      24085 Jul  2 2008 [  53616 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     354304 Jul 24 2007 [  53648 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 Aug  4 2008 [  53632 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      36716 Jul  2 2008 [  53824 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0     232519 Jul 24 2007 [  53856 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0     150940 Jul 19 2007 [  53984 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2008 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2008 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Feb 21 2008 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2008 [     23 02] .. 
+-r-xr-xr-x   1    0    0     316644 Aug  6 2008 [  53456 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0     316992 Aug  6 2008 [     32 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2008 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Feb 21 2008 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2008 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2008 [     27 02] CMN 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2008 [     28 02] PSMF 
+-r-xr-xr-x   1    0    0    2987684 Aug  6 2008 [  54064 00] U7E.BIN 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2008 [     29 02] module 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Feb 21 2008 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2008 [     24 02] .. 
+-r-xr-xr-x   1    0    0   20544736 Feb 21 2008 [   4304 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5216752 Feb 21 2008 [    208 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Feb 21 2008 [    192 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/CMN/
+dr-xr-xr-x   1    0    0       2048 Feb 21 2008 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2008 [     25 02] .. 
+-r-xr-xr-x   1    0    0  137836608 Aug  6 2008 [  56400 00] CMN_E.DAT 
+-r-xr-xr-x   1    0    0     396171 Aug  6 2008 [  56192 00] CMN_E.FAT 
+-r-xr-xr-x   1    0    0  137835072 Aug  6 2008 [ 123920 00] CMN_F.DAT 
+-r-xr-xr-x   1    0    0     396171 Aug  6 2008 [ 123712 00] CMN_F.FAT 
+-r-xr-xr-x   1    0    0  137835008 Aug  6 2008 [ 191440 00] CMN_G.DAT 
+-r-xr-xr-x   1    0    0     396171 Aug  6 2008 [ 191232 00] CMN_G.FAT 
+-r-xr-xr-x   1    0    0  137835136 Aug  6 2008 [ 258960 00] CMN_I.DAT 
+-r-xr-xr-x   1    0    0     396171 Aug  6 2008 [ 258752 00] CMN_I.FAT 
+-r-xr-xr-x   1    0    0  137865152 Aug  6 2008 [ 326480 00] CMN_S.DAT 
+-r-xr-xr-x   1    0    0     396203 Aug  6 2008 [ 326272 00] CMN_S.FAT 
+-r-xr-xr-x   1    0    0    1123904 Aug  6 2008 [  55632 00] LANG.DAT 
+-r-xr-xr-x   1    0    0        840 Aug  6 2008 [  55616 00] LANG.FAT 
+-r-xr-xr-x   1    0    0   14023744 Aug  6 2008 [ 418480 00] SND.DAT 
+-r-xr-xr-x   1    0    0       4036 Aug  6 2008 [ 418464 00] SND.FAT 
+
+Directory listing of /PSP_GAME/USRDIR/PSMF/
+dr-xr-xr-x   1    0    0       2048 Feb 21 2008 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2008 [     25 02] .. 
+-r-xr-xr-x   1    0    0   14168064 Aug  5 2008 [ 404352 00] U7_END1.PMF 
+-r-xr-xr-x   1    0    0   14694400 Aug  5 2008 [ 411280 00] U7_END2.PMF 
+-r-xr-xr-x   1    0    0   21575680 Jun 11 2007 [ 393808 00] U7_OP.PMF 
+
+Directory listing of /PSP_GAME/USRDIR/module/
+dr-xr-xr-x   1    0    0       2048 Feb 21 2008 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2008 [     25 02] .. 
+-r-xr-xr-x   1    0    0      22976 Sep 19 2007 [  55536 00] libfont.prx 
+-r-xr-xr-x   1    0    0      35520 Sep 19 2007 [  55552 00] libpsmfplayer.prx 
+-r-xr-xr-x   1    0    0       7056 Sep 19 2007 [  55584 00] psmf.prx 
+-r-xr-xr-x   1    0    0       2000 Sep 19 2007 [  55600 00] pspnet_ap_dialog_dummy.prx 
+=============================================================== 
+Generated on Sun 07/08/2022 at 19:29:09.22 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

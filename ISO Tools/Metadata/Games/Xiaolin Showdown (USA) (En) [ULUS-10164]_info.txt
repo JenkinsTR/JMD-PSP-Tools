@@ -1,0 +1,111 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Xiaolin Showdown   
+Title ID: ULUS-10164 
+Region: USA  
+Languages: En  
+Volume Creation Date: 2006-10-10 16:05:40 
+Volume Size: 864 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: 
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 442560
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 18 2006 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Sep 18 2006 [     31 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Sep 18 2006 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 10 2006 [     22 02] .. 
+-r-xr-xr-x   1    0    0      15746 Oct 10 2006 [  21808 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        472 Oct 10 2006 [  22160 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     170838 Oct 10 2006 [  21824 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0     491280 Oct 10 2006 [  21920 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 Sep 18 2006 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Sep 18 2006 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Sep 18 2006 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 18 2006 [     23 02] .. 
+-r-xr-xr-x   1    0    0    2589549 Oct 10 2006 [  22176 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    2589888 Oct 10 2006 [     32 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Sep 18 2006 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Sep 18 2006 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 18 2006 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 18 2006 [     27 02] LOAD 
+dr-xr-xr-x   1    0    0       2048 Sep 18 2006 [     28 02] MODULES 
+dr-xr-xr-x   1    0    0       2048 Sep 18 2006 [     29 02] MOVIES 
+-r-xr-xr-x   1    0    0    1497920 Oct 10 2006 [ 219888 00] RESIDENT.PAK 
+dr-xr-xr-x   1    0    0       2048 Sep 18 2006 [     30 02] STREAMS 
+-r-xr-xr-x   1    0    0  303400960 Oct 10 2006 [ 294400 00] XS.WAD 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Sep 18 2006 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 18 2006 [     24 02] .. 
+-r-xr-xr-x   1    0    0   15027936 Sep 18 2006 [   5395 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5089088 Sep 18 2006 [   1299 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Sep 18 2006 [   1297 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/LOAD/
+dr-xr-xr-x   1    0    0       2048 Sep 18 2006 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 18 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0    2922496 Oct 10 2006 [ 292960 00] LOAD.WAD 
+
+Directory listing of /PSP_GAME/USRDIR/MODULES/
+dr-xr-xr-x   1    0    0       2048 Sep 18 2006 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 18 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0      10928 Oct 10 2006 [  23456 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0      35632 Oct 10 2006 [  23472 00] libpsmfplayer.prx 
+-r-xr-xr-x   1    0    0      20096 Oct 10 2006 [  23504 00] mpeg.prx 
+-r-xr-xr-x   1    0    0       6320 Oct 10 2006 [  23520 00] psmf.prx 
+
+Directory listing of /PSP_GAME/USRDIR/MOVIES/
+dr-xr-xr-x   1    0    0       2048 Sep 18 2006 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 18 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0    8663040 Oct 10 2006 [ 221232 00] ATTRACT.pmf 
+-r-xr-xr-x   1    0    0     974848 Oct 10 2006 [ 225472 00] BRLOGO.pmf 
+-r-xr-xr-x   1    0    0   22124544 Oct 10 2006 [ 225952 00] CREDITS.pmf 
+-r-xr-xr-x   1    0    0   16109568 Oct 10 2006 [ 236768 00] GAMEINT.pmf 
+-r-xr-xr-x   1    0    0     219136 Oct 10 2006 [ 220624 00] KONAMI.pmf 
+-r-xr-xr-x   1    0    0     993280 Oct 10 2006 [ 220736 00] WB2.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/STREAMS/
+dr-xr-xr-x   1    0    0       2048 Sep 18 2006 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 18 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0   43397120 Oct 10 2006 [ 271760 00] STREAM0.WAD 
+-r-xr-xr-x   1    0    0   55513088 Oct 10 2006 [ 244640 00] STREAM1.WAD 
+=============================================================== 
+Generated on Mon 08/08/2022 at 15:46:52.09 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

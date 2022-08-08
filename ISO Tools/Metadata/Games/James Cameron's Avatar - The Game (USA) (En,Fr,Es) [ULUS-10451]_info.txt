@@ -1,0 +1,370 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: James Cameron's Avatar - The Game   
+Title ID: ULUS-10451 
+Region: USA  
+Languages: En,Fr,Es  
+Volume Creation Date: 2009-11-03 23:21:01 
+Volume Size: 662 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: ULUS10451
+Volume set id: ULUS10451
+Publisher id: UBISOFT
+Data preparer id: UBISOFT
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 339408
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Nov  3 2009 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov  3 2009 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov  3 2009 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Nov  3 2009 [     45 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Nov  3 2009 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov  3 2009 [     22 02] .. 
+-r-xr-xr-x   1    0    0       6968 Nov  3 2009 [  56768 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        528 Nov  3 2009 [  56784 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     107236 Nov  3 2009 [  56800 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Nov  3 2009 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Nov  3 2009 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Nov  3 2009 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov  3 2009 [     23 02] .. 
+-r-xr-xr-x   1    0    0    7058029 Nov  3 2009 [  56864 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    7058368 Nov  3 2009 [    560 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0        752 Nov  3 2009 [     48 00] OPNSSMP.BIN 
+dr-xr-xr-x   1    0    0       2048 Nov  3 2009 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Nov  3 2009 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov  3 2009 [     23 02] .. 
+-r-xr-xr-x   1    0    0  125260688 Nov  3 2009 [  60320 00] AVATAR_BIN_PSP.BF 
+dr-xr-xr-x   1    0    0       2048 Aug 24 2009 [     27 02] PSP 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Nov  3 2009 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov  3 2009 [     24 02] .. 
+-r-xr-xr-x   1    0    0   23223168 Nov  3 2009 [   8128 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5550208 Nov  3 2009 [   4032 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Nov  3 2009 [   4016 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/PSP/
+dr-xr-xr-x   1    0    0       2048 Aug 24 2009 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov  3 2009 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov  3 2009 [     28 02] BIN 
+dr-xr-xr-x   1    0    0       4096 Nov  3 2009 [     29 02] MENU 
+dr-xr-xr-x   1    0    0       2048 Nov  3 2009 [     31 02] MODULE 
+dr-xr-xr-x   1    0    0       2048 Nov  3 2009 [     32 02] MOVIES 
+dr-xr-xr-x   1    0    0       2048 Nov  3 2009 [     33 02] SAVE 
+dr-xr-xr-x   1    0    0       2048 Nov  3 2009 [     34 02] SOUNDS 
+
+Directory listing of /PSP_GAME/USRDIR/PSP/BIN/
+dr-xr-xr-x   1    0    0       2048 Nov  3 2009 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 24 2009 [     27 02] .. 
+-r-xr-xr-x   1    0    0     147456 Aug 16 2009 [ 121488 00] KBOOTI.BIN 
+
+Directory listing of /PSP_GAME/USRDIR/PSP/MENU/
+dr-xr-xr-x   1    0    0       4096 Nov  3 2009 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 24 2009 [     27 02] .. 
+-r-xr-xr-x   1    0    0       1326 Jul  8 2009 [ 121568 00] ARIAL9.JSPRITE 
+-r-xr-xr-x   1    0    0      65472 Oct 27 2009 [ 121584 00] BACKGROUND.DDS 
+-r-xr-xr-x   1    0    0         62 Nov  1 2009 [ 121616 00] BACKGROUND.JSPRITE 
+-r-xr-xr-x   1    0    0      66688 Oct 27 2009 [ 121632 00] BOSS.DDS 
+-r-xr-xr-x   1    0    0        142 Nov  1 2009 [ 121680 00] BOSS.JSPRITE 
+-r-xr-xr-x   1    0    0      49344 Oct 27 2009 [ 121696 00] BOW_TREE.DDS 
+-r-xr-xr-x   1    0    0      66688 Oct 27 2009 [ 121728 00] FGOTH11.DDS 
+-r-xr-xr-x   1    0    0       1430 Nov  1 2009 [ 121776 00] FGOTH11.JSPRITE 
+-r-xr-xr-x   1    0    0      32960 Oct 27 2009 [ 121792 00] FGOTH12.DDS 
+-r-xr-xr-x   1    0    0       1326 Nov  1 2009 [ 121824 00] FGOTH12.JSPRITE 
+-r-xr-xr-x   1    0    0      66688 Nov  2 2009 [ 121840 00] FGOTH9.DDS 
+-r-xr-xr-x   1    0    0       1430 Nov  1 2009 [ 121888 00] FGOTH9.JSPRITE 
+-r-xr-xr-x   1    0    0     132224 Oct 27 2009 [ 121904 00] HUD.DDS 
+-r-xr-xr-x   1    0    0      28274 Nov  3 2009 [ 121984 00] HUD.JMENU 
+-r-xr-xr-x   1    0    0        438 Nov  1 2009 [ 122000 00] HUD.JSPRITE 
+-r-xr-xr-x   1    0    0      21952 Oct 27 2009 [ 122016 00] HUD2.DDS 
+-r-xr-xr-x   1    0    0        310 Nov  1 2009 [ 122032 00] HUD2.JSPRITE 
+-r-xr-xr-x   1    0    0     263296 Oct 27 2009 [ 122048 00] LOADANIM_PSP.DDS 
+-r-xr-xr-x   1    0    0        134 Nov  1 2009 [ 122192 00] LOADANIM_PSP.JSPRITE 
+-r-xr-xr-x   1    0    0      11071 Nov  1 2009 [ 122208 00] LOADINGSCREENSPLASH.JMENU 
+-r-xr-xr-x   1    0    0      65408 Oct  9 2009 [ 122224 00] LOADING_PSP.DDS 
+-r-xr-xr-x   1    0    0      32960 Nov  1 2009 [ 122256 00] PAUSE.DDS 
+-r-xr-xr-x   1    0    0       6544 Nov  1 2009 [ 122288 00] PAUSE.JMENU 
+-r-xr-xr-x   1    0    0         62 Nov  1 2009 [ 122304 00] PAUSE.JSPRITE 
+-r-xr-xr-x   1    0    0      33920 Nov  1 2009 [ 122320 00] PROGRESS.DDS 
+-r-xr-xr-x   1    0    0      35764 Nov  1 2009 [ 122352 00] PROGRESS.JMENU 
+-r-xr-xr-x   1    0    0        214 Nov  1 2009 [ 122384 00] PROGRESS.JSPRITE 
+-r-xr-xr-x   1    0    0       5248 Oct 29 2009 [ 122400 00] SMLOADER.DDS 
+-r-xr-xr-x   1    0    0       3137 Nov  1 2009 [ 122416 00] SMLOADER.JMENU 
+-r-xr-xr-x   1    0    0         22 Nov  1 2009 [ 122432 00] SMLOADER.JSPRITE 
+-r-xr-xr-x   1    0    0      48832 Oct 27 2009 [ 122448 00] STAFF_TREE.DDS 
+-r-xr-xr-x   1    0    0      65408 Oct 27 2009 [ 122480 00] STORY1.DDS 
+-r-xr-xr-x   1    0    0      65408 Oct 27 2009 [ 122512 00] STORY10.DDS 
+-r-xr-xr-x   1    0    0      65408 Oct 27 2009 [ 122544 00] STORY11.DDS 
+-r-xr-xr-x   1    0    0      65408 Oct 27 2009 [ 122576 00] STORY12.DDS 
+-r-xr-xr-x   1    0    0      65408 Oct 27 2009 [ 122608 00] STORY13.DDS 
+-r-xr-xr-x   1    0    0      65408 Oct 27 2009 [ 122640 00] STORY14.DDS 
+-r-xr-xr-x   1    0    0      65408 Oct 27 2009 [ 122672 00] STORY2.DDS 
+-r-xr-xr-x   1    0    0      65408 Oct 27 2009 [ 122704 00] STORY3.DDS 
+-r-xr-xr-x   1    0    0      65408 Oct 27 2009 [ 122736 00] STORY4.DDS 
+-r-xr-xr-x   1    0    0      65408 Oct 27 2009 [ 122768 00] STORY5.DDS 
+-r-xr-xr-x   1    0    0      65408 Oct 27 2009 [ 122800 00] STORY6.DDS 
+-r-xr-xr-x   1    0    0      65408 Oct 27 2009 [ 122832 00] STORY7.DDS 
+-r-xr-xr-x   1    0    0      65408 Oct 27 2009 [ 122864 00] STORY8.DDS 
+-r-xr-xr-x   1    0    0      65408 Oct 27 2009 [ 122896 00] STORY9.DDS 
+-r-xr-xr-x   1    0    0        743 Nov  1 2009 [ 122928 00] SUBTITLES.JMENU 
+-r-xr-xr-x   1    0    0       1070 Oct 13 2009 [ 122944 00] TRC.JMENU 
+-r-xr-xr-x   1    0    0      32960 Oct 27 2009 [ 122960 00] UPGRADE.DDS 
+-r-xr-xr-x   1    0    0         38 Nov  1 2009 [ 122992 00] UPGRADE.JSPRITE 
+-r-xr-xr-x   1    0    0      49344 Oct 27 2009 [ 123008 00] WOH_TREE.DDS 
+
+Directory listing of /PSP_GAME/USRDIR/PSP/MODULE/
+dr-xr-xr-x   1    0    0       2048 Nov  3 2009 [     31 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 24 2009 [     27 02] .. 
+-r-xr-xr-x   1    0    0    3859261 Oct 30 2009 [ 123040 00] SCALEFORM_PSP.PRX 
+
+Directory listing of /PSP_GAME/USRDIR/PSP/MOVIES/
+dr-xr-xr-x   1    0    0       2048 Nov  3 2009 [     32 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 24 2009 [     27 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov  3 2009 [     35 02] CINEMATIQUE 
+dr-xr-xr-x   1    0    0       2048 Nov  3 2009 [     36 02] MISC 
+
+Directory listing of /PSP_GAME/USRDIR/PSP/SAVE/
+dr-xr-xr-x   1    0    0       2048 Nov  3 2009 [     33 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 24 2009 [     27 02] .. 
+-r-xr-xr-x   1    0    0       6968 Oct  9 2009 [ 283424 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0       1680 Oct 14 2009 [ 283440 00] ICONNEW0.PNG 
+-r-xr-xr-x   1    0    0     107236 Aug 28 2009 [ 283456 00] PIC1.PNG 
+
+Directory listing of /PSP_GAME/USRDIR/PSP/SOUNDS/
+dr-xr-xr-x   1    0    0       2048 Nov  3 2009 [     34 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 24 2009 [     27 02] .. 
+-r-xr-xr-x   1    0    0        652 Nov  3 2009 [ 283520 00] AUDIOINFO.BIN 
+dr-xr-xr-x   1    0    0       4096 Nov  3 2009 [     37 02] PACKAGES 
+
+Directory listing of /PSP_GAME/USRDIR/PSP/MOVIES/CINEMATIQUE/
+dr-xr-xr-x   1    0    0       2048 Nov  3 2009 [     35 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov  3 2009 [     32 02] .. 
+-r-xr-xr-x   1    0    0   18780348 Oct 20 2009 [ 124928 00] SE_CIN_B01S011.BIK 
+-r-xr-xr-x   1    0    0    3988364 Oct 20 2009 [ 134112 00] SE_CIN_B02S030.BIK 
+-r-xr-xr-x   1    0    0    6214068 Oct 20 2009 [ 136064 00] SE_CIN_B02S050.BIK 
+-r-xr-xr-x   1    0    0    4491920 Oct 20 2009 [ 139104 00] SE_CIN_B03S010.BIK 
+-r-xr-xr-x   1    0    0    1848316 Oct 20 2009 [ 141312 00] SE_CIN_B03S020.BIK 
+-r-xr-xr-x   1    0    0   12426616 Oct 20 2009 [ 142224 00] SE_CIN_B03S040.BIK 
+-r-xr-xr-x   1    0    0   26018936 Oct 20 2009 [ 148304 00] SE_CIN_M02S030.BIK 
+-r-xr-xr-x   1    0    0    3118256 Oct 20 2009 [ 161024 00] SE_CIN_M02S050.BIK 
+-r-xr-xr-x   1    0    0   32192752 Oct 20 2009 [ 162560 00] SE_CIN_M03S010.BIK 
+-r-xr-xr-x   1    0    0    6125800 Oct 20 2009 [ 178288 00] SE_CIN_M04S010.BIK 
+-r-xr-xr-x   1    0    0    8107696 Oct 20 2009 [ 181280 00] SE_CIN_M04S020.BIK 
+-r-xr-xr-x   1    0    0   10745424 Oct 20 2009 [ 185248 00] SE_CIN_M06S020.BIK 
+-r-xr-xr-x   1    0    0   78929680 Oct 21 2009 [ 190496 00] SE_CIN_M07S010.BIK 
+-r-xr-xr-x   1    0    0   25042648 Oct 22 2009 [ 229040 00] SE_CIN_M08S015.BIK 
+-r-xr-xr-x   1    0    0   32930792 Oct 20 2009 [ 241280 00] SE_CIN_M08S050.BIK 
+-r-xr-xr-x   1    0    0   37573716 Oct 28 2009 [ 257360 00] SE_CIN_M09S020.BIK 
+-r-xr-xr-x   1    0    0    7902824 Oct 20 2009 [ 275712 00] SE_CIN_M09S040.BIK 
+
+Directory listing of /PSP_GAME/USRDIR/PSP/MOVIES/MISC/
+dr-xr-xr-x   1    0    0       2048 Nov  3 2009 [     36 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov  3 2009 [     32 02] .. 
+-r-xr-xr-x   1    0    0    2943612 Sep 29 2009 [ 279584 00] BOOT_PSP.BIK 
+-r-xr-xr-x   1    0    0    1251652 Aug 26 2009 [ 281024 00] FOX_PSP.BIK 
+-r-xr-xr-x   1    0    0    1337068 Aug 27 2009 [ 281648 00] LS_PSP.BIK 
+-r-xr-xr-x   1    0    0     935464 Aug 26 2009 [ 282304 00] TAG_PSP.BIK 
+-r-xr-xr-x   1    0    0    1332220 Aug 19 2009 [ 282768 00] UBISOFT.BIK 
+
+Directory listing of /PSP_GAME/USRDIR/PSP/SOUNDS/PACKAGES/
+dr-xr-xr-x   1    0    0       4096 Nov  3 2009 [     37 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov  3 2009 [     34 02] .. 
+-r-xr-xr-x   1    0    0    4506596 Nov  3 2009 [ 283536 00] 047722C677E45886B1BB8E64.SPK 
+-r-xr-xr-x   1    0    0    1086420 Nov  3 2009 [ 285744 00] 0A1AE2132CC276DD48871D84.SPK 
+-r-xr-xr-x   1    0    0    4330316 Nov  3 2009 [ 286288 00] 0BE8452D49D58A261B1BB4F0.SPK 
+-r-xr-xr-x   1    0    0     446045 Nov  3 2009 [ 288416 00] 0X00000000.PK 
+-r-xr-xr-x   1    0    0     954691 Nov  3 2009 [ 288640 00] 0X00000001.PK 
+-r-xr-xr-x   1    0    0    1108687 Nov  3 2009 [ 289120 00] 0X00000002.PK 
+-r-xr-xr-x   1    0    0     718900 Nov  3 2009 [ 289664 00] 0X00000003.PK 
+-r-xr-xr-x   1    0    0     958815 Nov  3 2009 [ 290016 00] 0X00000004.PK 
+-r-xr-xr-x   1    0    0    1025811 Nov  3 2009 [ 290496 00] 0X00000005.PK 
+-r-xr-xr-x   1    0    0     883010 Nov  3 2009 [ 291008 00] 0X00000006.PK 
+-r-xr-xr-x   1    0    0     815655 Nov  3 2009 [ 291440 00] 0X00000007.PK 
+-r-xr-xr-x   1    0    0    1258072 Nov  3 2009 [ 291840 00] 0X00000008.PK 
+-r-xr-xr-x   1    0    0     446045 Nov  3 2009 [ 292464 00] 0X00000009.PK 
+-r-xr-xr-x   1    0    0    1024321 Nov  3 2009 [ 292688 00] 0X0000000A.PK 
+-r-xr-xr-x   1    0    0    1321754 Nov  3 2009 [ 293200 00] 0X0000000B.PK 
+-r-xr-xr-x   1    0    0    1120502 Nov  3 2009 [ 293856 00] 0X0000000C.PK 
+-r-xr-xr-x   1    0    0     446045 Nov  3 2009 [ 294416 00] 0X0000000D.PK 
+-r-xr-xr-x   1    0    0     984380 Nov  3 2009 [ 294640 00] 0X0000000E.PK 
+-r-xr-xr-x   1    0    0     935535 Nov  3 2009 [ 295136 00] 0X0000000F.PK 
+-r-xr-xr-x   1    0    0    1155326 Nov  3 2009 [ 295600 00] 0X00000010.PK 
+-r-xr-xr-x   1    0    0     896702 Nov  3 2009 [ 296176 00] 0X00000011.PK 
+-r-xr-xr-x   1    0    0     447575 Nov  3 2009 [ 296624 00] 0X00000012.PK 
+-r-xr-xr-x   1    0    0     573598 Nov  3 2009 [ 296848 00] 0X00000013.PK 
+-r-xr-xr-x   1    0    0     507156 Nov  3 2009 [ 297136 00] 27568023462D3DA937644456.SPK 
+-r-xr-xr-x   1    0    0    1129048 Nov  3 2009 [ 297392 00] 401B84EADC572AC2059CD023.SPK 
+-r-xr-xr-x   1    0    0    1036692 Nov  3 2009 [ 297952 00] 429B36492CBA16503F4E2951.SPK 
+-r-xr-xr-x   1    0    0    2223840 Nov  3 2009 [ 298464 00] 5231AD637789C2A41488179F.SPK 
+-r-xr-xr-x   1    0    0    4370416 Nov  3 2009 [ 299552 00] 56C6FB4FA434C0C5FE0CEFA3.SPK 
+-r-xr-xr-x   1    0    0       4096 Nov  3 2009 [ 301696 00] 7FFFFFFF.BAO 
+-r-xr-xr-x   1    0    0    4315356 Nov  3 2009 [ 301712 00] 982357B3EE41A6F079F599D3.SPK 
+-r-xr-xr-x   1    0    0    4237696 Nov  3 2009 [ 303824 00] A7A19A00148ECAFA66F2B35C.SPK 
+-r-xr-xr-x   1    0    0     476820 Nov  3 2009 [ 305904 00] AAABF8F9CC5415389886D1BE.SPK 
+-r-xr-xr-x   1    0    0     137172 Nov  3 2009 [ 306144 00] B15631FF7B1AA7F0DDA97DB7.SPK 
+-r-xr-xr-x   1    0    0     333212 Nov  3 2009 [ 306224 00] B7028F42DB300D8FD0008E84.SPK 
+-r-xr-xr-x   1    0    0    2411604 Nov  3 2009 [ 306400 00] BAE26A032EDBDA50E6D7FAB4.SPK 
+-r-xr-xr-x   1    0    0    1055124 Nov  3 2009 [ 307584 00] CA998A9FD6ED759F93C109AB.SPK 
+-r-xr-xr-x   1    0    0    4502412 Nov  3 2009 [ 308112 00] D0FD1D5149B5EA48DAC6F2D4.SPK 
+-r-xr-xr-x   1    0    0    4711048 Nov  3 2009 [ 310320 00] E473E342DB576DAF37ACC888.SPK 
+-r-xr-xr-x   1    0    0    4922296 Nov  3 2009 [ 312624 00] E808B127A78DBB8CD248D439.SPK 
+-r-xr-xr-x   1    0    0      84756 Nov  3 2009 [ 315040 00] ECCA6A26BD9FBFFA2B611003.SPK 
+dr-xr-xr-x   1    0    0       4096 Nov  3 2009 [     39 02] ENGLISH 
+-r-xr-xr-x   1    0    0      98964 Nov  3 2009 [ 315088 00] FD4EFC8633F3966DB3D9E05E.SPK 
+-r-xr-xr-x   1    0    0    4259340 Nov  3 2009 [ 315152 00] FEEC50085AF1026F4E72FD2F.SPK 
+dr-xr-xr-x   1    0    0       4096 Nov  3 2009 [     41 02] FRENCH 
+dr-xr-xr-x   1    0    0       4096 Nov  3 2009 [     43 02] SPANISH 
+
+Directory listing of /PSP_GAME/USRDIR/PSP/SOUNDS/PACKAGES/ENGLISH/
+dr-xr-xr-x   1    0    0       4096 Nov  3 2009 [     39 02] . 
+dr-xr-xr-x   1    0    0       4096 Nov  3 2009 [     37 02] .. 
+-r-xr-xr-x   1    0    0     244886 Nov  3 2009 [ 317232 00] 0X00000000.LPK 
+-r-xr-xr-x   1    0    0     370166 Nov  3 2009 [ 317360 00] 0X00000001.LPK 
+-r-xr-xr-x   1    0    0     376946 Nov  3 2009 [ 317552 00] 0X00000002.LPK 
+-r-xr-xr-x   1    0    0     373332 Nov  3 2009 [ 317744 00] 0X00000003.LPK 
+-r-xr-xr-x   1    0    0     270354 Nov  3 2009 [ 317936 00] 0X00000004.LPK 
+-r-xr-xr-x   1    0    0     399062 Nov  3 2009 [ 318080 00] 0X00000005.LPK 
+-r-xr-xr-x   1    0    0     395448 Nov  3 2009 [ 318288 00] 0X00000006.LPK 
+-r-xr-xr-x   1    0    0     432322 Nov  3 2009 [ 318496 00] 0X00000007.LPK 
+-r-xr-xr-x   1    0    0     376328 Nov  3 2009 [ 318720 00] 0X00000008.LPK 
+-r-xr-xr-x   1    0    0     244886 Nov  3 2009 [ 318912 00] 0X00000009.LPK 
+-r-xr-xr-x   1    0    0     398186 Nov  3 2009 [ 319040 00] 0X0000000A.LPK 
+-r-xr-xr-x   1    0    0     435896 Nov  3 2009 [ 319248 00] 0X0000000B.LPK 
+-r-xr-xr-x   1    0    0     369668 Nov  3 2009 [ 319472 00] 0X0000000C.LPK 
+-r-xr-xr-x   1    0    0     244886 Nov  3 2009 [ 319664 00] 0X0000000D.LPK 
+-r-xr-xr-x   1    0    0     437048 Nov  3 2009 [ 319792 00] 0X0000000E.LPK 
+-r-xr-xr-x   1    0    0     395106 Nov  3 2009 [ 320016 00] 0X0000000F.LPK 
+-r-xr-xr-x   1    0    0     498456 Nov  3 2009 [ 320224 00] 0X00000010.LPK 
+-r-xr-xr-x   1    0    0     320064 Nov  3 2009 [ 320480 00] 0X00000011.LPK 
+-r-xr-xr-x   1    0    0     247442 Nov  3 2009 [ 320640 00] 0X00000012.LPK 
+-r-xr-xr-x   1    0    0     255000 Nov  3 2009 [ 320768 00] 0X00000013.LPK 
+-r-xr-xr-x   1    0    0     395816 Nov  3 2009 [ 320896 00] 18D8B490498F72974542AF6A.LSPK 
+-r-xr-xr-x   1    0    0     171664 Nov  3 2009 [ 321104 00] 27568023462D3DA937644456.LSPK 
+-r-xr-xr-x   1    0    0     187864 Nov  3 2009 [ 321200 00] 28F6589A56625AEEB1036DCB.LSPK 
+-r-xr-xr-x   1    0    0      46360 Nov  3 2009 [ 321296 00] 401B84EADC572AC2059CD023.LSPK 
+-r-xr-xr-x   1    0    0     207072 Nov  3 2009 [ 321328 00] 49D8A0CAE17BD26BB4BA89D7.LSPK 
+-r-xr-xr-x   1    0    0     284288 Nov  3 2009 [ 321440 00] 4E649B9B631FEDD1D0E6C950.LSPK 
+-r-xr-xr-x   1    0    0     151200 Nov  3 2009 [ 321584 00] 50412C6722E46943B2CCFAFF.LSPK 
+-r-xr-xr-x   1    0    0    3393812 Nov  3 2009 [ 321664 00] 56C6FB4FA434C0C5FE0CEFA3.LSPK 
+-r-xr-xr-x   1    0    0     119896 Nov  3 2009 [ 323328 00] 6069690D593B783BBA5E690A.LSPK 
+-r-xr-xr-x   1    0    0     177308 Nov  3 2009 [ 323392 00] 982357B3EE41A6F079F599D3.LSPK 
+-r-xr-xr-x   1    0    0      25048 Nov  3 2009 [ 323488 00] B7028F42DB300D8FD0008E84.LSPK 
+-r-xr-xr-x   1    0    0     255832 Nov  3 2009 [ 323504 00] B90C441535943EF83804E80F.LSPK 
+-r-xr-xr-x   1    0    0    1425356 Nov  3 2009 [ 323632 00] BAE26A032EDBDA50E6D7FAB4.LSPK 
+-r-xr-xr-x   1    0    0     299036 Nov  3 2009 [ 324336 00] BD674028D6125A23B222532C.LSPK 
+-r-xr-xr-x   1    0    0     145240 Nov  3 2009 [ 324496 00] CF7A13CC9F9AF0F331E1222E.LSPK 
+-r-xr-xr-x   1    0    0     227616 Nov  3 2009 [ 324576 00] E473E342DB576DAF37ACC888.LSPK 
+
+Directory listing of /PSP_GAME/USRDIR/PSP/SOUNDS/PACKAGES/FRENCH/
+dr-xr-xr-x   1    0    0       4096 Nov  3 2009 [     41 02] . 
+dr-xr-xr-x   1    0    0       4096 Nov  3 2009 [     37 02] .. 
+-r-xr-xr-x   1    0    0     243686 Nov  3 2009 [ 324688 00] 0X00000000.LPK 
+-r-xr-xr-x   1    0    0     368966 Nov  3 2009 [ 324816 00] 0X00000001.LPK 
+-r-xr-xr-x   1    0    0     375746 Nov  3 2009 [ 325008 00] 0X00000002.LPK 
+-r-xr-xr-x   1    0    0     372132 Nov  3 2009 [ 325200 00] 0X00000003.LPK 
+-r-xr-xr-x   1    0    0     269154 Nov  3 2009 [ 325392 00] 0X00000004.LPK 
+-r-xr-xr-x   1    0    0     397862 Nov  3 2009 [ 325536 00] 0X00000005.LPK 
+-r-xr-xr-x   1    0    0     394248 Nov  3 2009 [ 325744 00] 0X00000006.LPK 
+-r-xr-xr-x   1    0    0     430274 Nov  3 2009 [ 325952 00] 0X00000007.LPK 
+-r-xr-xr-x   1    0    0     375128 Nov  3 2009 [ 326176 00] 0X00000008.LPK 
+-r-xr-xr-x   1    0    0     243686 Nov  3 2009 [ 326368 00] 0X00000009.LPK 
+-r-xr-xr-x   1    0    0     396986 Nov  3 2009 [ 326496 00] 0X0000000A.LPK 
+-r-xr-xr-x   1    0    0     433848 Nov  3 2009 [ 326704 00] 0X0000000B.LPK 
+-r-xr-xr-x   1    0    0     368468 Nov  3 2009 [ 326928 00] 0X0000000C.LPK 
+-r-xr-xr-x   1    0    0     243686 Nov  3 2009 [ 327120 00] 0X0000000D.LPK 
+-r-xr-xr-x   1    0    0     435000 Nov  3 2009 [ 327248 00] 0X0000000E.LPK 
+-r-xr-xr-x   1    0    0     393906 Nov  3 2009 [ 327472 00] 0X0000000F.LPK 
+-r-xr-xr-x   1    0    0     497256 Nov  3 2009 [ 327680 00] 0X00000010.LPK 
+-r-xr-xr-x   1    0    0     318160 Nov  3 2009 [ 327936 00] 0X00000011.LPK 
+-r-xr-xr-x   1    0    0     246242 Nov  3 2009 [ 328096 00] 0X00000012.LPK 
+-r-xr-xr-x   1    0    0     253800 Nov  3 2009 [ 328224 00] 0X00000013.LPK 
+-r-xr-xr-x   1    0    0     386408 Nov  3 2009 [ 328352 00] 18D8B490498F72974542AF6A.LSPK 
+-r-xr-xr-x   1    0    0     159952 Nov  3 2009 [ 328544 00] 27568023462D3DA937644456.LSPK 
+-r-xr-xr-x   1    0    0     179416 Nov  3 2009 [ 328624 00] 28F6589A56625AEEB1036DCB.LSPK 
+-r-xr-xr-x   1    0    0      41560 Nov  3 2009 [ 328720 00] 401B84EADC572AC2059CD023.LSPK 
+-r-xr-xr-x   1    0    0     207648 Nov  3 2009 [ 328752 00] 49D8A0CAE17BD26BB4BA89D7.LSPK 
+-r-xr-xr-x   1    0    0     263360 Nov  3 2009 [ 328864 00] 4E649B9B631FEDD1D0E6C950.LSPK 
+-r-xr-xr-x   1    0    0     145248 Nov  3 2009 [ 329008 00] 50412C6722E46943B2CCFAFF.LSPK 
+-r-xr-xr-x   1    0    0    3101972 Nov  3 2009 [ 329088 00] 56C6FB4FA434C0C5FE0CEFA3.LSPK 
+-r-xr-xr-x   1    0    0     116632 Nov  3 2009 [ 330608 00] 6069690D593B783BBA5E690A.LSPK 
+-r-xr-xr-x   1    0    0     174428 Nov  3 2009 [ 330672 00] 982357B3EE41A6F079F599D3.LSPK 
+-r-xr-xr-x   1    0    0      22552 Nov  3 2009 [ 330768 00] B7028F42DB300D8FD0008E84.LSPK 
+-r-xr-xr-x   1    0    0     249496 Nov  3 2009 [ 330784 00] B90C441535943EF83804E80F.LSPK 
+-r-xr-xr-x   1    0    0    1385612 Nov  3 2009 [ 330912 00] BAE26A032EDBDA50E6D7FAB4.LSPK 
+-r-xr-xr-x   1    0    0     287900 Nov  3 2009 [ 331600 00] BD674028D6125A23B222532C.LSPK 
+-r-xr-xr-x   1    0    0     139672 Nov  3 2009 [ 331744 00] CF7A13CC9F9AF0F331E1222E.LSPK 
+-r-xr-xr-x   1    0    0     223776 Nov  3 2009 [ 331824 00] E473E342DB576DAF37ACC888.LSPK 
+
+Directory listing of /PSP_GAME/USRDIR/PSP/SOUNDS/PACKAGES/SPANISH/
+dr-xr-xr-x   1    0    0       4096 Nov  3 2009 [     43 02] . 
+dr-xr-xr-x   1    0    0       4096 Nov  3 2009 [     37 02] .. 
+-r-xr-xr-x   1    0    0     252150 Nov  3 2009 [ 331936 00] 0X00000000.LPK 
+-r-xr-xr-x   1    0    0     377430 Nov  3 2009 [ 332064 00] 0X00000001.LPK 
+-r-xr-xr-x   1    0    0     384210 Nov  3 2009 [ 332256 00] 0X00000002.LPK 
+-r-xr-xr-x   1    0    0     380596 Nov  3 2009 [ 332448 00] 0X00000003.LPK 
+-r-xr-xr-x   1    0    0     277618 Nov  3 2009 [ 332640 00] 0X00000004.LPK 
+-r-xr-xr-x   1    0    0     406326 Nov  3 2009 [ 332784 00] 0X00000005.LPK 
+-r-xr-xr-x   1    0    0     402712 Nov  3 2009 [ 332992 00] 0X00000006.LPK 
+-r-xr-xr-x   1    0    0     437762 Nov  3 2009 [ 333200 00] 0X00000007.LPK 
+-r-xr-xr-x   1    0    0     383592 Nov  3 2009 [ 333424 00] 0X00000008.LPK 
+-r-xr-xr-x   1    0    0     252150 Nov  3 2009 [ 333616 00] 0X00000009.LPK 
+-r-xr-xr-x   1    0    0     405450 Nov  3 2009 [ 333744 00] 0X0000000A.LPK 
+-r-xr-xr-x   1    0    0     441336 Nov  3 2009 [ 333952 00] 0X0000000B.LPK 
+-r-xr-xr-x   1    0    0     376932 Nov  3 2009 [ 334176 00] 0X0000000C.LPK 
+-r-xr-xr-x   1    0    0     252150 Nov  3 2009 [ 334368 00] 0X0000000D.LPK 
+-r-xr-xr-x   1    0    0     442488 Nov  3 2009 [ 334496 00] 0X0000000E.LPK 
+-r-xr-xr-x   1    0    0     402370 Nov  3 2009 [ 334720 00] 0X0000000F.LPK 
+-r-xr-xr-x   1    0    0     505720 Nov  3 2009 [ 334928 00] 0X00000010.LPK 
+-r-xr-xr-x   1    0    0     326672 Nov  3 2009 [ 335184 00] 0X00000011.LPK 
+-r-xr-xr-x   1    0    0     254706 Nov  3 2009 [ 335344 00] 0X00000012.LPK 
+-r-xr-xr-x   1    0    0     262264 Nov  3 2009 [ 335472 00] 0X00000013.LPK 
+-r-xr-xr-x   1    0    0     403880 Nov  3 2009 [ 335616 00] 18D8B490498F72974542AF6A.LSPK 
+-r-xr-xr-x   1    0    0     177424 Nov  3 2009 [ 335824 00] 27568023462D3DA937644456.LSPK 
+-r-xr-xr-x   1    0    0     188248 Nov  3 2009 [ 335920 00] 28F6589A56625AEEB1036DCB.LSPK 
+-r-xr-xr-x   1    0    0      46744 Nov  3 2009 [ 336016 00] 401B84EADC572AC2059CD023.LSPK 
+-r-xr-xr-x   1    0    0     215904 Nov  3 2009 [ 336048 00] 49D8A0CAE17BD26BB4BA89D7.LSPK 
+-r-xr-xr-x   1    0    0     288896 Nov  3 2009 [ 336160 00] 4E649B9B631FEDD1D0E6C950.LSPK 
+-r-xr-xr-x   1    0    0     152544 Nov  3 2009 [ 336304 00] 50412C6722E46943B2CCFAFF.LSPK 
+-r-xr-xr-x   1    0    0    3350996 Nov  3 2009 [ 336384 00] 56C6FB4FA434C0C5FE0CEFA3.LSPK 
+-r-xr-xr-x   1    0    0     120664 Nov  3 2009 [ 338032 00] 6069690D593B783BBA5E690A.LSPK 
+-r-xr-xr-x   1    0    0     176156 Nov  3 2009 [ 338096 00] 982357B3EE41A6F079F599D3.LSPK 
+-r-xr-xr-x   1    0    0      24856 Nov  3 2009 [ 338192 00] B7028F42DB300D8FD0008E84.LSPK 
+-r-xr-xr-x   1    0    0     260632 Nov  3 2009 [ 338208 00] B90C441535943EF83804E80F.LSPK 
+-r-xr-xr-x   1    0    0    1455116 Nov  3 2009 [ 338336 00] BAE26A032EDBDA50E6D7FAB4.LSPK 
+-r-xr-xr-x   1    0    0     299612 Nov  3 2009 [ 339056 00] BD674028D6125A23B222532C.LSPK 
+-r-xr-xr-x   1    0    0     146584 Nov  3 2009 [ 339216 00] CF7A13CC9F9AF0F331E1222E.LSPK 
+-r-xr-xr-x   1    0    0     227616 Nov  3 2009 [ 339296 00] E473E342DB576DAF37ACC888.LSPK 
+=============================================================== 
+Generated on Mon 08/08/2022 at 15:46:29.75 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

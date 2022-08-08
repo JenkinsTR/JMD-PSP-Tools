@@ -1,0 +1,114 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Naruto Shippuden - Ultimate Ninja Heroes 3   
+Title ID: ULES-01407 
+Region: EUR  
+Languages: En,Fr,De,Es,It  
+Volume Creation Date: 2010-03-18 12:00:00 
+Volume Size: 1297 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: 
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 664240
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Mar 18 2010 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 18 2010 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov 20 2009 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Nov 20 2009 [     30 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Nov 20 2009 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 18 2010 [     22 02] .. 
+-r-xr-xr-x   1    0    0      29977 Jan 12 2010 [  59872 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     313344 Feb 19 2010 [  59888 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        560 Feb  1 2010 [  59856 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     154297 Jan 12 2010 [  60048 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0     184408 Jun 26 2009 [  60128 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 Nov 20 2009 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Feb  9 2010 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Nov 20 2009 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 20 2009 [     23 02] .. 
+-r-xr-xr-x   1    0    0    6685572 Mar 18 2010 [  56576 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    6685920 Mar 18 2010 [    544 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0        880 Nov 20 2009 [     32 00] OPNSSMP.BIN 
+dr-xr-xr-x   1    0    0       2048 Nov 20 2009 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Feb  9 2010 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 20 2009 [     23 02] .. 
+-r-xr-xr-x   1    0    0  446651472 Mar 18 2010 [ 446144 00] DATA.DNS 
+dr-xr-xr-x   1    0    0       2048 May 29 2009 [     27 02] MODULES 
+-r-xr-xr-x   1    0    0  439779760 Mar 18 2010 [  60256 00] data.cpk 
+dr-xr-xr-x   1    0    0       2048 Jan  7 2010 [     28 02] movie 
+dr-xr-xr-x   1    0    0       2048 Jul 10 2009 [     29 02] sound 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Nov 20 2009 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 20 2009 [     24 02] .. 
+-r-xr-xr-x   1    0    0   23372384 Nov 20 2009 [   7936 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5545568 Nov 20 2009 [   3840 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Nov 20 2009 [   3824 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/MODULES/
+dr-xr-xr-x   1    0    0       2048 May 29 2009 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb  9 2010 [     25 02] .. 
+-r-xr-xr-x   1    0    0      20720 May 18 2009 [  60224 00] libfont.prx 
+-r-xr-xr-x   1    0    0      19408 Jul 31 2009 [  60240 00] libsuppreacc.prx 
+
+Directory listing of /PSP_GAME/USRDIR/movie/
+dr-xr-xr-x   1    0    0       2048 Jan  7 2010 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb  9 2010 [     25 02] .. 
+-r-xr-xr-x   1    0    0     352256 Jan 29 2008 [ 318656 00] logo_cc2.pmf 
+-r-xr-xr-x   1    0    0     186368 May  1 2009 [ 318832 00] logo_cri.pmf 
+-r-xr-xr-x   1    0    0     694272 Aug  7 2009 [ 318928 00] logo_nrt.pmf 
+-r-xr-xr-x   1    0    0   32329728 Feb 16 2010 [ 319280 00] movie_01E.pmf 
+-r-xr-xr-x   1    0    0   20996096 Feb  3 2010 [ 335072 00] movie_02E.pmf 
+-r-xr-xr-x   1    0    0    2816000 Jan  5 2010 [ 345328 00] movie_03E.pmf 
+-r-xr-xr-x   1    0    0  105476096 Mar  5 2010 [ 346704 00] movie_04E.pmf 
+-r-xr-xr-x   1    0    0   13711360 Feb  3 2010 [ 398208 00] movie_05E.pmf 
+-r-xr-xr-x   1    0    0   84428800 Mar  5 2010 [ 404912 00] movie_07E.pmf 
+-r-xr-xr-x   1    0    0   45105152 Jan  5 2010 [ 275072 00] movie_08E.pmf 
+-r-xr-xr-x   1    0    0   12677120 Jan 21 2010 [ 297104 00] movie_09E.pmf 
+-r-xr-xr-x   1    0    0   29419520 Jan 21 2010 [ 303296 00] movie_10E.pmf 
+-r-xr-xr-x   1    0    0    2000896 Jan  5 2010 [ 317664 00] movie_11E.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/sound/
+dr-xr-xr-x   1    0    0       2048 Jul 10 2009 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb  9 2010 [     25 02] .. 
+-r-xr-xr-x   1    0    0          1 Jun 26 2009 [ 275008 00] bgm.afs 
+-r-xr-xr-x   1    0    0          1 Jun 26 2009 [ 275024 00] evvoice.afs 
+-r-xr-xr-x   1    0    0          1 Jun 26 2009 [ 275040 00] plvoice.afs 
+-r-xr-xr-x   1    0    0          1 Jun 26 2009 [ 275056 00] stream.afs 
+=============================================================== 
+Generated on Sun 07/08/2022 at 19:29:05.37 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

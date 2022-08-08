@@ -1,0 +1,98 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Sid Meier's Pirates   
+Title ID: ULUS-10224 
+Region: USA  
+Languages: En,Fr,De,Es,It  
+Volume Creation Date: 2006-12-15 22:00:00 
+Volume Size: 318 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: PIRATES
+Volume set id: PIRATES
+Publisher id: TAKE TWO INTERACTIVE
+Data preparer id: FULLFAT
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 162832
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Dec 15 2006 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 15 2006 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct 19 2006 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Oct 19 2006 [     28 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Oct 19 2006 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 15 2006 [     22 02] .. 
+-r-xr-xr-x   1    0    0       8740 Nov 28 2006 [  21664 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     163840 Nov 13 2006 [  21680 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 Dec  6 2006 [  21648 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      78341 Nov 28 2006 [  21824 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0     115136 Nov 29 2006 [  21760 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0     135900 Nov 13 2006 [  21872 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 Oct 19 2006 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Oct 19 2006 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Oct 19 2006 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 19 2006 [     23 02] .. 
+-r-xr-xr-x   1    0    0    2287261 Dec  6 2006 [ 161712 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    2287600 Dec 15 2006 [     32 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Oct 19 2006 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Oct 19 2006 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 19 2006 [     23 02] .. 
+-r-xr-xr-x   1    0    0          0 Nov 10 2006 [  21952 00] US 
+-r-xr-xr-x   1    0    0      35904 Oct 26 2006 [  21984 00] libpsmfplayer.prx 
+dr-xr-xr-x   1    0    0       2048 Nov 26 2006 [     27 02] movies 
+-r-xr-xr-x   1    0    0  235598812 Dec  6 2006 [  46672 00] pack 
+-r-xr-xr-x   1    0    0       7440 Oct 26 2006 [  21968 00] psmf.prx 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Oct 19 2006 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 19 2006 [     24 02] .. 
+-r-xr-xr-x   1    0    0   15456416 Oct 19 2006 [   5264 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5079424 Oct 19 2006 [   1168 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Oct 19 2006 [   1152 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/movies/
+dr-xr-xr-x   1    0    0       2048 Nov 26 2006 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 19 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0     903168 Nov  9 2006 [  23792 00] 2k.pmf 
+-r-xr-xr-x   1    0    0   15357952 Nov 23 2006 [  39168 00] credits.pmf 
+-r-xr-xr-x   1    0    0    1038336 Nov  9 2006 [  24240 00] ff.pmf 
+-r-xr-xr-x   1    0    0    1327104 Oct 26 2006 [  23136 00] firaxis.pmf 
+-r-xr-xr-x   1    0    0   14598144 Nov 21 2006 [  24752 00] intro1.pmf 
+-r-xr-xr-x   1    0    0   14893056 Nov 21 2006 [  31888 00] intro2.pmf 
+-r-xr-xr-x   1    0    0     428032 Nov 10 2006 [  22016 00] legal_e.pmf 
+-r-xr-xr-x   1    0    0     454656 Nov 10 2006 [  22240 00] legal_f.pmf 
+-r-xr-xr-x   1    0    0     428032 Nov 10 2006 [  22464 00] legal_g.pmf 
+-r-xr-xr-x   1    0    0     407552 Nov 10 2006 [  22688 00] legal_i.pmf 
+-r-xr-xr-x   1    0    0     471040 Nov 10 2006 [  22896 00] legal_s.pmf 
+=============================================================== 
+Generated on Mon 08/08/2022 at 15:46:44.05 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

@@ -1,0 +1,120 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: MLB 06 - The Show   
+Title ID: UCUS-98624 
+Region: USA  
+Languages: En  
+Volume Creation Date: 2006-02-08 12:20:07 
+Volume Size: 1408 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: 
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 721024
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Feb  8 2006 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb  8 2006 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2005 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Oct  5 2005 [     32 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2005 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb  8 2006 [     22 02] .. 
+-r-xr-xr-x   1    0    0       7468 Feb  5 2006 [  21008 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     290816 Feb  5 2006 [  20864 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 Feb  8 2006 [  20848 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     158726 Feb  5 2006 [  21024 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0     193736 Feb  5 2006 [  21104 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2005 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2005 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2005 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2005 [     23 02] .. 
+-r-xr-xr-x   1    0    0     621396 Feb  8 2006 [  21200 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0     621744 Feb  8 2006 [     48 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2005 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2005 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2005 [     23 02] .. 
+-r-xr-xr-x   1    0    0    3880625 Feb  8 2006 [  21520 00] FRONTEND.PRX 
+dr-xr-xr-x   1    0    0       2048 Jan 20 2006 [     27 02] FRONTEND 
+-r-xr-xr-x   1    0    0    3886021 Feb  8 2006 [  23424 00] GAME.PRX 
+-r-xr-xr-x   1    0    0    2796597 Feb  8 2006 [  26896 00] GHOSTMAN.PRX 
+-r-xr-xr-x   1    0    0    3193045 Feb  8 2006 [  25328 00] HRDERBY.PRX 
+-r-xr-xr-x   1    0    0  663016197 Feb  6 2006 [  28320 00] MLB2006PSP.WAD 
+dr-xr-xr-x   1    0    0       2048 Jan  3 2006 [     28 02] MODULES 
+dr-xr-xr-x   1    0    0       2048 Mar  6 2005 [     29 02] SNDPSP 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2005 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2005 [     24 02] .. 
+-r-xr-xr-x   1    0    0   14809632 Oct  5 2005 [   4464 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    3951712 Oct  5 2005 [    368 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       1772 Oct  5 2005 [    352 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/FRONTEND/
+dr-xr-xr-x   1    0    0       2048 Jan 20 2006 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2005 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2005 [     30 02] STATS 
+
+Directory listing of /PSP_GAME/USRDIR/MODULES/
+dr-xr-xr-x   1    0    0       2048 Jan  3 2006 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2005 [     25 02] .. 
+-r-xr-xr-x   1    0    0       3264 Dec  8 2005 [  28272 00] AUDIOCODEC.PRX 
+-r-xr-xr-x   1    0    0      10128 Dec  8 2005 [  28288 00] LIBATRAC3PLUS.PRX 
+-r-xr-xr-x   1    0    0       6864 Dec  8 2005 [  28304 00] SC_SASCORE.PRX 
+
+Directory listing of /PSP_GAME/USRDIR/SNDPSP/
+dr-xr-xr-x   1    0    0       2048 Mar  6 2005 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2005 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jan 12 2006 [     31 02] SOUND 
+
+Directory listing of /PSP_GAME/USRDIR/FRONTEND/STATS/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2005 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 20 2006 [     27 02] .. 
+-r-xr-xr-x   1    0    0         40 Jul 12 2005 [  21504 00] DBDEFN.BIN 
+
+Directory listing of /PSP_GAME/USRDIR/SNDPSP/SOUND/
+dr-xr-xr-x   1    0    0       2048 Jan 12 2006 [     31 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  6 2005 [     29 02] .. 
+-r-xr-xr-x   1    0    0    5775968 Jan 31 2006 [ 531296 00] CHANTS.SKX 
+-r-xr-xr-x   1    0    0      92128 Jan 20 2006 [ 531248 00] FEPXP.SKX 
+-r-xr-xr-x   1    0    0     597440 Feb  3 2006 [ 492352 00] MLBFE.SWD 
+-r-xr-xr-x   1    0    0    5900032 Feb  3 2006 [ 492656 00] MLBGAME.SWD 
+-r-xr-xr-x   1    0    0    3387904 Feb  3 2006 [ 495552 00] MLBHRD.SWD 
+-r-xr-xr-x   1    0    0   69691160 Jan 27 2006 [ 497216 00] MUSIC.SKX 
+-r-xr-xr-x   1    0    0   23436768 Feb  3 2006 [ 534128 00] PA.SKX 
+-r-xr-xr-x   1    0    0  359260256 Feb  3 2006 [ 545600 00] PXP.SKX 
+-r-xr-xr-x   1    0    0         96 Jan 17 2006 [ 545584 00] YELLS.SKX 
+=============================================================== 
+Generated on Mon 08/08/2022 at 15:47:13.38 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

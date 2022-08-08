@@ -1,0 +1,149 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: LocoRoco 2   
+Title ID: UCJP-00164 
+Region: Japan  
+Languages: Beta  
+Volume Creation Date: 2008-08-29 18:49:46 
+Volume Size: 1631 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: LOCOROCO2
+Volume set id: GAMES
+Publisher id: SCEJ
+Data preparer id: JSTUDIO
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 835200
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Aug 29 2008 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 29 2008 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Aug 29 2008 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Aug 29 2008 [     31 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Aug 29 2008 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 29 2008 [     22 02] .. 
+-r-xr-xr-x   1    0    0       4918 Apr  7 2006 [  57824 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     280576 Apr 26 2006 [  57872 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 Aug 29 2008 [  57808 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      17241 Apr 23 2006 [  57840 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0       6174 Apr 23 2006 [  57856 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0     202044 May  3 2006 [  58016 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 Aug 29 2008 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Aug 29 2008 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Aug 29 2008 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 29 2008 [     23 02] .. 
+-r-xr-xr-x   1    0    0    4604340 Aug 29 2008 [  55552 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    4604688 Aug 29 2008 [     32 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Aug 29 2008 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Aug 29 2008 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 29 2008 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 Aug 29 2008 [     27 02] data 
+dr-xr-xr-x   1    0    0       2048 Aug 29 2008 [     28 02] modules 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Aug 29 2008 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 29 2008 [     24 02] .. 
+-r-xr-xr-x   1    0    0   20544736 Aug 29 2008 [   6400 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5216752 Aug 29 2008 [   2304 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Aug 29 2008 [   2288 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/data/
+dr-xr-xr-x   1    0    0       2048 Aug 29 2008 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 29 2008 [     25 02] .. 
+-r-xr-xr-x   1    0    0 1127940096 Aug 29 2008 [ 284448 00] DATA.BIN 
+-r-xr-xr-x   1    0    0      37005 Aug 29 2008 [  58224 00] first_jpn.arc 
+dr-xr-xr-x   1    0    0       4096 Aug 29 2008 [     29 02] movie 
+-r-xr-xr-x   1    0    0       6174 Jul 31 2008 [  58256 00] photo_bg.png 
+-r-xr-xr-x   1    0    0       3372 Jul 31 2008 [  58272 00] photo_icon.png 
+
+Directory listing of /PSP_GAME/USRDIR/modules/
+dr-xr-xr-x   1    0    0       2048 Aug 29 2008 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 29 2008 [     25 02] .. 
+-r-xr-xr-x   1    0    0      20752 Jun 13 2008 [  58128 00] libfont.prx 
+-r-xr-xr-x   1    0    0     103808 Jun 20 2008 [  58144 00] libpsmfplayer.prx 
+-r-xr-xr-x   1    0    0       6800 Jun 13 2008 [  58208 00] psmf.prx 
+
+Directory listing of /PSP_GAME/USRDIR/data/movie/
+dr-xr-xr-x   1    0    0       4096 Aug 29 2008 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 29 2008 [     27 02] .. 
+-r-xr-xr-x   1    0    0    8450048 Aug 28 2008 [  58288 00] story_01.pmf 
+-r-xr-xr-x   1    0    0   28041216 Aug 22 2008 [  62416 00] story_02.pmf 
+-r-xr-xr-x   1    0    0    4780032 Jul 10 2008 [  76112 00] story_03.pmf 
+-r-xr-xr-x   1    0    0   14249984 Aug 28 2008 [  78448 00] story_04.pmf 
+-r-xr-xr-x   1    0    0    2306048 Aug 28 2008 [  85408 00] story_05.pmf 
+-r-xr-xr-x   1    0    0    5965824 Aug 28 2008 [  86544 00] story_06.pmf 
+-r-xr-xr-x   1    0    0   13187072 Aug 28 2008 [  89472 00] story_07.pmf 
+-r-xr-xr-x   1    0    0    7114752 Aug 28 2008 [  95920 00] story_08.pmf 
+-r-xr-xr-x   1    0    0    7706624 Aug 29 2008 [  99408 00] story_09.pmf 
+-r-xr-xr-x   1    0    0    4349952 Aug 28 2008 [ 103184 00] story_10.pmf 
+-r-xr-xr-x   1    0    0   12113920 Aug 28 2008 [ 105312 00] story_11.pmf 
+-r-xr-xr-x   1    0    0   12214272 Aug 29 2008 [ 111232 00] story_12.pmf 
+-r-xr-xr-x   1    0    0    5255168 Aug 29 2008 [ 117200 00] story_13.pmf 
+-r-xr-xr-x   1    0    0    7124992 Aug 29 2008 [ 119776 00] story_14.pmf 
+-r-xr-xr-x   1    0    0    8622080 Aug 29 2008 [ 123264 00] story_15.pmf 
+-r-xr-xr-x   1    0    0   12740608 Aug 28 2008 [ 127488 00] story_16.pmf 
+-r-xr-xr-x   1    0    0    4067328 Aug 28 2008 [ 133712 00] story_17.pmf 
+-r-xr-xr-x   1    0    0   14962688 Aug 28 2008 [ 135712 00] story_18.pmf 
+-r-xr-xr-x   1    0    0     731136 Aug 28 2008 [ 143024 00] story_19.pmf 
+-r-xr-xr-x   1    0    0     727040 Aug 28 2008 [ 143392 00] story_20.pmf 
+-r-xr-xr-x   1    0    0   11192320 Aug 28 2008 [ 143760 00] story_21.pmf 
+-r-xr-xr-x   1    0    0    7045120 Jul 31 2008 [ 149232 00] story_22.pmf 
+-r-xr-xr-x   1    0    0    6111232 Aug 29 2008 [ 152672 00] story_23.pmf 
+-r-xr-xr-x   1    0    0    6129664 Aug 29 2008 [ 155664 00] story_24.pmf 
+-r-xr-xr-x   1    0    0   13799424 Aug 28 2008 [ 158672 00] sub_03.pmf 
+-r-xr-xr-x   1    0    0    6760448 Aug 22 2008 [ 165424 00] sub_04.pmf 
+-r-xr-xr-x   1    0    0    5771264 Aug 29 2008 [ 168736 00] sub_05.pmf 
+-r-xr-xr-x   1    0    0    7890944 Aug 28 2008 [ 171568 00] sub_06.pmf 
+-r-xr-xr-x   1    0    0   12929024 Aug 29 2008 [ 175424 00] sub_07.pmf 
+-r-xr-xr-x   1    0    0    7368704 Aug 28 2008 [ 181744 00] sub_08.pmf 
+-r-xr-xr-x   1    0    0    6653952 Aug 28 2008 [ 185344 00] sub_09.pmf 
+-r-xr-xr-x   1    0    0    7976960 Aug 28 2008 [ 188608 00] sub_12.pmf 
+-r-xr-xr-x   1    0    0    7170048 Aug 28 2008 [ 192512 00] sub_13.pmf 
+-r-xr-xr-x   1    0    0    7708672 Aug 28 2008 [ 196016 00] sub_15.pmf 
+-r-xr-xr-x   1    0    0   22446080 Aug 22 2008 [ 199792 00] sub_17.pmf 
+-r-xr-xr-x   1    0    0    7581696 Aug 28 2008 [ 210752 00] sub_18.pmf 
+-r-xr-xr-x   1    0    0    7088128 Aug 28 2008 [ 214464 00] sub_19.pmf 
+-r-xr-xr-x   1    0    0    4925440 Aug 28 2008 [ 217936 00] sub_20.pmf 
+-r-xr-xr-x   1    0    0    7700480 Aug 28 2008 [ 220352 00] sub_21.pmf 
+-r-xr-xr-x   1    0    0    8615936 Jul 17 2008 [ 224112 00] sub_22.pmf 
+-r-xr-xr-x   1    0    0    6991872 Aug 28 2008 [ 228320 00] sub_23.pmf 
+-r-xr-xr-x   1    0    0   11081728 Aug 28 2008 [ 231744 00] sub_24.pmf 
+-r-xr-xr-x   1    0    0    6543360 Aug 29 2008 [ 237168 00] sub_26.pmf 
+-r-xr-xr-x   1    0    0    5531648 Aug 28 2008 [ 240368 00] sub_27.pmf 
+-r-xr-xr-x   1    0    0    5017600 Aug 28 2008 [ 243072 00] sub_28.pmf 
+-r-xr-xr-x   1    0    0    7602176 Aug 28 2008 [ 245536 00] sub_29.pmf 
+-r-xr-xr-x   1    0    0    2447360 Aug 28 2008 [ 249248 00] sub_30.pmf 
+-r-xr-xr-x   1    0    0   39426048 Aug 29 2008 [ 250448 00] sub_31.pmf 
+-r-xr-xr-x   1    0    0   30150656 Aug 15 2008 [ 269712 00] titledemo.pmf 
+=============================================================== 
+Generated on Sun 07/08/2022 at 13:43:39.12 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

@@ -1,0 +1,598 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Shin Megami Tensei - Persona   
+Title ID: ULUS-10432 
+Region: USA  
+Languages: En  
+Volume Creation Date: 2009-07-21 09:56:18 
+Volume Size: 782 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: PERSONA
+Volume set id: 
+Publisher id: ATLUS
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 400752
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Jul 21 2009 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 21 2009 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Nov 17 2008 [     84 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 21 2009 [     22 02] .. 
+-r-xr-xr-x   1    0    0      18061 Oct 31 2008 [  55264 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     247808 Oct 31 2008 [  55280 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 May 14 2009 [  55248 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      20138 Jun 19 2009 [  55408 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0      98975 Oct 31 2008 [  55424 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     23 02] .. 
+-r-xr-xr-x   1    0    0    3836128 Jul 21 2009 [  55488 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    3836464 Jul 21 2009 [     96 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     23 02] .. 
+dr-xr-xr-x   1    0    0       4096 Nov 17 2008 [     27 02] MOVIE 
+-r-xr-xr-x   1    0    0      75440 Oct 23 2008 [  57376 00] datapack.bin 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     29 02] pack 
+dr-xr-xr-x   1    0    0       4096 Nov 17 2008 [     30 02] sdata 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     24 02] .. 
+-r-xr-xr-x   1    0    0   22054496 Nov 17 2008 [   6096 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5476384 Nov 17 2008 [   2000 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Nov 17 2008 [   1984 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/MOVIE/
+dr-xr-xr-x   1    0    0       4096 Nov 17 2008 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     25 02] .. 
+-r-xr-xr-x   1    0    0    1558528 Dec  2 2008 [ 279232 00] MV00.pmf 
+-r-xr-xr-x   1    0    0    1574912 Dec  2 2008 [ 291936 00] MV01.pmf 
+-r-xr-xr-x   1    0    0    1576960 Dec  2 2008 [ 331776 00] MV02.pmf 
+-r-xr-xr-x   1    0    0    1564672 Dec  2 2008 [ 368608 00] MV03.pmf 
+-r-xr-xr-x   1    0    0    1568768 Dec  2 2008 [ 369376 00] MV04.pmf 
+-r-xr-xr-x   1    0    0    1576960 Dec  2 2008 [ 370144 00] MV05.pmf 
+-r-xr-xr-x   1    0    0    1568768 Dec  2 2008 [ 370928 00] MV06.pmf 
+-r-xr-xr-x   1    0    0    1554432 Dec  2 2008 [ 371696 00] MV07.pmf 
+-r-xr-xr-x   1    0    0    1566720 Dec  2 2008 [ 372464 00] MV08.pmf 
+-r-xr-xr-x   1    0    0    1583104 Dec  2 2008 [ 373232 00] MV09.pmf 
+-r-xr-xr-x   1    0    0    1589248 Dec  2 2008 [ 280000 00] MV0A.pmf 
+-r-xr-xr-x   1    0    0    1890304 Dec  2 2008 [ 280784 00] MV0B.pmf 
+-r-xr-xr-x   1    0    0    7954432 Dec  2 2008 [ 281712 00] MV0C.pmf 
+-r-xr-xr-x   1    0    0    4298752 Dec  2 2008 [ 285600 00] MV0D.pmf 
+-r-xr-xr-x   1    0    0    4272128 Dec  2 2008 [ 287712 00] MV0E.pmf 
+-r-xr-xr-x   1    0    0    4337664 Dec  2 2008 [ 289808 00] MV0F.pmf 
+-r-xr-xr-x   1    0    0    4331520 Dec  2 2008 [ 374016 00] MV10.pmf 
+-r-xr-xr-x   1    0    0   27295744 Dec  2 2008 [ 160992 00] MV11.pmf 
+-r-xr-xr-x   1    0    0   25026560 Apr 27 2009 [ 174320 00] MV12.pmf 
+-r-xr-xr-x   1    0    0   13713408 Apr 27 2009 [ 186544 00] MV13.pmf 
+-r-xr-xr-x   1    0    0   18579456 Apr 27 2009 [ 193248 00] MV14.pmf 
+-r-xr-xr-x   1    0    0   15495168 Apr 27 2009 [ 202320 00] MV15.pmf 
+-r-xr-xr-x   1    0    0   17385472 Apr 27 2009 [ 209888 00] MV16.pmf 
+-r-xr-xr-x   1    0    0   14960640 Apr 27 2009 [ 218384 00] MV17.pmf 
+-r-xr-xr-x   1    0    0    5918720 Dec  2 2008 [ 225696 00] MV18.pmf 
+-r-xr-xr-x   1    0    0    5867520 Dec  2 2008 [ 228592 00] MV19.pmf 
+-r-xr-xr-x   1    0    0   25913344 Apr 27 2009 [ 292720 00] MV1B.pmf 
+-r-xr-xr-x   1    0    0   39616512 Dec 18 2008 [ 305376 00] MV1C.pmf 
+-r-xr-xr-x   1    0    0    7053312 Dec  2 2008 [ 324720 00] MV1D.pmf 
+-r-xr-xr-x   1    0    0    7350272 Dec  2 2008 [ 328176 00] MV1F.pmf 
+-r-xr-xr-x   1    0    0    4943872 Dec  2 2008 [ 231472 00] MV20.pmf 
+-r-xr-xr-x   1    0    0    6375424 Dec  2 2008 [ 233888 00] MV21.pmf 
+-r-xr-xr-x   1    0    0    5812224 Dec  2 2008 [ 237008 00] MV22.pmf 
+-r-xr-xr-x   1    0    0    5816320 Dec  2 2008 [ 239856 00] MV23.pmf 
+-r-xr-xr-x   1    0    0   11241472 Dec  2 2008 [ 242704 00] MV24.pmf 
+-r-xr-xr-x   1    0    0   19578880 Dec  3 2008 [ 248208 00] MV25.pmf 
+-r-xr-xr-x   1    0    0    9869312 Dec  2 2008 [ 257776 00] MV26.pmf 
+-r-xr-xr-x   1    0    0    9625600 Apr 24 2009 [ 262608 00] MV27.pmf 
+-r-xr-xr-x   1    0    0   19818496 Apr 24 2009 [ 267312 00] MV28.pmf 
+-r-xr-xr-x   1    0    0    4567040 Dec  2 2008 [ 276992 00] MV29.pmf 
+-r-xr-xr-x   1    0    0   14934016 Apr 24 2009 [ 332560 00] MV2A.pmf 
+-r-xr-xr-x   1    0    0    7958528 Dec  2 2008 [ 339856 00] MV2B.pmf 
+-r-xr-xr-x   1    0    0    9445376 Apr 27 2009 [ 343744 00] MV2C.pmf 
+-r-xr-xr-x   1    0    0   41449472 Dec  2 2008 [ 348368 00] MV2D.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/pack/
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     25 02] .. 
+-r-xr-xr-x   1    0    0     358400 Dec 26 2008 [  58576 00] CMDAN.BIN 
+-r-xr-xr-x   1    0    0    5318656 Dec 26 2008 [  58752 00] DVLAN.BIN 
+-r-xr-xr-x   1    0    0    2158592 Jul 17 2009 [  61360 00] E0.BIN 
+-r-xr-xr-x   1    0    0    1718272 Jul 17 2009 [  62416 00] E1.BIN 
+-r-xr-xr-x   1    0    0    2144256 Jul 17 2009 [  63264 00] E2.BIN 
+-r-xr-xr-x   1    0    0    1126400 Jul 17 2009 [  64320 00] E3.BIN 
+-r-xr-xr-x   1    0    0    2361344 Jul 17 2009 [  64880 00] E4.BIN 
+-r-xr-xr-x   1    0    0    1660928 Jun 13 2009 [  66640 00] PERALL.BIN 
+-r-xr-xr-x   1    0    0      46384 Apr 24 2009 [  68016 00] bt_menu.bin 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     32 02] btl 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     33 02] casino 
+-r-xr-xr-x   1    0    0      82640 Jun 23 2009 [  68048 00] ch_menu.bin 
+-r-xr-xr-x   1    0    0     130752 Jun 13 2009 [  68096 00] cm_menu.bin 
+-r-xr-xr-x   1    0    0     570720 Nov 10 2008 [  57424 00] d2_map_e.bin 
+-r-xr-xr-x   1    0    0     787728 Nov 10 2008 [  57712 00] d2_map_i.bin 
+-r-xr-xr-x   1    0    0     919536 Nov 10 2008 [  58112 00] d2_map_n.bin 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     34 02] dng 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     35 02] ebg 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     36 02] end 
+-r-xr-xr-x   1    0    0     390208 Oct 16 2008 [  66304 00] kage.bin 
+-r-xr-xr-x   1    0    0      94288 Apr 23 2009 [  66496 00] map_w.bin 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     37 02] mes 
+-r-xr-xr-x   1    0    0      10480 Dec 17 2008 [  66544 00] moon.bin 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     38 02] movie_mode 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     39 02] name 
+-r-xr-xr-x   1    0    0     131824 Oct 30 2008 [  66560 00] over.bin 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     40 02] shop 
+-r-xr-xr-x   1    0    0     318368 Jul  7 2009 [  67456 00] sys.bin 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     41 02] talk 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     42 02] title 
+-r-xr-xr-x   1    0    0     567456 Nov 12 2008 [  67616 00] tyn.bin 
+-r-xr-xr-x   1    0    0     169520 Apr 23 2009 [  67904 00] vel_pack.bin 
+-r-xr-xr-x   1    0    0       8576 Oct 31 2008 [  68000 00] viewer_pack.bin 
+
+Directory listing of /PSP_GAME/USRDIR/sdata/
+dr-xr-xr-x   1    0    0       4096 Nov 17 2008 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     25 02] .. 
+-r-xr-xr-x   1    0    0      48272 Nov 14 2008 [  66272 00] SE_BOX.BIN 
+-r-xr-xr-x   1    0    0      18592 Nov 12 2008 [ 388288 00] SE_CASINO.BIN 
+-r-xr-xr-x   1    0    0     643072 Jun  2 2009 [ 107840 00] SE_CHR.BIN 
+-r-xr-xr-x   1    0    0     446464 Dec 25 2008 [ 388304 00] SE_DNG.BIN 
+-r-xr-xr-x   1    0    0     403456 Dec 25 2008 [  66048 00] SE_EVT.BIN 
+-r-xr-xr-x   1    0    0    2088960 Dec  3 2008 [ 106416 00] SE_MGC.BIN 
+-r-xr-xr-x   1    0    0     708608 Jun  2 2009 [  99648 00] SE_PRS.BIN 
+-r-xr-xr-x   1    0    0      82112 Dec 18 2008 [ 160912 00] SE_SYS.BIN 
+-r-xr-xr-x   1    0    0       8608 Nov 14 2008 [  66256 00] SE_TRISH.BIN 
+-r-xr-xr-x   1    0    0      39664 Nov  4 2008 [ 160960 00] SE_VEL.BIN 
+-r-xr-xr-x   1    0    0     462644 Nov 22 2008 [ 384640 00] bgm01.at3 
+-r-xr-xr-x   1    0    0     478812 Nov 22 2008 [ 384400 00] bgm02.at3 
+-r-xr-xr-x   1    0    0     483700 Nov 22 2008 [ 384160 00] bgm03.at3 
+-r-xr-xr-x   1    0    0     511524 Dec 19 2008 [ 383904 00] bgm04.at3 
+-r-xr-xr-x   1    0    0     490468 Nov 22 2008 [ 383664 00] bgm05.at3 
+-r-xr-xr-x   1    0    0     389700 Nov 22 2008 [ 383472 00] bgm06.at3 
+-r-xr-xr-x   1    0    0     472420 Nov 22 2008 [ 383232 00] bgm07.at3 
+-r-xr-xr-x   1    0    0     466404 Nov 22 2008 [ 378112 00] bgm08.at3 
+-r-xr-xr-x   1    0    0     419028 Nov 22 2008 [ 377904 00] bgm09.at3 
+-r-xr-xr-x   1    0    0     415268 Nov 22 2008 [ 383024 00] bgm10.at3 
+-r-xr-xr-x   1    0    0     459260 Nov 22 2008 [ 382784 00] bgm11.at3 
+-r-xr-xr-x   1    0    0     483700 Nov 22 2008 [ 382544 00] bgm12.at3 
+-r-xr-xr-x   1    0    0     285924 Dec 25 2008 [ 382400 00] bgm13.at3 
+-r-xr-xr-x   1    0    0     389700 Nov 22 2008 [ 382208 00] bgm14.at3 
+-r-xr-xr-x   1    0    0     392708 Nov 22 2008 [ 382016 00] bgm15.at3 
+-r-xr-xr-x   1    0    0     415644 Dec 19 2008 [ 381808 00] bgm16.at3 
+-r-xr-xr-x   1    0    0     452492 Nov 22 2008 [ 381584 00] bgm17.at3 
+-r-xr-xr-x   1    0    0     477684 Nov 22 2008 [ 381344 00] bgm18.at3 
+-r-xr-xr-x   1    0    0     329916 Nov 22 2008 [ 381168 00] bgm19.at3 
+-r-xr-xr-x   1    0    0     415644 Nov 22 2008 [ 380960 00] bgm20.at3 
+-r-xr-xr-x   1    0    0     491972 Nov 22 2008 [ 380704 00] bgm21.at3 
+-r-xr-xr-x   1    0    0     422412 Nov 22 2008 [ 380496 00] bgm22.at3 
+-r-xr-xr-x   1    0    0     351724 Nov 22 2008 [ 380320 00] bgm23.at3 
+-r-xr-xr-x   1    0    0     453244 Nov 22 2008 [ 380096 00] bgm24.at3 
+-r-xr-xr-x   1    0    0     380676 Dec 19 2008 [ 376960 00] bgm25.at3 
+-r-xr-xr-x   1    0    0     511148 Dec 19 2008 [ 379840 00] bgm26.at3 
+-r-xr-xr-x   1    0    0     333984 Nov 22 2008 [ 379664 00] bgm27.at3 
+-r-xr-xr-x   1    0    0     453244 Nov 22 2008 [ 379440 00] bgm28.at3 
+-r-xr-xr-x   1    0    0     511524 Dec 19 2008 [ 379184 00] bgm29.at3 
+-r-xr-xr-x   1    0    0     450988 Nov 22 2008 [ 378960 00] bgm30.at3 
+-r-xr-xr-x   1    0    0     389700 Nov 22 2008 [ 378768 00] bgm31.at3 
+-r-xr-xr-x   1    0    0     504004 Oct 27 2008 [ 386144 00] bgm32.at3 
+-r-xr-xr-x   1    0    0     462644 Oct 27 2008 [ 385904 00] bgm33.at3 
+-r-xr-xr-x   1    0    0     492348 Oct 27 2008 [ 385648 00] bgm34.at3 
+-r-xr-xr-x   1    0    0     505884 Oct 27 2008 [ 385136 00] bgm35.at3 
+-r-xr-xr-x   1    0    0     491596 Oct 27 2008 [ 385392 00] bgm36.at3 
+-r-xr-xr-x   1    0    0     505132 Oct 27 2008 [ 384880 00] bgm37.at3 
+-r-xr-xr-x   1    0    0     389700 Nov 22 2008 [ 378576 00] bgm38.at3 
+-r-xr-xr-x   1    0    0     195308 Dec 19 2008 [ 378480 00] bgm39.at3 
+-r-xr-xr-x   1    0    0     240428 Nov 22 2008 [ 378352 00] bgm40.at3 
+-r-xr-xr-x   1    0    0     429932 Nov 12 2008 [ 386400 00] bgm41.at3 
+-r-xr-xr-x   1    0    0     476556 Nov 12 2008 [ 386624 00] bgm42.at3 
+-r-xr-xr-x   1    0    0     389700 Dec 19 2008 [ 386864 00] bgm43.at3 
+-r-xr-xr-x   1    0    0    1518384 Nov 22 2008 [ 377152 00] end_bad.at3 
+-r-xr-xr-x   1    0    0    1652616 Nov 22 2008 [ 376144 00] end_good.at3 
+
+Directory listing of /PSP_GAME/USRDIR/pack/btl/
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     32 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     29 02] .. 
+-r-xr-xr-x   1    0    0      35872 Apr 23 2009 [  68160 00] RESULT.BIN 
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     43 02] bg 
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     44 02] dvl 
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     45 02] grd 
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     46 02] mgc 
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     47 02] pty 
+
+Directory listing of /PSP_GAME/USRDIR/pack/casino/
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     33 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     29 02] .. 
+-r-xr-xr-x   1    0    0     625040 Jun 10 2009 [ 387968 00] minigame_cb.bin 
+-r-xr-xr-x   1    0    0     543440 Jun 10 2009 [ 387056 00] minigame_dice.bin 
+-r-xr-xr-x   1    0    0     708848 Jun 22 2009 [ 387328 00] minigame_poker.bin 
+-r-xr-xr-x   1    0    0     575408 Jun 10 2009 [ 387680 00] minigame_slot.bin 
+
+Directory listing of /PSP_GAME/USRDIR/pack/dng/
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     34 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     29 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     48 02] d00 
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     49 02] d01 
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     50 02] d02 
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     51 02] d03 
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     52 02] d04 
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     53 02] d05 
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     54 02] d06 
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     55 02] d07 
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     56 02] d08 
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     57 02] d09 
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     58 02] d0a 
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     59 02] d0b 
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     60 02] d0c 
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     61 02] d0d 
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     62 02] d0e 
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     63 02] d0f 
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     64 02] d11 
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     65 02] d12 
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     66 02] d13 
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     67 02] d14 
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     68 02] d15 
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     69 02] d16 
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     70 02] d17 
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     71 02] d18 
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     72 02] d19 
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     73 02] d1a 
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     74 02] d1b 
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     75 02] d1c 
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     76 02] d1d 
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     77 02] d1e 
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     78 02] d1f 
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     79 02] d21 
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     80 02] d22 
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     81 02] d23 
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     82 02] d24 
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     83 02] d25 
+
+Directory listing of /PSP_GAME/USRDIR/pack/ebg/
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     35 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     29 02] .. 
+-r-xr-xr-x   1    0    0   38295552 Dec 26 2008 [ 108160 00] EBG_ALL.BIN 
+
+Directory listing of /PSP_GAME/USRDIR/pack/end/
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     36 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     29 02] .. 
+-r-xr-xr-x   1    0    0    6520832 Jul 17 2009 [ 395824 00] ENDALL.BIN 
+
+Directory listing of /PSP_GAME/USRDIR/pack/mes/
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     37 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     29 02] .. 
+-r-xr-xr-x   1    0    0   68126720 Sep 13 2008 [ 126864 00] MES_ALL.BIN 
+
+Directory listing of /PSP_GAME/USRDIR/pack/movie_mode/
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     38 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     29 02] .. 
+-r-xr-xr-x   1    0    0     727472 Apr 23 2009 [ 399008 00] movie_mode_data.bin 
+
+Directory listing of /PSP_GAME/USRDIR/pack/name/
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     39 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     29 02] .. 
+-r-xr-xr-x   1    0    0      12032 May 25 2009 [ 399376 00] na.bin 
+
+Directory listing of /PSP_GAME/USRDIR/pack/shop/
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     40 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     29 02] .. 
+-r-xr-xr-x   1    0    0     266240 Apr 23 2009 [ 160144 00] SHALL.BIN 
+
+Directory listing of /PSP_GAME/USRDIR/pack/talk/
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     41 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     29 02] .. 
+-r-xr-xr-x   1    0    0      32296 Jul 17 2009 [ 400448 00] ALIEN.BIN 
+-r-xr-xr-x   1    0    0     115502 Jul 17 2009 [ 400464 00] BASKET.BIN 
+-r-xr-xr-x   1    0    0      44680 Jul 17 2009 [ 400528 00] DOPPEL.BIN 
+-r-xr-xr-x   1    0    0      59282 Jul 17 2009 [ 400560 00] ETC.BIN 
+-r-xr-xr-x   1    0    0      40688 Jul 17 2009 [ 400592 00] GAKI.BIN 
+-r-xr-xr-x   1    0    0     112374 Jul 17 2009 [ 400624 00] HIHO.BIN 
+-r-xr-xr-x   1    0    0     106366 Jul 17 2009 [ 400688 00] KEMONO.BIN 
+-r-xr-xr-x   1    0    0      26600 Jul 17 2009 [ 399392 00] KOKURI.BIN 
+-r-xr-xr-x   1    0    0     127366 Jul 17 2009 [ 399408 00] KOROU.BIN 
+-r-xr-xr-x   1    0    0     104270 Jul 17 2009 [ 399472 00] KOSIKI.BIN 
+-r-xr-xr-x   1    0    0     132422 Jul 17 2009 [ 399536 00] KOUMAN.BIN 
+-r-xr-xr-x   1    0    0      51184 Jul 17 2009 [ 399616 00] KUTISAKE.BIN 
+-r-xr-xr-x   1    0    0     117174 Jul 17 2009 [ 399648 00] KYOUKI.BIN 
+-r-xr-xr-x   1    0    0      39832 Jul 17 2009 [ 399712 00] MAYOERU.BIN 
+-r-xr-xr-x   1    0    0      47776 Jul 17 2009 [ 399744 00] POLUTAR.BIN 
+-r-xr-xr-x   1    0    0      42048 Jul 17 2009 [ 399776 00] QSIRUBA.BIN 
+-r-xr-xr-x   1    0    0     132430 Jul 17 2009 [ 399808 00] SINSI.BIN 
+-r-xr-xr-x   1    0    0      43440 Jul 17 2009 [ 399888 00] SLIME.BIN 
+-r-xr-xr-x   1    0    0      98894 Jul 17 2009 [ 399920 00] SYOUJO.BIN 
+-r-xr-xr-x   1    0    0     125262 Jul 17 2009 [ 399984 00] TENSI.BIN 
+-r-xr-xr-x   1    0    0      54504 Jul 17 2009 [ 400048 00] TINPRA.BIN 
+-r-xr-xr-x   1    0    0     104078 Jul 17 2009 [ 400080 00] TOILET.BIN 
+-r-xr-xr-x   1    0    0     104670 Jul 17 2009 [ 400144 00] WORM.BIN 
+-r-xr-xr-x   1    0    0     125302 Jul 17 2009 [ 400208 00] WTENSI.BIN 
+-r-xr-xr-x   1    0    0      52104 Jul 17 2009 [ 400272 00] YAKUZA.BIN 
+-r-xr-xr-x   1    0    0     107318 Jul 17 2009 [ 400304 00] YOUEN.BIN 
+-r-xr-xr-x   1    0    0      42880 Jul 17 2009 [ 400368 00] ZMBITYAN.BIN 
+-r-xr-xr-x   1    0    0      34584 Jul 17 2009 [ 400416 00] ZOMBIKO.BIN 
+-r-xr-xr-x   1    0    0      31000 Jul 17 2009 [ 400400 00] ZOMB_MAN.BIN 
+
+Directory listing of /PSP_GAME/USRDIR/pack/title/
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     42 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     29 02] .. 
+-r-xr-xr-x   1    0    0    1250736 Jun 22 2009 [ 160288 00] title.bin 
+
+Directory listing of /PSP_GAME/USRDIR/pack/btl/bg/
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     43 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     32 02] .. 
+-r-xr-xr-x   1    0    0    5490688 Oct 23 2008 [  68192 00] BTLBG.BIN 
+
+Directory listing of /PSP_GAME/USRDIR/pack/btl/dvl/
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     44 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     32 02] .. 
+-r-xr-xr-x   1    0    0   51261440 Nov 19 2008 [  70880 00] DVLALL.BIN 
+
+Directory listing of /PSP_GAME/USRDIR/pack/btl/grd/
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     45 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     32 02] .. 
+-r-xr-xr-x   1    0    0    7622656 Jan  5 2009 [  95920 00] GRDALL.BIN 
+
+Directory listing of /PSP_GAME/USRDIR/pack/btl/mgc/
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     46 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     32 02] .. 
+-r-xr-xr-x   1    0    0   13123584 Nov  2 2008 [ 100000 00] MGCALL.BIN 
+
+Directory listing of /PSP_GAME/USRDIR/pack/btl/pty/
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     47 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     32 02] .. 
+-r-xr-xr-x   1    0    0     813056 Dec 23 2008 [ 107440 00] PTYALL.BIN 
+
+Directory listing of /PSP_GAME/USRDIR/pack/dng/d00/
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     48 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     34 02] .. 
+-r-xr-xr-x   1    0    0     409040 Jun 14 2009 [ 393968 00] d00.bin 
+-r-xr-xr-x   1    0    0       8896 Jun 14 2009 [ 394176 00] d00m.bin 
+
+Directory listing of /PSP_GAME/USRDIR/pack/dng/d01/
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     49 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     34 02] .. 
+-r-xr-xr-x   1    0    0     474880 Jun 14 2009 [ 395568 00] d01.bin 
+-r-xr-xr-x   1    0    0       3568 Jun 14 2009 [ 395808 00] d01m.bin 
+
+Directory listing of /PSP_GAME/USRDIR/pack/dng/d02/
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     50 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     34 02] .. 
+-r-xr-xr-x   1    0    0     330208 Jun 14 2009 [ 389664 00] d02.bin 
+-r-xr-xr-x   1    0    0      31232 Jul 29 2008 [ 389840 00] d02elv.bin 
+-r-xr-xr-x   1    0    0       6160 Jun 14 2009 [ 389856 00] d02m.bin 
+
+Directory listing of /PSP_GAME/USRDIR/pack/dng/d03/
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     51 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     34 02] .. 
+-r-xr-xr-x   1    0    0     328768 Jun 14 2009 [ 389872 00] d03.bin 
+-r-xr-xr-x   1    0    0      31232 Jul 29 2008 [ 390048 00] d03elv.bin 
+-r-xr-xr-x   1    0    0       6208 Jun 14 2009 [ 390064 00] d03m.bin 
+
+Directory listing of /PSP_GAME/USRDIR/pack/dng/d04/
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     52 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     34 02] .. 
+-r-xr-xr-x   1    0    0     246448 Jun 14 2009 [ 390080 00] d04.bin 
+-r-xr-xr-x   1    0    0       4416 Jun 14 2009 [ 390208 00] d04m.bin 
+
+Directory listing of /PSP_GAME/USRDIR/pack/dng/d05/
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     53 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     34 02] .. 
+-r-xr-xr-x   1    0    0     475696 Jun 14 2009 [ 390224 00] d05.bin 
+-r-xr-xr-x   1    0    0       4976 Jun 14 2009 [ 390464 00] d05m.bin 
+
+Directory listing of /PSP_GAME/USRDIR/pack/dng/d06/
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     54 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     34 02] .. 
+-r-xr-xr-x   1    0    0     250128 Jun 14 2009 [ 390480 00] d06.bin 
+-r-xr-xr-x   1    0    0       4544 Jun 14 2009 [ 390608 00] d06m.bin 
+
+Directory listing of /PSP_GAME/USRDIR/pack/dng/d07/
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     55 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     34 02] .. 
+-r-xr-xr-x   1    0    0     372736 Jun 14 2009 [ 390624 00] d07.bin 
+-r-xr-xr-x   1    0    0       4960 Jun 14 2009 [ 390816 00] d07m.bin 
+
+Directory listing of /PSP_GAME/USRDIR/pack/dng/d08/
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     56 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     34 02] .. 
+-r-xr-xr-x   1    0    0     417984 Jun 14 2009 [ 390832 00] d08.bin 
+-r-xr-xr-x   1    0    0      31232 Jul 29 2008 [ 391040 00] d08elv.bin 
+-r-xr-xr-x   1    0    0       9568 Jun 14 2009 [ 391056 00] d08m.bin 
+
+Directory listing of /PSP_GAME/USRDIR/pack/dng/d09/
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     57 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     34 02] .. 
+-r-xr-xr-x   1    0    0     412736 Jun 14 2009 [ 391072 00] d09.bin 
+-r-xr-xr-x   1    0    0      31232 Jul 29 2008 [ 391280 00] d09elv.bin 
+-r-xr-xr-x   1    0    0       4352 Jun 14 2009 [ 391296 00] d09m.bin 
+
+Directory listing of /PSP_GAME/USRDIR/pack/dng/d0a/
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     58 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     34 02] .. 
+-r-xr-xr-x   1    0    0     415120 Jun 14 2009 [ 394192 00] d0a.bin 
+-r-xr-xr-x   1    0    0      11728 Jun 14 2009 [ 394400 00] d0am.bin 
+
+Directory listing of /PSP_GAME/USRDIR/pack/dng/d0b/
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     59 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     34 02] .. 
+-r-xr-xr-x   1    0    0     406800 Jun 14 2009 [ 394416 00] d0b.bin 
+-r-xr-xr-x   1    0    0      10800 Jun 14 2009 [ 394624 00] d0bm.bin 
+
+Directory listing of /PSP_GAME/USRDIR/pack/dng/d0c/
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     60 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     34 02] .. 
+-r-xr-xr-x   1    0    0     590544 Jul  7 2009 [ 394640 00] d0c.bin 
+-r-xr-xr-x   1    0    0      21792 Jul  7 2009 [ 394944 00] d0cm.bin 
+
+Directory listing of /PSP_GAME/USRDIR/pack/dng/d0d/
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     61 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     34 02] .. 
+-r-xr-xr-x   1    0    0     251728 Jun 14 2009 [ 394960 00] d0d.bin 
+-r-xr-xr-x   1    0    0       7536 Jun 14 2009 [ 395088 00] d0dm.bin 
+
+Directory listing of /PSP_GAME/USRDIR/pack/dng/d0e/
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     62 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     34 02] .. 
+-r-xr-xr-x   1    0    0     452880 Jun 14 2009 [ 395104 00] d0e.bin 
+-r-xr-xr-x   1    0    0       2608 Jun 14 2009 [ 395328 00] d0em.bin 
+
+Directory listing of /PSP_GAME/USRDIR/pack/dng/d0f/
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     63 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     34 02] .. 
+-r-xr-xr-x   1    0    0     391440 Jun 14 2009 [ 395344 00] d0f.bin 
+-r-xr-xr-x   1    0    0      31232 Jul 29 2008 [ 395536 00] d0felv.bin 
+-r-xr-xr-x   1    0    0      16256 Jun 14 2009 [ 395552 00] d0fm.bin 
+
+Directory listing of /PSP_GAME/USRDIR/pack/dng/d11/
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     64 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     34 02] .. 
+-r-xr-xr-x   1    0    0     315104 Jun 14 2009 [ 391312 00] d11.bin 
+-r-xr-xr-x   1    0    0       4512 Jun 14 2009 [ 391472 00] d11m.bin 
+
+Directory listing of /PSP_GAME/USRDIR/pack/dng/d12/
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     65 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     34 02] .. 
+-r-xr-xr-x   1    0    0     243584 Jun 14 2009 [ 391488 00] d12.bin 
+-r-xr-xr-x   1    0    0       8800 Jun 14 2009 [ 391616 00] d12m.bin 
+
+Directory listing of /PSP_GAME/USRDIR/pack/dng/d13/
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     66 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     34 02] .. 
+-r-xr-xr-x   1    0    0     312976 Jun 14 2009 [ 391632 00] d13.bin 
+-r-xr-xr-x   1    0    0       6000 Jun 14 2009 [ 391792 00] d13m.bin 
+
+Directory listing of /PSP_GAME/USRDIR/pack/dng/d14/
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     67 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     34 02] .. 
+-r-xr-xr-x   1    0    0     314016 Jun 14 2009 [ 391808 00] d14.bin 
+-r-xr-xr-x   1    0    0      31232 Jul 29 2008 [ 391968 00] d14elv.bin 
+-r-xr-xr-x   1    0    0      10624 Jun 14 2009 [ 391984 00] d14m.bin 
+
+Directory listing of /PSP_GAME/USRDIR/pack/dng/d15/
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     68 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     34 02] .. 
+-r-xr-xr-x   1    0    0     313888 Jun 14 2009 [ 392000 00] d15.bin 
+-r-xr-xr-x   1    0    0       3232 Jun 14 2009 [ 392160 00] d15m.bin 
+
+Directory listing of /PSP_GAME/USRDIR/pack/dng/d16/
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     69 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     34 02] .. 
+-r-xr-xr-x   1    0    0     237024 Jun 14 2009 [ 392176 00] d16.bin 
+-r-xr-xr-x   1    0    0      15184 Jun 14 2009 [ 392304 00] d16m.bin 
+
+Directory listing of /PSP_GAME/USRDIR/pack/dng/d17/
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     70 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     34 02] .. 
+-r-xr-xr-x   1    0    0     391760 Jun 14 2009 [ 392320 00] d17.bin 
+-r-xr-xr-x   1    0    0      10592 Jun 14 2009 [ 392512 00] d17m.bin 
+
+Directory listing of /PSP_GAME/USRDIR/pack/dng/d18/
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     71 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     34 02] .. 
+-r-xr-xr-x   1    0    0     398752 Jun 14 2009 [ 392528 00] d18.bin 
+-r-xr-xr-x   1    0    0       4240 Jun 14 2009 [ 392736 00] d18m.bin 
+
+Directory listing of /PSP_GAME/USRDIR/pack/dng/d19/
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     72 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     34 02] .. 
+-r-xr-xr-x   1    0    0     253648 Jun 14 2009 [ 392752 00] d19.bin 
+-r-xr-xr-x   1    0    0      19184 Jun 14 2009 [ 392880 00] d19m.bin 
+
+Directory listing of /PSP_GAME/USRDIR/pack/dng/d1a/
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     73 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     34 02] .. 
+-r-xr-xr-x   1    0    0     315232 Jun 14 2009 [ 388528 00] d1a.bin 
+-r-xr-xr-x   1    0    0      13264 Jun 14 2009 [ 388688 00] d1am.bin 
+
+Directory listing of /PSP_GAME/USRDIR/pack/dng/d1b/
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     74 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     34 02] .. 
+-r-xr-xr-x   1    0    0     309952 Jun 14 2009 [ 388704 00] d1b.bin 
+-r-xr-xr-x   1    0    0       3328 Jun 14 2009 [ 388864 00] d1bm.bin 
+
+Directory listing of /PSP_GAME/USRDIR/pack/dng/d1c/
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     75 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     34 02] .. 
+-r-xr-xr-x   1    0    0     391152 Jun 29 2009 [ 388880 00] d1c.bin 
+-r-xr-xr-x   1    0    0      13392 Jun 29 2009 [ 389072 00] d1cm.bin 
+
+Directory listing of /PSP_GAME/USRDIR/pack/dng/d1d/
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     76 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     34 02] .. 
+-r-xr-xr-x   1    0    0     319168 Jun 14 2009 [ 389088 00] d1d.bin 
+-r-xr-xr-x   1    0    0      12016 Jun 14 2009 [ 389248 00] d1dm.bin 
+
+Directory listing of /PSP_GAME/USRDIR/pack/dng/d1e/
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     77 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     34 02] .. 
+-r-xr-xr-x   1    0    0     314656 Jun 14 2009 [ 389264 00] d1e.bin 
+-r-xr-xr-x   1    0    0       3488 Jun 14 2009 [ 389424 00] d1em.bin 
+
+Directory listing of /PSP_GAME/USRDIR/pack/dng/d1f/
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     78 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     34 02] .. 
+-r-xr-xr-x   1    0    0     403040 Jun 14 2009 [ 389440 00] d1f.bin 
+-r-xr-xr-x   1    0    0       6928 Jun 14 2009 [ 389648 00] d1fm.bin 
+
+Directory listing of /PSP_GAME/USRDIR/pack/dng/d21/
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     79 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     34 02] .. 
+-r-xr-xr-x   1    0    0     431584 Jun 14 2009 [ 392896 00] d21.bin 
+-r-xr-xr-x   1    0    0       8640 Jun 14 2009 [ 393120 00] d21m.bin 
+
+Directory listing of /PSP_GAME/USRDIR/pack/dng/d22/
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     80 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     34 02] .. 
+-r-xr-xr-x   1    0    0     430016 Jun 14 2009 [ 393136 00] d22.bin 
+-r-xr-xr-x   1    0    0       7216 Jun 14 2009 [ 393360 00] d22m.bin 
+
+Directory listing of /PSP_GAME/USRDIR/pack/dng/d23/
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     81 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     34 02] .. 
+-r-xr-xr-x   1    0    0     388064 Jun 14 2009 [ 393376 00] d23.bin 
+-r-xr-xr-x   1    0    0       4928 Jun 14 2009 [ 393568 00] d23m.bin 
+
+Directory listing of /PSP_GAME/USRDIR/pack/dng/d24/
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     82 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     34 02] .. 
+-r-xr-xr-x   1    0    0     408896 Jun 14 2009 [ 393584 00] d24.bin 
+-r-xr-xr-x   1    0    0       8896 Jun 14 2009 [ 393792 00] d24m.bin 
+
+Directory listing of /PSP_GAME/USRDIR/pack/dng/d25/
+dr-xr-xr-x   1    0    0       2048 Jun 17 2009 [     83 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 17 2008 [     34 02] .. 
+-r-xr-xr-x   1    0    0     283584 Jun 14 2009 [ 393808 00] d25.bin 
+-r-xr-xr-x   1    0    0       4432 Jun 14 2009 [ 393952 00] d25m.bin 
+=============================================================== 
+Generated on Mon 08/08/2022 at 15:46:43.92 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

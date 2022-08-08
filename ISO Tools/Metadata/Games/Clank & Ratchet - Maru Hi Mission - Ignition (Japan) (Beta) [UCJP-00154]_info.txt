@@ -1,0 +1,1535 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Clank & Ratchet - Maru Hi Mission - Ignition   
+Title ID: UCJP-00154 
+Region: Japan  
+Languages: Beta  
+Volume Creation Date: 2008-06-24 18:37:37 
+Volume Size: 1063 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: VOLUME
+Volume set id: VOLUMESET
+Publisher id: SCEA
+Data preparer id: LEVITICUS
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 544560
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     26 02] .. 
+dr-xr-xr-x   1    0    0       2048 Apr  9 2008 [     27 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Apr  9 2008 [    178 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Apr  9 2008 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     26 02] .. 
+-r-xr-xr-x   1    0    0      15314 May 14 2008 [  53920 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        472 Jun 24 2008 [  53936 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      69279 Jul 19 2007 [  53872 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Apr  9 2008 [     28 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     29 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Apr  9 2008 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr  9 2008 [     27 02] .. 
+-r-xr-xr-x   1    0    0     410429 Jun 24 2008 [  53664 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0     410768 Jun 24 2008 [    192 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Apr  9 2008 [     30 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr  9 2008 [     27 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     31 02] ART 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     32 02] BIN 
+dr-xr-xr-x   1    0    0       6144 Jun 24 2008 [     33 02] CLIPS 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     36 02] CODE 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     37 02] DATA 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     38 02] ETC 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     39 02] MODULES 
+dr-xr-xr-x   1    0    0       6144 Jun 24 2008 [     40 02] STREAMING 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Apr  9 2008 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr  9 2008 [     28 02] .. 
+-r-xr-xr-x   1    0    0   20220320 Apr  9 2008 [   4512 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5645680 Apr  9 2008 [    416 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Apr  9 2008 [    400 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/ART/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     31 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     29 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     43 02] CHARACTERS 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     44 02] HUD 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     45 02] LEVELS 
+
+Directory listing of /PSP_GAME/USRDIR/BIN/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     32 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     29 02] .. 
+-r-xr-xr-x   1    0    0    1883677 Jun 24 2008 [ 293664 00] FRONTEND.PRX 
+-r-xr-xr-x   1    0    0    3205505 Jun 24 2008 [ 294592 00] LEVEL_01.PRX 
+-r-xr-xr-x   1    0    0    2687217 Jun 24 2008 [ 296160 00] LEVEL_02.PRX 
+-r-xr-xr-x   1    0    0    3435809 Jun 24 2008 [ 297488 00] LEVEL_03.PRX 
+-r-xr-xr-x   1    0    0    3358921 Jun 24 2008 [ 299168 00] LEVEL_04.PRX 
+-r-xr-xr-x   1    0    0    2576145 Jun 24 2008 [ 300816 00] LEVEL_05.PRX 
+-r-xr-xr-x   1    0    0    3029385 Jun 24 2008 [ 302080 00] LEVEL_07.PRX 
+-r-xr-xr-x   1    0    0    2408309 Jun 24 2008 [ 303568 00] LEVEL_08.PRX 
+-r-xr-xr-x   1    0    0    3427569 Jun 24 2008 [ 304752 00] LEVEL_09.PRX 
+-r-xr-xr-x   1    0    0    3206977 Jun 24 2008 [ 306432 00] LEVEL_10.PRX 
+-r-xr-xr-x   1    0    0    3282849 Jun 24 2008 [ 308000 00] LEVEL_11.PRX 
+-r-xr-xr-x   1    0    0    3088761 Jun 24 2008 [ 309616 00] LEVEL_13.PRX 
+-r-xr-xr-x   1    0    0    3438473 Jun 24 2008 [ 311136 00] LEVEL_14.PRX 
+-r-xr-xr-x   1    0    0    3100313 Jun 24 2008 [ 312816 00] LEVEL_15.PRX 
+-r-xr-xr-x   1    0    0    3273145 Jun 24 2008 [ 314336 00] LEVEL_16.PRX 
+-r-xr-xr-x   1    0    0    2548697 Jun 24 2008 [ 315936 00] LEVEL_17.PRX 
+-r-xr-xr-x   1    0    0    2651729 Jun 24 2008 [ 317184 00] LEVEL_18.PRX 
+-r-xr-xr-x   1    0    0    3277993 Jun 24 2008 [ 318480 00] LEVEL_19.PRX 
+-r-xr-xr-x   1    0    0    2542525 Jun 24 2008 [ 320096 00] LEVEL_20.PRX 
+-r-xr-xr-x   1    0    0    3395865 Jun 24 2008 [ 321344 00] LEVEL_21.PRX 
+-r-xr-xr-x   1    0    0    3281313 Jun 24 2008 [ 323008 00] LEVEL_22.PRX 
+-r-xr-xr-x   1    0    0    2567045 Jun 24 2008 [ 324624 00] LEVEL_23.PRX 
+-r-xr-xr-x   1    0    0    2643053 Jun 24 2008 [ 325888 00] LEVEL_24.PRX 
+-r-xr-xr-x   1    0    0    3475521 Jun 24 2008 [ 327184 00] LEVEL_25.PRX 
+-r-xr-xr-x   1    0    0    2564641 Jun 24 2008 [ 328896 00] LEVEL_26.PRX 
+-r-xr-xr-x   1    0    0    2610257 Jun 24 2008 [ 330160 00] LEVEL_27.PRX 
+-r-xr-xr-x   1    0    0    2564925 Jun 24 2008 [ 331440 00] LEVEL_28.PRX 
+-r-xr-xr-x   1    0    0    3311881 Jun 24 2008 [ 332704 00] LEVEL_29.PRX 
+-r-xr-xr-x   1    0    0    3061937 Jun 24 2008 [ 334336 00] LEVEL_30.PRX 
+-r-xr-xr-x   1    0    0    2921137 Jun 24 2008 [ 335840 00] LEVEL_31.PRX 
+-r-xr-xr-x   1    0    0    2633309 Jun 24 2008 [ 337280 00] LEVEL_32.PRX 
+
+Directory listing of /PSP_GAME/USRDIR/CLIPS/
+dr-xr-xr-x   1    0    0       6144 Jun 24 2008 [     33 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     29 02] .. 
+-r-xr-xr-x   1    0    0   25348096 May  9 2008 [  74832 00] 01A.PMF 
+-r-xr-xr-x   1    0    0    5390336 May  9 2008 [  87216 00] 01C.PMF 
+-r-xr-xr-x   1    0    0   10168320 May  9 2008 [  89856 00] 01D.PMF 
+-r-xr-xr-x   1    0    0    9943040 May  9 2008 [  94832 00] 02A.PMF 
+-r-xr-xr-x   1    0    0    3260416 May  9 2008 [  99696 00] 02B.PMF 
+-r-xr-xr-x   1    0    0    7809024 May  9 2008 [ 101296 00] 02C.PMF 
+-r-xr-xr-x   1    0    0   11894784 May  9 2008 [ 105120 00] 02D.PMF 
+-r-xr-xr-x   1    0    0    2084864 May  9 2008 [ 110928 00] 02E.PMF 
+-r-xr-xr-x   1    0    0     720896 May 16 2008 [ 111952 00] 02F.PMF 
+-r-xr-xr-x   1    0    0   11524096 May  9 2008 [ 112304 00] 03A.PMF 
+-r-xr-xr-x   1    0    0    5763072 May  9 2008 [ 117936 00] 03B.PMF 
+-r-xr-xr-x   1    0    0    5556224 May  9 2008 [ 120752 00] 03C.PMF 
+-r-xr-xr-x   1    0    0    5388288 May  9 2008 [ 123472 00] 04A.PMF 
+-r-xr-xr-x   1    0    0    2596864 May  9 2008 [ 126112 00] 04B.PMF 
+-r-xr-xr-x   1    0    0    9418752 May  9 2008 [ 127392 00] 04C.PMF 
+-r-xr-xr-x   1    0    0    8906752 Oct 31 2007 [ 132000 00] 04CD.PMF 
+-r-xr-xr-x   1    0    0    7903232 Apr 13 2008 [ 136352 00] 04D.PMF 
+-r-xr-xr-x   1    0    0    2818048 Jun 10 2008 [ 140224 00] 04E.PMF 
+-r-xr-xr-x   1    0    0    7251968 May  9 2008 [ 141600 00] 05A.PMF 
+-r-xr-xr-x   1    0    0    9199616 Jun  4 2008 [ 145152 00] 05B.PMF 
+-r-xr-xr-x   1    0    0    6721536 May  9 2008 [ 151008 00] 05C.PMF 
+-r-xr-xr-x   1    0    0    2760704 Oct 11 2007 [ 149648 00] 05C2.PMF 
+-r-xr-xr-x   1    0    0    5064704 May  9 2008 [ 154304 00] 05D.PMF 
+-r-xr-xr-x   1    0    0    5175296 May  9 2008 [ 156784 00] 06A.PMF 
+-r-xr-xr-x   1    0    0    3895296 May  9 2008 [ 159312 00] 06B.PMF 
+-r-xr-xr-x   1    0    0    5484544 May  9 2008 [ 161216 00] 06C.PMF 
+-r-xr-xr-x   1    0    0    6574080 May  9 2008 [ 163904 00] 06D.PMF 
+-r-xr-xr-x   1    0    0    3774464 May  9 2008 [ 167120 00] 06E.PMF 
+-r-xr-xr-x   1    0    0    3960832 May  9 2008 [ 168976 00] 06F.PMF 
+-r-xr-xr-x   1    0    0    4009984 May  9 2008 [ 170912 00] 07A.PMF 
+-r-xr-xr-x   1    0    0    4481024 May  9 2008 [ 172880 00] 07B.PMF 
+-r-xr-xr-x   1    0    0    4161536 May  9 2008 [ 175072 00] 07C.PMF 
+-r-xr-xr-x   1    0    0    5527552 May  9 2008 [ 177104 00] 07D.PMF 
+-r-xr-xr-x   1    0    0    3518464 May  9 2008 [ 179808 00] 08A.PMF 
+-r-xr-xr-x   1    0    0    6537216 May  9 2008 [ 181536 00] 08B.PMF 
+-r-xr-xr-x   1    0    0    5412864 May  9 2008 [ 184736 00] 08C.PMF 
+-r-xr-xr-x   1    0    0    5183488 May  9 2008 [ 187392 00] 08D.PMF 
+-r-xr-xr-x   1    0    0    2246656 Feb 29 2008 [ 189936 00] 08E.PMF 
+-r-xr-xr-x   1    0    0   13412352 May  9 2008 [ 191040 00] 09A.PMF 
+-r-xr-xr-x   1    0    0    4691968 May  9 2008 [ 197600 00] 09B.PMF 
+-r-xr-xr-x   1    0    0    3418112 May  9 2008 [ 199904 00] 09C.PMF 
+-r-xr-xr-x   1    0    0    3545088 May  9 2008 [ 201584 00] 09D.PMF 
+-r-xr-xr-x   1    0    0    2887680 May  9 2008 [ 203328 00] 09E.PMF 
+-r-xr-xr-x   1    0    0    6987776 May  9 2008 [ 204752 00] 10A.PMF 
+-r-xr-xr-x   1    0    0   19539968 May  9 2008 [ 208176 00] 10B.PMF 
+-r-xr-xr-x   1    0    0    4644864 May  9 2008 [ 217728 00] 10C.PMF 
+-r-xr-xr-x   1    0    0   27551744 May 16 2008 [ 220000 00] 10D.PMF 
+-r-xr-xr-x   1    0    0   13443072 Feb 29 2008 [ 233456 00] 11A.PMF 
+-r-xr-xr-x   1    0    0    5093376 Mar  5 2008 [ 240032 00] 11B.PMF 
+-r-xr-xr-x   1    0    0    2209792 May  9 2008 [ 242528 00] 11C.PMF 
+-r-xr-xr-x   1    0    0   26189824 May 15 2008 [ 243616 00] 11D.PMF 
+-r-xr-xr-x   1    0    0    2275328 May  9 2008 [ 256416 00] 12A.PMF 
+-r-xr-xr-x   1    0    0    2281472 May 12 2008 [ 257536 00] 12B.PMF 
+-r-xr-xr-x   1    0    0    2281472 May 12 2008 [ 258656 00] 12C.PMF 
+-r-xr-xr-x   1    0    0    2277376 May 12 2008 [ 259776 00] 12D.PMF 
+-r-xr-xr-x   1    0    0    2277376 May 12 2008 [ 260896 00] 12E.PMF 
+-r-xr-xr-x   1    0    0    2281472 May 12 2008 [ 262016 00] 12F.PMF 
+-r-xr-xr-x   1    0    0    2285568 May 12 2008 [ 263136 00] 12H.PMF 
+-r-xr-xr-x   1    0    0     901120 Mar 11 2008 [ 264256 00] 15A.PMF 
+-r-xr-xr-x   1    0    0     937984 Mar 11 2008 [ 264704 00] 15B.PMF 
+-r-xr-xr-x   1    0    0    1005568 Mar 11 2008 [ 265168 00] 15C.PMF 
+-r-xr-xr-x   1    0    0     933888 Mar 11 2008 [ 265664 00] 15D.PMF 
+-r-xr-xr-x   1    0    0     854016 Mar 11 2008 [ 266128 00] 15E.PMF 
+-r-xr-xr-x   1    0    0     804864 Mar 11 2008 [ 266560 00] 15F.PMF 
+-r-xr-xr-x   1    0    0     808960 Mar 11 2008 [ 266960 00] 15G.PMF 
+-r-xr-xr-x   1    0    0     901120 Mar 11 2008 [ 267360 00] 15H.PMF 
+-r-xr-xr-x   1    0    0     974848 Mar 11 2008 [ 267808 00] 15I.PMF 
+-r-xr-xr-x   1    0    0     759808 Mar 11 2008 [ 268288 00] 15J.PMF 
+-r-xr-xr-x   1    0    0    9021440 Mar 11 2008 [ 268672 00] 15K.PMF 
+-r-xr-xr-x   1    0    0    5791744 Mar 11 2008 [ 273088 00] 15L.PMF 
+-r-xr-xr-x   1    0    0    4077568 Mar 11 2008 [ 275920 00] 15M.PMF 
+-r-xr-xr-x   1    0    0   23844864 Jun 19 2008 [ 277920 00] 15N.PMF 
+-r-xr-xr-x   1    0    0    5427200 Mar 21 2008 [ 289568 00] 15O.PMF 
+-r-xr-xr-x   1    0    0     376832 Aug 14 2007 [  74624 00] ENDSCREEN.PMF 
+-r-xr-xr-x   1    0    0    9236480 Sep 12 2007 [  65872 00] FRONTENDMOVIE.PMF 
+-r-xr-xr-x   1    0    0     620544 May 15 2008 [  64720 00] LEGAL_J.PMF 
+-r-xr-xr-x   1    0    0    1712128 May 15 2008 [  65024 00] LOGOS_J.PMF 
+-r-xr-xr-x   1    0    0      14336 Nov  3 2007 [  74816 00] TEMP.PMF 
+-r-xr-xr-x   1    0    0    8658944 Jun 13 2008 [  70384 00] TRACKREEL.PMF 
+
+Directory listing of /PSP_GAME/USRDIR/CODE/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     36 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     29 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     46 02] HUD 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     37 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     29 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     47 02] HUD 
+
+Directory listing of /PSP_GAME/USRDIR/ETC/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     38 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     29 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     48 02] GLOBALWAD 
+
+Directory listing of /PSP_GAME/USRDIR/MODULES/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     39 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     29 02] .. 
+-r-xr-xr-x   1    0    0         70 Aug 15 2007 [ 292224 00] HIGHIMPACT02.HIG 
+
+Directory listing of /PSP_GAME/USRDIR/STREAMING/
+dr-xr-xr-x   1    0    0       6144 Jun 24 2008 [     40 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     29 02] .. 
+-r-xr-xr-x   1    0    0    3130564 Nov  9 2007 [ 338576 00] 01A.AT3 
+-r-xr-xr-x   1    0    0     496972 Feb 27 2008 [ 340112 00] 01N.AT3 
+-r-xr-xr-x   1    0    0     804240 Mar 11 2008 [ 340368 00] 01O.AT3 
+-r-xr-xr-x   1    0    0     804240 Mar 11 2008 [ 340768 00] 01P.AT3 
+-r-xr-xr-x   1    0    0     881808 Mar 11 2008 [ 341168 00] 01Q.AT3 
+-r-xr-xr-x   1    0    0    3173124 Feb 28 2008 [ 341600 00] 02A.AT3 
+-r-xr-xr-x   1    0    0    3173124 Mar 25 2008 [ 343152 00] 02B.AT3 
+-r-xr-xr-x   1    0    0    1406352 Mar 11 2008 [ 344704 00] 02O.AT3 
+-r-xr-xr-x   1    0    0     881808 Mar 11 2008 [ 345392 00] 02P.AT3 
+-r-xr-xr-x   1    0    0    3203364 Mar 25 2008 [ 345824 00] 03A.AT3 
+-r-xr-xr-x   1    0    0    3112644 Nov  9 2007 [ 347392 00] 03B.AT3 
+-r-xr-xr-x   1    0    0     790800 Mar 11 2008 [ 348912 00] 03O.AT3 
+-r-xr-xr-x   1    0    0    3396004 Feb 28 2008 [ 349312 00] 04A.AT3 
+-r-xr-xr-x   1    0    0    2840484 Nov  9 2007 [ 350976 00] 04B.AT3 
+-r-xr-xr-x   1    0    0    2469264 Mar 11 2008 [ 352368 00] 04O.AT3 
+-r-xr-xr-x   1    0    0    3175364 Feb 28 2008 [ 353584 00] 05A.AT3 
+-r-xr-xr-x   1    0    0    2469264 Mar 11 2008 [ 355136 00] 05O.AT3 
+-r-xr-xr-x   1    0    0    3112644 Nov  9 2007 [ 356352 00] 06A.AT3 
+-r-xr-xr-x   1    0    0     619536 Mar 11 2008 [ 357872 00] 06O.AT3 
+-r-xr-xr-x   1    0    0    1393296 Mar 11 2008 [ 358176 00] 06P.AT3 
+-r-xr-xr-x   1    0    0    3112644 Nov  9 2007 [ 358864 00] 07A.AT3 
+-r-xr-xr-x   1    0    0    3112644 Nov  9 2007 [ 360384 00] 07B.AT3 
+-r-xr-xr-x   1    0    0     619536 Mar 12 2008 [ 361904 00] 07O.AT3 
+-r-xr-xr-x   1    0    0    1393296 Mar 12 2008 [ 362208 00] 07P.AT3 
+-r-xr-xr-x   1    0    0    3195524 Mar 25 2008 [ 362896 00] 08A.AT3 
+-r-xr-xr-x   1    0    0     914064 Mar 12 2008 [ 364464 00] 08O.AT3 
+-r-xr-xr-x   1    0    0    3431844 Feb 28 2008 [ 364912 00] 09A.AT3 
+-r-xr-xr-x   1    0    0    1487760 Mar 12 2008 [ 366592 00] 09O.AT3 
+-r-xr-xr-x   1    0    0    3258244 Nov  9 2007 [ 367328 00] 10A.AT3 
+-r-xr-xr-x   1    0    0    3084432 Mar 12 2008 [ 368928 00] 10O.AT3 
+-r-xr-xr-x   1    0    0    1002768 Mar 11 2008 [ 370448 00] 10P.AT3 
+-r-xr-xr-x   1    0    0     993168 Mar 11 2008 [ 370944 00] 10Q.AT3 
+-r-xr-xr-x   1    0    0    3116004 Nov  9 2007 [ 371440 00] 11A.AT3 
+-r-xr-xr-x   1    0    0    3189924 Feb 28 2008 [ 372976 00] 11B.AT3 
+-r-xr-xr-x   1    0    0    1406352 Mar 12 2008 [ 374544 00] 11O.AT3 
+-r-xr-xr-x   1    0    0    1002768 Mar 12 2008 [ 375232 00] 11P.AT3 
+-r-xr-xr-x   1    0    0     993168 Mar 12 2008 [ 375728 00] 11Q.AT3 
+-r-xr-xr-x   1    0    0    3189924 Feb 28 2008 [ 376224 00] 12A.AT3 
+-r-xr-xr-x   1    0    0    1488912 Mar 11 2008 [ 377792 00] 12O.AT3 
+-r-xr-xr-x   1    0    0    3038724 Nov  9 2007 [ 378528 00] 13A.AT3 
+-r-xr-xr-x   1    0    0    1318416 Mar 12 2008 [ 380016 00] 13O.AT3 
+-r-xr-xr-x   1    0    0    1318416 Mar 12 2008 [ 380672 00] 13P.AT3 
+-r-xr-xr-x   1    0    0     440592 Mar 12 2008 [ 381328 00] 13Q.AT3 
+-r-xr-xr-x   1    0    0    3586404 Mar 16 2008 [ 381552 00] 14A.AT3 
+-r-xr-xr-x   1    0    0    1488912 Mar 12 2008 [ 383312 00] 14O.AT3 
+-r-xr-xr-x   1    0    0    2481552 Mar 11 2008 [ 384048 00] 14P.AT3 
+-r-xr-xr-x   1    0    0    3668164 Mar 25 2008 [ 385264 00] 15A.AT3 
+-r-xr-xr-x   1    0    0    1749264 Mar 11 2008 [ 387056 00] 15O.AT3 
+-r-xr-xr-x   1    0    0    3794724 Feb 28 2008 [ 387920 00] 16A.AT3 
+-r-xr-xr-x   1    0    0     497040 Mar 12 2008 [ 389776 00] 16O.AT3 
+-r-xr-xr-x   1    0    0    2481552 Mar 12 2008 [ 390032 00] 16P.AT3 
+-r-xr-xr-x   1    0    0    2974884 Mar 16 2008 [ 391248 00] 17A.AT3 
+-r-xr-xr-x   1    0    0    1749264 Mar 12 2008 [ 392704 00] 17O.AT3 
+-r-xr-xr-x   1    0    0    2293776 Mar 11 2008 [ 393568 00] 17P.AT3 
+-r-xr-xr-x   1    0    0    1406352 Mar 11 2008 [ 394704 00] 17Q.AT3 
+-r-xr-xr-x   1    0    0    1499280 Mar 11 2008 [ 395392 00] 17R.AT3 
+-r-xr-xr-x   1    0    0    1241232 Mar 11 2008 [ 396128 00] 17S.AT3 
+-r-xr-xr-x   1    0    0    3258244 Nov  9 2007 [ 396736 00] 18A.AT3 
+-r-xr-xr-x   1    0    0    1985424 Mar 11 2008 [ 398336 00] 18O.AT3 
+-r-xr-xr-x   1    0    0    1323792 Mar 11 2008 [ 399312 00] 18P.AT3 
+-r-xr-xr-x   1    0    0    3102564 Nov  9 2007 [ 399968 00] 19A.AT3 
+-r-xr-xr-x   1    0    0    1442448 Mar 12 2008 [ 401488 00] 19O.AT3 
+-r-xr-xr-x   1    0    0    2293776 Mar 12 2008 [ 402208 00] 19P.AT3 
+-r-xr-xr-x   1    0    0    1406352 Mar 12 2008 [ 403344 00] 19Q.AT3 
+-r-xr-xr-x   1    0    0    1499280 Mar 12 2008 [ 404032 00] 19R.AT3 
+-r-xr-xr-x   1    0    0    1241232 Mar 12 2008 [ 404768 00] 19S.AT3 
+-r-xr-xr-x   1    0    0    3258244 Nov  9 2007 [ 405376 00] 20A.AT3 
+-r-xr-xr-x   1    0    0    1985424 Mar 12 2008 [ 406976 00] 20O.AT3 
+-r-xr-xr-x   1    0    0    1323792 Mar 12 2008 [ 407952 00] 20P.AT3 
+-r-xr-xr-x   1    0    0    1942416 Mar 11 2008 [ 408608 00] 20Q.AT3 
+-r-xr-xr-x   1    0    0    3082404 Nov  9 2007 [ 409568 00] 21A.AT3 
+-r-xr-xr-x   1    0    0    1856784 Mar 12 2008 [ 411088 00] 21O.AT3 
+-r-xr-xr-x   1    0    0    3196644 Feb 28 2008 [ 412000 00] 22A.AT3 
+-r-xr-xr-x   1    0    0    1948560 Mar 12 2008 [ 413568 00] 22O.AT3 
+-r-xr-xr-x   1    0    0    1948560 Mar 12 2008 [ 414528 00] 22P.AT3 
+-r-xr-xr-x   1    0    0    1942416 Mar 12 2008 [ 415488 00] 22Q.AT3 
+-r-xr-xr-x   1    0    0    3152964 Feb 28 2008 [ 416448 00] 23A.AT3 
+-r-xr-xr-x   1    0    0    1944336 Mar 12 2008 [ 418000 00] 23O.AT3 
+-r-xr-xr-x   1    0    0    3345604 Mar 16 2008 [ 418960 00] 24A.AT3 
+-r-xr-xr-x   1    0    0    1587984 Mar 11 2008 [ 420608 00] 24O.AT3 
+-r-xr-xr-x   1    0    0    3064484 Mar 16 2008 [ 421392 00] 25A.AT3 
+-r-xr-xr-x   1    0    0    3551684 Mar 25 2008 [ 422896 00] 26A.AT3 
+-r-xr-xr-x   1    0    0    1587984 Mar 12 2008 [ 424640 00] 26O.AT3 
+-r-xr-xr-x   1    0    0    3238084 Feb 28 2008 [ 425424 00] 27A.AT3 
+-r-xr-xr-x   1    0    0    1587984 Mar 12 2008 [ 427008 00] 27O.AT3 
+-r-xr-xr-x   1    0    0    1241232 Mar 11 2008 [ 427792 00] 27P.AT3 
+-r-xr-xr-x   1    0    0    3196644 Mar 20 2008 [ 428400 00] 28A.AT3 
+-r-xr-xr-x   1    0    0    2399376 Mar 12 2008 [ 429968 00] 28O.AT3 
+-r-xr-xr-x   1    0    0    3258244 Mar 16 2008 [ 431152 00] 29A.AT3 
+-r-xr-xr-x   1    0    0    4730640 Mar 12 2008 [ 432752 00] 29O.AT3 
+-r-xr-xr-x   1    0    0    1241232 Mar 12 2008 [ 435072 00] 29P.AT3 
+-r-xr-xr-x   1    0    0    3398244 Feb 28 2008 [ 435680 00] 30A.AT3 
+-r-xr-xr-x   1    0    0    1241232 Mar 12 2008 [ 437344 00] 30O.AT3 
+-r-xr-xr-x   1    0    0    2999524 Mar 25 2008 [ 437952 00] 31A.AT3 
+-r-xr-xr-x   1    0    0    5070336 Mar 31 2008 [ 439424 00] 32A.AT3 
+-r-xr-xr-x   1    0    0    2167296 Mar 31 2008 [ 444016 00] 33A.AT3 
+dr-xr-xr-x   1    0    0      30720 Jun 24 2008 [     49 02] LANG00 
+-r-xr-xr-x   1    0    0    3018564 Nov  9 2007 [ 445088 00] OPERA_VERSE_01_AND_INTRO.AT3 
+-r-xr-xr-x   1    0    0    2662404 Nov  9 2007 [ 446576 00] OPERA_VERSE_02.AT3 
+-r-xr-xr-x   1    0    0    2662404 Nov  9 2007 [ 447888 00] OPERA_VERSE_03.AT3 
+-r-xr-xr-x   1    0    0    2662404 Nov  9 2007 [ 449200 00] OPERA_VERSE_04.AT3 
+-r-xr-xr-x   1    0    0    2662404 Nov  9 2007 [ 450512 00] OPERA_VERSE_05.AT3 
+-r-xr-xr-x   1    0    0    2662404 Nov  9 2007 [ 451824 00] OPERA_VERSE_06.AT3 
+-r-xr-xr-x   1    0    0     479456 Nov  9 2007 [ 453136 00] OPERA_VERSE_FINALE.AT3 
+-r-xr-xr-x   1    0    0      96416 Nov 15 2007 [ 453376 00] OPERA_VERSE_OUTRO.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/ART/CHARACTERS/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     43 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     31 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     64 02] CLANK 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     65 02] DANMP 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     66 02] GARBAGECANSP 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     67 02] GIANTQWARK 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     68 02] KLUNKRATCHET 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     69 02] PIRATESP 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     70 02] QWARK 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     71 02] RATCHETBRUCELEE 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     72 02] RATCHETSP 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     73 02] RATCHETZILLASP 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     74 02] RATCHETZOMBIE 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     75 02] RATCHET 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     76 02] ROBORATCHET 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     77 02] SCUBASP 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     78 02] ZONI 
+
+Directory listing of /PSP_GAME/USRDIR/ART/HUD/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     44 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     31 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     79 02] TEXTURES 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     45 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     31 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     80 02] BUFFER1 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     81 02] HIGCREDITS 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     82 02] HIGTREEHOUSE 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     83 02] LEVEL01_MUSEUM 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     84 02] LEVEL01_PRISON 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     85 02] LEVEL01_TIMING 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     86 02] LEVEL02_GIANT 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     87 02] LEVEL02_SKYSCRAPERS 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     88 02] LEVEL03_CAFETERIA 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     89 02] LEVEL03_COUNTESS 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     90 02] LEVEL03_SNOWBOARD 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     91 02] LEVEL04_CARNIVAL 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     92 02] LEVEL04_GONDOLA 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     93 02] LEVEL05_CASINO 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     94 02] LEVEL05_HIGHSTAKES 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     95 02] LEVEL05_YARD 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     96 02] LEVEL06_LAB 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     97 02] LEVEL06_QWARK 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     98 02] LEVEL06_RACE 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     99 02] LEVEL07_FOUNDRY 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    100 02] LEVEL07_GADGEBOT 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    101 02] LEVEL07_SHOWER 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    102 02] LEVEL08_GIANTCLANK 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    103 02] LEVEL08_GRAVEYARD 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    104 02] LEVEL08_QWARK 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    105 02] LEVEL09_DAMRACE 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    106 02] LEVEL09_ESCAPEYARD 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    107 02] LEVEL09_QWARKDAM 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    108 02] LEVEL10_BASE 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    109 02] LEVEL10_BOSS 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    110 02] LEVEL10_GADGEBOT 
+
+Directory listing of /PSP_GAME/USRDIR/CODE/HUD/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     46 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     36 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    111 02] DATA 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/HUD/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     47 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     37 02] .. 
+-r-xr-xr-x   1    0    0      43360 Jun 19 2008 [  56224 00] HELPLOCALDAT_J.BIN 
+-r-xr-xr-x   1    0    0     185200 Jun 19 2008 [  56128 00] LOCALDAT_J.BIN 
+-r-xr-xr-x   1    0    0      97340 Jun 23 2008 [  56080 00] MAINHUD.W3D 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    112 02] MEMCARD 
+
+Directory listing of /PSP_GAME/USRDIR/ETC/GLOBALWAD/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     48 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     38 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    113 02] DATA 
+
+Directory listing of /PSP_GAME/USRDIR/STREAMING/LANG00/
+dr-xr-xr-x   1    0    0      30720 Jun 24 2008 [     49 02] . 
+dr-xr-xr-x   1    0    0       6144 Jun 24 2008 [     40 02] .. 
+-r-xr-xr-x   1    0    0      42892 May 12 2008 [ 519344 00] AE_FOUNDRYBOTS_AAAAAA.AT3 
+-r-xr-xr-x   1    0    0      42316 May 12 2008 [ 519376 00] AE_FOUNDRYBOTS_CANNOT.AT3 
+-r-xr-xr-x   1    0    0      45964 May 12 2008 [ 519408 00] AE_FOUNDRYBOTS_MIND_GOING.AT3 
+-r-xr-xr-x   1    0    0      26572 May 12 2008 [ 519440 00] AE_FOUNDRYBOTS_MINIONS.AT3 
+-r-xr-xr-x   1    0    0      24844 May 12 2008 [ 519456 00] AE_FOUNDRYBOTS_MUST_CONTROL.AT3 
+-r-xr-xr-x   1    0    0      20236 May 12 2008 [ 519472 00] AE_FOUNDRYBOTS_NOT_PROCEED.AT3 
+-r-xr-xr-x   1    0    0      35404 May 12 2008 [ 519488 00] AE_FOUNDRYBOTS_OUTSMART.AT3 
+-r-xr-xr-x   1    0    0      47500 May 12 2008 [ 519520 00] AE_FOUNDRYBOTS_PLEASE_STOP.AT3 
+-r-xr-xr-x   1    0    0      31948 May 12 2008 [ 519552 00] AE_FOUNDRYBOTS_STOP.AT3 
+-r-xr-xr-x   1    0    0      58828 May 12 2008 [ 519568 00] AE_FOUNDRYBOTS_WAKING_UP.AT3 
+-r-xr-xr-x   1    0    0      45580 May 12 2008 [ 519600 00] AE_FOUNDRYBOTS_WHERE_BOLTS.AT3 
+-r-xr-xr-x   1    0    0      12556 May 12 2008 [ 519632 00] AE_FOUNDRYBOTS_WHOS_THERE.AT3 
+-r-xr-xr-x   1    0    0      46348 May 12 2008 [ 519648 00] AE_FOUNDRYBOTS_WILL_U.AT3 
+-r-xr-xr-x   1    0    0      72076 May 12 2008 [ 519680 00] CB_CARDS_DANGER.AT3 
+-r-xr-xr-x   1    0    0      17356 May 12 2008 [ 519728 00] CL_ANSWER1.AT3 
+-r-xr-xr-x   1    0    0      20236 May 12 2008 [ 519744 00] CL_ANSWER10_CORRECT.AT3 
+-r-xr-xr-x   1    0    0       5260 May 12 2008 [ 519760 00] CL_ANSWER10_INCORRECT.AT3 
+-r-xr-xr-x   1    0    0      32140 May 12 2008 [ 519776 00] CL_ANSWER2.AT3 
+-r-xr-xr-x   1    0    0      34060 May 12 2008 [ 519792 00] CL_ANSWER3.AT3 
+-r-xr-xr-x   1    0    0      28876 May 12 2008 [ 519824 00] CL_ANSWER4.AT3 
+-r-xr-xr-x   1    0    0      31756 May 12 2008 [ 519840 00] CL_ANSWER5_CORRECT.AT3 
+-r-xr-xr-x   1    0    0      24652 May 12 2008 [ 519856 00] CL_ANSWER5_INCORRECT.AT3 
+-r-xr-xr-x   1    0    0       6412 May 12 2008 [ 519872 00] CL_ANSWER6.AT3 
+-r-xr-xr-x   1    0    0      30028 May 12 2008 [ 519888 00] CL_ANSWER7.AT3 
+-r-xr-xr-x   1    0    0      33484 May 12 2008 [ 519904 00] CL_ANSWER8.AT3 
+-r-xr-xr-x   1    0    0      44620 May 12 2008 [ 519936 00] CL_ANSWER9.AT3 
+-r-xr-xr-x   1    0    0       8716 Apr 27 2008 [ 519968 00] CL_ATTACKS.AT3 
+-r-xr-xr-x   1    0    0      27148 May 12 2008 [ 519984 00] CL_BASE_ELECTRIC_FLOOR.AT3 
+-r-xr-xr-x   1    0    0      26188 May 12 2008 [ 520000 00] CL_RIO_DISGUISED_HUM.AT3 
+-r-xr-xr-x   1    0    0      12748 May 12 2008 [ 520016 00] CL_RIO_DISGUISED_WHISTLE.AT3 
+-r-xr-xr-x   1    0    0      15436 May 12 2008 [ 520032 00] CL_RIO_HIDE.AT3 
+-r-xr-xr-x   1    0    0      10636 May 12 2008 [ 520048 00] CL_RIO_SPOTTED.AT3 
+-r-xr-xr-x   1    0    0       8716 Apr 27 2008 [ 520064 00] CL_SNOWBOARD_ICE_CAVE_ENTER.AT3 
+-r-xr-xr-x   1    0    0      12172 May 12 2008 [ 520080 00] CL_ZAP.AT3 
+-r-xr-xr-x   1    0    0      73612 Feb 29 2008 [ 520096 00] DC_ALEX01.AT3 
+-r-xr-xr-x   1    0    0      51148 Feb 29 2008 [ 520144 00] DC_ALEX02.AT3 
+-r-xr-xr-x   1    0    0      66316 Feb 29 2008 [ 520176 00] DC_GERARD01.AT3 
+-r-xr-xr-x   1    0    0      60940 Feb 29 2008 [ 520224 00] DC_INTRO.AT3 
+-r-xr-xr-x   1    0    0     114316 Feb 29 2008 [ 520256 00] DC_MATT01.AT3 
+-r-xr-xr-x   1    0    0      56716 Feb 29 2008 [ 520320 00] DC_TJS01.AT3 
+-r-xr-xr-x   1    0    0      49804 Feb 29 2008 [ 520352 00] DC_TJS02.AT3 
+-r-xr-xr-x   1    0    0      96460 Feb 29 2008 [ 520384 00] DC_TJS03_PHOTODEDICATION.AT3 
+-r-xr-xr-x   1    0    0    1286976 Mar 11 2008 [ 520432 00] DC_TREEHOUSE_OPERA_GROUP.AT3 
+-r-xr-xr-x   1    0    0      98188 May 12 2008 [ 521072 00] GD_CASINO_BE_ON_LOOKOUT.AT3 
+-r-xr-xr-x   1    0    0      33868 May 12 2008 [ 521120 00] GD_CASINO_NO_ONE_THROUGH.AT3 
+-r-xr-xr-x   1    0    0      39628 May 12 2008 [ 521152 00] GD_CASINO_SABOTAGED.AT3 
+-r-xr-xr-x   1    0    0       9292 May 12 2008 [ 521184 00] GU_CASINO_HEY_YOU_1.AT3 
+-r-xr-xr-x   1    0    0       9292 May 12 2008 [ 521200 00] GU_CASINO_HEY_YOU_2.AT3 
+-r-xr-xr-x   1    0    0       9292 May 12 2008 [ 521216 00] GU_CASINO_HEY_YOU_3.AT3 
+-r-xr-xr-x   1    0    0      21004 May 12 2008 [ 521232 00] GU_CASINO_KITCHEN_ONLY.AT3 
+-r-xr-xr-x   1    0    0      24460 May 12 2008 [ 521248 00] GU_CASINO_SECURE_ACCESS_1.AT3 
+-r-xr-xr-x   1    0    0      24460 May 12 2008 [ 521264 00] GU_CASINO_SECURE_ACCESS_2.AT3 
+-r-xr-xr-x   1    0    0       6220 May 12 2008 [ 521280 00] GU_CASINO_YES_SIR.AT3 
+-r-xr-xr-x   1    0    0      74168 Jul  2 2007 [ 521296 00] HD35_WRENCH_THROW.AT3 
+-r-xr-xr-x   1    0    0      60632 Jul  2 2007 [ 521344 00] HD38_STRAFE_OPTIONS.AT3 
+-r-xr-xr-x   1    0    0      47472 May 14 2008 [ 521376 00] HD39_CENTER_CAMERA.AT3 
+-r-xr-xr-x   1    0    0      47848 Jul  2 2007 [ 521408 00] HD43_VIEW_MAP.AT3 
+-r-xr-xr-x   1    0    0      91464 Jul  2 2007 [ 521440 00] HD44_COMPLETED_ALL_MISSIONS.AT3 
+-r-xr-xr-x   1    0    0      70784 Jul  2 2007 [ 521488 00] HD45_VIEW_MISSIONS.AT3 
+-r-xr-xr-x   1    0    0      76684 May 12 2008 [ 521536 00] HT_ACTIVE_CAMERA.AT3 
+-r-xr-xr-x   1    0    0      90124 May 12 2008 [ 521584 00] HT_AGENCY_CASEFILES.AT3 
+-r-xr-xr-x   1    0    0      32332 May 12 2008 [ 521632 00] HT_AGENCY_DELIVERY_FIRST.AT3 
+-r-xr-xr-x   1    0    0      15436 May 12 2008 [ 521648 00] HT_AGENCY_DELIVERY_POOL1.AT3 
+-r-xr-xr-x   1    0    0      21580 May 12 2008 [ 521664 00] HT_AGENCY_DELIVERY_POOL2.AT3 
+-r-xr-xr-x   1    0    0      30604 May 12 2008 [ 521680 00] HT_AGENCY_VENDOR.AT3 
+-r-xr-xr-x   1    0    0      33100 May 12 2008 [ 521696 00] HT_ALL_BOLTS.AT3 
+-r-xr-xr-x   1    0    0       6604 May 12 2008 [ 521728 00] HT_AMBUSH.AT3 
+-r-xr-xr-x   1    0    0      25804 May 12 2008 [ 521744 00] HT_AMOEBOID_ALTER.AT3 
+-r-xr-xr-x   1    0    0      27148 May 12 2008 [ 521760 00] HT_AMOEBOID_EXPLODE.AT3 
+-r-xr-xr-x   1    0    0      47884 May 12 2008 [ 521776 00] HT_ARENA_TURRETNOSHOT.AT3 
+-r-xr-xr-x   1    0    0       8524 May 12 2008 [ 521808 00] HT_ASSASSINS.AT3 
+-r-xr-xr-x   1    0    0       8332 May 12 2008 [ 521824 00] HT_BAD_DOG.AT3 
+-r-xr-xr-x   1    0    0      35404 May 12 2008 [ 521840 00] HT_BASE_CUT_TETHERS.AT3 
+-r-xr-xr-x   1    0    0      19852 May 12 2008 [ 521872 00] HT_BASE_RUN_LIKE_HELL.AT3 
+-r-xr-xr-x   1    0    0      16780 May 12 2008 [ 521888 00] HT_BEDTIME.AT3 
+-r-xr-xr-x   1    0    0      31756 May 12 2008 [ 521904 00] HT_BEE_MINES_INTRO.AT3 
+-r-xr-xr-x   1    0    0      69004 May 12 2008 [ 521920 00] HT_BEE_MINES_MOD_BEE.AT3 
+-r-xr-xr-x   1    0    0      41164 May 12 2008 [ 521968 00] HT_BEE_MINES_MOD_HIVE.AT3 
+-r-xr-xr-x   1    0    0      10252 May 12 2008 [ 522000 00] HT_BIG_JUMP.AT3 
+-r-xr-xr-x   1    0    0      68236 May 12 2008 [ 522016 00] HT_BLACKOUT_PEN_AMMO.AT3 
+-r-xr-xr-x   1    0    0      71116 May 12 2008 [ 522064 00] HT_BLACKOUT_PEN_INTRO.AT3 
+-r-xr-xr-x   1    0    0      54220 May 12 2008 [ 522112 00] HT_BLACKOUT_PEN_TRAINING.AT3 
+-r-xr-xr-x   1    0    0      47692 May 12 2008 [ 522144 00] HT_BOLT_EXTRACTOR.AT3 
+-r-xr-xr-x   1    0    0       8716 Apr 27 2008 [ 522944 00] HT_BOMB_CONVEYOR_REMIND.AT3 
+-r-xr-xr-x   1    0    0      25804 May 12 2008 [ 522176 00] HT_BOTDOOR_ELECTRICAL_ARCS.AT3 
+-r-xr-xr-x   1    0    0      73036 May 12 2008 [ 522192 00] HT_BOTDOOR_GRADE_ONE.AT3 
+-r-xr-xr-x   1    0    0       8716 Apr 27 2008 [ 522240 00] HT_BOTDOOR_GRADE_ONE_TWO.AT3 
+-r-xr-xr-x   1    0    0      31756 May 12 2008 [ 522256 00] HT_BOTDOOR_REVERSE_POLARITY.AT3 
+-r-xr-xr-x   1    0    0      35404 May 12 2008 [ 522272 00] HT_BOX_MOVE.AT3 
+-r-xr-xr-x   1    0    0       8908 May 12 2008 [ 522304 00] HT_BULLSEYE.AT3 
+-r-xr-xr-x   1    0    0      29260 May 12 2008 [ 522336 00] HT_CAFETERIA_SPAWNERS.AT3 
+-r-xr-xr-x   1    0    0      22540 May 12 2008 [ 522320 00] HT_CAFETERIA_SPAWN_REMIND.AT3 
+-r-xr-xr-x   1    0    0      12172 May 12 2008 [ 522352 00] HT_CANNOT_LET.AT3 
+-r-xr-xr-x   1    0    0      65548 May 12 2008 [ 522368 00] HT_CAPTURED_ALL.AT3 
+-r-xr-xr-x   1    0    0      27532 May 12 2008 [ 522416 00] HT_CAPTURED_ALL_LEVEL.AT3 
+-r-xr-xr-x   1    0    0      26572 May 12 2008 [ 522432 00] HT_CARDS_FAVOR.AT3 
+-r-xr-xr-x   1    0    0      43852 May 12 2008 [ 522448 00] HT_CARGO_SHIP.AT3 
+-r-xr-xr-x   1    0    0      16012 May 12 2008 [ 522480 00] HT_CASHOUT.AT3 
+-r-xr-xr-x   1    0    0      18124 May 12 2008 [ 522496 00] HT_CASINO_FACE_CENTERED.AT3 
+-r-xr-xr-x   1    0    0      37900 May 12 2008 [ 522512 00] HT_CASINO_FIELD_DETECT.AT3 
+-r-xr-xr-x   1    0    0      67852 May 12 2008 [ 522544 00] HT_CASINO_MONOCLE_EXPLAIN.AT3 
+-r-xr-xr-x   1    0    0      24076 May 12 2008 [ 522592 00] HT_CASINO_NEED_FRONT.AT3 
+-r-xr-xr-x   1    0    0      46732 May 12 2008 [ 522608 00] HT_CASINO_NEED_MONOCLE.AT3 
+-r-xr-xr-x   1    0    0      43660 May 12 2008 [ 522640 00] HT_CASINO_PATCHED_IN.AT3 
+-r-xr-xr-x   1    0    0      43660 May 12 2008 [ 522672 00] HT_CASINO_PATCHED_IN_NEW.AT3 
+-r-xr-xr-x   1    0    0      25612 May 12 2008 [ 522704 00] HT_CASINO_SABOTAGED2.AT3 
+-r-xr-xr-x   1    0    0      55372 May 12 2008 [ 522720 00] HT_CASINO_SCANNED_SYSTEM.AT3 
+-r-xr-xr-x   1    0    0      36748 May 12 2008 [ 522752 00] HT_CASINO_TARGETCANSEE.AT3 
+-r-xr-xr-x   1    0    0      18124 May 12 2008 [ 522784 00] HT_CASINO_TARGETRECOGNIZE.AT3 
+-r-xr-xr-x   1    0    0      27340 May 12 2008 [ 522800 00] HT_CASINO_ZOOM_INNOUT.AT3 
+-r-xr-xr-x   1    0    0      18700 May 12 2008 [ 522816 00] HT_CASINO_ZOOM_ON_FACE.AT3 
+-r-xr-xr-x   1    0    0      56716 Jun 13 2008 [ 522832 00] HT_CLANK_GLIDE.AT3 
+-r-xr-xr-x   1    0    0      21964 May 12 2008 [ 522864 00] HT_CROSSFIRE.AT3 
+-r-xr-xr-x   1    0    0      49612 May 12 2008 [ 522880 00] HT_CUFFLINK_BOMB.AT3 
+-r-xr-xr-x   1    0    0      53644 May 12 2008 [ 522912 00] HT_CUFFLINK_BOMB_CONVEYOR.AT3 
+-r-xr-xr-x   1    0    0      88780 May 12 2008 [ 522960 00] HT_CUFFLINK_BOMB_PRIMING.AT3 
+-r-xr-xr-x   1    0    0      53068 May 12 2008 [ 523008 00] HT_CUFFLINK_BOMB_SPAWNER.AT3 
+-r-xr-xr-x   1    0    0      10444 May 12 2008 [ 523040 00] HT_CUFFLINK_HOLDTHIS.AT3 
+-r-xr-xr-x   1    0    0      15052 May 12 2008 [ 523056 00] HT_DANGER_MIDDLE_NAME.AT3 
+-r-xr-xr-x   1    0    0      40972 May 12 2008 [ 523072 00] HT_DIRTY_LAB.AT3 
+-r-xr-xr-x   1    0    0      34636 May 12 2008 [ 523104 00] HT_DODGE_MISSILE.AT3 
+-r-xr-xr-x   1    0    0      57292 May 12 2008 [ 523136 00] HT_DOOR_NOFLAME.AT3 
+-r-xr-xr-x   1    0    0      24652 May 12 2008 [ 523168 00] HT_DOPPELGANGER_INFILTRATE.AT3 
+-r-xr-xr-x   1    0    0      40588 May 12 2008 [ 523184 00] HT_ENGINE_ROOM.AT3 
+-r-xr-xr-x   1    0    0      34252 May 12 2008 [ 523216 00] HT_EXHIBIT_BLOCKED.AT3 
+-r-xr-xr-x   1    0    0      14092 May 12 2008 [ 523248 00] HT_EXPECT_TALK.AT3 
+-r-xr-xr-x   1    0    0      39820 May 12 2008 [ 523264 00] HT_EXPERIMENT_WRONG.AT3 
+-r-xr-xr-x   1    0    0      10252 May 12 2008 [ 523296 00] HT_FASCINATING.AT3 
+-r-xr-xr-x   1    0    0      18508 May 12 2008 [ 523312 00] HT_FIRE_TORPEDOES.AT3 
+-r-xr-xr-x   1    0    0      26956 May 12 2008 [ 523328 00] HT_FISH.AT3 
+-r-xr-xr-x   1    0    0      21004 May 12 2008 [ 523344 00] HT_FLAMETHROWER_FLAVOR1.AT3 
+-r-xr-xr-x   1    0    0      14092 May 12 2008 [ 523360 00] HT_FLAMETHROWER_FLAVOR2.AT3 
+-r-xr-xr-x   1    0    0      11980 May 12 2008 [ 523376 00] HT_FLAMETHROWER_FLAVOR3.AT3 
+-r-xr-xr-x   1    0    0      59020 May 12 2008 [ 523392 00] HT_FLAMETHROWER_PEN.AT3 
+-r-xr-xr-x   1    0    0      30604 May 12 2008 [ 523424 00] HT_FLAMETHROWER_PEN_BRACKET.AT3 
+-r-xr-xr-x   1    0    0      12940 May 12 2008 [ 523440 00] HT_FOLD.AT3 
+-r-xr-xr-x   1    0    0      44236 May 12 2008 [ 523552 00] HT_FOUNDRYBOTS_MAGNE.AT3 
+-r-xr-xr-x   1    0    0      29836 May 12 2008 [ 523584 00] HT_FOUNDRYBOTS_NEED_THREE.AT3 
+-r-xr-xr-x   1    0    0      44236 May 12 2008 [ 523600 00] HT_FOUNDRYBOTS_SCANNER.AT3 
+-r-xr-xr-x   1    0    0      32716 May 12 2008 [ 523632 00] HT_FOUNDRYBOTS_SEVERED_HEAD.AT3 
+-r-xr-xr-x   1    0    0      25420 May 12 2008 [ 523648 00] HT_FOUNDRYBOTS_SWITCH_BOTS.AT3 
+-r-xr-xr-x   1    0    0      50380 May 12 2008 [ 523456 00] HT_FOUNDRY_GEARS.AT3 
+-r-xr-xr-x   1    0    0      40204 May 12 2008 [ 523488 00] HT_FOUNDRY_MIDGE.AT3 
+-r-xr-xr-x   1    0    0      53260 May 12 2008 [ 523520 00] HT_FOUNDRY_MINERAL_BUST.AT3 
+-r-xr-xr-x   1    0    0      32716 May 12 2008 [ 523664 00] HT_GAS_TANKS.AT3 
+-r-xr-xr-x   1    0    0      32140 May 12 2008 [ 523680 00] HT_GAS_TRAP.AT3 
+-r-xr-xr-x   1    0    0      21388 May 12 2008 [ 523760 00] HT_GCS_COLLECT_MISSLES.AT3 
+-r-xr-xr-x   1    0    0      21004 May 12 2008 [ 523776 00] HT_GCS_LASER_RECHARGE.AT3 
+-r-xr-xr-x   1    0    0      54988 May 12 2008 [ 523696 00] HT_GC_WEAPONS.AT3 
+-r-xr-xr-x   1    0    0      34252 May 12 2008 [ 523728 00] HT_GC_WEAPONSAGAIN.AT3 
+-r-xr-xr-x   1    0    0      29068 May 12 2008 [ 523792 00] HT_GEM_WING.AT3 
+-r-xr-xr-x   1    0    0      15244 May 12 2008 [ 523808 00] HT_GETTING_STARTED.AT3 
+-r-xr-xr-x   1    0    0      31372 May 12 2008 [ 523920 00] HT_GIANTCLANK_UPDOWNCONTROL.AT3 
+-r-xr-xr-x   1    0    0      36364 May 12 2008 [ 523824 00] HT_GIANT_QWARK_DODGE.AT3 
+-r-xr-xr-x   1    0    0      40012 May 12 2008 [ 523856 00] HT_GIANT_QWARK_MEGA_BLASTER.AT3 
+-r-xr-xr-x   1    0    0      41548 May 12 2008 [ 523888 00] HT_GIANT_QWARK_NINJA_HIT.AT3 
+-r-xr-xr-x   1    0    0       6988 May 12 2008 [ 523936 00] HT_GOODNIGHT.AT3 
+-r-xr-xr-x   1    0    0      12748 May 12 2008 [ 523952 00] HT_GOT_SPOTTED_OHNO.AT3 
+-r-xr-xr-x   1    0    0       8524 May 12 2008 [ 523968 00] HT_GOT_SPOTTED_UHOH.AT3 
+-r-xr-xr-x   1    0    0      19084 May 12 2008 [ 523984 00] HT_GRAVEYARD_HACKING.AT3 
+-r-xr-xr-x   1    0    0      39244 May 12 2008 [ 524000 00] HT_GRAVEYARD_SHIPS.AT3 
+-r-xr-xr-x   1    0    0      40780 May 12 2008 [ 524032 00] HT_GRAVEYARD_TURRET.AT3 
+-r-xr-xr-x   1    0    0      11596 May 12 2008 [ 524064 00] HT_GROOVY.AT3 
+-r-xr-xr-x   1    0    0      14860 May 12 2008 [ 524080 00] HT_GROOVY_BABY.AT3 
+-r-xr-xr-x   1    0    0      28300 May 12 2008 [ 524096 00] HT_HEAD_CORP.AT3 
+-r-xr-xr-x   1    0    0      18508 May 12 2008 [ 524112 00] HT_HEAD_LOSE.AT3 
+-r-xr-xr-x   1    0    0      28492 May 12 2008 [ 524128 00] HT_HEAD_STRONG.AT3 
+-r-xr-xr-x   1    0    0      27148 May 12 2008 [ 524144 00] HT_HEALTH_CRATE_EXPLAIN.AT3 
+-r-xr-xr-x   1    0    0      40588 May 12 2008 [ 524160 00] HT_HIDDEN_WORLD.AT3 
+-r-xr-xr-x   1    0    0      36748 May 12 2008 [ 524192 00] HT_HIDE_CLANK.AT3 
+-r-xr-xr-x   1    0    0      45580 May 12 2008 [ 524224 00] HT_HIDE_IN_PLAIN_SIGHT.AT3 
+-r-xr-xr-x   1    0    0      37132 May 12 2008 [ 524256 00] HT_HIDE_STATUES.AT3 
+-r-xr-xr-x   1    0    0      17164 May 12 2008 [ 524288 00] HT_HIT_ME.AT3 
+-r-xr-xr-x   1    0    0      42892 May 12 2008 [ 524432 00] HT_HOLOKNUCKLES.AT3 
+-r-xr-xr-x   1    0    0      29260 May 12 2008 [ 524464 00] HT_HOLOKNUCKLES_MINE.AT3 
+-r-xr-xr-x   1    0    0      55180 May 12 2008 [ 524400 00] HT_HOLOKNUCKLE_DEFEND.AT3 
+-r-xr-xr-x   1    0    0      21772 May 12 2008 [ 524304 00] HT_HOLO_BAD_ANGLES.AT3 
+-r-xr-xr-x   1    0    0      14860 May 12 2008 [ 524320 00] HT_HOLO_CLOSEUP.AT3 
+-r-xr-xr-x   1    0    0       8716 Apr 27 2008 [ 524336 00] HT_HOLO_GOODSIDE.AT3 
+-r-xr-xr-x   1    0    0      16780 May 12 2008 [ 524352 00] HT_HOLO_INTRODUCTION.AT3 
+-r-xr-xr-x   1    0    0      31948 May 12 2008 [ 524368 00] HT_HOLO_MONOCLE_BASE.AT3 
+-r-xr-xr-x   1    0    0      21388 May 12 2008 [ 524384 00] HT_HOLO_TEN_POUNDS.AT3 
+-r-xr-xr-x   1    0    0      14092 May 12 2008 [ 524480 00] HT_HURRY.AT3 
+-r-xr-xr-x   1    0    0      34636 May 12 2008 [ 524496 00] HT_HYDROFOIL.AT3 
+-r-xr-xr-x   1    0    0      28108 May 12 2008 [ 524528 00] HT_HYDROFOIL_MINE.AT3 
+-r-xr-xr-x   1    0    0       8716 Apr 27 2008 [ 524544 00] HT_HYDROFOIL_TORPEDO.AT3 
+-r-xr-xr-x   1    0    0      18508 May 12 2008 [ 524560 00] HT_JUMP_OBSTACLE.AT3 
+-r-xr-xr-x   1    0    0      31372 May 12 2008 [ 524576 00] HT_KUDZU_NATURE.AT3 
+-r-xr-xr-x   1    0    0      35212 May 12 2008 [ 524592 00] HT_LACERATORS_INTRO.AT3 
+-r-xr-xr-x   1    0    0      66700 May 12 2008 [ 524624 00] HT_LACERATORS_MOD_LOCKON.AT3 
+-r-xr-xr-x   1    0    0      46156 May 12 2008 [ 524672 00] HT_LACERATORS_MOD_SEEKING.AT3 
+-r-xr-xr-x   1    0    0      30412 May 12 2008 [ 524704 00] HT_LEDGE_GRAB_TRAINING.AT3 
+-r-xr-xr-x   1    0    0      10828 May 12 2008 [ 524720 00] HT_MAGNET_MINES.AT3 
+-r-xr-xr-x   1    0    0      52684 May 12 2008 [ 524736 00] HT_MELEE_FINISHER.AT3 
+-r-xr-xr-x   1    0    0      57868 May 12 2008 [ 524768 00] HT_MELEE_TRAINING.AT3 
+-r-xr-xr-x   1    0    0      53260 May 12 2008 [ 524800 00] HT_MIDGE_ARENA_COMEBACK.AT3 
+-r-xr-xr-x   1    0    0      35404 May 12 2008 [ 524848 00] HT_MINES_INTRO.AT3 
+-r-xr-xr-x   1    0    0      68236 May 12 2008 [ 524880 00] HT_MINES_MOD_ORDINANCE.AT3 
+-r-xr-xr-x   1    0    0      54604 May 12 2008 [ 524928 00] HT_MINES_MOD_PERSISTANCE.AT3 
+-r-xr-xr-x   1    0    0      21004 May 12 2008 [ 524832 00] HT_MINE_BRIDGE.AT3 
+-r-xr-xr-x   1    0    0      55372 May 12 2008 [ 524960 00] HT_MONEY_CLIP.AT3 
+-r-xr-xr-x   1    0    0      38476 May 12 2008 [ 525008 00] HT_MUSEUM_CLIMB_SERIOUSLY.AT3 
+-r-xr-xr-x   1    0    0      27340 May 12 2008 [ 524992 00] HT_MUSEUM_CLIMB_STATUE.AT3 
+-r-xr-xr-x   1    0    0      53836 May 12 2008 [ 525040 00] HT_MUSEUM_LEDGE_GRAB.AT3 
+-r-xr-xr-x   1    0    0      64780 May 12 2008 [ 525072 00] HT_MUSEUM_SMASH_CASE.AT3 
+-r-xr-xr-x   1    0    0      12172 May 12 2008 [ 525120 00] HT_NINJA_DISAPPEAR.AT3 
+-r-xr-xr-x   1    0    0      12748 May 12 2008 [ 525136 00] HT_NOT_KITTEN.AT3 
+-r-xr-xr-x   1    0    0      13324 May 12 2008 [ 525152 00] HT_NOT_SO_FAST.AT3 
+-r-xr-xr-x   1    0    0      28876 May 12 2008 [ 525168 00] HT_OPERA_HOLD_BLASTER.AT3 
+-r-xr-xr-x   1    0    0      40012 May 12 2008 [ 525184 00] HT_OUTTA_SIGHT.AT3 
+-r-xr-xr-x   1    0    0      16588 May 12 2008 [ 525216 00] HT_PEN_AGENT_CLANK.AT3 
+-r-xr-xr-x   1    0    0      11020 May 12 2008 [ 525232 00] HT_PEN_LIGHTS_OUT.AT3 
+-r-xr-xr-x   1    0    0      34252 May 12 2008 [ 525248 00] HT_PLATFORM_MINES.AT3 
+-r-xr-xr-x   1    0    0      58060 May 12 2008 [ 525280 00] HT_PORK_BOMB.AT3 
+-r-xr-xr-x   1    0    0      69580 May 12 2008 [ 525312 00] HT_PORK_BOMB_MOD_TASTY.AT3 
+-r-xr-xr-x   1    0    0      59980 May 12 2008 [ 525360 00] HT_PORK_BOMB_MOD_WAR.AT3 
+-r-xr-xr-x   1    0    0      34444 May 12 2008 [ 525392 00] HT_PRISON_HUNTER_INVINCIBLE.AT3 
+-r-xr-xr-x   1    0    0      62860 May 12 2008 [ 525424 00] HT_QUICKSELECT_USE.AT3 
+-r-xr-xr-x   1    0    0      15628 May 12 2008 [ 525456 00] HT_RATCHET_USAGE.AT3 
+-r-xr-xr-x   1    0    0       7948 May 16 2008 [ 525472 00] HT_RATCHET_WOOHOO.AT3 
+-r-xr-xr-x   1    0    0       6796 May 16 2008 [ 525488 00] HT_RATCHET_YEAH.AT3 
+-r-xr-xr-x   1    0    0       4108 May 16 2008 [ 525504 00] HT_RATCHET_YES.AT3 
+-r-xr-xr-x   1    0    0      16396 May 12 2008 [ 525520 00] HT_RINGS.AT3 
+-r-xr-xr-x   1    0    0      29644 May 12 2008 [ 525536 00] HT_RIO_FOLLOW_KINGPIN.AT3 
+-r-xr-xr-x   1    0    0      25420 May 12 2008 [ 525552 00] HT_RIO_GETTING_AWAY.AT3 
+-r-xr-xr-x   1    0    0      39244 May 12 2008 [ 525568 00] HT_RIO_GONDOLA_EXIT.AT3 
+-r-xr-xr-x   1    0    0      27340 May 12 2008 [ 525600 00] HT_RIO_HELLACOPTER_EXIT.AT3 
+-r-xr-xr-x   1    0    0      43660 May 12 2008 [ 525616 00] HT_RIO_HELLACOPTER_INSTRUCT.AT3 
+-r-xr-xr-x   1    0    0      49612 May 12 2008 [ 525648 00] HT_RIO_HELLACOPTER_INTRO.AT3 
+-r-xr-xr-x   1    0    0      40012 May 12 2008 [ 525680 00] HT_RIO_HENCHMEN.AT3 
+-r-xr-xr-x   1    0    0      26764 May 12 2008 [ 525712 00] HT_RIO_JUMPOFF.AT3 
+-r-xr-xr-x   1    0    0      54028 May 12 2008 [ 525728 00] HT_RIO_NO_NOISE.AT3 
+-r-xr-xr-x   1    0    0      27532 May 12 2008 [ 525760 00] HT_RIO_POST_DISGUISE.AT3 
+-r-xr-xr-x   1    0    0      26572 May 12 2008 [ 525776 00] HT_RIO_SNEAK_TAKEDOWN.AT3 
+-r-xr-xr-x   1    0    0      41548 May 12 2008 [ 525792 00] HT_RIO_USED_WEAPONS.AT3 
+-r-xr-xr-x   1    0    0      35788 May 12 2008 [ 525824 00] HT_RIO_VENDOR.AT3 
+-r-xr-xr-x   1    0    0      17356 May 12 2008 [ 525856 00] HT_ROBOT_FINDS_KITTEN.AT3 
+-r-xr-xr-x   1    0    0      23308 May 12 2008 [ 525872 00] HT_ROUNDHOUSE.AT3 
+-r-xr-xr-x   1    0    0      36556 May 12 2008 [ 525888 00] HT_SHARD_GUN_INTRO.AT3 
+-r-xr-xr-x   1    0    0      57676 May 12 2008 [ 525920 00] HT_SHARD_GUN_MOD_CHARGE.AT3 
+-r-xr-xr-x   1    0    0      59212 May 12 2008 [ 525952 00] HT_SHARD_GUN_MOD_FREEZE.AT3 
+-r-xr-xr-x   1    0    0      37132 May 12 2008 [ 525984 00] HT_SHOCK_ROCKET_INTRO.AT3 
+-r-xr-xr-x   1    0    0      37708 May 12 2008 [ 526016 00] HT_SHOCK_ROCKET_MOD_LOCK.AT3 
+-r-xr-xr-x   1    0    0      39628 May 12 2008 [ 526048 00] HT_SHOCK_ROCKET_MOD_LOCKON.AT3 
+-r-xr-xr-x   1    0    0      19852 May 12 2008 [ 526080 00] HT_SLEEP_JOB.AT3 
+-r-xr-xr-x   1    0    0      11596 May 12 2008 [ 526096 00] HT_SLEEP_TIGHT.AT3 
+-r-xr-xr-x   1    0    0      27148 May 12 2008 [ 526112 00] HT_SNOWBOARD_CHECK.AT3 
+-r-xr-xr-x   1    0    0      21004 May 12 2008 [ 526128 00] HT_SNOWBOARD_MINES.AT3 
+-r-xr-xr-x   1    0    0      65740 May 12 2008 [ 526144 00] HT_STEALTH_EXPLAIN.AT3 
+-r-xr-xr-x   1    0    0      74380 May 12 2008 [ 526192 00] HT_STEALTH_FAILURE.AT3 
+-r-xr-xr-x   1    0    0      66892 May 12 2008 [ 526240 00] HT_STEALTH_TRAINING.AT3 
+-r-xr-xr-x   1    0    0      21004 May 12 2008 [ 526288 00] HT_STICKY_BOMBS.AT3 
+-r-xr-xr-x   1    0    0      40972 May 12 2008 [ 526304 00] HT_STRAFE.AT3 
+-r-xr-xr-x   1    0    0      44812 May 12 2008 [ 526336 00] HT_SUSPENSION_FIELD.AT3 
+-r-xr-xr-x   1    0    0      53068 May 12 2008 [ 526368 00] HT_TANGLEVINE.AT3 
+-r-xr-xr-x   1    0    0      25612 May 12 2008 [ 526400 00] HT_TANGLEVINE_FLAVOR.AT3 
+-r-xr-xr-x   1    0    0      54796 May 12 2008 [ 526416 00] HT_TANGLEVINE_TANGLE.AT3 
+-r-xr-xr-x   1    0    0      55564 May 12 2008 [ 526448 00] HT_TANGLEVINE_TANGLE_REMIND.AT3 
+-r-xr-xr-x   1    0    0      33676 May 12 2008 [ 526480 00] HT_TAP_SUCK_BUTTON.AT3 
+-r-xr-xr-x   1    0    0       9292 May 12 2008 [ 526512 00] HT_THERMAL_GLASSES_READ.AT3 
+-r-xr-xr-x   1    0    0      28492 May 12 2008 [ 526576 00] HT_THROWTIE_PULLOUT.AT3 
+-r-xr-xr-x   1    0    0      70732 May 12 2008 [ 526528 00] HT_THROW_TIE_TRAINING.AT3 
+-r-xr-xr-x   1    0    0      70732 May 12 2008 [ 526592 00] HT_THUNDERSTORM.AT3 
+-r-xr-xr-x   1    0    0      39244 May 12 2008 [ 526640 00] HT_TIE_A_RANG.AT3 
+-r-xr-xr-x   1    0    0      45004 May 12 2008 [ 526672 00] HT_TIE_A_RANG_TETHER.AT3 
+-r-xr-xr-x   1    0    0      31948 May 12 2008 [ 526704 00] HT_TIE_A_RANG_TETHER_REMIND.AT3 
+-r-xr-xr-x   1    0    0      23308 May 12 2008 [ 525104 00] HT_TIMING_PRESSNHOLD.AT3 
+-r-xr-xr-x   1    0    0      23500 May 12 2008 [ 526720 00] HT_TITANIUM_BOLT.AT3 
+-r-xr-xr-x   1    0    0      39244 May 12 2008 [ 526736 00] HT_TOKYOBOTS_ATTACK.AT3 
+-r-xr-xr-x   1    0    0      22924 May 12 2008 [ 526768 00] HT_TOKYOBOTS_BITE.AT3 
+-r-xr-xr-x   1    0    0      19276 May 12 2008 [ 526784 00] HT_TOKYOBOTS_BITE_SWITCH.AT3 
+-r-xr-xr-x   1    0    0      27916 May 12 2008 [ 526800 00] HT_TOKYOBOTS_CHARGE2.AT3 
+-r-xr-xr-x   1    0    0      55372 May 12 2008 [ 526816 00] HT_TOKYOBOTS_GBPRIME.AT3 
+-r-xr-xr-x   1    0    0      45580 May 12 2008 [ 526848 00] HT_TOKYOBOTS_REPAIR.AT3 
+-r-xr-xr-x   1    0    0      19660 May 12 2008 [ 526880 00] HT_TOKYOBOTS_SMASH_PANEL.AT3 
+-r-xr-xr-x   1    0    0      24652 May 12 2008 [ 526896 00] HT_TOKYOBOTS_STACKING3.AT3 
+-r-xr-xr-x   1    0    0      25228 May 12 2008 [ 526912 00] HT_TOKYOBOTS_TIES.AT3 
+-r-xr-xr-x   1    0    0      26380 May 12 2008 [ 526928 00] HT_TOKYOBOTS_WIRES.AT3 
+-r-xr-xr-x   1    0    0      32332 May 12 2008 [ 526944 00] HT_TWO_WHEELS_ALLEY.AT3 
+-r-xr-xr-x   1    0    0      35020 May 12 2008 [ 526960 00] HT_TWO_WHEELS_AVOID_MISSILE.AT3 
+-r-xr-xr-x   1    0    0      62476 May 12 2008 [ 526992 00] HT_UMBRELLA_ELECTRIC_JUMP.AT3 
+-r-xr-xr-x   1    0    0       8908 May 12 2008 [ 527024 00] HT_UMBRELLA_ELECTRIFYING.AT3 
+-r-xr-xr-x   1    0    0      16396 May 12 2008 [ 527040 00] HT_UMBRELLA_FUSE.AT3 
+-r-xr-xr-x   1    0    0      26764 May 12 2008 [ 527056 00] HT_UMBRELLA_SHOCKING.AT3 
+-r-xr-xr-x   1    0    0      66316 May 12 2008 [ 527072 00] HT_UMBRELLA_THUNDERCLOUD.AT3 
+-r-xr-xr-x   1    0    0      21196 May 12 2008 [ 527120 00] HT_UNLOCKED_ZONI.AT3 
+-r-xr-xr-x   1    0    0      54412 May 12 2008 [ 527136 00] HT_USE_MAP.AT3 
+-r-xr-xr-x   1    0    0      33484 May 12 2008 [ 527168 00] HT_USE_RL_TO_RAM.AT3 
+-r-xr-xr-x   1    0    0      13708 May 12 2008 [ 527200 00] HT_USE_SQUARE_TO_BRAKE.AT3 
+-r-xr-xr-x   1    0    0      17548 May 12 2008 [ 527216 00] HT_USE_TRIANGLE_TO_FIRE.AT3 
+-r-xr-xr-x   1    0    0      18508 May 12 2008 [ 527232 00] HT_USE_X_TO_JUMP.AT3 
+-r-xr-xr-x   1    0    0      64012 May 12 2008 [ 527248 00] HT_VAULT_CAMERAS.AT3 
+-r-xr-xr-x   1    0    0      59404 May 12 2008 [ 527280 00] HT_VAULT_DOPPELGANGER.AT3 
+-r-xr-xr-x   1    0    0      14476 May 12 2008 [ 527312 00] HT_VAULT_ELEVATOR.AT3 
+-r-xr-xr-x   1    0    0      74188 May 12 2008 [ 527328 00] HT_VAULT_STEALTH.AT3 
+-r-xr-xr-x   1    0    0      12940 May 12 2008 [ 527376 00] HT_VEHICLE_CAR_EVASIVE.AT3 
+-r-xr-xr-x   1    0    0      16972 May 12 2008 [ 527392 00] HT_VEHICLE_GET_HIT.AT3 
+-r-xr-xr-x   1    0    0       7372 May 12 2008 [ 527408 00] HT_VEHICLE_KILL1.AT3 
+-r-xr-xr-x   1    0    0      10636 May 12 2008 [ 527424 00] HT_VEHICLE_KILL2.AT3 
+-r-xr-xr-x   1    0    0      14860 May 12 2008 [ 527440 00] HT_VEHICLE_KILL3.AT3 
+-r-xr-xr-x   1    0    0      12172 May 12 2008 [ 527456 00] HT_VEHICLE_MINE_DROP.AT3 
+-r-xr-xr-x   1    0    0      27916 May 12 2008 [ 527472 00] HT_VILLA.AT3 
+-r-xr-xr-x   1    0    0      62092 May 12 2008 [ 527488 00] HT_WALLOPER_INTRO.AT3 
+-r-xr-xr-x   1    0    0      75340 May 12 2008 [ 527520 00] HT_WALLOPER_SPEED.AT3 
+-r-xr-xr-x   1    0    0      68236 May 12 2008 [ 527568 00] HT_WALLOPER_STATIC_WAVE.AT3 
+-r-xr-xr-x   1    0    0      87820 May 12 2008 [ 527616 00] HT_WEAPON_TELEPORT.AT3 
+-r-xr-xr-x   1    0    0      28300 May 12 2008 [ 527664 00] HT_WHIP_INTRO.AT3 
+-r-xr-xr-x   1    0    0      50380 May 12 2008 [ 527680 00] HT_WHIP_MOD_PYRO.AT3 
+-r-xr-xr-x   1    0    0      64396 May 12 2008 [ 527712 00] HT_WHIP_MOD_SIZE.AT3 
+-r-xr-xr-x   1    0    0      21580 May 12 2008 [ 527744 00] KL_CLANK_DIES.AT3 
+-r-xr-xr-x   1    0    0      41356 May 12 2008 [ 527760 00] KL_DAMAGE_MINOR.AT3 
+-r-xr-xr-x   1    0    0      77260 May 12 2008 [ 527792 00] KL_DAMAGE_MORE.AT3 
+-r-xr-xr-x   1    0    0      22348 May 12 2008 [ 527840 00] KL_DEATH.AT3 
+-r-xr-xr-x   1    0    0      52108 May 12 2008 [ 527856 00] KL_FINAL_KINGPIN_INTRO.AT3 
+-r-xr-xr-x   1    0    0      87436 May 12 2008 [ 527888 00] KL_FINAL_NEFARIOUS_INTRO.AT3 
+-r-xr-xr-x   1    0    0      71500 May 12 2008 [ 527936 00] KL_FINAL_RATCHET_INTRO.AT3 
+-r-xr-xr-x   1    0    0      48844 May 12 2008 [ 527984 00] KL_FINAL_TAUNT1.AT3 
+-r-xr-xr-x   1    0    0      53644 May 12 2008 [ 528016 00] KL_FINAL_TAUNT2.AT3 
+-r-xr-xr-x   1    0    0      39244 May 12 2008 [ 528048 00] KL_FINAL_TAUNT3.AT3 
+-r-xr-xr-x   1    0    0      61132 May 12 2008 [ 528080 00] KL_FINAL_TAUNT4.AT3 
+-r-xr-xr-x   1    0    0      32908 May 12 2008 [ 528112 00] KL_GRAPPLE_CLANK.AT3 
+-r-xr-xr-x   1    0    0      11212 May 12 2008 [ 528144 00] KL_GRAPPLE_COMPLETE.AT3 
+-r-xr-xr-x   1    0    0      41740 May 12 2008 [ 528160 00] KL_HIT_CLANK1.AT3 
+-r-xr-xr-x   1    0    0      18316 May 12 2008 [ 528192 00] KL_HIT_CLANK2.AT3 
+-r-xr-xr-x   1    0    0      70540 May 12 2008 [ 528208 00] KL_NEAR_DEATH.AT3 
+-r-xr-xr-x   1    0    0       7756 May 12 2008 [ 528256 00] KP_RIO_EXPLORE.AT3 
+-r-xr-xr-x   1    0    0       6028 May 12 2008 [ 528272 00] KP_RIO_HEAR.AT3 
+-r-xr-xr-x   1    0    0       8908 May 12 2008 [ 528288 00] KP_RIO_TAKE_EM.AT3 
+-r-xr-xr-x   1    0    0    1605056 Mar 11 2008 [ 528304 00] MT_TREEHOUSE_OPERA_ALEX.AT3 
+-r-xr-xr-x   1    0    0    1605056 Mar 11 2008 [ 529088 00] MT_TREEHOUSE_OPERA_AVERY.AT3 
+-r-xr-xr-x   1    0    0    1605056 Mar 11 2008 [ 529872 00] MT_TREEHOUSE_OPERA_GERARD.AT3 
+-r-xr-xr-x   1    0    0    1605056 Mar 11 2008 [ 530656 00] MT_TREEHOUSE_OPERA_JHAIRO.AT3 
+-r-xr-xr-x   1    0    0    1605056 Mar 11 2008 [ 531440 00] MT_TREEHOUSE_OPERA_KEN.AT3 
+-r-xr-xr-x   1    0    0    1605056 Mar 11 2008 [ 532224 00] MT_TREEHOUSE_OPERA_MATT.AT3 
+-r-xr-xr-x   1    0    0    1605056 Mar 11 2008 [ 533008 00] MT_TREEHOUSE_OPERA_RONN.AT3 
+-r-xr-xr-x   1    0    0    1605056 Mar 11 2008 [ 533792 00] MT_TREEHOUSE_OPERA_TRAVIS.AT3 
+-r-xr-xr-x   1    0    0       4876 May 12 2008 [ 534576 00] OB_CORRECT.AT3 
+-r-xr-xr-x   1    0    0       5452 May 12 2008 [ 534592 00] OB_INCORRECT.AT3 
+-r-xr-xr-x   1    0    0      35980 May 12 2008 [ 534608 00] OB_QUESTION1.AT3 
+-r-xr-xr-x   1    0    0      23116 May 12 2008 [ 534640 00] OB_QUESTION10.AT3 
+-r-xr-xr-x   1    0    0      40012 May 12 2008 [ 534656 00] OB_QUESTION2.AT3 
+-r-xr-xr-x   1    0    0      14284 May 12 2008 [ 534688 00] OB_QUESTION3.AT3 
+-r-xr-xr-x   1    0    0      35788 May 12 2008 [ 534704 00] OB_QUESTION4.AT3 
+-r-xr-xr-x   1    0    0      35020 May 12 2008 [ 534736 00] OB_QUESTION5.AT3 
+-r-xr-xr-x   1    0    0      39052 May 12 2008 [ 534768 00] OB_QUESTION6.AT3 
+-r-xr-xr-x   1    0    0      62476 May 12 2008 [ 534800 00] OB_QUESTION7.AT3 
+-r-xr-xr-x   1    0    0      15052 May 12 2008 [ 534832 00] OB_QUESTION8.AT3 
+-r-xr-xr-x   1    0    0      37516 May 12 2008 [ 534848 00] OB_QUESTION9.AT3 
+-r-xr-xr-x   1    0    0    3018564 May  6 2008 [ 536224 00] OPERA_VERSE_01_AND_INTRO.AT3 
+-r-xr-xr-x   1    0    0    2662404 May  6 2008 [ 537712 00] OPERA_VERSE_02.AT3 
+-r-xr-xr-x   1    0    0    2662404 May  6 2008 [ 539024 00] OPERA_VERSE_03.AT3 
+-r-xr-xr-x   1    0    0    2662404 May  6 2008 [ 540336 00] OPERA_VERSE_04.AT3 
+-r-xr-xr-x   1    0    0    2662404 May  6 2008 [ 541648 00] OPERA_VERSE_05.AT3 
+-r-xr-xr-x   1    0    0    2662404 May  6 2008 [ 542960 00] OPERA_VERSE_06.AT3 
+-r-xr-xr-x   1    0    0     476096 May  6 2008 [ 544272 00] OPERA_VERSE_FINALE.AT3 
+-r-xr-xr-x   1    0    0      96416 May  6 2008 [ 544512 00] OPERA_VERSE_OUTRO.AT3 
+-r-xr-xr-x   1    0    0      19468 May 12 2008 [ 534880 00] QW_JACK_ADJUSTMENT.AT3 
+-r-xr-xr-x   1    0    0      23884 May 12 2008 [ 534896 00] QW_JACK_ADJUSTMENT2.AT3 
+-r-xr-xr-x   1    0    0      54412 May 12 2008 [ 534912 00] QW_JACK_ADJUSTMENT3.AT3 
+-r-xr-xr-x   1    0    0      54796 May 12 2008 [ 534944 00] QW_JACK_ALLOWED_HIT.AT3 
+-r-xr-xr-x   1    0    0       7948 May 12 2008 [ 534976 00] QW_JACK_HIT1.AT3 
+-r-xr-xr-x   1    0    0       7180 May 12 2008 [ 534992 00] QW_JACK_HIT2.AT3 
+-r-xr-xr-x   1    0    0       8524 May 12 2008 [ 535008 00] QW_JACK_HIT3.AT3 
+-r-xr-xr-x   1    0    0      10060 May 12 2008 [ 535024 00] QW_JACK_HIT4.AT3 
+-r-xr-xr-x   1    0    0      69964 May 12 2008 [ 535040 00] QW_JACK_INTRO.AT3 
+-r-xr-xr-x   1    0    0      77260 May 12 2008 [ 535088 00] QW_JACK_SUCK.AT3 
+-r-xr-xr-x   1    0    0      60748 May 12 2008 [ 535136 00] QW_JACK_VACUUM.AT3 
+-r-xr-xr-x   1    0    0      21388 May 12 2008 [ 535168 00] QW_JACK_WIN.AT3 
+-r-xr-xr-x   1    0    0      29068 May 12 2008 [ 535184 00] QW_QWARKZILLA_BEAM1.AT3 
+-r-xr-xr-x   1    0    0      28108 May 12 2008 [ 535200 00] QW_QWARKZILLA_BEAM2.AT3 
+-r-xr-xr-x   1    0    0      69388 May 12 2008 [ 535216 00] QW_QWARKZILLA_BEAM3.AT3 
+-r-xr-xr-x   1    0    0      14860 May 12 2008 [ 535264 00] QW_QWARKZILLA_HURT.AT3 
+-r-xr-xr-x   1    0    0      39244 May 12 2008 [ 535280 00] QW_QWARKZILLA_ROBOT_NINJAS1.AT3 
+-r-xr-xr-x   1    0    0      50188 May 12 2008 [ 535312 00] QW_QWARKZILLA_ROBOT_NINJAS2.AT3 
+-r-xr-xr-x   1    0    0      51724 May 12 2008 [ 535344 00] QW_QWARKZILLA_ROBOT_NINJAS3.AT3 
+-r-xr-xr-x   1    0    0      55180 May 12 2008 [ 535376 00] QW_QWARKZILLA_ROBOT_NINJAS4.AT3 
+-r-xr-xr-x   1    0    0      48652 May 12 2008 [ 535408 00] QW_QWARKZILLA_SAVE_CITY.AT3 
+-r-xr-xr-x   1    0    0      75532 May 12 2008 [ 535440 00] QW_QWARKZILLA_ZILLA_HIDE.AT3 
+-r-xr-xr-x   1    0    0      26380 May 12 2008 [ 535488 00] QW_SPACE_BLASTER.AT3 
+-r-xr-xr-x   1    0    0       9676 May 12 2008 [ 535504 00] QW_SPACE_BOSS_DAMAGE.AT3 
+-r-xr-xr-x   1    0    0      17164 May 12 2008 [ 535520 00] QW_SPACE_DEATH1.AT3 
+-r-xr-xr-x   1    0    0      27532 May 12 2008 [ 535536 00] QW_SPACE_DEATH2.AT3 
+-r-xr-xr-x   1    0    0      29836 May 12 2008 [ 535552 00] QW_SPACE_DEATH3.AT3 
+-r-xr-xr-x   1    0    0      18508 May 12 2008 [ 535568 00] QW_SPACE_FIND_CANNON.AT3 
+-r-xr-xr-x   1    0    0      13900 May 12 2008 [ 535584 00] QW_SPACE_GOOD.AT3 
+-r-xr-xr-x   1    0    0      14092 May 12 2008 [ 535600 00] QW_SPACE_JUMP.AT3 
+-r-xr-xr-x   1    0    0      44812 May 12 2008 [ 535616 00] QW_SPACE_KUDZU_IMMUNE.AT3 
+-r-xr-xr-x   1    0    0      28300 May 12 2008 [ 535648 00] QW_SPACE_LEMONADE.AT3 
+-r-xr-xr-x   1    0    0      24268 May 12 2008 [ 535664 00] QW_SPACE_LEMONADE_PROMPT.AT3 
+-r-xr-xr-x   1    0    0      43852 May 12 2008 [ 535680 00] QW_SPACE_NOSE_CONE.AT3 
+-r-xr-xr-x   1    0    0      38476 May 12 2008 [ 535728 00] QW_SPACE_NUNS_NEAR.AT3 
+-r-xr-xr-x   1    0    0      17548 May 12 2008 [ 535712 00] QW_SPACE_NUN_SAVE.AT3 
+-r-xr-xr-x   1    0    0      28108 May 12 2008 [ 535760 00] QW_SPACE_PROMPT_CANNON.AT3 
+-r-xr-xr-x   1    0    0      26380 May 12 2008 [ 535776 00] QW_SPACE_PUNCH.AT3 
+-r-xr-xr-x   1    0    0      18700 May 12 2008 [ 535792 00] QW_SPACE_SAVE_NUNS_PROMPT1.AT3 
+-r-xr-xr-x   1    0    0      33868 May 12 2008 [ 535808 00] QW_SPACE_SAVE_NUNS_PROMPT2.AT3 
+-r-xr-xr-x   1    0    0      35980 May 12 2008 [ 535840 00] QW_SPACE_TEACH_LESSON.AT3 
+-r-xr-xr-x   1    0    0      18700 May 12 2008 [ 535872 00] QW_SPACE_WRONG_WAY.AT3 
+-r-xr-xr-x   1    0    0       8524 May 12 2008 [ 535888 00] RS_ANSWER6.AT3 
+-r-xr-xr-x   1    0    0       5836 May 12 2008 [ 535904 00] RS_ANSWER7.AT3 
+-r-xr-xr-x   1    0    0       9484 May 12 2008 [ 535920 00] RS_CARDS_REVEAL.AT3 
+-r-xr-xr-x   1    0    0      72076 May 12 2008 [ 535936 00] RS_CARDS_START.AT3 
+-r-xr-xr-x   1    0    0      22348 May 12 2008 [ 535984 00] RS_TRIVIA_AGAIN.AT3 
+-r-xr-xr-x   1    0    0      16588 May 12 2008 [ 536000 00] RS_TRIVIA_INTRODUCE.AT3 
+-r-xr-xr-x   1    0    0       7372 May 12 2008 [ 536016 00] RS_ZAP.AT3 
+-r-xr-xr-x   1    0    0      10828 May 12 2008 [ 536064 00] SG_CASINO_OUTTAMYWAY.AT3 
+-r-xr-xr-x   1    0    0      54604 May 12 2008 [ 536032 00] SG_CASINO_SEAL_DOOR.AT3 
+-r-xr-xr-x   1    0    0      15436 May 12 2008 [ 536080 00] SK_ANSWER1.AT3 
+-r-xr-xr-x   1    0    0      11788 May 12 2008 [ 536096 00] SK_ANSWER4.AT3 
+-r-xr-xr-x   1    0    0      12556 May 12 2008 [ 536112 00] SK_ANSWER6.AT3 
+-r-xr-xr-x   1    0    0      45580 May 12 2008 [ 536128 00] SK_TRIVIA_HATE.AT3 
+-r-xr-xr-x   1    0    0       6028 May 12 2008 [ 536160 00] SK_ZAP.AT3 
+-r-xr-xr-x   1    0    0      15436 May 12 2008 [ 536176 00] SN_SPACE_SAVED1.AT3 
+-r-xr-xr-x   1    0    0      15244 May 12 2008 [ 536192 00] SN_SPACE_SAVED2.AT3 
+-r-xr-xr-x   1    0    0      17356 May 12 2008 [ 536208 00] SN_SPACE_SAVED3.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/ART/CHARACTERS/CLANK/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     64 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     43 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    114 02] DATA 
+
+Directory listing of /PSP_GAME/USRDIR/ART/CHARACTERS/DANMP/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     65 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     43 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    115 02] DATA 
+
+Directory listing of /PSP_GAME/USRDIR/ART/CHARACTERS/GARBAGECANSP/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     66 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     43 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    116 02] DATA 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    117 02] TEXTURES 
+
+Directory listing of /PSP_GAME/USRDIR/ART/CHARACTERS/GIANTQWARK/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     67 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     43 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    118 02] DATA 
+
+Directory listing of /PSP_GAME/USRDIR/ART/CHARACTERS/KLUNKRATCHET/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     68 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     43 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    119 02] DATA 
+
+Directory listing of /PSP_GAME/USRDIR/ART/CHARACTERS/PIRATESP/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     69 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     43 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    120 02] DATA 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    121 02] TEXTURES 
+
+Directory listing of /PSP_GAME/USRDIR/ART/CHARACTERS/QWARK/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     70 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     43 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    122 02] DATA 
+
+Directory listing of /PSP_GAME/USRDIR/ART/CHARACTERS/RATCHETBRUCELEE/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     71 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     43 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    123 02] DATA 
+
+Directory listing of /PSP_GAME/USRDIR/ART/CHARACTERS/RATCHETSP/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     72 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     43 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    124 02] DATA 
+
+Directory listing of /PSP_GAME/USRDIR/ART/CHARACTERS/RATCHETZILLASP/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     73 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     43 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    125 02] DATA 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    126 02] TEXTURES 
+
+Directory listing of /PSP_GAME/USRDIR/ART/CHARACTERS/RATCHETZOMBIE/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     74 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     43 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    127 02] DATA 
+
+Directory listing of /PSP_GAME/USRDIR/ART/CHARACTERS/RATCHET/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     75 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     43 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    128 02] DATA 
+
+Directory listing of /PSP_GAME/USRDIR/ART/CHARACTERS/ROBORATCHET/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     76 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     43 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    129 02] DATA 
+
+Directory listing of /PSP_GAME/USRDIR/ART/CHARACTERS/SCUBASP/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     77 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     43 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    130 02] DATA 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    131 02] TEXTURES 
+
+Directory listing of /PSP_GAME/USRDIR/ART/CHARACTERS/ZONI/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     78 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     43 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    132 02] DATA 
+
+Directory listing of /PSP_GAME/USRDIR/ART/HUD/TEXTURES/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     79 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     44 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    133 02] ICONTEXTURES 
+dr-xr-xr-x   1    0    0       6144 Jun 24 2008 [    134 02] SAC_MAPS 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/BUFFER1/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     80 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     45 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    137 02] DATA 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/HIGCREDITS/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     81 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     45 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    138 02] DATA 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/HIGTREEHOUSE/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     82 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     45 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    139 02] DATA 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL01_MUSEUM/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     83 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     45 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    140 02] DATA 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL01_PRISON/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     84 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     45 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    141 02] DATA 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL01_TIMING/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     85 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     45 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    142 02] DATA 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL02_GIANT/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     86 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     45 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    143 02] DATA 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL02_SKYSCRAPERS/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     87 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     45 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    144 02] DATA 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL03_CAFETERIA/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     88 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     45 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    145 02] DATA 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL03_COUNTESS/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     89 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     45 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    146 02] DATA 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL03_SNOWBOARD/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     90 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     45 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    147 02] DATA 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL04_CARNIVAL/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     91 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     45 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    148 02] DATA 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL04_GONDOLA/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     92 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     45 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    149 02] DATA 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL05_CASINO/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     93 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     45 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    150 02] DATA 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL05_HIGHSTAKES/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     94 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     45 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    151 02] DATA 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL05_YARD/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     95 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     45 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    152 02] DATA 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL06_LAB/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     96 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     45 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    153 02] DATA 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL06_QWARK/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     97 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     45 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    154 02] DATA 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL06_RACE/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     98 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     45 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    155 02] DATA 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL07_FOUNDRY/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     99 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     45 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    156 02] DATA 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL07_GADGEBOT/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    100 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     45 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    157 02] DATA 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL07_SHOWER/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    101 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     45 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    158 02] DATA 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL08_GIANTCLANK/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    102 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     45 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    159 02] DATA 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL08_GRAVEYARD/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    103 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     45 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    160 02] DATA 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL08_QWARK/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    104 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     45 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    161 02] DATA 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL09_DAMRACE/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    105 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     45 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    162 02] DATA 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL09_ESCAPEYARD/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    106 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     45 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    163 02] DATA 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL09_QWARKDAM/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    107 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     45 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    164 02] DATA 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL10_BASE/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    108 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     45 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    165 02] DATA 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL10_BOSS/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    109 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     45 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    166 02] DATA 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL10_GADGEBOT/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    110 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     45 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    167 02] DATA 
+
+Directory listing of /PSP_GAME/USRDIR/CODE/HUD/DATA/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    111 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     46 02] .. 
+-r-xr-xr-x   1    0    0     919312 Jun 17 2008 [  62592 00] CARBOAT_HELPCONTROLS.PAK 
+-r-xr-xr-x   1    0    0     419264 May 22 2008 [  58400 00] CHEATS.PAK 
+-r-xr-xr-x   1    0    0    2058944 Jun 20 2008 [  59664 00] CINEMATICS.PAK 
+-r-xr-xr-x   1    0    0     749360 Jul 25 2007 [  56432 00] CLANKCHALLENGE.PAK 
+-r-xr-xr-x   1    0    0     919424 Jun 17 2008 [  60672 00] CLANK_HELPCONTROLS.PAK 
+-r-xr-xr-x   1    0    0     164432 Mar 24 2008 [  58752 00] CLANK_HELPMOVES.PAK 
+-r-xr-xr-x   1    0    0     919312 Jun 17 2008 [  63520 00] GADGEBOT_HELPCONTROLS.PAK 
+-r-xr-xr-x   1    0    0      82224 Mar 24 2008 [  58848 00] GADGEBOT_HELPMOVES.PAK 
+-r-xr-xr-x   1    0    0     136720 Mar 12 2008 [  58096 00] GADGECHALLENGE.PAK 
+-r-xr-xr-x   1    0    0       9584 Feb 28 2008 [  57200 00] GALACTICMAPBG.PAK 
+-r-xr-xr-x   1    0    0     853968 Jun 17 2008 [  62160 00] GIANTQWARK_HELPCONTROLS.PAK 
+-r-xr-xr-x   1    0    0     853968 Jun 17 2008 [  63984 00] GIAQWARKLVL2_HELPCONTROLS.PAK 
+-r-xr-xr-x   1    0    0     167296 Jul  2 2007 [  57920 00] GM_BANNER.PAK 
+-r-xr-xr-x   1    0    0      60128 Mar 31 2008 [  57216 00] GM_PLANET.PAK 
+-r-xr-xr-x   1    0    0     788272 Jul 25 2007 [  56800 00] HELPCONTROLS.PAK 
+-r-xr-xr-x   1    0    0    1346000 Apr 23 2008 [  57248 00] MISSIONS.PAK 
+-r-xr-xr-x   1    0    0     599472 Mar 12 2008 [  64416 00] MISSION_BANNER.PAK 
+-r-xr-xr-x   1    0    0    1115040 Jun 17 2008 [  61600 00] QWARK_HELPCONTROLS.PAK 
+-r-xr-xr-x   1    0    0      61680 Mar 24 2008 [  58896 00] QWARK_HELPMOVES.PAK 
+-r-xr-xr-x   1    0    0     450176 Jun  4 2008 [  58176 00] RATCHETCHALLENGE.PAK 
+-r-xr-xr-x   1    0    0     919344 Jun 17 2008 [  61136 00] RATCHET_HELPCONTROLS.PAK 
+-r-xr-xr-x   1    0    0     279888 Apr  4 2008 [  58608 00] RATCHET_HELPMOVES.PAK 
+-r-xr-xr-x   1    0    0    1500384 Mar 27 2008 [  58928 00] SKILLPOINTS.PAK 
+-r-xr-xr-x   1    0    0     919312 Jun 17 2008 [  63056 00] SNOWBOARD_HELPCONTROLS.PAK 
+-r-xr-xr-x   1    0    0     159216 Mar 12 2008 [  58016 00] VEHICLECHALLENGE.PAK 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/HUD/MEMCARD/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    112 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     47 02] .. 
+-r-xr-xr-x   1    0    0      16675 May 14 2008 [  56288 00] DHSAVE0.PNG 
+-r-xr-xr-x   1    0    0      16654 May 14 2008 [  56304 00] DRSAVE0.PNG 
+-r-xr-xr-x   1    0    0      16052 May 14 2008 [  56320 00] DSAVE0.PNG 
+-r-xr-xr-x   1    0    0      16009 May 14 2008 [  56336 00] HSAVE0.PNG 
+-r-xr-xr-x   1    0    0      16015 May 14 2008 [  56272 00] RSAVE0.PNG 
+-r-xr-xr-x   1    0    0      15314 May 14 2008 [  56256 00] SAVE0.PNG 
+-r-xr-xr-x   1    0    0     150191 Apr 14 2008 [  56352 00] SAVEBAK.PNG 
+
+Directory listing of /PSP_GAME/USRDIR/ETC/GLOBALWAD/DATA/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    113 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     48 02] .. 
+-r-xr-xr-x   1    0    0    2908063 Jun  4 2008 [ 292240 00] GLOBAL.WAD 
+
+Directory listing of /PSP_GAME/USRDIR/ART/CHARACTERS/CLANK/DATA/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    114 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     64 02] .. 
+-r-xr-xr-x   1    0    0      77840 Jun  2 2008 [  53968 00] CLANK70SMASTER.MB.PSP.GDE 
+-r-xr-xr-x   1    0    0      60784 Jun  2 2008 [  54016 00] CLANKBLENDERMASTER.MB.PSP.GDE 
+-r-xr-xr-x   1    0    0      88048 Jun  2 2008 [  54048 00] CLANKMASTER.MB.PSP.GDE 
+-r-xr-xr-x   1    0    0      74800 Jun  2 2008 [  54096 00] COPCLANKMASTER.MB.PSP.GDE 
+-r-xr-xr-x   1    0    0      73136 Jun  2 2008 [  54144 00] COWBOYCLANKMASTER.MB.PSP.GDE 
+-r-xr-xr-x   1    0    0      72240 Jun  2 2008 [  54192 00] KLUNKMASTER.MB.PSP.GDE 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    168 02] TEXTURES 
+
+Directory listing of /PSP_GAME/USRDIR/ART/CHARACTERS/DANMP/DATA/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    115 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     65 02] .. 
+-r-xr-xr-x   1    0    0      77856 Apr 12 2008 [  54352 00] DANMPMASTER.MB.PSP.GDE 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    169 02] TEXTURES 
+
+Directory listing of /PSP_GAME/USRDIR/ART/CHARACTERS/GARBAGECANSP/DATA/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    116 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     66 02] .. 
+-r-xr-xr-x   1    0    0     111552 Apr 12 2008 [  54416 00] GARBAGECANSPMASTER.MB.PSP.GDE 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    170 02] TEXTURES 
+
+Directory listing of /PSP_GAME/USRDIR/ART/CHARACTERS/GARBAGECANSP/TEXTURES/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    117 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     66 02] .. 
+-r-xr-xr-x   1    0    0       5456 Nov 17 2006 [  54480 00] GARBAGECANSPLO.GIM 
+
+Directory listing of /PSP_GAME/USRDIR/ART/CHARACTERS/GIANTQWARK/DATA/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    118 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     67 02] .. 
+-r-xr-xr-x   1    0    0      82608 Apr 12 2008 [  54512 00] GIANTMAIDMASTER.MB.PSP.GDE 
+-r-xr-xr-x   1    0    0      75680 Apr 12 2008 [  54560 00] GIANTQWARKMASTER.MB.PSP.GDE 
+-r-xr-xr-x   1    0    0     114016 Apr 12 2008 [  54608 00] GIANTSHERIFFMASTER.MB.PSP.GDE 
+-r-xr-xr-x   1    0    0      79616 Apr 12 2008 [  54672 00] GIANTWRESTLERMASTER.MB.PSP.GDE 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    171 02] TEXTURES 
+
+Directory listing of /PSP_GAME/USRDIR/ART/CHARACTERS/KLUNKRATCHET/DATA/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    119 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     68 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    172 02] TEXTURES 
+
+Directory listing of /PSP_GAME/USRDIR/ART/CHARACTERS/PIRATESP/DATA/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    120 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     69 02] .. 
+-r-xr-xr-x   1    0    0     136192 Jul  2 2007 [  54752 00] PIRATESPMASTER.MB.PSP.GDE 
+
+Directory listing of /PSP_GAME/USRDIR/ART/CHARACTERS/PIRATESP/TEXTURES/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    121 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     69 02] .. 
+-r-xr-xr-x   1    0    0       8592 Dec 15 2006 [  54832 00] RATCHETPIRATE_LO.GIM 
+
+Directory listing of /PSP_GAME/USRDIR/ART/CHARACTERS/QWARK/DATA/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    122 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     70 02] .. 
+-r-xr-xr-x   1    0    0      82560 Jun  2 2008 [  54848 00] MAIDQWARKMASTER.MB.PSP.GDE 
+-r-xr-xr-x   1    0    0      98896 Jun  2 2008 [  54896 00] OPERAQWARKMASTER.MB.PSP.GDE 
+-r-xr-xr-x   1    0    0     101680 Jun  2 2008 [  54960 00] QWARKMASTER.MB.PSP.GDE 
+-r-xr-xr-x   1    0    0      92112 Jun  2 2008 [  55024 00] SHERIFFQWARKMASTER.MB.PSP.GDE 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    173 02] TEXTURES 
+-r-xr-xr-x   1    0    0      79568 Jun  2 2008 [  55168 00] WRESTLERQWARKMASTER.MB.PSP.GDE 
+
+Directory listing of /PSP_GAME/USRDIR/ART/CHARACTERS/RATCHETBRUCELEE/DATA/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    123 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     71 02] .. 
+-r-xr-xr-x   1    0    0     239600 Apr 15 2008 [  55424 00] RATCHETKUNGFUMASTER.MB.PSP.GDE 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    174 02] TEXTURES 
+
+Directory listing of /PSP_GAME/USRDIR/ART/CHARACTERS/RATCHETSP/DATA/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    124 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     72 02] .. 
+-r-xr-xr-x   1    0    0     142864 Jul  2 2007 [  55584 00] RATCHETSPMASTER.MB.PSP.GDE 
+
+Directory listing of /PSP_GAME/USRDIR/ART/CHARACTERS/RATCHETZILLASP/DATA/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    125 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     73 02] .. 
+-r-xr-xr-x   1    0    0     119232 Jul  2 2007 [  55664 00] RATCHETZILLASPMASTER.MB.PSP.GDE 
+
+Directory listing of /PSP_GAME/USRDIR/ART/CHARACTERS/RATCHETZILLASP/TEXTURES/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    126 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     73 02] .. 
+-r-xr-xr-x   1    0    0       5456 Nov 10 2006 [  55728 00] RATCHETZILLA_LO.GIM 
+
+Directory listing of /PSP_GAME/USRDIR/ART/CHARACTERS/RATCHETZOMBIE/DATA/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    127 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     74 02] .. 
+-r-xr-xr-x   1    0    0      88672 Apr 12 2008 [  55744 00] RATCHETZOMBIEMASTER.MB.PSP.GDE 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    175 02] TEXTURES 
+
+Directory listing of /PSP_GAME/USRDIR/ART/CHARACTERS/RATCHET/DATA/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    128 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     75 02] .. 
+-r-xr-xr-x   1    0    0     114192 Jun  5 2008 [  55216 00] RATCHETJAILMASTER.MB.PSP.GDE 
+-r-xr-xr-x   1    0    0     118000 Jun  5 2008 [  55280 00] RATCHETSHWRMASTER.MB.PSP.GDE 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    176 02] TEXTURES 
+
+Directory listing of /PSP_GAME/USRDIR/ART/CHARACTERS/ROBORATCHET/DATA/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    129 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     76 02] .. 
+-r-xr-xr-x   1    0    0      69712 Apr 12 2008 [  55824 00] ROBORATCHETMASTER.MB.PSP.GDE 
+
+Directory listing of /PSP_GAME/USRDIR/ART/CHARACTERS/SCUBASP/DATA/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    130 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     77 02] .. 
+-r-xr-xr-x   1    0    0     142400 Jul  2 2007 [  55872 00] SCUBASPMASTER.MB.PSP.GDE 
+
+Directory listing of /PSP_GAME/USRDIR/ART/CHARACTERS/SCUBASP/TEXTURES/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    131 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     77 02] .. 
+-r-xr-xr-x   1    0    0       5456 Dec 21 2006 [  55952 00] SCUBASPLO.GIM 
+
+Directory listing of /PSP_GAME/USRDIR/ART/CHARACTERS/ZONI/DATA/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    132 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     78 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    177 02] TEXTURES 
+-r-xr-xr-x   1    0    0      45040 Apr 12 2008 [  55968 00] ZONIMASTER.MB.PSP.GDE 
+
+Directory listing of /PSP_GAME/USRDIR/ART/HUD/TEXTURES/ICONTEXTURES/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    133 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     79 02] .. 
+-r-xr-xr-x   1    0    0       2384 Apr  1 2008 [  56016 00] WRENCH_CRYSTAL.GIM 
+-r-xr-xr-x   1    0    0       2384 Apr  1 2008 [  56032 00] WRENCH_FIREBOMB.GIM 
+-r-xr-xr-x   1    0    0       2384 Apr  1 2008 [  56048 00] WRENCH_NAPALMBURST.GIM 
+-r-xr-xr-x   1    0    0       2384 Apr  1 2008 [  56064 00] WRENCH_TRIPLEWAVE.GIM 
+
+Directory listing of /PSP_GAME/USRDIR/ART/HUD/TEXTURES/SAC_MAPS/
+dr-xr-xr-x   1    0    0       6144 Jun 24 2008 [    134 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     79 02] .. 
+-r-xr-xr-x   1    0    0     131072 Apr 15 2008 [ 456336 00] MAP01A_MUSEUM_CTRLFILE.4BT 
+-r-xr-xr-x   1    0    0     131472 Apr 10 2008 [ 456176 00] MAP01A_MUSEUM_OBSCURE.GIM 
+-r-xr-xr-x   1    0    0     131472 Apr 10 2008 [ 456256 00] MAP01A_MUSEUM_REVEAL.GIM 
+-r-xr-xr-x   1    0    0     131072 Apr  1 2008 [ 457824 00] MAP01B_MUSEUM_CTRLFILE.4BT 
+-r-xr-xr-x   1    0    0     131472 Mar 31 2008 [ 457664 00] MAP01B_MUSEUM_OBSCURE.GIM 
+-r-xr-xr-x   1    0    0     131472 Mar 31 2008 [ 457744 00] MAP01B_MUSEUM_REVEAL.GIM 
+-r-xr-xr-x   1    0    0     131072 Oct 29 2007 [ 460688 00] MAP01_PRISON_CTRLFILE.4BT 
+-r-xr-xr-x   1    0    0     131472 Oct 25 2007 [ 460528 00] MAP01_PRISON_OBSCURE.GIM 
+-r-xr-xr-x   1    0    0     131472 Oct 25 2007 [ 460608 00] MAP01_PRISON_REVEAL.GIM 
+-r-xr-xr-x   1    0    0     131072 Apr  1 2008 [ 463200 00] MAP02A_SKYSCRAPERS_CTRLFILE.4BT 
+-r-xr-xr-x   1    0    0     131472 Mar 31 2008 [ 463040 00] MAP02A_SKYSCRAPERS_OBSCURE.GIM 
+-r-xr-xr-x   1    0    0     131472 Mar 31 2008 [ 463120 00] MAP02A_SKYSCRAPERS_REVEAL.GIM 
+-r-xr-xr-x   1    0    0     131072 Apr  1 2008 [ 464944 00] MAP02B_SKYSCRAPERS_CTRLFILE.4BT 
+-r-xr-xr-x   1    0    0     131472 Mar 31 2008 [ 464784 00] MAP02B_SKYSCRAPERS_OBSCURE.GIM 
+-r-xr-xr-x   1    0    0     131472 Mar 31 2008 [ 464864 00] MAP02B_SKYSCRAPERS_REVEAL.GIM 
+-r-xr-xr-x   1    0    0     131472 Oct 25 2007 [ 472624 00] MAP03_CAFETERIA_OBSCURE.GIM 
+-r-xr-xr-x   1    0    0     131472 Oct 25 2007 [ 472704 00] MAP03_CAFETERIA_REVEAL.GIM 
+-r-xr-xr-x   1    0    0     131072 Oct 29 2007 [ 468240 00] MAP03_COUNTESS_CTRLFILE.4BT 
+-r-xr-xr-x   1    0    0     131472 Oct 25 2007 [ 468080 00] MAP03_COUNTESS_OBSCURE.GIM 
+-r-xr-xr-x   1    0    0     131472 Oct 25 2007 [ 468160 00] MAP03_COUNTESS_REVEAL.GIM 
+-r-xr-xr-x   1    0    0     131072 Apr 15 2008 [ 478176 00] MAP04A_GONDOLA_CTRLFILE.4BT 
+-r-xr-xr-x   1    0    0     131472 Mar 31 2008 [ 478016 00] MAP04A_GONDOLA_OBSCURE.GIM 
+-r-xr-xr-x   1    0    0     131472 Mar 31 2008 [ 478096 00] MAP04A_GONDOLA_REVEAL.GIM 
+-r-xr-xr-x   1    0    0     131072 Apr 22 2008 [ 475472 00] MAP04_CARNAVAL_CTRLFILE.4BT 
+-r-xr-xr-x   1    0    0     131472 Apr 22 2008 [ 475312 00] MAP04_CARNAVAL_OBSCURE.GIM 
+-r-xr-xr-x   1    0    0     131472 Apr 22 2008 [ 475392 00] MAP04_CARNAVAL_REVEAL.GIM 
+-r-xr-xr-x   1    0    0     131072 Apr  1 2008 [ 480464 00] MAP05_CASINO_CTRLFILE.4BT 
+-r-xr-xr-x   1    0    0     131472 Mar 31 2008 [ 480304 00] MAP05_CASINO_OBSCURE.GIM 
+-r-xr-xr-x   1    0    0     131472 Mar 31 2008 [ 480384 00] MAP05_CASINO_REVEAL.GIM 
+-r-xr-xr-x   1    0    0     131072 Oct 29 2007 [ 483408 00] MAP05_YARD_CTRLFILE.4BT 
+-r-xr-xr-x   1    0    0     131472 Oct 25 2007 [ 483248 00] MAP05_YARD_OBSCURE.GIM 
+-r-xr-xr-x   1    0    0     131472 Oct 25 2007 [ 483328 00] MAP05_YARD_REVEAL.GIM 
+-r-xr-xr-x   1    0    0     131072 Apr  1 2008 [ 488128 00] MAP06_LAB_CTRLFILE.4BT 
+-r-xr-xr-x   1    0    0     131472 Apr 10 2008 [ 487968 00] MAP06_LAB_OBSCURE.GIM 
+-r-xr-xr-x   1    0    0     131472 Apr 10 2008 [ 488048 00] MAP06_LAB_REVEAL.GIM 
+-r-xr-xr-x   1    0    0     131072 Jan  3 2008 [ 491504 00] MAP06_QUARK_OPERA_CTRLFILE.4BT 
+-r-xr-xr-x   1    0    0     131472 Jan  3 2008 [ 491344 00] MAP06_QUARK_OPERA_OBSCURE.GIM 
+-r-xr-xr-x   1    0    0     131472 Jan  3 2008 [ 491424 00] MAP06_QUARK_OPERA_REVEAL.GIM 
+-r-xr-xr-x   1    0    0     131072 Apr  1 2008 [ 494272 00] MAP07_FOUNDRY_CTRLFILE.4BT 
+-r-xr-xr-x   1    0    0     131472 Mar 31 2008 [ 494112 00] MAP07_FOUNDRY_OBSCURE.GIM 
+-r-xr-xr-x   1    0    0     131472 Mar 31 2008 [ 494192 00] MAP07_FOUNDRY_REVEAL.GIM 
+-r-xr-xr-x   1    0    0     131072 Apr  1 2008 [ 495632 00] MAP07_GADGETBOTS_CTRLFILE.4BT 
+-r-xr-xr-x   1    0    0     131472 Mar 31 2008 [ 495472 00] MAP07_GADGETBOTS_OBSCURE.GIM 
+-r-xr-xr-x   1    0    0     131472 Mar 31 2008 [ 495552 00] MAP07_GADGETBOTS_REVEAL.GIM 
+-r-xr-xr-x   1    0    0     131072 Oct 29 2007 [ 498416 00] MAP07_SHOWERS_CTRLFILE.4BT 
+-r-xr-xr-x   1    0    0     131472 Oct 29 2007 [ 498256 00] MAP07_SHOWERS_OBSCURE.GIM 
+-r-xr-xr-x   1    0    0     131472 Oct 29 2007 [ 498336 00] MAP07_SHOWERS_REVEAL.GIM 
+-r-xr-xr-x   1    0    0     131072 Apr 15 2008 [ 501440 00] MAP08_GRAVEYARD_CTRLFILE.4BT 
+-r-xr-xr-x   1    0    0     131472 Apr 10 2008 [ 501280 00] MAP08_GRAVEYARD_OBSCURE.GIM 
+-r-xr-xr-x   1    0    0     131472 Apr 10 2008 [ 501360 00] MAP08_GRAVEYARD_REVEAL.GIM 
+-r-xr-xr-x   1    0    0     131072 Apr 15 2008 [ 503280 00] MAP08_QUARK_CTRLFILE.4BT 
+-r-xr-xr-x   1    0    0     131472 Apr 10 2008 [ 503120 00] MAP08_QUARK_OBSCURE.GIM 
+-r-xr-xr-x   1    0    0     131472 Apr 10 2008 [ 503200 00] MAP08_QUARK_REVEAL.GIM 
+-r-xr-xr-x   1    0    0     131072 Jan 10 2008 [ 507552 00] MAP09_ESCAPEYARD_CTRLFILE.4BT 
+-r-xr-xr-x   1    0    0     131472 Jan  9 2008 [ 507392 00] MAP09_ESCAPEYARD_OBSCURE.GIM 
+-r-xr-xr-x   1    0    0     131472 Jan  9 2008 [ 507472 00] MAP09_ESCAPEYARD_REVEAL.GIM 
+-r-xr-xr-x   1    0    0     131072 Apr  1 2008 [ 514768 00] MAP10_BASE_CTRLFILE.4BT 
+-r-xr-xr-x   1    0    0     131472 Mar 31 2008 [ 514608 00] MAP10_BASE_OBSCURE.GIM 
+-r-xr-xr-x   1    0    0     131472 Mar 31 2008 [ 514688 00] MAP10_BASE_REVEAL.GIM 
+-r-xr-xr-x   1    0    0     131072 Jan 11 2008 [ 516352 00] MAP10_BOSS_CTRLFILE.4BT 
+-r-xr-xr-x   1    0    0     131472 Jan  9 2008 [ 516192 00] MAP10_BOSS_OBSCURE.GIM 
+-r-xr-xr-x   1    0    0     131472 Jan  9 2008 [ 516272 00] MAP10_BOSS_REVEAL.GIM 
+-r-xr-xr-x   1    0    0     131072 Apr  1 2008 [ 511744 00] MAP10_GADGETBOTS_CTRLFILE.4BT 
+-r-xr-xr-x   1    0    0     131472 Mar 31 2008 [ 511584 00] MAP10_GADGETBOTS_OBSCURE.GIM 
+-r-xr-xr-x   1    0    0     131472 Mar 31 2008 [ 511664 00] MAP10_GADGETBOTS_REVEAL.GIM 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/BUFFER1/DATA/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    137 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     80 02] .. 
+-r-xr-xr-x   1    0    0    4305516 Apr 25 2008 [ 441904 00] BUFFER1.MB.WAD 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/HIGCREDITS/DATA/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    138 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     81 02] .. 
+-r-xr-xr-x   1    0    0    1549598 Jun  2 2008 [ 518576 00] HIGCREDITS.MB.WAD 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/HIGTREEHOUSE/DATA/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    139 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     82 02] .. 
+-r-xr-xr-x   1    0    0    4397349 Jun  2 2008 [ 516416 00] HIGTREEHOUSE.MB.WAD 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL01_MUSEUM/DATA/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    140 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     83 02] .. 
+-r-xr-xr-x   1    0    0    5614728 Jun 10 2008 [ 453424 00] LEVEL01_MUSEUM.MB.WAD 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL01_PRISON/DATA/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    141 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     84 02] .. 
+-r-xr-xr-x   1    0    0    5400559 Jun  5 2008 [ 457888 00] LEVEL01_PRISON.MB.WAD 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL01_TIMING/DATA/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    142 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     85 02] .. 
+-r-xr-xr-x   1    0    0    2583810 Jun  2 2008 [ 456400 00] LEVEL01_TIMING.MB.WAD 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL02_GIANT/DATA/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    143 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     86 02] .. 
+-r-xr-xr-x   1    0    0    3106855 Jun  2 2008 [ 463264 00] SKYSCRAPER_GIANT_LEVEL.MB.WAD 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL02_SKYSCRAPERS/DATA/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    144 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     87 02] .. 
+-r-xr-xr-x   1    0    0    4663131 Jun 16 2008 [ 460752 00] SKYSCRAPER_LEVEL.MB.WAD 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL03_CAFETERIA/DATA/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    145 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     88 02] .. 
+-r-xr-xr-x   1    0    0    5425888 Jun  2 2008 [ 469968 00] LEVEL03_CAFETERIA.MB.WAD 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL03_COUNTESS/DATA/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    146 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     89 02] .. 
+-r-xr-xr-x   1    0    0    6266193 Jun  2 2008 [ 465008 00] LEVEL03_COUNTESS.MB.WAD 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL03_SNOWBOARD/DATA/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    147 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     90 02] .. 
+-r-xr-xr-x   1    0    0    3380627 Jun  2 2008 [ 468304 00] LEVEL03_SNOWBOARD.MB.WAD 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL04_CARNIVAL/DATA/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    148 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     91 02] .. 
+-r-xr-xr-x   1    0    0    5148723 Jun  2 2008 [ 472784 00] L04CARNAVAL.MB.WAD 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL04_GONDOLA/DATA/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    149 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     92 02] .. 
+-r-xr-xr-x   1    0    0    5071464 Jun  2 2008 [ 475536 00] LVL04SECTION2.MB.WAD 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL05_CASINO/DATA/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    150 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     93 02] .. 
+-r-xr-xr-x   1    0    0    4225870 Jun  2 2008 [ 478240 00] LEVEL05_CASINO.MB.WAD 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL05_HIGHSTAKES/DATA/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    151 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     94 02] .. 
+-r-xr-xr-x   1    0    0    3822803 Jun  2 2008 [ 483472 00] HIGHSTAKES01.MB.WAD 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL05_YARD/DATA/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    152 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     95 02] .. 
+-r-xr-xr-x   1    0    0    5540034 Jun  2 2008 [ 480528 00] LEVEL05_YARD.MB.WAD 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL06_LAB/DATA/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    153 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     96 02] .. 
+-r-xr-xr-x   1    0    0    5369050 Jun 12 2008 [ 485344 00] LEVEL06_LAB.MB.WAD 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL06_QWARK/DATA/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    154 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     97 02] .. 
+-r-xr-xr-x   1    0    0    3103180 Jun  2 2008 [ 489824 00] LEVEL06_QWARK.MB.WAD 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL06_RACE/DATA/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    155 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     98 02] .. 
+-r-xr-xr-x   1    0    0    3316940 Jun  2 2008 [ 488192 00] LEVEL06_RACE.MB.WAD 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL07_FOUNDRY/DATA/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    156 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [     99 02] .. 
+-r-xr-xr-x   1    0    0    5178709 Jun 11 2008 [ 491568 00] BOLTFOUNDRY.MB.WAD 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL07_GADGEBOT/DATA/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    157 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    100 02] .. 
+-r-xr-xr-x   1    0    0    2325871 Jun 12 2008 [ 494336 00] LEVEL07_GADGEBOT.MB.WAD 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL07_SHOWER/DATA/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    158 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    101 02] .. 
+-r-xr-xr-x   1    0    0    5211822 Jun 16 2008 [ 495696 00] LEVEL07_SHOWER.MB.WAD 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL08_GIANTCLANK/DATA/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    159 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    102 02] .. 
+-r-xr-xr-x   1    0    0    2335062 Jun  2 2008 [ 503344 00] GIANTCLANK.MB.WAD 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL08_GRAVEYARD/DATA/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    160 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    103 02] .. 
+-r-xr-xr-x   1    0    0    5712733 Jun 11 2008 [ 498480 00] LEVEL08_GRAVEYARD.MB.WAD 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL08_QWARK/DATA/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    161 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    104 02] .. 
+-r-xr-xr-x   1    0    0    3295193 Jun  4 2008 [ 501504 00] LEVEL08_QWARK.MB.WAD 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL09_DAMRACE/DATA/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    162 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    105 02] .. 
+-r-xr-xr-x   1    0    0    2897040 Jun  2 2008 [ 507616 00] LEVEL09_DAMRACE.MB.WAD 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL09_ESCAPEYARD/DATA/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    163 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    106 02] .. 
+-r-xr-xr-x   1    0    0    5912989 Jun  2 2008 [ 504496 00] LEVEL09_ESCAPEYARD.MB.WAD 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL09_QWARKDAM/DATA/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    164 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    107 02] .. 
+-r-xr-xr-x   1    0    0    2939565 Jun  2 2008 [ 509040 00] LEVEL09_QWARKDAM.MB.WAD 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL10_BASE/DATA/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    165 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    108 02] .. 
+-r-xr-xr-x   1    0    0    5710528 Jun  2 2008 [ 511808 00] LEVEL10_BASE.MB.WAD 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL10_BOSS/DATA/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    166 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    109 02] .. 
+-r-xr-xr-x   1    0    0    2753029 Jun  2 2008 [ 514832 00] LEVEL10_BOSS.MB.WAD 
+
+Directory listing of /PSP_GAME/USRDIR/ART/LEVELS/LEVEL10_GADGEBOT/DATA/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    167 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    110 02] .. 
+-r-xr-xr-x   1    0    0    2236357 Jun  2 2008 [ 510480 00] LEVEL10_GADGEBOT.MB.WAD 
+
+Directory listing of /PSP_GAME/USRDIR/ART/CHARACTERS/CLANK/DATA/TEXTURES/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    168 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    114 02] .. 
+-r-xr-xr-x   1    0    0       2384 Mar 11 2008 [  53952 00] BLENDERGLASS.GIM 
+-r-xr-xr-x   1    0    0       5456 Mar  7 2008 [  54240 00] CLANK70SLO.GIM 
+-r-xr-xr-x   1    0    0       5456 Mar 11 2008 [  54256 00] CLANKBLENDERLO.GIM 
+-r-xr-xr-x   1    0    0       5436 Sep 14 2007 [  54272 00] CLANKDISGUISE2_LO.GIM 
+-r-xr-xr-x   1    0    0       5456 Mar  5 2008 [  54288 00] COPCLANKLO.GIM 
+-r-xr-xr-x   1    0    0      17744 Mar 14 2008 [  54304 00] KLUNK_LO.GIM 
+-r-xr-xr-x   1    0    0       5456 Jan  9 2008 [  54320 00] SPITHAT.GIM 
+-r-xr-xr-x   1    0    0       9552 Jul 24 2007 [  54336 00] WATCH_AND_CUFF_LO.GIM 
+
+Directory listing of /PSP_GAME/USRDIR/ART/CHARACTERS/DANMP/DATA/TEXTURES/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    169 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    115 02] .. 
+-r-xr-xr-x   1    0    0       4944 May 14 2007 [  54400 00] DANLO.GIM 
+
+Directory listing of /PSP_GAME/USRDIR/ART/CHARACTERS/GARBAGECANSP/DATA/TEXTURES/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    170 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    116 02] .. 
+-r-xr-xr-x   1    0    0       9040 Mar 19 2008 [  54496 00] GARBAGEPANTS.GIM 
+
+Directory listing of /PSP_GAME/USRDIR/ART/CHARACTERS/GIANTQWARK/DATA/TEXTURES/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    171 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    118 02] .. 
+-r-xr-xr-x   1    0    0       5456 Feb 14 2008 [  54720 00] QWARKHORSE_LO.GIM 
+
+Directory listing of /PSP_GAME/USRDIR/ART/CHARACTERS/KLUNKRATCHET/DATA/TEXTURES/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    172 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    119 02] .. 
+-r-xr-xr-x   1    0    0       5456 Sep  7 2007 [  54736 00] KLUNKRATCHET_LOREZ.GIM 
+
+Directory listing of /PSP_GAME/USRDIR/ART/CHARACTERS/QWARK/DATA/TEXTURES/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    173 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    122 02] .. 
+-r-xr-xr-x   1    0    0       4944 May 14 2007 [  55072 00] QUARK_BODY.GIM 
+-r-xr-xr-x   1    0    0       4944 May 14 2007 [  55088 00] QUARK_CHEST.GIM 
+-r-xr-xr-x   1    0    0       5432 Nov 16 2007 [  55104 00] QWARKCOWBOY_LO.GIM 
+-r-xr-xr-x   1    0    0       5456 Mar  3 2008 [  55120 00] QWARKHATS_LO.GIM 
+-r-xr-xr-x   1    0    0       5324 Mar  7 2008 [  55136 00] QWARKMAID_LO.GIM 
+-r-xr-xr-x   1    0    0       5428 Mar  7 2008 [  55152 00] QWARKWRESTLER_LO.GIM 
+
+Directory listing of /PSP_GAME/USRDIR/ART/CHARACTERS/RATCHETBRUCELEE/DATA/TEXTURES/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    174 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    123 02] .. 
+-r-xr-xr-x   1    0    0       5456 Mar 10 2008 [  55552 00] RATCHETT_BODY_BRUCELEELO.GIM 
+-r-xr-xr-x   1    0    0       5456 Mar 10 2008 [  55568 00] RATCHETT_PANTS_BRUCELEELO.GIM 
+
+Directory listing of /PSP_GAME/USRDIR/ART/CHARACTERS/RATCHETZOMBIE/DATA/TEXTURES/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    175 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    127 02] .. 
+-r-xr-xr-x   1    0    0       5456 Feb  4 2008 [  55792 00] RZOMBIEBODYLO.GIM 
+-r-xr-xr-x   1    0    0       5456 Feb  4 2008 [  55808 00] RZOMBIECLOTHLO.GIM 
+
+Directory listing of /PSP_GAME/USRDIR/ART/CHARACTERS/RATCHET/DATA/TEXTURES/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    176 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    128 02] .. 
+-r-xr-xr-x   1    0    0       9040 Jul  2 2007 [  55344 00] RATCHETT_BODY.GIM 
+-r-xr-xr-x   1    0    0       9552 Jul 25 2007 [  55360 00] RATCHETT_BODY_JAIL.GIM 
+-r-xr-xr-x   1    0    0       5456 Feb  6 2008 [  55376 00] RATCHETT_PANTS_JAIL.GIM 
+-r-xr-xr-x   1    0    0       5456 Jul 31 2007 [  55392 00] RATCHETT_PANTS_NAKED.GIM 
+-r-xr-xr-x   1    0    0       5456 Aug  3 2007 [  55408 00] TOWELNSUDS_LOREZ.GIM 
+
+Directory listing of /PSP_GAME/USRDIR/ART/CHARACTERS/ZONI/DATA/TEXTURES/
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    177 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 24 2008 [    132 02] .. 
+-r-xr-xr-x   1    0    0      17744 Apr 11 2008 [  56000 00] ZONI.GIM 
+=============================================================== 
+Generated on Sun 07/08/2022 at 13:43:37.02 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

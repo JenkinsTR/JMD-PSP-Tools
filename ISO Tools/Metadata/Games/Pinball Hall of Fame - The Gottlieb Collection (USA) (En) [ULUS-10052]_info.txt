@@ -1,0 +1,107 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Pinball Hall of Fame - The Gottlieb Collection   
+Title ID: ULUS-10052 
+Region: USA  
+Languages: En  
+Volume Creation Date: 2005-10-29 16:48:30 
+Volume Size: 251 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: ULUS10052
+Volume set id: 1
+Publisher id: CRAVE ENTERTAINMENT
+Data preparer id: FARSIGHT STUDIOS
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 128976
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Oct 29 2005 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 29 2005 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct 29 2005 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Oct 29 2005 [     30 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Oct 29 2005 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 29 2005 [     22 02] .. 
+-r-xr-xr-x   1    0    0      15314 Oct 20 2005 [  51904 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     509952 Oct 20 2005 [  51920 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 Oct 20 2005 [  52176 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      62791 Oct 20 2005 [  51872 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Oct 29 2005 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Oct 29 2005 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Oct 29 2005 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 29 2005 [     23 02] .. 
+-r-xr-xr-x   1    0    0    1504332 Oct 29 2005 [ 128240 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    1504672 Oct 29 2005 [     32 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Oct 29 2005 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Oct 29 2005 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 29 2005 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct 29 2005 [     27 02] GameShare 
+dr-xr-xr-x   1    0    0       2048 Oct 29 2005 [     28 02] Module 
+-r-xr-xr-x   1    0    0  155740160 Oct 29 2005 [  52192 00] Resource.rez 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Oct 29 2005 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 29 2005 [     24 02] .. 
+-r-xr-xr-x   1    0    0   13182464 Oct 29 2005 [   4880 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    3536480 Oct 29 2005 [    784 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       1772 Oct 29 2005 [    768 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/GameShare/
+dr-xr-xr-x   1    0    0       2048 Oct 29 2005 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 29 2005 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct 29 2005 [     29 02] SCEA 
+
+Directory listing of /PSP_GAME/USRDIR/Module/
+dr-xr-xr-x   1    0    0       2048 Oct 29 2005 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 29 2005 [     25 02] .. 
+-r-xr-xr-x   1    0    0       3200 Aug  8 2005 [  21264 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0      20288 Aug 14 2005 [  21280 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0      46160 Aug 14 2005 [  21296 00] mpeg.prx 
+-r-xr-xr-x   1    0    0       5792 Aug  8 2005 [  21328 00] mpegbase.prx 
+-r-xr-xr-x   1    0    0       6400 Aug  8 2005 [  21344 00] sc_sascore.prx 
+-r-xr-xr-x   1    0    0       4016 Aug  8 2005 [  21360 00] videocodec.prx 
+
+Directory listing of /PSP_GAME/USRDIR/GameShare/SCEA/
+dr-xr-xr-x   1    0    0       2048 Oct 29 2005 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 29 2005 [     27 02] .. 
+-r-xr-xr-x   1    0    0    6590720 Oct 26 2005 [  21376 00] table1.dat 
+-r-xr-xr-x   1    0    0    7721216 Oct 26 2005 [  41664 00] table11.dat 
+-r-xr-xr-x   1    0    0    6729984 Oct 26 2005 [  45440 00] table12.dat 
+-r-xr-xr-x   1    0    0    6420736 Oct 26 2005 [  48736 00] table13.dat 
+-r-xr-xr-x   1    0    0    6807808 Oct 26 2005 [  24608 00] table3.dat 
+-r-xr-xr-x   1    0    0    5462272 Oct 26 2005 [  27936 00] table4.dat 
+-r-xr-xr-x   1    0    0    7303424 Oct 26 2005 [  30608 00] table6.dat 
+-r-xr-xr-x   1    0    0    7514368 Oct 26 2005 [  34176 00] table7.dat 
+-r-xr-xr-x   1    0    0    7774464 Oct 26 2005 [  37856 00] table8.dat 
+=============================================================== 
+Generated on Mon 08/08/2022 at 15:46:38.32 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

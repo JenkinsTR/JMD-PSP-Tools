@@ -1,0 +1,380 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Miami Vice - The Game   
+Title ID: ULUS-10109 
+Region: USA  
+Languages: v1.01  
+Volume Creation Date: 2006-04-01 13:52:03 
+Volume Size: 330 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: MIAMIVICE
+Volume set id: 1
+Publisher id: VIVENDI
+Data preparer id: REBELLION
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 169248
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Apr  1 2006 [     49 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     22 02] .. 
+-r-xr-xr-x   1    0    0       9013 Mar 18 2006 [  23152 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        472 Mar 28 2006 [  23136 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     162846 Mar 18 2006 [  23168 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     23 02] .. 
+-r-xr-xr-x   1    0    0    5271516 Apr  1 2006 [  23248 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    5271856 Apr  1 2006 [     64 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     27 02] ENVS 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     28 02] FMV 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     29 02] GRAPHICS 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     30 02] KMODULE 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     31 02] MISC 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     32 02] MODULE 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     33 02] PSPCHARS 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     34 02] SOUNDS 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     24 02] .. 
+-r-xr-xr-x   1    0    0   14809632 Apr  1 2006 [   6752 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    3951712 Apr  1 2006 [   2656 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       1772 Apr  1 2006 [   2640 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/ENVS/
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0   12034246 Mar 24 2006 [  78464 00] 01_MANSION.PSP 
+-r-xr-xr-x   1    0    0   10419453 Mar 31 2006 [  84352 00] 02_GARAGE.PSP 
+-r-xr-xr-x   1    0    0   11286023 Mar 24 2006 [  89440 00] 03_AIRFIELD.PSP 
+-r-xr-xr-x   1    0    0   10188272 Mar 21 2006 [  94960 00] 04_EVERGLADES.PSP 
+-r-xr-xr-x   1    0    0   11933939 Mar 31 2006 [  99936 00] 05_NIGHTCLUB.PSP 
+-r-xr-xr-x   1    0    0   12418315 Mar 31 2006 [ 105776 00] 06_TRAILERPARK.PSP 
+-r-xr-xr-x   1    0    0   10820653 Mar 21 2006 [ 111840 00] 07_INDUSTRIALESTATE.PSP 
+-r-xr-xr-x   1    0    0   12290739 Mar 24 2006 [ 117136 00] 08_PRIVATEHARBOUR.PSP 
+-r-xr-xr-x   1    0    0   12482190 Mar 30 2006 [ 123152 00] 09_HOTEL.PSP 
+-r-xr-xr-x   1    0    0    9787643 Mar 31 2006 [ 129248 00] 10_STILTSVILLE.PSP 
+-r-xr-xr-x   1    0    0    9092786 Mar 20 2006 [ 134032 00] 11_OFFSHORE.PSP 
+-r-xr-xr-x   1    0    0   11811880 Mar 31 2006 [ 138480 00] 12_CONTAINERSHIP.PSP 
+-r-xr-xr-x   1    0    0      64189 Mar 17 2006 [  27264 00] FRONT_END.PSP 
+-r-xr-xr-x   1    0    0    8275077 Mar 17 2006 [ 144256 00] ICE1.PSP 
+-r-xr-xr-x   1    0    0   11299718 Mar 17 2006 [ 148304 00] ICE2_NIGHTCLUB.PSP 
+-r-xr-xr-x   1    0    0    8746332 Mar 17 2006 [ 153824 00] ICE3_PENTHOUSE.PSP 
+-r-xr-xr-x   1    0    0    4972451 Mar 17 2006 [ 158096 00] MAP.PSP 
+-r-xr-xr-x   1    0    0    1927909 Mar 14 2006 [ 160528 00] TEST_OLI.PSP 
+
+Directory listing of /PSP_GAME/USRDIR/FMV/
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0     911360 Nov 22 2005 [  28976 00] REBELLION.PMF 
+-r-xr-xr-x   1    0    0    1949696 Feb  3 2006 [  28016 00] SIERRALOGO.PMF 
+-r-xr-xr-x   1    0    0    1376256 Mar 15 2006 [  27344 00] UNIVERSAL.PMF 
+
+Directory listing of /PSP_GAME/USRDIR/GRAPHICS/
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0     732328 Mar 15 2006 [  29424 00] 3DMAP.ASR 
+-r-xr-xr-x   1    0    0      66748 Sep 19 2005 [  26480 00] BEAMS.ASR 
+-r-xr-xr-x   1    0    0       5688 Mar 16 2006 [  29792 00] BUTTONS.ASR 
+-r-xr-xr-x   1    0    0      74720 Mar 30 2006 [  26688 00] FONTS.ASR 
+-r-xr-xr-x   1    0    0      66628 Mar 16 2006 [  27296 00] FRONTEND.ASR 
+-r-xr-xr-x   1    0    0     116196 Feb 21 2006 [  26736 00] GFX.ASR 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     35 02] HACKING 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     36 02] HUD 
+-r-xr-xr-x   1    0    0      52440 Mar 15 2006 [  29888 00] ICE.ASR 
+-r-xr-xr-x   1    0    0       9013 Mar 18 2006 [  29920 00] ICON0.PNG 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     37 02] MAPS 
+-r-xr-xr-x   1    0    0     442696 Mar 18 2006 [  26800 00] MENUS.ASR 
+-r-xr-xr-x   1    0    0       9022 Mar 18 2006 [  29936 00] NEWDATA.PNG 
+-r-xr-xr-x   1    0    0      66644 Feb 17 2006 [  27040 00] PFX_HACKING.ASR 
+-r-xr-xr-x   1    0    0     345196 Feb 17 2006 [  27088 00] PFX_NORMAL.ASR 
+-r-xr-xr-x   1    0    0     162846 Mar 18 2006 [  29952 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     38 02] SPECIALFX 
+
+Directory listing of /PSP_GAME/USRDIR/KMODULE/
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0       3264 Dec  8 2005 [  25824 00] AUDIOCODEC.PRX 
+-r-xr-xr-x   1    0    0       5808 Jun 13 2005 [  25840 00] MPEGBASE.PRX 
+-r-xr-xr-x   1    0    0       6864 Dec  8 2005 [  25856 00] SC_SASCORE.PRX 
+-r-xr-xr-x   1    0    0       3808 Jun 13 2005 [  25872 00] VIDEOCODEC.PRX 
+
+Directory listing of /PSP_GAME/USRDIR/MISC/
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     31 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0      25104 Mar 31 2006 [  26528 00] AMERICAN.ASR 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     39 02] CSTEXT 
+-r-xr-xr-x   1    0    0       8178 Mar 31 2006 [  26592 00] MV_CREDITS_AMERICAN.ASR 
+-r-xr-xr-x   1    0    0       5936 Mar 31 2006 [  26560 00] MV_HINTS_AMERICAN.ASR 
+-r-xr-xr-x   1    0    0       3354 Mar 31 2006 [  26576 00] MV_OBJECT_AMERICAN.ASR 
+-r-xr-xr-x   1    0    0       5748 Mar 13 2006 [  27024 00] NPCTEMPS.ASR 
+
+Directory listing of /PSP_GAME/USRDIR/MODULE/
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     32 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0      10128 Dec  8 2005 [  25888 00] LIBATRAC3PLUS.PRX 
+-r-xr-xr-x   1    0    0      43068 Jun 13 2005 [  25904 00] MPEG.PRX 
+
+Directory listing of /PSP_GAME/USRDIR/PSPCHARS/
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     33 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0     460292 Mar 27 2006 [ 161472 00] CROCKETT.ASR 
+-r-xr-xr-x   1    0    0     457404 Mar 27 2006 [ 161936 00] CROCKETT_ARMOUR.ASR 
+-r-xr-xr-x   1    0    0     399736 Mar 27 2006 [ 162384 00] CROCKETT_ARMOUR_LOW.ASR 
+-r-xr-xr-x   1    0    0     465944 Mar 27 2006 [ 162800 00] CROCKETT_CHEAT.ASR 
+-r-xr-xr-x   1    0    0     393404 Mar 27 2006 [ 163264 00] CROCKETT_CHEAT_LOW.ASR 
+-r-xr-xr-x   1    0    0      62384 Mar 27 2006 [ 163680 00] CROCKETT_LOW.ASR 
+-r-xr-xr-x   1    0    0     462184 Mar 27 2006 [ 163904 00] CROCKETT_REPUTATION.ASR 
+-r-xr-xr-x   1    0    0     394344 Mar 27 2006 [ 164368 00] CROCKETT_REPUTATION_LOW.ASR 
+-r-xr-xr-x   1    0    0     456872 Mar 27 2006 [ 161712 00] TUBBS.ASR 
+-r-xr-xr-x   1    0    0     457884 Mar 27 2006 [ 162160 00] TUBBS_ARMOUR.ASR 
+-r-xr-xr-x   1    0    0     398620 Mar 27 2006 [ 162592 00] TUBBS_ARMOUR_LOW.ASR 
+-r-xr-xr-x   1    0    0     435232 Mar 27 2006 [ 163040 00] TUBBS_CHEAT.ASR 
+-r-xr-xr-x   1    0    0     394072 Mar 27 2006 [ 163472 00] TUBBS_CHEAT_LOW.ASR 
+-r-xr-xr-x   1    0    0     386520 Mar 27 2006 [ 163712 00] TUBBS_LOW.ASR 
+-r-xr-xr-x   1    0    0     454116 Mar 27 2006 [ 164144 00] TUBBS_REPUTATION.ASR 
+-r-xr-xr-x   1    0    0     392880 Mar 27 2006 [ 164576 00] TUBBS_REPUTATION_LOW.ASR 
+
+Directory listing of /PSP_GAME/USRDIR/SOUNDS/
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     34 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0    1571476 Mar 14 2006 [  30096 00] EN_BRIEFINGS.ASR 
+-r-xr-xr-x   1    0    0     298152 Mar 14 2006 [ 164768 00] EN_CCD1.ASR 
+-r-xr-xr-x   1    0    0     222328 Mar 14 2006 [ 164928 00] EN_CCD2.ASR 
+-r-xr-xr-x   1    0    0    1105432 Mar 14 2006 [  25936 00] EN_GMSND.ASR 
+-r-xr-xr-x   1    0    0     587340 Mar 14 2006 [ 165184 00] EN_ICE1.ASR 
+-r-xr-xr-x   1    0    0     523904 Mar 14 2006 [ 165472 00] EN_ICE2.ASR 
+-r-xr-xr-x   1    0    0     570112 Mar 14 2006 [ 165728 00] EN_ICE3.ASR 
+-r-xr-xr-x   1    0    0     720264 Mar 14 2006 [ 166016 00] EN_ICECROCKETT.ASR 
+-r-xr-xr-x   1    0    0     631368 Mar 14 2006 [ 166368 00] EN_ICETUBBS.ASR 
+-r-xr-xr-x   1    0    0     314336 Mar 14 2006 [ 166688 00] EN_MCD1.ASR 
+-r-xr-xr-x   1    0    0     280944 Mar 14 2006 [ 166848 00] EN_MCD2.ASR 
+-r-xr-xr-x   1    0    0     257600 Mar 14 2006 [ 167328 00] EN_WCD1.ASR 
+-r-xr-xr-x   1    0    0     234592 Mar 14 2006 [ 167456 00] EN_WCD2.ASR 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     40 02] MUSIC 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     41 02] SPEECH 
+
+Directory listing of /PSP_GAME/USRDIR/GRAPHICS/HACKING/
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     35 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0      66748 Mar  9 2006 [  29808 00] HACKING_BACKDROP.ASR 
+-r-xr-xr-x   1    0    0      18084 Mar 15 2006 [  29856 00] HACKING_HUD.ASR 
+
+Directory listing of /PSP_GAME/USRDIR/GRAPHICS/HUD/
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     36 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0      34684 Mar 16 2006 [  26608 00] HUD.ASR 
+-r-xr-xr-x   1    0    0      66732 Jan 21 2006 [  26640 00] HUD_SNIPER.ASR 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     42 02] ICE 
+
+Directory listing of /PSP_GAME/USRDIR/GRAPHICS/MAPS/
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     37 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0      66632 Mar 22 2006 [ 167824 00] 01.ASR 
+-r-xr-xr-x   1    0    0      66632 Mar 22 2006 [ 168224 00] 02.ASR 
+-r-xr-xr-x   1    0    0      66632 Mar  2 2006 [ 168272 00] 03.ASR 
+-r-xr-xr-x   1    0    0      66632 Mar 22 2006 [ 168320 00] 05.ASR 
+-r-xr-xr-x   1    0    0      66632 Mar  2 2006 [ 168368 00] 06.ASR 
+-r-xr-xr-x   1    0    0      66632 Mar 31 2006 [ 168416 00] 07.ASR 
+-r-xr-xr-x   1    0    0      66632 Mar  2 2006 [ 168464 00] 09.ASR 
+-r-xr-xr-x   1    0    0      66632 Mar  2 2006 [ 168912 00] 10.ASR 
+-r-xr-xr-x   1    0    0      66632 Mar  2 2006 [ 168960 00] 12.ASR 
+
+Directory listing of /PSP_GAME/USRDIR/GRAPHICS/SPECIALFX/
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     38 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0      66744 Feb  3 2006 [  30032 00] HACK_BACKDROP.ASR 
+-r-xr-xr-x   1    0    0       5308 Feb  1 2006 [  30080 00] HACK_SCANLINES.ASR 
+
+Directory listing of /PSP_GAME/USRDIR/MISC/CSTEXT/
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     39 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     31 02] .. 
+-r-xr-xr-x   1    0    0      16720 Mar 31 2006 [  26544 00] CS_AM.ASR 
+
+Directory listing of /PSP_GAME/USRDIR/SOUNDS/MUSIC/
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     40 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     34 02] .. 
+-r-xr-xr-x   1    0    0    3323612 Feb 20 2006 [  30864 00] BOATS.AT3 
+-r-xr-xr-x   1    0    0     212204 Feb 21 2006 [  78048 00] FAILIURE.AT3 
+-r-xr-xr-x   1    0    0    1504532 Jan 11 2006 [  32496 00] HACKING_01.AT3 
+-r-xr-xr-x   1    0    0    2052116 Jan 27 2006 [  33232 00] JOHN_CLEASBY_HIP_HOP_MENU.AT3 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     43 02] MAP 
+-r-xr-xr-x   1    0    0    2654756 Jan 31 2006 [  39520 00] MIAMI_VICE_MAIN_THEME_01.AT3 
+dr-xr-xr-x   1    0    0       6144 Apr  1 2006 [     44 02] MMUSIC 
+-r-xr-xr-x   1    0    0     616940 Feb 10 2006 [  78160 00] SUCCESS.AT3 
+-r-xr-xr-x   1    0    0    2462060 Dec 20 2005 [  72512 00] TOM_BIBLE_HIP_HOP_MENU_01.AT3 
+-r-xr-xr-x   1    0    0    2539436 Jan  6 2006 [  73728 00] TOM_BIBLE_REGGAETON_MENU_01.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUNDS/SPEECH/
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     41 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     34 02] .. 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     47 02] ENGLISH 
+
+Directory listing of /PSP_GAME/USRDIR/GRAPHICS/HUD/ICE/
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     42 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     36 02] .. 
+-r-xr-xr-x   1    0    0       2208 Feb  3 2006 [  29872 00] HUD_ICE.ASR 
+
+Directory listing of /PSP_GAME/USRDIR/SOUNDS/MUSIC/MAP/
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     43 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     40 02] .. 
+-r-xr-xr-x   1    0    0    2569940 Mar 14 2006 [  34240 00] JOHN_CLEASBY_HIP_HOP_MAP.AT3 
+-r-xr-xr-x   1    0    0    2654756 Feb 10 2006 [  35504 00] MIAMI_VICE_MAIN_THEME_MAP.AT3 
+-r-xr-xr-x   1    0    0    2979140 Mar  9 2006 [  36816 00] TOM_BIBLE_HIP_HOP_MAP.AT3 
+-r-xr-xr-x   1    0    0    2539436 Feb 10 2006 [  38272 00] TOM_BIBLE_REGGAETON_MAP.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUNDS/MUSIC/MMUSIC/
+dr-xr-xr-x   1    0    0       6144 Apr  1 2006 [     44 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     40 02] .. 
+-r-xr-xr-x   1    0    0     578252 Jan 11 2006 [  40832 00] 01AM1_LP.AT3 
+-r-xr-xr-x   1    0    0     193604 Jan 11 2006 [  41120 00] 01TN1INT.AT3 
+-r-xr-xr-x   1    0    0     193604 Jan 11 2006 [  43008 00] 01TN1OUT.AT3 
+-r-xr-xr-x   1    0    0    3653948 Jan  9 2006 [  41216 00] 01TN1_LP.AT3 
+-r-xr-xr-x   1    0    0     431684 Jan 10 2006 [  43104 00] 02AC1OUT.AT3 
+-r-xr-xr-x   1    0    0    3200108 Jan 10 2006 [  43328 00] 02AC1_LP.AT3 
+-r-xr-xr-x   1    0    0     124412 Jan 10 2006 [  44896 00] 02AM1AC1.AT3 
+-r-xr-xr-x   1    0    0     247916 Jan 10 2006 [  44960 00] 02AM1INT.AT3 
+-r-xr-xr-x   1    0    0    2707580 Jan 10 2006 [  45088 00] 02AM1_LP.AT3 
+-r-xr-xr-x   1    0    0     154916 Jan 10 2006 [  46416 00] 03AC1AM1.AT3 
+-r-xr-xr-x   1    0    0    2154044 Jan 10 2006 [  46496 00] 03AC1_LP.AT3 
+-r-xr-xr-x   1    0    0    1385492 Jan 10 2006 [  47552 00] 03AM1_LP.AT3 
+-r-xr-xr-x   1    0    0    1667468 Jan 12 2006 [  49008 00] 04AC1_LP.AT3 
+-r-xr-xr-x   1    0    0    1667468 Jan 12 2006 [  49824 00] 04AC2_LP.AT3 
+-r-xr-xr-x   1    0    0     129620 Jan 12 2006 [  48944 00] 04AM1AC1.AT3 
+-r-xr-xr-x   1    0    0     129620 Jan 12 2006 [  48240 00] 04AM1INT.AT3 
+-r-xr-xr-x   1    0    0     642236 Jan 12 2006 [  48304 00] 04AM1_LP.AT3 
+-r-xr-xr-x   1    0    0     642236 Jan 12 2006 [  48624 00] 04AM2_LP.AT3 
+-r-xr-xr-x   1    0    0    2954588 Mar  9 2006 [  50640 00] 05_CLUB01_LOOP.AT3 
+-r-xr-xr-x   1    0    0     247172 Feb  1 2006 [  52096 00] 05_CLUB01_TO_SUB01.AT3 
+-r-xr-xr-x   1    0    0     493436 Feb  1 2006 [  52224 00] 05_SUB01_LOOP.AT3 
+-r-xr-xr-x   1    0    0     124412 Feb  1 2006 [  52480 00] 05_SUB01_TO_CLUB01.AT3 
+-r-xr-xr-x   1    0    0    1477748 Feb  1 2006 [  52544 00] 05_SUB02_LOOP.AT3 
+-r-xr-xr-x   1    0    0     124412 Feb  1 2006 [  53280 00] 05_SUB02_TO_CLUB01.AT3 
+-r-xr-xr-x   1    0    0    3077348 Jan 12 2006 [  53872 00] 06AC1_LP.AT3 
+-r-xr-xr-x   1    0    0    3077348 Jan 12 2006 [  55376 00] 06AC2_LP.AT3 
+-r-xr-xr-x   1    0    0    1078220 Jan 12 2006 [  53344 00] 06AM1_LP.AT3 
+-r-xr-xr-x   1    0    0    1399628 Jan 24 2006 [  58272 00] 07AC1_LP.AT3 
+-r-xr-xr-x   1    0    0    1399628 Jan 24 2006 [  58960 00] 07AC2_LP.AT3 
+-r-xr-xr-x   1    0    0     281396 Jan 24 2006 [  56880 00] 07AM1INT.AT3 
+-r-xr-xr-x   1    0    0    1259756 Jan 24 2006 [  57024 00] 07AM1_LP.AT3 
+-r-xr-xr-x   1    0    0    1259756 Jan 24 2006 [  57648 00] 07AM2_LP.AT3 
+-r-xr-xr-x   1    0    0    1411532 Feb  1 2006 [  60544 00] 08AC1_LP.AT3 
+-r-xr-xr-x   1    0    0    1411532 Feb  1 2006 [  61248 00] 08AC2_LP.AT3 
+-r-xr-xr-x   1    0    0     257588 Feb  1 2006 [  60416 00] 08AM1AC1.AT3 
+-r-xr-xr-x   1    0    0     257588 Feb  1 2006 [  59648 00] 08AM1INT.AT3 
+-r-xr-xr-x   1    0    0    1282820 Feb  1 2006 [  59776 00] 08AM1_LP.AT3 
+-r-xr-xr-x   1    0    0    1282820 Feb  1 2006 [  61952 00] 08AM2_LP.AT3 
+-r-xr-xr-x   1    0    0     103580 Mar  2 2006 [  66096 00] 09AC1AM1.AT3 
+-r-xr-xr-x   1    0    0    1539500 Mar 14 2006 [  65344 00] 09AC1_LP.AT3 
+-r-xr-xr-x   1    0    0    1539500 Mar 14 2006 [  66160 00] 09AC2_LP.AT3 
+-r-xr-xr-x   1    0    0    1744100 Mar 14 2006 [  66912 00] 09AC3_LP.AT3 
+-r-xr-xr-x   1    0    0    1744100 Mar 14 2006 [  67776 00] 09AC4_LP.AT3 
+-r-xr-xr-x   1    0    0     103580 Mar  1 2006 [  63104 00] 09AM1AC1.AT3 
+-r-xr-xr-x   1    0    0    1026884 Feb  3 2006 [  62592 00] 09AM1_LP.AT3 
+-r-xr-xr-x   1    0    0    1436828 Feb 21 2006 [  63168 00] 09AM2_LP.AT3 
+-r-xr-xr-x   1    0    0     103580 Mar  7 2006 [  64576 00] 09AM3AC3.AT3 
+-r-xr-xr-x   1    0    0    1436828 Mar  8 2006 [  63872 00] 09AM3_LP.AT3 
+-r-xr-xr-x   1    0    0    1436828 Mar  8 2006 [  64640 00] 09AM4_LP.AT3 
+-r-xr-xr-x   1    0    0      62660 Mar 13 2006 [  68768 00] G1_GREEN_INTRO.AT3 
+-r-xr-xr-x   1    0    0     186164 Mar 13 2006 [  68800 00] G1_GREEN_LOOP.AT3 
+-r-xr-xr-x   1    0    0     247172 Mar 13 2006 [  68640 00] G1_INTRO.AT3 
+-r-xr-xr-x   1    0    0      62660 Mar 13 2006 [  69024 00] G1_RED_INTRO.AT3 
+-r-xr-xr-x   1    0    0     186164 Mar 13 2006 [  69056 00] G1_RED_LOOP.AT3 
+-r-xr-xr-x   1    0    0     370676 Mar 13 2006 [  69152 00] G1_TO_G2.AT3 
+-r-xr-xr-x   1    0    0      62660 Mar 13 2006 [  68896 00] G1_YELLOW_INTRO.AT3 
+-r-xr-xr-x   1    0    0     186164 Mar 13 2006 [  68928 00] G1_YELLOW_LOOP.AT3 
+-r-xr-xr-x   1    0    0      62660 Mar 13 2006 [  69344 00] G2_GREEN_INTRO.AT3 
+-r-xr-xr-x   1    0    0     186164 Mar 13 2006 [  69376 00] G2_GREEN_LOOP.AT3 
+-r-xr-xr-x   1    0    0     124412 Mar 13 2006 [  69728 00] G2_OUTRO.AT3 
+-r-xr-xr-x   1    0    0      62660 Mar 13 2006 [  69600 00] G2_RED_INTRO.AT3 
+-r-xr-xr-x   1    0    0     186164 Mar 13 2006 [  69632 00] G2_RED_LOOP.AT3 
+-r-xr-xr-x   1    0    0      62660 Mar 13 2006 [  69472 00] G2_YELLOW_INTRO.AT3 
+-r-xr-xr-x   1    0    0     186164 Mar 13 2006 [  69504 00] G2_YELLOW_LOOP.AT3 
+-r-xr-xr-x   1    0    0      62660 Mar 13 2006 [  69824 00] G3_GREEN_INTRO.AT3 
+-r-xr-xr-x   1    0    0     431684 Mar 13 2006 [  69856 00] G3_GREEN_LOOP.AT3 
+-r-xr-xr-x   1    0    0      62660 Mar 13 2006 [  69792 00] G3_INTRO.AT3 
+-r-xr-xr-x   1    0    0     124412 Mar 13 2006 [  70336 00] G3_OUTRO.AT3 
+-r-xr-xr-x   1    0    0      62660 Mar 13 2006 [  70208 00] G3_RED_INTRO.AT3 
+-r-xr-xr-x   1    0    0     186164 Mar 13 2006 [  70240 00] G3_RED_LOOP.AT3 
+-r-xr-xr-x   1    0    0      62660 Mar 13 2006 [  70080 00] G3_YELLOW_INTRO.AT3 
+-r-xr-xr-x   1    0    0     186164 Mar 13 2006 [  70112 00] G3_YELLOW_LOOP.AT3 
+-r-xr-xr-x   1    0    0     840140 Feb 16 2006 [  71504 00] HACKING_ACTION.AT3 
+-r-xr-xr-x   1    0    0     106556 Feb 16 2006 [  71920 00] HACKING_ACTION_OUTRO.AT3 
+-r-xr-xr-x   1    0    0     840140 Feb 16 2006 [  70432 00] HACKING_AMBIENT.AT3 
+-r-xr-xr-x   1    0    0     106556 Feb 16 2006 [  70848 00] HACKING_AMBIENT_OUTRO.AT3 
+-r-xr-xr-x   1    0    0     141524 Feb 16 2006 [  70912 00] HACKING_AMBIENT_TO_TENSION.AT3 
+-r-xr-xr-x   1    0    0      36620 Feb 16 2006 [  70400 00] HACKING_INTRO.AT3 
+-r-xr-xr-x   1    0    0     910076 Feb 16 2006 [  70992 00] HACKING_TENSION.AT3 
+-r-xr-xr-x   1    0    0     106556 Feb 16 2006 [  71440 00] HACKING_TENSION_OUTRO.AT3 
+-r-xr-xr-x   1    0    0     124412 Jan 24 2006 [  72448 00] I1AC1_LP.AT3 
+-r-xr-xr-x   1    0    0      62660 Jan 24 2006 [  72080 00] I1AM1TN1.AT3 
+-r-xr-xr-x   1    0    0     186164 Jan 24 2006 [  71984 00] I1AM1_LP.AT3 
+-r-xr-xr-x   1    0    0      62660 Jan 24 2006 [  72416 00] I1TN1AC1.AT3 
+-r-xr-xr-x   1    0    0     308924 Jan 24 2006 [  72112 00] I1TN1INT.AT3 
+-r-xr-xr-x   1    0    0      93908 Jan 24 2006 [  72368 00] I1TN1OUT.AT3 
+-r-xr-xr-x   1    0    0     186164 Jan 24 2006 [  72272 00] I1TN1_LP.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUNDS/SPEECH/ENGLISH/
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     47 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     41 02] .. 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     48 02] CUTSCENE 
+
+Directory listing of /PSP_GAME/USRDIR/SOUNDS/SPEECH/ENGLISH/CUTSCENE/
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     48 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2006 [     47 02] .. 
+-r-xr-xr-x   1    0    0     691340 Mar 15 2006 [ 167872 00] CS01_LVL1INTRO.AT3 
+-r-xr-xr-x   1    0    0     691340 Mar 15 2006 [  74976 00] CS01_OUTRO.AT3 
+-r-xr-xr-x   1    0    0     462932 Mar 15 2006 [ 167584 00] CS04_INTRO.AT3 
+-r-xr-xr-x   1    0    0     387044 Mar 15 2006 [  75328 00] CS04_OUTRO.AT3 
+-r-xr-xr-x   1    0    0    2280524 Mar 15 2006 [  75520 00] CS05_OUTRO.AT3 
+-r-xr-xr-x   1    0    0     250148 Mar 15 2006 [  76640 00] CS07_OUTRO.AT3 
+-r-xr-xr-x   1    0    0     129620 Mar 15 2006 [  76768 00] CS07_OUTRO_PART2.AT3 
+-r-xr-xr-x   1    0    0     667532 Mar 15 2006 [ 166992 00] CS08_INTRO.AT3 
+-r-xr-xr-x   1    0    0     373652 Mar 15 2006 [  76832 00] CS08_OUTRO.AT3 
+-r-xr-xr-x   1    0    0     802940 Mar 15 2006 [ 168512 00] CS09_INTRO.AT3 
+-r-xr-xr-x   1    0    0     287348 Mar 15 2006 [ 165040 00] CS11_INTRO.AT3 
+-r-xr-xr-x   1    0    0     719612 Mar 15 2006 [  77024 00] CS12_GAME_OUTRO.AT3 
+-r-xr-xr-x   1    0    0     465164 Mar 15 2006 [ 169008 00] CS12_INTRO.AT3 
+-r-xr-xr-x   1    0    0     571556 Mar 15 2006 [  77376 00] CS12_OUTRO_PART1.AT3 
+-r-xr-xr-x   1    0    0     770204 Mar 15 2006 [  77664 00] CS12_OUTRO_PART2.AT3 
+=============================================================== 
+Generated on Sun 07/08/2022 at 19:29:04.39 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

@@ -1,0 +1,150 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Gundam Battle Royal   
+Title ID: ULJS-00083 
+Region: JPN  
+Languages:   
+Volume Creation Date: 2006-08-24 21:06:52 
+Volume Size: 654 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: 
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 335184
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Aug 24 2006 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 24 2006 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jul 14 2006 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Jul 14 2006 [     31 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Jul 14 2006 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 24 2006 [     22 02] .. 
+-r-xr-xr-x   1    0    0      33522 Jul 27 2006 [ 335008 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        472 Aug 24 2006 [ 335168 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     233166 Jul 27 2006 [ 335040 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Jul 14 2006 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Jul 14 2006 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 14 2006 [     23 02] .. 
+-r-xr-xr-x   1    0    0    2395704 Aug 24 2006 [  21712 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    2396048 Aug 24 2006 [     32 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Jul 14 2006 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 14 2006 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 Mar 24 2006 [     27 02] data 
+-r-xr-xr-x   1    0    0   61843856 Aug 17 2006 [ 157520 00] fileset.dat 
+-r-xr-xr-x   1    0    0  301094912 Aug 17 2006 [ 187728 00] gundam.dat 
+-r-xr-xr-x   1    0    0     505050 Aug 17 2006 [ 334752 00] gundam.idx 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Jul 14 2006 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 14 2006 [     24 02] .. 
+-r-xr-xr-x   1    0    0   15027936 Jul 14 2006 [   5328 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5089088 Jul 14 2006 [   1232 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Jul 14 2006 [   1216 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/data/
+dr-xr-xr-x   1    0    0       2048 Mar 24 2006 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2006 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 18 2006 [     28 02] movie 
+dr-xr-xr-x   1    0    0       2048 Mar 24 2006 [     29 02] sound 
+
+Directory listing of /PSP_GAME/USRDIR/data/movie/
+dr-xr-xr-x   1    0    0       2048 Jun 18 2006 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 24 2006 [     27 02] .. 
+-r-xr-xr-x   1    0    0    9437184 Jul  4 2006 [  22896 00] m_aeug01.pmf 
+-r-xr-xr-x   1    0    0    9951232 Jul  4 2006 [  27504 00] m_aeug02.pmf 
+-r-xr-xr-x   1    0    0   32413696 Jul 28 2006 [  32368 00] m_ed.pmf 
+-r-xr-xr-x   1    0    0    9431040 Jul 10 2006 [  48208 00] m_efsf01.pmf 
+-r-xr-xr-x   1    0    0    9431040 Jul 13 2006 [  52816 00] m_efsf02.pmf 
+-r-xr-xr-x   1    0    0    9437184 Jun 30 2006 [  57424 00] m_efsf03.pmf 
+-r-xr-xr-x   1    0    0    9426944 Jul 13 2006 [  62032 00] m_efsf04.pmf 
+-r-xr-xr-x   1    0    0    9943040 Jun 30 2006 [  66640 00] m_efsf05.pmf 
+-r-xr-xr-x   1    0    0   66799616 Jun 23 2006 [  71504 00] m_op.pmf 
+-r-xr-xr-x   1    0    0   21291008 Jun 22 2006 [ 104128 00] m_op2.pmf 
+-r-xr-xr-x   1    0    0    9441280 Jul  4 2006 [ 114528 00] m_tita01.pmf 
+-r-xr-xr-x   1    0    0    9947136 Jul  4 2006 [ 119152 00] m_tita02.pmf 
+-r-xr-xr-x   1    0    0    1826816 Jul 26 2006 [ 124016 00] m_title.pmf 
+-r-xr-xr-x   1    0    0    9435136 Jun 11 2006 [ 124912 00] m_zeon01.pmf 
+-r-xr-xr-x   1    0    0    9422848 Jun 11 2006 [ 129520 00] m_zeon02.pmf 
+-r-xr-xr-x   1    0    0    9437184 Jul  8 2006 [ 134128 00] m_zeon03.pmf 
+-r-xr-xr-x   1    0    0    9426944 Jul  8 2006 [ 138736 00] m_zeon04.pmf 
+-r-xr-xr-x   1    0    0    9940992 Jul 13 2006 [ 143344 00] m_zeon05.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/data/sound/
+dr-xr-xr-x   1    0    0       2048 Mar 24 2006 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 24 2006 [     27 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 23 2006 [     30 02] bgm 
+
+Directory listing of /PSP_GAME/USRDIR/data/sound/bgm/
+dr-xr-xr-x   1    0    0       2048 Jun 23 2006 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 24 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     521300 Apr 14 2005 [ 148208 00] bgm02.at3 
+-r-xr-xr-x   1    0    0     422036 Apr 14 2005 [ 148464 00] bgm03.at3 
+-r-xr-xr-x   1    0    0     598756 Apr 14 2005 [ 148672 00] bgm04.at3 
+-r-xr-xr-x   1    0    0     569804 Jun 30 2005 [ 148976 00] bgm05.at3 
+-r-xr-xr-x   1    0    0     757428 Jun 29 2005 [ 149264 00] bgm07.at3 
+-r-xr-xr-x   1    0    0     533708 Jun 24 2005 [ 149648 00] bgm08.at3 
+-r-xr-xr-x   1    0    0     823980 Apr 28 2005 [ 149920 00] bgm09.at3 
+-r-xr-xr-x   1    0    0     842028 Apr 28 2005 [ 150336 00] bgm10.at3 
+-r-xr-xr-x   1    0    0     886020 Apr 28 2005 [ 150752 00] bgm11.at3 
+-r-xr-xr-x   1    0    0     550628 Apr 28 2005 [ 151200 00] bgm12.at3 
+-r-xr-xr-x   1    0    0     952572 Apr 28 2005 [ 151472 00] bgm13.at3 
+-r-xr-xr-x   1    0    0     729604 Apr 28 2005 [ 151952 00] bgm14.at3 
+-r-xr-xr-x   1    0    0     596124 Apr 28 2005 [ 152320 00] bgm15.at3 
+-r-xr-xr-x   1    0    0     726220 Apr 28 2005 [ 152624 00] bgm16.at3 
+-r-xr-xr-x   1    0    0    1140196 Apr 28 2005 [ 152992 00] bgm17.at3 
+-r-xr-xr-x   1    0    0     676212 Apr 28 2005 [ 153552 00] bgm18.at3 
+-r-xr-xr-x   1    0    0     737500 Apr 28 2005 [ 153888 00] bgm19.at3 
+-r-xr-xr-x   1    0    0    1687276 Jul  1 2005 [ 154256 00] bgm20.at3 
+-r-xr-xr-x   1    0    0     734868 Jun 30 2005 [ 155088 00] bgm21.at3 
+-r-xr-xr-x   1    0    0      99736 Jun  1 2005 [ 155456 00] bgm22.at3 
+-r-xr-xr-x   1    0    0     121544 Jun  8 2005 [ 155520 00] bgm23.at3 
+-r-xr-xr-x   1    0    0      38448 Jun  7 2005 [ 155584 00] bgm24.at3 
+-r-xr-xr-x   1    0    0     585528 Jul 17 2005 [ 155616 00] bgm25.at3 
+-r-xr-xr-x   1    0    0      57248 Jun 27 2005 [ 155904 00] bgm26.at3 
+-r-xr-xr-x   1    0    0      36192 Jun 12 2006 [ 155936 00] bgm27.at3 
+-r-xr-xr-x   1    0    0     516412 Jun 22 2006 [ 155968 00] bgm28.at3 
+-r-xr-xr-x   1    0    0     469036 Jun  8 2006 [ 156224 00] bgm29.at3 
+-r-xr-xr-x   1    0    0     422036 Jun  8 2006 [ 156464 00] bgm30.at3 
+-r-xr-xr-x   1    0    0     602892 Jun 15 2006 [ 156672 00] bgm31.at3 
+-r-xr-xr-x   1    0    0     389700 Jun 12 2006 [ 156976 00] bgm32.at3 
+-r-xr-xr-x   1    0    0     503252 Jun 16 2006 [ 157168 00] bgm33.at3 
+-r-xr-xr-x   1    0    0      39200 Jun 21 2006 [ 157424 00] bgm34.at3 
+-r-xr-xr-x   1    0    0      44088 Jun 21 2006 [ 157456 00] bgm35.at3 
+-r-xr-xr-x   1    0    0      38824 Jun 21 2006 [ 157488 00] bgm36.at3 
+=============================================================== 
+Generated on Sun 07/08/2022 at 19:29:00.46 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

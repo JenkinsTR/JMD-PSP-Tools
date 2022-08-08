@@ -1,0 +1,127 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Super Monkey Ball Adventure   
+Title ID: ULUS-10132 
+Region: USA  
+Languages: En  
+Volume Creation Date: 2006-07-19 21:35:06 
+Volume Size: 404 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: SEGA
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 206864
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Jul 19 2006 [     33 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     22 02] .. 
+-r-xr-xr-x   1    0    0      24336 Apr  7 2006 [ 206496 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     401408 Mar  3 2006 [ 206512 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 Jul 19 2006 [ 206720 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     185450 Apr  7 2006 [ 206736 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0      48292 Mar  3 2006 [ 206832 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     23 02] .. 
+-r-xr-xr-x   1    0    0    5508752 Jul 19 2006 [  23248 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    5509088 Jul 19 2006 [     48 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     27 02] FMV 
+-r-xr-xr-x   1    0    0  324411990 Jun 26 2006 [  26720 00] MB.BD 
+-r-xr-xr-x   1    0    0      24692 Jun 26 2006 [ 185136 00] MB.BH 
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     28 02] Music 
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     29 02] SAVEGAME 
+-r-xr-xr-x   1    0    0         11 Nov 30 2005 [  25952 00] command.txt 
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     30 02] fonts 
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     31 02] kmodule 
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     32 02] module 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     24 02] .. 
+-r-xr-xr-x   1    0    0   15027936 Jul 19 2006 [   6864 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5089088 Jul 19 2006 [   2768 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Jul 19 2006 [   2752 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/FMV/
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0    1290240 Apr 21 2006 [  25968 00] tt_ntsc.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/Music/
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0   43190272 Mar 29 2006 [ 185184 00] Music.mb 
+-r-xr-xr-x   1    0    0        976 Mar 27 2006 [ 206288 00] Music.mh 
+
+Directory listing of /PSP_GAME/USRDIR/SAVEGAME/
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0      18009 Mar 29 2006 [ 206304 00] EMPTY.PNG 
+-r-xr-xr-x   1    0    0      24336 Apr  7 2006 [ 206320 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0      94208 Mar  3 2006 [ 206336 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0     127066 Mar  3 2006 [ 206384 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0      68220 Mar  5 2006 [ 206448 00] SND0.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/fonts/
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0       2208 Jul  7 2005 [  26608 00] ariel16.fnt 
+-r-xr-xr-x   1    0    0      16960 Nov 25 2004 [  26624 00] ariel16.ppt 
+
+Directory listing of /PSP_GAME/USRDIR/kmodule/
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     31 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0       3312 Oct 19 2005 [  26640 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0       5392 Oct 19 2005 [  26656 00] mpegbase.prx 
+-r-xr-xr-x   1    0    0       6832 Oct 19 2005 [  26672 00] sc_sascore.prx 
+-r-xr-xr-x   1    0    0      14928 Dec  9 2005 [  26688 00] usbpspcm.prx 
+-r-xr-xr-x   1    0    0       3504 Oct 19 2005 [  26704 00] videocodec.prx 
+
+Directory listing of /PSP_GAME/USRDIR/module/
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     32 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0      10128 Oct 27 2005 [ 185152 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0      23088 Oct 27 2005 [ 185168 00] mpeg.prx 
+=============================================================== 
+Generated on Mon 08/08/2022 at 15:46:46.19 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

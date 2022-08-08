@@ -1,0 +1,576 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Shepherd's Crossing   
+Title ID: ULUS-10499 
+Region: USA  
+Languages: En  
+Volume Creation Date: 2010-02-15 16:52:37 
+Volume Size: 252 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: 
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 129456
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jan 14 2010 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Feb 15 2010 [     59 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Jan 14 2010 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     22 02] .. 
+-r-xr-xr-x   1    0    0      25767 Sep 17 2009 [  57488 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        560 Feb 15 2010 [  57504 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     104046 Sep 16 2009 [  57648 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0     247945 Sep  1 2009 [  57520 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 14 2010 [     23 02] .. 
+-r-xr-xr-x   1    0    0    4227929 Feb 15 2010 [  55408 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    4228272 Feb 15 2010 [    576 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0        752 Feb 15 2010 [     64 00] OPNSSMP.BIN 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 14 2010 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     27 02] PRX 
+-r-xr-xr-x   1    0    0    1273856 Oct  5 2009 [  57760 00] boot.img 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     28 02] common 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     29 02] font 
+-r-xr-xr-x   1    0    0        990 May 19 2008 [  59488 00] game.spec 
+-r-xr-xr-x   1    0    0       2079 Oct  1 2009 [  78768 00] main.nut 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     30 02] misc 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     31 02] module 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     32 02] movie 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     33 02] rule 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     34 02] save_icon 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     35 02] scene 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     36 02] shot_icon 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     37 02] sound 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     24 02] .. 
+-r-xr-xr-x   1    0    0   23372384 Feb 15 2010 [   6768 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5545568 Feb 15 2010 [   2672 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Feb 15 2010 [   2656 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/PRX/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     25 02] .. 
+-r-xr-xr-x   1    0    0      20736 Dec 15 2008 [  57712 00] libfont.prx 
+
+Directory listing of /PSP_GAME/USRDIR/common/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     25 02] .. 
+-r-xr-xr-x   1    0    0    2076160 Sep  1 2009 [  58384 00] chara.img 
+-r-xr-xr-x   1    0    0     136704 Sep 29 2009 [  59408 00] common.img 
+-r-xr-xr-x   1    0    0      19093 Sep 29 2009 [  78704 00] common.spc 
+-r-xr-xr-x   1    0    0      19912 Jan 23 2009 [ 129360 00] resource.spc 
+
+Directory listing of /PSP_GAME/USRDIR/font/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     25 02] .. 
+-r-xr-xr-x   1    0    0      97164 Oct  5 2009 [  78720 00] hitsuji_font.pgf 
+
+Directory listing of /PSP_GAME/USRDIR/misc/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     25 02] .. 
+-r-xr-xr-x   1    0    0       2808 Sep 30 2009 [  78784 00] farm_ctxt.dat 
+-r-xr-xr-x   1    0    0        804 Sep 30 2009 [  78800 00] home_ctxt.dat 
+-r-xr-xr-x   1    0    0       8888 Sep 30 2009 [  78816 00] hunt_ctxt.dat 
+-r-xr-xr-x   1    0    0        104 Sep 30 2009 [  78832 00] init_ctxt.dat 
+-r-xr-xr-x   1    0    0       1180 Sep 30 2009 [  78848 00] misc_ctxt.dat 
+-r-xr-xr-x   1    0    0        304 Sep 30 2009 [  78864 00] save_ctxt.dat 
+-r-xr-xr-x   1    0    0       2076 Sep 30 2009 [  78880 00] stab_ctxt.dat 
+-r-xr-xr-x   1    0    0         52 Jul 30 2008 [  78896 00] test_text.dat 
+-r-xr-xr-x   1    0    0        184 Sep 30 2009 [  78912 00] wrhs_ctxt.dat 
+
+Directory listing of /PSP_GAME/USRDIR/module/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     31 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     25 02] .. 
+-r-xr-xr-x   1    0    0     131072 Jul 24 2008 [  78928 00] jis2ucs.bin 
+-r-xr-xr-x   1    0    0      32128 Dec 15 2008 [  57744 00] libpsmfplayer.prx 
+-r-xr-xr-x   1    0    0       6800 Dec 15 2008 [  57728 00] psmf.prx 
+-r-xr-xr-x   1    0    0     131072 Jul 24 2008 [  78992 00] ucs2jis.bin 
+
+Directory listing of /PSP_GAME/USRDIR/movie/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     32 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     25 02] .. 
+-r-xr-xr-x   1    0    0   15802368 Sep 30 2009 [  79056 00] hitsuji_ED1.pmf 
+-r-xr-xr-x   1    0    0   15806464 Sep 30 2009 [  86784 00] hitsuji_ED2.pmf 
+-r-xr-xr-x   1    0    0   11010048 Sep 28 2009 [  59680 00] hitsuji_OP.pmf 
+-r-xr-xr-x   1    0    0     358400 Jul 28 2008 [  59504 00] success_logo.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/rule/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     33 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     25 02] .. 
+-r-xr-xr-x   1    0    0     110336 Oct  5 2009 [  67712 00] FARM_EVENT.DAT 
+-r-xr-xr-x   1    0    0     886705 Oct  5 2009 [  67264 00] ITEMFUNC.DAT 
+-r-xr-xr-x   1    0    0      32000 Oct  5 2009 [  67776 00] SPC_HNDAZ.DAT 
+-r-xr-xr-x   1    0    0      98560 Oct  5 2009 [  67792 00] SPC_HUNT.DAT 
+-r-xr-xr-x   1    0    0     277248 Oct  5 2009 [  67120 00] SPC_SETUP.DAT 
+-r-xr-xr-x   1    0    0     113920 Oct  5 2009 [  67056 00] TXT_RULE.DAT 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     38 02] spec 
+
+Directory listing of /PSP_GAME/USRDIR/save_icon/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     34 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     25 02] .. 
+-r-xr-xr-x   1    0    0      25767 Sep 17 2009 [  94512 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     247945 Sep  1 2009 [  94528 00] PIC1.PNG 
+
+Directory listing of /PSP_GAME/USRDIR/scene/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     35 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     39 02] diary 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     40 02] farm 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     41 02] home 
+dr-xr-xr-x   1    0    0       4096 Feb 15 2010 [     42 02] hunt 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     44 02] logo 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     45 02] market 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     46 02] stable 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     47 02] title 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     48 02] warehouse 
+
+Directory listing of /PSP_GAME/USRDIR/shot_icon/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     36 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     25 02] .. 
+-r-xr-xr-x   1    0    0       8580 Sep  1 2009 [  78640 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0      96275 Sep  1 2009 [  78656 00] PIC1.PNG 
+
+Directory listing of /PSP_GAME/USRDIR/sound/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     37 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     49 02] bgm 
+-r-xr-xr-x   1    0    0     669488 Jan 13 2009 [ 128992 00] sysse.pbd 
+-r-xr-xr-x   1    0    0         44 May 30 2008 [ 129328 00] sysse.pef 
+-r-xr-xr-x   1    0    0      11768 Jan 13 2009 [ 129344 00] sysse.phd 
+
+Directory listing of /PSP_GAME/USRDIR/rule/spec/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     38 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     33 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     50 02] farm 
+
+Directory listing of /PSP_GAME/USRDIR/scene/diary/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     39 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     35 02] .. 
+-r-xr-xr-x   1    0    0     396032 Sep 17 2009 [  94656 00] dai_bg.dat 
+-r-xr-xr-x   1    0    0      84736 Sep 30 2009 [  94864 00] diary.img 
+-r-xr-xr-x   1    0    0       3576 Sep 30 2009 [  94912 00] diary.spc 
+dr-xr-xr-x   1    0    0       8192 Feb 15 2010 [     51 02] page 
+
+Directory listing of /PSP_GAME/USRDIR/scene/farm/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     40 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     35 02] .. 
+dr-xr-xr-x   1    0    0       6144 Feb 15 2010 [     55 02] event_image 
+-r-xr-xr-x   1    0    0    1422848 Sep 17 2009 [  67952 00] fall1.img 
+-r-xr-xr-x   1    0    0       5770 Sep 17 2009 [  68656 00] fall1.spc 
+-r-xr-xr-x   1    0    0    1407744 Sep 17 2009 [  68672 00] fall2.img 
+-r-xr-xr-x   1    0    0       7120 Sep 17 2009 [  69360 00] fall2.spc 
+-r-xr-xr-x   1    0    0    1082368 Sep 17 2009 [  69376 00] fall3.img 
+-r-xr-xr-x   1    0    0       6895 Sep 17 2009 [  69920 00] fall3.spc 
+-r-xr-xr-x   1    0    0       5280 Sep  1 2009 [  69936 00] mapattr1.txt 
+-r-xr-xr-x   1    0    0       5280 Sep  1 2009 [  69952 00] mapattr2.txt 
+-r-xr-xr-x   1    0    0       5280 Sep  1 2009 [  69968 00] mapattr3.txt 
+-r-xr-xr-x   1    0    0       3188 Sep 17 2009 [  69984 00] route.spr 
+-r-xr-xr-x   1    0    0    1353216 Sep 17 2009 [  70000 00] spring1.img 
+-r-xr-xr-x   1    0    0       5930 Sep 17 2009 [  70672 00] spring1.spc 
+-r-xr-xr-x   1    0    0    1342464 Sep 17 2009 [  70688 00] spring2.img 
+-r-xr-xr-x   1    0    0       7316 Sep 17 2009 [  71344 00] spring2.spc 
+-r-xr-xr-x   1    0    0    1035776 Sep 17 2009 [  71360 00] spring3.img 
+-r-xr-xr-x   1    0    0       7085 Sep 17 2009 [  71872 00] spring3.spc 
+-r-xr-xr-x   1    0    0    1374720 Sep 17 2009 [  71888 00] summer1.img 
+-r-xr-xr-x   1    0    0       5930 Sep 17 2009 [  72560 00] summer1.spc 
+-r-xr-xr-x   1    0    0    1355008 Sep 17 2009 [  72576 00] summer2.img 
+-r-xr-xr-x   1    0    0       7316 Sep 17 2009 [  73248 00] summer2.spc 
+-r-xr-xr-x   1    0    0    1047552 Sep 17 2009 [  73264 00] summer3.img 
+-r-xr-xr-x   1    0    0       7162 Sep 17 2009 [  73776 00] summer3.spc 
+-r-xr-xr-x   1    0    0      34816 Sep 17 2009 [  73792 00] weather.img 
+-r-xr-xr-x   1    0    0       1341 Sep 17 2009 [  73824 00] weather.spc 
+-r-xr-xr-x   1    0    0    1296896 Sep 17 2009 [  73840 00] winter1.img 
+-r-xr-xr-x   1    0    0       6765 Sep 17 2009 [  74480 00] winter1.spc 
+-r-xr-xr-x   1    0    0    1401088 Sep 17 2009 [  74496 00] winter2.img 
+-r-xr-xr-x   1    0    0       8151 Sep 17 2009 [  75184 00] winter2.spc 
+-r-xr-xr-x   1    0    0    1066752 Sep 17 2009 [  75200 00] winter3.img 
+-r-xr-xr-x   1    0    0       7073 Sep 17 2009 [  75728 00] winter3.spc 
+
+Directory listing of /PSP_GAME/USRDIR/scene/home/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     41 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     35 02] .. 
+-r-xr-xr-x   1    0    0     131792 Sep  1 2009 [  75824 00] hom_bg00.gim 
+-r-xr-xr-x   1    0    0     119296 Sep 24 2009 [  75744 00] home.img 
+-r-xr-xr-x   1    0    0       3058 Sep 24 2009 [  75808 00] home.spc 
+
+Directory listing of /PSP_GAME/USRDIR/scene/hunt/
+dr-xr-xr-x   1    0    0       4096 Feb 15 2010 [     42 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     35 02] .. 
+-r-xr-xr-x   1    0    0       1772 Oct  5 2009 [  76320 00] ChrRes.dat 
+-r-xr-xr-x   1    0    0       9940 Oct  5 2009 [  76336 00] Effect.dat 
+-r-xr-xr-x   1    0    0       1724 Oct  5 2009 [  77408 00] Ptn_GH0300.dat 
+-r-xr-xr-x   1    0    0       1724 Oct  5 2009 [  77424 00] Ptn_GH0310.dat 
+-r-xr-xr-x   1    0    0       1524 Oct  5 2009 [  77440 00] Ptn_GH0320.dat 
+-r-xr-xr-x   1    0    0       1724 Oct  5 2009 [  77456 00] Ptn_GH0321.dat 
+-r-xr-xr-x   1    0    0       1724 Oct  5 2009 [  77472 00] Ptn_GH0330.dat 
+-r-xr-xr-x   1    0    0       1724 Oct  5 2009 [  77488 00] Ptn_GH0340.dat 
+-r-xr-xr-x   1    0    0       1724 Oct  5 2009 [  77504 00] Ptn_GH0350.dat 
+-r-xr-xr-x   1    0    0       1724 Oct  5 2009 [  77520 00] Ptn_GH0360.dat 
+-r-xr-xr-x   1    0    0       1724 Oct  5 2009 [  77536 00] Ptn_GH0361.dat 
+-r-xr-xr-x   1    0    0       1724 Oct  5 2009 [  77552 00] Ptn_GH0370.dat 
+-r-xr-xr-x   1    0    0       1724 Oct  5 2009 [  77568 00] Ptn_GH0380.dat 
+-r-xr-xr-x   1    0    0       1724 Oct  5 2009 [  77584 00] Ptn_GH0390.dat 
+-r-xr-xr-x   1    0    0       1724 Oct  5 2009 [  77600 00] Ptn_GH0400.dat 
+-r-xr-xr-x   1    0    0       1724 Oct  5 2009 [  77616 00] Ptn_GH0410.dat 
+-r-xr-xr-x   1    0    0       1804 Oct  5 2009 [  77632 00] Ptn_GH0420.dat 
+-r-xr-xr-x   1    0    0       1724 Oct  5 2009 [  77648 00] Ptn_GH0430.dat 
+-r-xr-xr-x   1    0    0       1724 Oct  5 2009 [  77664 00] Ptn_GH0450.dat 
+-r-xr-xr-x   1    0    0       1324 Oct  5 2009 [  77680 00] Ptn_GH0600.dat 
+-r-xr-xr-x   1    0    0       1324 Oct  5 2009 [  77696 00] Ptn_GH0610.dat 
+-r-xr-xr-x   1    0    0       1324 Oct  5 2009 [  77712 00] Ptn_GH0620.dat 
+-r-xr-xr-x   1    0    0       1324 Oct  5 2009 [  77728 00] Ptn_GH0630.dat 
+-r-xr-xr-x   1    0    0       1324 Oct  5 2009 [  77744 00] Ptn_GH0640.dat 
+-r-xr-xr-x   1    0    0       1724 Oct  5 2009 [  77760 00] Ptn_GH0650.dat 
+-r-xr-xr-x   1    0    0       1324 Oct  5 2009 [  77776 00] Ptn_GH0660.dat 
+-r-xr-xr-x   1    0    0       1324 Oct  5 2009 [  77792 00] Ptn_GH0670.dat 
+-r-xr-xr-x   1    0    0       1324 Oct  5 2009 [  77808 00] Ptn_GH0680.dat 
+-r-xr-xr-x   1    0    0       1724 Oct  5 2009 [  77824 00] Ptn_GH0690.dat 
+-r-xr-xr-x   1    0    0       1724 Oct  5 2009 [  77840 00] Ptn_GH0700.dat 
+-r-xr-xr-x   1    0    0       1324 Oct  5 2009 [  77856 00] Ptn_GH0710.dat 
+-r-xr-xr-x   1    0    0       1404 Oct  5 2009 [  77872 00] Ptn_GH5000.dat 
+-r-xr-xr-x   1    0    0       1404 Oct  5 2009 [  77888 00] Ptn_GH5010.dat 
+-r-xr-xr-x   1    0    0       1504 Oct  5 2009 [  77904 00] Ptn_GH5020.dat 
+-r-xr-xr-x   1    0    0       1404 Oct  5 2009 [  77920 00] Ptn_GH5030.dat 
+-r-xr-xr-x   1    0    0       1404 Oct  5 2009 [  77936 00] Ptn_GH5040.dat 
+-r-xr-xr-x   1    0    0       8804 Oct  5 2009 [  77952 00] Sequence.dat 
+-r-xr-xr-x   1    0    0      46244 Oct  5 2009 [  77968 00] Skill.dat 
+-r-xr-xr-x   1    0    0     778240 Sep  1 2009 [  75904 00] chara_hunt.img 
+-r-xr-xr-x   1    0    0      48705 Sep  1 2009 [  76288 00] chara_hunt.spc 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     58 02] hunt_bg 
+-r-xr-xr-x   1    0    0      47104 Sep 29 2009 [  77312 00] hunt_effect.img 
+-r-xr-xr-x   1    0    0       8702 Sep  1 2008 [  77344 00] hunt_effect.spc 
+-r-xr-xr-x   1    0    0      63232 Sep 29 2009 [  77360 00] hunt_parts.img 
+-r-xr-xr-x   1    0    0       5131 Aug 18 2008 [  77392 00] hunt_parts.spc 
+
+Directory listing of /PSP_GAME/USRDIR/scene/logo/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     44 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     35 02] .. 
+-r-xr-xr-x   1    0    0     131792 Sep 10 2009 [ 129376 00] Graffiti_logo.gim 
+-r-xr-xr-x   1    0    0      24928 Oct  6 2008 [  78000 00] logo_dummy.gim 
+
+Directory listing of /PSP_GAME/USRDIR/scene/market/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     45 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     35 02] .. 
+-r-xr-xr-x   1    0    0     194560 Sep  8 2009 [  78016 00] market.img 
+-r-xr-xr-x   1    0    0       2872 Aug 18 2008 [  78112 00] market.spc 
+
+Directory listing of /PSP_GAME/USRDIR/scene/stable/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     46 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     35 02] .. 
+-r-xr-xr-x   1    0    0       7936 Sep 24 2009 [  78128 00] stable.img 
+-r-xr-xr-x   1    0    0     705280 Sep 24 2009 [  78144 00] stable_bg.img 
+-r-xr-xr-x   1    0    0      14865 Sep 24 2009 [  78496 00] stable_bg.spc 
+
+Directory listing of /PSP_GAME/USRDIR/scene/title/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     47 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     35 02] .. 
+-r-xr-xr-x   1    0    0     466688 Dec 12 2008 [  65136 00] TIT_BG00.IMG 
+-r-xr-xr-x   1    0    0     466944 Dec 12 2008 [  65376 00] TIT_BG01.IMG 
+-r-xr-xr-x   1    0    0     470528 Dec 12 2008 [  65616 00] TIT_BG10.IMG 
+-r-xr-xr-x   1    0    0     455680 Dec 12 2008 [  65856 00] TIT_BG11.IMG 
+-r-xr-xr-x   1    0    0     487936 Dec 12 2008 [  66080 00] TIT_BG20.IMG 
+-r-xr-xr-x   1    0    0     484864 Dec 12 2008 [  66320 00] TIT_BG21.IMG 
+-r-xr-xr-x   1    0    0     480000 Dec 12 2008 [  66560 00] TIT_BG30.IMG 
+-r-xr-xr-x   1    0    0     506880 Dec 12 2008 [  66800 00] TIT_BG31.IMG 
+-r-xr-xr-x   1    0    0     157440 Oct  5 2009 [  65056 00] TIT_PACK.IMG 
+
+Directory listing of /PSP_GAME/USRDIR/scene/warehouse/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     48 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     35 02] .. 
+-r-xr-xr-x   1    0    0     216320 Sep 30 2009 [  78512 00] warehouse.img 
+-r-xr-xr-x   1    0    0        279 Aug 18 2008 [  78624 00] warehouse.spc 
+
+Directory listing of /PSP_GAME/USRDIR/sound/bgm/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     49 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     37 02] .. 
+-r-xr-xr-x   1    0    0    5846564 Nov 25 2008 [ 104048 00] BGM02.at3 
+-r-xr-xr-x   1    0    0    5297764 Nov 25 2008 [ 106912 00] BGM03.at3 
+-r-xr-xr-x   1    0    0    5149924 Nov 25 2008 [ 109504 00] BGM04.at3 
+-r-xr-xr-x   1    0    0    5820804 Nov 25 2008 [ 112032 00] BGM05.at3 
+-r-xr-xr-x   1    0    0    7352964 Nov 25 2008 [ 114880 00] BGM06.at3 
+-r-xr-xr-x   1    0    0    4905764 Nov 25 2008 [ 118480 00] BGM07.at3 
+-r-xr-xr-x   1    0    0    3800324 Nov 25 2008 [ 120880 00] BGM09.at3 
+-r-xr-xr-x   1    0    0    1720484 Nov 25 2008 [ 122736 00] BGM11.at3 
+-r-xr-xr-x   1    0    0    6196004 Nov 25 2008 [ 123584 00] BGM12.at3 
+-r-xr-xr-x   1    0    0    2192004 Nov 25 2008 [ 126624 00] BGM13.at3 
+-r-xr-xr-x   1    0    0    1507684 Jan 14 2009 [ 127696 00] BGM14.at3 
+-r-xr-xr-x   1    0    0     195768 Nov 25 2008 [ 128448 00] e01.at3 
+-r-xr-xr-x   1    0    0     256032 Nov 25 2008 [ 128544 00] e02.at3 
+-r-xr-xr-x   1    0    0      64080 Nov 25 2008 [ 128672 00] e03.at3 
+-r-xr-xr-x   1    0    0     174192 Nov 25 2008 [ 128704 00] e04.at3 
+-r-xr-xr-x   1    0    0     173448 Nov 25 2008 [ 128800 00] e05.at3 
+-r-xr-xr-x   1    0    0     184608 Nov 25 2008 [ 128896 00] e06.at3 
+
+Directory listing of /PSP_GAME/USRDIR/rule/spec/farm/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     50 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     38 02] .. 
+-r-xr-xr-x   1    0    0       2601 Oct  5 2009 [  67856 00] FarmArea00.spc 
+-r-xr-xr-x   1    0    0        175 Oct  5 2009 [  67872 00] FarmArea01.spc 
+-r-xr-xr-x   1    0    0        148 Oct  5 2009 [  67888 00] FarmArea02.spc 
+-r-xr-xr-x   1    0    0        232 Oct  5 2009 [  67904 00] FarmArea10.spc 
+-r-xr-xr-x   1    0    0         67 Oct  5 2009 [  67920 00] FarmArea11.spc 
+-r-xr-xr-x   1    0    0         94 Oct  5 2009 [  67936 00] FarmArea12.spc 
+
+Directory listing of /PSP_GAME/USRDIR/scene/diary/page/
+dr-xr-xr-x   1    0    0       8192 Feb 15 2010 [     51 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     39 02] .. 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  94928 00] DIA_E000.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  94960 00] DIA_E001.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  94992 00] DIA_E002.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  95024 00] DIA_E003.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  95056 00] DIA_E004.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  95088 00] DIA_E005.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  95120 00] DIA_E006.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  95152 00] DIA_E007.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  95184 00] DIA_E008.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  95216 00] DIA_E009.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  95248 00] DIA_E010.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  95280 00] DIA_E011.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  95312 00] DIA_E012.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  95344 00] DIA_E013.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  95376 00] DIA_E014.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  95408 00] DIA_E015.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  95440 00] DIA_E016.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  95472 00] DIA_E017.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  95504 00] DIA_E018.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  95536 00] DIA_E019.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  95568 00] DIA_E020.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  95600 00] DIA_E021.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  95632 00] DIA_E022.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  95664 00] DIA_E023.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  95696 00] DIA_E024.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  95728 00] DIA_E025.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  95760 00] DIA_E026.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  95792 00] DIA_E027.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  95824 00] DIA_E028.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  95856 00] DIA_E029.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  95888 00] DIA_E030.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  95920 00] DIA_E031.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  95952 00] DIA_E032.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  95984 00] DIA_E033.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  96016 00] DIA_E034.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  96048 00] DIA_E035.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  96080 00] DIA_E036.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  96112 00] DIA_E037.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  96144 00] DIA_E038.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  96176 00] DIA_E039.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  96208 00] DIA_E040.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  96240 00] DIA_E041.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  96272 00] DIA_E042.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  96304 00] DIA_E043.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  96336 00] DIA_E044.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  96368 00] DIA_E045.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  96400 00] DIA_E046.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  96432 00] DIA_E047.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  96464 00] DIA_E048.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  96496 00] DIA_E049.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  96528 00] DIA_E050.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  96560 00] DIA_E051.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  96592 00] DIA_E052.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  96624 00] DIA_E053.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  96656 00] DIA_E054.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  96688 00] DIA_E055.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  96720 00] DIA_E056.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  96752 00] DIA_E057.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  96784 00] DIA_E058.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  96816 00] DIA_E059.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  96848 00] DIA_E060.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  96880 00] DIA_E061.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  96912 00] DIA_E062.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  96944 00] DIA_E063.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  96976 00] DIA_E064.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  97008 00] DIA_E065.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  97040 00] DIA_E066.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  97072 00] DIA_E067.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  97104 00] DIA_E068.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  97136 00] DIA_E069.gim 
+-r-xr-xr-x   1    0    0      61136 Sep 24 2009 [  97168 00] DIA_E070.gim 
+-r-xr-xr-x   1    0    0      61136 Sep 24 2009 [  97200 00] DIA_E071.gim 
+-r-xr-xr-x   1    0    0      61136 Sep 24 2009 [  97232 00] DIA_E072.gim 
+-r-xr-xr-x   1    0    0      61136 Sep 24 2009 [  97264 00] DIA_E073.gim 
+-r-xr-xr-x   1    0    0      61136 Sep 24 2009 [  97296 00] DIA_E074.gim 
+-r-xr-xr-x   1    0    0      61136 Sep 24 2009 [  97328 00] DIA_E075.gim 
+-r-xr-xr-x   1    0    0      61136 Sep 24 2009 [  97360 00] DIA_E076.gim 
+-r-xr-xr-x   1    0    0      61136 Sep 24 2009 [  97392 00] DIA_E077.gim 
+-r-xr-xr-x   1    0    0      61136 Sep 24 2009 [  97424 00] DIA_E078.gim 
+-r-xr-xr-x   1    0    0      61136 Sep 24 2009 [  97456 00] DIA_E079.gim 
+-r-xr-xr-x   1    0    0      61136 Sep 24 2009 [  97488 00] DIA_E080.gim 
+-r-xr-xr-x   1    0    0      61136 Sep 24 2009 [  97520 00] DIA_E081.gim 
+-r-xr-xr-x   1    0    0      61136 Sep 24 2009 [  97552 00] DIA_E082.gim 
+-r-xr-xr-x   1    0    0      61136 Sep 24 2009 [  97584 00] DIA_E083.gim 
+-r-xr-xr-x   1    0    0      61136 Sep 24 2009 [  97616 00] DIA_E084.gim 
+-r-xr-xr-x   1    0    0      61136 Sep 24 2009 [  97648 00] DIA_E085.gim 
+-r-xr-xr-x   1    0    0      61136 Sep 24 2009 [  97680 00] DIA_E086.gim 
+-r-xr-xr-x   1    0    0      61136 Sep 24 2009 [  97712 00] DIA_E087.gim 
+-r-xr-xr-x   1    0    0      61136 Sep 24 2009 [  97744 00] DIA_E088.gim 
+-r-xr-xr-x   1    0    0      61136 Sep 24 2009 [  97776 00] DIA_E089.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  97808 00] DIA_G000.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  97840 00] DIA_G001.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  97872 00] DIA_G002.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  97904 00] DIA_G003.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  97936 00] DIA_G004.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  97968 00] DIA_G005.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  98000 00] DIA_G006.gim 
+-r-xr-xr-x   1    0    0      61136 Sep  4 2009 [  98032 00] DIA_G007.gim 
+-r-xr-xr-x   1    0    0      61136 Sep 24 2009 [  98064 00] DIA_G008.gim 
+-r-xr-xr-x   1    0    0      61136 Sep 24 2009 [  98096 00] DIA_V000.gim 
+-r-xr-xr-x   1    0    0      61136 Sep 24 2009 [  98128 00] DIA_V001.gim 
+-r-xr-xr-x   1    0    0      61136 Sep 24 2009 [  98160 00] DIA_V002.gim 
+-r-xr-xr-x   1    0    0      61136 Sep 24 2009 [  98192 00] DIA_V003.gim 
+-r-xr-xr-x   1    0    0      61136 Sep 24 2009 [  98224 00] DIA_V004.gim 
+-r-xr-xr-x   1    0    0      61136 Sep 24 2009 [  98256 00] DIA_V005.gim 
+-r-xr-xr-x   1    0    0      61136 Sep 24 2009 [  98288 00] DIA_V006.gim 
+-r-xr-xr-x   1    0    0      61136 Sep 24 2009 [  98320 00] DIA_V007.gim 
+-r-xr-xr-x   1    0    0      61136 Sep 24 2009 [  98352 00] DIA_V008.gim 
+-r-xr-xr-x   1    0    0      61136 Sep 24 2009 [  98384 00] DIA_V009.gim 
+
+Directory listing of /PSP_GAME/USRDIR/scene/farm/event_image/
+dr-xr-xr-x   1    0    0       6144 Feb 15 2010 [     55 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     40 02] .. 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [  98416 00] EVE_B000.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [  98480 00] EVE_B001.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [  98544 00] EVE_B002.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [  98608 00] EVE_B003.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [  98672 00] EVE_C000.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [  98736 00] EVE_C001.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [  98800 00] EVE_C002.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [  98864 00] EVE_C003.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [  98928 00] EVE_C004.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [  98992 00] EVE_C005.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [  99056 00] EVE_C006.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [  99120 00] EVE_C007.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [  99184 00] EVE_C008.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [  99248 00] EVE_C100.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [  99312 00] EVE_C101.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [  99376 00] EVE_D000.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [  99440 00] EVE_D001.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [  99504 00] EVE_D002.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [  99568 00] EVE_D003.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [  99632 00] EVE_M000.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [  99696 00] EVE_M001.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [  99760 00] EVE_M002.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [  99824 00] EVE_M003.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [  99888 00] EVE_M004.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [  99952 00] EVE_M005.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 100016 00] EVE_T000.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 100080 00] EVE_T001.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 100144 00] EVE_T002.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 100208 00] EVE_T003.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 100272 00] EVE_V000.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 100336 00] EVE_V001.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 100400 00] EVE_V002.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 100464 00] EVE_V003.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 100528 00] EVE_V004.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 100592 00] EVE_V005.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 100656 00] EVE_V006.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 100720 00] EVE_V007.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 100784 00] EVE_V008.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 100848 00] EVE_V009.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 100912 00] EVE_V010.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 100976 00] EVE_V011.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 101040 00] EVE_V012.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 101104 00] EVE_V013.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 101168 00] EVE_V014.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 101232 00] EVE_V015.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 101296 00] EVE_V016.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 101360 00] EVE_V017.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 101424 00] EVE_V018.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 101488 00] EVE_V019.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 101552 00] EVE_V020.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 101616 00] EVE_V021.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 101680 00] EVE_V022.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 101744 00] EVE_V023.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 101808 00] EVE_V024.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 101872 00] EVE_V025.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 101936 00] EVE_V026.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 102000 00] EVE_V027.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 102064 00] EVE_V028.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 102128 00] EVE_V029.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 102192 00] EVE_V030.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 102256 00] EVE_V031.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 102320 00] EVE_V032.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 102384 00] EVE_V033.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 102448 00] EVE_V034.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 102512 00] EVE_V035.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 102576 00] EVE_V036.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 102640 00] EVE_V037.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 102704 00] EVE_V038.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 102768 00] EVE_V039.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 102832 00] EVE_V040.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 102896 00] EVE_V041.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 102960 00] EVE_V042.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 103024 00] EVE_V043.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 103088 00] EVE_V044.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 103152 00] EVE_V045.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 103216 00] EVE_V046.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 103280 00] EVE_V047.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 103344 00] EVE_V048.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 103408 00] EVE_V049.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 103472 00] EVE_V050.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 103536 00] EVE_V051.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 103600 00] EVE_V052.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 103664 00] EVE_V053.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 103728 00] EVE_V054.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 103792 00] EVE_V055.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 103856 00] EVE_V056.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 103920 00] EVE_V057.gim 
+-r-xr-xr-x   1    0    0     118808 Sep  4 2009 [ 103984 00] EVE_V058.gim 
+
+Directory listing of /PSP_GAME/USRDIR/scene/hunt/hunt_bg/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2010 [     58 02] . 
+dr-xr-xr-x   1    0    0       4096 Feb 15 2010 [     42 02] .. 
+-r-xr-xr-x   1    0    0     131864 Sep  7 2009 [  76352 00] HNT_B000.gim 
+-r-xr-xr-x   1    0    0     131864 Sep  7 2009 [  76432 00] HNT_B001.gim 
+-r-xr-xr-x   1    0    0     131864 Sep  7 2009 [  76512 00] HNT_B002.gim 
+-r-xr-xr-x   1    0    0     131864 Sep  7 2009 [  76592 00] HNT_B003.gim 
+-r-xr-xr-x   1    0    0     131864 Sep  7 2009 [  76672 00] HNT_B004.gim 
+-r-xr-xr-x   1    0    0     131864 Sep  7 2009 [  76752 00] HNT_B005.gim 
+-r-xr-xr-x   1    0    0     131864 Sep  7 2009 [  76832 00] HNT_B006.gim 
+-r-xr-xr-x   1    0    0     131864 Sep  7 2009 [  76912 00] HNT_B007.gim 
+-r-xr-xr-x   1    0    0     131864 Sep  7 2009 [  76992 00] HNT_B008.gim 
+-r-xr-xr-x   1    0    0     131864 Sep  7 2009 [  77072 00] HNT_B009.gim 
+-r-xr-xr-x   1    0    0     131864 Sep  7 2009 [  77152 00] HNT_B010.gim 
+-r-xr-xr-x   1    0    0     131864 Sep  7 2009 [  77232 00] HNT_B011.gim 
+=============================================================== 
+Generated on Mon 08/08/2022 at 15:46:43.78 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

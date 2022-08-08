@@ -1,0 +1,89 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Rengoku   
+Title ID: ULUS-10013 
+Region: EUR  
+Languages: En,Fr,De,Es,It  
+Volume Creation Date: 2005-03-04 13:36:50 
+Volume Size: 170 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: 
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: KONAMI
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 87392
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Mar  4 2005 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  4 2005 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Dec 16 2004 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Dec 16 2004 [    613 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Dec 16 2004 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  4 2005 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Dec 16 2004 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Dec 16 2004 [     25 02] USRDIR 
+-r-xr-xr-x   1    0    0      19110 Jan  6 2005 [  87104 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0      59368 Jan 13 2005 [  87120 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0     276315 Dec 13 2004 [  87152 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0      74924 Dec 13 2004 [  87296 00] SND0.AT3 
+-r-xr-xr-x   1    0    0      43008 Dec 13 2004 [  87344 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 Mar  2 2005 [  87376 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Dec 16 2004 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 16 2004 [     23 02] .. 
+-r-xr-xr-x   1    0    0    1189712 Mar  4 2005 [     32 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0    1189365 Mar  4 2005 [    624 00] BOOT.BIN 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Dec 16 2004 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 16 2004 [     23 02] .. 
+-r-xr-xr-x   1    0    0      19480 Nov 16 2004 [   2432 00] pspnet_adhoc_matching.prx 
+-r-xr-xr-x   1    0    0      36416 Nov 18 2004 [   2400 00] pspnet_adhocctl.prx 
+-r-xr-xr-x   1    0    0       5920 Nov 16 2004 [   1280 00] sc_sascore.prx 
+-r-xr-xr-x   1    0    0       3808 Nov 16 2004 [   2224 00] videocodec.prx 
+-r-xr-xr-x   1    0    0       3232 Nov 16 2004 [   1248 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0      36048 Mar  2 2005 [   1216 00] DATA000.BIN 
+-r-xr-xr-x   1    0    0  111685632 Mar  2 2005 [   2448 00] DATA001.BIN 
+-r-xr-xr-x   1    0    0    8171520 Feb 16 2005 [  56992 00] DATA002.BIN 
+-r-xr-xr-x   1    0    0   53106688 Mar  2 2005 [  60992 00] DATA003.BIN 
+-r-xr-xr-x   1    0    0     335872 Feb 13 2005 [  86928 00] DATA004.BIN 
+-r-xr-xr-x   1    0    0    1892352 Feb 13 2005 [   1296 00] DATA005.BIN 
+-r-xr-xr-x   1    0    0      10832 Nov 16 2004 [   2288 00] ifhandle.prx 
+-r-xr-xr-x   1    0    0      19524 Nov 16 2004 [   1264 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0      15216 Nov 16 2004 [   2304 00] memab.prx 
+-r-xr-xr-x   1    0    0      39624 Nov 16 2004 [   2256 00] mpeg.prx 
+-r-xr-xr-x   1    0    0       9552 Nov 18 2004 [   2240 00] mpegbase.prx 
+-r-xr-xr-x   1    0    0      60256 Nov 16 2004 [   2336 00] pspnet.prx 
+-r-xr-xr-x   1    0    0      40140 Nov 16 2004 [   2368 00] pspnet_adhoc.prx 
+-r-xr-xr-x   1    0    0      10816 Nov 16 2004 [   2320 00] pspnet_adhoc_auth.prx 
+=============================================================== 
+Generated on Sun 07/08/2022 at 19:29:09.67 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

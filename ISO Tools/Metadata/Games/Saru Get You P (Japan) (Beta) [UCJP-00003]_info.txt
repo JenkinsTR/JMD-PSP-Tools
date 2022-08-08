@@ -1,0 +1,465 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Saru Get You P   
+Title ID: UCJP-00003 
+Region: Japan  
+Languages: Beta  
+Volume Creation Date: 2005-01-20 09:14:46 
+Volume Size: 571 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: 
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: SCE
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 292816
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Jan 20 2005 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 20 2005 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jan 20 2005 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Jan 20 2005 [   2081 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Jan 20 2005 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 20 2005 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jan 20 2005 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0      24576 Jan 20 2005 [     25 02] USRDIR 
+-r-xr-xr-x   1    0    0      15475 Jan 20 2005 [   2304 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0      38912 Jan 20 2005 [   2320 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 Jan 20 2005 [   2352 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      26896 Jan 20 2005 [   2368 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0        887 Jan 20 2005 [   2384 00] PIC1.PNG 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Jan 20 2005 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 20 2005 [     23 02] .. 
+-r-xr-xr-x   1    0    0    4162368 Jan 20 2005 [     48 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0    4162028 Jan 20 2005 [   2400 00] BOOT.BIN 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0      24576 Jan 20 2005 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 20 2005 [     23 02] .. 
+-r-xr-xr-x   1    0    0       3232 Jan 20 2005 [   2096 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0      10832 Jan 20 2005 [   2112 00] ifhandle.prx 
+-r-xr-xr-x   1    0    0      19524 Jan 20 2005 [   2128 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0      15216 Jan 20 2005 [   2144 00] memab.prx 
+-r-xr-xr-x   1    0    0      60256 Jan 20 2005 [   2160 00] pspnet.prx 
+-r-xr-xr-x   1    0    0      40140 Jan 20 2005 [   2192 00] pspnet_adhoc.prx 
+-r-xr-xr-x   1    0    0      36416 Jan 20 2005 [   2224 00] pspnet_adhocctl.prx 
+-r-xr-xr-x   1    0    0      10816 Jan 20 2005 [   2256 00] pspnet_adhoc_auth.prx 
+-r-xr-xr-x   1    0    0      19480 Jan 20 2005 [   2272 00] pspnet_adhoc_matching.prx 
+-r-xr-xr-x   1    0    0       5920 Jan 20 2005 [   2288 00] sc_sascore.prx 
+-r-xr-xr-x   1    0    0      36592 Dec 12 2004 [   4448 00] zuka.bin 
+-r-xr-xr-x   1    0    0     286368 Jan  5 2005 [   4480 00] zk_natsumi.bin 
+-r-xr-xr-x   1    0    0     212688 Dec 12 2004 [   4624 00] zk_hakase.bin 
+-r-xr-xr-x   1    0    0    3242416 Jan 13 2005 [   4736 00] zakobook.bin 
+-r-xr-xr-x   1    0    0      42784 Dec 12 2004 [   6320 00] yukidal.bin 
+-r-xr-xr-x   1    0    0       4864 Dec 12 2004 [   6352 00] yougan.bin 
+-r-xr-xr-x   1    0    0     320272 Dec 12 2004 [   6368 00] warun.bin 
+-r-xr-xr-x   1    0    0       9168 Dec 12 2004 [   6528 00] virus.bin 
+-r-xr-xr-x   1    0    0      39280 Dec 10 2004 [   6544 00] utubo.bin 
+-r-xr-xr-x   1    0    0      18448 Dec 10 2004 [   6576 00] uisup.bin 
+-r-xr-xr-x   1    0    0     165056 Dec 16 2004 [   6592 00] uddhi.bin 
+-r-xr-xr-x   1    0    0      42288 Dec 12 2004 [   6688 00] turtle.bin 
+-r-xr-xr-x   1    0    0     125104 Dec 10 2004 [   6720 00] torikera.bin 
+-r-xr-xr-x   1    0    0     387424 Dec 17 2004 [   6784 00] thirano.bin 
+-r-xr-xr-x   1    0    0      46720 Dec 10 2004 [   6976 00] teburan.bin 
+-r-xr-xr-x   1    0    0     492880 Jan 19 2005 [   7008 00] spector.bin 
+-r-xr-xr-x   1    0    0      66880 Dec 12 2004 [   7264 00] shira.bin 
+-r-xr-xr-x   1    0    0      51264 Dec 12 2004 [   7312 00] shark.bin 
+-r-xr-xr-x   1    0    0     445056 Dec 17 2004 [   7344 00] sarurobo.bin 
+-r-xr-xr-x   1    0    0      51520 Dec 12 2004 [   7568 00] sarupole.bin 
+-r-xr-xr-x   1    0    0      24784 Dec 12 2004 [   7600 00] saruiwa.bin 
+-r-xr-xr-x   1    0    0      15312 Dec 12 2004 [   7616 00] rettun.bin 
+-r-xr-xr-x   1    0    0     362768 Jan 17 2005 [   7632 00] raiza.bin 
+-r-xr-xr-x   1    0    0      75744 Dec 10 2004 [   7824 00] puterano.bin 
+-r-xr-xr-x   1    0    0      48176 Dec 12 2004 [   7872 00] patrola.bin 
+-r-xr-xr-x   1    0    0      89360 Jan 14 2005 [   7904 00] parasai.bin 
+-r-xr-xr-x   1    0    0      15920 Dec 12 2004 [   7952 00] palky.bin 
+-r-xr-xr-x   1    0    0      66832 Dec 12 2004 [   7968 00] onion.bin 
+-r-xr-xr-x   1    0    0     100928 Dec 12 2004 [   8016 00] nattun2.bin 
+-r-xr-xr-x   1    0    0      24672 Dec 12 2004 [   8080 00] nattun.bin 
+-r-xr-xr-x   1    0    0      84720 Dec 10 2004 [   8096 00] namazu.bin 
+-r-xr-xr-x   1    0    0      35632 Dec 12 2004 [   8144 00] mozomozo.bin 
+-r-xr-xr-x   1    0    0      35184 Dec 12 2004 [   8176 00] mekaguri.bin 
+-r-xr-xr-x   1    0    0     408064 Dec 12 2004 [   8208 00] megaton.bin 
+-r-xr-xr-x   1    0    0     202992 Dec 12 2004 [   8416 00] manmos.bin 
+-r-xr-xr-x   1    0    0      71328 Dec 10 2004 [   8528 00] kurage.bin 
+-r-xr-xr-x   1    0    0      61248 Dec 10 2004 [   8576 00] kurabun.bin 
+-r-xr-xr-x   1    0    0      82592 Dec 12 2004 [   8608 00] kubinaga.bin 
+-r-xr-xr-x   1    0    0      44304 Dec 12 2004 [   8656 00] kozakana.bin 
+-r-xr-xr-x   1    0    0      61760 Dec 12 2004 [   8688 00] kooccya.bin 
+-r-xr-xr-x   1    0    0      27744 Dec 12 2004 [   8720 00] koiru.bin 
+-r-xr-xr-x   1    0    0      37840 Dec 10 2004 [   8736 00] katte.bin 
+-r-xr-xr-x   1    0    0     155296 Dec 12 2004 [   8768 00] kapucya2.bin 
+-r-xr-xr-x   1    0    0      61984 Dec 12 2004 [   8848 00] kapucya.bin 
+-r-xr-xr-x   1    0    0      48384 Dec 12 2004 [   8880 00] ino.bin 
+-r-xr-xr-x   1    0    0     275216 Dec 12 2004 [   8912 00] hsaru.bin 
+-r-xr-xr-x   1    0    0      56864 Dec 12 2004 [   9056 00] higabon.bin 
+-r-xr-xr-x   1    0    0      58512 Dec 12 2004 [   9088 00] hhead.bin 
+-r-xr-xr-x   1    0    0      90080 Dec 12 2004 [   9120 00] hanzo.bin 
+-r-xr-xr-x   1    0    0      35424 Dec 12 2004 [   9168 00] guriknt.bin 
+-r-xr-xr-x   1    0    0      33296 Dec 12 2004 [   9200 00] guri.bin 
+-r-xr-xr-x   1    0    0    1086128 Jan 14 2005 [   9232 00] goriac.bin 
+-r-xr-xr-x   1    0    0     218528 Dec 12 2004 [   9776 00] garuru.bin 
+-r-xr-xr-x   1    0    0      72944 Dec 12 2004 [   9888 00] gabure.bin 
+-r-xr-xr-x   1    0    0      86080 Dec 12 2004 [   9936 00] erere.bin 
+-r-xr-xr-x   1    0    0      34224 Dec 10 2004 [   9984 00] ereki.bin 
+-r-xr-xr-x   1    0    0      36624 Dec 15 2004 [  10016 00] dozuka.bin 
+-r-xr-xr-x   1    0    0     391008 Jan 14 2005 [  10048 00] dantyo.bin 
+-r-xr-xr-x   1    0    0      52800 Dec 12 2004 [  10240 00] crow.bin 
+-r-xr-xr-x   1    0    0      51520 Dec 12 2004 [  10272 00] chaipoo.bin 
+-r-xr-xr-x   1    0    0     225360 Dec 22 2004 [  10304 00] canon_f.bin 
+-r-xr-xr-x   1    0    0     143024 Dec 17 2004 [  10416 00] canon_c.bin 
+-r-xr-xr-x   1    0    0      24016 Dec 12 2004 [  10496 00] buu.bin 
+-r-xr-xr-x   1    0    0     304176 Dec 28 2004 [  10512 00] boss_hk.bin 
+-r-xr-xr-x   1    0    0     267808 Dec 22 2004 [  10672 00] boss_bc.bin 
+-r-xr-xr-x   1    0    0     224768 Dec 12 2004 [  10816 00] boost.bin 
+-r-xr-xr-x   1    0    0      10032 Dec 10 2004 [  10928 00] bibi.bin 
+-r-xr-xr-x   1    0    0      28448 Dec 12 2004 [  10944 00] balloon.bin 
+-r-xr-xr-x   1    0    0      62960 Dec 12 2004 [  10960 00] achicya.bin 
+-r-xr-xr-x   1    0    0      13232 Jan 17 2005 [  10992 00] sbook_us.bin 
+-r-xr-xr-x   1    0    0    1245328 Jan 11 2005 [  11008 00] maptr07.bin 
+-r-xr-xr-x   1    0    0    1220752 Jan 13 2005 [  11632 00] maptr06.bin 
+-r-xr-xr-x   1    0    0    1220272 Jan 19 2005 [  12240 00] maptr05.bin 
+-r-xr-xr-x   1    0    0    1233824 Jan 13 2005 [  12848 00] maptr04.bin 
+-r-xr-xr-x   1    0    0    1192224 Jan 19 2005 [  13456 00] maptr03.bin 
+-r-xr-xr-x   1    0    0    1212416 Jan 13 2005 [  14048 00] maptr02.bin 
+-r-xr-xr-x   1    0    0    1448656 Jan 19 2005 [  14640 00] maptr01.bin 
+-r-xr-xr-x   1    0    0    1411792 Jan 12 2005 [  15360 00] maptr00.bin 
+-r-xr-xr-x   1    0    0    2454368 Jan 19 2005 [  16064 00] mapts.bin 
+-r-xr-xr-x   1    0    0    1325056 Jan 11 2005 [  17264 00] mapmg.bin 
+-r-xr-xr-x   1    0    0     527344 Jan 11 2005 [  17920 00] mapgimt.bin 
+-r-xr-xr-x   1    0    0     750704 Jan 13 2005 [  18192 00] mapcolt.bin 
+-r-xr-xr-x   1    0    0    1404656 Jan 19 2005 [  18560 00] map918.bin 
+-r-xr-xr-x   1    0    0    1790736 Jan 19 2005 [  19248 00] map917.bin 
+-r-xr-xr-x   1    0    0    2123952 Jan 17 2005 [  20128 00] map916.bin 
+-r-xr-xr-x   1    0    0    2162352 Jan 19 2005 [  21168 00] map915.bin 
+-r-xr-xr-x   1    0    0    1967024 Jan 20 2005 [  22224 00] map914.bin 
+-r-xr-xr-x   1    0    0    2784864 Jan 19 2005 [  23200 00] map913.bin 
+-r-xr-xr-x   1    0    0    1861616 Jan 20 2005 [  24560 00] map912.bin 
+-r-xr-xr-x   1    0    0    1716656 Jan 19 2005 [  25472 00] map911.bin 
+-r-xr-xr-x   1    0    0    1923472 Jan 19 2005 [  26320 00] map910.bin 
+-r-xr-xr-x   1    0    0    1871808 Jan 19 2005 [  27264 00] map909.bin 
+-r-xr-xr-x   1    0    0    2975232 Jan 19 2005 [  28192 00] map908.bin 
+-r-xr-xr-x   1    0    0    1488688 Jan 19 2005 [  29648 00] map907.bin 
+-r-xr-xr-x   1    0    0    1555872 Jan 19 2005 [  30384 00] map906.bin 
+-r-xr-xr-x   1    0    0    2169408 Jan 20 2005 [  31152 00] map905.bin 
+-r-xr-xr-x   1    0    0    3022544 Jan 19 2005 [  32224 00] map904.bin 
+-r-xr-xr-x   1    0    0    2156016 Jan 19 2005 [  33712 00] map903.bin 
+-r-xr-xr-x   1    0    0    1714416 Jan 19 2005 [  34768 00] map902.bin 
+-r-xr-xr-x   1    0    0    1902176 Jan 19 2005 [  35616 00] map901.bin 
+-r-xr-xr-x   1    0    0    1173712 Jan 17 2005 [  36560 00] map836.bin 
+-r-xr-xr-x   1    0    0    1460336 Jan 17 2005 [  37136 00] map835.bin 
+-r-xr-xr-x   1    0    0    2160624 Jan 19 2005 [  37856 00] map834.bin 
+-r-xr-xr-x   1    0    0    1674752 Jan 17 2005 [  38912 00] map833.bin 
+-r-xr-xr-x   1    0    0    1572192 Jan 19 2005 [  39744 00] map832.bin 
+-r-xr-xr-x   1    0    0    1544832 Jan 19 2005 [  40512 00] map831.bin 
+-r-xr-xr-x   1    0    0    1273408 Jan 19 2005 [  41280 00] map827.bin 
+-r-xr-xr-x   1    0    0    1410592 Jan 19 2005 [  41904 00] map826.bin 
+-r-xr-xr-x   1    0    0    1633488 Jan 19 2005 [  42608 00] map825.bin 
+-r-xr-xr-x   1    0    0    1943360 Jan 20 2005 [  43408 00] map824.bin 
+-r-xr-xr-x   1    0    0    1646592 Jan 19 2005 [  44368 00] map823.bin 
+-r-xr-xr-x   1    0    0    1485776 Jan 19 2005 [  45184 00] map822.bin 
+-r-xr-xr-x   1    0    0    2019312 Jan 17 2005 [  45920 00] map821.bin 
+-r-xr-xr-x   1    0    0    2165744 Jan 19 2005 [  46912 00] map813.bin 
+-r-xr-xr-x   1    0    0    1917536 Jan 19 2005 [  47984 00] map812.bin 
+-r-xr-xr-x   1    0    0     829680 Jan 19 2005 [  48928 00] map811.bin 
+-r-xr-xr-x   1    0    0    2088608 Jan 17 2005 [  49344 00] map737.bin 
+-r-xr-xr-x   1    0    0    1888752 Jan 19 2005 [  50368 00] map736.bin 
+-r-xr-xr-x   1    0    0    2184032 Jan 17 2005 [  51296 00] map735.bin 
+-r-xr-xr-x   1    0    0    1829440 Jan 19 2005 [  52368 00] map734.bin 
+-r-xr-xr-x   1    0    0    2705856 Jan 17 2005 [  53264 00] map733.bin 
+-r-xr-xr-x   1    0    0    2118192 Jan 17 2005 [  54592 00] map732.bin 
+-r-xr-xr-x   1    0    0    2609488 Jan 20 2005 [  55632 00] map731.bin 
+-r-xr-xr-x   1    0    0    1863040 Jan 17 2005 [  56912 00] map725.bin 
+-r-xr-xr-x   1    0    0    1860832 Jan 19 2005 [  57824 00] map724.bin 
+-r-xr-xr-x   1    0    0    1910240 Jan 17 2005 [  58736 00] map723.bin 
+-r-xr-xr-x   1    0    0    1388096 Jan 19 2005 [  59680 00] map722.bin 
+-r-xr-xr-x   1    0    0    1849168 Jan 19 2005 [  60368 00] map721.bin 
+-r-xr-xr-x   1    0    0    2040608 Jan 19 2005 [  61280 00] map713.bin 
+-r-xr-xr-x   1    0    0    1736000 Jan 19 2005 [  62288 00] map712.bin 
+-r-xr-xr-x   1    0    0    1927632 Jan 19 2005 [  63136 00] map711.bin 
+-r-xr-xr-x   1    0    0    2375536 Jan 19 2005 [  64080 00] map611.bin 
+-r-xr-xr-x   1    0    0    1723840 Jan 19 2005 [  65248 00] map533.bin 
+-r-xr-xr-x   1    0    0    1857536 Jan 19 2005 [  66096 00] map532.bin 
+-r-xr-xr-x   1    0    0    1878896 Jan 19 2005 [  67008 00] map531.bin 
+-r-xr-xr-x   1    0    0    2083136 Jan 19 2005 [  67936 00] map523.bin 
+-r-xr-xr-x   1    0    0    1647488 Jan 19 2005 [  68960 00] map522.bin 
+-r-xr-xr-x   1    0    0    1473520 Jan 19 2005 [  69776 00] map521.bin 
+-r-xr-xr-x   1    0    0    2684544 Jan 20 2005 [  70496 00] map511.bin 
+-r-xr-xr-x   1    0    0    1565808 Jan 19 2005 [  71808 00] map435.bin 
+-r-xr-xr-x   1    0    0    1365408 Jan 17 2005 [  72576 00] map434.bin 
+-r-xr-xr-x   1    0    0    1525232 Jan 19 2005 [  73248 00] map433.bin 
+-r-xr-xr-x   1    0    0    2045536 Jan 19 2005 [  74000 00] map432.bin 
+-r-xr-xr-x   1    0    0    1177920 Jan 20 2005 [  75008 00] map431.bin 
+-r-xr-xr-x   1    0    0    2113136 Jan 17 2005 [  75584 00] map422.bin 
+-r-xr-xr-x   1    0    0    2261200 Jan 17 2005 [  76624 00] map421.bin 
+-r-xr-xr-x   1    0    0    1604432 Jan 19 2005 [  77744 00] map412.bin 
+-r-xr-xr-x   1    0    0    2571488 Jan 17 2005 [  78528 00] map411.bin 
+-r-xr-xr-x   1    0    0    3152192 Jan 19 2005 [  79792 00] map311.bin 
+-r-xr-xr-x   1    0    0    1343632 Jan 19 2005 [  81344 00] map234.bin 
+-r-xr-xr-x   1    0    0    1771808 Jan 19 2005 [  82016 00] map233.bin 
+-r-xr-xr-x   1    0    0    1189024 Jan 19 2005 [  82896 00] map232.bin 
+-r-xr-xr-x   1    0    0    1854832 Jan 17 2005 [  83488 00] map231.bin 
+-r-xr-xr-x   1    0    0    2187536 Jan 19 2005 [  84400 00] map224.bin 
+-r-xr-xr-x   1    0    0    1782736 Jan 17 2005 [  85472 00] map223.bin 
+-r-xr-xr-x   1    0    0    1651760 Jan 19 2005 [  86352 00] map222.bin 
+-r-xr-xr-x   1    0    0    2287744 Jan 17 2005 [  87168 00] map221.bin 
+-r-xr-xr-x   1    0    0    1961696 Jan 17 2005 [  88288 00] map215.bin 
+-r-xr-xr-x   1    0    0    1624416 Jan 17 2005 [  89248 00] map214.bin 
+-r-xr-xr-x   1    0    0    1638368 Jan 17 2005 [  90048 00] map213.bin 
+-r-xr-xr-x   1    0    0    2239248 Jan 20 2005 [  90848 00] map212.bin 
+-r-xr-xr-x   1    0    0    2128096 Jan 17 2005 [  91952 00] map211.bin 
+-r-xr-xr-x   1    0    0    1195328 Jan 19 2005 [  92992 00] map133.bin 
+-r-xr-xr-x   1    0    0    1416448 Jan 19 2005 [  93584 00] map132.bin 
+-r-xr-xr-x   1    0    0    1677936 Jan 19 2005 [  94288 00] map131.bin 
+-r-xr-xr-x   1    0    0    2051232 Jan 19 2005 [  95120 00] map121.bin 
+-r-xr-xr-x   1    0    0    1755840 Jan 20 2005 [  96128 00] map111.bin 
+-r-xr-xr-x   1    0    0    1387008 Jan 19 2005 [  96992 00] map1000.bin 
+-r-xr-xr-x   1    0    0     879424 Dec 10 2004 [  97680 00] go_ch.bin 
+-r-xr-xr-x   1    0    0     910960 Dec 12 2004 [  98112 00] go_sp.bin 
+-r-xr-xr-x   1    0    0     890576 Dec 12 2004 [  98560 00] go_na.bin 
+-r-xr-xr-x   1    0    0     944640 Dec 12 2004 [  99008 00] go_hi.bin 
+-r-xr-xr-x   1    0    0     848768 Dec 12 2004 [  99472 00] go_ha.bin 
+-r-xr-xr-x   1    0    0     796144 Nov 25 2004 [  99888 00] evsr2.bin 
+-r-xr-xr-x   1    0    0    1025008 Jan 14 2005 [ 100288 00] evsr1.bin 
+-r-xr-xr-x   1    0    0    5993872 Jan  5 2005 [ 100800 00] evop.bin 
+-r-xr-xr-x   1    0    0    2470672 Jan  5 2005 [ 103728 00] evmeka.bin 
+-r-xr-xr-x   1    0    0    2354144 Jan 14 2005 [ 104944 00] evcle.bin 
+-r-xr-xr-x   1    0    0    6781264 Dec 10 2004 [ 106096 00] evatc4.bin 
+-r-xr-xr-x   1    0    0    3736608 Dec 10 2004 [ 109408 00] evatc3.bin 
+-r-xr-xr-x   1    0    0    2130880 Jan 14 2005 [ 111248 00] evatc2.bin 
+-r-xr-xr-x   1    0    0    2768480 Jan 12 2005 [ 112304 00] evatc1.bin 
+-r-xr-xr-x   1    0    0    5050560 Dec 13 2004 [ 113664 00] evadv.bin 
+-r-xr-xr-x   1    0    0    4080512 Dec 10 2004 [ 116144 00] ev76.bin 
+-r-xr-xr-x   1    0    0    4857040 Dec 10 2004 [ 118144 00] ev75.bin 
+-r-xr-xr-x   1    0    0     918112 Jan 14 2005 [ 120528 00] ev74.bin 
+-r-xr-xr-x   1    0    0    2840016 Dec 10 2004 [ 120992 00] ev732.bin 
+-r-xr-xr-x   1    0    0    3881824 Jan  5 2005 [ 122384 00] ev73.bin 
+-r-xr-xr-x   1    0    0    2249136 Dec 10 2004 [ 124288 00] ev72.bin 
+-r-xr-xr-x   1    0    0    2511872 Dec 10 2004 [ 125392 00] ev71.bin 
+-r-xr-xr-x   1    0    0    6800384 Dec 10 2004 [ 126624 00] ev70.bin 
+-r-xr-xr-x   1    0    0    3349904 Dec 22 2004 [ 129952 00] ev69.bin 
+-r-xr-xr-x   1    0    0    2659104 Dec 10 2004 [ 131600 00] ev66.bin 
+-r-xr-xr-x   1    0    0    2512304 Dec 10 2004 [ 132912 00] ev65.bin 
+-r-xr-xr-x   1    0    0    1685456 Dec 10 2004 [ 134144 00] ev64.bin 
+-r-xr-xr-x   1    0    0    2515856 Dec 10 2004 [ 134976 00] ev63.bin 
+-r-xr-xr-x   1    0    0    1640688 Dec 13 2004 [ 136208 00] ev62.bin 
+-r-xr-xr-x   1    0    0    1677168 Jan 12 2005 [ 137024 00] ev61.bin 
+-r-xr-xr-x   1    0    0    1809888 Dec 10 2004 [ 137856 00] ev60.bin 
+-r-xr-xr-x   1    0    0    4747808 Dec 10 2004 [ 138752 00] ev40.bin 
+-r-xr-xr-x   1    0    0    2698656 Jan  5 2005 [ 141072 00] ev37.bin 
+-r-xr-xr-x   1    0    0    1594768 Jan 14 2005 [ 142400 00] ev36.bin 
+-r-xr-xr-x   1    0    0    5853536 Jan  5 2005 [ 143184 00] ev35.bin 
+-r-xr-xr-x   1    0    0    3495888 Jan  5 2005 [ 146048 00] ev33.bin 
+-r-xr-xr-x   1    0    0    1320096 Jan  5 2005 [ 147760 00] ev28.bin 
+-r-xr-xr-x   1    0    0    1352048 Jan 12 2005 [ 148416 00] ev21.bin 
+-r-xr-xr-x   1    0    0    1184528 Jan 14 2005 [ 149088 00] ev17.bin 
+-r-xr-xr-x   1    0    0    5362656 Dec 13 2004 [ 149680 00] ev09.bin 
+-r-xr-xr-x   1    0    0    1999152 Jan  5 2005 [ 152304 00] ev08.bin 
+-r-xr-xr-x   1    0    0    2308624 Jan 14 2005 [ 153296 00] ev02.bin 
+-r-xr-xr-x   1    0    0     233968 Jan 19 2005 [ 154432 00] tual_doc.bin 
+-r-xr-xr-x   1    0    0    2609008 Jan 19 2005 [ 154560 00] tual.bin 
+-r-xr-xr-x   1    0    0    1578512 Dec 12 2004 [ 155840 00] ttlmenu.bin 
+-r-xr-xr-x   1    0    0       4864 Dec 10 2004 [ 156624 00] tsu_shin.bin 
+-r-xr-xr-x   1    0    0    2155888 Jan 19 2005 [ 156640 00] boxing.tex 
+-r-xr-xr-x   1    0    0    1793680 Jan 20 2005 [ 157696 00] clrdemo.tex 
+-r-xr-xr-x   1    0    0     797936 Jan 19 2005 [ 158576 00] ev02.tex 
+-r-xr-xr-x   1    0    0     797936 Jan 19 2005 [ 158976 00] ev08.tex 
+-r-xr-xr-x   1    0    0    1645648 Jan 19 2005 [ 159376 00] ev09.tex 
+-r-xr-xr-x   1    0    0     797936 Jan 19 2005 [ 160192 00] ev17.tex 
+-r-xr-xr-x   1    0    0     797936 Jan 19 2005 [ 160592 00] ev21.tex 
+-r-xr-xr-x   1    0    0     797936 Jan 19 2005 [ 160992 00] ev28.tex 
+-r-xr-xr-x   1    0    0    1533776 Jan 19 2005 [ 161392 00] ev33.tex 
+-r-xr-xr-x   1    0    0    1724768 Jan 19 2005 [ 162144 00] ev35.tex 
+-r-xr-xr-x   1    0    0     765824 Jan 19 2005 [ 162992 00] ev36.tex 
+-r-xr-xr-x   1    0    0     840576 Jan 19 2005 [ 163376 00] ev37.tex 
+-r-xr-xr-x   1    0    0    2062112 Jan 19 2005 [ 163792 00] ev40.tex 
+-r-xr-xr-x   1    0    0    1254960 Jan 19 2005 [ 164800 00] ev60.tex 
+-r-xr-xr-x   1    0    0     709648 Jan 19 2005 [ 165424 00] ev61.tex 
+-r-xr-xr-x   1    0    0    1048992 Jan 19 2005 [ 165776 00] ev62.tex 
+-r-xr-xr-x   1    0    0    1056352 Jan 19 2005 [ 166304 00] ev63.tex 
+-r-xr-xr-x   1    0    0    1054960 Jan 19 2005 [ 166832 00] ev64.tex 
+-r-xr-xr-x   1    0    0    1054960 Jan 19 2005 [ 167360 00] ev65.tex 
+-r-xr-xr-x   1    0    0     981616 Jan 19 2005 [ 167888 00] ev66.tex 
+-r-xr-xr-x   1    0    0    1111728 Jan 19 2005 [ 168368 00] ev69.tex 
+-r-xr-xr-x   1    0    0    1218288 Jan 19 2005 [ 168912 00] ev70.tex 
+-r-xr-xr-x   1    0    0    1038768 Jan 19 2005 [ 169520 00] ev71.tex 
+-r-xr-xr-x   1    0    0    1137008 Jan 19 2005 [ 170032 00] ev72.tex 
+-r-xr-xr-x   1    0    0    1876896 Jan 19 2005 [ 170592 00] ev73.tex 
+-r-xr-xr-x   1    0    0    1520176 Jan 19 2005 [ 171520 00] ev732.tex 
+-r-xr-xr-x   1    0    0     800080 Jan 19 2005 [ 172272 00] ev74.tex 
+-r-xr-xr-x   1    0    0    1110352 Jan 19 2005 [ 172672 00] ev75.tex 
+-r-xr-xr-x   1    0    0    1693408 Jan 19 2005 [ 173216 00] ev76.tex 
+-r-xr-xr-x   1    0    0    2929488 Jan 19 2005 [ 174048 00] evadv.tex 
+-r-xr-xr-x   1    0    0    1174480 Jan 19 2005 [ 175488 00] evatc1.tex 
+-r-xr-xr-x   1    0    0     743856 Jan 19 2005 [ 176064 00] evatc2.tex 
+-r-xr-xr-x   1    0    0    1269584 Jan 19 2005 [ 176432 00] evatc3.tex 
+-r-xr-xr-x   1    0    0    1216912 Jan 19 2005 [ 177056 00] evatc4.tex 
+-r-xr-xr-x   1    0    0    1505248 Jan 19 2005 [ 177664 00] evcle.tex 
+-r-xr-xr-x   1    0    0    1078880 Jan 19 2005 [ 178400 00] evmeka.tex 
+-r-xr-xr-x   1    0    0    2221664 Jan 19 2005 [ 178928 00] evop.tex 
+-r-xr-xr-x   1    0    0     690544 Jan 19 2005 [ 180016 00] evsr1.tex 
+-r-xr-xr-x   1    0    0     690544 Jan 19 2005 [ 180368 00] evsr2.tex 
+-r-xr-xr-x   1    0    0     707296 Jan 19 2005 [ 180720 00] go_ch.tex 
+-r-xr-xr-x   1    0    0     620880 Jan 19 2005 [ 181072 00] go_ha.tex 
+-r-xr-xr-x   1    0    0     670896 Jan 19 2005 [ 181376 00] go_hi.tex 
+-r-xr-xr-x   1    0    0     658144 Jan 19 2005 [ 181712 00] go_na.tex 
+-r-xr-xr-x   1    0    0     675632 Jan 19 2005 [ 182048 00] go_sp.tex 
+-r-xr-xr-x   1    0    0     263280 Jan 19 2005 [ 182384 00] logo.tex 
+-r-xr-xr-x   1    0    0    1963920 Jan 20 2005 [ 182528 00] map1000.tex 
+-r-xr-xr-x   1    0    0    1744272 Jan 20 2005 [ 183488 00] map111.tex 
+-r-xr-xr-x   1    0    0    1814288 Jan 20 2005 [ 184352 00] map121.tex 
+-r-xr-xr-x   1    0    0    1827120 Jan 20 2005 [ 185248 00] map131.tex 
+-r-xr-xr-x   1    0    0    1695184 Jan 20 2005 [ 186144 00] map132.tex 
+-r-xr-xr-x   1    0    0    1620336 Jan 20 2005 [ 186976 00] map133.tex 
+-r-xr-xr-x   1    0    0    1672624 Jan 20 2005 [ 187776 00] map211.tex 
+-r-xr-xr-x   1    0    0    1807456 Jan 20 2005 [ 188608 00] map212.tex 
+-r-xr-xr-x   1    0    0    1809104 Jan 20 2005 [ 189504 00] map213.tex 
+-r-xr-xr-x   1    0    0    1805600 Jan 20 2005 [ 190400 00] map214.tex 
+-r-xr-xr-x   1    0    0    1715344 Jan 20 2005 [ 191296 00] map215.tex 
+-r-xr-xr-x   1    0    0    1749392 Jan 20 2005 [ 192144 00] map221.tex 
+-r-xr-xr-x   1    0    0    1544656 Jan 20 2005 [ 193008 00] map222.tex 
+-r-xr-xr-x   1    0    0    1585728 Jan 20 2005 [ 193776 00] map223.tex 
+-r-xr-xr-x   1    0    0    1646800 Jan 20 2005 [ 194560 00] map224.tex 
+-r-xr-xr-x   1    0    0    2004496 Jan 20 2005 [ 195376 00] map231.tex 
+-r-xr-xr-x   1    0    0    1572880 Jan 20 2005 [ 196368 00] map232.tex 
+-r-xr-xr-x   1    0    0    1753328 Jan 20 2005 [ 197152 00] map233.tex 
+-r-xr-xr-x   1    0    0    1689504 Jan 20 2005 [ 198016 00] map234.tex 
+-r-xr-xr-x   1    0    0    2173840 Jan 20 2005 [ 198848 00] map311.tex 
+-r-xr-xr-x   1    0    0    1818896 Jan 20 2005 [ 199920 00] map411.tex 
+-r-xr-xr-x   1    0    0    1746608 Jan 20 2005 [ 200816 00] map412.tex 
+-r-xr-xr-x   1    0    0    1800912 Jan 20 2005 [ 201680 00] map421.tex 
+-r-xr-xr-x   1    0    0    1759696 Jan 20 2005 [ 202560 00] map422.tex 
+-r-xr-xr-x   1    0    0    1912720 Jan 20 2005 [ 203424 00] map431.tex 
+-r-xr-xr-x   1    0    0    1718416 Jan 20 2005 [ 204368 00] map432.tex 
+-r-xr-xr-x   1    0    0    1612816 Jan 20 2005 [ 205216 00] map433.tex 
+-r-xr-xr-x   1    0    0    1642608 Jan 20 2005 [ 206016 00] map434.tex 
+-r-xr-xr-x   1    0    0    1628016 Jan 20 2005 [ 206832 00] map435.tex 
+-r-xr-xr-x   1    0    0    1945296 Jan 20 2005 [ 207632 00] map511.tex 
+-r-xr-xr-x   1    0    0    1665328 Jan 20 2005 [ 208592 00] map521.tex 
+-r-xr-xr-x   1    0    0    1648016 Jan 20 2005 [ 209408 00] map522.tex 
+-r-xr-xr-x   1    0    0    1650256 Jan 20 2005 [ 210224 00] map523.tex 
+-r-xr-xr-x   1    0    0    1734608 Jan 20 2005 [ 211040 00] map531.tex 
+-r-xr-xr-x   1    0    0    1665136 Jan 20 2005 [ 211888 00] map532.tex 
+-r-xr-xr-x   1    0    0    1654896 Jan 20 2005 [ 212704 00] map533.tex 
+-r-xr-xr-x   1    0    0    2111184 Jan 20 2005 [ 213520 00] map611.tex 
+-r-xr-xr-x   1    0    0    1674944 Jan 20 2005 [ 214560 00] map711.tex 
+-r-xr-xr-x   1    0    0    1651392 Jan 20 2005 [ 215392 00] map712.tex 
+-r-xr-xr-x   1    0    0    1670928 Jan 20 2005 [ 216208 00] map713.tex 
+-r-xr-xr-x   1    0    0    1822992 Jan 20 2005 [ 217024 00] map721.tex 
+-r-xr-xr-x   1    0    0    1603344 Jan 20 2005 [ 217920 00] map722.tex 
+-r-xr-xr-x   1    0    0    1810992 Jan 20 2005 [ 218704 00] map723.tex 
+-r-xr-xr-x   1    0    0    1784624 Jan 20 2005 [ 219600 00] map724.tex 
+-r-xr-xr-x   1    0    0    1788368 Jan 20 2005 [ 220480 00] map725.tex 
+-r-xr-xr-x   1    0    0    1893648 Jan 20 2005 [ 221360 00] map731.tex 
+-r-xr-xr-x   1    0    0    1718032 Jan 20 2005 [ 222288 00] map732.tex 
+-r-xr-xr-x   1    0    0    1743536 Jan 20 2005 [ 223136 00] map733.tex 
+-r-xr-xr-x   1    0    0    1817520 Jan 20 2005 [ 224000 00] map734.tex 
+-r-xr-xr-x   1    0    0    1932624 Jan 20 2005 [ 224896 00] map735.tex 
+-r-xr-xr-x   1    0    0    1717648 Jan 20 2005 [ 225840 00] map736.tex 
+-r-xr-xr-x   1    0    0    1745488 Jan 20 2005 [ 226688 00] map737.tex 
+-r-xr-xr-x   1    0    0    1896368 Jan 20 2005 [ 227552 00] map811.tex 
+-r-xr-xr-x   1    0    0    1692864 Jan 20 2005 [ 228480 00] map812.tex 
+-r-xr-xr-x   1    0    0    1708224 Jan 20 2005 [ 229312 00] map813.tex 
+-r-xr-xr-x   1    0    0    2033408 Jan 20 2005 [ 230160 00] map821.tex 
+-r-xr-xr-x   1    0    0    1706064 Jan 20 2005 [ 231168 00] map822.tex 
+-r-xr-xr-x   1    0    0    1784240 Jan 20 2005 [ 232016 00] map823.tex 
+-r-xr-xr-x   1    0    0    1807056 Jan 20 2005 [ 232896 00] map824.tex 
+-r-xr-xr-x   1    0    0    1694864 Jan 20 2005 [ 233792 00] map825.tex 
+-r-xr-xr-x   1    0    0    1743456 Jan 20 2005 [ 234624 00] map826.tex 
+-r-xr-xr-x   1    0    0    1678656 Jan 20 2005 [ 235488 00] map827.tex 
+-r-xr-xr-x   1    0    0    1764880 Jan 20 2005 [ 236320 00] map831.tex 
+-r-xr-xr-x   1    0    0    1842288 Jan 20 2005 [ 237184 00] map832.tex 
+-r-xr-xr-x   1    0    0    1945840 Jan 20 2005 [ 238096 00] map833.tex 
+-r-xr-xr-x   1    0    0    1846368 Jan 20 2005 [ 239056 00] map834.tex 
+-r-xr-xr-x   1    0    0    1850096 Jan 20 2005 [ 239968 00] map835.tex 
+-r-xr-xr-x   1    0    0    1930320 Jan 20 2005 [ 240880 00] map836.tex 
+-r-xr-xr-x   1    0    0    1807184 Jan 20 2005 [ 241824 00] map901.tex 
+-r-xr-xr-x   1    0    0    1714864 Jan 20 2005 [ 242720 00] map902.tex 
+-r-xr-xr-x   1    0    0    1655280 Jan 20 2005 [ 243568 00] map903.tex 
+-r-xr-xr-x   1    0    0    1722512 Jan 20 2005 [ 244384 00] map904.tex 
+-r-xr-xr-x   1    0    0    2040416 Jan 20 2005 [ 245232 00] map905.tex 
+-r-xr-xr-x   1    0    0    1941696 Jan 20 2005 [ 246240 00] map906.tex 
+-r-xr-xr-x   1    0    0    1915888 Jan 20 2005 [ 247200 00] map907.tex 
+-r-xr-xr-x   1    0    0    1823296 Jan 20 2005 [ 248144 00] map908.tex 
+-r-xr-xr-x   1    0    0    1693296 Jan 20 2005 [ 249040 00] map909.tex 
+-r-xr-xr-x   1    0    0    1710512 Jan 20 2005 [ 249872 00] map910.tex 
+-r-xr-xr-x   1    0    0    1706704 Jan 20 2005 [ 250720 00] map911.tex 
+-r-xr-xr-x   1    0    0    1710000 Jan 20 2005 [ 251568 00] map912.tex 
+-r-xr-xr-x   1    0    0    1822384 Jan 20 2005 [ 252416 00] map913.tex 
+-r-xr-xr-x   1    0    0    1735440 Jan 20 2005 [ 253312 00] map914.tex 
+-r-xr-xr-x   1    0    0    1776528 Jan 20 2005 [ 254160 00] map915.tex 
+-r-xr-xr-x   1    0    0    2022320 Jan 20 2005 [ 255040 00] map916.tex 
+-r-xr-xr-x   1    0    0    1956608 Jan 20 2005 [ 256032 00] map917.tex 
+-r-xr-xr-x   1    0    0    1964608 Jan 20 2005 [ 256992 00] map918.tex 
+-r-xr-xr-x   1    0    0    1542032 Jan 20 2005 [ 257952 00] mapcolt.tex 
+-r-xr-xr-x   1    0    0    1638128 Jan 20 2005 [ 258720 00] mapmg.tex 
+-r-xr-xr-x   1    0    0    1704784 Jan 20 2005 [ 259520 00] maptr00.tex 
+-r-xr-xr-x   1    0    0    1561872 Jan 20 2005 [ 260368 00] maptr01.tex 
+-r-xr-xr-x   1    0    0    1564016 Jan 20 2005 [ 261136 00] maptr02.tex 
+-r-xr-xr-x   1    0    0    1560144 Jan 20 2005 [ 261904 00] maptr03.tex 
+-r-xr-xr-x   1    0    0    1542640 Jan 20 2005 [ 262672 00] maptr04.tex 
+-r-xr-xr-x   1    0    0    1562896 Jan 20 2005 [ 263440 00] maptr05.tex 
+-r-xr-xr-x   1    0    0    1542640 Jan 20 2005 [ 264208 00] maptr06.tex 
+-r-xr-xr-x   1    0    0    1542640 Jan 20 2005 [ 264976 00] maptr07.tex 
+-r-xr-xr-x   1    0    0    2027008 Jan 20 2005 [ 265744 00] mapts.tex 
+-r-xr-xr-x   1    0    0     773296 Jan 19 2005 [ 266736 00] mghiroki.tex 
+-r-xr-xr-x   1    0    0     887952 Jan 20 2005 [ 267120 00] option.tex 
+-r-xr-xr-x   1    0    0    3570832 Jan 19 2005 [ 267568 00] opt_sb.tex 
+-r-xr-xr-x   1    0    0    1158528 Jan 19 2005 [ 269312 00] opt_zb.tex 
+-r-xr-xr-x   1    0    0     544896 Jan 19 2005 [ 269888 00] saru.tex 
+-r-xr-xr-x   1    0    0    1682928 Jan 19 2005 [ 270160 00] snowbo.tex 
+-r-xr-xr-x   1    0    0    1662816 Jan 20 2005 [ 270992 00] stagesel.tex 
+-r-xr-xr-x   1    0    0    1289888 Jan 19 2005 [ 271808 00] takkyu.tex 
+-r-xr-xr-x   1    0    0     156048 Jan 19 2005 [ 272448 00] test.tex 
+-r-xr-xr-x   1    0    0     263280 Jan 19 2005 [ 272528 00] title.tex 
+-r-xr-xr-x   1    0    0     613040 Jan 19 2005 [ 272672 00] tsu_shin.tex 
+-r-xr-xr-x   1    0    0     832368 Jan 19 2005 [ 272976 00] ttlmenu.tex 
+-r-xr-xr-x   1    0    0    1012816 Jan 20 2005 [ 273392 00] tual_doc.tex 
+-r-xr-xr-x   1    0    0      34032 Dec 12 2004 [ 273888 00] test.bin 
+-r-xr-xr-x   1    0    0    5701520 Jan  7 2005 [ 273920 00] takkyu.bin 
+-r-xr-xr-x   1    0    0    2791888 Jan 19 2005 [ 276704 00] stagesel.bin 
+-r-xr-xr-x   1    0    0   11703632 Jan 12 2005 [ 278080 00] snowbo.bin 
+-r-xr-xr-x   1    0    0    4094592 Jan  4 2005 [ 283808 00] saru.bin 
+-r-xr-xr-x   1    0    0     281808 Jan 14 2005 [ 285808 00] post.bin 
+-r-xr-xr-x   1    0    0    1136192 Jan 17 2005 [ 285952 00] option.bin 
+-r-xr-xr-x   1    0    0      28464 Dec 12 2004 [ 286512 00] obj.bin 
+-r-xr-xr-x   1    0    0    1132416 Jan 18 2005 [ 286528 00] mghiroki.bin 
+-r-xr-xr-x   1    0    0     120000 Dec 12 2004 [ 287088 00] logo.bin 
+-r-xr-xr-x   1    0    0    3556544 Jan 19 2005 [ 287152 00] kakeru.bin 
+-r-xr-xr-x   1    0    0     117712 Jan 19 2005 [ 288896 00] item.bin 
+-r-xr-xr-x   1    0    0      74176 Dec 12 2004 [ 288960 00] gimmcmn.bin 
+-r-xr-xr-x   1    0    0     153424 Jan 18 2005 [ 289008 00] gameplay.bin 
+-r-xr-xr-x   1    0    0     581968 Jan 12 2005 [ 289088 00] eff.bin 
+-r-xr-xr-x   1    0    0     559984 Dec 12 2004 [ 289376 00] clrdemo.bin 
+-r-xr-xr-x   1    0    0    6431520 Jan 11 2005 [ 289664 00] boxing.bin 
+=============================================================== 
+Generated on Sun 07/08/2022 at 13:43:40.21 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

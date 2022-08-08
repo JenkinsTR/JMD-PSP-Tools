@@ -1,0 +1,102 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Patapon 3   
+Title ID: UCUS-98751 
+Region: USA  
+Languages: En,Fr,Es,Pt  
+Volume Creation Date: 2011-03-18 00:00:00 
+Volume Size: 530 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: SCEI
+Volume set id: SCEI
+Publisher id: SCEI
+Data preparer id: SCEI
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 271488
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Mar 18 2011 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 18 2011 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 May 16 2010 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 May 16 2010 [     30 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 May 16 2010 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 18 2011 [     22 02] .. 
+-r-xr-xr-x   1    0    0      12025 Mar  4 2011 [  54656 00] ICON0.PNG 
+dr-xr-xr-x   1    0    0       2048 Jul 17 2010 [     24 02] INSDIR 
+-r-xr-xr-x   1    0    0        560 Mar  4 2011 [  54640 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     102963 Mar 18 2011 [  54672 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0      32832 Mar  4 2011 [  54736 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 May 16 2010 [     25 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 May 16 2010 [     26 02] USRDIR 
+
+Directory listing of /PSP_GAME/INSDIR/
+dr-xr-xr-x   1    0    0       2048 Jul 17 2010 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 May 16 2010 [     23 02] .. 
+-r-xr-xr-x   1    0    0  158386176 Mar 16 2011 [ 194144 00] DATAMS.BND 
+-r-xr-xr-x   1    0    0      13547 Mar  4 2011 [ 194128 00] ICON0.PNG 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 May 16 2010 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 May 16 2010 [     23 02] .. 
+-r-xr-xr-x   1    0    0    2720624 Mar 16 2011 [  54768 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    2720960 Mar 18 2011 [    544 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0        880 May 16 2010 [     32 00] OPNSSMP.BIN 
+dr-xr-xr-x   1    0    0       2048 May 16 2010 [     27 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 May 16 2010 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 May 16 2010 [     23 02] .. 
+-r-xr-xr-x   1    0    0  158386176 Mar 16 2011 [ 116784 00] DATAMS.BND 
+-r-xr-xr-x   1    0    0     204800 Mar 16 2011 [  56144 00] DATAMS.HED 
+-r-xr-xr-x   1    0    0  121761792 Mar 16 2011 [  57328 00] DATA_CMN.BND 
+dr-xr-xr-x   1    0    0       2048 May 16 2010 [     28 02] Overlay 
+dr-xr-xr-x   1    0    0       2048 May 16 2010 [     29 02] module 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 May 16 2010 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 May 16 2010 [     25 02] .. 
+-r-xr-xr-x   1    0    0   26091840 May 16 2010 [   6000 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5540576 May 16 2010 [   1904 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 May 16 2010 [   1888 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/Overlay/
+dr-xr-xr-x   1    0    0       2048 May 16 2010 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 May 16 2010 [     26 02] .. 
+-r-xr-xr-x   1    0    0    1091840 Mar 16 2011 [  56336 00] OL_Azito.bin 
+-r-xr-xr-x   1    0    0     893312 Mar 16 2011 [  56880 00] OL_Mission.bin 
+-r-xr-xr-x   1    0    0     144384 Mar 16 2011 [  56256 00] OL_Title.bin 
+
+Directory listing of /PSP_GAME/USRDIR/module/
+dr-xr-xr-x   1    0    0       2048 May 16 2010 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 May 16 2010 [     26 02] .. 
+-r-xr-xr-x   1    0    0       3024 Mar  4 2011 [  56112 00] libccc.prx 
+-r-xr-xr-x   1    0    0       6832 Mar  4 2011 [  56128 00] psmf.prx 
+=============================================================== 
+Generated on Mon 08/08/2022 at 15:46:37.49 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

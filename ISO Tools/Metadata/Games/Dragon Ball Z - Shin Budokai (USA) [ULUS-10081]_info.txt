@@ -1,0 +1,98 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Dragon Ball Z - Shin Budokai   
+Title ID: ULUS-10081 
+Region: USA  
+Languages:   
+Volume Creation Date: 2006-01-19 11:01:55 
+Volume Size: 311 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: ULUS_10081
+Volume set id: DRAGON_BALL_Z_SHIN_BUDOKAI
+Publisher id: ATARI
+Data preparer id: DIMPS
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 159536
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Jan 19 2006 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2006 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2006 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Jan 19 2006 [     28 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Jan 19 2006 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2006 [     22 02] .. 
+-r-xr-xr-x   1    0    0      21142 Jan 13 2006 [ 152976 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     229376 Oct 17 2005 [ 152992 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 Jan 24 2006 [ 159520 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      19646 Dec 21 2005 [ 153104 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0     129784 Oct 14 2005 [ 153120 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0     259444 Oct 17 2005 [ 153184 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2006 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2006 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Jan 19 2006 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2006 [     23 02] .. 
+-r-xr-xr-x   1    0    0    2112493 Jan 18 2006 [ 151936 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    2112832 Jan 24 2006 [     32 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2006 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Jan 19 2006 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2006 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     27 02] MODULE 
+-r-xr-xr-x   1    0    0  132403200 Jan 13 2006 [  21568 00] data_btl_cmn.afs 
+-r-xr-xr-x   1    0    0    1441792 Jan 13 2006 [  86224 00] data_btl_us.afs 
+-r-xr-xr-x   1    0    0   13973504 Jan 13 2006 [  86928 00] data_btl_voice.afs 
+-r-xr-xr-x   1    0    0   12695552 Jan 13 2006 [ 153312 00] data_btl_voice_us.afs 
+-r-xr-xr-x   1    0    0  118804480 Jan 18 2006 [  93760 00] data_sys_us.afs 
+-r-xr-xr-x   1    0    0         95 Dec 21 2005 [ 151776 00] fcache_us.lst 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Jan 19 2006 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2006 [     24 02] .. 
+-r-xr-xr-x   1    0    0   14809632 Jan 19 2006 [   5184 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    3951712 Jan 19 2006 [   1088 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       1772 Jan 19 2006 [   1072 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/MODULE/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0       3312 Oct 19 2005 [ 151792 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0      10128 Oct 27 2005 [ 151808 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0      23296 Oct 27 2005 [ 151824 00] libfont.prx 
+-r-xr-xr-x   1    0    0       2576 Oct 27 2005 [ 151840 00] libsha1.prx 
+-r-xr-xr-x   1    0    0      23088 Oct 27 2005 [ 151856 00] mpeg.prx 
+-r-xr-xr-x   1    0    0       5392 Oct 19 2005 [ 151872 00] mpegbase.prx 
+-r-xr-xr-x   1    0    0       6208 Oct 27 2005 [ 151888 00] psmf.prx 
+-r-xr-xr-x   1    0    0       6832 Oct 19 2005 [ 151904 00] sc_sascore.prx 
+-r-xr-xr-x   1    0    0       3504 Oct 19 2005 [ 151920 00] videocodec.prx 
+=============================================================== 
+Generated on Sun 07/08/2022 at 19:28:57.37 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

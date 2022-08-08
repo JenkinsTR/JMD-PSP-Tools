@@ -1,0 +1,85 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Patapon   
+Title ID: UCUS-98711 
+Region: USA  
+Languages: En  
+Volume Creation Date: 2008-01-07 20:00:00 
+Volume Size: 325 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: SCEI
+Volume set id: SCEI
+Publisher id: SCEI
+Data preparer id: SCEI
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 166512
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Jan  7 2008 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  7 2008 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2007 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Aug 17 2007 [     28 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2007 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  7 2008 [     22 02] .. 
+-r-xr-xr-x   1    0    0       5384 Dec  7 2007 [  21675 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        472 Nov 30 2007 [  21674 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      50921 Dec 18 2007 [  21678 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2007 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Dec 28 2007 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2007 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2007 [     23 02] .. 
+-r-xr-xr-x   1    0    0    2380452 Jan  7 2008 [  21703 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    2380800 Jan  7 2008 [     29 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2007 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Dec 28 2007 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2007 [     23 02] .. 
+-r-xr-xr-x   1    0    0  294127616 Jan  7 2008 [  22885 00] DATA_CMN.BND 
+-r-xr-xr-x   1    0    0       2048 Dec 26 2007 [  22884 00] DATA_TLK.BND 
+dr-xr-xr-x   1    0    0       2048 Nov 21 2007 [     27 02] MODULE 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Aug 17 2007 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 17 2007 [     24 02] .. 
+-r-xr-xr-x   1    0    0   18374528 Aug 17 2007 [   5290 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5246816 Aug 17 2007 [   1194 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Aug 17 2007 [   1192 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/MODULE/
+dr-xr-xr-x   1    0    0       2048 Nov 21 2007 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 28 2007 [     25 02] .. 
+-r-xr-xr-x   1    0    0       3152 Nov 21 2007 [  22866 00] LIBCCC.PRX 
+-r-xr-xr-x   1    0    0      22976 Nov 21 2007 [  22872 00] LIBFONT.PRX 
+-r-xr-xr-x   1    0    0       7056 Nov 21 2007 [  22868 00] PSMF.PRX 
+=============================================================== 
+Generated on Mon 08/08/2022 at 15:46:37.18 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

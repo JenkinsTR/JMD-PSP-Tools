@@ -1,0 +1,654 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Syphon Filter Dark Mirror
+Title ID: UCUS-98657 
+Region: USA
+Languages: Beta  
+Volume Creation Date: 2006-01-09 23:05:20 
+Volume Size: 514 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: UCUS_98657
+Volume set id: 
+Publisher id: SCEA
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 263504
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Jan  9 2006 [     51 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     22 02] .. 
+-r-xr-xr-x   1    0    0       5502 Jan  9 2006 [  28320 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        472 Jan  9 2006 [  24432 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      68848 Jan  9 2006 [  28336 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     23 02] .. 
+-r-xr-xr-x   1    0    0    7918892 Jan  9 2006 [  24448 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    7919232 Jan  9 2006 [     64 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     23 02] .. 
+-r-xr-xr-x   1    0    0   18100224 Jan  9 2006 [  28976 00] AERO_A1_SOL.PMF 
+-r-xr-xr-x   1    0    0        886 Jan  9 2006 [  37824 00] AERO_A1_SOL.SUB 
+-r-xr-xr-x   1    0    0   60155904 Jan  9 2006 [  37840 00] AERO_C3_EOL.PMF 
+-r-xr-xr-x   1    0    0        726 Jan  9 2006 [  67216 00] AERO_C3_EOL.SUB 
+-r-xr-xr-x   1    0    0   15159296 Jan  9 2006 [  67232 00] CASIN_A1_SOL.PMF 
+-r-xr-xr-x   1    0    0        804 Jan  9 2006 [  74640 00] CASIN_A1_SOL.SUB 
+-r-xr-xr-x   1    0    0    4325376 Jan  9 2006 [  74656 00] CHARACTERART.PMF 
+-r-xr-xr-x   1    0    0    1943552 Jan  9 2006 [  76768 00] COMING_SOON.PMF 
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     27 02] GAMEDATA 
+-r-xr-xr-x   1    0    0       1492 Jan  9 2006 [  28400 00] GAME_DEMO.INI 
+-r-xr-xr-x   1    0    0       6132 Jan  9 2006 [  28384 00] GAME_FR.INI 
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     28 02] IRX 
+-r-xr-xr-x   1    0    0    5150720 Jan  9 2006 [  77728 00] LEVELART.PMF 
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     29 02] LOCAL_INI 
+-r-xr-xr-x   1    0    0    8265728 Jan  9 2006 [  80256 00] NARBO_A1_SOL.PMF 
+-r-xr-xr-x   1    0    0        564 Jan  9 2006 [  84304 00] NARBO_A1_SOL.SUB 
+-r-xr-xr-x   1    0    0   45469696 Jan  9 2006 [  84320 00] REFIN_A1_SOL.PMF 
+-r-xr-xr-x   1    0    0       1154 Jan  9 2006 [ 106528 00] REFIN_A1_SOL.SUB 
+-r-xr-xr-x   1    0    0   38995968 Jan  9 2006 [ 106544 00] SHANT_A1_SOL.PMF 
+-r-xr-xr-x   1    0    0        882 Jan  9 2006 [ 125600 00] SHANT_A1_SOL.SUB 
+-r-xr-xr-x   1    0    0   27592704 Jan  9 2006 [ 125616 00] WEPPL_A1_SOL.PMF 
+-r-xr-xr-x   1    0    0        884 Jan  9 2006 [ 139104 00] WEPPL_A1_SOL.SUB 
+-r-xr-xr-x   1    0    0   27475968 Jan  9 2006 [ 139120 00] ZUGSP_A1_SOL.PMF 
+-r-xr-xr-x   1    0    0        800 Jan  9 2006 [ 152544 00] ZUGSP_A1_SOL.SUB 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     24 02] .. 
+-r-xr-xr-x   1    0    0   14809632 Jan  9 2006 [   8048 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    3951712 Jan  9 2006 [   3952 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       1772 Jan  9 2006 [   3936 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     25 02] .. 
+dr-xr-xr-x   1    0    0       4096 Jan  9 2006 [     30 02] COMMON 
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     32 02] FRONTEND 
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     33 02] MULTI 
+
+Directory listing of /PSP_GAME/USRDIR/IRX/
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0       3264 Jan  9 2006 [  28432 00] AUDIOCODEC.PRX 
+-r-xr-xr-x   1    0    0      10816 Jan  9 2006 [  28448 00] IFHANDLE.PRX 
+-r-xr-xr-x   1    0    0     275345 Jan  9 2006 [  28464 00] IOPRP300.IMG 
+-r-xr-xr-x   1    0    0      10128 Jan  9 2006 [  28608 00] LIBATRAC3PLUS.PRX 
+-r-xr-xr-x   1    0    0      17216 Jan  9 2006 [  28624 00] MEMAB.PRX 
+-r-xr-xr-x   1    0    0      20976 Jan  9 2006 [  28640 00] MPEG.PRX 
+-r-xr-xr-x   1    0    0       5136 Jan  9 2006 [  28656 00] MPEGBASE.PRX 
+-r-xr-xr-x   1    0    0      60360 Jan  9 2006 [  28672 00] PSPNET.PRX 
+-r-xr-xr-x   1    0    0      42492 Jan  9 2006 [  28704 00] PSPNET_ADHOC.PRX 
+-r-xr-xr-x   1    0    0      31996 Jan  9 2006 [  28736 00] PSPNET_ADHOCCTL.PRX 
+-r-xr-xr-x   1    0    0      11360 Jan  9 2006 [  28752 00] PSPNET_ADHOC_AUTH.PRX 
+-r-xr-xr-x   1    0    0      44412 Jan  9 2006 [  28768 00] PSPNET_APCTL.PRX 
+-r-xr-xr-x   1    0    0       2448 Jan  9 2006 [  28800 00] PSPNET_AP_DIALOG_DUMMY.PRX 
+-r-xr-xr-x   1    0    0     239968 Jan  9 2006 [  28816 00] PSPNET_INET.PRX 
+-r-xr-xr-x   1    0    0       6864 Jan  9 2006 [  28944 00] SC_SASCORE.PRX 
+-r-xr-xr-x   1    0    0       3440 Jan  9 2006 [  28960 00] VIDEOCODEC.PRX 
+
+Directory listing of /PSP_GAME/USRDIR/LOCAL_INI/
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0       8508 Jan  9 2006 [  28416 00] GAME.INI 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/COMMON/
+dr-xr-xr-x   1    0    0       4096 Jan  9 2006 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     27 02] .. 
+-r-xr-xr-x   1    0    0       3468 Jan  9 2006 [ 152560 00] BONUS.INI 
+-r-xr-xr-x   1    0    0       5216 Jan  9 2006 [ 152576 00] ERROR.TDX 
+-r-xr-xr-x   1    0    0       5472 Jan  9 2006 [ 152592 00] ERROR_PS2.TDX 
+-r-xr-xr-x   1    0    0       5216 Jan  9 2006 [ 152608 00] ERROR_PSP.TDX 
+-r-xr-xr-x   1    0    0       2000 Jan  9 2006 [ 152624 00] FACE.HGZ 
+-r-xr-xr-x   1    0    0      26016 Jan  9 2006 [ 152640 00] FACE.HOG 
+-r-xr-xr-x   1    0    0      22272 Jan  9 2006 [ 152656 00] FONTS.HGZ 
+-r-xr-xr-x   1    0    0      73200 Jan  9 2006 [ 152672 00] FONTS.HOG 
+-r-xr-xr-x   1    0    0     225968 Jan  9 2006 [ 152720 00] FONTS_PS2.HOG 
+-r-xr-xr-x   1    0    0      73200 Jan  9 2006 [ 152832 00] FONTS_PSP.HOG 
+-r-xr-xr-x   1    0    0      61334 Jan  9 2006 [ 152880 00] FREED.HGZ 
+-r-xr-xr-x   1    0    0     272864 Jan  9 2006 [ 152912 00] FREED.HOG 
+-r-xr-xr-x   1    0    0    1091792 Jan  9 2006 [ 153056 00] FREEDLVL.HOG 
+-r-xr-xr-x   1    0    0      68272 Jan  9 2006 [ 153600 00] GLBSND.HOG 
+-r-xr-xr-x   1    0    0        339 Jan  9 2006 [ 153648 00] HELMET.CSV 
+-r-xr-xr-x   1    0    0       7142 Jan  9 2006 [ 153664 00] IAMAPN.HGZ 
+-r-xr-xr-x   1    0    0      22048 Jan  9 2006 [ 153680 00] IAMAPN.HOG 
+-r-xr-xr-x   1    0    0     126370 Jan  9 2006 [ 153696 00] IARCADEN.HGZ 
+-r-xr-xr-x   1    0    0     718112 Jan  9 2006 [ 153760 00] IARCADEN.HOG 
+-r-xr-xr-x   1    0    0       5502 Jan  9 2006 [ 154112 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0       5353 Jan  9 2006 [ 154128 00] ICON0_NEW.PNG 
+-r-xr-xr-x   1    0    0     440320 Jan  9 2006 [ 154144 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0       1912 Jan  9 2006 [ 154368 00] INPUTMAP.DAT 
+-r-xr-xr-x   1    0    0       1912 Jan  9 2006 [ 154384 00] INPUTMAP1.DAT 
+-r-xr-xr-x   1    0    0       1912 Jan  9 2006 [ 154400 00] INPUTMAP2.DAT 
+-r-xr-xr-x   1    0    0       1896 Jan  9 2006 [ 154416 00] INPUTMAP3.DAT 
+-r-xr-xr-x   1    0    0        235 Jan  9 2006 [ 154432 00] JACKET.CSV 
+-r-xr-xr-x   1    0    0     184960 Jan  9 2006 [ 154448 00] MORPH.HOG 
+-r-xr-xr-x   1    0    0      70673 Jan  9 2006 [ 154544 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0       3788 Jan  9 2006 [ 154592 00] SCRIPTS.HGZ 
+-r-xr-xr-x   1    0    0      42100 Jan  9 2006 [ 154608 00] SCRIPTS.HOG 
+-r-xr-xr-x   1    0    0       1138 Jan  9 2006 [ 154640 00] SFO_CHAR.MAP 
+-r-xr-xr-x   1    0    0       5216 Jan  9 2006 [ 154656 00] SHADOW.TDX 
+-r-xr-xr-x   1    0    0     543152 Jan  9 2006 [ 154672 00] SKA.HGZ 
+-r-xr-xr-x   1    0    0     662672 Jan  9 2006 [ 154944 00] SKA.HOG 
+-r-xr-xr-x   1    0    0    3180544 Jan  9 2006 [ 155280 00] SKALEVEL.HOG 
+-r-xr-xr-x   1    0    0     372740 Jan  9 2006 [ 156848 00] SKALINKS.SKALNK 
+-r-xr-xr-x   1    0    0       9680 Jan  9 2006 [ 157040 00] SKAS.HOG 
+-r-xr-xr-x   1    0    0       1456 Jan  9 2006 [ 157056 00] SKAS_PVP.HGZ 
+-r-xr-xr-x   1    0    0       9680 Jan  9 2006 [ 157072 00] SKAS_PVP.HOG 
+-r-xr-xr-x   1    0    0        434 Jan  9 2006 [ 157088 00] SKEL.HGZ 
+-r-xr-xr-x   1    0    0       1440 Jan  9 2006 [ 157104 00] SKEL.HOG 
+-r-xr-xr-x   1    0    0      51300 Jan  9 2006 [ 157120 00] SND0.AT3 
+-r-xr-xr-x   1    0    0     115416 Jan  9 2006 [ 157152 00] STRINGS.DAT 
+-r-xr-xr-x   1    0    0      62435 Jan  9 2006 [ 157216 00] TWEAKS.INI 
+-r-xr-xr-x   1    0    0     133120 Jan  9 2006 [ 157248 00] UNFREED.HGZ 
+-r-xr-xr-x   1    0    0     348944 Jan  9 2006 [ 157328 00] UNFREED.HOG 
+-r-xr-xr-x   1    0    0      88936 Jan  9 2006 [ 157504 00] WEAPONS.WDB 
+-r-xr-xr-x   1    0    0     300224 Sep 21 2005 [ 157552 00] _SPECFX.HOG 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/FRONTEND/
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     32 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     27 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     34 02] BONUS 
+-r-xr-xr-x   1    0    0      22370 Jan  9 2006 [ 157712 00] BUDDIES.HGZ 
+-r-xr-xr-x   1    0    0      30672 Jan  9 2006 [ 157728 00] BUDDIES.HOG 
+-r-xr-xr-x   1    0    0     264672 Jan  9 2006 [ 157744 00] CELLPTCH.HGZ 
+-r-xr-xr-x   1    0    0     502176 Jan  9 2006 [ 157888 00] CELLPTCH.HOG 
+-r-xr-xr-x   1    0    0        716 Jan  9 2006 [ 158144 00] FEMALE.SKL 
+-r-xr-xr-x   1    0    0     156004 Jan  9 2006 [ 158160 00] GLBSND.HGZ 
+-r-xr-xr-x   1    0    0     193456 Jan  9 2006 [ 158240 00] GLBSND.HOG 
+-r-xr-xr-x   1    0    0      80992 Jan  9 2006 [ 158336 00] ICONS.HOG 
+-r-xr-xr-x   1    0    0      22240 Jan  9 2006 [ 158384 00] LEDNUMS.HOG 
+-r-xr-xr-x   1    0    0        725 Jan  9 2006 [ 158400 00] LIGHTING.INI 
+-r-xr-xr-x   1    0    0        748 Jan  9 2006 [ 158416 00] MALE.SKL 
+-r-xr-xr-x   1    0    0     262240 Jan  9 2006 [ 158432 00] MINIMAP.TDX 
+-r-xr-xr-x   1    0    0       2208 Jan  9 2006 [ 158576 00] MINIMAPA.TDX 
+-r-xr-xr-x   1    0    0      32864 Jan  9 2006 [ 158592 00] MISSION_UNAVAILABLE.TDX 
+-r-xr-xr-x   1    0    0     221658 Jan  9 2006 [ 158624 00] MSNTXTRS.HGZ 
+-r-xr-xr-x   1    0    0     284416 Jan  9 2006 [ 158736 00] MSNTXTRS.HOG 
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     35 02] MUSIC 
+-r-xr-xr-x   1    0    0     211410 Jan  9 2006 [ 158880 00] NPC.HGZ 
+-r-xr-xr-x   1    0    0     534464 Jan  9 2006 [ 158992 00] NPC.HOG 
+dr-xr-xr-x   1    0    0      12288 Jan  9 2006 [     36 02] NTSC 
+-r-xr-xr-x   1    0    0      42258 Jan  9 2006 [ 159264 00] OLNMSNTX.HGZ 
+-r-xr-xr-x   1    0    0      83776 Jan  9 2006 [ 159296 00] OLNMSNTX.HOG 
+dr-xr-xr-x   1    0    0       4096 Jan  9 2006 [     42 02] PATCHES 
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     44 02] RATINGS_VO 
+-r-xr-xr-x   1    0    0        558 Jan  9 2006 [ 159344 00] SKL.HGZ 
+-r-xr-xr-x   1    0    0       4624 Jan  9 2006 [ 159360 00] SKL.HOG 
+-r-xr-xr-x   1    0    0      50808 Jan  9 2006 [ 159376 00] SND.HOG 
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     45 02] SVO 
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     46 02] UI_GROUPS 
+-r-xr-xr-x   1    0    0     554848 Jan  9 2006 [ 159408 00] WPN.HOG 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/MULTI/
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     33 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     27 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     47 02] WEAPONS 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/FRONTEND/BONUS/
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     34 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     32 02] .. 
+dr-xr-xr-x   1    0    0       4096 Jan  9 2006 [     48 02] AUDIO 
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     50 02] CONCEPT 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/FRONTEND/MUSIC/
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     35 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0    1924080 Jan  9 2006 [ 176736 00] AGENCY.AT3 
+-r-xr-xr-x   1    0    0    1827360 Jan  9 2006 [ 177680 00] ASIAN_TERRORIST.AT3 
+-r-xr-xr-x   1    0    0    1924080 Jan  9 2006 [ 178576 00] CHECHEN_TERRORIST.AT3 
+-r-xr-xr-x   1    0    0    1726176 Jan  9 2006 [ 179520 00] FRENCH_TERRORIST.AT3 
+-r-xr-xr-x   1    0    0    2055024 Jan  9 2006 [ 180368 00] GABES_THEME.AT3 
+-r-xr-xr-x   1    0    0    2137608 Jan  9 2006 [ 181376 00] GABE_THEME.AT3 
+-r-xr-xr-x   1    0    0    1654752 Jan  9 2006 [ 182432 00] GENERAL_SUSPENSE1_REFMIX.AT3 
+-r-xr-xr-x   1    0    0    2054280 Jan  9 2006 [ 183248 00] HARGROVES_THEME.AT3 
+-r-xr-xr-x   1    0    0          0 Jan  9 2006 [ 184256 00] JM_GENSUS_1.AT3 
+-r-xr-xr-x   1    0    0     364884 Jan  9 2006 [ 184272 00] LOADING_AMB.AT3 
+-r-xr-xr-x   1    0    0    1096008 Jan  9 2006 [ 184464 00] LR_STEALTH_SUS1.AT3 
+-r-xr-xr-x   1    0    0    3982728 Jan  9 2006 [ 185008 00] MAIN_TITLE.AT3 
+-r-xr-xr-x   1    0    0    2328072 Jan  9 2006 [ 186960 00] MAIN_TITLES.AT3 
+-r-xr-xr-x   1    0    0    1269360 Jan  9 2006 [ 188112 00] MARA_THEME.AT3 
+-r-xr-xr-x   1    0    0    1902504 Jan  9 2006 [ 188736 00] META_GLOBAL.AT3 
+-r-xr-xr-x   1    0    0    1149576 Jan  9 2006 [ 189680 00] ONE_MIN_TEASE.AT3 
+-r-xr-xr-x   1    0    0    2050560 Jan  9 2006 [ 190256 00] RED_SECTIONS_THEME.AT3 
+-r-xr-xr-x   1    0    0    2127936 Jan  9 2006 [ 191264 00] SINGULARITYS_THEME.AT3 
+-r-xr-xr-x   1    0    0    2957312 Dec  8 2005 [ 192304 00] T2148T118.TMP 
+-r-xr-xr-x   1    0    0    2849616 Jan  9 2006 [ 193760 00] THREE_MIN_TEASE.AT3 
+-r-xr-xr-x   1    0    0    1687488 Jan  9 2006 [ 195152 00] ZEUS.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/FRONTEND/NTSC/
+dr-xr-xr-x   1    0    0      12288 Jan  9 2006 [     36 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0       3916 Jan  9 2006 [ 166096 00] ACNTLOGN.HGZ 
+-r-xr-xr-x   1    0    0      15472 Jan  9 2006 [ 166112 00] ACNTLOGN.HOG 
+-r-xr-xr-x   1    0    0      88076 Jan  9 2006 [ 166128 00] AGCYRAT.HGZ 
+-r-xr-xr-x   1    0    0     276736 Jan  9 2006 [ 166176 00] AGCYRAT.HOG 
+-r-xr-xr-x   1    0    0      61666 Jan  9 2006 [ 166320 00] AGENT.HGZ 
+-r-xr-xr-x   1    0    0     178640 Jan  9 2006 [ 166352 00] AGENT.HOG 
+-r-xr-xr-x   1    0    0      61762 Jan  9 2006 [ 166448 00] AUDIO.HGZ 
+-r-xr-xr-x   1    0    0     163920 Jan  9 2006 [ 166480 00] AUDIO.HOG 
+-r-xr-xr-x   1    0    0       4150 Jan  9 2006 [ 166576 00] AUTOSAVE.HGZ 
+-r-xr-xr-x   1    0    0      17984 Jan  9 2006 [ 166592 00] AUTOSAVE.HOG 
+-r-xr-xr-x   1    0    0       2492 Jan  9 2006 [ 166608 00] BONUSBAR.HGZ 
+-r-xr-xr-x   1    0    0       7024 Jan  9 2006 [ 166624 00] BONUSBAR.HOG 
+-r-xr-xr-x   1    0    0      19532 Jan  9 2006 [ 166640 00] BRIEFING.HGZ 
+-r-xr-xr-x   1    0    0      70448 Jan  9 2006 [ 166656 00] BRIEFING.HOG 
+-r-xr-xr-x   1    0    0      57786 Jan  9 2006 [ 166704 00] CAREER.HGZ 
+-r-xr-xr-x   1    0    0     176832 Jan  9 2006 [ 166736 00] CAREER.HOG 
+-r-xr-xr-x   1    0    0      50320 Jan  9 2006 [ 166832 00] CELLLOG.HGZ 
+-r-xr-xr-x   1    0    0     251840 Jan  9 2006 [ 166864 00] CELLLOG.HOG 
+-r-xr-xr-x   1    0    0      55260 Jan  9 2006 [ 166992 00] CELLMEMB.HGZ 
+-r-xr-xr-x   1    0    0     212816 Jan  9 2006 [ 167024 00] CELLMEMB.HOG 
+-r-xr-xr-x   1    0    0      51668 Jan  9 2006 [ 167136 00] CELLOPS.HGZ 
+-r-xr-xr-x   1    0    0     202912 Jan  9 2006 [ 167168 00] CELLOPS.HOG 
+-r-xr-xr-x   1    0    0      52438 Jan  9 2006 [ 167280 00] CELLSUB.HGZ 
+-r-xr-xr-x   1    0    0     272592 Jan  9 2006 [ 167312 00] CELLSUB.HOG 
+-r-xr-xr-x   1    0    0      69370 Jan  9 2006 [ 167456 00] CHAPSEL.HGZ 
+-r-xr-xr-x   1    0    0     224272 Jan  9 2006 [ 167504 00] CHAPSEL.HOG 
+-r-xr-xr-x   1    0    0       7566 Jan  9 2006 [ 167616 00] COMPLETE.HGZ 
+-r-xr-xr-x   1    0    0      27184 Jan  9 2006 [ 167632 00] COMPLETE.HOG 
+-r-xr-xr-x   1    0    0     140060 Jan  9 2006 [ 167648 00] CONCPRT.HGZ 
+-r-xr-xr-x   1    0    0     135952 Jan  9 2006 [ 167728 00] CONCPRT.HOG 
+-r-xr-xr-x   1    0    0      25184 Jan  9 2006 [ 167808 00] CRRATING.HGZ 
+-r-xr-xr-x   1    0    0     117184 Jan  9 2006 [ 167824 00] CRRATING.HOG 
+-r-xr-xr-x   1    0    0       5316 Jan  9 2006 [ 167888 00] DBAUTO.HGZ 
+-r-xr-xr-x   1    0    0      18368 Jan  9 2006 [ 167904 00] DBAUTO.HOG 
+-r-xr-xr-x   1    0    0       2022 Jan  9 2006 [ 167920 00] DBCOMM.HGZ 
+-r-xr-xr-x   1    0    0       7808 Jan  9 2006 [ 167936 00] DBCOMM.HOG 
+-r-xr-xr-x   1    0    0       1804 Jan  9 2006 [ 167952 00] DBHOST.HGZ 
+-r-xr-xr-x   1    0    0       7168 Jan  9 2006 [ 167968 00] DBHOST.HOG 
+-r-xr-xr-x   1    0    0       5624 Jan  9 2006 [ 167984 00] DBJOIN.HGZ 
+-r-xr-xr-x   1    0    0      20032 Jan  9 2006 [ 168000 00] DBJOIN.HOG 
+-r-xr-xr-x   1    0    0       4954 Jan  9 2006 [ 168016 00] DBRANK.HGZ 
+-r-xr-xr-x   1    0    0      16912 Jan  9 2006 [ 168032 00] DBRANK.HOG 
+-r-xr-xr-x   1    0    0       1154 Jan  9 2006 [ 168048 00] DBSCORE.HGZ 
+-r-xr-xr-x   1    0    0       5008 Jan  9 2006 [ 168064 00] DBSCORE.HOG 
+-r-xr-xr-x   1    0    0       1704 Jan  9 2006 [ 168080 00] DBSCORET.HGZ 
+-r-xr-xr-x   1    0    0      11600 Jan  9 2006 [ 168096 00] DBSCORET.HOG 
+-r-xr-xr-x   1    0    0      66380 Jan  9 2006 [ 168112 00] DBSTAGE.HGZ 
+-r-xr-xr-x   1    0    0     265488 Jan  9 2006 [ 168160 00] DBSTAGE.HOG 
+-r-xr-xr-x   1    0    0       4056 Jan  9 2006 [ 168304 00] DNASLOGO.HGZ 
+-r-xr-xr-x   1    0    0      68992 Jan  9 2006 [ 168320 00] DNASLOGO.HOG 
+-r-xr-xr-x   1    0    0      26282 Jan  9 2006 [ 168368 00] EQMODIFY.HGZ 
+-r-xr-xr-x   1    0    0      91440 Jan  9 2006 [ 168384 00] EQMODIFY.HOG 
+-r-xr-xr-x   1    0    0      22564 Jan  9 2006 [ 168432 00] EQUIPNT.HGZ 
+-r-xr-xr-x   1    0    0     106272 Jan  9 2006 [ 168448 00] EQUIPNT.HOG 
+-r-xr-xr-x   1    0    0      80258 Jan  9 2006 [ 168512 00] EULA.HGZ 
+-r-xr-xr-x   1    0    0     282960 Jan  9 2006 [ 168560 00] EULA.HOG 
+-r-xr-xr-x   1    0    0       5794 Jan  9 2006 [ 168704 00] FAILED.HGZ 
+-r-xr-xr-x   1    0    0      24448 Jan  9 2006 [ 168720 00] FAILED.HOG 
+-r-xr-xr-x   1    0    0       6942 Jan  9 2006 [ 168736 00] FILTERS.HGZ 
+-r-xr-xr-x   1    0    0      52496 Jan  9 2006 [ 168752 00] FILTERS.HOG 
+-r-xr-xr-x   1    0    0      12372 Jan  9 2006 [ 168784 00] GAME.HGZ 
+-r-xr-xr-x   1    0    0      38064 Jan  9 2006 [ 168800 00] GAME.HOG 
+-r-xr-xr-x   1    0    0        712 Jan  9 2006 [ 168832 00] GAMEBACK.HGZ 
+-r-xr-xr-x   1    0    0       2192 Jan  9 2006 [ 168848 00] GAMEBACK.HOG 
+-r-xr-xr-x   1    0    0      28046 Jan  9 2006 [ 168864 00] GAMECTRL.HGZ 
+-r-xr-xr-x   1    0    0     164960 Jan  9 2006 [ 168880 00] GAMECTRL.HOG 
+-r-xr-xr-x   1    0    0      30318 Jan  9 2006 [ 168976 00] GAMEGUI.HGZ 
+-r-xr-xr-x   1    0    0      98352 Jan  9 2006 [ 168992 00] GAMEGUI.HOG 
+-r-xr-xr-x   1    0    0     119222 Jan  9 2006 [ 169056 00] GAMELIST.HGZ 
+-r-xr-xr-x   1    0    0     312896 Jan  9 2006 [ 169120 00] GAMELIST.HOG 
+-r-xr-xr-x   1    0    0      33028 Jan  9 2006 [ 169280 00] GAMEOPT.HGZ 
+-r-xr-xr-x   1    0    0     117520 Jan  9 2006 [ 169312 00] GAMEOPT.HOG 
+-r-xr-xr-x   1    0    0      32526 Jan  9 2006 [ 169376 00] GAMEOPT2.HGZ 
+-r-xr-xr-x   1    0    0     114976 Jan  9 2006 [ 169392 00] GAMEOPT2.HOG 
+-r-xr-xr-x   1    0    0      20082 Jan  9 2006 [ 169456 00] GAMEPROF.HGZ 
+-r-xr-xr-x   1    0    0     111168 Jan  9 2006 [ 169472 00] GAMEPROF.HOG 
+-r-xr-xr-x   1    0    0      31222 Jan  9 2006 [ 169536 00] GAMERATE.HGZ 
+-r-xr-xr-x   1    0    0     114624 Jan  9 2006 [ 169552 00] GAMERATE.HOG 
+-r-xr-xr-x   1    0    0      16472 Jan  9 2006 [ 169616 00] GAMESTATS.HGZ 
+-r-xr-xr-x   1    0    0      99424 Jan  9 2006 [ 169632 00] GAMESTATS.HOG 
+-r-xr-xr-x   1    0    0      28240 Jan  9 2006 [ 169696 00] HOSTGAME.HGZ 
+-r-xr-xr-x   1    0    0     119888 Jan  9 2006 [ 169712 00] HOSTGAME.HOG 
+-r-xr-xr-x   1    0    0      21358 Jan  9 2006 [ 169776 00] INGAMENU.HGZ 
+-r-xr-xr-x   1    0    0      98832 Jan  9 2006 [ 169792 00] INGAMENU.HOG 
+-r-xr-xr-x   1    0    0      61514 Jan  9 2006 [ 169856 00] JOINGAME.HGZ 
+-r-xr-xr-x   1    0    0     134992 Jan  9 2006 [ 169888 00] JOINGAME.HOG 
+-r-xr-xr-x   1    0    0      14274 Jan  9 2006 [ 169968 00] KEYBOARD.HGZ 
+-r-xr-xr-x   1    0    0     102672 Jan  9 2006 [ 169984 00] KEYBOARD.HOG 
+-r-xr-xr-x   1    0    0      33358 Jan  9 2006 [ 170048 00] LEGALSCN.HGZ 
+-r-xr-xr-x   1    0    0     182368 Jan  9 2006 [ 170080 00] LEGALSCN.HOG 
+-r-xr-xr-x   1    0    0      61464 Jan  9 2006 [ 170176 00] LOADSCRN.HGZ 
+-r-xr-xr-x   1    0    0     176272 Jan  9 2006 [ 170208 00] LOADSCRN.HOG 
+-r-xr-xr-x   1    0    0     124254 Jan  9 2006 [ 170304 00] LOCKFILE.HGZ 
+-r-xr-xr-x   1    0    0     247072 Jan  9 2006 [ 170368 00] LOCKFILE.HOG 
+-r-xr-xr-x   1    0    0      82196 Jan  9 2006 [ 170496 00] LOGIN.HGZ 
+-r-xr-xr-x   1    0    0     351488 Jan  9 2006 [ 170544 00] LOGIN.HOG 
+-r-xr-xr-x   1    0    0      70540 Jan  9 2006 [ 170720 00] MAINCTRL.HGZ 
+-r-xr-xr-x   1    0    0     268736 Jan  9 2006 [ 170768 00] MAINCTRL.HOG 
+-r-xr-xr-x   1    0    0      73576 Jan  9 2006 [ 170912 00] MAINDIFF.HGZ 
+-r-xr-xr-x   1    0    0     214576 Jan  9 2006 [ 170960 00] MAINDIFF.HOG 
+-r-xr-xr-x   1    0    0      33200 Jan  9 2006 [ 171072 00] MAINLOAD.HGZ 
+-r-xr-xr-x   1    0    0     122464 Jan  9 2006 [ 171104 00] MAINLOAD.HOG 
+-r-xr-xr-x   1    0    0     114412 Jan  9 2006 [ 171168 00] MAINMENU.HGZ 
+-r-xr-xr-x   1    0    0     449520 Jan  9 2006 [ 171232 00] MAINMENU.HOG 
+-r-xr-xr-x   1    0    0      82762 Jan  9 2006 [ 171456 00] MAINOPT.HGZ 
+-r-xr-xr-x   1    0    0     240480 Jan  9 2006 [ 171504 00] MAINOPT.HOG 
+-r-xr-xr-x   1    0    0      12000 Jan  9 2006 [ 171632 00] MAPSCRN.HGZ 
+-r-xr-xr-x   1    0    0      47888 Jan  9 2006 [ 171648 00] MAPSCRN.HOG 
+-r-xr-xr-x   1    0    0      15856 Jan  9 2006 [ 171680 00] MEMPOP.HOG 
+-r-xr-xr-x   1    0    0      50268 Jan  9 2006 [ 171696 00] MISSION.HGZ 
+-r-xr-xr-x   1    0    0     144912 Jan  9 2006 [ 171728 00] MISSION.HOG 
+-r-xr-xr-x   1    0    0      58196 Jan  9 2006 [ 171808 00] MOVIES.HGZ 
+-r-xr-xr-x   1    0    0     178208 Jan  9 2006 [ 171840 00] MOVIES.HOG 
+-r-xr-xr-x   1    0    0      67768 Jan  9 2006 [ 171936 00] MSNSEL.HGZ 
+-r-xr-xr-x   1    0    0     173600 Jan  9 2006 [ 171984 00] MSNSEL.HOG 
+-r-xr-xr-x   1    0    0     124120 Jan  9 2006 [ 172080 00] MSNSEL2.HGZ 
+-r-xr-xr-x   1    0    0     249776 Jan  9 2006 [ 172144 00] MSNSEL2.HOG 
+-r-xr-xr-x   1    0    0      23942 Jan  9 2006 [ 172272 00] MSRATING.HGZ 
+-r-xr-xr-x   1    0    0     114704 Jan  9 2006 [ 172288 00] MSRATING.HOG 
+-r-xr-xr-x   1    0    0      31332 Jan  9 2006 [ 172352 00] MSRATNEW.HGZ 
+-r-xr-xr-x   1    0    0     114816 Jan  9 2006 [ 172368 00] MSRATNEW.HOG 
+-r-xr-xr-x   1    0    0     129070 Jan  9 2006 [ 172432 00] MSRATSEL.HGZ 
+-r-xr-xr-x   1    0    0     256176 Jan  9 2006 [ 172496 00] MSRATSEL.HOG 
+-r-xr-xr-x   1    0    0       1188 Jan  9 2006 [ 172624 00] NETISSUE.HGZ 
+-r-xr-xr-x   1    0    0       8480 Jan  9 2006 [ 172640 00] NETISSUE.HOG 
+-r-xr-xr-x   1    0    0      21100 Jan  9 2006 [ 172656 00] OBJECTIV.HGZ 
+-r-xr-xr-x   1    0    0      72496 Jan  9 2006 [ 172672 00] OBJECTIV.HOG 
+-r-xr-xr-x   1    0    0      94716 Jan  9 2006 [ 172720 00] OLNOPT.HGZ 
+-r-xr-xr-x   1    0    0     424864 Jan  9 2006 [ 172768 00] OLNOPT.HOG 
+-r-xr-xr-x   1    0    0      44964 Jan  9 2006 [ 172976 00] ONLINEBG.HGZ 
+-r-xr-xr-x   1    0    0     130144 Jan  9 2006 [ 173008 00] ONLINEBG.HOG 
+-r-xr-xr-x   1    0    0      14122 Jan  9 2006 [ 173072 00] ONLINECN.HGZ 
+-r-xr-xr-x   1    0    0      97328 Jan  9 2006 [ 173088 00] ONLINECN.HOG 
+-r-xr-xr-x   1    0    0       2832 Jan  9 2006 [ 173136 00] ONOFFSEL.HGZ 
+-r-xr-xr-x   1    0    0      10256 Jan  9 2006 [ 173152 00] ONOFFSEL.HOG 
+-r-xr-xr-x   1    0    0      64180 Jan  9 2006 [ 173168 00] PATCHSCR.HGZ 
+-r-xr-xr-x   1    0    0     248896 Jan  9 2006 [ 173200 00] PATCHSCR.HOG 
+-r-xr-xr-x   1    0    0      70640 Jan  9 2006 [ 173328 00] PLAYERSTATS.HGZ 
+-r-xr-xr-x   1    0    0     266704 Jan  9 2006 [ 173376 00] PLAYERSTATS.HOG 
+-r-xr-xr-x   1    0    0     109448 Jan  9 2006 [ 173520 00] PLAYTYPE.HGZ 
+-r-xr-xr-x   1    0    0     341600 Jan  9 2006 [ 173584 00] PLAYTYPE.HOG 
+-r-xr-xr-x   1    0    0       6506 Jan  9 2006 [ 173760 00] POPUP.HGZ 
+-r-xr-xr-x   1    0    0      24272 Jan  9 2006 [ 173776 00] POPUP.HOG 
+-r-xr-xr-x   1    0    0      79826 Jan  9 2006 [ 173792 00] POSTLOAD.HGZ 
+-r-xr-xr-x   1    0    0     282160 Jan  9 2006 [ 173840 00] POSTLOAD.HOG 
+-r-xr-xr-x   1    0    0      50906 Jan  9 2006 [ 173984 00] PROFILE.HGZ 
+-r-xr-xr-x   1    0    0     286320 Jan  9 2006 [ 174016 00] PROFILE.HOG 
+-r-xr-xr-x   1    0    0      52362 Jan  9 2006 [ 174160 00] PROFSCR.HGZ 
+-r-xr-xr-x   1    0    0     166736 Jan  9 2006 [ 174192 00] PROFSCR.HOG 
+-r-xr-xr-x   1    0    0      74218 Jan  9 2006 [ 174288 00] PS_RATNG.HGZ 
+-r-xr-xr-x   1    0    0     270096 Jan  9 2006 [ 174336 00] PS_RATNG.HOG 
+-r-xr-xr-x   1    0    0      51966 Jan  9 2006 [ 174480 00] PS_SUMRY.HGZ 
+-r-xr-xr-x   1    0    0     171136 Jan  9 2006 [ 174512 00] PS_SUMRY.HOG 
+-r-xr-xr-x   1    0    0       5634 Jan  9 2006 [ 174608 00] PUBNAV.HGZ 
+-r-xr-xr-x   1    0    0      21776 Jan  9 2006 [ 174624 00] PUBNAV.HOG 
+-r-xr-xr-x   1    0    0      60972 Jan  9 2006 [ 174640 00] QUKSLCT.HGZ 
+-r-xr-xr-x   1    0    0     246304 Jan  9 2006 [ 174672 00] QUKSLCT.HOG 
+-r-xr-xr-x   1    0    0      21546 Jan  9 2006 [ 174800 00] RADIOLOG.HGZ 
+-r-xr-xr-x   1    0    0      72384 Jan  9 2006 [ 174816 00] RADIOLOG.HOG 
+-r-xr-xr-x   1    0    0       6092 Jan  9 2006 [ 174864 00] RAIN_DROPS.HGZ 
+-r-xr-xr-x   1    0    0      15936 Jan  9 2006 [ 174880 00] RAIN_DROPS.HOG 
+-r-xr-xr-x   1    0    0       3546 Jan  9 2006 [ 174896 00] RAIN_EFFECT.HGZ 
+-r-xr-xr-x   1    0    0       6912 Jan  9 2006 [ 174912 00] RAIN_EFFECT.HOG 
+-r-xr-xr-x   1    0    0      94622 Jan  9 2006 [ 174928 00] READYSCR.HGZ 
+-r-xr-xr-x   1    0    0     360752 Jan  9 2006 [ 174976 00] READYSCR.HOG 
+-r-xr-xr-x   1    0    0      10368 Jan  9 2006 [ 175168 00] REWARDS.HGZ 
+-r-xr-xr-x   1    0    0      39552 Jan  9 2006 [ 175184 00] REWARDS.HOG 
+-r-xr-xr-x   1    0    0      21502 Jan  9 2006 [ 175216 00] SCOREONE.HGZ 
+-r-xr-xr-x   1    0    0      76736 Jan  9 2006 [ 175232 00] SCOREONE.HOG 
+-r-xr-xr-x   1    0    0      71460 Jan  9 2006 [ 175280 00] SHELL.HGZ 
+-r-xr-xr-x   1    0    0     198480 Jan  9 2006 [ 175328 00] SHELL.HOG 
+-r-xr-xr-x   1    0    0      73436 Jan  9 2006 [ 175440 00] SMSCORES.HGZ 
+-r-xr-xr-x   1    0    0     272224 Jan  9 2006 [ 175488 00] SMSCORES.HOG 
+-r-xr-xr-x   1    0    0      55940 Jan  9 2006 [ 175632 00] SNGLMENU.HGZ 
+-r-xr-xr-x   1    0    0     170560 Jan  9 2006 [ 175664 00] SNGLMENU.HOG 
+-r-xr-xr-x   1    0    0       4120 Jan  9 2006 [ 175760 00] SNOW_DROPS.HGZ 
+-r-xr-xr-x   1    0    0      15376 Jan  9 2006 [ 175776 00] SNOW_DROPS.HOG 
+-r-xr-xr-x   1    0    0      37640 Jan  9 2006 [ 175792 00] SOON.HGZ 
+-r-xr-xr-x   1    0    0     123424 Jan  9 2006 [ 175824 00] SOON.HOG 
+-r-xr-xr-x   1    0    0      75930 Jan  9 2006 [ 175888 00] SPLASH.HGZ 
+-r-xr-xr-x   1    0    0     204144 Jan  9 2006 [ 175936 00] SPLASH.HOG 
+-r-xr-xr-x   1    0    0       1654 Jan  9 2006 [ 176048 00] STARTING.HGZ 
+-r-xr-xr-x   1    0    0       7712 Jan  9 2006 [ 176064 00] STARTING.HOG 
+-r-xr-xr-x   1    0    0      56956 Jan  9 2006 [ 176080 00] STORY.HGZ 
+-r-xr-xr-x   1    0    0     170688 Jan  9 2006 [ 176112 00] STORY.HOG 
+-r-xr-xr-x   1    0    0       9472 Jan  9 2006 [ 176208 00] THROB.HGZ 
+-r-xr-xr-x   1    0    0      42272 Jan  9 2006 [ 176224 00] THROB.HOG 
+-r-xr-xr-x   1    0    0      57796 Jan  9 2006 [ 176256 00] TRAINING.HGZ 
+-r-xr-xr-x   1    0    0     177712 Jan  9 2006 [ 176288 00] TRAINING.HOG 
+-r-xr-xr-x   1    0    0     101962 Jan  9 2006 [ 176384 00] TRANSEL.HGZ 
+-r-xr-xr-x   1    0    0     229184 Jan  9 2006 [ 176448 00] TRANSEL.HOG 
+-r-xr-xr-x   1    0    0      11076 Jan  9 2006 [ 176560 00] UPPERNAV.HGZ 
+-r-xr-xr-x   1    0    0      46240 Jan  9 2006 [ 176576 00] UPPERNAV.HOG 
+-r-xr-xr-x   1    0    0      17826 Jan  9 2006 [ 176608 00] WEPSEL2.HGZ 
+-r-xr-xr-x   1    0    0      76064 Jan  9 2006 [ 176624 00] WEPSEL2.HOG 
+-r-xr-xr-x   1    0    0      25694 Jan  9 2006 [ 176672 00] WEPSLPSP.HGZ 
+-r-xr-xr-x   1    0    0      96880 Jan  9 2006 [ 176688 00] WEPSLPSP.HOG 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/FRONTEND/PATCHES/
+dr-xr-xr-x   1    0    0       4096 Jan  9 2006 [     42 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0       8352 Jan  9 2006 [ 163984 00] 1PATCH1.TDX 
+-r-xr-xr-x   1    0    0       8352 Jan  9 2006 [ 164000 00] 1PATCH2.TDX 
+-r-xr-xr-x   1    0    0       8352 Jan  9 2006 [ 164016 00] 1PATCH3.TDX 
+-r-xr-xr-x   1    0    0       8352 Jan  9 2006 [ 164032 00] 1PATCH4.TDX 
+-r-xr-xr-x   1    0    0       8352 Jan  9 2006 [ 164048 00] 2PATCH1.TDX 
+-r-xr-xr-x   1    0    0       8352 Jan  9 2006 [ 164064 00] 2PATCH2.TDX 
+-r-xr-xr-x   1    0    0       8352 Jan  9 2006 [ 164080 00] 2PATCH3.TDX 
+-r-xr-xr-x   1    0    0       8352 Jan  9 2006 [ 164096 00] 2PATCH4.TDX 
+-r-xr-xr-x   1    0    0       8352 Jan  9 2006 [ 164112 00] 3PATCH1.TDX 
+-r-xr-xr-x   1    0    0       8352 Jan  9 2006 [ 164128 00] 3PATCH2.TDX 
+-r-xr-xr-x   1    0    0       8352 Jan  9 2006 [ 164144 00] 3PATCH3.TDX 
+-r-xr-xr-x   1    0    0       8352 Jan  9 2006 [ 164160 00] 3PATCH4.TDX 
+-r-xr-xr-x   1    0    0       8352 Jan  9 2006 [ 164176 00] 4PATCH1.TDX 
+-r-xr-xr-x   1    0    0       8352 Jan  9 2006 [ 164192 00] 4PATCH2.TDX 
+-r-xr-xr-x   1    0    0       8352 Jan  9 2006 [ 164208 00] 4PATCH3.TDX 
+-r-xr-xr-x   1    0    0       8352 Jan  9 2006 [ 164224 00] 4PATCH4.TDX 
+-r-xr-xr-x   1    0    0       8352 Jan  9 2006 [ 164240 00] 5PATCH1.TDX 
+-r-xr-xr-x   1    0    0       8352 Jan  9 2006 [ 164256 00] 5PATCH2.TDX 
+-r-xr-xr-x   1    0    0       8352 Jan  9 2006 [ 164272 00] 5PATCH3.TDX 
+-r-xr-xr-x   1    0    0       8352 Jan  9 2006 [ 164288 00] 5PATCH4.TDX 
+-r-xr-xr-x   1    0    0       8352 Jan  9 2006 [ 164304 00] 6PATCH1.TDX 
+-r-xr-xr-x   1    0    0       8352 Jan  9 2006 [ 164320 00] 6PATCH2.TDX 
+-r-xr-xr-x   1    0    0       8352 Jan  9 2006 [ 164336 00] 6PATCH3.TDX 
+-r-xr-xr-x   1    0    0       8352 Jan  9 2006 [ 164352 00] 6PATCH4.TDX 
+-r-xr-xr-x   1    0    0      65632 Jan  9 2006 [ 164368 00] AR_PATCH00.TDX 
+-r-xr-xr-x   1    0    0      65632 Jan  9 2006 [ 164416 00] AR_PATCH01.TDX 
+-r-xr-xr-x   1    0    0      65632 Jan  9 2006 [ 164464 00] AR_PATCH02.TDX 
+-r-xr-xr-x   1    0    0      65632 Jan  9 2006 [ 164512 00] AR_PATCH03.TDX 
+-r-xr-xr-x   1    0    0      65632 Jan  9 2006 [ 164560 00] AR_PATCH10.TDX 
+-r-xr-xr-x   1    0    0      65632 Jan  9 2006 [ 164608 00] AR_PATCH11.TDX 
+-r-xr-xr-x   1    0    0      65632 Jan  9 2006 [ 164656 00] AR_PATCH12.TDX 
+-r-xr-xr-x   1    0    0      65632 Jan  9 2006 [ 164704 00] AR_PATCH13.TDX 
+-r-xr-xr-x   1    0    0      65632 Jan  9 2006 [ 164752 00] AR_PATCH20.TDX 
+-r-xr-xr-x   1    0    0      65632 Jan  9 2006 [ 164800 00] AR_PATCH21.TDX 
+-r-xr-xr-x   1    0    0      65632 Jan  9 2006 [ 164848 00] AR_PATCH22.TDX 
+-r-xr-xr-x   1    0    0      65632 Jan  9 2006 [ 164896 00] AR_PATCH23.TDX 
+-r-xr-xr-x   1    0    0      65632 Jan  9 2006 [ 164944 00] AR_PATCH30.TDX 
+-r-xr-xr-x   1    0    0      65632 Jan  9 2006 [ 164992 00] AR_PATCH31.TDX 
+-r-xr-xr-x   1    0    0      65632 Jan  9 2006 [ 165040 00] AR_PATCH32.TDX 
+-r-xr-xr-x   1    0    0      65632 Jan  9 2006 [ 165088 00] AR_PATCH33.TDX 
+-r-xr-xr-x   1    0    0      65632 Jan  9 2006 [ 165136 00] AR_PATCH40.TDX 
+-r-xr-xr-x   1    0    0      65632 Jan  9 2006 [ 165184 00] AR_PATCH41.TDX 
+-r-xr-xr-x   1    0    0      65632 Jan  9 2006 [ 165232 00] AR_PATCH42.TDX 
+-r-xr-xr-x   1    0    0      65632 Jan  9 2006 [ 165280 00] AR_PATCH43.TDX 
+-r-xr-xr-x   1    0    0      65632 Jan  9 2006 [ 165328 00] AR_PATCH50.TDX 
+-r-xr-xr-x   1    0    0      65632 Jan  9 2006 [ 165376 00] AR_PATCH51.TDX 
+-r-xr-xr-x   1    0    0      65632 Jan  9 2006 [ 165424 00] AR_PATCH52.TDX 
+-r-xr-xr-x   1    0    0      65632 Jan  9 2006 [ 165472 00] AR_PATCH53.TDX 
+-r-xr-xr-x   1    0    0      65632 Jan  9 2006 [ 165520 00] PSR_PATCH00.TDX 
+-r-xr-xr-x   1    0    0      65632 Jan  9 2006 [ 165568 00] PSR_PATCH01.TDX 
+-r-xr-xr-x   1    0    0      65632 Jan  9 2006 [ 165616 00] PSR_PATCH02.TDX 
+-r-xr-xr-x   1    0    0      65632 Jan  9 2006 [ 165664 00] PSR_PATCH03.TDX 
+-r-xr-xr-x   1    0    0      65632 Jan  9 2006 [ 165712 00] PSR_PATCH10.TDX 
+-r-xr-xr-x   1    0    0      65632 Jan  9 2006 [ 165760 00] PSR_PATCH11.TDX 
+-r-xr-xr-x   1    0    0      65632 Jan  9 2006 [ 165808 00] PSR_PATCH12.TDX 
+-r-xr-xr-x   1    0    0      65632 Jan  9 2006 [ 165856 00] PSR_PATCH13.TDX 
+-r-xr-xr-x   1    0    0      65632 Jan  9 2006 [ 165904 00] PSR_PATCH20.TDX 
+-r-xr-xr-x   1    0    0      65632 Jan  9 2006 [ 165952 00] PSR_PATCH21.TDX 
+-r-xr-xr-x   1    0    0      65632 Jan  9 2006 [ 166000 00] PSR_PATCH22.TDX 
+-r-xr-xr-x   1    0    0      65632 Jan  9 2006 [ 166048 00] PSR_PATCH23.TDX 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/FRONTEND/RATINGS_VO/
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     44 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     134760 Jan  9 2006 [ 161936 00] 40.1.1.1.AT3 
+-r-xr-xr-x   1    0    0     110208 Jan  9 2006 [ 162016 00] 40.1.1.2.AT3 
+-r-xr-xr-x   1    0    0     108720 Jan  9 2006 [ 162080 00] 40.1.1.3.AT3 
+-r-xr-xr-x   1    0    0     111696 Jan  9 2006 [ 162144 00] 40.1.1.4.AT3 
+-r-xr-xr-x   1    0    0     219576 Jan  9 2006 [ 162208 00] 40.1.2.1.AT3 
+-r-xr-xr-x   1    0    0     113928 Jan  9 2006 [ 162320 00] 40.1.2.2.AT3 
+-r-xr-xr-x   1    0    0     234456 Jan  9 2006 [ 162384 00] 40.1.2.3.AT3 
+-r-xr-xr-x   1    0    0     119880 Jan  9 2006 [ 162512 00] 40.1.2.4.AT3 
+-r-xr-xr-x   1    0    0     102768 Jan  9 2006 [ 162576 00] 40.2.1.1.AT3 
+-r-xr-xr-x   1    0    0     130296 Jan  9 2006 [ 162640 00] 40.2.1.2.AT3 
+-r-xr-xr-x   1    0    0     110952 Jan  9 2006 [ 162704 00] 40.2.1.3.AT3 
+-r-xr-xr-x   1    0    0     136248 Jan  9 2006 [ 162768 00] 40.2.1.4.AT3 
+-r-xr-xr-x   1    0    0     227760 Jan  9 2006 [ 162848 00] 40.2.2.1.AT3 
+-r-xr-xr-x   1    0    0     174192 Jan  9 2006 [ 162960 00] 40.2.2.2.AT3 
+-r-xr-xr-x   1    0    0     192048 Jan  9 2006 [ 163056 00] 40.2.2.3.AT3 
+-r-xr-xr-x   1    0    0     206184 Jan  9 2006 [ 163152 00] 40.2.2.4.AT3 
+-r-xr-xr-x   1    0    0     189072 Jan  9 2006 [ 163264 00] 40.3.1.1.AT3 
+-r-xr-xr-x   1    0    0     159312 Jan  9 2006 [ 163360 00] 40.3.1.2.AT3 
+-r-xr-xr-x   1    0    0     267936 Jan  9 2006 [ 163440 00] 40.3.1.3.AT3 
+-r-xr-xr-x   1    0    0     191304 Jan  9 2006 [ 163584 00] 40.3.1.4.AT3 
+-r-xr-xr-x   1    0    0     150384 Jan  9 2006 [ 163680 00] 40.3.2.1.AT3 
+-r-xr-xr-x   1    0    0      84168 Jan  9 2006 [ 163760 00] 40.3.2.2.AT3 
+-r-xr-xr-x   1    0    0     186096 Jan  9 2006 [ 163808 00] 40.3.2.3.AT3 
+-r-xr-xr-x   1    0    0     132528 Jan  9 2006 [ 163904 00] 40.3.2.4.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/FRONTEND/SVO/
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     45 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0      12688 Jan  9 2006 [ 161920 00] DM_BUTTONS_BW_1.HOG 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/FRONTEND/UI_GROUPS/
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     46 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0      46604 Jan  9 2006 [ 159680 00] SHELL_FREED.HGZ 
+-r-xr-xr-x   1    0    0     259072 Jan  9 2006 [ 159712 00] SHELL_FREED.HOG 
+-r-xr-xr-x   1    0    0     947268 Jan  9 2006 [ 159840 00] SHELL_UNFREED.HGZ 
+-r-xr-xr-x   1    0    0    3282672 Jan  9 2006 [ 160304 00] SHELL_UNFREED.HOG 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/MULTI/WEAPONS/
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     47 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     33 02] .. 
+-r-xr-xr-x   1    0    0    1361040 Jan  9 2006 [ 250784 00] FREED.HOG 
+-r-xr-xr-x   1    0    0    2618944 Jan  9 2006 [ 251456 00] FREEDGUI.HOG 
+-r-xr-xr-x   1    0    0    2618944 Jan  9 2006 [ 252736 00] FREEDGUI_OBJ.HOG 
+-r-xr-xr-x   1    0    0    1364720 Jan  9 2006 [ 254016 00] FREED_OBJ.HOG 
+-r-xr-xr-x   1    0    0    3368256 Jan  9 2006 [ 254688 00] UNFREED.HOG 
+-r-xr-xr-x   1    0    0    3938304 Jan  9 2006 [ 256336 00] UNFREED_OBJ.HOG 
+-r-xr-xr-x   1    0    0    4158080 Jan  9 2006 [ 258272 00] VOLATILE.HOG 
+-r-xr-xr-x   1    0    0    3773760 Jan  9 2006 [ 260304 00] VOLATILE_OBJ.HOG 
+-r-xr-xr-x   1    0    0    2721792 Jan  9 2006 [ 262160 00] VOMUSIC.SKX 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/FRONTEND/BONUS/AUDIO/
+dr-xr-xr-x   1    0    0       4096 Jan  9 2006 [     48 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     34 02] .. 
+-r-xr-xr-x   1    0    0    1994760 Jan  9 2006 [ 201696 00] AERO_JM_ACT.AT3 
+-r-xr-xr-x   1    0    0    1101216 Jan  9 2006 [ 202672 00] AERO_LR_ACT.AT3 
+-r-xr-xr-x   1    0    0    1092288 Jan  9 2006 [ 203216 00] AERO_LR_SUS.AT3 
+-r-xr-xr-x   1    0    0    1979136 Jan  9 2006 [ 203760 00] AERO_MS_ACT.AT3 
+-r-xr-xr-x   1    0    0    2001456 Jan  9 2006 [ 204736 00] AERO_MS_SUS.AT3 
+-r-xr-xr-x   1    0    0    1662192 Jan  9 2006 [ 205728 00] CASIN_JM_ACT.AT3 
+-r-xr-xr-x   1    0    0    1795368 Jan  9 2006 [ 206544 00] CASIN_JM_SUS.AT3 
+-r-xr-xr-x   1    0    0    1967232 Jan  9 2006 [ 207424 00] CASIN_MS_ACT.AT3 
+-r-xr-xr-x   1    0    0    1965744 Jan  9 2006 [ 208400 00] CASIN_MS_SUS.AT3 
+-r-xr-xr-x   1    0    0    1924080 Jan  9 2006 [ 209360 00] EPISODE_01.AT3 
+-r-xr-xr-x   1    0    0    1827360 Jan  9 2006 [ 210304 00] EPISODE_02.AT3 
+-r-xr-xr-x   1    0    0    1726176 Jan  9 2006 [ 211200 00] EPISODE_03.AT3 
+-r-xr-xr-x   1    0    0    1924080 Jan  9 2006 [ 212048 00] EPISODE_04.AT3 
+-r-xr-xr-x   1    0    0    1924080 Jan  9 2006 [ 212992 00] EPISODE_05.AT3 
+-r-xr-xr-x   1    0    0    1726176 Jan  9 2006 [ 213936 00] EPISODE_06.AT3 
+-r-xr-xr-x   1    0    0    1827360 Jan  9 2006 [ 214784 00] EPISODE_07.AT3 
+-r-xr-xr-x   1    0    0    1726176 Jan  9 2006 [ 215680 00] EPISODE_08.AT3 
+-r-xr-xr-x   1    0    0    1979880 Jan  9 2006 [ 216528 00] HKONG_JM_ACT.AT3 
+-r-xr-xr-x   1    0    0    2151000 Jan  9 2006 [ 217504 00] HKONG_JM_SUS.AT3 
+-r-xr-xr-x   1    0    0    2029728 Jan  9 2006 [ 218560 00] HKONG_MS_ACT.AT3 
+-r-xr-xr-x   1    0    0    2010384 Jan  9 2006 [ 219552 00] HKONG_MS_SUS.AT3 
+-r-xr-xr-x   1    0    0    1993272 Jan  9 2006 [ 220544 00] REFIN_AL_SUS.AT3 
+-r-xr-xr-x   1    0    0    1311768 Jan  9 2006 [ 221520 00] REFIN_JM_ACT.AT3 
+-r-xr-xr-x   1    0    0    1084848 Jan  9 2006 [ 222176 00] REFIN_LR_ACT.AT3 
+-r-xr-xr-x   1    0    0    1259688 Jan  9 2006 [ 222720 00] REFIN_LR_SUS.AT3 
+-r-xr-xr-x   1    0    0    1955328 Jan  9 2006 [ 223344 00] REFIN_MS_ACT.AT3 
+-r-xr-xr-x   1    0    0    2010384 Jan  9 2006 [ 224304 00] REFIN_MS_SUS.AT3 
+-r-xr-xr-x   1    0    0    2090736 Jan  9 2006 [ 225296 00] SHNT_JM_ACT.AT3 
+-r-xr-xr-x   1    0    0    2002200 Jan  9 2006 [ 226320 00] SHNT_JM_SUS.AT3 
+-r-xr-xr-x   1    0    0    1972440 Jan  9 2006 [ 227312 00] SHNT_MS_ACT.AT3 
+-r-xr-xr-x   1    0    0    1960536 Jan  9 2006 [ 228288 00] SHNT_MS_SUS.AT3 
+-r-xr-xr-x   1    0    0    2055024 Jan  9 2006 [ 229248 00] THM_GABE.AT3 
+-r-xr-xr-x   1    0    0    1654752 Jan  9 2006 [ 230256 00] THM_GEN_SUS.AT3 
+-r-xr-xr-x   1    0    0    2054280 Jan  9 2006 [ 231072 00] THM_HARGR.AT3 
+-r-xr-xr-x   1    0    0    2514816 Jan  9 2006 [ 232080 00] THM_JM_ACT.AT3 
+-r-xr-xr-x   1    0    0    1996992 Jan  9 2006 [ 233312 00] THM_JM_SUS2.AT3 
+-r-xr-xr-x   1    0    0    1633920 Jan  9 2006 [ 234288 00] THM_LR_ACT.AT3 
+-r-xr-xr-x   1    0    0    2037912 Jan  9 2006 [ 235088 00] THM_LR_BOSS.AT3 
+-r-xr-xr-x   1    0    0    1096008 Jan  9 2006 [ 236096 00] THM_LR_STEAL.AT3 
+-r-xr-xr-x   1    0    0    2328072 Jan  9 2006 [ 236640 00] THM_MAIN.AT3 
+-r-xr-xr-x   1    0    0    2050560 Jan  9 2006 [ 237792 00] THM_RS.AT3 
+-r-xr-xr-x   1    0    0     962088 Jan  9 2006 [ 238800 00] THM_SHNT_ACT.AT3 
+-r-xr-xr-x   1    0    0    1110888 Jan  9 2006 [ 239280 00] THM_SHNT_SUS.AT3 
+-r-xr-xr-x   1    0    0    2127936 Jan  9 2006 [ 239824 00] THM_SING.AT3 
+-r-xr-xr-x   1    0    0    1941192 Jan  9 2006 [ 240864 00] WEP_JM_HI.AT3 
+-r-xr-xr-x   1    0    0    1962024 Jan  9 2006 [ 241824 00] WEP_JM_SUS.AT3 
+-r-xr-xr-x   1    0    0    1157760 Jan  9 2006 [ 242784 00] WEP_LR_ACT.AT3 
+-r-xr-xr-x   1    0    0    1039464 Jan  9 2006 [ 243360 00] WEP_LR_SUS.AT3 
+-r-xr-xr-x   1    0    0    1996248 Jan  9 2006 [ 243872 00] WEP_MS_ACT.AT3 
+-r-xr-xr-x   1    0    0    1956816 Jan  9 2006 [ 244848 00] WEP_MS_SUS.AT3 
+-r-xr-xr-x   1    0    0    1995504 Jan  9 2006 [ 245808 00] ZUGS_MS_ACT.AT3 
+-r-xr-xr-x   1    0    0    1941192 Jan  9 2006 [ 246784 00] ZUGS_MS_SUS.AT3 
+-r-xr-xr-x   1    0    0    1069224 Jan  9 2006 [ 247744 00] ZUG_LR_ACT.AT3 
+-r-xr-xr-x   1    0    0    1084104 Jan  9 2006 [ 248272 00] ZUG_LR_SUS.AT3 
+-r-xr-xr-x   1    0    0    2013360 Jan  9 2006 [ 248816 00] ZUG_MS_ACT.AT3 
+-r-xr-xr-x   1    0    0    1973928 Jan  9 2006 [ 249808 00] ZUG_MS_SUS.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/FRONTEND/BONUS/CONCEPT/
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     50 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  9 2006 [     34 02] .. 
+-r-xr-xr-x   1    0    0     652794 Jan  9 2006 [ 195984 00] EPISODE_01.HGZ 
+-r-xr-xr-x   1    0    0    1190000 Jan  9 2006 [ 196304 00] EPISODE_01.HOG 
+-r-xr-xr-x   1    0    0     577382 Jan  9 2006 [ 196896 00] EPISODE_02.HGZ 
+-r-xr-xr-x   1    0    0    1190000 Jan  9 2006 [ 197184 00] EPISODE_02.HOG 
+-r-xr-xr-x   1    0    0     547284 Jan  9 2006 [ 197776 00] EPISODE_03.HGZ 
+-r-xr-xr-x   1    0    0    1057760 Jan  9 2006 [ 198048 00] EPISODE_03.HOG 
+-r-xr-xr-x   1    0    0     583804 Jan  9 2006 [ 198576 00] EPISODE_04.HGZ 
+-r-xr-xr-x   1    0    0     925536 Jan  9 2006 [ 198864 00] EPISODE_04.HOG 
+-r-xr-xr-x   1    0    0     352446 Jan  9 2006 [ 199328 00] EPISODE_05.HGZ 
+-r-xr-xr-x   1    0    0     793328 Jan  9 2006 [ 199504 00] EPISODE_05.HOG 
+-r-xr-xr-x   1    0    0     205064 Jan  9 2006 [ 199904 00] EPISODE_06.HGZ 
+-r-xr-xr-x   1    0    0     396688 Jan  9 2006 [ 200016 00] EPISODE_06.HOG 
+-r-xr-xr-x   1    0    0     481288 Jan  9 2006 [ 200224 00] EPISODE_07.HGZ 
+-r-xr-xr-x   1    0    0    1057744 Jan  9 2006 [ 200464 00] EPISODE_07.HOG 
+-r-xr-xr-x   1    0    0     471484 Jan  9 2006 [ 200992 00] EPISODE_08.HGZ 
+-r-xr-xr-x   1    0    0     925536 Jan  9 2006 [ 201232 00] EPISODE_08.HOG 
+=============================================================== 
+Generated on Sun 07/08/2022 at 13:43:40.67 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

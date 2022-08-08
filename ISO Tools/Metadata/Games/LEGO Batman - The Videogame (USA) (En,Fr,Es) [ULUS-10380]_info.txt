@@ -1,0 +1,330 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: LEGO Batman - The Videogame   
+Title ID: ULUS-10380 
+Region: USA  
+Languages: En,Fr,Es  
+Volume Creation Date: 2008-08-29 22:01:18 
+Volume Size: 1084 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: 
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 555024
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Aug 29 2008 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 29 2008 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Aug 29 2008 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Aug 29 2008 [     38 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Aug 29 2008 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 29 2008 [     22 02] .. 
+-r-xr-xr-x   1    0    0       7400 Aug 29 2008 [  55344 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     505856 Aug 29 2008 [  55360 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 Aug 29 2008 [  55328 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      22057 Aug 29 2008 [  55616 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0      21039 Aug 29 2008 [  55632 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Aug 29 2008 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Aug 29 2008 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Aug 29 2008 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 29 2008 [     23 02] .. 
+-r-xr-xr-x   1    0    0    4109852 Aug 29 2008 [  55648 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    4110192 Aug 29 2008 [     48 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Aug 29 2008 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Aug 29 2008 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 29 2008 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 Aug 19 2008 [     27 02] AUDIO 
+-r-xr-xr-x   1    0    0  659145424 Aug 29 2008 [  57664 00] GAME.DAT 
+-r-xr-xr-x   1    0    0     505856 Aug 29 2008 [ 379520 00] ICON1.PMF 
+dr-xr-xr-x   1    0    0       2048 Aug 15 2008 [     28 02] MOVIES 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Aug 29 2008 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 29 2008 [     24 02] .. 
+-r-xr-xr-x   1    0    0   20544736 Aug 29 2008 [   6176 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5216752 Aug 29 2008 [   2080 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Aug 29 2008 [   2064 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/
+dr-xr-xr-x   1    0    0       2048 Aug 19 2008 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 29 2008 [     25 02] .. 
+dr-xr-xr-x   1    0    0       8192 Aug 29 2008 [     29 02] _CUTSCENES 
+dr-xr-xr-x   1    0    0      10240 Aug 29 2008 [     33 02] _MUSIC 
+
+Directory listing of /PSP_GAME/USRDIR/MOVIES/
+dr-xr-xr-x   1    0    0       2048 Aug 15 2008 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 29 2008 [     25 02] .. 
+-r-xr-xr-x   1    0    0    8740864 Aug 13 2008 [ 529280 00] DEMOINTRO.PMF 
+-r-xr-xr-x   1    0    0    8843264 Aug 13 2008 [ 533552 00] DEMOINTRO_PAL.PMF 
+-r-xr-xr-x   1    0    0   14215168 Aug 15 2008 [ 537872 00] MAININTRO.PMF 
+-r-xr-xr-x   1    0    0   14215168 Aug 15 2008 [ 544816 00] MAININTRO_PAL.PMF 
+-r-xr-xr-x   1    0    0    3323904 Jul 31 2008 [ 551760 00] TT.PMF 
+-r-xr-xr-x   1    0    0    3323904 Jul 31 2008 [ 553392 00] TT_PAL.PMF 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/_CUTSCENES/
+dr-xr-xr-x   1    0    0       8192 Aug 29 2008 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 19 2008 [     27 02] .. 
+-r-xr-xr-x   1    0    0     240408 Aug  4 2008 [ 379776 00] ARCTIC_D_MIDTRO.AT3 
+-r-xr-xr-x   1    0    0     426408 Jul  8 2008 [ 379904 00] ARCTIC_INTRO.AT3 
+-r-xr-xr-x   1    0    0     584136 Jul 28 2008 [ 380128 00] ARCTIC_OUTRO.AT3 
+-r-xr-xr-x   1    0    0      58128 Jul 29 2008 [ 380416 00] BATBOAT.AT3 
+-r-xr-xr-x   1    0    0      58128 Jul 29 2008 [ 380448 00] BATMOBILE.AT3 
+-r-xr-xr-x   1    0    0      66312 Jul 29 2008 [ 380480 00] BATWING.AT3 
+-r-xr-xr-x   1    0    0     665976 Aug  5 2008 [ 380528 00] BOTANICGARDENS_INTRO.AT3 
+-r-xr-xr-x   1    0    0     416736 Jul 14 2008 [ 380864 00] BOTANICGARDENS_MIDTRO.AT3 
+-r-xr-xr-x   1    0    0     698712 Jul  8 2008 [ 381072 00] BOTANICGARDENS_OUTRO.AT3 
+-r-xr-xr-x   1    0    0     364656 Aug  4 2008 [ 381424 00] BOTANICVILLAIN_INTRO.AT3 
+-r-xr-xr-x   1    0    0     352008 Jul  8 2008 [ 381616 00] BOTANICVILLAIN_OUTRO.AT3 
+-r-xr-xr-x   1    0    0     233712 Aug  4 2008 [ 381792 00] CATHEDRAL_A_MIDTRO.AT3 
+-r-xr-xr-x   1    0    0     144432 Jul 31 2008 [ 381920 00] CATHEDRAL_C_MIDTRO.AT3 
+-r-xr-xr-x   1    0    0     463608 Jul 18 2008 [ 382000 00] CATHEDRAL_INTRO.AT3 
+-r-xr-xr-x   1    0    0     467328 Jul 22 2008 [ 382240 00] CATHEDRAL_MIDTRO.AT3 
+-r-xr-xr-x   1    0    0     845280 Jul 31 2008 [ 382480 00] CATHEDRAL_OUTRO.AT3 
+-r-xr-xr-x   1    0    0     912984 Jul 14 2008 [ 382896 00] CHAPTER1_INTRO.AT3 
+-r-xr-xr-x   1    0    0     459888 Jul 28 2008 [ 383344 00] CHAPTER1_OUTRO.AT3 
+-r-xr-xr-x   1    0    0    1193472 Jul  7 2008 [ 383584 00] CHAPTER2_INTRO.AT3 
+-r-xr-xr-x   1    0    0     499320 Jul 10 2008 [ 384176 00] CHAPTER2_OUTRO.AT3 
+-r-xr-xr-x   1    0    0     930840 Jul 10 2008 [ 384432 00] CHAPTER3_INTRO.AT3 
+-r-xr-xr-x   1    0    0     631008 Jul 29 2008 [ 384896 00] CHAPTER3_OUTRO.AT3 
+-r-xr-xr-x   1    0    0     187584 Jul 29 2008 [ 385216 00] CHEMICALWORKS_C_MIDTRO.AT3 
+-r-xr-xr-x   1    0    0    1122792 Jul 14 2008 [ 385312 00] CHEMICALWORKS_INTRO.AT3 
+-r-xr-xr-x   1    0    0     281328 Jul 14 2008 [ 385872 00] CHEMICALWORKS_OUTRO.AT3 
+-r-xr-xr-x   1    0    0     476256 Jul 31 2008 [ 386016 00] EVILARCTIC_INTRO.AT3 
+-r-xr-xr-x   1    0    0     522384 Jul 31 2008 [ 386256 00] EVILARCTIC_OUTRO.AT3 
+-r-xr-xr-x   1    0    0     431616 Jul 31 2008 [ 386512 00] EVILCATHEDRAL_INTRO.AT3 
+-r-xr-xr-x   1    0    0     771624 Jul 14 2008 [ 386736 00] EVILCATHEDRAL_OUTRO.AT3 
+-r-xr-xr-x   1    0    0     631752 Jul 14 2008 [ 387120 00] EVILHARBOUR_INTRO.AT3 
+-r-xr-xr-x   1    0    0      96816 Jul 31 2008 [ 387440 00] EVILHARBOUR_MIDTRO.AT3 
+-r-xr-xr-x   1    0    0     784272 Jul 15 2008 [ 387488 00] EVILHARBOUR_OUTRO.AT3 
+-r-xr-xr-x   1    0    0     583392 Jul 25 2008 [ 387872 00] EVILICECREAM_INTRO.AT3 
+-r-xr-xr-x   1    0    0     410040 Jul 14 2008 [ 388160 00] EVILICECREAM_OUTRO.AT3 
+-r-xr-xr-x   1    0    0     474768 Aug  9 2008 [ 388368 00] EVILSLUMS_INTRO.AT3 
+-r-xr-xr-x   1    0    0     172704 Aug  4 2008 [ 388608 00] EVILSLUMS_MIDTROD.AT3 
+-r-xr-xr-x   1    0    0     235944 Aug  4 2008 [ 388704 00] EVILSLUMS_OUTRO.AT3 
+-r-xr-xr-x   1    0    0     502296 Jul 31 2008 [ 388832 00] EVILSTREETS_INTRO.AT3 
+-r-xr-xr-x   1    0    0     580416 Jul  9 2008 [ 389088 00] EVILSTREETS_OUTRO.AT3 
+-r-xr-xr-x   1    0    0     633240 Jul 28 2008 [ 389376 00] EVIL_DOCKS_INTRO.AT3 
+-r-xr-xr-x   1    0    0    1018632 Jul 14 2008 [ 389696 00] EVIL_DOCKS_OUTRO.AT3 
+-r-xr-xr-x   1    0    0     648120 Jul  8 2008 [ 390208 00] FACTORY_INTRO.AT3 
+-r-xr-xr-x   1    0    0     227760 Jul  8 2008 [ 390528 00] FACTORY_MIDTRO.AT3 
+-r-xr-xr-x   1    0    0     719544 Jul 28 2008 [ 390640 00] FACTORY_OUTRO.AT3 
+-r-xr-xr-x   1    0    0     682344 Jul 31 2008 [ 390992 00] FAIRGROUNDBAD_INTRO.AT3 
+-r-xr-xr-x   1    0    0     189816 Aug  9 2008 [ 391328 00] FAIRGROUNDBAD_MIDTRO.AT3 
+-r-xr-xr-x   1    0    0     486672 Aug  9 2008 [ 391424 00] FAIRGROUNDBAD_OUTRO.AT3 
+-r-xr-xr-x   1    0    0     728472 Aug  4 2008 [ 391664 00] FAIRGROUND_INTRO.AT3 
+-r-xr-xr-x   1    0    0     253800 Jul 15 2008 [ 392032 00] FAIRGROUND_MIDTRO.AT3 
+-r-xr-xr-x   1    0    0     956880 Aug 15 2008 [ 392160 00] FAIRGROUND_OUTRO.AT3 
+-r-xr-xr-x   1    0    0      78960 Jul 29 2008 [ 392640 00] FLIGHT_C_MIDTRO.AT3 
+-r-xr-xr-x   1    0    0     193536 Jul 22 2008 [ 392688 00] FLIGHT_INTRO.AT3 
+-r-xr-xr-x   1    0    0     696480 Jul 14 2008 [ 392784 00] FLIGHT_OUTRO.AT3 
+-r-xr-xr-x   1    0    0    1225464 Jul  9 2008 [ 393136 00] FORTBLOXVILLAIN_INTRO.AT3 
+-r-xr-xr-x   1    0    0     292488 Aug  1 2008 [ 393744 00] FORTBLOXVILLAIN_OUTRO.AT3 
+-r-xr-xr-x   1    0    0     167496 Jul 31 2008 [ 393888 00] FORTBLOX_C_MIDTRO.AT3 
+-r-xr-xr-x   1    0    0     625800 Aug  4 2008 [ 393984 00] FORTBLOX_INTRO.AT3 
+-r-xr-xr-x   1    0    0     467328 Jul  8 2008 [ 394304 00] FORTBLOX_MIDTRO.AT3 
+-r-xr-xr-x   1    0    0     263472 Jul  8 2008 [ 394544 00] FORTBLOX_OUTRO.AT3 
+-r-xr-xr-x   1    0    0     469560 Jul 22 2008 [ 394688 00] GALLERY_INTRO.AT3 
+-r-xr-xr-x   1    0    0     390696 Jul 22 2008 [ 394928 00] GALLERY_OUTRO.AT3 
+-r-xr-xr-x   1    0    0     514200 Aug  1 2008 [ 395120 00] GAMEOUTRO.AT3 
+-r-xr-xr-x   1    0    0     129552 Jul 23 2008 [ 395376 00] GOTHAMSTREETS_B_MIDTRO.AT3 
+-r-xr-xr-x   1    0    0     556608 Jul  8 2008 [ 395440 00] GOTHAMSTREETS_INTRO.AT3 
+-r-xr-xr-x   1    0    0     727728 Jul 28 2008 [ 395712 00] GOTHAMSTREETS_OUTRO.AT3 
+-r-xr-xr-x   1    0    0     604968 Aug  4 2008 [ 396080 00] IDENT_WB_BATMAN.AT3 
+-r-xr-xr-x   1    0    0      81192 Jul 29 2008 [ 396384 00] JOKERCOPTER.AT3 
+-r-xr-xr-x   1    0    0    1599696 Aug 12 2008 [ 396432 00] MAIN_INTRO.AT3 
+-r-xr-xr-x   1    0    0     552144 Jul 15 2008 [ 397216 00] NASTYSEWERS_INTRO.AT3 
+-r-xr-xr-x   1    0    0     447240 Aug  4 2008 [ 397488 00] NASTYSEWERS_OUTRO.AT3 
+-r-xr-xr-x   1    0    0      81192 Jul 29 2008 [ 397712 00] PENGUINSUB.AT3 
+-r-xr-xr-x   1    0    0      94584 Jul 29 2008 [ 397760 00] ROOFBOTTOMS_A_MIDTRO.AT3 
+-r-xr-xr-x   1    0    0     419712 Jul  8 2008 [ 397808 00] ROOFBOTTOMS_INTRO.AT3 
+-r-xr-xr-x   1    0    0     687552 Jul 18 2008 [ 398016 00] ROOFBOTTOMS_OUTRO.AT3 
+-r-xr-xr-x   1    0    0     551400 Jul 19 2008 [ 398352 00] ROOFTOPFLIGHT_INTRO.AT3 
+-r-xr-xr-x   1    0    0      63336 Aug 13 2008 [ 398624 00] ROOFTOPFLIGHT_MIDTRO.AT3 
+-r-xr-xr-x   1    0    0     338616 Aug  4 2008 [ 398656 00] ROOFTOPFLIGHT_OUTRO.AT3 
+-r-xr-xr-x   1    0    0     145920 Aug  4 2008 [ 398832 00] ROOFTOPS_C_MIDTRO.AT3 
+-r-xr-xr-x   1    0    0     609432 Aug  4 2008 [ 398912 00] ROOFTOPS_INTRO.AT3 
+-r-xr-xr-x   1    0    0     619848 Aug  4 2008 [ 399216 00] ROOFTOPS_OUTRO.AT3 
+-r-xr-xr-x   1    0    0     418224 Jul  8 2008 [ 399520 00] SEWERS_INTRO.AT3 
+-r-xr-xr-x   1    0    0     277608 Jul 19 2008 [ 399728 00] SEWERS_MIDTRO.AT3 
+-r-xr-xr-x   1    0    0     322248 Jul  8 2008 [ 399872 00] SEWERS_OUTRO.AT3 
+-r-xr-xr-x   1    0    0     444264 Jul 23 2008 [ 400032 00] SLUMS_INTRO.AT3 
+-r-xr-xr-x   1    0    0     256776 Aug  4 2008 [ 400256 00] SLUMS_MIDTRO.AT3 
+-r-xr-xr-x   1    0    0     335640 Jul 23 2008 [ 400384 00] SLUMS_OUTRO.AT3 
+-r-xr-xr-x   1    0    0     120624 Aug  4 2008 [ 400560 00] STREETSCHASE_D_MIDTRO.AT3 
+-r-xr-xr-x   1    0    0     779064 Jul 15 2008 [ 400624 00] STREETSCHASE_INTRO.AT3 
+-r-xr-xr-x   1    0    0     654072 Jul  8 2008 [ 401008 00] STREETSCHASE_OUTRO.AT3 
+-r-xr-xr-x   1    0    0     805104 Aug 11 2008 [ 401328 00] THEHARBOUR_INTRO.AT3 
+-r-xr-xr-x   1    0    0     427152 Jul 23 2008 [ 401728 00] THEHARBOUR_MIDTRO.AT3 
+-r-xr-xr-x   1    0    0     401112 Jul  8 2008 [ 401952 00] THEHARBOUR_OUTRO.AT3 
+-r-xr-xr-x   1    0    0      81192 Jul 29 2008 [ 402160 00] TWOFACEVAN.AT3 
+-r-xr-xr-x   1    0    0     569256 Jul 17 2008 [ 402208 00] WAYNEVILLAIN_INTRO.AT3 
+-r-xr-xr-x   1    0    0     482208 Aug  9 2008 [ 402496 00] WAYNEVILLAIN_OUTRO.AT3 
+-r-xr-xr-x   1    0    0     572232 Jul 15 2008 [ 402736 00] ZOO_INTRO.AT3 
+-r-xr-xr-x   1    0    0     326712 Aug  4 2008 [ 403024 00] ZOO_MIDTRO.AT3 
+-r-xr-xr-x   1    0    0     386232 Aug  4 2008 [ 403184 00] ZOO_OUTRO.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/_MUSIC/
+dr-xr-xr-x   1    0    0      10240 Aug 29 2008 [     33 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 19 2008 [     27 02] .. 
+-r-xr-xr-x   1    0    0    4657604 Feb 14 2008 [ 403376 00] ACT_LEVEL3.AT3 
+-r-xr-xr-x   1    0    0     161612 Feb 14 2008 [ 405664 00] AMB_PLACEHOLDER.AT3 
+-r-xr-xr-x   1    0    0    1215860 Feb 14 2008 [ 405744 00] CREDITS.AT3 
+-r-xr-xr-x   1    0    0    1083428 Jul  3 2008 [ 406352 00] HUB_ARKHAM.AT3 
+-r-xr-xr-x   1    0    0    1083428 Jul  3 2008 [ 406896 00] HUB_ARKHAM_AMB.AT3 
+-r-xr-xr-x   1    0    0    1813292 Jul  3 2008 [ 407440 00] HUB_BATCAVE.AT3 
+-r-xr-xr-x   1    0    0    1813292 Jul  3 2008 [ 408336 00] HUB_BATCAVE_AMB.AT3 
+-r-xr-xr-x   1    0    0    2076668 Jul 14 2008 [ 409232 00] H_CH1_BOTANICGARDENS_A_ACT.AT3 
+-r-xr-xr-x   1    0    0    2076668 Jul 14 2008 [ 410256 00] H_CH1_BOTANICGARDENS_A_AMB.AT3 
+-r-xr-xr-x   1    0    0    1726244 Jul 14 2008 [ 411280 00] H_CH1_BOTANICGARDENS_A_QUI.AT3 
+-r-xr-xr-x   1    0    0    2076668 Jul 14 2008 [ 412128 00] H_CH1_BOTANICGARDENS_B_ACT.AT3 
+-r-xr-xr-x   1    0    0    2076668 Jul 14 2008 [ 413152 00] H_CH1_BOTANICGARDENS_B_AMB.AT3 
+-r-xr-xr-x   1    0    0    1726244 Jul 14 2008 [ 414176 00] H_CH1_BOTANICGARDENS_B_QUI.AT3 
+-r-xr-xr-x   1    0    0    2076668 Jul 14 2008 [ 415024 00] H_CH1_BOTANICGARDENS_C_ACT.AT3 
+-r-xr-xr-x   1    0    0    2076668 Jul 14 2008 [ 416048 00] H_CH1_BOTANICGARDENS_C_AMB.AT3 
+-r-xr-xr-x   1    0    0    1726244 Jul 14 2008 [ 417072 00] H_CH1_BOTANICGARDENS_C_QUI.AT3 
+-r-xr-xr-x   1    0    0    1958372 Jul 17 2008 [ 417920 00] H_CH1_FORTBLOX_A_ACT.AT3 
+-r-xr-xr-x   1    0    0    1958372 Jul 17 2008 [ 418880 00] H_CH1_FORTBLOX_A_AMB.AT3 
+-r-xr-xr-x   1    0    0    1384004 Jul 17 2008 [ 419840 00] H_CH1_FORTBLOX_A_QUI.AT3 
+-r-xr-xr-x   1    0    0    1958372 Jul 17 2008 [ 420528 00] H_CH1_FORTBLOX_B_ACT.AT3 
+-r-xr-xr-x   1    0    0    1958372 Jul 17 2008 [ 421488 00] H_CH1_FORTBLOX_B_AMB.AT3 
+-r-xr-xr-x   1    0    0    1384004 Jul 17 2008 [ 422448 00] H_CH1_FORTBLOX_B_QUI.AT3 
+-r-xr-xr-x   1    0    0    3678500 Jul 10 2008 [ 423136 00] H_CH1_GOTHAMSTREETS_A_ACT.AT3 
+-r-xr-xr-x   1    0    0    3678500 Jul 10 2008 [ 424944 00] H_CH1_GOTHAMSTREETS_A_AMB.AT3 
+-r-xr-xr-x   1    0    0    1070036 Jul 10 2008 [ 426752 00] H_CH1_GOTHAMSTREETS_A_QUI.AT3 
+-r-xr-xr-x   1    0    0    3226148 Jul 14 2008 [ 427280 00] H_CH1_STREETSCHASE_A_ACT.AT3 
+-r-xr-xr-x   1    0    0    3226148 Jul 14 2008 [ 428864 00] H_CH1_STREETSCHASE_A_AMB.AT3 
+-r-xr-xr-x   1    0    0    2050628 Jul 29 2008 [ 430448 00] H_CH1_STREETSCHASE_A_QUI.AT3 
+-r-xr-xr-x   1    0    0    2839268 Jul 24 2008 [ 431456 00] H_CH2_ARCTIC_A_ACT.AT3 
+-r-xr-xr-x   1    0    0    1383260 Jul 24 2008 [ 432848 00] H_CH2_ARCTIC_A_AMB.AT3 
+-r-xr-xr-x   1    0    0    1383260 Jul 24 2008 [ 433536 00] H_CH2_ARCTIC_A_QUI.AT3 
+-r-xr-xr-x   1    0    0    2839268 Jul 24 2008 [ 434224 00] H_CH2_ARCTIC_D_ACT.AT3 
+-r-xr-xr-x   1    0    0    1383260 Jul 24 2008 [ 435616 00] H_CH2_ARCTIC_D_AMB.AT3 
+-r-xr-xr-x   1    0    0    1383260 Jul 24 2008 [ 436304 00] H_CH2_ARCTIC_D_QUI.AT3 
+-r-xr-xr-x   1    0    0    2151068 Jul 18 2008 [ 436992 00] H_CH2_ROOFTOPS_A_ACT.AT3 
+-r-xr-xr-x   1    0    0    2151068 Jul 18 2008 [ 438048 00] H_CH2_ROOFTOPS_A_AMB.AT3 
+-r-xr-xr-x   1    0    0     789548 Jul 11 2008 [ 439104 00] H_CH2_ROOFTOPS_A_QUI.AT3 
+-r-xr-xr-x   1    0    0    2151068 Jul 18 2008 [ 439504 00] H_CH2_ROOFTOPS_B_ACT.AT3 
+-r-xr-xr-x   1    0    0    2151068 Jul 18 2008 [ 440560 00] H_CH2_ROOFTOPS_B_AMB.AT3 
+-r-xr-xr-x   1    0    0     789548 Jul 11 2008 [ 441616 00] H_CH2_ROOFTOPS_B_QUI.AT3 
+-r-xr-xr-x   1    0    0    3044612 Jul 19 2008 [ 442016 00] H_CH2_SEWERS_A_ACT.AT3 
+-r-xr-xr-x   1    0    0    3044612 Jul 19 2008 [ 443504 00] H_CH2_SEWERS_A_AMB.AT3 
+-r-xr-xr-x   1    0    0    1648124 Jul 19 2008 [ 444992 00] H_CH2_SEWERS_A_QUI.AT3 
+-r-xr-xr-x   1    0    0    3044612 Jul 19 2008 [ 445808 00] H_CH2_SEWERS_D_ACT.AT3 
+-r-xr-xr-x   1    0    0    3044612 Jul 19 2008 [ 447296 00] H_CH2_SEWERS_D_AMB.AT3 
+-r-xr-xr-x   1    0    0    2050628 Jul 19 2008 [ 448784 00] H_CH2_SEWERS_D_QUI.AT3 
+-r-xr-xr-x   1    0    0    3084788 Jul 18 2008 [ 449792 00] H_CH2_THEHARBOUR_A_ACT.AT3 
+-r-xr-xr-x   1    0    0    3084788 Jul 18 2008 [ 451312 00] H_CH2_THEHARBOUR_A_AMB.AT3 
+-r-xr-xr-x   1    0    0    2076668 Jul 17 2008 [ 452832 00] H_CH2_ZOO_A_ACT.AT3 
+-r-xr-xr-x   1    0    0    2076668 Jul 17 2008 [ 453856 00] H_CH2_ZOO_A_AMB.AT3 
+-r-xr-xr-x   1    0    0    1726244 Jul 17 2008 [ 454880 00] H_CH2_ZOO_A_QUI.AT3 
+-r-xr-xr-x   1    0    0    2076668 Jul 17 2008 [ 455728 00] H_CH2_ZOO_C_ACT.AT3 
+-r-xr-xr-x   1    0    0    2076668 Jul 17 2008 [ 456752 00] H_CH2_ZOO_C_AMB.AT3 
+-r-xr-xr-x   1    0    0    1726244 Jul 17 2008 [ 457776 00] H_CH2_ZOO_C_QUI.AT3 
+-r-xr-xr-x   1    0    0    2076668 Jul 17 2008 [ 458624 00] H_CH2_ZOO_D_ACT.AT3 
+-r-xr-xr-x   1    0    0    2076668 Jul 17 2008 [ 459648 00] H_CH2_ZOO_D_AMB.AT3 
+-r-xr-xr-x   1    0    0    1726244 Jul 17 2008 [ 460672 00] H_CH2_ZOO_D_QUI.AT3 
+-r-xr-xr-x   1    0    0    3149516 Jul 25 2008 [ 461520 00] H_CH3_CATHEDRAL_A_ACT.AT3 
+-r-xr-xr-x   1    0    0    1242644 Jul 25 2008 [ 463072 00] H_CH3_CATHEDRAL_A_AMB.AT3 
+-r-xr-xr-x   1    0    0    1242644 Jul 25 2008 [ 463680 00] H_CH3_CATHEDRAL_A_QUI.AT3 
+-r-xr-xr-x   1    0    0    3149516 Jul 25 2008 [ 464288 00] H_CH3_CATHEDRAL_B_ACT.AT3 
+-r-xr-xr-x   1    0    0    1242644 Jul 25 2008 [ 465840 00] H_CH3_CATHEDRAL_B_AMB.AT3 
+-r-xr-xr-x   1    0    0    1242644 Jul 25 2008 [ 466448 00] H_CH3_CATHEDRAL_B_QUI.AT3 
+-r-xr-xr-x   1    0    0    2652524 Jul 25 2008 [ 467056 00] H_CH3_CHEMICALWORKS_A_ACT.AT3 
+-r-xr-xr-x   1    0    0    1317044 Jul 25 2008 [ 468352 00] H_CH3_CHEMICALWORKS_A_AMB.AT3 
+-r-xr-xr-x   1    0    0    1317044 Jul 25 2008 [ 469008 00] H_CH3_CHEMICALWORKS_A_QUI.AT3 
+-r-xr-xr-x   1    0    0    2652524 Jul 28 2008 [ 469664 00] H_CH3_CHEMICALWORKS_B_ACT.AT3 
+-r-xr-xr-x   1    0    0    1317044 Jul 28 2008 [ 470960 00] H_CH3_CHEMICALWORKS_B_AMB.AT3 
+-r-xr-xr-x   1    0    0    1317044 Jul 28 2008 [ 471616 00] H_CH3_CHEMICALWORKS_B_QUI.AT3 
+-r-xr-xr-x   1    0    0    2652524 Jul 28 2008 [ 472272 00] H_CH3_CHEMICALWORKS_C_ACT.AT3 
+-r-xr-xr-x   1    0    0    1317044 Jul 28 2008 [ 473568 00] H_CH3_CHEMICALWORKS_C_AMB.AT3 
+-r-xr-xr-x   1    0    0    1317044 Jul 28 2008 [ 474224 00] H_CH3_CHEMICALWORKS_C_QUI.AT3 
+-r-xr-xr-x   1    0    0    2067740 Jul 14 2008 [ 474880 00] H_CH3_ROOFTOPFLIGHT_A_ACT.AT3 
+-r-xr-xr-x   1    0    0    2067740 Jul 14 2008 [ 475904 00] H_CH3_ROOFTOPFLIGHT_A_AMB.AT3 
+-r-xr-xr-x   1    0    0    4278908 Jul 21 2008 [ 476928 00] H_CH3_SLUMS_A_ACT.AT3 
+-r-xr-xr-x   1    0    0    4278908 Jul 21 2008 [ 479024 00] H_CH3_SLUMS_A_AMB.AT3 
+-r-xr-xr-x   1    0    0    2433788 Jul 21 2008 [ 481120 00] H_CH3_SLUMS_A_QUI.AT3 
+-r-xr-xr-x   1    0    0    2330372 Jul 21 2008 [ 482320 00] H_CH3_SLUMS_B_ACT.AT3 
+-r-xr-xr-x   1    0    0    2330372 Jul 21 2008 [ 483472 00] H_CH3_SLUMS_B_AMB.AT3 
+-r-xr-xr-x   1    0    0     684644 Jul 21 2008 [ 484624 00] H_CH3_SLUMS_B_DISCO.AT3 
+-r-xr-xr-x   1    0    0    2428580 Jul 21 2008 [ 484960 00] H_CH3_SLUMS_B_QUI.AT3 
+-r-xr-xr-x   1    0    0    2384684 Jul 21 2008 [ 486160 00] H_CH3_SLUMS_C_ACT.AT3 
+-r-xr-xr-x   1    0    0    2384684 Jul 21 2008 [ 487328 00] H_CH3_SLUMS_C_AMB.AT3 
+-r-xr-xr-x   1    0    0    2433788 Jul 21 2008 [ 488496 00] H_CH3_SLUMS_C_QUI.AT3 
+-r-xr-xr-x   1    0    0     576764 Aug 11 2008 [ 489696 00] LEVEL_COMPLETE.AT3 
+-r-xr-xr-x   1    0    0    2433788 Feb 14 2008 [ 489984 00] QUI_LEVEL3.AT3 
+-r-xr-xr-x   1    0    0    1732196 Jun 19 2008 [ 491184 00] TITLES_FILM.AT3 
+-r-xr-xr-x   1    0    0    2012684 Aug 11 2008 [ 492032 00] TITLE_SEQ.AT3 
+-r-xr-xr-x   1    0    0    1770884 Jul 11 2008 [ 493024 00] V_CH1_EVILICECREAM_A_ACT.AT3 
+-r-xr-xr-x   1    0    0    1770884 Jul 11 2008 [ 493904 00] V_CH1_EVILICECREAM_A_AMB.AT3 
+-r-xr-xr-x   1    0    0     834932 Jul 11 2008 [ 494784 00] V_CH1_EVILICECREAM_A_QUI.AT3 
+-r-xr-xr-x   1    0    0    1770884 Jul 11 2008 [ 495200 00] V_CH1_EVILICECREAM_B_ACT.AT3 
+-r-xr-xr-x   1    0    0    1770884 Jul 11 2008 [ 496080 00] V_CH1_EVILICECREAM_B_AMB.AT3 
+-r-xr-xr-x   1    0    0     834932 Jul 11 2008 [ 496960 00] V_CH1_EVILICECREAM_B_QUI.AT3 
+-r-xr-xr-x   1    0    0    3678500 Jul  6 2008 [ 497376 00] V_CH1_EVILSTREETS_A_ACT.AT3 
+-r-xr-xr-x   1    0    0     927120 Jul  6 2008 [ 499184 00] V_CH1_EVILSTREETS_A_AMB.AT3 
+-r-xr-xr-x   1    0    0    1070036 Jul  6 2008 [ 499648 00] V_CH1_EVILSTREETS_A_QUI.AT3 
+-r-xr-xr-x   1    0    0    2908460 Jul 15 2008 [ 500176 00] V_CH1_WAYNEVILLAIN_A_ACT.AT3 
+-r-xr-xr-x   1    0    0    2908460 Jul 15 2008 [ 501600 00] V_CH1_WAYNEVILLAIN_A_AMB.AT3 
+-r-xr-xr-x   1    0    0    1659284 Jul 15 2008 [ 503024 00] V_CH1_WAYNEVILLAIN_A_QUI.AT3 
+-r-xr-xr-x   1    0    0    2908460 Jul 15 2008 [ 503840 00] V_CH1_WAYNEVILLAIN_B_ACT.AT3 
+-r-xr-xr-x   1    0    0    2908460 Jul 15 2008 [ 505264 00] V_CH1_WAYNEVILLAIN_B_AMB.AT3 
+-r-xr-xr-x   1    0    0    1659284 Jul 15 2008 [ 506688 00] V_CH1_WAYNEVILLAIN_B_QUI.AT3 
+-r-xr-xr-x   1    0    0     684644 Jul 21 2008 [ 507504 00] V_CH1_WAYNEVILLAIN_E_DISCO.AT3 
+-r-xr-xr-x   1    0    0    2839268 Jul 24 2008 [ 507840 00] V_CH2_EVILARCTIC_B_ACT.AT3 
+-r-xr-xr-x   1    0    0    1383260 Jul 24 2008 [ 509232 00] V_CH2_EVILARCTIC_B_AMB.AT3 
+-r-xr-xr-x   1    0    0    1383260 Jul 24 2008 [ 509920 00] V_CH2_EVILARCTIC_B_QUI.AT3 
+-r-xr-xr-x   1    0    0    2508188 Jul 18 2008 [ 510608 00] V_CH2_EVIL_DOCKS_A_ACT.AT3 
+-r-xr-xr-x   1    0    0    2508188 Jul 18 2008 [ 511840 00] V_CH2_EVIL_DOCKS_A_AMB.AT3 
+-r-xr-xr-x   1    0    0    2192732 Jul 18 2008 [ 513072 00] V_CH2_EVIL_DOCKS_A_QUI.AT3 
+-r-xr-xr-x   1    0    0    1927124 Jul 18 2008 [ 514144 00] V_CH2_ROOFBOTTOMS_B_ACT.AT3 
+-r-xr-xr-x   1    0    0    1927124 Jul 18 2008 [ 515088 00] V_CH2_ROOFBOTTOMS_B_AMB.AT3 
+-r-xr-xr-x   1    0    0     789548 Jul 18 2008 [ 516032 00] V_CH2_ROOFBOTTOMS_B_QUI.AT3 
+-r-xr-xr-x   1    0    0    2384684 Jul 24 2008 [ 516432 00] V_CH3_EVILSLUMS_D_ACT.AT3 
+-r-xr-xr-x   1    0    0    2384684 Jul 24 2008 [ 517600 00] V_CH3_EVILSLUMS_D_AMB.AT3 
+-r-xr-xr-x   1    0    0    2433788 Jul 24 2008 [ 518768 00] V_CH3_EVILSLUMS_D_QUI.AT3 
+-r-xr-xr-x   1    0    0    1503044 Jul 11 2008 [ 519968 00] V_CH3_FAIRGROUNDBAD_A_ACT.AT3 
+-r-xr-xr-x   1    0    0    1503044 Jul 11 2008 [ 520704 00] V_CH3_FAIRGROUNDBAD_A_AMB.AT3 
+-r-xr-xr-x   1    0    0    1247852 Jul 11 2008 [ 521440 00] V_CH3_FAIRGROUNDBAD_A_QUI.AT3 
+-r-xr-xr-x   1    0    0    1503044 Jul 11 2008 [ 522064 00] V_CH3_FAIRGROUNDBAD_B_ACT.AT3 
+-r-xr-xr-x   1    0    0    1503044 Jul 11 2008 [ 522800 00] V_CH3_FAIRGROUNDBAD_B_AMB.AT3 
+-r-xr-xr-x   1    0    0    1247852 Jul 11 2008 [ 523536 00] V_CH3_FAIRGROUNDBAD_B_QUI.AT3 
+-r-xr-xr-x   1    0    0    2129492 Jul 14 2008 [ 524160 00] V_CH3_FLIGHT_A_ACT.AT3 
+-r-xr-xr-x   1    0    0    2129492 Jul 14 2008 [ 525200 00] V_CH3_FLIGHT_A_AMB.AT3 
+-r-xr-xr-x   1    0    0    2880932 Jul 25 2008 [ 526240 00] V_CH3_GALLERY_A_ACT.AT3 
+-r-xr-xr-x   1    0    0    1659284 Jul 25 2008 [ 527648 00] V_CH3_GALLERY_A_AMB.AT3 
+-r-xr-xr-x   1    0    0    1659284 Jul 25 2008 [ 528464 00] V_CH3_GALLERY_A_QUI.AT3 
+=============================================================== 
+Generated on Mon 08/08/2022 at 15:47:05.47 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

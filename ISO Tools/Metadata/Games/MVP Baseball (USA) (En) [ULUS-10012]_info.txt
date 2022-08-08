@@ -1,0 +1,1652 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: MVP Baseball   
+Title ID: ULUS-10012 
+Region: USA  
+Languages: En  
+Volume Creation Date: 2005-04-11 17:06:16 
+Volume Size: 1355 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: NA
+Volume set id: MVP2005
+Publisher id: ELECTRONIC ARTS
+Data preparer id: PSPBUILD
+Application id: PSP GAME
+Copyright File id: ELECTRONIC ARTS
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 694192
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Apr 11 2005 [   4101 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     25 02] USRDIR 
+-r-xr-xr-x   1    0    0      43008 Feb  3 2005 [ 326112 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 Apr 11 2005 [ 326144 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     200520 Feb  3 2005 [ 326160 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0      19367 Feb  3 2005 [ 326272 00] ICON0.PNG 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     23 02] .. 
+-r-xr-xr-x   1    0    0    8136672 Apr 11 2005 [    128 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0    8136333 Apr 11 2005 [ 326288 00] BOOT.BIN 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     23 02] .. 
+-r-xr-xr-x   1    0    0  659456000 Apr 11 2005 [   4112 00] pad0.pad 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     26 02] prx 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     27 02] data 
+-r-xr-xr-x   1    0    0   10485760 Apr 11 2005 [ 442544 00] pad1.pad 
+
+Directory listing of /PSP_GAME/USRDIR/prx/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     28 02] kmodule 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     29 02] module 
+
+Directory listing of /PSP_GAME/USRDIR/data/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     30 02] eavis 
+-r-xr-xr-x   1    0    0     320332 Apr 11 2005 [ 332368 00] startup.big 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     31 02] eatrax 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     32 02] audio 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     33 02] datafile 
+-r-xr-xr-x   1    0    0      13198 Apr 11 2005 [ 333040 00] initstaz.big 
+-r-xr-xr-x   1    0    0     171856 Apr 11 2005 [ 333056 00] initprgz.big 
+dr-xr-xr-x   1    0    0      43008 Apr 11 2005 [     34 02] anims 
+-r-xr-xr-x   1    0    0     386977 Apr 11 2005 [ 334832 00] database.big 
+-r-xr-xr-x   1    0    0      59308 Apr 11 2005 [ 335024 00] sched03.dat 
+-r-xr-xr-x   1    0    0      51436 Apr 11 2005 [ 335056 00] igeng.loc 
+-r-xr-xr-x   1    0    0      50979 Apr 11 2005 [ 335088 00] progress.big 
+-r-xr-xr-x   1    0    0      75352 Apr 11 2005 [ 335120 00] rookie.big 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     55 02] frontend 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     56 02] apt 
+-r-xr-xr-x   1    0    0      73897 Apr 11 2005 [ 412992 00] sched02.dat 
+-r-xr-xr-x   1    0    0      73868 Apr 11 2005 [ 413040 00] sched04.dat 
+-r-xr-xr-x   1    0    0       6870 Apr 11 2005 [ 413088 00] sched15g.dat 
+-r-xr-xr-x   1    0    0      51353 Apr 11 2005 [ 413104 00] sched2a.dat 
+-r-xr-xr-x   1    0    0      13696 Apr 11 2005 [ 413136 00] sched30g.dat 
+-r-xr-xr-x   1    0    0      65783 Apr 11 2005 [ 413152 00] sched3a.dat 
+-r-xr-xr-x   1    0    0      27390 Apr 11 2005 [ 413200 00] sched60g.dat 
+-r-xr-xr-x   1    0    0       8084 Apr 11 2005 [ 413216 00] spring.dat 
+dr-xr-xr-x   1    0    0       6144 Apr 11 2005 [     57 02] stadium 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     60 02] misc 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     61 02] locale 
+-r-xr-xr-x   1    0    0     171856 Apr 11 2005 [ 442432 00] initprgz.bak 
+-r-xr-xr-x   1    0    0      13198 Apr 11 2005 [ 442528 00] initstaz.bak 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     62 02] igshapes 
+-r-xr-xr-x   1    0    0   32337660 Apr 11 2005 [ 448576 00] models.big 
+-r-xr-xr-x   1    0    0   28691212 Apr 11 2005 [ 464368 00] portrait.big 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     63 02] fonts 
+-r-xr-xr-x   1    0    0   33322436 Jan  7 2005 [ 478464 00] ghead.big 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     64 02] eatrax2 
+
+Directory listing of /PSP_GAME/USRDIR/prx/kmodule/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     26 02] .. 
+-r-xr-xr-x   1    0    0       3232 Jan  7 2005 [ 330272 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0      10832 Jan  7 2005 [ 330288 00] ifhandle.prx 
+-r-xr-xr-x   1    0    0      15216 Jan  7 2005 [ 330304 00] memab.prx 
+-r-xr-xr-x   1    0    0       9552 Jan  7 2005 [ 330320 00] mpegbase.prx 
+-r-xr-xr-x   1    0    0      10816 Jan  7 2005 [ 330336 00] pspnet_adhoc_auth.prx 
+-r-xr-xr-x   1    0    0       5920 Jan  7 2005 [ 330352 00] sc_sascore.prx 
+-r-xr-xr-x   1    0    0       3808 Jan  7 2005 [ 330368 00] videocodec.prx 
+
+Directory listing of /PSP_GAME/USRDIR/prx/module/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     26 02] .. 
+-r-xr-xr-x   1    0    0      19524 Jan  7 2005 [ 330384 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0      39624 Jan  7 2005 [ 330400 00] mpeg.prx 
+-r-xr-xr-x   1    0    0      60256 Jan  7 2005 [ 330432 00] pspnet.prx 
+-r-xr-xr-x   1    0    0      40140 Jan  7 2005 [ 330464 00] pspnet_adhoc.prx 
+-r-xr-xr-x   1    0    0      36416 Jan  7 2005 [ 330496 00] pspnet_adhocctl.prx 
+
+Directory listing of /PSP_GAME/USRDIR/data/eavis/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     27 02] .. 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     65 02] dat 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     66 02] textures 
+
+Directory listing of /PSP_GAME/USRDIR/data/eatrax/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     31 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     27 02] .. 
+-r-xr-xr-x   1    0    0       1527 Apr 11 2005 [ 332528 00] eatrax.bin 
+-r-xr-xr-x   1    0    0    1709392 Apr 11 2005 [ 365360 00] 1andtrailofdead_letitdive.aud 
+-r-xr-xr-x   1    0    0    1198784 Apr 11 2005 [ 366208 00] 2rnrsoldiers_funnyfeeling.aud 
+-r-xr-xr-x   1    0    0    1492064 Apr 11 2005 [ 366800 00] 3hotheat_youowemeiou.aud 
+-r-xr-xr-x   1    0    0    1963944 Apr 11 2005 [ 367536 00] 4dropkickmurphys_tessie.aud 
+-r-xr-xr-x   1    0    0    1977480 Apr 11 2005 [ 368496 00] 5louisxiv_findoutloveblind.aud 
+-r-xr-xr-x   1    0    0    1771808 Apr 11 2005 [ 369472 00] 6thebravery_honestmistake.aud 
+-r-xr-xr-x   1    0    0    1814296 Apr 11 2005 [ 370352 00] 7thedonots_wegotthenoise.aud 
+-r-xr-xr-x   1    0    0   33097728 Jan 31 2005 [ 371248 00] 7thedonots_wegotthenoise.pmf 
+-r-xr-xr-x   1    0    0    1578544 Apr 11 2005 [ 387424 00] 8thehighspeedscene_irocz.aud 
+-r-xr-xr-x   1    0    0    1570648 Apr 11 2005 [ 388208 00] 9thezutons_pressurepoint.aud 
+-r-xr-xr-x   1    0    0   29085696 Jan 31 2005 [ 388976 00] 9thezutons_pressurepoint.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/data/audio/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     32 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     27 02] .. 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     67 02] aems 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     68 02] crowddb 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     69 02] spch_pbp 
+
+Directory listing of /PSP_GAME/USRDIR/data/datafile/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     33 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     27 02] .. 
+-r-xr-xr-x   1    0    0     580770 Apr 11 2005 [ 332752 00] datafile_fe.big 
+-r-xr-xr-x   1    0    0    2131573 Apr 11 2005 [ 494736 00] datafile.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/anims/
+dr-xr-xr-x   1    0    0      43008 Apr 11 2005 [     34 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     27 02] .. 
+-r-xr-xr-x   1    0    0         41 Apr 11 2005 [ 333152 00] banklist.txt 
+-r-xr-xr-x   1    0    0       2522 Apr 11 2005 [ 333168 00] close_up.txt 
+-r-xr-xr-x   1    0    0     129856 Apr 11 2005 [ 333184 00] close_up.ord 
+-r-xr-xr-x   1    0    0       6832 Apr 11 2005 [ 333248 00] close_up.orl 
+-r-xr-xr-x   1    0    0      61164 Apr 11 2005 [ 333264 00] def_bank.txt 
+-r-xr-xr-x   1    0    0    2576240 Apr 11 2005 [ 333296 00] def_bank.ord 
+-r-xr-xr-x   1    0    0     157456 Apr 11 2005 [ 334560 00] def_bank.orl 
+-r-xr-xr-x   1    0    0        994 Apr 11 2005 [ 334640 00] facial.txt 
+-r-xr-xr-x   1    0    0       3696 Apr 11 2005 [ 334656 00] facial.ord 
+-r-xr-xr-x   1    0    0       1600 Apr 11 2005 [ 334672 00] facial.orl 
+-r-xr-xr-x   1    0    0        856 Apr 11 2005 [ 334688 00] handbank.txt 
+-r-xr-xr-x   1    0    0       3856 Apr 11 2005 [ 334704 00] handbank.ord 
+-r-xr-xr-x   1    0    0       1312 Apr 11 2005 [ 334720 00] handbank.orl 
+-r-xr-xr-x   1    0    0       1665 Apr 11 2005 [ 334736 00] middle.txt 
+-r-xr-xr-x   1    0    0     117600 Apr 11 2005 [ 334752 00] middle.ord 
+-r-xr-xr-x   1    0    0       5216 Apr 11 2005 [ 334816 00] middle.orl 
+-r-xr-xr-x   1    0    0       6704 Apr 11 2005 [ 495792 00] ndmgr01.ord 
+-r-xr-xr-x   1    0    0        656 Apr 11 2005 [ 495808 00] ndmgr01.orl 
+-r-xr-xr-x   1    0    0        181 Apr 11 2005 [ 495824 00] ndmgr01.txt 
+-r-xr-xr-x   1    0    0       4304 Apr 11 2005 [ 495840 00] ndmgr02.ord 
+-r-xr-xr-x   1    0    0        656 Apr 11 2005 [ 495856 00] ndmgr02.orl 
+-r-xr-xr-x   1    0    0        181 Apr 11 2005 [ 495872 00] ndmgr02.txt 
+-r-xr-xr-x   1    0    0       7984 Apr 11 2005 [ 495888 00] ndmgr03.ord 
+-r-xr-xr-x   1    0    0        656 Apr 11 2005 [ 495904 00] ndmgr03.orl 
+-r-xr-xr-x   1    0    0        182 Apr 11 2005 [ 495920 00] ndmgr03.txt 
+-r-xr-xr-x   1    0    0       7520 Apr 11 2005 [ 495936 00] ndmgr04.ord 
+-r-xr-xr-x   1    0    0        848 Apr 11 2005 [ 495952 00] ndmgr04.orl 
+-r-xr-xr-x   1    0    0        236 Apr 11 2005 [ 495968 00] ndmgr04.txt 
+-r-xr-xr-x   1    0    0      15456 Apr 11 2005 [ 495984 00] ndmgr05.ord 
+-r-xr-xr-x   1    0    0        848 Apr 11 2005 [ 496000 00] ndmgr05.orl 
+-r-xr-xr-x   1    0    0        236 Apr 11 2005 [ 496016 00] ndmgr05.txt 
+-r-xr-xr-x   1    0    0      19280 Apr 11 2005 [ 496032 00] ndmgr06.ord 
+-r-xr-xr-x   1    0    0        848 Apr 11 2005 [ 496048 00] ndmgr06.orl 
+-r-xr-xr-x   1    0    0        236 Apr 11 2005 [ 496064 00] ndmgr06.txt 
+-r-xr-xr-x   1    0    0       7904 Apr 11 2005 [ 496080 00] ndmgr07.ord 
+-r-xr-xr-x   1    0    0        848 Apr 11 2005 [ 496096 00] ndmgr07.orl 
+-r-xr-xr-x   1    0    0        236 Apr 11 2005 [ 496112 00] ndmgr07.txt 
+-r-xr-xr-x   1    0    0       7856 Apr 11 2005 [ 496128 00] ndmgr08.ord 
+-r-xr-xr-x   1    0    0        656 Apr 11 2005 [ 496144 00] ndmgr08.orl 
+-r-xr-xr-x   1    0    0        180 Apr 11 2005 [ 496160 00] ndmgr08.txt 
+-r-xr-xr-x   1    0    0       4800 Apr 11 2005 [ 496176 00] ndmgr09.ord 
+-r-xr-xr-x   1    0    0        656 Apr 11 2005 [ 496192 00] ndmgr09.orl 
+-r-xr-xr-x   1    0    0        180 Apr 11 2005 [ 496208 00] ndmgr09.txt 
+-r-xr-xr-x   1    0    0      13536 Apr 11 2005 [ 496224 00] ndmgr10.ord 
+-r-xr-xr-x   1    0    0        656 Apr 11 2005 [ 496240 00] ndmgr10.orl 
+-r-xr-xr-x   1    0    0        180 Apr 11 2005 [ 496256 00] ndmgr10.txt 
+-r-xr-xr-x   1    0    0      79152 Apr 11 2005 [ 496272 00] nedha101.ord 
+-r-xr-xr-x   1    0    0       1424 Apr 11 2005 [ 496320 00] nedha101.orl 
+-r-xr-xr-x   1    0    0        422 Apr 11 2005 [ 496336 00] nedha101.txt 
+-r-xr-xr-x   1    0    0      80224 Apr 11 2005 [ 496352 00] nedha102.ord 
+-r-xr-xr-x   1    0    0       1424 Apr 11 2005 [ 496400 00] nedha102.orl 
+-r-xr-xr-x   1    0    0        422 Apr 11 2005 [ 496416 00] nedha102.txt 
+-r-xr-xr-x   1    0    0      78112 Apr 11 2005 [ 496432 00] nedha103.ord 
+-r-xr-xr-x   1    0    0       1424 Apr 11 2005 [ 496480 00] nedha103.orl 
+-r-xr-xr-x   1    0    0        417 Apr 11 2005 [ 496496 00] nedha103.txt 
+-r-xr-xr-x   1    0    0      40960 Apr 11 2005 [ 496512 00] nedha104.ord 
+-r-xr-xr-x   1    0    0       1424 Apr 11 2005 [ 496544 00] nedha104.orl 
+-r-xr-xr-x   1    0    0        417 Apr 11 2005 [ 496560 00] nedha104.txt 
+-r-xr-xr-x   1    0    0      83824 Apr 11 2005 [ 496576 00] nedha201.ord 
+-r-xr-xr-x   1    0    0       1424 Apr 11 2005 [ 496624 00] nedha201.orl 
+-r-xr-xr-x   1    0    0        422 Apr 11 2005 [ 496640 00] nedha201.txt 
+-r-xr-xr-x   1    0    0      85264 Apr 11 2005 [ 496656 00] nedha202.ord 
+-r-xr-xr-x   1    0    0       1424 Apr 11 2005 [ 496704 00] nedha202.orl 
+-r-xr-xr-x   1    0    0        417 Apr 11 2005 [ 496720 00] nedha202.txt 
+-r-xr-xr-x   1    0    0      82448 Apr 11 2005 [ 496736 00] nedha301.ord 
+-r-xr-xr-x   1    0    0       1424 Apr 11 2005 [ 496784 00] nedha301.orl 
+-r-xr-xr-x   1    0    0        422 Apr 11 2005 [ 496800 00] nedha301.txt 
+-r-xr-xr-x   1    0    0      81168 Apr 11 2005 [ 496816 00] nedha302.ord 
+-r-xr-xr-x   1    0    0       1424 Apr 11 2005 [ 496864 00] nedha302.orl 
+-r-xr-xr-x   1    0    0        417 Apr 11 2005 [ 496880 00] nedha302.txt 
+-r-xr-xr-x   1    0    0      86544 Apr 11 2005 [ 496896 00] nedha401.ord 
+-r-xr-xr-x   1    0    0       1424 Apr 11 2005 [ 496944 00] nedha401.orl 
+-r-xr-xr-x   1    0    0        417 Apr 11 2005 [ 496960 00] nedha401.txt 
+-r-xr-xr-x   1    0    0      86016 Apr 11 2005 [ 496976 00] nedha501.ord 
+-r-xr-xr-x   1    0    0       1424 Apr 11 2005 [ 497024 00] nedha501.orl 
+-r-xr-xr-x   1    0    0        417 Apr 11 2005 [ 497040 00] nedha501.txt 
+-r-xr-xr-x   1    0    0      84688 Apr 11 2005 [ 497056 00] nedup101.ord 
+-r-xr-xr-x   1    0    0       1424 Apr 11 2005 [ 497104 00] nedup101.orl 
+-r-xr-xr-x   1    0    0        412 Apr 11 2005 [ 497120 00] nedup101.txt 
+-r-xr-xr-x   1    0    0      84496 Apr 11 2005 [ 497136 00] nedup102.ord 
+-r-xr-xr-x   1    0    0       1424 Apr 11 2005 [ 497184 00] nedup102.orl 
+-r-xr-xr-x   1    0    0        412 Apr 11 2005 [ 497200 00] nedup102.txt 
+-r-xr-xr-x   1    0    0      75584 Apr 11 2005 [ 497216 00] nedup103.ord 
+-r-xr-xr-x   1    0    0       1424 Apr 11 2005 [ 497264 00] nedup103.orl 
+-r-xr-xr-x   1    0    0        412 Apr 11 2005 [ 497280 00] nedup103.txt 
+-r-xr-xr-x   1    0    0      81296 Apr 11 2005 [ 497296 00] nedup104.ord 
+-r-xr-xr-x   1    0    0       1424 Apr 11 2005 [ 497344 00] nedup104.orl 
+-r-xr-xr-x   1    0    0        412 Apr 11 2005 [ 497360 00] nedup104.txt 
+-r-xr-xr-x   1    0    0      87088 Apr 11 2005 [ 497376 00] nedup201.ord 
+-r-xr-xr-x   1    0    0       1424 Apr 11 2005 [ 497424 00] nedup201.orl 
+-r-xr-xr-x   1    0    0        412 Apr 11 2005 [ 497440 00] nedup201.txt 
+-r-xr-xr-x   1    0    0      86160 Apr 11 2005 [ 497456 00] nedup202.ord 
+-r-xr-xr-x   1    0    0       1424 Apr 11 2005 [ 497504 00] nedup202.orl 
+-r-xr-xr-x   1    0    0        412 Apr 11 2005 [ 497520 00] nedup202.txt 
+-r-xr-xr-x   1    0    0      75872 Apr 11 2005 [ 497536 00] nedup301.ord 
+-r-xr-xr-x   1    0    0       1424 Apr 11 2005 [ 497584 00] nedup301.orl 
+-r-xr-xr-x   1    0    0        412 Apr 11 2005 [ 497600 00] nedup301.txt 
+-r-xr-xr-x   1    0    0      79792 Apr 11 2005 [ 497616 00] nedup302.ord 
+-r-xr-xr-x   1    0    0       1424 Apr 11 2005 [ 497664 00] nedup302.orl 
+-r-xr-xr-x   1    0    0        412 Apr 11 2005 [ 497680 00] nedup302.txt 
+-r-xr-xr-x   1    0    0      86864 Apr 11 2005 [ 497696 00] nedup401.ord 
+-r-xr-xr-x   1    0    0       1424 Apr 11 2005 [ 497744 00] nedup401.orl 
+-r-xr-xr-x   1    0    0        412 Apr 11 2005 [ 497760 00] nedup401.txt 
+-r-xr-xr-x   1    0    0      79600 Apr 11 2005 [ 497776 00] nedup501.ord 
+-r-xr-xr-x   1    0    0       1424 Apr 11 2005 [ 497824 00] nedup501.orl 
+-r-xr-xr-x   1    0    0        412 Apr 11 2005 [ 497840 00] nedup501.txt 
+-r-xr-xr-x   1    0    0      69168 Apr 11 2005 [ 497856 00] nefha101.ord 
+-r-xr-xr-x   1    0    0       1184 Apr 11 2005 [ 497904 00] nefha101.orl 
+-r-xr-xr-x   1    0    0        359 Apr 11 2005 [ 497920 00] nefha101.txt 
+-r-xr-xr-x   1    0    0      77696 Apr 11 2005 [ 497936 00] nefha102.ord 
+-r-xr-xr-x   1    0    0       1392 Apr 11 2005 [ 497984 00] nefha102.orl 
+-r-xr-xr-x   1    0    0        437 Apr 11 2005 [ 498000 00] nefha102.txt 
+-r-xr-xr-x   1    0    0      82640 Apr 11 2005 [ 498016 00] nefha103.ord 
+-r-xr-xr-x   1    0    0       1392 Apr 11 2005 [ 498064 00] nefha103.orl 
+-r-xr-xr-x   1    0    0        437 Apr 11 2005 [ 498080 00] nefha103.txt 
+-r-xr-xr-x   1    0    0      74848 Apr 11 2005 [ 498096 00] nefha104.ord 
+-r-xr-xr-x   1    0    0       1376 Apr 11 2005 [ 498144 00] nefha104.orl 
+-r-xr-xr-x   1    0    0        437 Apr 11 2005 [ 498160 00] nefha104.txt 
+-r-xr-xr-x   1    0    0      81760 Apr 11 2005 [ 498176 00] nefha201.ord 
+-r-xr-xr-x   1    0    0       1328 Apr 11 2005 [ 498224 00] nefha201.orl 
+-r-xr-xr-x   1    0    0        412 Apr 11 2005 [ 498240 00] nefha201.txt 
+-r-xr-xr-x   1    0    0      77808 Apr 11 2005 [ 498256 00] nefha202.ord 
+-r-xr-xr-x   1    0    0       1376 Apr 11 2005 [ 498304 00] nefha202.orl 
+-r-xr-xr-x   1    0    0        412 Apr 11 2005 [ 498320 00] nefha202.txt 
+-r-xr-xr-x   1    0    0      82384 Apr 11 2005 [ 498336 00] nefha301.ord 
+-r-xr-xr-x   1    0    0       1376 Apr 11 2005 [ 498384 00] nefha301.orl 
+-r-xr-xr-x   1    0    0        412 Apr 11 2005 [ 498400 00] nefha301.txt 
+-r-xr-xr-x   1    0    0      80400 Apr 11 2005 [ 498416 00] nefha302.ord 
+-r-xr-xr-x   1    0    0       1392 Apr 11 2005 [ 498464 00] nefha302.orl 
+-r-xr-xr-x   1    0    0        412 Apr 11 2005 [ 498480 00] nefha302.txt 
+-r-xr-xr-x   1    0    0      61120 Apr 11 2005 [ 498496 00] nefha401.ord 
+-r-xr-xr-x   1    0    0       1184 Apr 11 2005 [ 498528 00] nefha401.orl 
+-r-xr-xr-x   1    0    0        343 Apr 11 2005 [ 498544 00] nefha401.txt 
+-r-xr-xr-x   1    0    0      87440 Apr 11 2005 [ 498560 00] nefha501.ord 
+-r-xr-xr-x   1    0    0       1392 Apr 11 2005 [ 498608 00] nefha501.orl 
+-r-xr-xr-x   1    0    0        397 Apr 11 2005 [ 498624 00] nefha501.txt 
+-r-xr-xr-x   1    0    0      57456 Apr 11 2005 [ 498640 00] nefha601.ord 
+-r-xr-xr-x   1    0    0       1200 Apr 11 2005 [ 498672 00] nefha601.orl 
+-r-xr-xr-x   1    0    0        351 Apr 11 2005 [ 498688 00] nefha601.txt 
+-r-xr-xr-x   1    0    0      65552 Apr 11 2005 [ 498704 00] nefha602.ord 
+-r-xr-xr-x   1    0    0       1232 Apr 11 2005 [ 498752 00] nefha602.orl 
+-r-xr-xr-x   1    0    0        351 Apr 11 2005 [ 498768 00] nefha602.txt 
+-r-xr-xr-x   1    0    0      60272 Apr 11 2005 [ 498784 00] nefha603.ord 
+-r-xr-xr-x   1    0    0       1184 Apr 11 2005 [ 498816 00] nefha603.orl 
+-r-xr-xr-x   1    0    0        347 Apr 11 2005 [ 498832 00] nefha603.txt 
+-r-xr-xr-x   1    0    0      29552 Apr 11 2005 [ 498848 00] nefha604.ord 
+-r-xr-xr-x   1    0    0        800 Apr 11 2005 [ 498864 00] nefha604.orl 
+-r-xr-xr-x   1    0    0        237 Apr 11 2005 [ 498880 00] nefha604.txt 
+-r-xr-xr-x   1    0    0      78144 Apr 11 2005 [ 498896 00] nefup101.ord 
+-r-xr-xr-x   1    0    0       1424 Apr 11 2005 [ 498944 00] nefup101.orl 
+-r-xr-xr-x   1    0    0        432 Apr 11 2005 [ 498960 00] nefup101.txt 
+-r-xr-xr-x   1    0    0      73984 Apr 11 2005 [ 498976 00] nefup102.ord 
+-r-xr-xr-x   1    0    0       1424 Apr 11 2005 [ 499024 00] nefup102.orl 
+-r-xr-xr-x   1    0    0        437 Apr 11 2005 [ 499040 00] nefup102.txt 
+-r-xr-xr-x   1    0    0      79024 Apr 11 2005 [ 499056 00] nefup103.ord 
+-r-xr-xr-x   1    0    0       1424 Apr 11 2005 [ 499104 00] nefup103.orl 
+-r-xr-xr-x   1    0    0        437 Apr 11 2005 [ 499120 00] nefup103.txt 
+-r-xr-xr-x   1    0    0      68608 Apr 11 2005 [ 499136 00] nefup104.ord 
+-r-xr-xr-x   1    0    0       1392 Apr 11 2005 [ 499184 00] nefup104.orl 
+-r-xr-xr-x   1    0    0        437 Apr 11 2005 [ 499200 00] nefup104.txt 
+-r-xr-xr-x   1    0    0      79456 Apr 11 2005 [ 499216 00] nefup201.ord 
+-r-xr-xr-x   1    0    0       1424 Apr 11 2005 [ 499264 00] nefup201.orl 
+-r-xr-xr-x   1    0    0        407 Apr 11 2005 [ 499280 00] nefup201.txt 
+-r-xr-xr-x   1    0    0      57424 Apr 11 2005 [ 499296 00] nefup202.ord 
+-r-xr-xr-x   1    0    0       1232 Apr 11 2005 [ 499328 00] nefup202.orl 
+-r-xr-xr-x   1    0    0        351 Apr 11 2005 [ 499344 00] nefup202.txt 
+-r-xr-xr-x   1    0    0      76160 Apr 11 2005 [ 499360 00] nefup301.ord 
+-r-xr-xr-x   1    0    0       1376 Apr 11 2005 [ 499408 00] nefup301.orl 
+-r-xr-xr-x   1    0    0        407 Apr 11 2005 [ 499424 00] nefup301.txt 
+-r-xr-xr-x   1    0    0      74576 Apr 11 2005 [ 499440 00] nefup302.ord 
+-r-xr-xr-x   1    0    0       1392 Apr 11 2005 [ 499488 00] nefup302.orl 
+-r-xr-xr-x   1    0    0        402 Apr 11 2005 [ 499504 00] nefup302.txt 
+-r-xr-xr-x   1    0    0      70400 Apr 11 2005 [ 499520 00] nefup401.ord 
+-r-xr-xr-x   1    0    0       1424 Apr 11 2005 [ 499568 00] nefup401.orl 
+-r-xr-xr-x   1    0    0        402 Apr 11 2005 [ 499584 00] nefup401.txt 
+-r-xr-xr-x   1    0    0      76976 Apr 11 2005 [ 499600 00] nefup501.ord 
+-r-xr-xr-x   1    0    0       1424 Apr 11 2005 [ 499648 00] nefup501.orl 
+-r-xr-xr-x   1    0    0        402 Apr 11 2005 [ 499664 00] nefup501.txt 
+-r-xr-xr-x   1    0    0      16832 Apr 11 2005 [ 499680 00] nepha101.ord 
+-r-xr-xr-x   1    0    0        656 Apr 11 2005 [ 499696 00] nepha101.orl 
+-r-xr-xr-x   1    0    0        185 Apr 11 2005 [ 499712 00] nepha101.txt 
+-r-xr-xr-x   1    0    0      11408 Apr 11 2005 [ 499728 00] nepha102.ord 
+-r-xr-xr-x   1    0    0        656 Apr 11 2005 [ 499744 00] nepha102.orl 
+-r-xr-xr-x   1    0    0        185 Apr 11 2005 [ 499760 00] nepha102.txt 
+-r-xr-xr-x   1    0    0      17088 Apr 11 2005 [ 499776 00] nepha201.ord 
+-r-xr-xr-x   1    0    0        656 Apr 11 2005 [ 499792 00] nepha201.orl 
+-r-xr-xr-x   1    0    0        185 Apr 11 2005 [ 499808 00] nepha201.txt 
+-r-xr-xr-x   1    0    0      21920 Apr 11 2005 [ 499824 00] nepha301.ord 
+-r-xr-xr-x   1    0    0        656 Apr 11 2005 [ 499840 00] nepha301.orl 
+-r-xr-xr-x   1    0    0        185 Apr 11 2005 [ 499856 00] nepha301.txt 
+-r-xr-xr-x   1    0    0      18192 Apr 11 2005 [ 499872 00] nepha401.ord 
+-r-xr-xr-x   1    0    0        656 Apr 11 2005 [ 499888 00] nepha401.orl 
+-r-xr-xr-x   1    0    0        185 Apr 11 2005 [ 499904 00] nepha401.txt 
+-r-xr-xr-x   1    0    0      18256 Apr 11 2005 [ 499920 00] nepha501.ord 
+-r-xr-xr-x   1    0    0        656 Apr 11 2005 [ 499936 00] nepha501.orl 
+-r-xr-xr-x   1    0    0        185 Apr 11 2005 [ 499952 00] nepha501.txt 
+-r-xr-xr-x   1    0    0      28320 Apr 11 2005 [ 499968 00] nepha601.ord 
+-r-xr-xr-x   1    0    0        816 Apr 11 2005 [ 499984 00] nepha601.orl 
+-r-xr-xr-x   1    0    0        243 Apr 11 2005 [ 500000 00] nepha601.txt 
+-r-xr-xr-x   1    0    0       7584 Apr 11 2005 [ 500016 00] nepup101.ord 
+-r-xr-xr-x   1    0    0        656 Apr 11 2005 [ 500032 00] nepup101.orl 
+-r-xr-xr-x   1    0    0        185 Apr 11 2005 [ 500048 00] nepup101.txt 
+-r-xr-xr-x   1    0    0       8800 Apr 11 2005 [ 500064 00] nepup201.ord 
+-r-xr-xr-x   1    0    0        656 Apr 11 2005 [ 500080 00] nepup201.orl 
+-r-xr-xr-x   1    0    0        185 Apr 11 2005 [ 500096 00] nepup201.txt 
+-r-xr-xr-x   1    0    0       8336 Apr 11 2005 [ 500112 00] nepup301.ord 
+-r-xr-xr-x   1    0    0        656 Apr 11 2005 [ 500128 00] nepup301.orl 
+-r-xr-xr-x   1    0    0        185 Apr 11 2005 [ 500144 00] nepup301.txt 
+-r-xr-xr-x   1    0    0      14304 Apr 11 2005 [ 500160 00] nepup401.ord 
+-r-xr-xr-x   1    0    0        656 Apr 11 2005 [ 500176 00] nepup401.orl 
+-r-xr-xr-x   1    0    0        185 Apr 11 2005 [ 500192 00] nepup401.txt 
+-r-xr-xr-x   1    0    0      20304 Apr 11 2005 [ 500208 00] nepup501.ord 
+-r-xr-xr-x   1    0    0        656 Apr 11 2005 [ 500224 00] nepup501.orl 
+-r-xr-xr-x   1    0    0        185 Apr 11 2005 [ 500240 00] nepup501.txt 
+-r-xr-xr-x   1    0    0      32656 Apr 11 2005 [ 500256 00] nhrcleft.ord 
+-r-xr-xr-x   1    0    0       1008 Apr 11 2005 [ 500272 00] nhrcleft.orl 
+-r-xr-xr-x   1    0    0        286 Apr 11 2005 [ 500288 00] nhrcleft.txt 
+-r-xr-xr-x   1    0    0      42768 Apr 11 2005 [ 500304 00] nhrcrght.ord 
+-r-xr-xr-x   1    0    0        960 Apr 11 2005 [ 500336 00] nhrcrght.orl 
+-r-xr-xr-x   1    0    0        286 Apr 11 2005 [ 500352 00] nhrcrght.txt 
+-r-xr-xr-x   1    0    0      26656 Apr 11 2005 [ 500368 00] nhrcsosa.ord 
+-r-xr-xr-x   1    0    0        656 Apr 11 2005 [ 500384 00] nhrcsosa.orl 
+-r-xr-xr-x   1    0    0        182 Apr 11 2005 [ 500400 00] nhrcsosa.txt 
+-r-xr-xr-x   1    0    0      39488 Apr 11 2005 [ 500416 00] nmchrg01.ord 
+-r-xr-xr-x   1    0    0       1232 Apr 11 2005 [ 500448 00] nmchrg01.orl 
+-r-xr-xr-x   1    0    0        347 Apr 11 2005 [ 500464 00] nmchrg01.txt 
+-r-xr-xr-x   1    0    0      12768 Apr 11 2005 [ 500480 00] nmmbha01.ord 
+-r-xr-xr-x   1    0    0        656 Apr 11 2005 [ 500496 00] nmmbha01.orl 
+-r-xr-xr-x   1    0    0        181 Apr 11 2005 [ 500512 00] nmmbha01.txt 
+-r-xr-xr-x   1    0    0      10544 Apr 11 2005 [ 500528 00] nmmbha02.ord 
+-r-xr-xr-x   1    0    0        656 Apr 11 2005 [ 500544 00] nmmbha02.orl 
+-r-xr-xr-x   1    0    0        181 Apr 11 2005 [ 500560 00] nmmbha02.txt 
+-r-xr-xr-x   1    0    0      15856 Apr 11 2005 [ 500576 00] nmmbup01.ord 
+-r-xr-xr-x   1    0    0        656 Apr 11 2005 [ 500592 00] nmmbup01.orl 
+-r-xr-xr-x   1    0    0        181 Apr 11 2005 [ 500608 00] nmmbup01.txt 
+-r-xr-xr-x   1    0    0      13264 Apr 11 2005 [ 500624 00] nmmbup02.ord 
+-r-xr-xr-x   1    0    0        656 Apr 11 2005 [ 500640 00] nmmbup02.orl 
+-r-xr-xr-x   1    0    0        181 Apr 11 2005 [ 500656 00] nmmbup02.txt 
+-r-xr-xr-x   1    0    0       9440 Apr 11 2005 [ 500672 00] nmmpin01.ord 
+-r-xr-xr-x   1    0    0        656 Apr 11 2005 [ 500688 00] nmmpin01.orl 
+-r-xr-xr-x   1    0    0        183 Apr 11 2005 [ 500704 00] nmmpin01.txt 
+-r-xr-xr-x   1    0    0      15856 Apr 11 2005 [ 500720 00] nmmpin02.ord 
+-r-xr-xr-x   1    0    0        656 Apr 11 2005 [ 500736 00] nmmpin02.orl 
+-r-xr-xr-x   1    0    0        183 Apr 11 2005 [ 500752 00] nmmpin02.txt 
+-r-xr-xr-x   1    0    0      11088 Apr 11 2005 [ 500768 00] nmvis01.ord 
+-r-xr-xr-x   1    0    0        848 Apr 11 2005 [ 500784 00] nmvis01.orl 
+-r-xr-xr-x   1    0    0        246 Apr 11 2005 [ 500800 00] nmvis01.txt 
+-r-xr-xr-x   1    0    0      18656 Apr 11 2005 [ 500816 00] nmvis02.ord 
+-r-xr-xr-x   1    0    0        848 Apr 11 2005 [ 500832 00] nmvis02.orl 
+-r-xr-xr-x   1    0    0        246 Apr 11 2005 [ 500848 00] nmvis02.txt 
+-r-xr-xr-x   1    0    0      12624 Apr 11 2005 [ 500864 00] nmvis03.ord 
+-r-xr-xr-x   1    0    0        848 Apr 11 2005 [ 500880 00] nmvis03.orl 
+-r-xr-xr-x   1    0    0        246 Apr 11 2005 [ 500896 00] nmvis03.txt 
+-r-xr-xr-x   1    0    0      20528 Apr 11 2005 [ 500912 00] nmvisc1.ord 
+-r-xr-xr-x   1    0    0        848 Apr 11 2005 [ 500928 00] nmvisc1.orl 
+-r-xr-xr-x   1    0    0        230 Apr 11 2005 [ 500944 00] nmvisc1.txt 
+-r-xr-xr-x   1    0    0      33536 Apr 11 2005 [ 500960 00] npeject1.ord 
+-r-xr-xr-x   1    0    0        848 Apr 11 2005 [ 500992 00] npeject1.orl 
+-r-xr-xr-x   1    0    0        245 Apr 11 2005 [ 501008 00] npeject1.txt 
+-r-xr-xr-x   1    0    0      34112 Apr 11 2005 [ 501024 00] npeject2.ord 
+-r-xr-xr-x   1    0    0        848 Apr 11 2005 [ 501056 00] npeject2.orl 
+-r-xr-xr-x   1    0    0        245 Apr 11 2005 [ 501072 00] npeject2.txt 
+-r-xr-xr-x   1    0    0      33408 Apr 11 2005 [ 501088 00] npeject3.ord 
+-r-xr-xr-x   1    0    0        848 Apr 11 2005 [ 501120 00] npeject3.orl 
+-r-xr-xr-x   1    0    0        245 Apr 11 2005 [ 501136 00] npeject3.txt 
+-r-xr-xr-x   1    0    0       6080 Apr 11 2005 [ 501152 00] nprun01.ord 
+-r-xr-xr-x   1    0    0        624 Apr 11 2005 [ 501168 00] nprun01.orl 
+-r-xr-xr-x   1    0    0        178 Apr 11 2005 [ 501184 00] nprun01.txt 
+-r-xr-xr-x   1    0    0       6368 Apr 11 2005 [ 501200 00] nprun02.ord 
+-r-xr-xr-x   1    0    0        624 Apr 11 2005 [ 501216 00] nprun02.orl 
+-r-xr-xr-x   1    0    0        189 Apr 11 2005 [ 501232 00] nprun02.txt 
+-r-xr-xr-x   1    0    0       3312 Apr 11 2005 [ 501248 00] nprun03.ord 
+-r-xr-xr-x   1    0    0        624 Apr 11 2005 [ 501264 00] nprun03.orl 
+-r-xr-xr-x   1    0    0        189 Apr 11 2005 [ 501280 00] nprun03.txt 
+-r-xr-xr-x   1    0    0       6112 Apr 11 2005 [ 501296 00] nprun04.ord 
+-r-xr-xr-x   1    0    0        624 Apr 11 2005 [ 501312 00] nprun04.orl 
+-r-xr-xr-x   1    0    0        189 Apr 11 2005 [ 501328 00] nprun04.txt 
+-r-xr-xr-x   1    0    0       8784 Apr 11 2005 [ 501344 00] nprun05.ord 
+-r-xr-xr-x   1    0    0        656 Apr 11 2005 [ 501360 00] nprun05.orl 
+-r-xr-xr-x   1    0    0        186 Apr 11 2005 [ 501376 00] nprun05.txt 
+-r-xr-xr-x   1    0    0       9488 Apr 11 2005 [ 501392 00] nprun06.ord 
+-r-xr-xr-x   1    0    0        656 Apr 11 2005 [ 501408 00] nprun06.orl 
+-r-xr-xr-x   1    0    0        186 Apr 11 2005 [ 501424 00] nprun06.txt 
+-r-xr-xr-x   1    0    0      19920 Apr 11 2005 [ 501440 00] npsubfl1.ord 
+-r-xr-xr-x   1    0    0        624 Apr 11 2005 [ 501456 00] npsubfl1.orl 
+-r-xr-xr-x   1    0    0        189 Apr 11 2005 [ 501472 00] npsubfl1.txt 
+-r-xr-xr-x   1    0    0      26096 Apr 11 2005 [ 501488 00] npsubfr1.ord 
+-r-xr-xr-x   1    0    0        656 Apr 11 2005 [ 501504 00] npsubfr1.orl 
+-r-xr-xr-x   1    0    0        190 Apr 11 2005 [ 501520 00] npsubfr1.txt 
+-r-xr-xr-x   1    0    0      24080 Apr 11 2005 [ 501536 00] npsubtl1.ord 
+-r-xr-xr-x   1    0    0        624 Apr 11 2005 [ 501552 00] npsubtl1.orl 
+-r-xr-xr-x   1    0    0        189 Apr 11 2005 [ 501568 00] npsubtl1.txt 
+-r-xr-xr-x   1    0    0      22704 Apr 11 2005 [ 501584 00] npsubtr1.ord 
+-r-xr-xr-x   1    0    0        624 Apr 11 2005 [ 501600 00] npsubtr1.orl 
+-r-xr-xr-x   1    0    0        190 Apr 11 2005 [ 501616 00] npsubtr1.txt 
+-r-xr-xr-x   1    0    0      33072 Apr 11 2005 [ 501632 00] npwarn01.ord 
+-r-xr-xr-x   1    0    0        848 Apr 11 2005 [ 501664 00] npwarn01.orl 
+-r-xr-xr-x   1    0    0        243 Apr 11 2005 [ 501680 00] npwarn01.txt 
+-r-xr-xr-x   1    0    0      13344 Apr 11 2005 [ 501696 00] sigb0000.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 501712 00] sigb0000.orl 
+-r-xr-xr-x   1    0    0        331 Apr 11 2005 [ 501728 00] sigb0000.txt 
+-r-xr-xr-x   1    0    0      13056 Apr 11 2005 [ 501744 00] sigb0001.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 501760 00] sigb0001.orl 
+-r-xr-xr-x   1    0    0        331 Apr 11 2005 [ 501776 00] sigb0001.txt 
+-r-xr-xr-x   1    0    0      13264 Apr 11 2005 [ 501792 00] sigb0002.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 501808 00] sigb0002.orl 
+-r-xr-xr-x   1    0    0        331 Apr 11 2005 [ 501824 00] sigb0002.txt 
+-r-xr-xr-x   1    0    0      14224 Apr 11 2005 [ 501840 00] sigb0003.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 501856 00] sigb0003.orl 
+-r-xr-xr-x   1    0    0        331 Apr 11 2005 [ 501872 00] sigb0003.txt 
+-r-xr-xr-x   1    0    0      13792 Apr 11 2005 [ 501888 00] sigb0004.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 501904 00] sigb0004.orl 
+-r-xr-xr-x   1    0    0        347 Apr 11 2005 [ 501920 00] sigb0004.txt 
+-r-xr-xr-x   1    0    0      12496 Apr 11 2005 [ 501936 00] sigb0005.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 501952 00] sigb0005.orl 
+-r-xr-xr-x   1    0    0        331 Apr 11 2005 [ 501968 00] sigb0005.txt 
+-r-xr-xr-x   1    0    0      14736 Apr 11 2005 [ 501984 00] sigb0006.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 502000 00] sigb0006.orl 
+-r-xr-xr-x   1    0    0        335 Apr 11 2005 [ 502016 00] sigb0006.txt 
+-r-xr-xr-x   1    0    0      14944 Apr 11 2005 [ 502032 00] sigb0007.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 502048 00] sigb0007.orl 
+-r-xr-xr-x   1    0    0        351 Apr 11 2005 [ 502064 00] sigb0007.txt 
+-r-xr-xr-x   1    0    0      15360 Apr 11 2005 [ 502080 00] sigb0008.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 502096 00] sigb0008.orl 
+-r-xr-xr-x   1    0    0        359 Apr 11 2005 [ 502112 00] sigb0008.txt 
+-r-xr-xr-x   1    0    0      12416 Apr 11 2005 [ 502128 00] sigb0009.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 502144 00] sigb0009.orl 
+-r-xr-xr-x   1    0    0        343 Apr 11 2005 [ 502160 00] sigb0009.txt 
+-r-xr-xr-x   1    0    0      10304 Apr 11 2005 [ 502176 00] sigb0010.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 502192 00] sigb0010.orl 
+-r-xr-xr-x   1    0    0        359 Apr 11 2005 [ 502208 00] sigb0010.txt 
+-r-xr-xr-x   1    0    0      11296 Apr 11 2005 [ 502224 00] sigb0011.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 502240 00] sigb0011.orl 
+-r-xr-xr-x   1    0    0        347 Apr 11 2005 [ 502256 00] sigb0011.txt 
+-r-xr-xr-x   1    0    0      14720 Apr 11 2005 [ 502272 00] sigb0012.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 502288 00] sigb0012.orl 
+-r-xr-xr-x   1    0    0        363 Apr 11 2005 [ 502304 00] sigb0012.txt 
+-r-xr-xr-x   1    0    0      13984 Apr 11 2005 [ 502320 00] sigb0013.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 502336 00] sigb0013.orl 
+-r-xr-xr-x   1    0    0        355 Apr 11 2005 [ 502352 00] sigb0013.txt 
+-r-xr-xr-x   1    0    0      40800 Apr 11 2005 [ 502368 00] sigb0014.ord 
+-r-xr-xr-x   1    0    0       2640 Apr 11 2005 [ 502400 00] sigb0014.orl 
+-r-xr-xr-x   1    0    0        869 Apr 11 2005 [ 502416 00] sigb0014.txt 
+-r-xr-xr-x   1    0    0      13296 Apr 11 2005 [ 502432 00] sigb0015.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 502448 00] sigb0015.orl 
+-r-xr-xr-x   1    0    0        351 Apr 11 2005 [ 502464 00] sigb0015.txt 
+-r-xr-xr-x   1    0    0      19168 Apr 11 2005 [ 502480 00] sigb0016.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 502496 00] sigb0016.orl 
+-r-xr-xr-x   1    0    0        347 Apr 11 2005 [ 502512 00] sigb0016.txt 
+-r-xr-xr-x   1    0    0      14208 Apr 11 2005 [ 502528 00] sigb0017.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 502544 00] sigb0017.orl 
+-r-xr-xr-x   1    0    0        363 Apr 11 2005 [ 502560 00] sigb0017.txt 
+-r-xr-xr-x   1    0    0      15520 Apr 11 2005 [ 502576 00] sigb0018.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 502592 00] sigb0018.orl 
+-r-xr-xr-x   1    0    0        347 Apr 11 2005 [ 502608 00] sigb0018.txt 
+-r-xr-xr-x   1    0    0      13248 Apr 11 2005 [ 502624 00] sigb0019.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 502640 00] sigb0019.orl 
+-r-xr-xr-x   1    0    0        363 Apr 11 2005 [ 502656 00] sigb0019.txt 
+-r-xr-xr-x   1    0    0      13984 Apr 11 2005 [ 502672 00] sigb0020.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 502688 00] sigb0020.orl 
+-r-xr-xr-x   1    0    0        355 Apr 11 2005 [ 502704 00] sigb0020.txt 
+-r-xr-xr-x   1    0    0      15536 Apr 11 2005 [ 502720 00] sigb0021.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 502736 00] sigb0021.orl 
+-r-xr-xr-x   1    0    0        367 Apr 11 2005 [ 502752 00] sigb0021.txt 
+-r-xr-xr-x   1    0    0      13648 Apr 11 2005 [ 502768 00] sigb0022.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 502784 00] sigb0022.orl 
+-r-xr-xr-x   1    0    0        347 Apr 11 2005 [ 502800 00] sigb0022.txt 
+-r-xr-xr-x   1    0    0      10000 Apr 11 2005 [ 502816 00] sigb0023.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 502832 00] sigb0023.orl 
+-r-xr-xr-x   1    0    0        355 Apr 11 2005 [ 502848 00] sigb0023.txt 
+-r-xr-xr-x   1    0    0      13840 Apr 11 2005 [ 502864 00] sigb0024.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 502880 00] sigb0024.orl 
+-r-xr-xr-x   1    0    0        355 Apr 11 2005 [ 502896 00] sigb0024.txt 
+-r-xr-xr-x   1    0    0      15072 Apr 11 2005 [ 502912 00] sigb0025.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 502928 00] sigb0025.orl 
+-r-xr-xr-x   1    0    0        359 Apr 11 2005 [ 502944 00] sigb0025.txt 
+-r-xr-xr-x   1    0    0      12544 Apr 11 2005 [ 502960 00] sigb0026.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 502976 00] sigb0026.orl 
+-r-xr-xr-x   1    0    0        355 Apr 11 2005 [ 502992 00] sigb0026.txt 
+-r-xr-xr-x   1    0    0      12352 Apr 11 2005 [ 503008 00] sigb0027.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 503024 00] sigb0027.orl 
+-r-xr-xr-x   1    0    0        367 Apr 11 2005 [ 503040 00] sigb0027.txt 
+-r-xr-xr-x   1    0    0      13936 Apr 11 2005 [ 503056 00] sigb0028.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 503072 00] sigb0028.orl 
+-r-xr-xr-x   1    0    0        359 Apr 11 2005 [ 503088 00] sigb0028.txt 
+-r-xr-xr-x   1    0    0      12704 Apr 11 2005 [ 503104 00] sigb0029.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 503120 00] sigb0029.orl 
+-r-xr-xr-x   1    0    0        355 Apr 11 2005 [ 503136 00] sigb0029.txt 
+-r-xr-xr-x   1    0    0      14976 Apr 11 2005 [ 503152 00] sigb0030.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 503168 00] sigb0030.orl 
+-r-xr-xr-x   1    0    0        351 Apr 11 2005 [ 503184 00] sigb0030.txt 
+-r-xr-xr-x   1    0    0      13040 Apr 11 2005 [ 503200 00] sigb0031.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 503216 00] sigb0031.orl 
+-r-xr-xr-x   1    0    0        355 Apr 11 2005 [ 503232 00] sigb0031.txt 
+-r-xr-xr-x   1    0    0      14992 Apr 11 2005 [ 503248 00] sigb0032.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 503264 00] sigb0032.orl 
+-r-xr-xr-x   1    0    0        363 Apr 11 2005 [ 503280 00] sigb0032.txt 
+-r-xr-xr-x   1    0    0      11904 Apr 11 2005 [ 503296 00] sigb0033.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 503312 00] sigb0033.orl 
+-r-xr-xr-x   1    0    0        355 Apr 11 2005 [ 503328 00] sigb0033.txt 
+-r-xr-xr-x   1    0    0      16560 Apr 11 2005 [ 503344 00] sigb0034.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 503360 00] sigb0034.orl 
+-r-xr-xr-x   1    0    0        347 Apr 11 2005 [ 503376 00] sigb0034.txt 
+-r-xr-xr-x   1    0    0      11664 Apr 11 2005 [ 503392 00] sigb0035.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 503408 00] sigb0035.orl 
+-r-xr-xr-x   1    0    0        363 Apr 11 2005 [ 503424 00] sigb0035.txt 
+-r-xr-xr-x   1    0    0      12000 Apr 11 2005 [ 503440 00] sigb0036.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 503456 00] sigb0036.orl 
+-r-xr-xr-x   1    0    0        351 Apr 11 2005 [ 503472 00] sigb0036.txt 
+-r-xr-xr-x   1    0    0      12256 Apr 11 2005 [ 503488 00] sigb0037.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 503504 00] sigb0037.orl 
+-r-xr-xr-x   1    0    0        355 Apr 11 2005 [ 503520 00] sigb0037.txt 
+-r-xr-xr-x   1    0    0      12032 Apr 11 2005 [ 503536 00] sigb0038.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 503552 00] sigb0038.orl 
+-r-xr-xr-x   1    0    0        359 Apr 11 2005 [ 503568 00] sigb0038.txt 
+-r-xr-xr-x   1    0    0       8992 Apr 11 2005 [ 503584 00] sigb0039.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 503600 00] sigb0039.orl 
+-r-xr-xr-x   1    0    0        347 Apr 11 2005 [ 503616 00] sigb0039.txt 
+-r-xr-xr-x   1    0    0      11936 Apr 11 2005 [ 503632 00] sigb0040.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 503648 00] sigb0040.orl 
+-r-xr-xr-x   1    0    0        355 Apr 11 2005 [ 503664 00] sigb0040.txt 
+-r-xr-xr-x   1    0    0      14096 Apr 11 2005 [ 503680 00] sigb0041.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 503696 00] sigb0041.orl 
+-r-xr-xr-x   1    0    0        355 Apr 11 2005 [ 503712 00] sigb0041.txt 
+-r-xr-xr-x   1    0    0      12256 Apr 11 2005 [ 503728 00] sigb0042.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 503744 00] sigb0042.orl 
+-r-xr-xr-x   1    0    0        359 Apr 11 2005 [ 503760 00] sigb0042.txt 
+-r-xr-xr-x   1    0    0      14720 Apr 11 2005 [ 503776 00] sigb0043.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 503792 00] sigb0043.orl 
+-r-xr-xr-x   1    0    0        351 Apr 11 2005 [ 503808 00] sigb0043.txt 
+-r-xr-xr-x   1    0    0      13504 Apr 11 2005 [ 503824 00] sigb0044.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 503840 00] sigb0044.orl 
+-r-xr-xr-x   1    0    0        355 Apr 11 2005 [ 503856 00] sigb0044.txt 
+-r-xr-xr-x   1    0    0       8880 Apr 11 2005 [ 503872 00] sigb0045.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 503888 00] sigb0045.orl 
+-r-xr-xr-x   1    0    0        351 Apr 11 2005 [ 503904 00] sigb0045.txt 
+-r-xr-xr-x   1    0    0      14752 Apr 11 2005 [ 503920 00] sigb0046.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 503936 00] sigb0046.orl 
+-r-xr-xr-x   1    0    0        363 Apr 11 2005 [ 503952 00] sigb0046.txt 
+-r-xr-xr-x   1    0    0      13024 Apr 11 2005 [ 503968 00] sigb0047.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 503984 00] sigb0047.orl 
+-r-xr-xr-x   1    0    0        351 Apr 11 2005 [ 504000 00] sigb0047.txt 
+-r-xr-xr-x   1    0    0      11440 Apr 11 2005 [ 504016 00] sigb0048.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 504032 00] sigb0048.orl 
+-r-xr-xr-x   1    0    0        351 Apr 11 2005 [ 504048 00] sigb0048.txt 
+-r-xr-xr-x   1    0    0      11888 Apr 11 2005 [ 504064 00] sigb0049.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 504080 00] sigb0049.orl 
+-r-xr-xr-x   1    0    0        355 Apr 11 2005 [ 504096 00] sigb0049.txt 
+-r-xr-xr-x   1    0    0      10992 Apr 11 2005 [ 504112 00] sigb0050.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 504128 00] sigb0050.orl 
+-r-xr-xr-x   1    0    0        351 Apr 11 2005 [ 504144 00] sigb0050.txt 
+-r-xr-xr-x   1    0    0      11296 Apr 11 2005 [ 504160 00] sigb0051.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 504176 00] sigb0051.orl 
+-r-xr-xr-x   1    0    0        351 Apr 11 2005 [ 504192 00] sigb0051.txt 
+-r-xr-xr-x   1    0    0      13328 Apr 11 2005 [ 504208 00] sigb0052.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 504224 00] sigb0052.orl 
+-r-xr-xr-x   1    0    0        355 Apr 11 2005 [ 504240 00] sigb0052.txt 
+-r-xr-xr-x   1    0    0      12272 Apr 11 2005 [ 504256 00] sigb0053.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 504272 00] sigb0053.orl 
+-r-xr-xr-x   1    0    0        347 Apr 11 2005 [ 504288 00] sigb0053.txt 
+-r-xr-xr-x   1    0    0      12496 Apr 11 2005 [ 504304 00] sigb0054.ord 
+-r-xr-xr-x   1    0    0       1120 Apr 11 2005 [ 504320 00] sigb0054.orl 
+-r-xr-xr-x   1    0    0        355 Apr 11 2005 [ 504336 00] sigb0054.txt 
+-r-xr-xr-x   1    0    0      12576 Apr 11 2005 [ 504352 00] sigb0055.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 504368 00] sigb0055.orl 
+-r-xr-xr-x   1    0    0        359 Apr 11 2005 [ 504384 00] sigb0055.txt 
+-r-xr-xr-x   1    0    0      15872 Apr 11 2005 [ 504400 00] sigb0056.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 504416 00] sigb0056.orl 
+-r-xr-xr-x   1    0    0        355 Apr 11 2005 [ 504432 00] sigb0056.txt 
+-r-xr-xr-x   1    0    0      13632 Apr 11 2005 [ 504448 00] sigb0057.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 504464 00] sigb0057.orl 
+-r-xr-xr-x   1    0    0        351 Apr 11 2005 [ 504480 00] sigb0057.txt 
+-r-xr-xr-x   1    0    0      12448 Apr 11 2005 [ 504496 00] sigb0058.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 504512 00] sigb0058.orl 
+-r-xr-xr-x   1    0    0        347 Apr 11 2005 [ 504528 00] sigb0058.txt 
+-r-xr-xr-x   1    0    0       9072 Apr 11 2005 [ 504544 00] sigb0059.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 504560 00] sigb0059.orl 
+-r-xr-xr-x   1    0    0        351 Apr 11 2005 [ 504576 00] sigb0059.txt 
+-r-xr-xr-x   1    0    0      14016 Apr 11 2005 [ 504592 00] sigb0060.ord 
+-r-xr-xr-x   1    0    0       1152 Apr 11 2005 [ 504608 00] sigb0060.orl 
+-r-xr-xr-x   1    0    0        355 Apr 11 2005 [ 504624 00] sigb0060.txt 
+-r-xr-xr-x   1    0    0      10640 Apr 11 2005 [ 504640 00] sigb0061.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 504656 00] sigb0061.orl 
+-r-xr-xr-x   1    0    0        379 Apr 11 2005 [ 504672 00] sigb0061.txt 
+-r-xr-xr-x   1    0    0      14288 Apr 11 2005 [ 504688 00] sigb0062.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 504704 00] sigb0062.orl 
+-r-xr-xr-x   1    0    0        379 Apr 11 2005 [ 504720 00] sigb0062.txt 
+-r-xr-xr-x   1    0    0      10096 Apr 11 2005 [ 504736 00] sigb0063.ord 
+-r-xr-xr-x   1    0    0       1136 Apr 11 2005 [ 504752 00] sigb0063.orl 
+-r-xr-xr-x   1    0    0        379 Apr 11 2005 [ 504768 00] sigb0063.txt 
+-r-xr-xr-x   1    0    0      11648 Apr 11 2005 [ 504784 00] sigp0000.ord 
+-r-xr-xr-x   1    0    0        800 Apr 11 2005 [ 504800 00] sigp0000.orl 
+-r-xr-xr-x   1    0    0        223 Apr 11 2005 [ 504816 00] sigp0000.txt 
+-r-xr-xr-x   1    0    0      11280 Apr 11 2005 [ 504832 00] sigp0001.ord 
+-r-xr-xr-x   1    0    0        800 Apr 11 2005 [ 504848 00] sigp0001.orl 
+-r-xr-xr-x   1    0    0        227 Apr 11 2005 [ 504864 00] sigp0001.txt 
+-r-xr-xr-x   1    0    0      10544 Apr 11 2005 [ 504880 00] sigp0002.ord 
+-r-xr-xr-x   1    0    0        816 Apr 11 2005 [ 504896 00] sigp0002.orl 
+-r-xr-xr-x   1    0    0        223 Apr 11 2005 [ 504912 00] sigp0002.txt 
+-r-xr-xr-x   1    0    0      10384 Apr 11 2005 [ 504928 00] sigp0003.ord 
+-r-xr-xr-x   1    0    0        816 Apr 11 2005 [ 504944 00] sigp0003.orl 
+-r-xr-xr-x   1    0    0        233 Apr 11 2005 [ 504960 00] sigp0003.txt 
+-r-xr-xr-x   1    0    0       9664 Apr 11 2005 [ 504976 00] sigp0004.ord 
+-r-xr-xr-x   1    0    0        816 Apr 11 2005 [ 504992 00] sigp0004.orl 
+-r-xr-xr-x   1    0    0        233 Apr 11 2005 [ 505008 00] sigp0004.txt 
+-r-xr-xr-x   1    0    0      11200 Apr 11 2005 [ 505024 00] sigp0005.ord 
+-r-xr-xr-x   1    0    0        800 Apr 11 2005 [ 505040 00] sigp0005.orl 
+-r-xr-xr-x   1    0    0        231 Apr 11 2005 [ 505056 00] sigp0005.txt 
+-r-xr-xr-x   1    0    0      11456 Apr 11 2005 [ 505072 00] sigp0006.ord 
+-r-xr-xr-x   1    0    0        816 Apr 11 2005 [ 505088 00] sigp0006.orl 
+-r-xr-xr-x   1    0    0        235 Apr 11 2005 [ 505104 00] sigp0006.txt 
+-r-xr-xr-x   1    0    0      10112 Apr 11 2005 [ 505120 00] sigp0007.ord 
+-r-xr-xr-x   1    0    0        816 Apr 11 2005 [ 505136 00] sigp0007.orl 
+-r-xr-xr-x   1    0    0        231 Apr 11 2005 [ 505152 00] sigp0007.txt 
+-r-xr-xr-x   1    0    0      11312 Apr 11 2005 [ 505168 00] sigp0008.ord 
+-r-xr-xr-x   1    0    0        816 Apr 11 2005 [ 505184 00] sigp0008.orl 
+-r-xr-xr-x   1    0    0        233 Apr 11 2005 [ 505200 00] sigp0008.txt 
+-r-xr-xr-x   1    0    0      11184 Apr 11 2005 [ 505216 00] sigp0009.ord 
+-r-xr-xr-x   1    0    0        816 Apr 11 2005 [ 505232 00] sigp0009.orl 
+-r-xr-xr-x   1    0    0        237 Apr 11 2005 [ 505248 00] sigp0009.txt 
+-r-xr-xr-x   1    0    0      10848 Apr 11 2005 [ 505264 00] sigp0010.ord 
+-r-xr-xr-x   1    0    0        816 Apr 11 2005 [ 505280 00] sigp0010.orl 
+-r-xr-xr-x   1    0    0        235 Apr 11 2005 [ 505296 00] sigp0010.txt 
+-r-xr-xr-x   1    0    0      12192 Apr 11 2005 [ 505312 00] sigp0011.ord 
+-r-xr-xr-x   1    0    0        800 Apr 11 2005 [ 505328 00] sigp0011.orl 
+-r-xr-xr-x   1    0    0        229 Apr 11 2005 [ 505344 00] sigp0011.txt 
+-r-xr-xr-x   1    0    0      11584 Apr 11 2005 [ 505360 00] sigp0012.ord 
+-r-xr-xr-x   1    0    0        848 Apr 11 2005 [ 505376 00] sigp0012.orl 
+-r-xr-xr-x   1    0    0        231 Apr 11 2005 [ 505392 00] sigp0012.txt 
+-r-xr-xr-x   1    0    0      11344 Apr 11 2005 [ 505408 00] sigp0013.ord 
+-r-xr-xr-x   1    0    0        816 Apr 11 2005 [ 505424 00] sigp0013.orl 
+-r-xr-xr-x   1    0    0        233 Apr 11 2005 [ 505440 00] sigp0013.txt 
+-r-xr-xr-x   1    0    0      10704 Apr 11 2005 [ 505456 00] sigp0014.ord 
+-r-xr-xr-x   1    0    0        816 Apr 11 2005 [ 505472 00] sigp0014.orl 
+-r-xr-xr-x   1    0    0        231 Apr 11 2005 [ 505488 00] sigp0014.txt 
+-r-xr-xr-x   1    0    0      10288 Apr 11 2005 [ 505504 00] sigp0015.ord 
+-r-xr-xr-x   1    0    0        800 Apr 11 2005 [ 505520 00] sigp0015.orl 
+-r-xr-xr-x   1    0    0        237 Apr 11 2005 [ 505536 00] sigp0015.txt 
+-r-xr-xr-x   1    0    0      13648 Apr 11 2005 [ 505552 00] sigp0016.ord 
+-r-xr-xr-x   1    0    0        848 Apr 11 2005 [ 505568 00] sigp0016.orl 
+-r-xr-xr-x   1    0    0        231 Apr 11 2005 [ 505584 00] sigp0016.txt 
+-r-xr-xr-x   1    0    0      11984 Apr 11 2005 [ 505600 00] sigp0017.ord 
+-r-xr-xr-x   1    0    0        848 Apr 11 2005 [ 505616 00] sigp0017.orl 
+-r-xr-xr-x   1    0    0        233 Apr 11 2005 [ 505632 00] sigp0017.txt 
+-r-xr-xr-x   1    0    0      11296 Apr 11 2005 [ 505648 00] sigp0018.ord 
+-r-xr-xr-x   1    0    0        800 Apr 11 2005 [ 505664 00] sigp0018.orl 
+-r-xr-xr-x   1    0    0        233 Apr 11 2005 [ 505680 00] sigp0018.txt 
+-r-xr-xr-x   1    0    0      12112 Apr 11 2005 [ 505696 00] sigp0019.ord 
+-r-xr-xr-x   1    0    0        816 Apr 11 2005 [ 505712 00] sigp0019.orl 
+-r-xr-xr-x   1    0    0        237 Apr 11 2005 [ 505728 00] sigp0019.txt 
+-r-xr-xr-x   1    0    0      10224 Apr 11 2005 [ 505744 00] sigp0020.ord 
+-r-xr-xr-x   1    0    0        816 Apr 11 2005 [ 505760 00] sigp0020.orl 
+-r-xr-xr-x   1    0    0        239 Apr 11 2005 [ 505776 00] sigp0020.txt 
+-r-xr-xr-x   1    0    0      10704 Apr 11 2005 [ 505792 00] sigp0021.ord 
+-r-xr-xr-x   1    0    0        800 Apr 11 2005 [ 505808 00] sigp0021.orl 
+-r-xr-xr-x   1    0    0        229 Apr 11 2005 [ 505824 00] sigp0021.txt 
+-r-xr-xr-x   1    0    0      11632 Apr 11 2005 [ 505840 00] sigp0022.ord 
+-r-xr-xr-x   1    0    0        848 Apr 11 2005 [ 505856 00] sigp0022.orl 
+-r-xr-xr-x   1    0    0        235 Apr 11 2005 [ 505872 00] sigp0022.txt 
+-r-xr-xr-x   1    0    0       8928 Apr 11 2005 [ 505888 00] sigp0023.ord 
+-r-xr-xr-x   1    0    0        800 Apr 11 2005 [ 505904 00] sigp0023.orl 
+-r-xr-xr-x   1    0    0        239 Apr 11 2005 [ 505920 00] sigp0023.txt 
+-r-xr-xr-x   1    0    0      10320 Apr 11 2005 [ 505936 00] sigp0024.ord 
+-r-xr-xr-x   1    0    0        784 Apr 11 2005 [ 505952 00] sigp0024.orl 
+-r-xr-xr-x   1    0    0        227 Apr 11 2005 [ 505968 00] sigp0024.txt 
+-r-xr-xr-x   1    0    0      10624 Apr 11 2005 [ 505984 00] sigp0025.ord 
+-r-xr-xr-x   1    0    0        848 Apr 11 2005 [ 506000 00] sigp0025.orl 
+-r-xr-xr-x   1    0    0        229 Apr 11 2005 [ 506016 00] sigp0025.txt 
+-r-xr-xr-x   1    0    0      12576 Apr 11 2005 [ 506032 00] sigp0026.ord 
+-r-xr-xr-x   1    0    0        816 Apr 11 2005 [ 506048 00] sigp0026.orl 
+-r-xr-xr-x   1    0    0        231 Apr 11 2005 [ 506064 00] sigp0026.txt 
+-r-xr-xr-x   1    0    0      10896 Apr 11 2005 [ 506080 00] sigp0027.ord 
+-r-xr-xr-x   1    0    0        816 Apr 11 2005 [ 506096 00] sigp0027.orl 
+-r-xr-xr-x   1    0    0        229 Apr 11 2005 [ 506112 00] sigp0027.txt 
+-r-xr-xr-x   1    0    0      11216 Apr 11 2005 [ 506128 00] sigp0028.ord 
+-r-xr-xr-x   1    0    0        816 Apr 11 2005 [ 506144 00] sigp0028.orl 
+-r-xr-xr-x   1    0    0        233 Apr 11 2005 [ 506160 00] sigp0028.txt 
+-r-xr-xr-x   1    0    0      12624 Apr 11 2005 [ 506176 00] sigp0029.ord 
+-r-xr-xr-x   1    0    0        848 Apr 11 2005 [ 506192 00] sigp0029.orl 
+-r-xr-xr-x   1    0    0        237 Apr 11 2005 [ 506208 00] sigp0029.txt 
+-r-xr-xr-x   1    0    0      10720 Apr 11 2005 [ 506224 00] sigp0030.ord 
+-r-xr-xr-x   1    0    0        816 Apr 11 2005 [ 506240 00] sigp0030.orl 
+-r-xr-xr-x   1    0    0        233 Apr 11 2005 [ 506256 00] sigp0030.txt 
+-r-xr-xr-x   1    0    0      11456 Apr 11 2005 [ 506272 00] sigp0031.ord 
+-r-xr-xr-x   1    0    0        816 Apr 11 2005 [ 506288 00] sigp0031.orl 
+-r-xr-xr-x   1    0    0        231 Apr 11 2005 [ 506304 00] sigp0031.txt 
+-r-xr-xr-x   1    0    0      11312 Apr 11 2005 [ 506320 00] sigp0032.ord 
+-r-xr-xr-x   1    0    0        816 Apr 11 2005 [ 506336 00] sigp0032.orl 
+-r-xr-xr-x   1    0    0        239 Apr 11 2005 [ 506352 00] sigp0032.txt 
+-r-xr-xr-x   1    0    0      10448 Apr 11 2005 [ 506368 00] sigp0033.ord 
+-r-xr-xr-x   1    0    0        816 Apr 11 2005 [ 506384 00] sigp0033.orl 
+-r-xr-xr-x   1    0    0        235 Apr 11 2005 [ 506400 00] sigp0033.txt 
+-r-xr-xr-x   1    0    0      11632 Apr 11 2005 [ 506416 00] sigp0034.ord 
+-r-xr-xr-x   1    0    0        816 Apr 11 2005 [ 506432 00] sigp0034.orl 
+-r-xr-xr-x   1    0    0        235 Apr 11 2005 [ 506448 00] sigp0034.txt 
+-r-xr-xr-x   1    0    0      10784 Apr 11 2005 [ 506464 00] sigp0035.ord 
+-r-xr-xr-x   1    0    0        784 Apr 11 2005 [ 506480 00] sigp0035.orl 
+-r-xr-xr-x   1    0    0        233 Apr 11 2005 [ 506496 00] sigp0035.txt 
+-r-xr-xr-x   1    0    0      11120 Apr 11 2005 [ 506512 00] sigp0036.ord 
+-r-xr-xr-x   1    0    0        784 Apr 11 2005 [ 506528 00] sigp0036.orl 
+-r-xr-xr-x   1    0    0        239 Apr 11 2005 [ 506544 00] sigp0036.txt 
+-r-xr-xr-x   1    0    0      11888 Apr 11 2005 [ 506560 00] sigp0037.ord 
+-r-xr-xr-x   1    0    0        816 Apr 11 2005 [ 506576 00] sigp0037.orl 
+-r-xr-xr-x   1    0    0        239 Apr 11 2005 [ 506592 00] sigp0037.txt 
+-r-xr-xr-x   1    0    0      10128 Apr 11 2005 [ 506608 00] sigp0038.ord 
+-r-xr-xr-x   1    0    0        784 Apr 11 2005 [ 506624 00] sigp0038.orl 
+-r-xr-xr-x   1    0    0        229 Apr 11 2005 [ 506640 00] sigp0038.txt 
+-r-xr-xr-x   1    0    0       9856 Apr 11 2005 [ 506656 00] sigp0039.ord 
+-r-xr-xr-x   1    0    0        784 Apr 11 2005 [ 506672 00] sigp0039.orl 
+-r-xr-xr-x   1    0    0        233 Apr 11 2005 [ 506688 00] sigp0039.txt 
+-r-xr-xr-x   1    0    0       9728 Apr 11 2005 [ 506704 00] sigp0040.ord 
+-r-xr-xr-x   1    0    0        816 Apr 11 2005 [ 506720 00] sigp0040.orl 
+-r-xr-xr-x   1    0    0        233 Apr 11 2005 [ 506736 00] sigp0040.txt 
+-r-xr-xr-x   1    0    0      10624 Apr 11 2005 [ 506752 00] sigp0041.ord 
+-r-xr-xr-x   1    0    0        816 Apr 11 2005 [ 506768 00] sigp0041.orl 
+-r-xr-xr-x   1    0    0        233 Apr 11 2005 [ 506784 00] sigp0041.txt 
+-r-xr-xr-x   1    0    0      10592 Apr 11 2005 [ 506800 00] sigp0042.ord 
+-r-xr-xr-x   1    0    0        784 Apr 11 2005 [ 506816 00] sigp0042.orl 
+-r-xr-xr-x   1    0    0        237 Apr 11 2005 [ 506832 00] sigp0042.txt 
+-r-xr-xr-x   1    0    0      11488 Apr 11 2005 [ 506848 00] sigp0043.ord 
+-r-xr-xr-x   1    0    0        816 Apr 11 2005 [ 506864 00] sigp0043.orl 
+-r-xr-xr-x   1    0    0        235 Apr 11 2005 [ 506880 00] sigp0043.txt 
+-r-xr-xr-x   1    0    0      10192 Apr 11 2005 [ 506896 00] sigp0045.ord 
+-r-xr-xr-x   1    0    0        784 Apr 11 2005 [ 506912 00] sigp0045.orl 
+-r-xr-xr-x   1    0    0        233 Apr 11 2005 [ 506928 00] sigp0045.txt 
+-r-xr-xr-x   1    0    0      13376 Apr 11 2005 [ 506944 00] sigp0046.ord 
+-r-xr-xr-x   1    0    0        784 Apr 11 2005 [ 506960 00] sigp0046.orl 
+-r-xr-xr-x   1    0    0        237 Apr 11 2005 [ 506976 00] sigp0046.txt 
+-r-xr-xr-x   1    0    0      11888 Apr 11 2005 [ 506992 00] sigp0047.ord 
+-r-xr-xr-x   1    0    0        816 Apr 11 2005 [ 507008 00] sigp0047.orl 
+-r-xr-xr-x   1    0    0        239 Apr 11 2005 [ 507024 00] sigp0047.txt 
+-r-xr-xr-x   1    0    0      12128 Apr 11 2005 [ 507040 00] sigp0048.ord 
+-r-xr-xr-x   1    0    0        816 Apr 11 2005 [ 507056 00] sigp0048.orl 
+-r-xr-xr-x   1    0    0        231 Apr 11 2005 [ 507072 00] sigp0048.txt 
+-r-xr-xr-x   1    0    0      14880 Apr 11 2005 [ 507088 00] sigp0049.ord 
+-r-xr-xr-x   1    0    0        816 Apr 11 2005 [ 507104 00] sigp0049.orl 
+-r-xr-xr-x   1    0    0        233 Apr 11 2005 [ 507120 00] sigp0049.txt 
+-r-xr-xr-x   1    0    0      12128 Apr 11 2005 [ 507136 00] sigp0050.ord 
+-r-xr-xr-x   1    0    0        784 Apr 11 2005 [ 507152 00] sigp0050.orl 
+-r-xr-xr-x   1    0    0        235 Apr 11 2005 [ 507168 00] sigp0050.txt 
+-r-xr-xr-x   1    0    0      10816 Apr 11 2005 [ 507184 00] sigp0051.ord 
+-r-xr-xr-x   1    0    0        784 Apr 11 2005 [ 507200 00] sigp0051.orl 
+-r-xr-xr-x   1    0    0        235 Apr 11 2005 [ 507216 00] sigp0051.txt 
+-r-xr-xr-x   1    0    0      11456 Apr 11 2005 [ 507232 00] sigp0052.ord 
+-r-xr-xr-x   1    0    0        784 Apr 11 2005 [ 507248 00] sigp0052.orl 
+-r-xr-xr-x   1    0    0        235 Apr 11 2005 [ 507264 00] sigp0052.txt 
+-r-xr-xr-x   1    0    0      17296 Apr 11 2005 [ 507280 00] sigp0053.ord 
+-r-xr-xr-x   1    0    0        800 Apr 11 2005 [ 507296 00] sigp0053.orl 
+-r-xr-xr-x   1    0    0        247 Apr 11 2005 [ 507312 00] sigp0053.txt 
+-r-xr-xr-x   1    0    0       9920 Apr 11 2005 [ 507328 00] sigp0054.ord 
+-r-xr-xr-x   1    0    0        784 Apr 11 2005 [ 507344 00] sigp0054.orl 
+-r-xr-xr-x   1    0    0        247 Apr 11 2005 [ 507360 00] sigp0054.txt 
+-r-xr-xr-x   1    0    0      13520 Apr 11 2005 [ 507376 00] sigp0055.ord 
+-r-xr-xr-x   1    0    0        816 Apr 11 2005 [ 507392 00] sigp0055.orl 
+-r-xr-xr-x   1    0    0        247 Apr 11 2005 [ 507408 00] sigp0055.txt 
+-r-xr-xr-x   1    0    0      10064 Apr 11 2005 [ 507424 00] sigp0056.ord 
+-r-xr-xr-x   1    0    0        800 Apr 11 2005 [ 507440 00] sigp0056.orl 
+-r-xr-xr-x   1    0    0        233 Apr 11 2005 [ 507456 00] sigp0056.txt 
+-r-xr-xr-x   1    0    0       9312 Apr 11 2005 [ 507472 00] s_bint01.ord 
+-r-xr-xr-x   1    0    0        656 Apr 11 2005 [ 507488 00] s_bint01.orl 
+-r-xr-xr-x   1    0    0        181 Apr 11 2005 [ 507504 00] s_bint01.txt 
+-r-xr-xr-x   1    0    0      10160 Apr 11 2005 [ 507520 00] s_bint02.ord 
+-r-xr-xr-x   1    0    0        656 Apr 11 2005 [ 507536 00] s_bint02.orl 
+-r-xr-xr-x   1    0    0        181 Apr 11 2005 [ 507552 00] s_bint02.txt 
+-r-xr-xr-x   1    0    0       8656 Apr 11 2005 [ 507568 00] s_bint03.ord 
+-r-xr-xr-x   1    0    0        656 Apr 11 2005 [ 507584 00] s_bint03.orl 
+-r-xr-xr-x   1    0    0        181 Apr 11 2005 [ 507600 00] s_bint03.txt 
+-r-xr-xr-x   1    0    0       9456 Apr 11 2005 [ 507616 00] s_bint04.ord 
+-r-xr-xr-x   1    0    0        656 Apr 11 2005 [ 507632 00] s_bint04.orl 
+-r-xr-xr-x   1    0    0        179 Apr 11 2005 [ 507648 00] s_bint04.txt 
+-r-xr-xr-x   1    0    0       9728 Apr 11 2005 [ 507664 00] s_bint05.ord 
+-r-xr-xr-x   1    0    0        656 Apr 11 2005 [ 507680 00] s_bint05.orl 
+-r-xr-xr-x   1    0    0        178 Apr 11 2005 [ 507696 00] s_bint05.txt 
+-r-xr-xr-x   1    0    0      13728 Apr 11 2005 [ 507712 00] s_bint06.ord 
+-r-xr-xr-x   1    0    0        656 Apr 11 2005 [ 507728 00] s_bint06.orl 
+-r-xr-xr-x   1    0    0        183 Apr 11 2005 [ 507744 00] s_bint06.txt 
+-r-xr-xr-x   1    0    0       8672 Apr 11 2005 [ 507760 00] s_bint07.ord 
+-r-xr-xr-x   1    0    0        656 Apr 11 2005 [ 507776 00] s_bint07.orl 
+-r-xr-xr-x   1    0    0        185 Apr 11 2005 [ 507792 00] s_bint07.txt 
+-r-xr-xr-x   1    0    0      17600 Apr 11 2005 [ 507808 00] s_bint08.ord 
+-r-xr-xr-x   1    0    0        656 Apr 11 2005 [ 507824 00] s_bint08.orl 
+-r-xr-xr-x   1    0    0        185 Apr 11 2005 [ 507840 00] s_bint08.txt 
+
+Directory listing of /PSP_GAME/USRDIR/data/frontend/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     55 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     27 02] .. 
+-r-xr-xr-x   1    0    0     217097 Apr 11 2005 [ 335168 00] logos.big 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     70 02] movies 
+-r-xr-xr-x   1    0    0     822648 Apr 11 2005 [ 336304 00] fields.big 
+-r-xr-xr-x   1    0    0   28691212 Apr 11 2005 [ 336720 00] portrait.big 
+-r-xr-xr-x   1    0    0   12891152 Apr 11 2005 [ 350736 00] uberbig.big 
+-r-xr-xr-x   1    0    0      44803 Apr 11 2005 [ 412688 00] load1.big 
+-r-xr-xr-x   1    0    0      43386 Apr 11 2005 [ 412720 00] load2.big 
+-r-xr-xr-x   1    0    0      41922 Apr 11 2005 [ 412752 00] load3.big 
+-r-xr-xr-x   1    0    0      42765 Apr 11 2005 [ 412784 00] load4.big 
+-r-xr-xr-x   1    0    0      41393 Apr 11 2005 [ 412816 00] load5.big 
+-r-xr-xr-x   1    0    0      39216 Apr 11 2005 [ 412848 00] load6.big 
+-r-xr-xr-x   1    0    0      40958 Apr 11 2005 [ 412880 00] load7.big 
+-r-xr-xr-x   1    0    0        894 Apr 11 2005 [ 412912 00] misc.big 
+-r-xr-xr-x   1    0    0      51648 Apr 11 2005 [ 412928 00] splash.big 
+-r-xr-xr-x   1    0    0         16 Apr 11 2005 [ 412960 00] stadiums.big 
+-r-xr-xr-x   1    0    0       2668 Apr 11 2005 [ 412976 00] title.big 
+-r-xr-xr-x   1    0    0     217097 Apr 11 2005 [ 442272 00] logos_be.big 
+-r-xr-xr-x   1    0    0      71330 Apr 11 2005 [ 447664 00] igonly.big 
+-r-xr-xr-x   1    0    0       1066 Apr 11 2005 [ 447712 00] shared.big 
+-r-xr-xr-x   1    0    0      38207 Apr 11 2005 [ 447728 00] hrsonly.big 
+-r-xr-xr-x   1    0    0      48209 Apr 11 2005 [ 447920 00] ingame.big 
+-r-xr-xr-x   1    0    0      49889 Apr 11 2005 [ 478432 00] minigame.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/apt/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     56 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     27 02] .. 
+-r-xr-xr-x   1    0    0    1467904 Apr 11 2005 [ 335280 00] mainfeapt.big 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     71 02] bootflow 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     72 02] artwork 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     73 02] background 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     74 02] cafelib 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     75 02] ea_trax 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     76 02] fonts 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     77 02] h2h 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     78 02] hud 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     79 02] menu 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     80 02] minigame 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     81 02] mvpextra 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     82 02] myprofile 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     83 02] netlobby 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     84 02] options 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     85 02] partyplay 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     86 02] seasonmodes1 
+dr-xr-xr-x   1    0    0       4096 Apr 11 2005 [     87 02] psplib 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     89 02] pausemenu 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     90 02] quickplay 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     91 02] rostermanagement 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     92 02] seasonmode3 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     93 02] seasonmodes2 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     94 02] sound 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     95 02] testscreen 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     96 02] trc 
+-r-xr-xr-x   1    0    0          2 Apr 11 2005 [ 365344 00] warninglogfile.txt 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     97 02] beoverlay 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     98 02] h2hbe 
+-r-xr-xr-x   1    0    0     777832 Apr 11 2005 [ 448192 00] mainbeapt.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/stadium/
+dr-xr-xr-x   1    0    0       6144 Apr 11 2005 [     57 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     27 02] .. 
+-r-xr-xr-x   1    0    0     750056 Apr 11 2005 [ 415824 00] anahday.big 
+-r-xr-xr-x   1    0    0     699112 Apr 11 2005 [ 416192 00] anahnite.big 
+-r-xr-xr-x   1    0    0     682440 Apr 11 2005 [ 416544 00] arliday.big 
+-r-xr-xr-x   1    0    0     641600 Apr 11 2005 [ 416880 00] arlinite.big 
+-r-xr-xr-x   1    0    0     591472 Apr 11 2005 [ 417200 00] astrdome.big 
+-r-xr-xr-x   1    0    0     768264 Apr 11 2005 [ 417504 00] bankday.big 
+-r-xr-xr-x   1    0    0     728040 Apr 11 2005 [ 417888 00] banknite.big 
+-r-xr-xr-x   1    0    0     689904 Apr 11 2005 [ 418256 00] bushday.big 
+-r-xr-xr-x   1    0    0     670664 Apr 11 2005 [ 418608 00] bushnite.big 
+-r-xr-xr-x   1    0    0     793240 Apr 11 2005 [ 418944 00] cineday.big 
+-r-xr-xr-x   1    0    0     684208 Apr 11 2005 [ 419344 00] citiday.big 
+-r-xr-xr-x   1    0    0     675152 Apr 11 2005 [ 419680 00] citinite.big 
+-r-xr-xr-x   1    0    0     758300 Apr 11 2005 [ 420016 00] clevnite.big 
+-r-xr-xr-x   1    0    0     720796 Apr 11 2005 [ 420400 00] comeday.big 
+-r-xr-xr-x   1    0    0     679124 Apr 11 2005 [ 420752 00] comenite.big 
+-r-xr-xr-x   1    0    0     744384 Apr 11 2005 [ 421088 00] coorday.big 
+-r-xr-xr-x   1    0    0     692416 Apr 11 2005 [ 421456 00] coornite.big 
+-r-xr-xr-x   1    0    0     622740 Apr 11 2005 [ 421808 00] crosday.big 
+-r-xr-xr-x   1    0    0     727396 Apr 11 2005 [ 422128 00] dodgday.big 
+-r-xr-xr-x   1    0    0     641396 Apr 11 2005 [ 422496 00] dodgnite.big 
+-r-xr-xr-x   1    0    0     608948 Apr 11 2005 [ 422816 00] fencday.big 
+-r-xr-xr-x   1    0    0     732976 Apr 11 2005 [ 423120 00] fenwday.big 
+-r-xr-xr-x   1    0    0     688308 Apr 11 2005 [ 423488 00] fenwnite.big 
+-r-xr-xr-x   1    0    0     650768 Apr 11 2005 [ 423840 00] forbday.big 
+-r-xr-xr-x   1    0    0     735848 Apr 11 2005 [ 424160 00] gabaday.big 
+-r-xr-xr-x   1    0    0     667312 Apr 11 2005 [ 424528 00] gabanite.big 
+-r-xr-xr-x   1    0    0     610456 Apr 11 2005 [ 424864 00] grifday.big 
+-r-xr-xr-x   1    0    0     577244 Apr 11 2005 [ 425168 00] hiranite.big 
+-r-xr-xr-x   1    0    0     704488 Apr 11 2005 [ 425456 00] jacoday.big 
+-r-xr-xr-x   1    0    0     683552 Apr 11 2005 [ 425808 00] jaconite.big 
+-r-xr-xr-x   1    0    0     732164 Apr 11 2005 [ 426144 00] kaufday.big 
+-r-xr-xr-x   1    0    0     656952 Apr 11 2005 [ 426512 00] kaufnite.big 
+-r-xr-xr-x   1    0    0     637404 Apr 11 2005 [ 426848 00] metpnite.big 
+-r-xr-xr-x   1    0    0     597324 Apr 11 2005 [ 427168 00] metrdome.big 
+-r-xr-xr-x   1    0    0     704216 Apr 11 2005 [ 427472 00] millday.big 
+-r-xr-xr-x   1    0    0     683768 Apr 11 2005 [ 427824 00] millnite.big 
+-r-xr-xr-x   1    0    0     719728 Apr 11 2005 [ 428160 00] minuday.big 
+-r-xr-xr-x   1    0    0     674400 Apr 11 2005 [ 428512 00] minunite.big 
+-r-xr-xr-x   1    0    0     732372 Apr 11 2005 [ 428848 00] netwday.big 
+-r-xr-xr-x   1    0    0     723048 Apr 11 2005 [ 429216 00] netwnite.big 
+-r-xr-xr-x   1    0    0     649584 Apr 11 2005 [ 429584 00] olymdome.big 
+-r-xr-xr-x   1    0    0     718676 Apr 11 2005 [ 429904 00] orioday.big 
+-r-xr-xr-x   1    0    0     642840 Apr 11 2005 [ 430256 00] orionite.big 
+-r-xr-xr-x   1    0    0     729368 Apr 11 2005 [ 430576 00] petoday.big 
+-r-xr-xr-x   1    0    0     688436 Apr 11 2005 [ 430944 00] petonite.big 
+-r-xr-xr-x   1    0    0     701404 Apr 11 2005 [ 431296 00] pholday.big 
+-r-xr-xr-x   1    0    0     785300 Apr 11 2005 [ 431648 00] pncpday.big 
+-r-xr-xr-x   1    0    0     727524 Apr 11 2005 [ 432032 00] pncpnite.big 
+-r-xr-xr-x   1    0    0     737676 Apr 11 2005 [ 432400 00] poloday.big 
+-r-xr-xr-x   1    0    0     693596 Apr 11 2005 [ 432768 00] propday.big 
+-r-xr-xr-x   1    0    0     675300 Apr 11 2005 [ 433120 00] propnite.big 
+-r-xr-xr-x   1    0    0     661524 Apr 11 2005 [ 433456 00] qualnite.big 
+-r-xr-xr-x   1    0    0     742036 Apr 11 2005 [ 433792 00] rfksday.big 
+-r-xr-xr-x   1    0    0     719288 Apr 11 2005 [ 434160 00] rfksnite.big 
+-r-xr-xr-x   1    0    0     756456 Apr 11 2005 [ 434512 00] safeday.big 
+-r-xr-xr-x   1    0    0     716664 Apr 11 2005 [ 434896 00] safenite.big 
+-r-xr-xr-x   1    0    0     732632 Apr 11 2005 [ 435248 00] sbcpday.big 
+-r-xr-xr-x   1    0    0     639336 Apr 11 2005 [ 435616 00] sbcpnite.big 
+-r-xr-xr-x   1    0    0     787776 Apr 11 2005 [ 435936 00] sheaday.big 
+-r-xr-xr-x   1    0    0     742588 Apr 11 2005 [ 436336 00] sheanite.big 
+-r-xr-xr-x   1    0    0     581624 Apr 11 2005 [ 436704 00] shibday.big 
+-r-xr-xr-x   1    0    0     734360 Apr 11 2005 [ 436992 00] skydday.big 
+-r-xr-xr-x   1    0    0     687308 Apr 11 2005 [ 437360 00] skydnite.big 
+-r-xr-xr-x   1    0    0     592552 Apr 11 2005 [ 437696 00] spotday.big 
+-r-xr-xr-x   1    0    0     638920 Apr 11 2005 [ 438000 00] tigrnite.big 
+-r-xr-xr-x   1    0    0     655024 Apr 11 2005 [ 438320 00] tropdome.big 
+-r-xr-xr-x   1    0    0     729348 Apr 11 2005 [ 438640 00] turnday.big 
+-r-xr-xr-x   1    0    0     676828 Apr 11 2005 [ 439008 00] turnnite.big 
+-r-xr-xr-x   1    0    0     707824 Apr 11 2005 [ 439344 00] usceday.big 
+-r-xr-xr-x   1    0    0     654372 Apr 11 2005 [ 439696 00] uscenite.big 
+-r-xr-xr-x   1    0    0     768088 Apr 11 2005 [ 440016 00] veteday.big 
+-r-xr-xr-x   1    0    0     718944 Apr 11 2005 [ 440400 00] wrigday.big 
+-r-xr-xr-x   1    0    0     744744 Apr 11 2005 [ 440752 00] wrignite.big 
+-r-xr-xr-x   1    0    0     733912 Apr 11 2005 [ 441120 00] yankday.big 
+-r-xr-xr-x   1    0    0     730828 Apr 11 2005 [ 441488 00] yanknite.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/misc/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     60 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     27 02] .. 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     99 02] textures 
+-r-xr-xr-x   1    0    0      12944 Apr 11 2005 [ 442064 00] aple.o 
+-r-xr-xr-x   1    0    0      20496 Apr 11 2005 [ 442080 00] bern.o 
+-r-xr-xr-x   1    0    0       8496 Apr 11 2005 [ 442096 00] bli1.o 
+-r-xr-xr-x   1    0    0      17040 Apr 11 2005 [ 442112 00] bli2.o 
+-r-xr-xr-x   1    0    0      13552 Apr 11 2005 [ 442128 00] lawn.o 
+-r-xr-xr-x   1    0    0       8656 Apr 11 2005 [ 442144 00] moon.o 
+-r-xr-xr-x   1    0    0       3184 Apr 11 2005 [ 442160 00] obj1.o 
+-r-xr-xr-x   1    0    0      23920 Apr 11 2005 [ 442176 00] obj2.o 
+-r-xr-xr-x   1    0    0      12928 Apr 11 2005 [ 442192 00] obj3.o 
+-r-xr-xr-x   1    0    0      12928 Apr 11 2005 [ 442208 00] obj4.o 
+-r-xr-xr-x   1    0    0       7360 Apr 11 2005 [ 442224 00] pla1.o 
+-r-xr-xr-x   1    0    0      12624 Apr 11 2005 [ 442240 00] pla2.o 
+-r-xr-xr-x   1    0    0      14944 Apr 11 2005 [ 442256 00] tran.o 
+
+Directory listing of /PSP_GAME/USRDIR/data/locale/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     61 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     27 02] .. 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [    100 02] trc 
+
+Directory listing of /PSP_GAME/USRDIR/data/igshapes/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     62 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     27 02] .. 
+-r-xr-xr-x   1    0    0     100112 Apr 11 2005 [ 447760 00] igcrsr.msh 
+-r-xr-xr-x   1    0    0      44224 Apr 11 2005 [ 447824 00] igcrsr1.msh 
+-r-xr-xr-x   1    0    0      52416 Apr 11 2005 [ 447856 00] igcrsr2.msh 
+-r-xr-xr-x   1    0    0      52560 Apr 11 2005 [ 447888 00] igcrsr3.msh 
+
+Directory listing of /PSP_GAME/USRDIR/data/fonts/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     63 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     27 02] .. 
+-r-xr-xr-x   1    0    0      90828 Apr 11 2005 [ 478384 00] fonts.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/eatrax2/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     64 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     27 02] .. 
+-r-xr-xr-x   1    0    0    1709392 Apr 11 2005 [ 686752 00] 1andtrailofdead_letitdive.aud 
+-r-xr-xr-x   1    0    0    1198784 Apr 11 2005 [ 687600 00] 2rnrsoldiers_funnyfeeling.aud 
+-r-xr-xr-x   1    0    0    1492064 Apr 11 2005 [ 688192 00] 3hotheat_youowemeiou.aud 
+-r-xr-xr-x   1    0    0    1963944 Apr 11 2005 [ 688928 00] 4dropkickmurphys_tessie.aud 
+-r-xr-xr-x   1    0    0    1977480 Apr 11 2005 [ 689888 00] 5louisxiv_findoutloveblind.aud 
+-r-xr-xr-x   1    0    0    1771808 Apr 11 2005 [ 690864 00] 6thebravery_honestmistake.aud 
+-r-xr-xr-x   1    0    0    1814296 Apr 11 2005 [ 691744 00] 7thedonots_wegotthenoise.aud 
+-r-xr-xr-x   1    0    0    1578544 Apr 11 2005 [ 692640 00] 8thehighspeedscene_irocz.aud 
+-r-xr-xr-x   1    0    0    1570648 Apr 11 2005 [ 693424 00] 9thezutons_pressurepoint.aud 
+
+Directory listing of /PSP_GAME/USRDIR/data/eavis/dat/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     65 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     30 02] .. 
+-r-xr-xr-x   1    0    0     202597 Apr 11 2005 [ 330528 00] 1andtrailofdead_letitdive.dat 
+-r-xr-xr-x   1    0    0     142085 Apr 11 2005 [ 330640 00] 2rnrsoldiers_funnyfeeling.dat 
+-r-xr-xr-x   1    0    0     176837 Apr 11 2005 [ 330720 00] 3hotheat_youowemeiou.dat 
+-r-xr-xr-x   1    0    0     232805 Apr 11 2005 [ 330816 00] 4dropkickmurphys_tessie.dat 
+-r-xr-xr-x   1    0    0     234405 Apr 11 2005 [ 330944 00] 5louisxiv_findoutloveblind.dat 
+-r-xr-xr-x   1    0    0     210021 Apr 11 2005 [ 331072 00] 6thebravery_honestmistake.dat 
+-r-xr-xr-x   1    0    0     215077 Apr 11 2005 [ 331184 00] 7thedonots_wegotthenoise.dat 
+-r-xr-xr-x   1    0    0     187109 Apr 11 2005 [ 331296 00] 8thehighspeedscene_irocz.dat 
+-r-xr-xr-x   1    0    0     186181 Apr 11 2005 [ 331392 00] 9thezutons_pressurepoint.dat 
+
+Directory listing of /PSP_GAME/USRDIR/data/eavis/textures/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     66 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     30 02] .. 
+-r-xr-xr-x   1    0    0      86080 Apr 11 2005 [ 331488 00] bkg0.msh 
+-r-xr-xr-x   1    0    0      86080 Apr 11 2005 [ 331536 00] bkg1.msh 
+-r-xr-xr-x   1    0    0       5440 Apr 11 2005 [ 331584 00] circle.msh 
+-r-xr-xr-x   1    0    0       5440 Apr 11 2005 [ 331600 00] circle2.msh 
+-r-xr-xr-x   1    0    0       5440 Apr 11 2005 [ 331616 00] confetti1.msh 
+-r-xr-xr-x   1    0    0       5440 Apr 11 2005 [ 331632 00] confetti2.msh 
+-r-xr-xr-x   1    0    0       5440 Apr 11 2005 [ 331648 00] confetti3.msh 
+-r-xr-xr-x   1    0    0       5440 Apr 11 2005 [ 331664 00] confetti4.msh 
+-r-xr-xr-x   1    0    0      86080 Apr 11 2005 [ 331680 00] crowd_bkg.msh 
+-r-xr-xr-x   1    0    0     130624 Apr 11 2005 [ 331728 00] deck.msh 
+-r-xr-xr-x   1    0    0      86080 Apr 11 2005 [ 331792 00] drk_grn.msh 
+-r-xr-xr-x   1    0    0     119120 Apr 11 2005 [ 331840 00] equalizer_bg.msh 
+-r-xr-xr-x   1    0    0      86096 Apr 11 2005 [ 331904 00] fireworks_bkg.msh 
+-r-xr-xr-x   1    0    0     130624 Apr 11 2005 [ 331952 00] frame_full.msh 
+-r-xr-xr-x   1    0    0       5440 Apr 11 2005 [ 332016 00] fuzz.msh 
+-r-xr-xr-x   1    0    0      86080 Apr 11 2005 [ 332032 00] geometric.msh 
+-r-xr-xr-x   1    0    0     130624 Apr 11 2005 [ 332080 00] logozoom.msh 
+-r-xr-xr-x   1    0    0      21568 Apr 11 2005 [ 332144 00] metal.msh 
+-r-xr-xr-x   1    0    0      86080 Apr 11 2005 [ 332160 00] space_bkg.msh 
+-r-xr-xr-x   1    0    0      86080 Apr 11 2005 [ 332208 00] space_bkg2.msh 
+-r-xr-xr-x   1    0    0       5440 Apr 11 2005 [ 332256 00] sphere.msh 
+-r-xr-xr-x   1    0    0       5440 Apr 11 2005 [ 332272 00] square.msh 
+-r-xr-xr-x   1    0    0      21568 Apr 11 2005 [ 332288 00] star.msh 
+-r-xr-xr-x   1    0    0       5440 Apr 11 2005 [ 332304 00] triangle.msh 
+-r-xr-xr-x   1    0    0      86080 Apr 11 2005 [ 332320 00] water_bkg.msh 
+
+Directory listing of /PSP_GAME/USRDIR/data/audio/aems/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     67 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     32 02] .. 
+-r-xr-xr-x   1    0    0      15804 Apr 11 2005 [ 332544 00] tpevents.csi 
+-r-xr-xr-x   1    0    0        176 Apr 11 2005 [ 332560 00] mvp_fe.csi 
+-r-xr-xr-x   1    0    0      43704 Apr 11 2005 [ 413232 00] a1c_patches.abk 
+-r-xr-xr-x   1    0    0     711348 Apr 11 2005 [ 413264 00] crowd1a.abk 
+-r-xr-xr-x   1    0    0     248908 Apr 11 2005 [ 413616 00] crowd1b.abk 
+-r-xr-xr-x   1    0    0     785108 Apr 11 2005 [ 413744 00] crowd2a.abk 
+-r-xr-xr-x   1    0    0     354520 Apr 11 2005 [ 414128 00] crowd2b.abk 
+-r-xr-xr-x   1    0    0     774972 Apr 11 2005 [ 414304 00] crowd3a.abk 
+-r-xr-xr-x   1    0    0     379864 Apr 11 2005 [ 414688 00] crowd3b.abk 
+-r-xr-xr-x   1    0    0     840892 Apr 11 2005 [ 414880 00] crowd4a.abk 
+-r-xr-xr-x   1    0    0     379864 Apr 11 2005 [ 415296 00] crowd4b.abk 
+-r-xr-xr-x   1    0    0      48228 Apr 11 2005 [ 415488 00] hrd.abk 
+-r-xr-xr-x   1    0    0      41700 Apr 11 2005 [ 415520 00] psd.abk 
+-r-xr-xr-x   1    0    0      61884 Apr 11 2005 [ 415552 00] sfxa.abk 
+-r-xr-xr-x   1    0    0      36180 Apr 11 2005 [ 415584 00] sfxb.abk 
+-r-xr-xr-x   1    0    0     122568 Apr 11 2005 [ 415616 00] umpa.abk 
+-r-xr-xr-x   1    0    0     103468 Apr 11 2005 [ 415680 00] umpb.abk 
+-r-xr-xr-x   1    0    0      91848 Apr 11 2005 [ 415744 00] umpc.abk 
+-r-xr-xr-x   1    0    0      39908 Apr 11 2005 [ 415792 00] winlose.abk 
+
+Directory listing of /PSP_GAME/USRDIR/data/audio/crowddb/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     68 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     32 02] .. 
+-r-xr-xr-x   1    0    0      89947 Apr 11 2005 [ 332576 00] audiocsv.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/audio/spch_pbp/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     69 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     32 02] .. 
+-r-xr-xr-x   1    0    0     124348 Apr 11 2005 [ 332624 00] events.evt 
+-r-xr-xr-x   1    0    0      57176 Apr 11 2005 [ 332688 00] pbpdat.off 
+-r-xr-xr-x   1    0    0      36024 Apr 11 2005 [ 332720 00] pbphdr.off 
+-r-xr-xr-x   1    0    0  366122240 Apr 11 2005 [ 507856 00] pbpdat.big 
+-r-xr-xr-x   1    0    0     203376 Apr 11 2005 [ 686640 00] pbphdr.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/frontend/movies/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     70 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     55 02] .. 
+-r-xr-xr-x   1    0    0     407552 Feb 22 2005 [ 336000 00] easports.pmf 
+-r-xr-xr-x   1    0    0    6699008 Feb  4 2005 [ 403184 00] fifa.pmf 
+-r-xr-xr-x   1    0    0    6275072 Feb 22 2005 [ 406464 00] rivals.pmf 
+-r-xr-xr-x   1    0    0    6453248 Feb 16 2005 [ 409536 00] nba.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/data/apt/bootflow/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     71 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     56 02] .. 
+-r-xr-xr-x   1    0    0      63808 Apr 11 2005 [ 336208 00] bflegal.big 
+-r-xr-xr-x   1    0    0        416 Apr 11 2005 [ 336240 00] copyrighttext.big 
+-r-xr-xr-x   1    0    0      81184 Apr 11 2005 [ 336256 00] bftitle.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/apt/artwork/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     72 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     56 02] .. 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [    101 02] extra 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [    102 02] mainmenu 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [    103 02] partyplay 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [    104 02] playerimage 
+dr-xr-xr-x   1    0    0       4096 Apr 11 2005 [    105 02] quickplay 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [    107 02] sm2 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [    108 02] teamlogo 
+
+Directory listing of /PSP_GAME/USRDIR/data/apt/background/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     73 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     56 02] .. 
+-r-xr-xr-x   1    0    0      62464 Apr 11 2005 [ 358848 00] background_0.big 
+-r-xr-xr-x   1    0    0      62464 Apr 11 2005 [ 358880 00] background_1.big 
+-r-xr-xr-x   1    0    0      62464 Apr 11 2005 [ 358912 00] background_10.big 
+-r-xr-xr-x   1    0    0      62464 Apr 11 2005 [ 358944 00] background_11.big 
+-r-xr-xr-x   1    0    0      62464 Apr 11 2005 [ 358976 00] background_12.big 
+-r-xr-xr-x   1    0    0      62464 Apr 11 2005 [ 359008 00] background_13.big 
+-r-xr-xr-x   1    0    0      62464 Apr 11 2005 [ 359040 00] background_14.big 
+-r-xr-xr-x   1    0    0      62464 Apr 11 2005 [ 359072 00] background_15.big 
+-r-xr-xr-x   1    0    0      62464 Apr 11 2005 [ 359104 00] background_2.big 
+-r-xr-xr-x   1    0    0      62464 Apr 11 2005 [ 359136 00] background_3.big 
+-r-xr-xr-x   1    0    0      62464 Apr 11 2005 [ 359168 00] background_4.big 
+-r-xr-xr-x   1    0    0      68224 Apr 11 2005 [ 359200 00] background_5.big 
+-r-xr-xr-x   1    0    0      62464 Apr 11 2005 [ 359248 00] background_6.big 
+-r-xr-xr-x   1    0    0      62464 Apr 11 2005 [ 359280 00] background_7.big 
+-r-xr-xr-x   1    0    0      62464 Apr 11 2005 [ 359312 00] background_8.big 
+-r-xr-xr-x   1    0    0      62464 Apr 11 2005 [ 359344 00] background_9.big 
+-r-xr-xr-x   1    0    0     127088 Apr 11 2005 [ 359376 00] bg0.big 
+-r-xr-xr-x   1    0    0      68144 Apr 11 2005 [ 359440 00] ppmainplaceholder.big 
+-r-xr-xr-x   1    0    0      68176 Apr 11 2005 [ 359488 00] qpselectpitcherplaceholder.big 
+-r-xr-xr-x   1    0    0      62368 Apr 11 2005 [ 359536 00] seasonmodebg.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/apt/cafelib/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     74 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     56 02] .. 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [    109 02] icons 
+-r-xr-xr-x   1    0    0      66128 Apr 11 2005 [ 359776 00] extcntrl.big 
+-r-xr-xr-x   1    0    0      13237 Apr 11 2005 [ 359824 00] stdtckr.big 
+-r-xr-xr-x   1    0    0      19808 Apr 11 2005 [ 359840 00] stdtrax.big 
+-r-xr-xr-x   1    0    0     125136 Apr 11 2005 [ 359856 00] stdvirkb.big 
+-r-xr-xr-x   1    0    0      44400 Apr 11 2005 [ 359920 00] txtspsht.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/apt/ea_trax/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     75 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     56 02] .. 
+-r-xr-xr-x   1    0    0      38848 Apr 11 2005 [ 359952 00] eatraxplaylist.big 
+-r-xr-xr-x   1    0    0      41408 Apr 11 2005 [ 359984 00] eatraxpocketdj.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/apt/fonts/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     76 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     56 02] .. 
+-r-xr-xr-x   1    0    0      21472 Feb 16 2005 [ 360016 00] auxgraph.mfn 
+
+Directory listing of /PSP_GAME/USRDIR/data/apt/h2h/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     77 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     56 02] .. 
+-r-xr-xr-x   1    0    0      39424 Apr 11 2005 [ 360032 00] apt_hhgameplayoptions.big 
+-r-xr-xr-x   1    0    0      36448 Apr 11 2005 [ 360064 00] apt_hhoptions.big 
+-r-xr-xr-x   1    0    0      69040 Apr 11 2005 [ 360096 00] apt_hhselectlineup.big 
+-r-xr-xr-x   1    0    0     112480 Apr 11 2005 [ 360144 00] apt_hhselectteams.big 
+-r-xr-xr-x   1    0    0       7200 Apr 11 2005 [ 360208 00] h2hnetevent.big 
+-r-xr-xr-x   1    0    0      72816 Apr 11 2005 [ 360224 00] hh_selectgame.big 
+-r-xr-xr-x   1    0    0     111664 Apr 11 2005 [ 360272 00] hh_selectopponent.big 
+-r-xr-xr-x   1    0    0       1964 Apr 11 2005 [ 360336 00] keyboardscreen.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/apt/hud/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     78 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     56 02] .. 
+-r-xr-xr-x   1    0    0      40928 Apr 11 2005 [ 360352 00] hrshowdownpartyplayhud.big 
+-r-xr-xr-x   1    0    0      82240 Apr 11 2005 [ 360384 00] pitchershootouthud.big 
+-r-xr-xr-x   1    0    0      42496 Apr 11 2005 [ 360432 00] pitchershootoutpartyplayhud.big 
+-r-xr-xr-x   1    0    0      59920 Apr 11 2005 [ 448160 00] hrshowdownhud.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/apt/menu/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     79 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     56 02] .. 
+-r-xr-xr-x   1    0    0      18160 Apr 11 2005 [ 360464 00] mainmenu.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/apt/minigame/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     80 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     56 02] .. 
+-r-xr-xr-x   1    0    0      37456 Apr 11 2005 [ 360480 00] apt_genericoptions.big 
+-r-xr-xr-x   1    0    0      66336 Apr 11 2005 [ 360512 00] apt_mgselectbattingline.big 
+-r-xr-xr-x   1    0    0      80992 Apr 11 2005 [ 360560 00] apt_mgselectteam.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/apt/mvpextra/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     81 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     56 02] .. 
+-r-xr-xr-x   1    0    0      16320 Apr 11 2005 [ 360608 00] xtcredits.big 
+-r-xr-xr-x   1    0    0      23440 Apr 11 2005 [ 360624 00] xtinfoscreen.big 
+-r-xr-xr-x   1    0    0      18064 Apr 11 2005 [ 360640 00] xtmenu.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/apt/myprofile/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     82 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     56 02] .. 
+-r-xr-xr-x   1    0    0       7808 Apr 11 2005 [ 360656 00] areyoudonecreatingoverlay.big 
+-r-xr-xr-x   1    0    0       7792 Apr 11 2005 [ 360672 00] areyoudoneeditoverlay.big 
+-r-xr-xr-x   1    0    0       7968 Apr 11 2005 [ 360688 00] areyousureexitoverlay.big 
+-r-xr-xr-x   1    0    0       7760 Apr 11 2005 [ 360704 00] deleteconfirmationoverlay.big 
+-r-xr-xr-x   1    0    0       6976 Apr 11 2005 [ 360720 00] genericpopupoverlay.big 
+-r-xr-xr-x   1    0    0       2842 Apr 11 2005 [ 360736 00] loadingeditplayeroverlay.big 
+-r-xr-xr-x   1    0    0      52992 Apr 11 2005 [ 360752 00] mpchecklist.big 
+-r-xr-xr-x   1    0    0      33440 Apr 11 2005 [ 360784 00] mpclassicstadiums.big 
+-r-xr-xr-x   1    0    0     173632 Apr 11 2005 [ 360816 00] mpcpcreateplayer.big 
+-r-xr-xr-x   1    0    0      66832 Apr 11 2005 [ 360912 00] mpdeleteplayer.big 
+-r-xr-xr-x   1    0    0      68400 Apr 11 2005 [ 360960 00] mpeditplayer.big 
+-r-xr-xr-x   1    0    0     239712 Apr 11 2005 [ 361008 00] mpepeditplayer.big 
+-r-xr-xr-x   1    0    0      33008 Apr 11 2005 [ 361136 00] mplegendaryplayers.big 
+-r-xr-xr-x   1    0    0      28960 Apr 11 2005 [ 361168 00] mplegendaryteams.big 
+-r-xr-xr-x   1    0    0      66688 Apr 11 2005 [ 361184 00] mplocateplayer.big 
+-r-xr-xr-x   1    0    0       6105 Apr 11 2005 [ 361232 00] mpmenu.big 
+-r-xr-xr-x   1    0    0      66320 Apr 11 2005 [ 361248 00] mpoptions.big 
+-r-xr-xr-x   1    0    0      32944 Apr 11 2005 [ 361296 00] mpretrojerseys.big 
+-r-xr-xr-x   1    0    0      87120 Apr 11 2005 [ 361328 00] mprewardsmenu.big 
+-r-xr-xr-x   1    0    0      42144 Apr 11 2005 [ 361376 00] mpselectfavteam.big 
+-r-xr-xr-x   1    0    0      74064 Apr 11 2005 [ 361408 00] mpspstats.big 
+-r-xr-xr-x   1    0    0      43936 Apr 11 2005 [ 361456 00] mptrophy.big 
+-r-xr-xr-x   1    0    0      26064 Apr 11 2005 [ 361488 00] mpuserprofilemenu.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/apt/netlobby/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     83 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     56 02] .. 
+-r-xr-xr-x   1    0    0       1888 Apr 11 2005 [ 361504 00] createplayerprofile.big 
+-r-xr-xr-x   1    0    0       7605 Apr 11 2005 [ 361520 00] fakegame.big 
+-r-xr-xr-x   1    0    0       2466 Apr 11 2005 [ 361536 00] mainmenu.big 
+-r-xr-xr-x   1    0    0      22304 Apr 11 2005 [ 361552 00] messageboxdemo.big 
+-r-xr-xr-x   1    0    0      20704 Apr 11 2005 [ 361568 00] minigameconfigure.big 
+-r-xr-xr-x   1    0    0       7973 Apr 11 2005 [ 361584 00] netlobby.big 
+-r-xr-xr-x   1    0    0      11493 Apr 11 2005 [ 361600 00] selectplayerprofile.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/apt/options/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     84 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     56 02] .. 
+-r-xr-xr-x   1    0    0       2694 Apr 11 2005 [ 361616 00] saveloadmain.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/apt/partyplay/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     85 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     56 02] .. 
+-r-xr-xr-x   1    0    0       8304 Apr 11 2005 [ 361632 00] apt_ppnumberofplayers.big 
+-r-xr-xr-x   1    0    0      64992 Apr 11 2005 [ 361648 00] apt_ppselectbattinglineup.big 
+-r-xr-xr-x   1    0    0      35952 Apr 11 2005 [ 361680 00] apt_ppselectgame.big 
+-r-xr-xr-x   1    0    0     133632 Apr 11 2005 [ 361712 00] apt_ppselectteams.big 
+-r-xr-xr-x   1    0    0      36832 Apr 11 2005 [ 361792 00] apt_ppshootoutoptions.big 
+-r-xr-xr-x   1    0    0      36736 Apr 11 2005 [ 361824 00] apt_ppshowdownoptions.big 
+-r-xr-xr-x   1    0    0     117648 Apr 11 2005 [ 361856 00] partyplayanimation.big 
+-r-xr-xr-x   1    0    0      77152 Apr 11 2005 [ 361920 00] pmgameoptionssubmenu.big 
+-r-xr-xr-x   1    0    0      70752 Apr 11 2005 [ 361968 00] pppmpausemenu.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/apt/seasonmodes1/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     86 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     56 02] .. 
+-r-xr-xr-x   1    0    0      37392 Apr 11 2005 [ 362016 00] smseasonmain.big 
+-r-xr-xr-x   1    0    0      27040 Apr 11 2005 [ 364496 00] apt_smgamemodes.big 
+-r-xr-xr-x   1    0    0      21408 Apr 11 2005 [ 364512 00] apt_smwelcome.big 
+-r-xr-xr-x   1    0    0      45312 Apr 11 2005 [ 364528 00] smgameplayoptions.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/apt/psplib/
+dr-xr-xr-x   1    0    0       4096 Apr 11 2005 [     87 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     56 02] .. 
+-r-xr-xr-x   1    0    0       9536 Apr 11 2005 [ 362048 00] scale.big 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [    110 02] popup 
+-r-xr-xr-x   1    0    0       2309 Apr 11 2005 [ 362176 00] backshadow.big 
+-r-xr-xr-x   1    0    0      92864 Apr 11 2005 [ 362192 00] mvpplayerinfo.big 
+-r-xr-xr-x   1    0    0      66976 Apr 11 2005 [ 362240 00] newpspstdart.big 
+-r-xr-xr-x   1    0    0       2213 Apr 11 2005 [ 362288 00] psp3drender.big 
+-r-xr-xr-x   1    0    0       6053 Apr 11 2005 [ 362304 00] psparrows.big 
+-r-xr-xr-x   1    0    0      35360 Apr 11 2005 [ 362320 00] pspboxscoreslistbox.big 
+-r-xr-xr-x   1    0    0      24832 Apr 11 2005 [ 362352 00] pspbutton.big 
+-r-xr-xr-x   1    0    0       4274 Apr 11 2005 [ 362368 00] pspchatfield.big 
+-r-xr-xr-x   1    0    0       8832 Apr 11 2005 [ 362384 00] pspcreditsroll.big 
+-r-xr-xr-x   1    0    0      76960 Apr 11 2005 [ 362400 00] pspgameovermenu.big 
+-r-xr-xr-x   1    0    0      10336 Apr 11 2005 [ 362448 00] psphotcoldzone.big 
+-r-xr-xr-x   1    0    0      12752 Apr 11 2005 [ 362464 00] pspiconselector.big 
+-r-xr-xr-x   1    0    0      12704 Apr 11 2005 [ 362480 00] pspmeterslider.big 
+-r-xr-xr-x   1    0    0      72672 Apr 11 2005 [ 362496 00] pspmultiiconlistbox.big 
+-r-xr-xr-x   1    0    0      34240 Apr 11 2005 [ 362544 00] pspmultioptionstoggle.big 
+-r-xr-xr-x   1    0    0      36208 Apr 11 2005 [ 362576 00] pspoptionstoggle.big 
+-r-xr-xr-x   1    0    0      46672 Apr 11 2005 [ 362608 00] pspoptionstogglebe.big 
+-r-xr-xr-x   1    0    0      31808 Apr 11 2005 [ 362640 00] pspoptionstoggle_sm.big 
+-r-xr-xr-x   1    0    0      32240 Apr 11 2005 [ 362656 00] psppanels.big 
+-r-xr-xr-x   1    0    0       5776 Apr 11 2005 [ 362672 00] pspplayername.big 
+-r-xr-xr-x   1    0    0       4954 Apr 11 2005 [ 362688 00] pspscrollabletextfield.big 
+-r-xr-xr-x   1    0    0      19584 Apr 11 2005 [ 362704 00] pspsideselector.big 
+-r-xr-xr-x   1    0    0      44736 Apr 11 2005 [ 362720 00] pspsmlvirkb.big 
+-r-xr-xr-x   1    0    0      51184 Apr 11 2005 [ 362752 00] pspsmlvirlocalizedkb.big 
+-r-xr-xr-x   1    0    0      14464 Apr 11 2005 [ 362784 00] pspspraychart.big 
+-r-xr-xr-x   1    0    0      15024 Apr 11 2005 [ 362800 00] pspstdbhvr.big 
+-r-xr-xr-x   1    0    0      34816 Apr 11 2005 [ 362816 00] pspstdlistbox.big 
+-r-xr-xr-x   1    0    0      18304 Apr 11 2005 [ 362848 00] pspstdscrollbar.big 
+-r-xr-xr-x   1    0    0      20784 Apr 11 2005 [ 362864 00] pspstdtoggle.big 
+-r-xr-xr-x   1    0    0      18608 Apr 11 2005 [ 362880 00] pspteamname.big 
+-r-xr-xr-x   1    0    0      17841 Apr 11 2005 [ 362896 00] pspteamselect.big 
+-r-xr-xr-x   1    0    0      31136 Apr 11 2005 [ 447952 00] pspbeoverlay.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/apt/pausemenu/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     89 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     56 02] .. 
+-r-xr-xr-x   1    0    0      56592 Apr 11 2005 [ 362912 00] apt_pmboxscore.big 
+-r-xr-xr-x   1    0    0      81712 Apr 11 2005 [ 362944 00] apt_pmchangedefense.big 
+-r-xr-xr-x   1    0    0      83760 Apr 11 2005 [ 362992 00] apt_pmdefensesub.big 
+-r-xr-xr-x   1    0    0      87488 Apr 11 2005 [ 363040 00] apt_pmdoubleswitch.big 
+-r-xr-xr-x   1    0    0      81616 Apr 11 2005 [ 363088 00] apt_pmgameoptionssubmenu.big 
+-r-xr-xr-x   1    0    0      69856 Apr 11 2005 [ 363136 00] apt_pmpausemenu.big 
+-r-xr-xr-x   1    0    0      78480 Apr 11 2005 [ 363184 00] apt_pmpitchersub.big 
+-r-xr-xr-x   1    0    0      37088 Apr 11 2005 [ 363232 00] apt_pmselectside.big 
+-r-xr-xr-x   1    0    0      81920 Apr 11 2005 [ 363264 00] apt_pmsubstitutionmenu.big 
+-r-xr-xr-x   1    0    0      79584 Apr 11 2005 [ 363312 00] apt_pmwarmuppitcher.big 
+-r-xr-xr-x   1    0    0       5488 Apr 11 2005 [ 363360 00] remoteuserblind.big 
+-r-xr-xr-x   1    0    0      28176 Apr 11 2005 [ 363376 00] pmminipausemenu.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/apt/quickplay/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     90 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     56 02] .. 
+-r-xr-xr-x   1    0    0      40848 Apr 11 2005 [ 363392 00] apt_qpgameoptions.big 
+-r-xr-xr-x   1    0    0      58464 Apr 11 2005 [ 363424 00] apt_qpgameover.big 
+-r-xr-xr-x   1    0    0      93488 Apr 11 2005 [ 363456 00] apt_qpplayerinfo.big 
+-r-xr-xr-x   1    0    0      86400 Apr 11 2005 [ 363504 00] apt_qpselectlineup.big 
+-r-xr-xr-x   1    0    0      52672 Apr 11 2005 [ 363552 00] apt_qpselectpitcher.big 
+-r-xr-xr-x   1    0    0      72656 Apr 11 2005 [ 363584 00] apt_qpselectstadium.big 
+-r-xr-xr-x   1    0    0      28704 Apr 11 2005 [ 363632 00] apt_qpselectteam.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/apt/rostermanagement/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     91 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     56 02] .. 
+-r-xr-xr-x   1    0    0       8128 Apr 11 2005 [ 363648 00] apt_rmcpuoptimizeoverlay.big 
+-r-xr-xr-x   1    0    0      59344 Apr 11 2005 [ 363664 00] apt_rmreviewtrade.big 
+-r-xr-xr-x   1    0    0      66992 Apr 11 2005 [ 363696 00] apt_rmtrade.big 
+-r-xr-xr-x   1    0    0       8272 Apr 11 2005 [ 363744 00] apt_rmtradeacceptedoverlay.big 
+-r-xr-xr-x   1    0    0      80192 Apr 11 2005 [ 363760 00] rmfielderconfig.big 
+-r-xr-xr-x   1    0    0      83936 Apr 11 2005 [ 363808 00] rmfreeagents.big 
+-r-xr-xr-x   1    0    0       4088 Apr 11 2005 [ 363856 00] rmmenu.big 
+-r-xr-xr-x   1    0    0      72176 Apr 11 2005 [ 363872 00] rmpitcherconfig.big 
+-r-xr-xr-x   1    0    0      76928 Apr 11 2005 [ 363920 00] rmstats.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/apt/seasonmode3/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     92 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     56 02] .. 
+-r-xr-xr-x   1    0    0      51120 Apr 11 2005 [ 363968 00] apt_smdllist.big 
+-r-xr-xr-x   1    0    0      46880 Apr 11 2005 [ 364000 00] apt_smfinalscore.big 
+-r-xr-xr-x   1    0    0      50912 Apr 11 2005 [ 364032 00] apt_smplayorsim.big 
+-r-xr-xr-x   1    0    0      57680 Apr 11 2005 [ 364064 00] apt_smresumesim.big 
+-r-xr-xr-x   1    0    0      21120 Apr 11 2005 [ 364096 00] smawards.big 
+-r-xr-xr-x   1    0    0      37920 Apr 11 2005 [ 364112 00] smchampions.big 
+-r-xr-xr-x   1    0    0      84512 Apr 11 2005 [ 364144 00] smdepthchart.big 
+-r-xr-xr-x   1    0    0      63248 Apr 11 2005 [ 364192 00] smdepthchart2.big 
+-r-xr-xr-x   1    0    0      70064 Apr 11 2005 [ 364224 00] smedittradingblock.big 
+-r-xr-xr-x   1    0    0      70640 Apr 11 2005 [ 364272 00] smleadleaders.big 
+-r-xr-xr-x   1    0    0       2505 Apr 11 2005 [ 364320 00] smoptionsmenu.big 
+-r-xr-xr-x   1    0    0     103712 Apr 11 2005 [ 364336 00] smplayofftree.big 
+-r-xr-xr-x   1    0    0      64272 Apr 11 2005 [ 364400 00] smrecap.big 
+-r-xr-xr-x   1    0    0      53360 Apr 11 2005 [ 364432 00] smsearchtradingblocks.big 
+-r-xr-xr-x   1    0    0      62624 Apr 11 2005 [ 364464 00] smsuspensions.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/apt/seasonmodes2/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     93 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     56 02] .. 
+-r-xr-xr-x   1    0    0       3320 Apr 11 2005 [ 364560 00] apt_smaroundleague.big 
+-r-xr-xr-x   1    0    0      31040 Apr 11 2005 [ 364576 00] apt_smlinescore.big 
+-r-xr-xr-x   1    0    0      17264 Apr 11 2005 [ 364592 00] apt_smplaysim.big 
+-r-xr-xr-x   1    0    0      85376 Apr 11 2005 [ 364608 00] apt_smschedscreen.big 
+-r-xr-xr-x   1    0    0      95376 Apr 11 2005 [ 364656 00] apt_smscoutreport.big 
+-r-xr-xr-x   1    0    0      57824 Apr 11 2005 [ 364704 00] apt_smstandings.big 
+-r-xr-xr-x   1    0    0       3301 Apr 11 2005 [ 364736 00] apt_smstatmenu.big 
+-r-xr-xr-x   1    0    0      19776 Apr 11 2005 [ 364752 00] sm_genericprogress.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/apt/sound/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     94 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     56 02] .. 
+-r-xr-xr-x   1    0    0      69328 Apr 11 2005 [ 364768 00] fe_audio.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/apt/testscreen/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     95 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     56 02] .. 
+-r-xr-xr-x   1    0    0      71792 Apr 11 2005 [ 364816 00] dummyscreen.big 
+-r-xr-xr-x   1    0    0       4437 Apr 11 2005 [ 364864 00] dummyscreenbe.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/apt/trc/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     96 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     56 02] .. 
+-r-xr-xr-x   1    0    0      52992 Apr 11 2005 [ 364880 00] loadmidgamepopup.big 
+-r-xr-xr-x   1    0    0       1438 Apr 11 2005 [ 364912 00] situationalsavespopup.big 
+-r-xr-xr-x   1    0    0      89216 Apr 11 2005 [ 364928 00] trcbootlanguage.big 
+-r-xr-xr-x   1    0    0     189360 Apr 11 2005 [ 364976 00] trcdeletesinglefile.big 
+-r-xr-xr-x   1    0    0      60240 Apr 11 2005 [ 365072 00] trcloadprofile.big 
+-r-xr-xr-x   1    0    0     134752 Apr 11 2005 [ 365104 00] trcloadsinglefile.big 
+-r-xr-xr-x   1    0    0     190080 Apr 11 2005 [ 365184 00] trcsavesinglefile.big 
+-r-xr-xr-x   1    0    0       4269 Apr 11 2005 [ 365280 00] trcutilitymenu.big 
+-r-xr-xr-x   1    0    0       2917 Apr 11 2005 [ 365296 00] trcutilitymenuprofiles.big 
+-r-xr-xr-x   1    0    0       2913 Apr 11 2005 [ 365312 00] trcutilitymenurosters.big 
+-r-xr-xr-x   1    0    0       2913 Apr 11 2005 [ 365328 00] trcutilitymenuseasons.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/apt/beoverlay/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     97 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     56 02] .. 
+-r-xr-xr-x   1    0    0      26928 Apr 11 2005 [ 447968 00] apt_bebattingorder.big 
+-r-xr-xr-x   1    0    0      18560 Apr 11 2005 [ 447984 00] apt_bedefensivelineup.big 
+-r-xr-xr-x   1    0    0      23872 Apr 11 2005 [ 448000 00] apt_bedueup.big 
+-r-xr-xr-x   1    0    0      23232 Apr 11 2005 [ 448016 00] apt_bereliefpitcher.big 
+-r-xr-xr-x   1    0    0      19184 Apr 11 2005 [ 448032 00] apt_betodaysgame.big 
+-r-xr-xr-x   1    0    0      37168 Apr 11 2005 [ 448048 00] apt_beviewbullpen.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/apt/h2hbe/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     98 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     56 02] .. 
+-r-xr-xr-x   1    0    0      73152 Apr 11 2005 [ 448080 00] apt_hhdummyscreen.big 
+-r-xr-xr-x   1    0    0      36512 Apr 11 2005 [ 448128 00] apt_hhgameover.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/misc/textures/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     99 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     60 02] .. 
+-r-xr-xr-x   1    0    0       8336 Apr 11 2005 [ 441856 00] aple.msh 
+-r-xr-xr-x   1    0    0        656 Apr 11 2005 [ 441872 00] ballshdw.msh 
+-r-xr-xr-x   1    0    0        256 Apr 11 2005 [ 441888 00] ballsprt.msh 
+-r-xr-xr-x   1    0    0       8336 Apr 11 2005 [ 441904 00] bern.msh 
+-r-xr-xr-x   1    0    0       8336 Apr 11 2005 [ 441920 00] bli1.msh 
+-r-xr-xr-x   1    0    0       2192 Apr 11 2005 [ 441936 00] bli2.msh 
+-r-xr-xr-x   1    0    0       2192 Apr 11 2005 [ 441952 00] lbar.msh 
+-r-xr-xr-x   1    0    0        400 Apr 11 2005 [ 441968 00] lfil.msh 
+-r-xr-xr-x   1    0    0       8336 Apr 11 2005 [ 441984 00] moon.msh 
+-r-xr-xr-x   1    0    0       2192 Apr 11 2005 [ 442000 00] pla1.msh 
+-r-xr-xr-x   1    0    0       8336 Apr 11 2005 [ 442016 00] pla2.msh 
+-r-xr-xr-x   1    0    0       4240 Apr 11 2005 [ 442032 00] tran.msh 
+-r-xr-xr-x   1    0    0        368 Apr 11 2005 [ 442048 00] white.msh 
+
+Directory listing of /PSP_GAME/USRDIR/data/locale/trc/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [    100 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     61 02] .. 
+-r-xr-xr-x   1    0    0       5116 Feb 17 2005 [ 442384 00] english.loc 
+-r-xr-xr-x   1    0    0      16649 Feb 17 2005 [ 442400 00] mvp_saved_file.png 
+-r-xr-xr-x   1    0    0        384 Feb 17 2005 [ 442416 00] string.idx 
+
+Directory listing of /PSP_GAME/USRDIR/data/apt/artwork/extra/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [    101 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     72 02] .. 
+-r-xr-xr-x   1    0    0      62320 Apr 11 2005 [ 357040 00] 01.big 
+-r-xr-xr-x   1    0    0      62320 Apr 11 2005 [ 357072 00] 02.big 
+-r-xr-xr-x   1    0    0      62320 Apr 11 2005 [ 357104 00] 03.big 
+-r-xr-xr-x   1    0    0      62320 Apr 11 2005 [ 357136 00] 04.big 
+-r-xr-xr-x   1    0    0      62320 Apr 11 2005 [ 357168 00] 05.big 
+-r-xr-xr-x   1    0    0      62320 Apr 11 2005 [ 357200 00] 06.big 
+-r-xr-xr-x   1    0    0      62320 Apr 11 2005 [ 357232 00] 07.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/apt/artwork/mainmenu/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [    102 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     72 02] .. 
+-r-xr-xr-x   1    0    0      25648 Apr 11 2005 [ 357264 00] title.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/apt/artwork/partyplay/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [    103 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     72 02] .. 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [    111 02] photo 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [    112 02] ranking 
+
+Directory listing of /PSP_GAME/USRDIR/data/apt/artwork/playerimage/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [    104 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     72 02] .. 
+-r-xr-xr-x   1    0    0       2149 Apr 11 2005 [ 357536 00] empty.big 
+-r-xr-xr-x   1    0    0       7904 Apr 11 2005 [ 357552 00] player0.big 
+-r-xr-xr-x   1    0    0       7904 Apr 11 2005 [ 357568 00] player1.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/apt/artwork/quickplay/
+dr-xr-xr-x   1    0    0       4096 Apr 11 2005 [    105 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     72 02] .. 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [    113 02] stadiumimages 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [    114 02] stadiumprofiles 
+-r-xr-xr-x   1    0    0       9296 Apr 11 2005 [ 357648 00] jersey001.big 
+-r-xr-xr-x   1    0    0       9296 Apr 11 2005 [ 357664 00] jersey002.big 
+-r-xr-xr-x   1    0    0       9296 Apr 11 2005 [ 357680 00] jersey003.big 
+-r-xr-xr-x   1    0    0       8432 Apr 11 2005 [ 357696 00] pitcher0.big 
+-r-xr-xr-x   1    0    0       5616 Apr 11 2005 [ 357712 00] pitcher1.big 
+-r-xr-xr-x   1    0    0       7968 Apr 11 2005 [ 357728 00] playerportrait_1_0006.big 
+-r-xr-xr-x   1    0    0       7968 Apr 11 2005 [ 357744 00] playerportrait_1_0022.big 
+-r-xr-xr-x   1    0    0       3952 Apr 11 2005 [ 357760 00] ranked_1.big 
+-r-xr-xr-x   1    0    0       3952 Apr 11 2005 [ 357776 00] ranked_10.big 
+-r-xr-xr-x   1    0    0       3952 Apr 11 2005 [ 357792 00] ranked_11.big 
+-r-xr-xr-x   1    0    0       3952 Apr 11 2005 [ 357808 00] ranked_12.big 
+-r-xr-xr-x   1    0    0       3952 Apr 11 2005 [ 357824 00] ranked_13.big 
+-r-xr-xr-x   1    0    0       3952 Apr 11 2005 [ 357840 00] ranked_14.big 
+-r-xr-xr-x   1    0    0       3952 Apr 11 2005 [ 357856 00] ranked_15.big 
+-r-xr-xr-x   1    0    0       3952 Apr 11 2005 [ 357872 00] ranked_16.big 
+-r-xr-xr-x   1    0    0       3952 Apr 11 2005 [ 357888 00] ranked_17.big 
+-r-xr-xr-x   1    0    0       3952 Apr 11 2005 [ 357904 00] ranked_18.big 
+-r-xr-xr-x   1    0    0       3952 Apr 11 2005 [ 357920 00] ranked_19.big 
+-r-xr-xr-x   1    0    0       3952 Apr 11 2005 [ 357936 00] ranked_2.big 
+-r-xr-xr-x   1    0    0       3952 Apr 11 2005 [ 357952 00] ranked_20.big 
+-r-xr-xr-x   1    0    0       3952 Apr 11 2005 [ 357968 00] ranked_21.big 
+-r-xr-xr-x   1    0    0       3952 Apr 11 2005 [ 357984 00] ranked_22.big 
+-r-xr-xr-x   1    0    0       3952 Apr 11 2005 [ 358000 00] ranked_23.big 
+-r-xr-xr-x   1    0    0       3952 Apr 11 2005 [ 358016 00] ranked_24.big 
+-r-xr-xr-x   1    0    0       3952 Apr 11 2005 [ 358032 00] ranked_25.big 
+-r-xr-xr-x   1    0    0       3952 Apr 11 2005 [ 358048 00] ranked_26.big 
+-r-xr-xr-x   1    0    0       3952 Apr 11 2005 [ 358064 00] ranked_27.big 
+-r-xr-xr-x   1    0    0       3952 Apr 11 2005 [ 358080 00] ranked_28.big 
+-r-xr-xr-x   1    0    0       3952 Apr 11 2005 [ 358096 00] ranked_29.big 
+-r-xr-xr-x   1    0    0       3952 Apr 11 2005 [ 358112 00] ranked_3.big 
+-r-xr-xr-x   1    0    0       3952 Apr 11 2005 [ 358128 00] ranked_30.big 
+-r-xr-xr-x   1    0    0       3952 Apr 11 2005 [ 358144 00] ranked_31.big 
+-r-xr-xr-x   1    0    0       3952 Apr 11 2005 [ 358160 00] ranked_32.big 
+-r-xr-xr-x   1    0    0       3952 Apr 11 2005 [ 358176 00] ranked_33.big 
+-r-xr-xr-x   1    0    0       3952 Apr 11 2005 [ 358192 00] ranked_34.big 
+-r-xr-xr-x   1    0    0       3952 Apr 11 2005 [ 358208 00] ranked_35.big 
+-r-xr-xr-x   1    0    0       3952 Apr 11 2005 [ 358224 00] ranked_36.big 
+-r-xr-xr-x   1    0    0       3952 Apr 11 2005 [ 358240 00] ranked_4.big 
+-r-xr-xr-x   1    0    0       3952 Apr 11 2005 [ 358256 00] ranked_5.big 
+-r-xr-xr-x   1    0    0       3952 Apr 11 2005 [ 358272 00] ranked_6.big 
+-r-xr-xr-x   1    0    0       3952 Apr 11 2005 [ 358288 00] ranked_7.big 
+-r-xr-xr-x   1    0    0       3952 Apr 11 2005 [ 358304 00] ranked_8.big 
+-r-xr-xr-x   1    0    0       3952 Apr 11 2005 [ 358320 00] ranked_9.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/apt/artwork/sm2/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [    107 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     72 02] .. 
+-r-xr-xr-x   1    0    0      10496 Apr 11 2005 [ 358336 00] 0.big 
+-r-xr-xr-x   1    0    0      10496 Apr 11 2005 [ 358352 00] 1.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/apt/artwork/teamlogo/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [    108 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     72 02] .. 
+-r-xr-xr-x   1    0    0      14368 Apr 11 2005 [ 358368 00] 0.big 
+-r-xr-xr-x   1    0    0      14368 Apr 11 2005 [ 358384 00] 1.big 
+-r-xr-xr-x   1    0    0      14368 Apr 11 2005 [ 358400 00] 10.big 
+-r-xr-xr-x   1    0    0      14368 Apr 11 2005 [ 358416 00] 11.big 
+-r-xr-xr-x   1    0    0      14368 Apr 11 2005 [ 358432 00] 12.big 
+-r-xr-xr-x   1    0    0      14368 Apr 11 2005 [ 358448 00] 13.big 
+-r-xr-xr-x   1    0    0      14368 Apr 11 2005 [ 358464 00] 14.big 
+-r-xr-xr-x   1    0    0      14368 Apr 11 2005 [ 358480 00] 15.big 
+-r-xr-xr-x   1    0    0      14368 Apr 11 2005 [ 358496 00] 16.big 
+-r-xr-xr-x   1    0    0      14368 Apr 11 2005 [ 358512 00] 17.big 
+-r-xr-xr-x   1    0    0      14368 Apr 11 2005 [ 358528 00] 18.big 
+-r-xr-xr-x   1    0    0      14368 Apr 11 2005 [ 358544 00] 19.big 
+-r-xr-xr-x   1    0    0      14368 Apr 11 2005 [ 358560 00] 2.big 
+-r-xr-xr-x   1    0    0      14368 Apr 11 2005 [ 358576 00] 20.big 
+-r-xr-xr-x   1    0    0      14368 Apr 11 2005 [ 358592 00] 21.big 
+-r-xr-xr-x   1    0    0      14368 Apr 11 2005 [ 358608 00] 22.big 
+-r-xr-xr-x   1    0    0      14368 Apr 11 2005 [ 358624 00] 23.big 
+-r-xr-xr-x   1    0    0      14368 Apr 11 2005 [ 358640 00] 24.big 
+-r-xr-xr-x   1    0    0      14368 Apr 11 2005 [ 358656 00] 25.big 
+-r-xr-xr-x   1    0    0      14368 Apr 11 2005 [ 358672 00] 26.big 
+-r-xr-xr-x   1    0    0      14368 Apr 11 2005 [ 358688 00] 27.big 
+-r-xr-xr-x   1    0    0      14368 Apr 11 2005 [ 358704 00] 28.big 
+-r-xr-xr-x   1    0    0      14368 Apr 11 2005 [ 358720 00] 29.big 
+-r-xr-xr-x   1    0    0      14368 Apr 11 2005 [ 358736 00] 3.big 
+-r-xr-xr-x   1    0    0      14368 Apr 11 2005 [ 358752 00] 4.big 
+-r-xr-xr-x   1    0    0      14368 Apr 11 2005 [ 358768 00] 5.big 
+-r-xr-xr-x   1    0    0      14368 Apr 11 2005 [ 358784 00] 6.big 
+-r-xr-xr-x   1    0    0      14368 Apr 11 2005 [ 358800 00] 7.big 
+-r-xr-xr-x   1    0    0      14368 Apr 11 2005 [ 358816 00] 8.big 
+-r-xr-xr-x   1    0    0      14368 Apr 11 2005 [ 358832 00] 9.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/apt/cafelib/icons/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [    109 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [     74 02] .. 
+-r-xr-xr-x   1    0    0       3376 Apr 11 2005 [ 359568 00] analog_psp.big 
+-r-xr-xr-x   1    0    0       3184 Apr 11 2005 [ 359584 00] c_psp.big 
+-r-xr-xr-x   1    0    0       4640 Apr 11 2005 [ 359600 00] dlr_psp.big 
+-r-xr-xr-x   1    0    0       4640 Apr 11 2005 [ 359616 00] dud_psp.big 
+-r-xr-xr-x   1    0    0       3344 Apr 11 2005 [ 359632 00] l1_psp.big 
+-r-xr-xr-x   1    0    0       3728 Apr 11 2005 [ 359648 00] lan_psp.big 
+-r-xr-xr-x   1    0    0       3344 Apr 11 2005 [ 359664 00] r1_psp.big 
+-r-xr-xr-x   1    0    0       5588 Apr 11 2005 [ 359680 00] r2_psp.big 
+-r-xr-xr-x   1    0    0       5524 Apr 11 2005 [ 359696 00] r_psp.big 
+-r-xr-xr-x   1    0    0       3504 Apr 11 2005 [ 359712 00] sel_psp.big 
+-r-xr-xr-x   1    0    0       3504 Apr 11 2005 [ 359728 00] str_psp.big 
+-r-xr-xr-x   1    0    0       3184 Apr 11 2005 [ 359744 00] s_psp.big 
+-r-xr-xr-x   1    0    0       3184 Apr 11 2005 [ 359760 00] t_psp.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/apt/psplib/popup/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [    110 02] . 
+dr-xr-xr-x   1    0    0       4096 Apr 11 2005 [     87 02] .. 
+-r-xr-xr-x   1    0    0      13984 Apr 11 2005 [ 362064 00] challengeaccepted.big 
+-r-xr-xr-x   1    0    0      31120 Apr 11 2005 [ 362080 00] challengedeclined.big 
+-r-xr-xr-x   1    0    0      13904 Apr 11 2005 [ 362096 00] toofarapart.big 
+-r-xr-xr-x   1    0    0       8448 Apr 11 2005 [ 362112 00] trcprogress.big 
+-r-xr-xr-x   1    0    0      13648 Apr 11 2005 [ 362128 00] waitingfordecision.big 
+-r-xr-xr-x   1    0    0      42112 Apr 11 2005 [ 362144 00] waitingforplayer.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/apt/artwork/partyplay/photo/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [    111 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [    103 02] .. 
+-r-xr-xr-x   1    0    0       7920 Apr 11 2005 [ 357280 00] photo167.big 
+-r-xr-xr-x   1    0    0       9136 Apr 11 2005 [ 357296 00] photo314.big 
+-r-xr-xr-x   1    0    0       9136 Apr 11 2005 [ 357312 00] photo675.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/apt/artwork/partyplay/ranking/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [    112 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [    103 02] .. 
+-r-xr-xr-x   1    0    0       3952 Apr 11 2005 [ 357328 00] ranking1.big 
+-r-xr-xr-x   1    0    0       3952 Apr 11 2005 [ 357344 00] ranking14.big 
+-r-xr-xr-x   1    0    0       3952 Apr 11 2005 [ 357360 00] ranking15.big 
+-r-xr-xr-x   1    0    0       3952 Apr 11 2005 [ 357376 00] ranking16.big 
+-r-xr-xr-x   1    0    0       3952 Apr 11 2005 [ 357392 00] ranking2.big 
+-r-xr-xr-x   1    0    0       3952 Apr 11 2005 [ 357408 00] ranking22.big 
+-r-xr-xr-x   1    0    0       3952 Apr 11 2005 [ 357424 00] ranking23.big 
+-r-xr-xr-x   1    0    0       3952 Apr 11 2005 [ 357440 00] ranking24.big 
+-r-xr-xr-x   1    0    0       3952 Apr 11 2005 [ 357456 00] ranking26.big 
+-r-xr-xr-x   1    0    0       3952 Apr 11 2005 [ 357472 00] ranking27.big 
+-r-xr-xr-x   1    0    0       3952 Apr 11 2005 [ 357488 00] ranking3.big 
+-r-xr-xr-x   1    0    0       3952 Apr 11 2005 [ 357504 00] ranking4.big 
+-r-xr-xr-x   1    0    0       3952 Apr 11 2005 [ 357520 00] ranking5.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/apt/artwork/quickplay/stadiumimages/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [    113 02] . 
+dr-xr-xr-x   1    0    0       4096 Apr 11 2005 [    105 02] .. 
+-r-xr-xr-x   1    0    0      47648 Apr 11 2005 [ 357584 00] stadiumimage0.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/apt/artwork/quickplay/stadiumprofiles/
+dr-xr-xr-x   1    0    0       2048 Apr 11 2005 [    114 02] . 
+dr-xr-xr-x   1    0    0       4096 Apr 11 2005 [    105 02] .. 
+-r-xr-xr-x   1    0    0      47648 Apr 11 2005 [ 357616 00] stadiumprofile0.big 
+=============================================================== 
+Generated on Mon 08/08/2022 at 15:47:14.82 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

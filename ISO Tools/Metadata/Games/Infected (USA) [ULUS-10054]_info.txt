@@ -1,0 +1,368 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Infected   
+Title ID: ULUS-10054 
+Region: USA  
+Languages:   
+Volume Creation Date: 2005-11-16 31:57:53 
+Volume Size: 224 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: NA
+Volume set id: 
+Publisher id: 
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 114979
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Nov 16 2005 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 16 2005 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov 16 2005 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Oct 27 2005 [ 114978 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Nov 16 2005 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 16 2005 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov 16 2005 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Nov 16 2005 [     25 02] USRDIR 
+-r-xr-xr-x   1    0    0      20104 Oct 12 2005 [     40 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     487424 Oct 12 2005 [     50 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 Oct 24 2005 [    288 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     149255 Oct 12 2005 [    289 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0       5632 Nov 16 2005 [    362 00] Thumbs.db 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Nov 16 2005 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 16 2005 [     24 02] .. 
+-r-xr-xr-x   1    0    0    3749896 Oct 27 2005 [    365 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    3750240 Oct 27 2005 [   2197 00] EBOOT.BIN 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Nov 16 2005 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 16 2005 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov 16 2005 [     26 02] IMAGE 
+
+Directory listing of /PSP_GAME/USRDIR/IMAGE/
+dr-xr-xr-x   1    0    0       2048 Nov 16 2005 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 16 2005 [     26 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov 16 2005 [     27 02] kmodule 
+dr-xr-xr-x   1    0    0       2048 Nov 16 2005 [     28 02] kmodule2 
+dr-xr-xr-x   1    0    0       4096 Nov 16 2005 [     29 02] levels 
+dr-xr-xr-x   1    0    0       2048 Nov 16 2005 [     31 02] module 
+dr-xr-xr-x   1    0    0       2048 Nov 16 2005 [     32 02] module2 
+dr-xr-xr-x   1    0    0       2048 Nov 16 2005 [     33 02] movies 
+dr-xr-xr-x   1    0    0       4096 Nov 16 2005 [     34 02] music 
+dr-xr-xr-x   1    0    0       2048 Nov 16 2005 [     36 02] packs 
+dr-xr-xr-x   1    0    0       4096 Nov 16 2005 [     37 02] subtitles 
+dr-xr-xr-x   1    0    0       2048 Nov 16 2005 [     39 02] voiceovers 
+-r-xr-xr-x   1    0    0    3960936 Oct 27 2005 [   4029 00] weblauncher.prx 
+
+Directory listing of /PSP_GAME/USRDIR/IMAGE/kmodule/
+dr-xr-xr-x   1    0    0       2048 Nov 16 2005 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 16 2005 [     27 02] .. 
+-r-xr-xr-x   1    0    0       3200 Oct  4 2005 [   5964 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0       3088 Oct  4 2005 [   5966 00] cert_loader.prx 
+-r-xr-xr-x   1    0    0      10816 Oct  4 2005 [   5968 00] ifhandle.prx 
+-r-xr-xr-x   1    0    0      17216 Oct  4 2005 [   5974 00] memab.prx 
+-r-xr-xr-x   1    0    0       5808 Oct  4 2005 [   5983 00] mpegbase.prx 
+-r-xr-xr-x   1    0    0      11360 Oct  4 2005 [   5986 00] pspnet_adhoc_auth.prx 
+-r-xr-xr-x   1    0    0      31104 Oct  4 2005 [   5992 00] rinit.prx 
+-r-xr-xr-x   1    0    0       5904 Oct  4 2005 [   6008 00] sc_sascore.prx 
+-r-xr-xr-x   1    0    0      14560 Oct  4 2005 [   6011 00] usbpspcm.prx 
+-r-xr-xr-x   1    0    0       3808 Oct  4 2005 [   6019 00] videocodec.prx 
+
+Directory listing of /PSP_GAME/USRDIR/IMAGE/kmodule2/
+dr-xr-xr-x   1    0    0       2048 Nov 16 2005 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 16 2005 [     28 02] .. 
+-r-xr-xr-x   1    0    0       3200 Oct  4 2005 [   6021 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0       5792 Oct  4 2005 [   6023 00] mpegbase.prx 
+-r-xr-xr-x   1    0    0       6400 Oct  4 2005 [   6026 00] sc_sascore.prx 
+-r-xr-xr-x   1    0    0      14960 Oct  4 2005 [   6030 00] usbpspcm.prx 
+-r-xr-xr-x   1    0    0       4016 Oct  4 2005 [   6038 00] videocodec.prx 
+
+Directory listing of /PSP_GAME/USRDIR/IMAGE/levels/
+dr-xr-xr-x   1    0    0       4096 Nov 16 2005 [     29 02] . 
+dr-xr-xr-x   1    0    0       4096 Nov 16 2005 [     29 02] .. 
+-r-xr-xr-x   1    0    0     175939 Oct 25 2005 [   6040 00] Global.stream.zpm 
+-r-xr-xr-x   1    0    0    2233922 Oct 26 2005 [   6126 00] MainMenuLevel.stream.zpm 
+-r-xr-xr-x   1    0    0    4459021 Oct 25 2005 [   7217 00] Mission_10A.stream.zpm 
+-r-xr-xr-x   1    0    0    4950892 Oct 25 2005 [   9395 00] Mission_10B.stream.zpm 
+-r-xr-xr-x   1    0    0    4708683 Oct 25 2005 [  11813 00] Mission_10C.stream.zpm 
+-r-xr-xr-x   1    0    0    5089334 Oct 25 2005 [  14113 00] Mission_10D.stream.zpm 
+-r-xr-xr-x   1    0    0    5054348 Oct 25 2005 [  16599 00] Mission_11A.stream.zpm 
+-r-xr-xr-x   1    0    0    4926055 Oct 25 2005 [  19067 00] Mission_11B.stream.zpm 
+-r-xr-xr-x   1    0    0    5328937 Oct 25 2005 [  21473 00] Mission_11C.stream.zpm 
+-r-xr-xr-x   1    0    0    4480395 Oct 25 2005 [  24076 00] Mission_12A.stream.zpm 
+-r-xr-xr-x   1    0    0    5055227 Oct 25 2005 [  26264 00] Mission_12B.stream.zpm 
+-r-xr-xr-x   1    0    0    5170904 Oct 25 2005 [  28733 00] Mission_13A.stream.zpm 
+-r-xr-xr-x   1    0    0    4548210 Oct 25 2005 [  31258 00] Mission_14A.stream.zpm 
+-r-xr-xr-x   1    0    0    3991059 Oct 25 2005 [  33479 00] Mission_14B.stream.zpm 
+-r-xr-xr-x   1    0    0    4672240 Oct 25 2005 [  35428 00] Mission_14C.stream.zpm 
+-r-xr-xr-x   1    0    0    4558167 Oct 25 2005 [  37710 00] Mission_15A.stream.zpm 
+-r-xr-xr-x   1    0    0    3979027 Oct 25 2005 [  39936 00] Mission_1A.stream.zpm 
+-r-xr-xr-x   1    0    0    3916692 Oct 25 2005 [  41879 00] Mission_2A.stream.zpm 
+-r-xr-xr-x   1    0    0    4600753 Oct 25 2005 [  43792 00] Mission_2B.stream.zpm 
+-r-xr-xr-x   1    0    0    4098628 Oct 25 2005 [  46039 00] Mission_3A.stream.zpm 
+-r-xr-xr-x   1    0    0    4249068 Oct 25 2005 [  48041 00] Mission_3B.stream.zpm 
+-r-xr-xr-x   1    0    0    3992497 Oct 25 2005 [  50116 00] Mission_4A.stream.zpm 
+-r-xr-xr-x   1    0    0    3952156 Oct 25 2005 [  52066 00] Mission_4B.stream.zpm 
+-r-xr-xr-x   1    0    0    4754980 Oct 25 2005 [  53996 00] Mission_4C.stream.zpm 
+-r-xr-xr-x   1    0    0    4955076 Oct 25 2005 [  56318 00] Mission_5A.stream.zpm 
+-r-xr-xr-x   1    0    0    4644659 Oct 25 2005 [  58738 00] Mission_5B.stream.zpm 
+-r-xr-xr-x   1    0    0    4729807 Oct 25 2005 [  61006 00] Mission_5C.stream.zpm 
+-r-xr-xr-x   1    0    0    4869629 Oct 25 2005 [  63316 00] Mission_6A.stream.zpm 
+-r-xr-xr-x   1    0    0    5420629 Oct 25 2005 [  65694 00] Mission_6B.stream.zpm 
+-r-xr-xr-x   1    0    0    4593196 Oct 25 2005 [  68341 00] Mission_7A.stream.zpm 
+-r-xr-xr-x   1    0    0    5492887 Oct 25 2005 [  70584 00] Mission_7B.stream.zpm 
+-r-xr-xr-x   1    0    0    5146565 Oct 25 2005 [  73267 00] Mission_7C.stream.zpm 
+-r-xr-xr-x   1    0    0    4712543 Oct 25 2005 [  75780 00] Mission_8A.stream.zpm 
+-r-xr-xr-x   1    0    0    5277311 Oct 25 2005 [  78082 00] Mission_8B.stream.zpm 
+-r-xr-xr-x   1    0    0    4786498 Oct 25 2005 [  80659 00] Mission_9A.stream.zpm 
+-r-xr-xr-x   1    0    0    4935502 Oct 25 2005 [  82997 00] Mission_9B.stream.zpm 
+-r-xr-xr-x   1    0    0    5239386 Oct 25 2005 [  85407 00] Mission_9C.stream.zpm 
+-r-xr-xr-x   1    0    0    4223602 Oct 25 2005 [  87966 00] MultiLevel_1.stream.zpm 
+-r-xr-xr-x   1    0    0    4267045 Oct 25 2005 [  90029 00] MultiLevel_10.stream.zpm 
+-r-xr-xr-x   1    0    0    4189428 Oct 25 2005 [  92113 00] MultiLevel_11.stream.zpm 
+-r-xr-xr-x   1    0    0    4156533 Oct 25 2005 [  94159 00] MultiLevel_12.stream.zpm 
+-r-xr-xr-x   1    0    0    3916864 Oct 25 2005 [  96189 00] MultiLevel_2.stream.zpm 
+-r-xr-xr-x   1    0    0    3916996 Oct 25 2005 [  98102 00] MultiLevel_3.stream.zpm 
+-r-xr-xr-x   1    0    0    4096468 Oct 25 2005 [ 100015 00] MultiLevel_4.stream.zpm 
+-r-xr-xr-x   1    0    0    4451967 Oct 25 2005 [ 102016 00] MultiLevel_5.stream.zpm 
+-r-xr-xr-x   1    0    0    4480728 Oct 25 2005 [ 104190 00] MultiLevel_8.stream.zpm 
+-r-xr-xr-x   1    0    0    4248132 Oct 25 2005 [ 106378 00] MultiLevel_9.stream.zpm 
+-r-xr-xr-x   1    0    0     108169 Oct 25 2005 [ 108453 00] SplashVideosLevel.stream.zpm 
+
+Directory listing of /PSP_GAME/USRDIR/IMAGE/module/
+dr-xr-xr-x   1    0    0       2048 Nov 16 2005 [     31 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 16 2005 [     31 02] .. 
+-r-xr-xr-x   1    0    0       1488 Oct  4 2005 [ 108506 00] libadler.prx 
+-r-xr-xr-x   1    0    0      19940 Oct  4 2005 [ 108507 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0       2252 Oct  4 2005 [ 108517 00] libbase64.prx 
+-r-xr-xr-x   1    0    0       6056 Oct  4 2005 [ 108519 00] libccc.prx 
+-r-xr-xr-x   1    0    0       6348 Oct  4 2005 [ 108522 00] libdeflt.prx 
+-r-xr-xr-x   1    0    0      40696 Oct  4 2005 [ 108526 00] libfont.prx 
+-r-xr-xr-x   1    0    0       6644 Oct  4 2005 [ 108546 00] libfpu.prx 
+-r-xr-xr-x   1    0    0      87032 Oct  4 2005 [ 108550 00] libhttp.prx 
+-r-xr-xr-x   1    0    0       3248 Oct  4 2005 [ 108593 00] libmd5.prx 
+-r-xr-xr-x   1    0    0       1816 Oct  4 2005 [ 108595 00] libmt19937.prx 
+-r-xr-xr-x   1    0    0       5180 Oct  4 2005 [ 108596 00] libparse_http.prx 
+-r-xr-xr-x   1    0    0      15584 Oct  4 2005 [ 108599 00] libparse_uri.prx 
+-r-xr-xr-x   1    0    0       2924 Oct  4 2005 [ 108607 00] libqpcode.prx 
+-r-xr-xr-x   1    0    0       3912 Oct  4 2005 [ 108609 00] libsha1.prx 
+-r-xr-xr-x   1    0    0     259788 Oct  4 2005 [ 108611 00] libssl.prx 
+-r-xr-xr-x   1    0    0      43068 Oct  4 2005 [ 108738 00] mpeg.prx 
+-r-xr-xr-x   1    0    0       9740 Oct  4 2005 [ 108760 00] psmf.prx 
+-r-xr-xr-x   1    0    0      60360 Oct  4 2005 [ 108765 00] pspnet.prx 
+-r-xr-xr-x   1    0    0      42492 Oct  4 2005 [ 108795 00] pspnet_adhoc.prx 
+-r-xr-xr-x   1    0    0      31996 Oct  4 2005 [ 108816 00] pspnet_adhocctl.prx 
+-r-xr-xr-x   1    0    0      15828 Oct  4 2005 [ 108832 00] pspnet_adhoc_download.prx 
+-r-xr-xr-x   1    0    0      19688 Oct  4 2005 [ 108840 00] pspnet_adhoc_matching.prx 
+-r-xr-xr-x   1    0    0      44412 Oct  4 2005 [ 108850 00] pspnet_apctl.prx 
+-r-xr-xr-x   1    0    0       4820 Oct  4 2005 [ 108872 00] pspnet_ap_dialog_dummy.prx 
+-r-xr-xr-x   1    0    0     239968 Oct  4 2005 [ 108875 00] pspnet_inet.prx 
+-r-xr-xr-x   1    0    0      12400 Oct  4 2005 [ 108993 00] pspnet_resolver.prx 
+-r-xr-xr-x   1    0    0      67400 Oct  4 2005 [ 109000 00] scan.prx 
+-r-xr-xr-x   1    0    0      63532 Oct  4 2005 [ 109033 00] show_macaddr.prx 
+
+Directory listing of /PSP_GAME/USRDIR/IMAGE/module2/
+dr-xr-xr-x   1    0    0       2048 Nov 16 2005 [     32 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 16 2005 [     32 02] .. 
+-r-xr-xr-x   1    0    0       1824 Oct  4 2005 [ 109065 00] libadler.prx 
+-r-xr-xr-x   1    0    0      20288 Oct  4 2005 [ 109066 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0       2544 Oct  4 2005 [ 109076 00] libbase64.prx 
+-r-xr-xr-x   1    0    0       6400 Oct  4 2005 [ 109078 00] libccc.prx 
+-r-xr-xr-x   1    0    0       6672 Oct  4 2005 [ 109082 00] libdeflt.prx 
+-r-xr-xr-x   1    0    0      44432 Oct  4 2005 [ 109086 00] libfont.prx 
+-r-xr-xr-x   1    0    0       6992 Oct  4 2005 [ 109108 00] libfpu.prx 
+-r-xr-xr-x   1    0    0       3584 Oct  4 2005 [ 109112 00] libmd5.prx 
+-r-xr-xr-x   1    0    0       2160 Oct  4 2005 [ 109114 00] libmt19937.prx 
+-r-xr-xr-x   1    0    0       3264 Oct  4 2005 [ 109116 00] libqpcode.prx 
+-r-xr-xr-x   1    0    0       4256 Oct  4 2005 [ 109118 00] libsha1.prx 
+-r-xr-xr-x   1    0    0       4624 Oct  4 2005 [ 109121 00] libsha256.prx 
+-r-xr-xr-x   1    0    0      46160 Oct  4 2005 [ 109124 00] mpeg.prx 
+-r-xr-xr-x   1    0    0      12704 Oct  4 2005 [ 109147 00] psmf.prx 
+-r-xr-xr-x   1    0    0       4592 Oct  4 2005 [ 109154 00] pspnet_ap_dialog_dummy.prx 
+-r-xr-xr-x   1    0    0      71824 Oct  4 2005 [ 109157 00] scan.prx 
+-r-xr-xr-x   1    0    0      66736 Oct  4 2005 [ 109193 00] show_macaddr.prx 
+
+Directory listing of /PSP_GAME/USRDIR/IMAGE/movies/
+dr-xr-xr-x   1    0    0       2048 Nov 16 2005 [     33 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 16 2005 [     33 02] .. 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109226 00] agony.pmf 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109227 00] chimaira.pmf 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109228 00] Credits.pmf 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109229 00] gamespy.pmf 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109230 00] intro.pmf 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109231 00] majesco_logo.pmf 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109232 00] news_report11.pmf 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109233 00] news_report12.pmf 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109234 00] news_report2.pmf 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109235 00] news_report6.pmf 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109236 00] news_report9.pmf 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109237 00] outro.pmf 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109238 00] pms_logo.pmf 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109239 00] trivium.pmf 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109240 00] tut1.pmf 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109241 00] tut2.pmf 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109242 00] tut3.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/IMAGE/music/
+dr-xr-xr-x   1    0    0       4096 Nov 16 2005 [     34 02] . 
+dr-xr-xr-x   1    0    0       4096 Nov 16 2005 [     34 02] .. 
+-r-xr-xr-x   1    0    0         87 Oct 30 2005 [ 109243 00] dummy.bat 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109244 00] song0.at3 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109245 00] song0_ambient.at3 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109246 00] song1.at3 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109247 00] song10.at3 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109248 00] song100_ambient.at3 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109249 00] song10_ambient.at3 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109250 00] song11.at3 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109251 00] song11_ambient.at3 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109252 00] song12.at3 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109253 00] song12_ambient.at3 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109254 00] song13.at3 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109255 00] song13_ambient.at3 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109256 00] song14.at3 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109257 00] song14_ambient.at3 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109258 00] song15.at3 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109259 00] song15_ambient.at3 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109260 00] song16.at3 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109261 00] song16_ambient.at3 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109262 00] song17.at3 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109263 00] song17_ambient.at3 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109264 00] song18.at3 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109265 00] song18_ambient.at3 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109266 00] song19.at3 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109267 00] song19_ambient.at3 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109268 00] song1_ambient.at3 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109269 00] song2.at3 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109270 00] song20.at3 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109271 00] song20_ambient.at3 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109272 00] song21.at3 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109273 00] song21_ambient.at3 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109274 00] song2_ambient.at3 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109275 00] song3.at3 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109276 00] song3_ambient.at3 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109277 00] song4.at3 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109278 00] song4_ambient.at3 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109279 00] song5.at3 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109280 00] song5_ambient.at3 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109281 00] song6.at3 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109282 00] song6_ambient.at3 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109283 00] song7.at3 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109284 00] song7_ambient.at3 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109285 00] song8.at3 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109286 00] song8_ambient.at3 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109287 00] song9.at3 
+-r-xr-xr-x   1    0    0          0 Nov 16 2005 [ 109288 00] song9_ambient.at3 
+
+Directory listing of /PSP_GAME/USRDIR/IMAGE/packs/
+dr-xr-xr-x   1    0    0       2048 Nov 16 2005 [     36 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 16 2005 [     36 02] .. 
+-r-xr-xr-x   1    0    0    3831168 Oct  4 2005 [ 109289 00] vag.pak 
+
+Directory listing of /PSP_GAME/USRDIR/IMAGE/subtitles/
+dr-xr-xr-x   1    0    0       4096 Nov 16 2005 [     37 02] . 
+dr-xr-xr-x   1    0    0       4096 Nov 16 2005 [     37 02] .. 
+-r-xr-xr-x   1    0    0        648 Oct 10 2005 [ 111160 00] Cutscene_11.txt 
+-r-xr-xr-x   1    0    0        774 Oct  4 2005 [ 111161 00] Cutscene_12.txt 
+-r-xr-xr-x   1    0    0       1542 Oct  4 2005 [ 111162 00] Cutscene_2.txt 
+-r-xr-xr-x   1    0    0       1374 Oct 10 2005 [ 111163 00] Cutscene_6.txt 
+-r-xr-xr-x   1    0    0       1246 Oct  4 2005 [ 111164 00] Cutscene_9.txt 
+-r-xr-xr-x   1    0    0        339 Oct  4 2005 [ 111165 00] Cutscene_Intro.txt 
+-r-xr-xr-x   1    0    0       1054 Oct  4 2005 [ 111166 00] Cutscene_Outro.txt 
+-r-xr-xr-x   1    0    0       1501 Oct  4 2005 [ 111167 00] tut1.txt 
+-r-xr-xr-x   1    0    0       1706 Oct  4 2005 [ 111168 00] tut2.txt 
+-r-xr-xr-x   1    0    0          0 Oct  4 2005 [ 111169 00] tut3.txt 
+-r-xr-xr-x   1    0    0        121 Oct  4 2005 [ 111170 00] Voiceover_0.txt 
+-r-xr-xr-x   1    0    0       1533 Oct  4 2005 [ 111171 00] Voiceover_1.txt 
+-r-xr-xr-x   1    0    0        345 Oct  4 2005 [ 111172 00] Voiceover_10.txt 
+-r-xr-xr-x   1    0    0        560 Oct  4 2005 [ 111173 00] Voiceover_11.txt 
+-r-xr-xr-x   1    0    0        245 Oct  4 2005 [ 111174 00] Voiceover_12.txt 
+-r-xr-xr-x   1    0    0        947 Oct  4 2005 [ 111175 00] Voiceover_13.txt 
+-r-xr-xr-x   1    0    0          0 Oct  4 2005 [ 111176 00] Voiceover_14.txt 
+-r-xr-xr-x   1    0    0        345 Oct  4 2005 [ 111177 00] Voiceover_15.txt 
+-r-xr-xr-x   1    0    0        216 Oct  4 2005 [ 111178 00] Voiceover_16.txt 
+-r-xr-xr-x   1    0    0        164 Oct  4 2005 [ 111179 00] Voiceover_17.txt 
+-r-xr-xr-x   1    0    0        146 Oct  4 2005 [ 111180 00] Voiceover_18.txt 
+-r-xr-xr-x   1    0    0        137 Oct  4 2005 [ 111181 00] Voiceover_19.txt 
+-r-xr-xr-x   1    0    0       1098 Oct  4 2005 [ 111182 00] Voiceover_2.txt 
+-r-xr-xr-x   1    0    0        177 Oct  4 2005 [ 111183 00] Voiceover_20.txt 
+-r-xr-xr-x   1    0    0        157 Oct  4 2005 [ 111184 00] Voiceover_21.txt 
+-r-xr-xr-x   1    0    0          0 Oct  4 2005 [ 111185 00] Voiceover_22.txt 
+-r-xr-xr-x   1    0    0        149 Oct  4 2005 [ 111186 00] Voiceover_23.txt 
+-r-xr-xr-x   1    0    0         67 Oct  4 2005 [ 111187 00] Voiceover_24.txt 
+-r-xr-xr-x   1    0    0          0 Oct  4 2005 [ 111188 00] Voiceover_25.txt 
+-r-xr-xr-x   1    0    0          0 Oct  4 2005 [ 111189 00] Voiceover_26.txt 
+-r-xr-xr-x   1    0    0          0 Oct  4 2005 [ 111190 00] Voiceover_27.txt 
+-r-xr-xr-x   1    0    0         63 Oct  4 2005 [ 111191 00] Voiceover_28.txt 
+-r-xr-xr-x   1    0    0          0 Oct  4 2005 [ 111192 00] Voiceover_29.txt 
+-r-xr-xr-x   1    0    0       1357 Oct  4 2005 [ 111193 00] Voiceover_3.txt 
+-r-xr-xr-x   1    0    0          0 Oct  4 2005 [ 111194 00] Voiceover_30.txt 
+-r-xr-xr-x   1    0    0       1429 Oct  4 2005 [ 111195 00] Voiceover_4.txt 
+-r-xr-xr-x   1    0    0       1051 Oct  4 2005 [ 111196 00] Voiceover_5.txt 
+-r-xr-xr-x   1    0    0       1297 Oct  4 2005 [ 111197 00] Voiceover_6.txt 
+-r-xr-xr-x   1    0    0       1776 Oct  4 2005 [ 111198 00] Voiceover_7.txt 
+-r-xr-xr-x   1    0    0        417 Oct  4 2005 [ 111199 00] Voiceover_8.txt 
+-r-xr-xr-x   1    0    0          0 Oct  4 2005 [ 111200 00] Voiceover_9.txt 
+
+Directory listing of /PSP_GAME/USRDIR/IMAGE/voiceovers/
+dr-xr-xr-x   1    0    0       2048 Nov 16 2005 [     39 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 16 2005 [     39 02] .. 
+-r-xr-xr-x   1    0    0     318244 Oct  4 2005 [ 111201 00] voiceover_1.at3 
+-r-xr-xr-x   1    0    0     104324 Oct  4 2005 [ 111357 00] voiceover_10.at3 
+-r-xr-xr-x   1    0    0     135964 Oct  4 2005 [ 111408 00] voiceover_11.at3 
+-r-xr-xr-x   1    0    0      69044 Oct  4 2005 [ 111475 00] voiceover_12.at3 
+-r-xr-xr-x   1    0    0     236764 Oct  4 2005 [ 111509 00] voiceover_13.at3 
+-r-xr-xr-x   1    0    0     543924 Oct  4 2005 [ 111625 00] voiceover_14.at3 
+-r-xr-xr-x   1    0    0     100684 Oct  4 2005 [ 111891 00] voiceover_15.at3 
+-r-xr-xr-x   1    0    0      56724 Oct  4 2005 [ 111941 00] voiceover_16.at3 
+-r-xr-xr-x   1    0    0      45524 Oct  4 2005 [ 111969 00] voiceover_17.at3 
+-r-xr-xr-x   1    0    0      48324 Oct  4 2005 [ 111992 00] voiceover_18.at3 
+-r-xr-xr-x   1    0    0      45524 Oct  4 2005 [ 112016 00] voiceover_19.at3 
+-r-xr-xr-x   1    0    0     251044 Oct  4 2005 [ 112039 00] voiceover_2.at3 
+-r-xr-xr-x   1    0    0      55884 Oct  4 2005 [ 112162 00] voiceover_20.at3 
+-r-xr-xr-x   1    0    0      47764 Oct  4 2005 [ 112190 00] voiceover_21.at3 
+-r-xr-xr-x   1    0    0     134844 Oct  4 2005 [ 112214 00] voiceover_22.at3 
+-r-xr-xr-x   1    0    0      43564 Oct  4 2005 [ 112280 00] voiceover_23.at3 
+-r-xr-xr-x   1    0    0      30684 Oct  4 2005 [ 112302 00] voiceover_24.at3 
+-r-xr-xr-x   1    0    0     119724 Oct  4 2005 [ 112317 00] voiceover_25.at3 
+-r-xr-xr-x   1    0    0     242644 Oct  4 2005 [ 112376 00] voiceover_26.at3 
+-r-xr-xr-x   1    0    0     166484 Oct  4 2005 [ 112495 00] voiceover_27.at3 
+-r-xr-xr-x   1    0    0      31244 Oct  4 2005 [ 112577 00] voiceover_28.at3 
+-r-xr-xr-x   1    0    0    1192964 Oct  4 2005 [ 112593 00] voiceover_29.at3 
+-r-xr-xr-x   1    0    0     379284 Oct  4 2005 [ 113176 00] voiceover_3.at3 
+-r-xr-xr-x   1    0    0    1209484 Oct  4 2005 [ 113362 00] voiceover_30.at3 
+-r-xr-xr-x   1    0    0     319644 Oct  4 2005 [ 113953 00] voiceover_4.at3 
+-r-xr-xr-x   1    0    0     271484 Oct  4 2005 [ 114110 00] voiceover_5.at3 
+-r-xr-xr-x   1    0    0     364444 Oct  4 2005 [ 114243 00] voiceover_6.at3 
+-r-xr-xr-x   1    0    0     758404 Oct  4 2005 [ 114421 00] voiceover_7.at3 
+-r-xr-xr-x   1    0    0     193924 Oct  4 2005 [ 114792 00] voiceover_8.at3 
+-r-xr-xr-x   1    0    0     185244 Oct  4 2005 [ 114887 00] voiceover_9.at3 
+=============================================================== 
+Generated on Sun 07/08/2022 at 19:29:01.01 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

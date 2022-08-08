@@ -1,0 +1,583 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: PlayStation Network Collection - Puzzle Pack   
+Title ID: UCES-01159 
+Region: EUR  
+Languages: En,Fr,De,Es,It  
+Volume Creation Date: 2008-09-05 16:00:00 
+Volume Size: 802 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: 
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 410736
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Sep  5 2008 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2008 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 May  2 2008 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 May  2 2008 [     55 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 May  2 2008 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  5 2008 [     22 02] .. 
+-r-xr-xr-x   1    0    0       7482 Aug 22 2008 [  53760 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        472 Sep  5 2008 [  53776 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0       4028 Aug 28 2008 [  53792 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 May  2 2008 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 May  7 2008 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 May  2 2008 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 May  2 2008 [     23 02] .. 
+-r-xr-xr-x   1    0    0     853469 Sep  1 2008 [  53808 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0     853808 Sep  5 2008 [     64 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 May  2 2008 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 May  7 2008 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 May  2 2008 [     23 02] .. 
+-r-xr-xr-x   1    0    0   64728928 Oct 23 2007 [ 260992 00] Data.big 
+dr-xr-xr-x   1    0    0       2048 Jan 16 2006 [     27 02] Data 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     28 02] GameShare 
+dr-xr-xr-x   1    0    0       2048 Aug 23 2007 [     29 02] GameSharing 
+dr-xr-xr-x   1    0    0      12288 Oct 21 2005 [     30 02] SUDOKU 
+dr-xr-xr-x   1    0    0       2048 Jul 23 2008 [     36 02] bin 
+-r-xr-xr-x   1    0    0   41881092 Jan 18 2006 [  70416 00] data.zip 
+-r-xr-xr-x   1    0    0    4375799 Sep  1 2008 [  54240 00] launcher.psarc 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     37 02] module 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 May  2 2008 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 May  2 2008 [     24 02] .. 
+-r-xr-xr-x   1    0    0   20544736 May  2 2008 [   4608 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5216752 May  2 2008 [    512 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 May  2 2008 [    496 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/Data/
+dr-xr-xr-x   1    0    0       2048 Jan 16 2006 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 May  7 2008 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     38 02] Common 
+dr-xr-xr-x   1    0    0       2048 Dec 12 2005 [     39 02] PSP 
+
+Directory listing of /PSP_GAME/USRDIR/GameShare/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 May  7 2008 [     25 02] .. 
+-r-xr-xr-x   1    0    0    7441760 Jan  9 2006 [  59392 00] gameshare1.dat 
+-r-xr-xr-x   1    0    0    7333280 Jan  9 2006 [  63040 00] gameshare2.dat 
+-r-xr-xr-x   1    0    0    7136736 Jan  9 2006 [  66624 00] gameshare3.dat 
+
+Directory listing of /PSP_GAME/USRDIR/GameSharing/
+dr-xr-xr-x   1    0    0       2048 Aug 23 2007 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 May  7 2008 [     25 02] .. 
+-r-xr-xr-x   1    0    0    4069904 Oct 29 2007 [ 255056 00] esp.dat 
+-r-xr-xr-x   1    0    0    4027664 Oct 29 2007 [ 257056 00] sky.dat 
+-r-xr-xr-x   1    0    0    4015888 Oct 29 2007 [ 259024 00] swizzle.dat 
+
+Directory listing of /PSP_GAME/USRDIR/SUDOKU/
+dr-xr-xr-x   1    0    0      12288 Oct 21 2005 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 May  7 2008 [     25 02] .. 
+-r-xr-xr-x   1    0    0       7780 Oct 21 2005 [ 309568 00] English_US.bin 
+-r-xr-xr-x   1    0    0       9744 Oct 21 2005 [ 316496 00] French.bin 
+-r-xr-xr-x   1    0    0      10124 Oct 21 2005 [ 329120 00] German.bin 
+-r-xr-xr-x   1    0    0       9634 Oct 21 2005 [ 340160 00] Italian.bin 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2005 [     40 02] PRX 
+-r-xr-xr-x   1    0    0         86 Oct 12 2005 [ 374960 00] Replace_MOB_Assets.bat 
+-r-xr-xr-x   1    0    0      10222 Oct 21 2005 [ 376912 00] Spanish.bin 
+-r-xr-xr-x   1    0    0    2603008 Sep  1 2005 [ 292608 00] air1.pmf 
+-r-xr-xr-x   1    0    0    2048000 Sep  5 2005 [ 293888 00] air2.pmf 
+-r-xr-xr-x   1    0    0    1380352 Sep  5 2005 [ 294896 00] air3.pmf 
+-r-xr-xr-x   1    0    0    2459648 Aug 26 2005 [ 295584 00] air4.pmf 
+-r-xr-xr-x   1    0    0    3536896 Oct  7 2005 [ 296800 00] attractmode.pmf 
+-r-xr-xr-x   1    0    0    2510848 Oct  4 2005 [ 298528 00] attractmodebak.pmf 
+-r-xr-xr-x   1    0    0     999424 Aug 24 2005 [ 299760 00] congratsdiabolical.pmf 
+-r-xr-xr-x   1    0    0    1001472 Aug 24 2005 [ 300256 00] congratseasy.pmf 
+-r-xr-xr-x   1    0    0     999424 Aug 24 2005 [ 300752 00] congratsmoderate.pmf 
+-r-xr-xr-x   1    0    0     999424 Aug 24 2005 [ 301248 00] congratstough.pmf 
+-r-xr-xr-x   1    0    0    3031040 Sep 23 2005 [ 301744 00] difficultcomplete.pmf 
+-r-xr-xr-x   1    0    0    2603008 Aug 26 2005 [ 303232 00] earth1.pmf 
+-r-xr-xr-x   1    0    0    2172928 Aug 26 2005 [ 304512 00] earth2.pmf 
+-r-xr-xr-x   1    0    0    2510848 Sep  6 2005 [ 305584 00] earth3.pmf 
+-r-xr-xr-x   1    0    0    2570240 Sep 15 2005 [ 306816 00] earth4.pmf 
+-r-xr-xr-x   1    0    0    3026944 Sep 23 2005 [ 308080 00] easycomplete.pmf 
+-r-xr-xr-x   1    0    0    3024896 Oct  5 2005 [ 316512 00] f_difficultcomplete.pmf 
+-r-xr-xr-x   1    0    0    3010560 Oct  5 2005 [ 318000 00] f_easycomplete.pmf 
+-r-xr-xr-x   1    0    0    3039232 Oct  5 2005 [ 319472 00] f_fiendishcomplete.pmf 
+-r-xr-xr-x   1    0    0    5787648 Oct 19 2005 [ 320960 00] f_gameclear.pmf 
+-r-xr-xr-x   1    0    0     768000 Oct 10 2005 [ 323792 00] f_lose.pmf 
+-r-xr-xr-x   1    0    0    3045376 Oct  5 2005 [ 324176 00] f_mildcomplete.pmf 
+-r-xr-xr-x   1    0    0     765952 Oct 10 2005 [ 325664 00] f_win.pmf 
+-r-xr-xr-x   1    0    0    3037184 Sep 23 2005 [ 309584 00] fiendishcomplete.pmf 
+-r-xr-xr-x   1    0    0    2547712 Sep 20 2005 [ 311072 00] fire1.pmf 
+-r-xr-xr-x   1    0    0    2508800 Sep  5 2005 [ 312320 00] fire2.pmf 
+-r-xr-xr-x   1    0    0    2365440 Sep  5 2005 [ 313552 00] fire3.pmf 
+-r-xr-xr-x   1    0    0    2215936 Aug 26 2005 [ 314720 00] fire4.pmf 
+-r-xr-xr-x   1    0    0    1404928 Sep  1 2005 [ 315808 00] fireworks.pmf 
+-r-xr-xr-x   1    0    0    3022848 Oct  5 2005 [ 329136 00] g_difficultcomplete.pmf 
+-r-xr-xr-x   1    0    0    3024896 Oct  5 2005 [ 330624 00] g_easycomplete.pmf 
+-r-xr-xr-x   1    0    0    3035136 Oct  5 2005 [ 332112 00] g_fiendishcomplete.pmf 
+-r-xr-xr-x   1    0    0    5789696 Oct  5 2005 [ 333600 00] g_gameclear.pmf 
+-r-xr-xr-x   1    0    0     763904 Oct 10 2005 [ 336432 00] g_lose.pmf 
+-r-xr-xr-x   1    0    0    3045376 Oct  5 2005 [ 336816 00] g_mildcomplete.pmf 
+-r-xr-xr-x   1    0    0     768000 Oct 10 2005 [ 338304 00] g_win.pmf 
+-r-xr-xr-x   1    0    0    5789696 Sep 23 2005 [ 326048 00] gameclear.pmf 
+-r-xr-xr-x   1    0    0     468992 Sep 20 2005 [ 328880 00] gameshare.pmf 
+-r-xr-xr-x   1    0    0    3028992 Oct  5 2005 [ 340176 00] i_difficultcomplete.pmf 
+-r-xr-xr-x   1    0    0    3022848 Oct  5 2005 [ 341664 00] i_easycomplete.pmf 
+-r-xr-xr-x   1    0    0    3035136 Oct  5 2005 [ 343152 00] i_fiendishcomplete.pmf 
+-r-xr-xr-x   1    0    0    5789696 Oct 19 2005 [ 344640 00] i_gameclear.pmf 
+-r-xr-xr-x   1    0    0     765952 Oct 10 2005 [ 347472 00] i_lose.pmf 
+-r-xr-xr-x   1    0    0    3049472 Oct  5 2005 [ 347856 00] i_mildcomplete.pmf 
+-r-xr-xr-x   1    0    0     768000 Oct 10 2005 [ 349360 00] i_win.pmf 
+-r-xr-xr-x   1    0    0    2983936 Sep 23 2005 [ 338688 00] intro.pmf 
+dr-xr-xr-x   1    0    0       2048 Sep 30 2005 [     41 02] levels 
+-r-xr-xr-x   1    0    0     763904 Oct 10 2005 [ 350544 00] lose.pmf 
+-r-xr-xr-x   1    0    0     468992 Sep 20 2005 [ 350928 00] menu.pmf 
+-r-xr-xr-x   1    0    0    3047424 Sep 23 2005 [ 351168 00] mildcomplete.pmf 
+-r-xr-xr-x   1    0    0     131296 Oct 15 2005 [ 352656 00] mob_FontPack_xst 
+-r-xr-xr-x   1    0    0    1783584 Oct 18 2005 [ 353008 00] mob_NEW_CVT_english_xst 
+-r-xr-xr-x   1    0    0    1783584 Oct 18 2005 [ 353888 00] mob_NEW_CVT_french_xst 
+-r-xr-xr-x   1    0    0    1783584 Oct 18 2005 [ 354768 00] mob_NEW_CVT_german_xst 
+-r-xr-xr-x   1    0    0    1783584 Oct 18 2005 [ 355648 00] mob_NEW_CVT_italian_xst 
+-r-xr-xr-x   1    0    0    1783584 Oct 18 2005 [ 356528 00] mob_NEW_CVT_spanish_xst 
+-r-xr-xr-x   1    0    0     527952 Oct 10 2005 [ 352736 00] mob_NewPack_xst 
+-r-xr-xr-x   1    0    0    4194688 Oct 10 2005 [ 357408 00] mob_PhotoBackground_xst 
+-r-xr-xr-x   1    0    0     332112 Oct 18 2005 [ 359472 00] mob_Sudo_air_english_xst 
+-r-xr-xr-x   1    0    0     332112 Oct 19 2005 [ 359648 00] mob_Sudo_air_french_xst 
+-r-xr-xr-x   1    0    0     332112 Oct 19 2005 [ 359824 00] mob_Sudo_air_german_xst 
+-r-xr-xr-x   1    0    0     332112 Oct 19 2005 [ 360000 00] mob_Sudo_air_italian_xst 
+-r-xr-xr-x   1    0    0     332112 Oct 19 2005 [ 360176 00] mob_Sudo_air_spanish_xst 
+-r-xr-xr-x   1    0    0     332112 Oct 18 2005 [ 360352 00] mob_Sudo_default_english_xst 
+-r-xr-xr-x   1    0    0     332112 Oct 19 2005 [ 360528 00] mob_Sudo_default_french_xst 
+-r-xr-xr-x   1    0    0     332112 Oct 19 2005 [ 360704 00] mob_Sudo_default_german_xst 
+-r-xr-xr-x   1    0    0     332112 Oct 19 2005 [ 360880 00] mob_Sudo_default_italian_xst 
+-r-xr-xr-x   1    0    0     332112 Oct 19 2005 [ 361056 00] mob_Sudo_default_spanish_xst 
+-r-xr-xr-x   1    0    0     332112 Oct 18 2005 [ 361232 00] mob_Sudo_earth_english_xst 
+-r-xr-xr-x   1    0    0     332112 Oct 19 2005 [ 361408 00] mob_Sudo_earth_french_xst 
+-r-xr-xr-x   1    0    0     332112 Oct 19 2005 [ 361584 00] mob_Sudo_earth_german_xst 
+-r-xr-xr-x   1    0    0     332112 Oct 19 2005 [ 361760 00] mob_Sudo_earth_italian_xst 
+-r-xr-xr-x   1    0    0     332112 Oct 19 2005 [ 361936 00] mob_Sudo_earth_spanish_xst 
+-r-xr-xr-x   1    0    0     332112 Oct 18 2005 [ 362112 00] mob_Sudo_fire_english_xst 
+-r-xr-xr-x   1    0    0     332112 Oct 19 2005 [ 362288 00] mob_Sudo_fire_french_xst 
+-r-xr-xr-x   1    0    0     332112 Oct 19 2005 [ 362464 00] mob_Sudo_fire_german_xst 
+-r-xr-xr-x   1    0    0     332112 Oct 19 2005 [ 362640 00] mob_Sudo_fire_italian_xst 
+-r-xr-xr-x   1    0    0     332112 Oct 19 2005 [ 362816 00] mob_Sudo_fire_spanish_xst 
+-r-xr-xr-x   1    0    0     332112 Oct 18 2005 [ 362992 00] mob_Sudo_water_english_xst 
+-r-xr-xr-x   1    0    0     332112 Oct 19 2005 [ 363168 00] mob_Sudo_water_french_xst 
+-r-xr-xr-x   1    0    0     332112 Oct 19 2005 [ 363344 00] mob_Sudo_water_german_xst 
+-r-xr-xr-x   1    0    0     332112 Oct 19 2005 [ 363520 00] mob_Sudo_water_italian_xst 
+-r-xr-xr-x   1    0    0     332112 Oct 19 2005 [ 363696 00] mob_Sudo_water_spanish_xst 
+-r-xr-xr-x   1    0    0     527792 Oct 18 2005 [ 363872 00] mob_Tutorial_english_xst 
+-r-xr-xr-x   1    0    0     527792 Oct 18 2005 [ 364144 00] mob_Tutorial_french_xst 
+-r-xr-xr-x   1    0    0     527792 Oct 18 2005 [ 364416 00] mob_Tutorial_german_xst 
+-r-xr-xr-x   1    0    0     527792 Oct 18 2005 [ 364688 00] mob_Tutorial_italian_xst 
+-r-xr-xr-x   1    0    0     527792 Oct 18 2005 [ 364960 00] mob_Tutorial_spanish_xst 
+-r-xr-xr-x   1    0    0    1194404 Sep 14 2005 [ 365232 00] mus_ipartisan.at3 
+-r-xr-xr-x   1    0    0     811044 Sep 22 2005 [ 365824 00] mus_track0.at3 
+-r-xr-xr-x   1    0    0     917164 Sep 22 2005 [ 366224 00] mus_track1.at3 
+-r-xr-xr-x   1    0    0     830924 Sep 22 2005 [ 366672 00] mus_track10.at3 
+-r-xr-xr-x   1    0    0    1053524 Sep 22 2005 [ 367088 00] mus_track11.at3 
+-r-xr-xr-x   1    0    0     984084 Sep 22 2005 [ 367616 00] mus_track12.at3 
+-r-xr-xr-x   1    0    0     771844 Sep 22 2005 [ 368112 00] mus_track13.at3 
+-r-xr-xr-x   1    0    0     957204 Sep 22 2005 [ 368496 00] mus_track14.at3 
+-r-xr-xr-x   1    0    0     990804 Sep 22 2005 [ 368976 00] mus_track15.at3 
+-r-xr-xr-x   1    0    0     950764 Sep 22 2005 [ 369472 00] mus_track16.at3 
+-r-xr-xr-x   1    0    0     905684 Sep 22 2005 [ 369952 00] mus_track17.at3 
+-r-xr-xr-x   1    0    0     937604 Sep 22 2005 [ 370400 00] mus_track18.at3 
+-r-xr-xr-x   1    0    0     937604 Sep 21 2005 [ 370864 00] mus_track19.at3 
+-r-xr-xr-x   1    0    0     910724 Sep 22 2005 [ 371328 00] mus_track2.at3 
+-r-xr-xr-x   1    0    0     942644 Sep 22 2005 [ 371776 00] mus_track3.at3 
+-r-xr-xr-x   1    0    0    1019644 Sep 22 2005 [ 372240 00] mus_track4.at3 
+-r-xr-xr-x   1    0    0     940404 Sep 22 2005 [ 372752 00] mus_track5.at3 
+-r-xr-xr-x   1    0    0     616724 Sep 22 2005 [ 373216 00] mus_track6.at3 
+-r-xr-xr-x   1    0    0     806564 Sep 22 2005 [ 373520 00] mus_track7.at3 
+-r-xr-xr-x   1    0    0     944884 Sep 22 2005 [ 373920 00] mus_track8.at3 
+-r-xr-xr-x   1    0    0     905124 Sep 22 2005 [ 374384 00] mus_track9.at3 
+-r-xr-xr-x   1    0    0    3024896 Oct  5 2005 [ 391312 00] s_difficultcomplete.pmf 
+-r-xr-xr-x   1    0    0    3022848 Oct  5 2005 [ 392800 00] s_easycomplete.pmf 
+-r-xr-xr-x   1    0    0    3039232 Oct  5 2005 [ 394288 00] s_fiendishcomplete.pmf 
+-r-xr-xr-x   1    0    0    5789696 Oct  5 2005 [ 395776 00] s_gameclear.pmf 
+-r-xr-xr-x   1    0    0     768000 Oct 10 2005 [ 398608 00] s_lose.pmf 
+-r-xr-xr-x   1    0    0    3047424 Oct  5 2005 [ 398992 00] s_mildcomplete.pmf 
+-r-xr-xr-x   1    0    0     765952 Oct 10 2005 [ 400480 00] s_win.pmf 
+-r-xr-xr-x   1    0    0     129024 Sep 22 2005 [ 374976 00] scee.pmf 
+-r-xr-xr-x   1    0    0      56012 Oct 18 2005 [ 375040 00] seq_NEW_CVT 
+-r-xr-xr-x   1    0    0     122948 Oct 18 2005 [ 375072 00] seq_Sudo_air_english 
+-r-xr-xr-x   1    0    0     122948 Oct 19 2005 [ 375136 00] seq_Sudo_air_french 
+-r-xr-xr-x   1    0    0     122948 Oct 19 2005 [ 375200 00] seq_Sudo_air_german 
+-r-xr-xr-x   1    0    0     122948 Oct 19 2005 [ 375264 00] seq_Sudo_air_italian 
+-r-xr-xr-x   1    0    0     122948 Oct 19 2005 [ 375328 00] seq_Sudo_air_spanish 
+-r-xr-xr-x   1    0    0     122948 Oct 18 2005 [ 375392 00] seq_Sudo_default_english 
+-r-xr-xr-x   1    0    0     122948 Oct 19 2005 [ 375456 00] seq_Sudo_default_french 
+-r-xr-xr-x   1    0    0     122948 Oct 19 2005 [ 375520 00] seq_Sudo_default_german 
+-r-xr-xr-x   1    0    0     122948 Oct 19 2005 [ 375584 00] seq_Sudo_default_italian 
+-r-xr-xr-x   1    0    0     122948 Oct 19 2005 [ 375648 00] seq_Sudo_default_spanish 
+-r-xr-xr-x   1    0    0     122948 Oct 18 2005 [ 375712 00] seq_Sudo_earth_english 
+-r-xr-xr-x   1    0    0     122948 Oct 19 2005 [ 375776 00] seq_Sudo_earth_french 
+-r-xr-xr-x   1    0    0     122948 Oct 19 2005 [ 375840 00] seq_Sudo_earth_german 
+-r-xr-xr-x   1    0    0     122948 Oct 19 2005 [ 375904 00] seq_Sudo_earth_italian 
+-r-xr-xr-x   1    0    0     122948 Oct 19 2005 [ 375968 00] seq_Sudo_earth_spanish 
+-r-xr-xr-x   1    0    0     122948 Oct 18 2005 [ 376032 00] seq_Sudo_fire_english 
+-r-xr-xr-x   1    0    0     122948 Oct 19 2005 [ 376096 00] seq_Sudo_fire_french 
+-r-xr-xr-x   1    0    0     122948 Oct 19 2005 [ 376160 00] seq_Sudo_fire_german 
+-r-xr-xr-x   1    0    0     122948 Oct 19 2005 [ 376224 00] seq_Sudo_fire_italian 
+-r-xr-xr-x   1    0    0     122948 Oct 19 2005 [ 376288 00] seq_Sudo_fire_spanish 
+-r-xr-xr-x   1    0    0     122948 Oct 18 2005 [ 376352 00] seq_Sudo_water_english 
+-r-xr-xr-x   1    0    0     122948 Oct 19 2005 [ 376416 00] seq_Sudo_water_french 
+-r-xr-xr-x   1    0    0     122948 Oct 19 2005 [ 376480 00] seq_Sudo_water_german 
+-r-xr-xr-x   1    0    0     122948 Oct 19 2005 [ 376544 00] seq_Sudo_water_italian 
+-r-xr-xr-x   1    0    0     122948 Oct 19 2005 [ 376608 00] seq_Sudo_water_spanish 
+-r-xr-xr-x   1    0    0      71876 Oct 18 2005 [ 376672 00] seq_Tutorial_english 
+-r-xr-xr-x   1    0    0      71876 Oct 18 2005 [ 376720 00] seq_Tutorial_french 
+-r-xr-xr-x   1    0    0      71876 Oct 18 2005 [ 376768 00] seq_Tutorial_german 
+-r-xr-xr-x   1    0    0      71876 Oct 18 2005 [ 376816 00] seq_Tutorial_italian 
+-r-xr-xr-x   1    0    0      71876 Oct 18 2005 [ 376864 00] seq_Tutorial_spanish 
+-r-xr-xr-x   1    0    0    5690944 Oct 18 2005 [ 376928 00] sudoku_english.dat 
+-r-xr-xr-x   1    0    0    5692992 Oct 18 2005 [ 379712 00] sudoku_french.dat 
+-r-xr-xr-x   1    0    0    5693312 Oct 18 2005 [ 382496 00] sudoku_german.dat 
+-r-xr-xr-x   1    0    0    5692800 Oct 18 2005 [ 385280 00] sudoku_italian.dat 
+-r-xr-xr-x   1    0    0    5693376 Oct 18 2005 [ 388064 00] sudoku_spanish.dat 
+-r-xr-xr-x   1    0    0     935936 Sep  5 2005 [ 390848 00] sumo.pmf 
+-r-xr-xr-x   1    0    0    2213888 Aug 26 2005 [ 400864 00] water1.pmf 
+-r-xr-xr-x   1    0    0    2897920 Sep  2 2005 [ 401952 00] water2.pmf 
+-r-xr-xr-x   1    0    0    2560000 Sep 16 2005 [ 403376 00] water3.pmf 
+-r-xr-xr-x   1    0    0    2586624 Aug 31 2005 [ 404640 00] water4.pmf 
+-r-xr-xr-x   1    0    0    1166698 Oct  4 2005 [ 405904 00] waveairstereo.bin 
+-r-xr-xr-x   1    0    0     873738 Oct  4 2005 [ 406480 00] waveearthstereo.bin 
+-r-xr-xr-x   1    0    0    1051370 Oct  4 2005 [ 406912 00] wavefirestereo.bin 
+-r-xr-xr-x   1    0    0     331662 Oct  4 2005 [ 407440 00] wavemenu.bin 
+-r-xr-xr-x   1    0    0     623514 Oct  4 2005 [ 407616 00] wavemenustereo.bin 
+-r-xr-xr-x   1    0    0     601014 Oct  4 2005 [ 407936 00] wavewater.bin 
+-r-xr-xr-x   1    0    0    1202026 Oct  4 2005 [ 408240 00] wavewaterstereo.bin 
+-r-xr-xr-x   1    0    0     772096 Oct 10 2005 [ 408832 00] win.pmf 
+-r-xr-xr-x   1    0    0    3090432 Aug 22 2005 [ 409216 00] zoom.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/bin/
+dr-xr-xr-x   1    0    0       2048 Jul 23 2008 [     36 02] . 
+dr-xr-xr-x   1    0    0       2048 May  7 2008 [     25 02] .. 
+-r-xr-xr-x   1    0    0    3642633 Jan 18 2006 [  56384 00] lemmings.prx 
+-r-xr-xr-x   1    0    0    1560485 Oct 29 2007 [  58176 00] puzzle.prx 
+-r-xr-xr-x   1    0    0     915237 Nov  3 2005 [  58944 00] sudoku.prx 
+
+Directory listing of /PSP_GAME/USRDIR/module/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     37 02] . 
+dr-xr-xr-x   1    0    0       2048 May  7 2008 [     25 02] .. 
+-r-xr-xr-x   1    0    0       3312 Oct 19 2005 [  70112 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0       1088 Oct 27 2005 [  70128 00] libadler.prx 
+-r-xr-xr-x   1    0    0      10128 Oct 27 2005 [  70144 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0       1472 Oct 27 2005 [  70160 00] libbase64.prx 
+-r-xr-xr-x   1    0    0       3488 Oct 27 2005 [  70176 00] libccc.prx 
+-r-xr-xr-x   1    0    0       4416 Oct 27 2005 [  70192 00] libdeflt.prx 
+-r-xr-xr-x   1    0    0      23296 Oct 27 2005 [  70208 00] libfont.prx 
+-r-xr-xr-x   1    0    0       3664 Oct 27 2005 [  70224 00] libfpu.prx 
+-r-xr-xr-x   1    0    0       2384 Oct 27 2005 [  70240 00] libmd5.prx 
+-r-xr-xr-x   1    0    0       1296 Oct 27 2005 [  70256 00] libmt19937.prx 
+-r-xr-xr-x   1    0    0       1936 Oct 27 2005 [  70272 00] libqpcode.prx 
+-r-xr-xr-x   1    0    0       2576 Oct 27 2005 [  70288 00] libsha1.prx 
+-r-xr-xr-x   1    0    0       2912 Oct 27 2005 [  70304 00] libsha224.prx 
+-r-xr-xr-x   1    0    0       2912 Oct 27 2005 [  70320 00] libsha256.prx 
+-r-xr-xr-x   1    0    0      23088 Oct 27 2005 [  70336 00] mpeg.prx 
+-r-xr-xr-x   1    0    0       5392 Oct 19 2005 [  70352 00] mpegbase.prx 
+-r-xr-xr-x   1    0    0       2448 Oct 27 2005 [  70368 00] pspnet_ap_dialog_dummy.prx 
+-r-xr-xr-x   1    0    0       6832 Oct 19 2005 [  70384 00] sc_sascore.prx 
+-r-xr-xr-x   1    0    0       3504 Oct 19 2005 [  70400 00] videocodec.prx 
+
+Directory listing of /PSP_GAME/USRDIR/Data/Common/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     38 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 16 2006 [     27 02] .. 
+-r-xr-xr-x   1    0    0         68 Jan 18 2006 [  90880 00] Default.cfg 
+
+Directory listing of /PSP_GAME/USRDIR/Data/PSP/
+dr-xr-xr-x   1    0    0       2048 Dec 12 2005 [     39 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 16 2006 [     27 02] .. 
+dr-xr-xr-x   1    0    0      10240 Jan 18 2006 [     42 02] Levels 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     47 02] Movies 
+
+Directory listing of /PSP_GAME/USRDIR/SUDOKU/PRX/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2005 [     40 02] . 
+dr-xr-xr-x   1    0    0      12288 Oct 21 2005 [     30 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2005 [     48 02] KMODULE 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2005 [     49 02] MODULE 
+
+Directory listing of /PSP_GAME/USRDIR/SUDOKU/levels/
+dr-xr-xr-x   1    0    0       2048 Sep 30 2005 [     41 02] . 
+dr-xr-xr-x   1    0    0      12288 Oct 21 2005 [     30 02] .. 
+-r-xr-xr-x   1    0    0      72817 Sep 27 2005 [ 349808 00] DIFFICULT.TXT 
+-r-xr-xr-x   1    0    0     196998 Sep 27 2005 [ 349856 00] EASY.TXT 
+-r-xr-xr-x   1    0    0      36594 Sep 27 2005 [ 349968 00] FIENDISH.TXT 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2005 [     50 02] FINAL 
+-r-xr-xr-x   1    0    0       2645 Sep 30 2005 [ 350432 00] GAMESHARE_EASY.TXT 
+-r-xr-xr-x   1    0    0     143466 Sep 27 2005 [ 350448 00] MILD.TXT 
+dr-xr-xr-x   1    0    0       2048 Sep 18 2005 [     51 02] bak180905 
+-r-xr-xr-x   1    0    0       2553 Aug 15 2005 [ 350528 00] test.txt 
+
+Directory listing of /PSP_GAME/USRDIR/Data/PSP/Levels/
+dr-xr-xr-x   1    0    0      10240 Jan 18 2006 [     42 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 12 2005 [     39 02] .. 
+-r-xr-xr-x   1    0    0    5222400 Jan 11 2006 [  90896 00] EditPatches.paw 
+-r-xr-xr-x   1    0    0    1863680 Dec  2 2005 [  93456 00] fun001.paw 
+-r-xr-xr-x   1    0    0    1218560 Dec  2 2005 [  94368 00] fun002.paw 
+-r-xr-xr-x   1    0    0    1413120 Dec  2 2005 [  94976 00] fun003.paw 
+-r-xr-xr-x   1    0    0    1699840 Dec  2 2005 [  95680 00] fun004.paw 
+-r-xr-xr-x   1    0    0    2826240 Dec  2 2005 [  96512 00] fun005.paw 
+-r-xr-xr-x   1    0    0    1986560 Dec  2 2005 [  97904 00] fun006.paw 
+-r-xr-xr-x   1    0    0    2426880 Dec  2 2005 [  98880 00] fun007.paw 
+-r-xr-xr-x   1    0    0    2396160 Dec  2 2005 [ 100080 00] fun008.paw 
+-r-xr-xr-x   1    0    0     389120 Dec  2 2005 [ 101264 00] fun009.paw 
+-r-xr-xr-x   1    0    0    2191360 Dec  2 2005 [ 101456 00] fun010.paw 
+-r-xr-xr-x   1    0    0     962560 Dec  2 2005 [ 102528 00] fun011.paw 
+-r-xr-xr-x   1    0    0     931840 Dec  2 2005 [ 103008 00] fun012.paw 
+-r-xr-xr-x   1    0    0    3112960 Dec  2 2005 [ 103472 00] fun013.paw 
+-r-xr-xr-x   1    0    0    1914880 Dec  2 2005 [ 104992 00] fun014.paw 
+-r-xr-xr-x   1    0    0    2344960 Dec  2 2005 [ 105936 00] fun015.paw 
+-r-xr-xr-x   1    0    0    2058240 Dec  2 2005 [ 107088 00] fun016.paw 
+-r-xr-xr-x   1    0    0    1484800 Dec  2 2005 [ 108096 00] fun017.paw 
+-r-xr-xr-x   1    0    0    1628160 Dec  2 2005 [ 108832 00] fun018.paw 
+-r-xr-xr-x   1    0    0    2273280 Dec  2 2005 [ 109632 00] fun019.paw 
+-r-xr-xr-x   1    0    0    2088960 Dec  2 2005 [ 110752 00] fun020.paw 
+-r-xr-xr-x   1    0    0    3041280 Dec  2 2005 [ 111776 00] fun021.paw 
+-r-xr-xr-x   1    0    0    2693120 Dec  2 2005 [ 113264 00] fun022.paw 
+-r-xr-xr-x   1    0    0    3338240 Dec  2 2005 [ 114592 00] fun023.paw 
+-r-xr-xr-x   1    0    0    1648640 Dec  2 2005 [ 116224 00] fun024.paw 
+-r-xr-xr-x   1    0    0    1638400 Dec  2 2005 [ 117040 00] fun025.paw 
+-r-xr-xr-x   1    0    0    2549760 Dec  2 2005 [ 117840 00] fun026.paw 
+-r-xr-xr-x   1    0    0    1771520 Dec  2 2005 [ 119088 00] fun027.paw 
+-r-xr-xr-x   1    0    0    2662400 Dec  2 2005 [ 119968 00] fun028.paw 
+-r-xr-xr-x   1    0    0    1761280 Dec  2 2005 [ 121280 00] fun029.paw 
+-r-xr-xr-x   1    0    0    1341440 Dec  2 2005 [ 122144 00] fun030.paw 
+-r-xr-xr-x   1    0    0    2826240 Dec  2 2005 [ 122800 00] may001.paw 
+-r-xr-xr-x   1    0    0    2344960 Dec  2 2005 [ 124192 00] may002.paw 
+-r-xr-xr-x   1    0    0    1648640 Dec  2 2005 [ 125344 00] may003.paw 
+-r-xr-xr-x   1    0    0    1638400 Dec  2 2005 [ 126160 00] may004.paw 
+-r-xr-xr-x   1    0    0    2662400 Dec  2 2005 [ 126960 00] may005.paw 
+-r-xr-xr-x   1    0    0    2682880 Dec  2 2005 [ 128272 00] may006.paw 
+-r-xr-xr-x   1    0    0    2088960 Dec  2 2005 [ 129584 00] may007.paw 
+-r-xr-xr-x   1    0    0    1935360 Dec  2 2005 [ 130608 00] may008.paw 
+-r-xr-xr-x   1    0    0    1761280 Dec  2 2005 [ 131568 00] may009.paw 
+-r-xr-xr-x   1    0    0    1689600 Dec  2 2005 [ 132432 00] may010.paw 
+-r-xr-xr-x   1    0    0    3112960 Dec  2 2005 [ 133264 00] may011.paw 
+-r-xr-xr-x   1    0    0    1730560 Dec  2 2005 [ 134784 00] may012.paw 
+-r-xr-xr-x   1    0    0    2549760 Dec  2 2005 [ 135632 00] may013.paw 
+-r-xr-xr-x   1    0    0    1208320 Dec  2 2005 [ 136880 00] may014.paw 
+-r-xr-xr-x   1    0    0    2058240 Dec  2 2005 [ 137472 00] may015.paw 
+-r-xr-xr-x   1    0    0    1300480 Dec  2 2005 [ 138480 00] may016.paw 
+-r-xr-xr-x   1    0    0    1505280 Dec  2 2005 [ 139120 00] may017.paw 
+-r-xr-xr-x   1    0    0    2508800 Dec  2 2005 [ 139856 00] may018.paw 
+-r-xr-xr-x   1    0    0    1464320 Dec  2 2005 [ 141088 00] may019.paw 
+-r-xr-xr-x   1    0    0    1699840 Dec  2 2005 [ 141808 00] may020.paw 
+-r-xr-xr-x   1    0    0    1556480 Dec  2 2005 [ 142640 00] may021.paw 
+-r-xr-xr-x   1    0    0    2109440 Dec  2 2005 [ 143408 00] may022.paw 
+-r-xr-xr-x   1    0    0    2457600 Dec  2 2005 [ 144448 00] may023.paw 
+-r-xr-xr-x   1    0    0    1341440 Dec  2 2005 [ 145648 00] may024.paw 
+-r-xr-xr-x   1    0    0    1003520 Dec  2 2005 [ 146304 00] may025.paw 
+-r-xr-xr-x   1    0    0    3041280 Dec  2 2005 [ 146800 00] may026.paw 
+-r-xr-xr-x   1    0    0    1300480 Dec  2 2005 [ 148288 00] may027.paw 
+-r-xr-xr-x   1    0    0    2775040 Dec  2 2005 [ 148928 00] may028.paw 
+-r-xr-xr-x   1    0    0    2826240 Dec  2 2005 [ 150288 00] may029.paw 
+-r-xr-xr-x   1    0    0    2734080 Dec  2 2005 [ 151680 00] may030.paw 
+-r-xr-xr-x   1    0    0    2344960 Dec  2 2005 [ 153024 00] tax001.paw 
+-r-xr-xr-x   1    0    0    2979840 Dec  2 2005 [ 154176 00] tax002.paw 
+-r-xr-xr-x   1    0    0    2058240 Dec  2 2005 [ 155632 00] tax003.paw 
+-r-xr-xr-x   1    0    0    2170880 Dec  2 2005 [ 156640 00] tax004.paw 
+-r-xr-xr-x   1    0    0    1013760 Dec  2 2005 [ 157712 00] tax005.paw 
+-r-xr-xr-x   1    0    0    1484800 Dec  2 2005 [ 158208 00] tax006.paw 
+-r-xr-xr-x   1    0    0    1822720 Dec  2 2005 [ 158944 00] tax007.paw 
+-r-xr-xr-x   1    0    0    2600960 Dec  2 2005 [ 159840 00] tax008.paw 
+-r-xr-xr-x   1    0    0    2191360 Dec  2 2005 [ 161120 00] tax009.paw 
+-r-xr-xr-x   1    0    0    1607680 Dec  2 2005 [ 162192 00] tax010.paw 
+-r-xr-xr-x   1    0    0    1996800 Dec  2 2005 [ 162992 00] tax011.paw 
+-r-xr-xr-x   1    0    0    2314240 Dec  2 2005 [ 163968 00] tax012.paw 
+-r-xr-xr-x   1    0    0    1894400 Dec  2 2005 [ 165104 00] tax013.paw 
+-r-xr-xr-x   1    0    0    1884160 Dec  2 2005 [ 166032 00] tax014.paw 
+-r-xr-xr-x   1    0    0    2836480 Dec  2 2005 [ 166960 00] tax015.paw 
+-r-xr-xr-x   1    0    0    1781760 Dec  2 2005 [ 168352 00] tax016.paw 
+-r-xr-xr-x   1    0    0    3338240 Dec  2 2005 [ 169232 00] tax017.paw 
+-r-xr-xr-x   1    0    0     962560 Dec  2 2005 [ 170864 00] tax018.paw 
+-r-xr-xr-x   1    0    0    1628160 Dec  2 2005 [ 171344 00] tax019.paw 
+-r-xr-xr-x   1    0    0    1597440 Dec  2 2005 [ 172144 00] tax020.paw 
+-r-xr-xr-x   1    0    0     972800 Dec  2 2005 [ 172928 00] tax021.paw 
+-r-xr-xr-x   1    0    0    1771520 Dec  2 2005 [ 173408 00] tax022.paw 
+-r-xr-xr-x   1    0    0    1290240 Dec  2 2005 [ 174288 00] tax023.paw 
+-r-xr-xr-x   1    0    0    2928640 Dec  2 2005 [ 174928 00] tax024.paw 
+-r-xr-xr-x   1    0    0    2273280 Dec  2 2005 [ 176368 00] tax025.paw 
+-r-xr-xr-x   1    0    0    1085440 Dec  2 2005 [ 177488 00] tax026.paw 
+-r-xr-xr-x   1    0    0    1331200 Dec  2 2005 [ 178032 00] tax027.paw 
+-r-xr-xr-x   1    0    0    3205120 Dec  2 2005 [ 178688 00] tax028.paw 
+-r-xr-xr-x   1    0    0    1761280 Dec  2 2005 [ 180256 00] tax029.paw 
+-r-xr-xr-x   1    0    0    3112960 Dec  2 2005 [ 181120 00] tax030.paw 
+-r-xr-xr-x   1    0    0    1054720 Dec  2 2005 [ 182640 00] team001.paw 
+-r-xr-xr-x   1    0    0    1157120 Dec  2 2005 [ 183168 00] team002.paw 
+-r-xr-xr-x   1    0    0    1372160 Dec  2 2005 [ 183744 00] team003.paw 
+-r-xr-xr-x   1    0    0     911360 Dec  2 2005 [ 184416 00] team004.paw 
+-r-xr-xr-x   1    0    0    1597440 Dec  2 2005 [ 184864 00] team005.paw 
+-r-xr-xr-x   1    0    0    1648640 Dec  2 2005 [ 185648 00] team006.paw 
+-r-xr-xr-x   1    0    0    1710080 Dec  2 2005 [ 186464 00] team007.paw 
+-r-xr-xr-x   1    0    0    1280000 Dec  2 2005 [ 187312 00] team008.paw 
+-r-xr-xr-x   1    0    0    1556480 Dec  2 2005 [ 187952 00] team009.paw 
+-r-xr-xr-x   1    0    0    1935360 Dec  2 2005 [ 188720 00] team010.paw 
+-r-xr-xr-x   1    0    0     870400 Dec  2 2005 [ 189680 00] team011.paw 
+-r-xr-xr-x   1    0    0    2457600 Dec  2 2005 [ 190112 00] team012.paw 
+-r-xr-xr-x   1    0    0    1955840 Dec  2 2005 [ 191312 00] team013.paw 
+-r-xr-xr-x   1    0    0    1402880 Dec  2 2005 [ 192272 00] team014.paw 
+-r-xr-xr-x   1    0    0    1495040 Dec  2 2005 [ 192960 00] team015.paw 
+-r-xr-xr-x   1    0    0    1699840 Dec  2 2005 [ 193696 00] team016.paw 
+-r-xr-xr-x   1    0    0    1280000 Dec  2 2005 [ 194528 00] team017.paw 
+-r-xr-xr-x   1    0    0     952320 Dec  2 2005 [ 195168 00] team018.paw 
+-r-xr-xr-x   1    0    0    2652160 Dec  2 2005 [ 195648 00] team019.paw 
+-r-xr-xr-x   1    0    0    1423360 Dec  2 2005 [ 196944 00] team020.paw 
+-r-xr-xr-x   1    0    0     890880 Dec  2 2005 [ 197648 00] team021.paw 
+-r-xr-xr-x   1    0    0    1669120 Dec  2 2005 [ 198096 00] team022.paw 
+-r-xr-xr-x   1    0    0    1239040 Dec  2 2005 [ 198912 00] team023.paw 
+-r-xr-xr-x   1    0    0     788480 Dec  2 2005 [ 199520 00] team024.paw 
+-r-xr-xr-x   1    0    0    1300480 Dec  2 2005 [ 199920 00] team025.paw 
+-r-xr-xr-x   1    0    0    2867200 Dec  2 2005 [ 200560 00] team026.paw 
+-r-xr-xr-x   1    0    0    2467840 Dec  2 2005 [ 201968 00] team027.paw 
+-r-xr-xr-x   1    0    0    1413120 Dec  2 2005 [ 203184 00] team028.paw 
+-r-xr-xr-x   1    0    0    1443840 Dec  2 2005 [ 203888 00] team029.paw 
+-r-xr-xr-x   1    0    0    1402880 Dec  2 2005 [ 204608 00] team030.paw 
+-r-xr-xr-x   1    0    0    1945600 Dec  2 2005 [ 205296 00] team031.paw 
+-r-xr-xr-x   1    0    0    1689600 Dec  2 2005 [ 206256 00] team032.paw 
+-r-xr-xr-x   1    0    0    1136640 Dec  2 2005 [ 207088 00] team033.paw 
+-r-xr-xr-x   1    0    0    2539520 Dec  2 2005 [ 207648 00] team034.paw 
+-r-xr-xr-x   1    0    0    2058240 Dec  2 2005 [ 208896 00] team035.paw 
+-r-xr-xr-x   1    0    0     972800 Dec  2 2005 [ 209904 00] team036.paw 
+-r-xr-xr-x   1    0    0    1699840 Dec  2 2005 [ 210384 00] team040.paw 
+-r-xr-xr-x   1    0    0    2150400 Dec  2 2005 [ 211216 00] tri001.paw 
+-r-xr-xr-x   1    0    0    3112960 Dec  2 2005 [ 212272 00] tri002.paw 
+-r-xr-xr-x   1    0    0    1761280 Dec  2 2005 [ 213792 00] tri003.paw 
+-r-xr-xr-x   1    0    0    1822720 Dec  2 2005 [ 214656 00] tri004.paw 
+-r-xr-xr-x   1    0    0    2600960 Dec  2 2005 [ 215552 00] tri005.paw 
+-r-xr-xr-x   1    0    0    1607680 Dec  2 2005 [ 216832 00] tri006.paw 
+-r-xr-xr-x   1    0    0    1996800 Dec  2 2005 [ 217632 00] tri007.paw 
+-r-xr-xr-x   1    0    0    1290240 Dec  2 2005 [ 218608 00] tri008.paw 
+-r-xr-xr-x   1    0    0    2682880 Dec  2 2005 [ 219248 00] tri009.paw 
+-r-xr-xr-x   1    0    0    2058240 Dec  2 2005 [ 220560 00] tri010.paw 
+-r-xr-xr-x   1    0    0    1464320 Dec  2 2005 [ 221568 00] tri011.paw 
+-r-xr-xr-x   1    0    0    1556480 Dec  2 2005 [ 222288 00] tri012.paw 
+-r-xr-xr-x   1    0    0    1003520 Dec  2 2005 [ 223056 00] tri013.paw 
+-r-xr-xr-x   1    0    0    2017280 Dec  2 2005 [ 223552 00] tri014.paw 
+-r-xr-xr-x   1    0    0    1863680 Dec  2 2005 [ 224544 00] tri015.paw 
+-r-xr-xr-x   1    0    0    2826240 Dec  2 2005 [ 225456 00] tri016.paw 
+-r-xr-xr-x   1    0    0    1986560 Dec  2 2005 [ 226848 00] tri017.paw 
+-r-xr-xr-x   1    0    0    1218560 Dec  2 2005 [ 227824 00] tri018.paw 
+-r-xr-xr-x   1    0    0    2426880 Dec  2 2005 [ 228432 00] tri019.paw 
+-r-xr-xr-x   1    0    0    2232320 Dec  2 2005 [ 229632 00] tri020.paw 
+-r-xr-xr-x   1    0    0    1638400 Dec  2 2005 [ 230736 00] tri021.paw 
+-r-xr-xr-x   1    0    0    2396160 Dec  2 2005 [ 231536 00] tri022.paw 
+-r-xr-xr-x   1    0    0     931840 Dec  2 2005 [ 232720 00] tri023.paw 
+-r-xr-xr-x   1    0    0    1167360 Dec  2 2005 [ 233184 00] tri024.paw 
+-r-xr-xr-x   1    0    0    2478080 Dec  2 2005 [ 233760 00] tri025.paw 
+-r-xr-xr-x   1    0    0     389120 Jan 11 2006 [ 234976 00] tri026.paw 
+-r-xr-xr-x   1    0    0    1966080 Dec  2 2005 [ 235168 00] tri027.paw 
+-r-xr-xr-x   1    0    0    1699840 Dec  2 2005 [ 236128 00] tri028.paw 
+-r-xr-xr-x   1    0    0    2519040 Dec  2 2005 [ 236960 00] tri029.paw 
+-r-xr-xr-x   1    0    0    1914880 Dec  2 2005 [ 238192 00] tri030.paw 
+
+Directory listing of /PSP_GAME/USRDIR/Data/PSP/Movies/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     47 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 12 2005 [     39 02] .. 
+-r-xr-xr-x   1    0    0   12980224 Dec 15 2005 [ 239136 00] credits.pmf 
+-r-xr-xr-x   1    0    0    2129920 Dec 14 2005 [ 245488 00] fun_complete.pmf 
+-r-xr-xr-x   1    0    0    2932736 Jan 11 2006 [ 246528 00] intro.pmf 
+-r-xr-xr-x   1    0    0    2920448 Jan 12 2006 [ 247968 00] intro_japan.pmf 
+-r-xr-xr-x   1    0    0     364544 Dec 19 2005 [ 249408 00] legal.pmf 
+-r-xr-xr-x   1    0    0     352256 Dec 16 2005 [ 249600 00] legal_america.pmf 
+-r-xr-xr-x   1    0    0     352256 Jan 16 2006 [ 249776 00] legal_japan.pmf 
+-r-xr-xr-x   1    0    0     507904 Dec 14 2005 [ 249952 00] lemmings_startup.pmf 
+-r-xr-xr-x   1    0    0    2193408 Dec 14 2005 [ 250208 00] mayhem_complete.pmf 
+-r-xr-xr-x   1    0    0     704512 Dec  1 2005 [ 251280 00] review_splash.pmf 
+-r-xr-xr-x   1    0    0     198656 Dec  5 2005 [ 251632 00] sonyLogo.pmf 
+-r-xr-xr-x   1    0    0     155648 Nov 14 2005 [ 251744 00] sony_logo_american.pmf 
+-r-xr-xr-x   1    0    0     155648 Nov 14 2005 [ 251824 00] sony_logo_english.pmf 
+-r-xr-xr-x   1    0    0     155648 Nov 14 2005 [ 251904 00] sony_logo_french.pmf 
+-r-xr-xr-x   1    0    0     159744 Nov 14 2005 [ 251984 00] sony_logo_german.pmf 
+-r-xr-xr-x   1    0    0     155648 Nov 14 2005 [ 252064 00] sony_logo_italian.pmf 
+-r-xr-xr-x   1    0    0     172032 Dec 16 2005 [ 252144 00] sony_logo_japan.pmf 
+-r-xr-xr-x   1    0    0     155648 Nov 14 2005 [ 252240 00] sony_logo_spanish.pmf 
+-r-xr-xr-x   1    0    0    1783808 Dec 14 2005 [ 252320 00] taxing_complete.pmf 
+-r-xr-xr-x   1    0    0     733184 Oct 27 2005 [ 253200 00] team17.pmf 
+-r-xr-xr-x   1    0    0    1869824 Dec 14 2005 [ 253568 00] team17_complete.pmf 
+-r-xr-xr-x   1    0    0    1144832 Dec 14 2005 [ 254496 00] tricky_complete.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/SUDOKU/PRX/KMODULE/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2005 [     48 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2005 [     40 02] .. 
+-r-xr-xr-x   1    0    0       3200 Aug  8 2005 [ 374832 00] AUDIOCODEC.PRX 
+-r-xr-xr-x   1    0    0       5792 Aug  8 2005 [ 374848 00] MPEGBASE.PRX 
+-r-xr-xr-x   1    0    0       6400 Aug  8 2005 [ 374864 00] SC_SASCORE.PRX 
+-r-xr-xr-x   1    0    0       4016 Aug  8 2005 [ 374880 00] VIDEOCODEC.PRX 
+
+Directory listing of /PSP_GAME/USRDIR/SUDOKU/PRX/MODULE/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2005 [     49 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2005 [     40 02] .. 
+-r-xr-xr-x   1    0    0      20288 Aug 15 2005 [ 374896 00] LIBATRAC3PLUS.PRX 
+-r-xr-xr-x   1    0    0      46160 Aug 15 2005 [ 374912 00] MPEG.PRX 
+-r-xr-xr-x   1    0    0      12704 Aug 15 2005 [ 374944 00] PSMF.PRX 
+
+Directory listing of /PSP_GAME/USRDIR/SUDOKU/levels/FINAL/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2005 [     50 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 30 2005 [     41 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 28 2005 [     52 02] DownloadLevels 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2005 [     53 02] Levels 
+
+Directory listing of /PSP_GAME/USRDIR/SUDOKU/levels/bak180905/
+dr-xr-xr-x   1    0    0       2048 Sep 18 2005 [     51 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 30 2005 [     41 02] .. 
+-r-xr-xr-x   1    0    0       2130 Aug 25 2005 [ 349744 00] DIFFICULT.TXT 
+-r-xr-xr-x   1    0    0       5451 Aug 25 2005 [ 349760 00] EASY.TXT 
+-r-xr-xr-x   1    0    0       2124 Aug 25 2005 [ 349776 00] FIENDISH.TXT 
+-r-xr-xr-x   1    0    0       2100 Aug 25 2005 [ 349792 00] MILD.TXT 
+
+Directory listing of /PSP_GAME/USRDIR/SUDOKU/levels/FINAL/DownloadLevels/
+dr-xr-xr-x   1    0    0       2048 Sep 28 2005 [     52 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2005 [     50 02] .. 
+-r-xr-xr-x   1    0    0      18556 Sep 27 2005 [ 350080 00] DIFFICULT.TXT 
+-r-xr-xr-x   1    0    0      36186 Sep 27 2005 [ 350096 00] EASY.TXT 
+-r-xr-xr-x   1    0    0       9474 Sep 27 2005 [ 350128 00] FIENDISH.TXT 
+-r-xr-xr-x   1    0    0      27246 Sep 27 2005 [ 350144 00] MILD.TXT 
+dr-xr-xr-x   1    0    0       2048 Sep 28 2005 [     54 02] bak 
+
+Directory listing of /PSP_GAME/USRDIR/SUDOKU/levels/FINAL/Levels/
+dr-xr-xr-x   1    0    0       2048 Sep 27 2005 [     53 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 27 2005 [     50 02] .. 
+-r-xr-xr-x   1    0    0      72817 Sep 27 2005 [ 350160 00] DIFFICULT.TXT 
+-r-xr-xr-x   1    0    0     196998 Sep 27 2005 [ 350208 00] EASY.TXT 
+-r-xr-xr-x   1    0    0      36594 Sep 27 2005 [ 350320 00] FIENDISH.TXT 
+-r-xr-xr-x   1    0    0     143466 Sep 27 2005 [ 350352 00] MILD.TXT 
+
+Directory listing of /PSP_GAME/USRDIR/SUDOKU/levels/FINAL/DownloadLevels/bak/
+dr-xr-xr-x   1    0    0       2048 Sep 28 2005 [     54 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 28 2005 [     52 02] .. 
+-r-xr-xr-x   1    0    0      18556 Sep 27 2005 [ 350000 00] DIFFICULT.TXT 
+-r-xr-xr-x   1    0    0      36186 Sep 27 2005 [ 350016 00] EASY.TXT 
+-r-xr-xr-x   1    0    0       9474 Sep 27 2005 [ 350048 00] FIENDISH.TXT 
+-r-xr-xr-x   1    0    0      27246 Sep 27 2005 [ 350064 00] MILD.TXT 
+=============================================================== 
+Generated on Sun 07/08/2022 at 19:29:07.84 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

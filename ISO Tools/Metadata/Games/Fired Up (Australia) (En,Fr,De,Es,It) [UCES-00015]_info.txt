@@ -1,0 +1,351 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Fired Up   
+Title ID: UCES-00015 
+Region: Australia  
+Languages: En,Fr,De,Es,It  
+Volume Creation Date: 2005-07-12 17:58:12 
+Volume Size: 227 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: SCEE_00015
+Volume set id: 0
+Publisher id: SCEE
+Data preparer id: ADRIAN O'GRADY
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 116224
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Jul 12 2005 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 12 2005 [     22 02] .. 
+-r-xr-xr-x   1    0    0         48 Mar 15 2005 [     53 00] UMD_DATA.BIN 
+dr-xr-xr-x   1    0    0       2048 Mar 15 2005 [     23 02] PSP_GAME 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Mar 15 2005 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 12 2005 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Mar 15 2005 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Mar 15 2005 [     25 02] USRDIR 
+-r-xr-xr-x   1    0    0        472 Jul  6 2005 [  21888 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0       6513 Mar 16 2005 [  21904 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     129863 Mar 16 2005 [  21920 00] PIC1.PNG 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Mar 15 2005 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 15 2005 [     23 02] .. 
+-r-xr-xr-x   1    0    0    2333472 Jul 12 2005 [     64 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Mar 15 2005 [     26 02] UPDATE 
+-r-xr-xr-x   1    0    0    2333125 Jul  6 2005 [  78416 00] BOOT.BIN 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Mar 15 2005 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 15 2005 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 Mar 15 2005 [     27 02] GENERAL 
+dr-xr-xr-x   1    0    0       2048 Mar 15 2005 [     28 02] MODULES 
+dr-xr-xr-x   1    0    0       2048 Mar 15 2005 [     29 02] MUSIC 
+dr-xr-xr-x   1    0    0       2048 Mar 21 2005 [     30 02] WEB 
+dr-xr-xr-x   1    0    0       2048 May 12 2005 [     31 02] UCES00006 
+dr-xr-xr-x   1    0    0       2048 May 20 2005 [     32 02] UCES00015 
+dr-xr-xr-x   1    0    0       2048 May 31 2005 [     33 02] UCES00001 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Mar 15 2005 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 15 2005 [     24 02] .. 
+-r-xr-xr-x   1    0    0       1732 Mar 15 2005 [   1216 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0    3680208 Mar 15 2005 [   1232 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0   10284528 Mar 15 2005 [   5328 00] DATA.BIN 
+
+Directory listing of /PSP_GAME/USRDIR/GENERAL/
+dr-xr-xr-x   1    0    0       2048 Mar 15 2005 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 15 2005 [     25 02] .. 
+-r-xr-xr-x   1    0    0    2348142 Jul 12 2005 [  94832 00] MP_RUINS.DRM 
+-r-xr-xr-x   1    0    0    2369766 Jul 12 2005 [  95984 00] MP_RUINS_RACE.DRM 
+-r-xr-xr-x   1    0    0    2309280 Jul 12 2005 [  97152 00] MP_RUINS_TEAM.DRM 
+-r-xr-xr-x   1    0    0    2278700 Jul 12 2005 [  98288 00] REPUBLIC_ARENA.DRM 
+-r-xr-xr-x   1    0    0    2491340 Jul 12 2005 [  99408 00] REPUBLIC_CITY.DRM 
+-r-xr-xr-x   1    0    0    2958080 Jul 12 2005 [ 100640 00] SIBERIAN_STRONGHOLD.DRM 
+-r-xr-xr-x   1    0    0    2714283 Jul 12 2005 [ 102096 00] CAPITAL_CITY.DRM 
+-r-xr-xr-x   1    0    0    1762197 Jul 12 2005 [ 103424 00] MAIN.DRM 
+-r-xr-xr-x   1    0    0    2367386 Jul 12 2005 [ 104288 00] MP_ARCTIC.DRM 
+-r-xr-xr-x   1    0    0    2339100 Jul 12 2005 [ 105456 00] MP_ARCTIC_RACE.DRM 
+-r-xr-xr-x   1    0    0    2343367 Jul 12 2005 [ 106608 00] MP_ARCTIC_TEAM.DRM 
+-r-xr-xr-x   1    0    0    2374707 Jul 12 2005 [ 107760 00] MP_JUNKYARD_TEAM.DRM 
+-r-xr-xr-x   1    0    0    2526892 Jul 12 2005 [ 108928 00] MP_MAYAN.DRM 
+-r-xr-xr-x   1    0    0    2519596 Jul 12 2005 [ 110176 00] MP_MAYAN_RACE.DRM 
+-r-xr-xr-x   1    0    0    2503815 Jul 12 2005 [ 111408 00] MP_MAYAN_TEAM.DRM 
+-r-xr-xr-x   1    0    0    2521271 Jul 12 2005 [ 112640 00] MP_QUARRY.DRM 
+-r-xr-xr-x   1    0    0    2386539 Jul 12 2005 [ 113872 00] MP_QUARRY_RACE.DRM 
+-r-xr-xr-x   1    0    0    2348422 Jul 12 2005 [ 115040 00] MP_QUARRY_TEAM.DRM 
+
+Directory listing of /PSP_GAME/USRDIR/MODULES/
+dr-xr-xr-x   1    0    0       2048 Mar 15 2005 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 15 2005 [     25 02] .. 
+-r-xr-xr-x   1    0    0       5904 Mar 15 2005 [  21712 00] SC_SASCORE.PRX 
+-r-xr-xr-x   1    0    0       3200 Mar 15 2005 [  21728 00] AUDIOCODEC.PRX 
+-r-xr-xr-x   1    0    0      19940 Mar 15 2005 [  21744 00] LIBATRAC3PLUS.PRX 
+-r-xr-xr-x   1    0    0      11360 Mar 15 2005 [  21760 00] PSPNET_ADHOC_AUTH.PRX 
+-r-xr-xr-x   1    0    0      31996 Mar 15 2005 [  21776 00] PSPNET_ADHOCCTL.PRX 
+-r-xr-xr-x   1    0    0      10816 Mar 15 2005 [  21792 00] IFHANDLE.PRX 
+-r-xr-xr-x   1    0    0      17216 Mar 15 2005 [  21808 00] MEMAB.PRX 
+-r-xr-xr-x   1    0    0      60360 Mar 15 2005 [  21824 00] PSPNET.PRX 
+-r-xr-xr-x   1    0    0      42492 Mar 15 2005 [  21856 00] PSPNET_ADHOC.PRX 
+-r-xr-xr-x   1    0    0     239968 Mar 15 2005 [  73136 00] PSPNET_INET.PRX 
+-r-xr-xr-x   1    0    0      44412 Mar 15 2005 [  73264 00] PSPNET_APCTL.PRX 
+-r-xr-xr-x   1    0    0       4820 Mar 15 2005 [  73296 00] PSPNET_AP_DIALOG_DUMMY.PRX 
+-r-xr-xr-x   1    0    0      12400 Mar 15 2005 [  73312 00] PSPNET_RESOLVER.PRX 
+-r-xr-xr-x   1    0    0       2252 Mar 15 2005 [  73328 00] LIBBASE64.PRX 
+-r-xr-xr-x   1    0    0      15584 Mar 15 2005 [  73344 00] LIBPARSE_URI.PRX 
+-r-xr-xr-x   1    0    0       5180 Mar 15 2005 [  73360 00] LIBPARSE_HTTP.PRX 
+-r-xr-xr-x   1    0    0      87024 Mar 15 2005 [  73376 00] LIBHTTP.PRX 
+-r-xr-xr-x   1    0    0     259788 Mar 24 2005 [  73424 00] LIBSSL.PRX 
+-r-xr-xr-x   1    0    0       3088 Mar 24 2005 [  73552 00] CERT_LOADER.PRX 
+-r-xr-xr-x   1    0    0      19688 Mar 31 2005 [  73568 00] PSPNET_ADHOC_MATCHING.PRX 
+-r-xr-xr-x   1    0    0      15828 Mar 31 2005 [  73584 00] PSPNET_ADHOC_DOWNLOAD.PRX 
+
+Directory listing of /PSP_GAME/USRDIR/MUSIC/
+dr-xr-xr-x   1    0    0       2048 Mar 15 2005 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 15 2005 [     25 02] .. 
+-r-xr-xr-x   1    0    0    2659536 Feb 15 2005 [  21984 00] REVENGE3.AT3 
+-r-xr-xr-x   1    0    0    2961936 Feb 15 2005 [  23296 00] REVENGE4.AT3 
+-r-xr-xr-x   1    0    0     405536 Jan 24 2005 [  24752 00] THEME.AT3 
+-r-xr-xr-x   1    0    0    6861216 Feb 15 2005 [  24960 00] MAIN2.AT3 
+-r-xr-xr-x   1    0    0    6548736 Feb 15 2005 [  28320 00] MAIN3.AT3 
+-r-xr-xr-x   1    0    0    7656976 Feb 15 2005 [  31520 00] MAIN4.AT3 
+-r-xr-xr-x   1    0    0    6669136 Feb 15 2005 [  35264 00] MENUS.AT3 
+-r-xr-xr-x   1    0    0    6267616 Feb 15 2005 [  38528 00] MISSION1.AT3 
+-r-xr-xr-x   1    0    0    5971376 Feb 15 2005 [  41600 00] MISSION3.AT3 
+-r-xr-xr-x   1    0    0    7130016 Feb 15 2005 [  44528 00] MISSION4.AT3 
+-r-xr-xr-x   1    0    0    7248176 Feb 15 2005 [  48016 00] MISSION5.AT3 
+-r-xr-xr-x   1    0    0    7312576 Feb 15 2005 [  51568 00] MISSION6.AT3 
+-r-xr-xr-x   1    0    0    1393444 Dec  7 2004 [  55152 00] REVENGE1.AT3 
+-r-xr-xr-x   1    0    0    3066656 Feb 15 2005 [  55840 00] REVENGE2.AT3 
+-r-xr-xr-x   1    0    0    7079616 Feb 15 2005 [  57344 00] FRONTEND.AT3 
+-r-xr-xr-x   1    0    0    8193456 Feb 15 2005 [  60816 00] REMIX2.AT3 
+-r-xr-xr-x   1    0    0    7718576 Feb 15 2005 [  64832 00] REMIX3.AT3 
+-r-xr-xr-x   1    0    0    9261936 Feb 15 2005 [  68608 00] REMIX1.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/WEB/
+dr-xr-xr-x   1    0    0       2048 Mar 21 2005 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 15 2005 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Mar 21 2005 [     34 02] HTML_EN 
+-r-xr-xr-x   1    0    0     222676 Apr  6 2005 [  77248 00] Font16.vom 
+-r-xr-xr-x   1    0    0     125300 Apr  6 2005 [  77360 00] Font12.vom 
+-r-xr-xr-x   1    0    0     174049 Apr  6 2005 [  77424 00] Font14.vom 
+-r-xr-xr-x   1    0    0    1830654 Jun 28 2005 [  77520 00] CDL.BIN 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2005 [     35 02] SOUND 
+dr-xr-xr-x   1    0    0       2048 Apr 19 2005 [     36 02] IMG 
+-r-xr-xr-x   1    0    0       1514 Jun 28 2005 [  79648 00] cdl_it.dat 
+-r-xr-xr-x   1    0    0       1638 Jun 28 2005 [  79664 00] cdl_de.dat 
+-r-xr-xr-x   1    0    0       1569 Jun 28 2005 [  79680 00] cdl_es.dat 
+-r-xr-xr-x   1    0    0       1620 Jun 28 2005 [  79696 00] cdl_fr.dat 
+-r-xr-xr-x   1    0    0       1489 Jun 28 2005 [  80144 00] cdl_en.dat 
+-r-xr-xr-x   1    0    0       1759 May 31 2005 [  80160 00] CDL_UMD.CONF 
+dr-xr-xr-x   1    0    0       2048 May 17 2005 [     37 02] IMG_EN 
+dr-xr-xr-x   1    0    0       2048 May 31 2005 [     38 02] IMG_FR 
+dr-xr-xr-x   1    0    0       2048 May 31 2005 [     39 02] IMG_IT 
+dr-xr-xr-x   1    0    0       2048 May 31 2005 [     40 02] IMG_DE 
+dr-xr-xr-x   1    0    0       2048 May 31 2005 [     41 02] IMG_ES 
+dr-xr-xr-x   1    0    0       2048 May 31 2005 [     42 02] HTML_FR 
+dr-xr-xr-x   1    0    0       2048 May 31 2005 [     43 02] HTML_IT 
+dr-xr-xr-x   1    0    0       2048 May 31 2005 [     44 02] HTML_DE 
+dr-xr-xr-x   1    0    0       2048 May 31 2005 [     45 02] HTML_ES 
+
+Directory listing of /PSP_GAME/USRDIR/UCES00006/
+dr-xr-xr-x   1    0    0       2048 May 12 2005 [     31 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 15 2005 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 May 12 2005 [     46 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 May 12 2005 [     47 02] PRX 
+dr-xr-xr-x   1    0    0       2048 May 12 2005 [     48 02] GSHARE 
+
+Directory listing of /PSP_GAME/USRDIR/UCES00015/
+dr-xr-xr-x   1    0    0       2048 May 20 2005 [     32 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 15 2005 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Apr  5 2005 [     49 02] GSHARE 
+
+Directory listing of /PSP_GAME/USRDIR/UCES00001/
+dr-xr-xr-x   1    0    0       2048 May 31 2005 [     33 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 15 2005 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 May 31 2005 [     50 02] PRX 
+dr-xr-xr-x   1    0    0       2048 May 31 2005 [     51 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 May 31 2005 [     52 02] GSHARE 
+
+Directory listing of /PSP_GAME/USRDIR/WEB/HTML_EN/
+dr-xr-xr-x   1    0    0       2048 Mar 21 2005 [     34 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 21 2005 [     30 02] .. 
+-r-xr-xr-x   1    0    0        716 Jun 23 2005 [  85392 00] home.html 
+-r-xr-xr-x   1    0    0        396 May 20 2005 [  85408 00] save.html 
+-r-xr-xr-x   1    0    0        481 May 20 2005 [  85424 00] download.html 
+
+Directory listing of /PSP_GAME/USRDIR/WEB/SOUND/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2005 [     35 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 21 2005 [     30 02] .. 
+-r-xr-xr-x   1    0    0      15472 Feb  8 2005 [  79568 00] UI.BNK 
+
+Directory listing of /PSP_GAME/USRDIR/WEB/IMG/
+dr-xr-xr-x   1    0    0       2048 Apr 19 2005 [     36 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 21 2005 [     30 02] .. 
+-r-xr-xr-x   1    0    0      63099 May  4 2005 [  79584 00] contentdl_test.png 
+-r-xr-xr-x   1    0    0       8784 May  4 2005 [  79616 00] progress.gim 
+-r-xr-xr-x   1    0    0       8476 May 31 2005 [  79632 00] busy.gim 
+-r-xr-xr-x   1    0    0      63099 May  4 2005 [  79712 00] home.png 
+-r-xr-xr-x   1    0    0     131920 Jun 28 2005 [  79744 00] splash_de.gim 
+-r-xr-xr-x   1    0    0     131920 May 31 2005 [  79824 00] splash_en.gim 
+-r-xr-xr-x   1    0    0     131920 May 31 2005 [  79904 00] splash_es.gim 
+-r-xr-xr-x   1    0    0     131920 Jun 28 2005 [  79984 00] splash_fr.gim 
+-r-xr-xr-x   1    0    0     131920 May 31 2005 [  80064 00] splash_it.gim 
+
+Directory listing of /PSP_GAME/USRDIR/WEB/IMG_EN/
+dr-xr-xr-x   1    0    0       2048 May 17 2005 [     37 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 21 2005 [     30 02] .. 
+-r-xr-xr-x   1    0    0      63099 May  4 2005 [  85440 00] HOME.PNG 
+-r-xr-xr-x   1    0    0       1005 Jun 13 2005 [  85472 00] ENTER.PNG 
+-r-xr-xr-x   1    0    0      69745 May  6 2005 [  85488 00] INSIDE.PNG 
+-r-xr-xr-x   1    0    0       1594 May 17 2005 [  85536 00] DOWNLOADINGCONTENT.PNG 
+-r-xr-xr-x   1    0    0       1984 May 17 2005 [  85552 00] PRESSTOCANCEL.PNG 
+-r-xr-xr-x   1    0    0       1296 May 17 2005 [  85568 00] SAVINGCONTENT.PNG 
+
+Directory listing of /PSP_GAME/USRDIR/WEB/IMG_FR/
+dr-xr-xr-x   1    0    0       2048 May 31 2005 [     38 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 21 2005 [     30 02] .. 
+-r-xr-xr-x   1    0    0      63139 Jun 28 2005 [  94320 00] INSIDE.PNG 
+-r-xr-xr-x   1    0    0       2679 May 17 2005 [  94352 00] PRESSTOCANCEL.PNG 
+-r-xr-xr-x   1    0    0       1627 Jun 28 2005 [  94368 00] SAVINGCONTENT.PNG 
+-r-xr-xr-x   1    0    0       1811 May 17 2005 [  94384 00] DOWNLOADINGCONTENT.PNG 
+-r-xr-xr-x   1    0    0        808 Jun 13 2005 [  94400 00] ENTER.PNG 
+-r-xr-xr-x   1    0    0      63099 May  4 2005 [  94416 00] HOME.PNG 
+
+Directory listing of /PSP_GAME/USRDIR/WEB/IMG_IT/
+dr-xr-xr-x   1    0    0       2048 May 31 2005 [     39 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 21 2005 [     30 02] .. 
+-r-xr-xr-x   1    0    0      63099 May  4 2005 [  94448 00] HOME.PNG 
+-r-xr-xr-x   1    0    0      63156 May 17 2005 [  94480 00] INSIDE.PNG 
+-r-xr-xr-x   1    0    0       2458 May 17 2005 [  94512 00] PRESSTOCANCEL.PNG 
+-r-xr-xr-x   1    0    0       1637 May 17 2005 [  94528 00] SAVINGCONTENT.PNG 
+-r-xr-xr-x   1    0    0       2072 Jun 28 2005 [  94544 00] DOWNLOADINGCONTENT.PNG 
+-r-xr-xr-x   1    0    0        849 Jun 13 2005 [  94560 00] ENTER.PNG 
+
+Directory listing of /PSP_GAME/USRDIR/WEB/IMG_DE/
+dr-xr-xr-x   1    0    0       2048 May 31 2005 [     40 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 21 2005 [     30 02] .. 
+-r-xr-xr-x   1    0    0      63099 May  4 2005 [  94576 00] HOME.PNG 
+-r-xr-xr-x   1    0    0      62752 Jun 28 2005 [  94608 00] INSIDE.PNG 
+-r-xr-xr-x   1    0    0       2523 Jun 28 2005 [  94640 00] PRESSTOCANCEL.PNG 
+-r-xr-xr-x   1    0    0       1306 May 17 2005 [  94656 00] SAVINGCONTENT.PNG 
+-r-xr-xr-x   1    0    0       1345 Jun 28 2005 [  94672 00] DOWNLOADINGCONTENT.PNG 
+-r-xr-xr-x   1    0    0        881 Jun 13 2005 [  94688 00] ENTER.PNG 
+
+Directory listing of /PSP_GAME/USRDIR/WEB/IMG_ES/
+dr-xr-xr-x   1    0    0       2048 May 31 2005 [     41 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 21 2005 [     30 02] .. 
+-r-xr-xr-x   1    0    0      63099 May  4 2005 [  94704 00] HOME.PNG 
+-r-xr-xr-x   1    0    0      63774 May 17 2005 [  94736 00] INSIDE.PNG 
+-r-xr-xr-x   1    0    0       2510 May 17 2005 [  94768 00] PRESSTOCANCEL.PNG 
+-r-xr-xr-x   1    0    0       1609 Jun 14 2005 [  94784 00] SAVINGCONTENT.PNG 
+-r-xr-xr-x   1    0    0       1620 Jun 14 2005 [  94800 00] DOWNLOADINGCONTENT.PNG 
+-r-xr-xr-x   1    0    0        855 Jun 13 2005 [  94816 00] ENTER.PNG 
+
+Directory listing of /PSP_GAME/USRDIR/WEB/HTML_FR/
+dr-xr-xr-x   1    0    0       2048 May 31 2005 [     42 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 21 2005 [     30 02] .. 
+-r-xr-xr-x   1    0    0        481 May 31 2005 [  94272 00] download.html 
+-r-xr-xr-x   1    0    0        714 Jun 23 2005 [  94288 00] home.html 
+-r-xr-xr-x   1    0    0        396 May 31 2005 [  94304 00] save.html 
+
+Directory listing of /PSP_GAME/USRDIR/WEB/HTML_IT/
+dr-xr-xr-x   1    0    0       2048 May 31 2005 [     43 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 21 2005 [     30 02] .. 
+-r-xr-xr-x   1    0    0        481 May 31 2005 [  94224 00] download.html 
+-r-xr-xr-x   1    0    0        714 Jun 23 2005 [  94240 00] home.html 
+-r-xr-xr-x   1    0    0        396 May 31 2005 [  94256 00] save.html 
+
+Directory listing of /PSP_GAME/USRDIR/WEB/HTML_DE/
+dr-xr-xr-x   1    0    0       2048 May 31 2005 [     44 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 21 2005 [     30 02] .. 
+-r-xr-xr-x   1    0    0        481 May 31 2005 [  94176 00] download.html 
+-r-xr-xr-x   1    0    0        725 Jun 23 2005 [  94192 00] home.html 
+-r-xr-xr-x   1    0    0        396 May 31 2005 [  94208 00] save.html 
+
+Directory listing of /PSP_GAME/USRDIR/WEB/HTML_ES/
+dr-xr-xr-x   1    0    0       2048 May 31 2005 [     45 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 21 2005 [     30 02] .. 
+-r-xr-xr-x   1    0    0        481 May 31 2005 [  94128 00] download.html 
+-r-xr-xr-x   1    0    0        714 Jun 23 2005 [  94144 00] home.html 
+-r-xr-xr-x   1    0    0        396 May 31 2005 [  94160 00] save.html 
+
+Directory listing of /PSP_GAME/USRDIR/UCES00006/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 May 12 2005 [     46 02] . 
+dr-xr-xr-x   1    0    0       2048 May 12 2005 [     31 02] .. 
+-r-xr-xr-x   1    0    0    5217673 May 18 2005 [  80176 00] BOOT.BIN 
+
+Directory listing of /PSP_GAME/USRDIR/UCES00006/PRX/
+dr-xr-xr-x   1    0    0       2048 May 12 2005 [     47 02] . 
+dr-xr-xr-x   1    0    0       2048 May 12 2005 [     31 02] .. 
+-r-xr-xr-x   1    0    0       3200 Feb 18 2005 [  82736 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0      43068 Feb 18 2005 [  82752 00] mpeg.prx 
+-r-xr-xr-x   1    0    0       5808 Feb 18 2005 [  82784 00] mpegbase.prx 
+-r-xr-xr-x   1    0    0       3808 Feb 18 2005 [  82800 00] videocodec.prx 
+
+Directory listing of /PSP_GAME/USRDIR/UCES00006/GSHARE/
+dr-xr-xr-x   1    0    0       2048 May 12 2005 [     48 02] . 
+dr-xr-xr-x   1    0    0       2048 May 12 2005 [     31 02] .. 
+-r-xr-xr-x   1    0    0    5274016 May 23 2005 [  82816 00] SHARE.BIN 
+
+Directory listing of /PSP_GAME/USRDIR/UCES00015/GSHARE/
+dr-xr-xr-x   1    0    0       2048 Apr  5 2005 [     49 02] . 
+dr-xr-xr-x   1    0    0       2048 May 20 2005 [     32 02] .. 
+-r-xr-xr-x   1    0    0    7451232 Jul 12 2005 [  73600 00] SHARE.BIN 
+
+Directory listing of /PSP_GAME/USRDIR/UCES00001/PRX/
+dr-xr-xr-x   1    0    0       2048 May 31 2005 [     50 02] . 
+dr-xr-xr-x   1    0    0       2048 May 31 2005 [     33 02] .. 
+-r-xr-xr-x   1    0    0       3200 Feb 18 2005 [  85584 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0      10816 Feb 18 2005 [  85600 00] ifhandle.prx 
+-r-xr-xr-x   1    0    0      19940 Feb 18 2005 [  85616 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0      17216 Feb 18 2005 [  85632 00] memab.prx 
+-r-xr-xr-x   1    0    0      43068 Feb 18 2005 [  85648 00] mpeg.prx 
+-r-xr-xr-x   1    0    0       5808 Feb 18 2005 [  85680 00] mpegbase.prx 
+-r-xr-xr-x   1    0    0      60360 Feb 18 2005 [  85696 00] pspnet.prx 
+-r-xr-xr-x   1    0    0      42492 Feb 18 2005 [  85728 00] pspnet_adhoc.prx 
+-r-xr-xr-x   1    0    0      11360 Feb 18 2005 [  85760 00] pspnet_adhoc_auth.prx 
+-r-xr-xr-x   1    0    0      31996 Feb 18 2005 [  85776 00] pspnet_adhocctl.prx 
+-r-xr-xr-x   1    0    0     239968 Feb 18 2005 [  85792 00] pspnet_inet.prx 
+-r-xr-xr-x   1    0    0       5904 Feb 18 2005 [  85920 00] sc_sascore.prx 
+-r-xr-xr-x   1    0    0       3808 Feb 18 2005 [  85936 00] videocodec.prx 
+-r-xr-xr-x   1    0    0      15828 Feb 18 2005 [ 116192 00] pspnet_adhoc_download.prx 
+-r-xr-xr-x   1    0    0      19688 Mar 16 2005 [ 116208 00] pspnet_adhoc_matching.prx 
+
+Directory listing of /PSP_GAME/USRDIR/UCES00001/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 May 31 2005 [     51 02] . 
+dr-xr-xr-x   1    0    0       2048 May 31 2005 [     33 02] .. 
+-r-xr-xr-x   1    0    0    8351169 Jun 23 2005 [  85952 00] BOOT.BIN 
+
+Directory listing of /PSP_GAME/USRDIR/UCES00001/GSHARE/
+dr-xr-xr-x   1    0    0       2048 May 31 2005 [     52 02] . 
+dr-xr-xr-x   1    0    0       2048 May 31 2005 [     33 02] .. 
+-r-xr-xr-x   1    0    0    8375792 Jun 23 2005 [  90032 00] SHARE.BIN 
+=============================================================== 
+Generated on Mon 08/08/2022 at 12:16:41.29 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

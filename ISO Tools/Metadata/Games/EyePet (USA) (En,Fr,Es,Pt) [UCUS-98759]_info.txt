@@ -1,0 +1,903 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: EyePet   
+Title ID: UCUS-98759 
+Region: USA  
+Languages: En,Fr,Es,Pt  
+Volume Creation Date: 2010-09-24 14:17:58 
+Volume Size: 659 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: EYEPET
+Volume set id: EYEPET
+Publisher id: SCEE
+Data preparer id: SPIRAL HOUSE LTD.
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 337776
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Sep 24 2010 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 24 2010 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Aug 16 2010 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Aug 16 2010 [     87 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Aug 16 2010 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 24 2010 [     22 02] .. 
+-r-xr-xr-x   1    0    0      16246 Sep  1 2010 [ 337344 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        560 Sep 15 2010 [ 337360 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     162985 Sep  1 2010 [ 337376 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0     385560 Sep  1 2010 [ 337456 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 Aug 16 2010 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Aug 16 2010 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 16 2010 [     23 02] .. 
+-r-xr-xr-x   1    0    0    3357957 Sep 24 2010 [  55008 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    3358304 Sep 24 2010 [    608 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0        880 Aug 16 2010 [     96 00] OPNSSMP.BIN 
+dr-xr-xr-x   1    0    0       2048 Aug 16 2010 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 16 2010 [     23 02] .. 
+-r-xr-xr-x   1    0    0     171937 Sep 24 2010 [  56656 00] EYEPET.FAT 
+-r-xr-xr-x   1    0    0  162650112 Sep 24 2010 [  56752 00] EYEPET.NOB 
+-r-xr-xr-x   1    0    0       2677 Sep 24 2010 [ 136176 00] MOVIES.FAT 
+-r-xr-xr-x   1    0    0  296812544 Sep 24 2010 [ 136192 00] MOVIES.NOB 
+dr-xr-xr-x   1    0    0       4096 Sep 12 2010 [     27 02] SOUND 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Aug 16 2010 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 16 2010 [     24 02] .. 
+-r-xr-xr-x   1    0    0   26120416 Aug 16 2010 [   6368 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5540576 Aug 16 2010 [   2272 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Aug 16 2010 [   2256 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/
+dr-xr-xr-x   1    0    0       4096 Sep 12 2010 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     25 02] .. 
+-r-xr-xr-x   1    0    0    2308800 Sep  1 2010 [ 281120 00] ADOPTION.AT3 
+-r-xr-xr-x   1    0    0    2052864 Sep  1 2010 [ 282256 00] AQUARIUM.AT3 
+-r-xr-xr-x   1    0    0      44064 Sep 10 2010 [ 337696 00] AWWW.AT3 
+-r-xr-xr-x   1    0    0    2533488 Sep  1 2010 [ 283264 00] BALLOONS.AT3 
+-r-xr-xr-x   1    0    0    1828176 Sep  1 2010 [ 284512 00] BOAT.AT3 
+-r-xr-xr-x   1    0    0    1604232 Sep  1 2010 [ 285408 00] BOWLING.AT3 
+-r-xr-xr-x   1    0    0    1053672 Sep 17 2010 [ 286192 00] DRAW_PET.AT3 
+-r-xr-xr-x   1    0    0    1860168 Sep  1 2010 [ 286720 00] DRAW_PLY.AT3 
+-r-xr-xr-x   1    0    0    1155600 Sep  1 2010 [ 287632 00] EGGCLAP.AT3 
+-r-xr-xr-x   1    0    0    1155600 Sep  1 2010 [ 288208 00] EGGKNOCK.AT3 
+-r-xr-xr-x   1    0    0    1155600 Sep  1 2010 [ 288784 00] EGGROCK.AT3 
+-r-xr-xr-x   1    0    0    1155600 Sep  1 2010 [ 289360 00] EGGSCAN.AT3 
+-r-xr-xr-x   1    0    0    1155600 Sep  1 2010 [ 289936 00] EGGWARM.AT3 
+-r-xr-xr-x   1    0    0    1527600 Sep  1 2010 [ 290512 00] FEEDING.AT3 
+-r-xr-xr-x   1    0    0    1828176 Sep  1 2010 [ 291264 00] FISHING.AT3 
+-r-xr-xr-x   1    0    0    1572240 Sep  1 2010 [ 292160 00] FLOWER.AT3 
+-r-xr-xr-x   1    0    0    2534976 Sep  1 2010 [ 292928 00] GALLERY.AT3 
+-r-xr-xr-x   1    0    0    1534296 Sep  1 2010 [ 294176 00] GARDEN.AT3 
+-r-xr-xr-x   1    0    0     963648 Sep  1 2010 [ 294928 00] HATCHING.AT3 
+-r-xr-xr-x   1    0    0    1476264 Sep  1 2010 [ 295408 00] HEALTH.AT3 
+-r-xr-xr-x   1    0    0    2308800 Sep  1 2010 [ 296144 00] IDCARD.AT3 
+-r-xr-xr-x   1    0    0    2180832 Sep  1 2010 [ 297280 00] MYPETSAY.AT3 
+-r-xr-xr-x   1    0    0    4328016 Sep  1 2010 [ 298352 00] OP_IDLE.AT3 
+-r-xr-xr-x   1    0    0    1733688 Sep  1 2010 [ 300480 00] PET_HOME.AT3 
+-r-xr-xr-x   1    0    0    2723208 Sep 17 2010 [ 301328 00] RCCAR.AT3 
+-r-xr-xr-x   1    0    0      58944 Sep 10 2010 [ 337664 00] REWARD.AT3 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     29 02] SFX 
+-r-xr-xr-x   1    0    0    2708328 Sep  9 2010 [ 304032 00] SLEEPING.AT3 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     30 02] SPEECH 
+-r-xr-xr-x   1    0    0    1444272 Sep  1 2010 [ 331376 00] STYLING.AT3 
+-r-xr-xr-x   1    0    0    2565480 Sep  1 2010 [ 332096 00] TITLE.AT3 
+-r-xr-xr-x   1    0    0    1564800 Sep  1 2010 [ 333360 00] TROPHIES.AT3 
+-r-xr-xr-x   1    0    0    1773864 Sep  9 2010 [ 334128 00] WASHDRY.AT3 
+-r-xr-xr-x   1    0    0    1206192 Sep  1 2010 [ 335008 00] WASHING.AT3 
+-r-xr-xr-x   1    0    0    1756752 Sep 17 2010 [ 335600 00] WASHSHOW.AT3 
+-r-xr-xr-x   1    0    0    1773864 Sep 17 2010 [ 336464 00] WASHSOAP.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SFX/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     29 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 12 2010 [     27 02] .. 
+-r-xr-xr-x   1    0    0     112536 Sep  1 2010 [ 302672 00] APPEAR.BNK 
+-r-xr-xr-x   1    0    0      55608 Sep  8 2010 [ 302736 00] BOWLING.BNK 
+-r-xr-xr-x   1    0    0     195436 Sep 17 2010 [ 302768 00] CAR.BNK 
+-r-xr-xr-x   1    0    0     191036 Sep  8 2010 [ 302864 00] DRAWING.BNK 
+-r-xr-xr-x   1    0    0     116592 Sep  1 2010 [ 302960 00] FEEDING.BNK 
+-r-xr-xr-x   1    0    0     128180 Sep 17 2010 [ 303024 00] FISHING.BNK 
+-r-xr-xr-x   1    0    0     188216 Sep  3 2010 [ 303088 00] FLOWER.BNK 
+-r-xr-xr-x   1    0    0     147812 Sep  8 2010 [ 303184 00] HATCH.BNK 
+-r-xr-xr-x   1    0    0      73328 Sep  1 2010 [ 303264 00] HCHECK.BNK 
+-r-xr-xr-x   1    0    0     180156 Sep  1 2010 [ 303312 00] HEAT.BNK 
+-r-xr-xr-x   1    0    0     250844 Sep 17 2010 [ 303408 00] NEWPET.BNK 
+-r-xr-xr-x   1    0    0      26080 Sep 17 2010 [ 303536 00] PDA.BNK 
+-r-xr-xr-x   1    0    0     140928 Sep  1 2010 [ 303552 00] PET.BNK 
+-r-xr-xr-x   1    0    0      90472 Sep 10 2010 [ 337728 00] REWARD.BNK 
+-r-xr-xr-x   1    0    0      67352 Sep  1 2010 [ 303632 00] ROCK.BNK 
+-r-xr-xr-x   1    0    0     214120 Sep 16 2010 [ 303680 00] SAILING.BNK 
+-r-xr-xr-x   1    0    0      95084 Sep  1 2010 [ 303792 00] SLEEPING.BNK 
+-r-xr-xr-x   1    0    0     174228 Sep 17 2010 [ 303840 00] TRAMP.BNK 
+-r-xr-xr-x   1    0    0      19884 Sep  1 2010 [ 303936 00] TREASURE.BNK 
+-r-xr-xr-x   1    0    0      19796 Sep  3 2010 [ 337648 00] VOICE.BNK 
+-r-xr-xr-x   1    0    0     158944 Sep  3 2010 [ 303952 00] WASHING.BNK 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     30 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 12 2010 [     27 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     31 02] ENG 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     32 02] ES 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     33 02] FR 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     34 02] PT 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/ENG/
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     31 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     30 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     35 02] BOAT 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     36 02] BOWLING 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     37 02] DRAWING 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     38 02] DRIVING 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     39 02] FISHING 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     40 02] FLOWER 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     41 02] GENERIC 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     42 02] HATCHING 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     43 02] OPENPLAY 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     44 02] PETHOME 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     45 02] SCANNER 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     46 02] TRAMP 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     47 02] TREASURE 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/ES/
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     32 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     30 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     48 02] BOAT 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     49 02] BOWLING 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     50 02] DRAWING 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     51 02] DRIVING 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     52 02] FISHING 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     53 02] FLOWER 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     54 02] GENERIC 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     55 02] HATCHING 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     56 02] OPENPLAY 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     57 02] PETHOME 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     58 02] SCANNER 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     59 02] TRAMP 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     60 02] TREASURE 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/FR/
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     33 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     30 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     61 02] BOAT 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     62 02] BOWLING 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     63 02] DRAWING 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     64 02] DRIVING 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     65 02] FISHING 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     66 02] FLOWER 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     67 02] GENERIC 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     68 02] HATCHING 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     69 02] OPENPLAY 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     70 02] PETHOME 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     71 02] SCANNER 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     72 02] TRAMP 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     73 02] TREASURE 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/PT/
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     34 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     30 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     74 02] BOAT 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     75 02] BOWLING 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     76 02] DRAWING 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     77 02] DRIVING 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     78 02] FISHING 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     79 02] FLOWER 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     80 02] GENERIC 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     81 02] HATCHING 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     82 02] OPENPLAY 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     83 02] PETHOME 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     84 02] SCANNER 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     85 02] TRAMP 
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     86 02] TREASURE 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/ENG/BOAT/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     35 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     31 02] .. 
+-r-xr-xr-x   1    0    0     130368 Sep  1 2010 [ 305360 00] BOATDRAW.AT3 
+-r-xr-xr-x   1    0    0      86472 Sep  1 2010 [ 305424 00] BOAT_01.AT3 
+-r-xr-xr-x   1    0    0     113256 Sep  1 2010 [ 305472 00] BOAT_02.AT3 
+-r-xr-xr-x   1    0    0      73824 Sep  1 2010 [ 305536 00] BOAT_03.AT3 
+-r-xr-xr-x   1    0    0     142272 Sep  1 2010 [ 305584 00] BOAT_04.AT3 
+-r-xr-xr-x   1    0    0     104328 Sep  1 2010 [ 305664 00] BOAT_05.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/ENG/BOWLING/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     36 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     31 02] .. 
+-r-xr-xr-x   1    0    0     113256 Sep  1 2010 [ 305728 00] BOWL_01.AT3 
+-r-xr-xr-x   1    0    0     127392 Sep  1 2010 [ 305792 00] BOWL_02.AT3 
+-r-xr-xr-x   1    0    0     120696 Sep  1 2010 [ 305856 00] BOWL_03.AT3 
+-r-xr-xr-x   1    0    0     133344 Sep  1 2010 [ 305920 00] BOWL_04.AT3 
+-r-xr-xr-x   1    0    0      87216 Sep  1 2010 [ 306000 00] BOWL_05.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/ENG/DRAWING/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     37 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     31 02] .. 
+-r-xr-xr-x   1    0    0     103584 Sep  1 2010 [ 306048 00] DRAW_01.AT3 
+-r-xr-xr-x   1    0    0      73080 Sep  1 2010 [ 306112 00] DRAW_02.AT3 
+-r-xr-xr-x   1    0    0     117720 Sep  1 2010 [ 306160 00] DRAW_03.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/ENG/DRIVING/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     38 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     31 02] .. 
+-r-xr-xr-x   1    0    0     140040 Sep  1 2010 [ 306224 00] DRIVDRAW.AT3 
+-r-xr-xr-x   1    0    0     175008 Sep  1 2010 [ 306304 00] DRIVE_01.AT3 
+-r-xr-xr-x   1    0    0      74568 Sep  1 2010 [ 306400 00] DRIVE_02.AT3 
+-r-xr-xr-x   1    0    0      76056 Sep  1 2010 [ 306448 00] DRIVE_03.AT3 
+-r-xr-xr-x   1    0    0     137064 Sep  1 2010 [ 306496 00] DRIVE_04.AT3 
+-r-xr-xr-x   1    0    0     117720 Sep  1 2010 [ 306576 00] DRIVE_05.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/ENG/FISHING/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     39 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     31 02] .. 
+-r-xr-xr-x   1    0    0     111024 Sep  1 2010 [ 306640 00] FISH_01.AT3 
+-r-xr-xr-x   1    0    0     107304 Sep  1 2010 [ 306704 00] FISH_02.AT3 
+-r-xr-xr-x   1    0    0      97632 Sep  1 2010 [ 306768 00] FISH_03.AT3 
+-r-xr-xr-x   1    0    0      81264 Sep  1 2010 [ 306816 00] FISH_04.AT3 
+-r-xr-xr-x   1    0    0     101352 Sep  1 2010 [ 306864 00] FISH_05.AT3 
+-r-xr-xr-x   1    0    0     122928 Sep  1 2010 [ 306928 00] FISH_06.AT3 
+-r-xr-xr-x   1    0    0      70104 Sep  1 2010 [ 306992 00] FISH_07.AT3 
+-r-xr-xr-x   1    0    0      70104 Sep  1 2010 [ 307040 00] FISH_08.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/ENG/FLOWER/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     40 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     31 02] .. 
+-r-xr-xr-x   1    0    0     108792 Sep  1 2010 [ 307088 00] FLOW_01.AT3 
+-r-xr-xr-x   1    0    0     112512 Sep  1 2010 [ 307152 00] FLOW_02.AT3 
+-r-xr-xr-x   1    0    0      75312 Sep  1 2010 [ 307216 00] FLOW_03.AT3 
+-r-xr-xr-x   1    0    0     111024 Sep  1 2010 [ 307264 00] FLOW_04.AT3 
+-r-xr-xr-x   1    0    0      92424 Sep  1 2010 [ 307328 00] FLOW_05.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/ENG/GENERIC/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     41 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     31 02] .. 
+-r-xr-xr-x   1    0    0      81264 Sep  1 2010 [ 307376 00] GENW_01.AT3 
+-r-xr-xr-x   1    0    0      87216 Sep  1 2010 [ 307424 00] GENW_02.AT3 
+-r-xr-xr-x   1    0    0      87960 Sep  1 2010 [ 307472 00] GENW_03.AT3 
+-r-xr-xr-x   1    0    0      44808 Sep  1 2010 [ 307520 00] GEN_01.AT3 
+-r-xr-xr-x   1    0    0      32904 Sep  1 2010 [ 307552 00] GEN_02.AT3 
+-r-xr-xr-x   1    0    0      32160 Sep  1 2010 [ 307584 00] GEN_03.AT3 
+-r-xr-xr-x   1    0    0      38112 Sep  1 2010 [ 307600 00] GEN_04.AT3 
+-r-xr-xr-x   1    0    0      34392 Sep  1 2010 [ 307632 00] GEN_05.AT3 
+-r-xr-xr-x   1    0    0      40344 Sep  1 2010 [ 307664 00] GEN_06.AT3 
+-r-xr-xr-x   1    0    0      41088 Sep  1 2010 [ 307696 00] GEN_07.AT3 
+-r-xr-xr-x   1    0    0      27696 Sep  1 2010 [ 307728 00] GEN_08.AT3 
+-r-xr-xr-x   1    0    0      32904 Sep  1 2010 [ 307744 00] GEN_09.AT3 
+-r-xr-xr-x   1    0    0      65640 Sep  1 2010 [ 307776 00] GEN_10.AT3 
+-r-xr-xr-x   1    0    0      55968 Sep  1 2010 [ 307824 00] GEN_11.AT3 
+-r-xr-xr-x   1    0    0      56712 Sep  1 2010 [ 307856 00] GEN_12.AT3 
+-r-xr-xr-x   1    0    0      76800 Sep  1 2010 [ 307888 00] GEN_13.AT3 
+-r-xr-xr-x   1    0    0      50016 Sep  1 2010 [ 307936 00] GEN_14.AT3 
+-r-xr-xr-x   1    0    0      35880 Sep  1 2010 [ 307968 00] GEN_15.AT3 
+-r-xr-xr-x   1    0    0      27696 Sep  1 2010 [ 308000 00] GEN_16.AT3 
+-r-xr-xr-x   1    0    0      46296 Sep  1 2010 [ 308016 00] GEN_17.AT3 
+-r-xr-xr-x   1    0    0      26952 Sep  1 2010 [ 308048 00] GEN_18.AT3 
+-r-xr-xr-x   1    0    0      42576 Sep  1 2010 [ 308064 00] GEN_19.AT3 
+-r-xr-xr-x   1    0    0      32904 Sep  1 2010 [ 308096 00] GEN_20.AT3 
+-r-xr-xr-x   1    0    0      39600 Sep  1 2010 [ 308128 00] GEN_21.AT3 
+-r-xr-xr-x   1    0    0      30672 Sep  1 2010 [ 308160 00] GEN_22.AT3 
+-r-xr-xr-x   1    0    0      26952 Sep  1 2010 [ 308176 00] GEN_23.AT3 
+-r-xr-xr-x   1    0    0      38112 Sep  1 2010 [ 308192 00] GEN_24.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/ENG/HATCHING/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     42 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     31 02] .. 
+-r-xr-xr-x   1    0    0      88704 Sep  1 2010 [ 308224 00] HATCH_01.AT3 
+-r-xr-xr-x   1    0    0     141528 Sep  1 2010 [ 308272 00] HATCH_02.AT3 
+-r-xr-xr-x   1    0    0     131856 Sep  1 2010 [ 308352 00] HATCH_03.AT3 
+-r-xr-xr-x   1    0    0     116232 Sep  1 2010 [ 308432 00] HATCH_04.AT3 
+-r-xr-xr-x   1    0    0     110280 Sep  1 2010 [ 308496 00] HATCH_05.AT3 
+-r-xr-xr-x   1    0    0      97632 Sep  1 2010 [ 308560 00] HATCH_06.AT3 
+-r-xr-xr-x   1    0    0      93168 Sep  1 2010 [ 308608 00] HATCH_07.AT3 
+-r-xr-xr-x   1    0    0     104328 Sep  1 2010 [ 308656 00] HATCH_08.AT3 
+-r-xr-xr-x   1    0    0     134832 Sep  1 2010 [ 308720 00] HATCH_09.AT3 
+-r-xr-xr-x   1    0    0     106560 Sep  1 2010 [ 308800 00] HATCH_10.AT3 
+-r-xr-xr-x   1    0    0     134832 Sep  1 2010 [ 308864 00] HATCH_11.AT3 
+-r-xr-xr-x   1    0    0      80520 Sep  1 2010 [ 308944 00] HATCH_12.AT3 
+-r-xr-xr-x   1    0    0     146736 Sep  1 2010 [ 308992 00] HATCH_14.AT3 
+-r-xr-xr-x   1    0    0      89448 Sep  1 2010 [ 309072 00] HATCH_15.AT3 
+-r-xr-xr-x   1    0    0     115488 Sep  1 2010 [ 309120 00] HATCH_16.AT3 
+-r-xr-xr-x   1    0    0     189144 Sep  1 2010 [ 309184 00] HATCH_17.AT3 
+-r-xr-xr-x   1    0    0     116976 Sep  1 2010 [ 309280 00] HATCH_18.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/ENG/OPENPLAY/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     43 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     31 02] .. 
+-r-xr-xr-x   1    0    0      87216 Sep  1 2010 [ 309344 00] HINT_01.AT3 
+-r-xr-xr-x   1    0    0     116232 Sep  1 2010 [ 309392 00] NO_CAM.AT3 
+-r-xr-xr-x   1    0    0     157896 Sep  1 2010 [ 309456 00] OPLAY_01.AT3 
+-r-xr-xr-x   1    0    0      86472 Sep  1 2010 [ 309536 00] OPLAY_02.AT3 
+-r-xr-xr-x   1    0    0     124416 Sep  1 2010 [ 309584 00] PDA_01.AT3 
+-r-xr-xr-x   1    0    0     104328 Sep  1 2010 [ 309648 00] PDA_02.AT3 
+-r-xr-xr-x   1    0    0     138552 Sep  1 2010 [ 309712 00] WARN_01.AT3 
+-r-xr-xr-x   1    0    0     143016 Sep  1 2010 [ 309792 00] WARN_02.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/ENG/PETHOME/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     44 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     31 02] .. 
+-r-xr-xr-x   1    0    0      96888 Sep  1 2010 [ 309872 00] PHOME_01.AT3 
+-r-xr-xr-x   1    0    0     105816 Sep  1 2010 [ 309920 00] PHOME_02.AT3 
+-r-xr-xr-x   1    0    0     123672 Sep  1 2010 [ 309984 00] PHOME_03.AT3 
+-r-xr-xr-x   1    0    0      57456 Sep  1 2010 [ 310048 00] PHOME_04.AT3 
+-r-xr-xr-x   1    0    0     111024 Sep  1 2010 [ 310080 00] PHOME_05.AT3 
+-r-xr-xr-x   1    0    0     137808 Sep  1 2010 [ 310144 00] PHOME_06.AT3 
+-r-xr-xr-x   1    0    0     111024 Sep  1 2010 [ 310224 00] PHOME_07.AT3 
+-r-xr-xr-x   1    0    0      82752 Sep  1 2010 [ 310288 00] PHOME_08.AT3 
+-r-xr-xr-x   1    0    0     140784 Sep  1 2010 [ 310336 00] PHOME_09.AT3 
+-r-xr-xr-x   1    0    0      90936 Sep  1 2010 [ 310416 00] PHOME_10.AT3 
+-r-xr-xr-x   1    0    0     111024 Sep  1 2010 [ 310464 00] PHOME_11.AT3 
+-r-xr-xr-x   1    0    0      69360 Sep  1 2010 [ 310528 00] PHOME_12.AT3 
+-r-xr-xr-x   1    0    0     137064 Sep  1 2010 [ 310576 00] ROFF_01.AT3 
+-r-xr-xr-x   1    0    0     104328 Sep  1 2010 [ 310656 00] ROFF_02.AT3 
+-r-xr-xr-x   1    0    0      62664 Sep  1 2010 [ 310720 00] ROFF_03.AT3 
+-r-xr-xr-x   1    0    0      78288 Sep  1 2010 [ 310752 00] ROFF_04.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/ENG/SCANNER/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     45 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     31 02] .. 
+-r-xr-xr-x   1    0    0     104328 Sep  1 2010 [ 310800 00] SCAN_01.AT3 
+-r-xr-xr-x   1    0    0     134832 Sep  1 2010 [ 310864 00] SCAN_02.AT3 
+-r-xr-xr-x   1    0    0     121440 Sep  1 2010 [ 310944 00] SCAN_DUM.AT3 
+-r-xr-xr-x   1    0    0     130368 Sep  1 2010 [ 311008 00] SCAN_EX.AT3 
+-r-xr-xr-x   1    0    0     141528 Sep  1 2010 [ 311072 00] SCAN_FED.AT3 
+-r-xr-xr-x   1    0    0     133344 Sep  1 2010 [ 311152 00] SCAN_HAP.AT3 
+-r-xr-xr-x   1    0    0     122184 Sep  1 2010 [ 311232 00] SCAN_OK.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/ENG/TRAMP/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     46 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     31 02] .. 
+-r-xr-xr-x   1    0    0     115488 Sep  1 2010 [ 311296 00] TRAMP_01.AT3 
+-r-xr-xr-x   1    0    0      87216 Sep  1 2010 [ 311360 00] TRAMP_02.AT3 
+-r-xr-xr-x   1    0    0     121440 Sep  1 2010 [ 311408 00] TRAMP_03.AT3 
+-r-xr-xr-x   1    0    0      93912 Sep  1 2010 [ 311472 00] TRAMP_04.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/ENG/TREASURE/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     47 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     31 02] .. 
+-r-xr-xr-x   1    0    0     136320 Sep  1 2010 [ 311520 00] THUNT_01.AT3 
+-r-xr-xr-x   1    0    0     137064 Sep  1 2010 [ 311600 00] THUNT_02.AT3 
+-r-xr-xr-x   1    0    0      93168 Sep  1 2010 [ 311680 00] THUNT_03.AT3 
+-r-xr-xr-x   1    0    0     108792 Sep  1 2010 [ 311728 00] THUNT_BD.AT3 
+-r-xr-xr-x   1    0    0      95400 Sep  1 2010 [ 311792 00] THUNT_DG.AT3 
+-r-xr-xr-x   1    0    0     130368 Sep  1 2010 [ 311840 00] THUNT_X.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/ES/BOAT/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     48 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     32 02] .. 
+-r-xr-xr-x   1    0    0     125904 Sep  1 2010 [ 311904 00] BOATDRAW.AT3 
+-r-xr-xr-x   1    0    0      86472 Sep  1 2010 [ 311968 00] BOAT_01.AT3 
+-r-xr-xr-x   1    0    0      99864 Sep  1 2010 [ 312016 00] BOAT_02.AT3 
+-r-xr-xr-x   1    0    0      70104 Sep  1 2010 [ 312080 00] BOAT_03.AT3 
+-r-xr-xr-x   1    0    0     128136 Sep  1 2010 [ 312128 00] BOAT_04.AT3 
+-r-xr-xr-x   1    0    0      98376 Sep  1 2010 [ 312192 00] BOAT_05.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/ES/BOWLING/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     49 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     32 02] .. 
+-r-xr-xr-x   1    0    0     110280 Sep  1 2010 [ 312256 00] BOWL_01.AT3 
+-r-xr-xr-x   1    0    0     109536 Sep  1 2010 [ 312320 00] BOWL_02.AT3 
+-r-xr-xr-x   1    0    0     109536 Sep  1 2010 [ 312384 00] BOWL_03.AT3 
+-r-xr-xr-x   1    0    0     108792 Sep  1 2010 [ 312448 00] BOWL_04.AT3 
+-r-xr-xr-x   1    0    0      92424 Sep  1 2010 [ 312512 00] BOWL_05.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/ES/DRAWING/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     50 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     32 02] .. 
+-r-xr-xr-x   1    0    0      99864 Sep  1 2010 [ 312560 00] DRAW_01.AT3 
+-r-xr-xr-x   1    0    0      76056 Sep  1 2010 [ 312624 00] DRAW_02.AT3 
+-r-xr-xr-x   1    0    0     122184 Sep  1 2010 [ 312672 00] DRAW_03.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/ES/DRIVING/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     51 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     32 02] .. 
+-r-xr-xr-x   1    0    0     134832 Sep  1 2010 [ 312736 00] DRIVDRAW.AT3 
+-r-xr-xr-x   1    0    0     170544 Sep  1 2010 [ 312816 00] DRIVE_01.AT3 
+-r-xr-xr-x   1    0    0      67128 Sep  1 2010 [ 312912 00] DRIVE_02.AT3 
+-r-xr-xr-x   1    0    0      76056 Sep  1 2010 [ 312960 00] DRIVE_03.AT3 
+-r-xr-xr-x   1    0    0     132600 Sep  1 2010 [ 313008 00] DRIVE_04.AT3 
+-r-xr-xr-x   1    0    0     119208 Sep  1 2010 [ 313088 00] DRIVE_05.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/ES/FISHING/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     52 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     32 02] .. 
+-r-xr-xr-x   1    0    0     111024 Sep  1 2010 [ 313152 00] FISH_01.AT3 
+-r-xr-xr-x   1    0    0      99864 Sep  1 2010 [ 313216 00] FISH_02.AT3 
+-r-xr-xr-x   1    0    0      98376 Sep  1 2010 [ 313280 00] FISH_03.AT3 
+-r-xr-xr-x   1    0    0      73824 Sep  1 2010 [ 313344 00] FISH_04.AT3 
+-r-xr-xr-x   1    0    0      96888 Sep  1 2010 [ 313392 00] FISH_05.AT3 
+-r-xr-xr-x   1    0    0     109536 Sep  1 2010 [ 313440 00] FISH_06.AT3 
+-r-xr-xr-x   1    0    0      56712 Sep  1 2010 [ 313504 00] FISH_07.AT3 
+-r-xr-xr-x   1    0    0      60432 Sep  1 2010 [ 313536 00] FISH_08.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/ES/FLOWER/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     53 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     32 02] .. 
+-r-xr-xr-x   1    0    0     102096 Sep  1 2010 [ 313568 00] FLOW_01.AT3 
+-r-xr-xr-x   1    0    0      90192 Sep  1 2010 [ 313632 00] FLOW_02.AT3 
+-r-xr-xr-x   1    0    0      76800 Sep  1 2010 [ 313680 00] FLOW_03.AT3 
+-r-xr-xr-x   1    0    0     111024 Sep  1 2010 [ 313728 00] FLOW_04.AT3 
+-r-xr-xr-x   1    0    0      89448 Sep  1 2010 [ 313792 00] FLOW_05.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/ES/GENERIC/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     54 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     32 02] .. 
+-r-xr-xr-x   1    0    0      69360 Sep  1 2010 [ 313840 00] GENW_01.AT3 
+-r-xr-xr-x   1    0    0      84984 Sep  1 2010 [ 313888 00] GENW_02.AT3 
+-r-xr-xr-x   1    0    0      84240 Sep  1 2010 [ 313936 00] GENW_03.AT3 
+-r-xr-xr-x   1    0    0      41832 Sep  1 2010 [ 313984 00] GEN_01.AT3 
+-r-xr-xr-x   1    0    0      27696 Sep  1 2010 [ 314016 00] GEN_02.AT3 
+-r-xr-xr-x   1    0    0      26208 Sep  1 2010 [ 314032 00] GEN_03.AT3 
+-r-xr-xr-x   1    0    0      36624 Sep  1 2010 [ 314048 00] GEN_04.AT3 
+-r-xr-xr-x   1    0    0      29928 Sep  1 2010 [ 314080 00] GEN_05.AT3 
+-r-xr-xr-x   1    0    0      38856 Sep  1 2010 [ 314096 00] GEN_06.AT3 
+-r-xr-xr-x   1    0    0      43320 Sep  1 2010 [ 314128 00] GEN_07.AT3 
+-r-xr-xr-x   1    0    0      26952 Sep  1 2010 [ 314160 00] GEN_08.AT3 
+-r-xr-xr-x   1    0    0      28440 Sep  1 2010 [ 314176 00] GEN_09.AT3 
+-r-xr-xr-x   1    0    0      63408 Sep  1 2010 [ 314192 00] GEN_10.AT3 
+-r-xr-xr-x   1    0    0      61176 Sep  1 2010 [ 314224 00] GEN_11.AT3 
+-r-xr-xr-x   1    0    0      50760 Sep  1 2010 [ 314256 00] GEN_12.AT3 
+-r-xr-xr-x   1    0    0      82008 Sep  1 2010 [ 314288 00] GEN_13.AT3 
+-r-xr-xr-x   1    0    0      43320 Sep  1 2010 [ 314336 00] GEN_14.AT3 
+-r-xr-xr-x   1    0    0      42576 Sep  1 2010 [ 314368 00] GEN_15.AT3 
+-r-xr-xr-x   1    0    0      24720 Sep  1 2010 [ 314400 00] GEN_16.AT3 
+-r-xr-xr-x   1    0    0      52992 Sep  1 2010 [ 314416 00] GEN_17.AT3 
+-r-xr-xr-x   1    0    0      25464 Sep  1 2010 [ 314448 00] GEN_18.AT3 
+-r-xr-xr-x   1    0    0      41832 Sep  1 2010 [ 314464 00] GEN_19.AT3 
+-r-xr-xr-x   1    0    0      35136 Sep  1 2010 [ 314496 00] GEN_20.AT3 
+-r-xr-xr-x   1    0    0      39600 Sep  1 2010 [ 314528 00] GEN_21.AT3 
+-r-xr-xr-x   1    0    0      28440 Sep  1 2010 [ 314560 00] GEN_22.AT3 
+-r-xr-xr-x   1    0    0      31416 Sep  1 2010 [ 314576 00] GEN_23.AT3 
+-r-xr-xr-x   1    0    0      33648 Sep  1 2010 [ 314592 00] GEN_24.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/ES/HATCHING/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     55 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     32 02] .. 
+-r-xr-xr-x   1    0    0      88704 Sep  1 2010 [ 314624 00] HATCH_01.AT3 
+-r-xr-xr-x   1    0    0     141528 Sep  1 2010 [ 314672 00] HATCH_02.AT3 
+-r-xr-xr-x   1    0    0     125160 Sep  1 2010 [ 314752 00] HATCH_03.AT3 
+-r-xr-xr-x   1    0    0     114744 Sep  1 2010 [ 314816 00] HATCH_04.AT3 
+-r-xr-xr-x   1    0    0     115488 Sep  1 2010 [ 314880 00] HATCH_05.AT3 
+-r-xr-xr-x   1    0    0      82752 Sep  1 2010 [ 314944 00] HATCH_06.AT3 
+-r-xr-xr-x   1    0    0      84984 Sep  1 2010 [ 314992 00] HATCH_07.AT3 
+-r-xr-xr-x   1    0    0      99120 Sep  1 2010 [ 315040 00] HATCH_08.AT3 
+-r-xr-xr-x   1    0    0     123672 Sep  1 2010 [ 315104 00] HATCH_09.AT3 
+-r-xr-xr-x   1    0    0      99120 Sep  1 2010 [ 315168 00] HATCH_10.AT3 
+-r-xr-xr-x   1    0    0     121440 Sep  1 2010 [ 315232 00] HATCH_11.AT3 
+-r-xr-xr-x   1    0    0      74568 Sep  1 2010 [ 315296 00] HATCH_12.AT3 
+-r-xr-xr-x   1    0    0     143760 Sep  1 2010 [ 315344 00] HATCH_14.AT3 
+-r-xr-xr-x   1    0    0      82752 Sep  1 2010 [ 315424 00] HATCH_15.AT3 
+-r-xr-xr-x   1    0    0     111768 Sep  1 2010 [ 315472 00] HATCH_16.AT3 
+-r-xr-xr-x   1    0    0     178728 Sep  1 2010 [ 315536 00] HATCH_17.AT3 
+-r-xr-xr-x   1    0    0     116976 Sep  1 2010 [ 315632 00] HATCH_18.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/ES/OPENPLAY/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     56 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     32 02] .. 
+-r-xr-xr-x   1    0    0      79776 Sep  1 2010 [ 315696 00] HINT_01.AT3 
+-r-xr-xr-x   1    0    0     119208 Sep  1 2010 [ 315744 00] NO_CAM.AT3 
+-r-xr-xr-x   1    0    0     150456 Sep  1 2010 [ 315808 00] OPLAY_01.AT3 
+-r-xr-xr-x   1    0    0      86472 Sep  1 2010 [ 315888 00] OPLAY_02.AT3 
+-r-xr-xr-x   1    0    0     120696 Sep  1 2010 [ 315936 00] PDA_01.AT3 
+-r-xr-xr-x   1    0    0      99120 Sep  1 2010 [ 316000 00] PDA_02.AT3 
+-r-xr-xr-x   1    0    0     135576 Sep  1 2010 [ 316064 00] WARN_01.AT3 
+-r-xr-xr-x   1    0    0     134088 Sep  1 2010 [ 316144 00] WARN_02.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/ES/PETHOME/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     57 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     32 02] .. 
+-r-xr-xr-x   1    0    0      99120 Sep  1 2010 [ 316224 00] PHOME_01.AT3 
+-r-xr-xr-x   1    0    0      95400 Sep  1 2010 [ 316288 00] PHOME_02.AT3 
+-r-xr-xr-x   1    0    0     115488 Sep  1 2010 [ 316336 00] PHOME_03.AT3 
+-r-xr-xr-x   1    0    0      54480 Sep  1 2010 [ 316400 00] PHOME_04.AT3 
+-r-xr-xr-x   1    0    0      86472 Sep  1 2010 [ 316432 00] PHOME_05.AT3 
+-r-xr-xr-x   1    0    0     126648 Sep  1 2010 [ 316480 00] PHOME_06.AT3 
+-r-xr-xr-x   1    0    0     119952 Sep  1 2010 [ 316544 00] PHOME_07.AT3 
+-r-xr-xr-x   1    0    0      82008 Sep  1 2010 [ 316608 00] PHOME_08.AT3 
+-r-xr-xr-x   1    0    0     134088 Sep  1 2010 [ 316656 00] PHOME_09.AT3 
+-r-xr-xr-x   1    0    0      95400 Sep  1 2010 [ 316736 00] PHOME_10.AT3 
+-r-xr-xr-x   1    0    0     114744 Sep  1 2010 [ 316784 00] PHOME_11.AT3 
+-r-xr-xr-x   1    0    0      60432 Sep  1 2010 [ 316848 00] PHOME_12.AT3 
+-r-xr-xr-x   1    0    0     134088 Sep  1 2010 [ 316880 00] ROFF_01.AT3 
+-r-xr-xr-x   1    0    0      96888 Sep  1 2010 [ 316960 00] ROFF_02.AT3 
+-r-xr-xr-x   1    0    0      61920 Sep  1 2010 [ 317008 00] ROFF_03.AT3 
+-r-xr-xr-x   1    0    0      61176 Sep  1 2010 [ 317040 00] ROFF_04.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/ES/SCANNER/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     58 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     32 02] .. 
+-r-xr-xr-x   1    0    0      91680 Sep  1 2010 [ 317072 00] SCAN_01.AT3 
+-r-xr-xr-x   1    0    0     133344 Sep  1 2010 [ 317120 00] SCAN_02.AT3 
+-r-xr-xr-x   1    0    0     106560 Sep  1 2010 [ 317200 00] SCAN_DUM.AT3 
+-r-xr-xr-x   1    0    0     129624 Sep  1 2010 [ 317264 00] SCAN_EX.AT3 
+-r-xr-xr-x   1    0    0     119208 Sep  1 2010 [ 317328 00] SCAN_FED.AT3 
+-r-xr-xr-x   1    0    0     126648 Sep  1 2010 [ 317392 00] SCAN_HAP.AT3 
+-r-xr-xr-x   1    0    0     114000 Sep  1 2010 [ 317456 00] SCAN_OK.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/ES/TRAMP/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     59 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     32 02] .. 
+-r-xr-xr-x   1    0    0     113256 Sep  1 2010 [ 317520 00] TRAMP_01.AT3 
+-r-xr-xr-x   1    0    0      80520 Sep  1 2010 [ 317584 00] TRAMP_02.AT3 
+-r-xr-xr-x   1    0    0     108792 Sep  1 2010 [ 317632 00] TRAMP_03.AT3 
+-r-xr-xr-x   1    0    0      94656 Sep  1 2010 [ 317696 00] TRAMP_04.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/ES/TREASURE/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     60 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     32 02] .. 
+-r-xr-xr-x   1    0    0     134088 Sep  1 2010 [ 317744 00] THUNT_01.AT3 
+-r-xr-xr-x   1    0    0     125904 Sep  1 2010 [ 317824 00] THUNT_02.AT3 
+-r-xr-xr-x   1    0    0      90936 Sep  1 2010 [ 317888 00] THUNT_03.AT3 
+-r-xr-xr-x   1    0    0     112512 Sep  1 2010 [ 317936 00] THUNT_BD.AT3 
+-r-xr-xr-x   1    0    0      88704 Sep  1 2010 [ 318000 00] THUNT_DG.AT3 
+-r-xr-xr-x   1    0    0     129624 Sep  1 2010 [ 318048 00] THUNT_X.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/FR/BOAT/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     61 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     33 02] .. 
+-r-xr-xr-x   1    0    0     135576 Sep  1 2010 [ 318112 00] BOATDRAW.AT3 
+-r-xr-xr-x   1    0    0     105072 Sep  1 2010 [ 318192 00] BOAT_01.AT3 
+-r-xr-xr-x   1    0    0     118464 Sep  1 2010 [ 318256 00] BOAT_02.AT3 
+-r-xr-xr-x   1    0    0      69360 Sep  1 2010 [ 318320 00] BOAT_03.AT3 
+-r-xr-xr-x   1    0    0     148224 Sep  1 2010 [ 318368 00] BOAT_04.AT3 
+-r-xr-xr-x   1    0    0     118464 Sep  1 2010 [ 318448 00] BOAT_05.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/FR/BOWLING/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     62 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     33 02] .. 
+-r-xr-xr-x   1    0    0     115488 Sep  1 2010 [ 318512 00] BOWL_01.AT3 
+-r-xr-xr-x   1    0    0     134832 Sep  1 2010 [ 318576 00] BOWL_02.AT3 
+-r-xr-xr-x   1    0    0     105072 Sep  1 2010 [ 318656 00] BOWL_03.AT3 
+-r-xr-xr-x   1    0    0     145992 Sep  1 2010 [ 318720 00] BOWL_04.AT3 
+-r-xr-xr-x   1    0    0      91680 Sep  1 2010 [ 318800 00] BOWL_05.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/FR/DRAWING/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     63 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     33 02] .. 
+-r-xr-xr-x   1    0    0     103584 Sep  1 2010 [ 318848 00] DRAW_01.AT3 
+-r-xr-xr-x   1    0    0      79032 Sep  1 2010 [ 318912 00] DRAW_02.AT3 
+-r-xr-xr-x   1    0    0     139296 Sep  1 2010 [ 318960 00] DRAW_03.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/FR/DRIVING/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     64 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     33 02] .. 
+-r-xr-xr-x   1    0    0     127392 Sep  1 2010 [ 319040 00] DRIVDRAW.AT3 
+-r-xr-xr-x   1    0    0     154176 Sep  1 2010 [ 319104 00] DRIVE_01.AT3 
+-r-xr-xr-x   1    0    0      79032 Sep  1 2010 [ 319184 00] DRIVE_02.AT3 
+-r-xr-xr-x   1    0    0      76056 Sep  1 2010 [ 319232 00] DRIVE_03.AT3 
+-r-xr-xr-x   1    0    0     139296 Sep  1 2010 [ 319280 00] DRIVE_04.AT3 
+-r-xr-xr-x   1    0    0      97632 Sep  1 2010 [ 319360 00] DRIVE_05.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/FR/FISHING/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     65 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     33 02] .. 
+-r-xr-xr-x   1    0    0     131112 Sep  1 2010 [ 319408 00] FISH_01.AT3 
+-r-xr-xr-x   1    0    0     117720 Sep  1 2010 [ 319488 00] FISH_02.AT3 
+-r-xr-xr-x   1    0    0     122928 Sep  1 2010 [ 319552 00] FISH_03.AT3 
+-r-xr-xr-x   1    0    0      87216 Sep  1 2010 [ 319616 00] FISH_04.AT3 
+-r-xr-xr-x   1    0    0     118464 Sep  1 2010 [ 319664 00] FISH_05.AT3 
+-r-xr-xr-x   1    0    0     118464 Sep  1 2010 [ 319728 00] FISH_06.AT3 
+-r-xr-xr-x   1    0    0      84984 Sep  1 2010 [ 319792 00] FISH_07.AT3 
+-r-xr-xr-x   1    0    0      71592 Sep  1 2010 [ 319840 00] FISH_08.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/FR/FLOWER/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     66 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     33 02] .. 
+-r-xr-xr-x   1    0    0     119952 Sep  1 2010 [ 319888 00] FLOW_01.AT3 
+-r-xr-xr-x   1    0    0     113256 Sep  1 2010 [ 319952 00] FLOW_02.AT3 
+-r-xr-xr-x   1    0    0      86472 Sep  1 2010 [ 320016 00] FLOW_03.AT3 
+-r-xr-xr-x   1    0    0     140040 Sep  1 2010 [ 320064 00] FLOW_04.AT3 
+-r-xr-xr-x   1    0    0      96888 Sep  1 2010 [ 320144 00] FLOW_05.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/FR/GENERIC/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     67 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     33 02] .. 
+-r-xr-xr-x   1    0    0      83496 Sep  1 2010 [ 320192 00] GENW_01.AT3 
+-r-xr-xr-x   1    0    0      93168 Sep  1 2010 [ 320240 00] GENW_02.AT3 
+-r-xr-xr-x   1    0    0      80520 Sep  1 2010 [ 320288 00] GENW_03.AT3 
+-r-xr-xr-x   1    0    0      44064 Sep  1 2010 [ 320336 00] GEN_01.AT3 
+-r-xr-xr-x   1    0    0      29184 Sep  1 2010 [ 320368 00] GEN_02.AT3 
+-r-xr-xr-x   1    0    0      34392 Sep  1 2010 [ 320384 00] GEN_03.AT3 
+-r-xr-xr-x   1    0    0      40344 Sep  1 2010 [ 320416 00] GEN_04.AT3 
+-r-xr-xr-x   1    0    0      36624 Sep  1 2010 [ 320448 00] GEN_05.AT3 
+-r-xr-xr-x   1    0    0      48528 Sep  1 2010 [ 320480 00] GEN_06.AT3 
+-r-xr-xr-x   1    0    0      41832 Sep  1 2010 [ 320512 00] GEN_07.AT3 
+-r-xr-xr-x   1    0    0      32160 Sep  1 2010 [ 320544 00] GEN_08.AT3 
+-r-xr-xr-x   1    0    0      32904 Sep  1 2010 [ 320560 00] GEN_09.AT3 
+-r-xr-xr-x   1    0    0      60432 Sep  1 2010 [ 320592 00] GEN_10.AT3 
+-r-xr-xr-x   1    0    0      69360 Sep  1 2010 [ 320624 00] GEN_11.AT3 
+-r-xr-xr-x   1    0    0      58200 Sep  1 2010 [ 320672 00] GEN_12.AT3 
+-r-xr-xr-x   1    0    0      80520 Sep  1 2010 [ 320704 00] GEN_13.AT3 
+-r-xr-xr-x   1    0    0      47784 Sep  1 2010 [ 320752 00] GEN_14.AT3 
+-r-xr-xr-x   1    0    0      32904 Sep  1 2010 [ 320784 00] GEN_15.AT3 
+-r-xr-xr-x   1    0    0      38112 Sep  1 2010 [ 320816 00] GEN_16.AT3 
+-r-xr-xr-x   1    0    0      47784 Sep  1 2010 [ 320848 00] GEN_17.AT3 
+-r-xr-xr-x   1    0    0      28440 Sep  1 2010 [ 320880 00] GEN_18.AT3 
+-r-xr-xr-x   1    0    0      50760 Sep  1 2010 [ 320896 00] GEN_19.AT3 
+-r-xr-xr-x   1    0    0      35880 Sep  1 2010 [ 320928 00] GEN_20.AT3 
+-r-xr-xr-x   1    0    0      41088 Sep  1 2010 [ 320960 00] GEN_21.AT3 
+-r-xr-xr-x   1    0    0      34392 Sep  1 2010 [ 320992 00] GEN_22.AT3 
+-r-xr-xr-x   1    0    0      32160 Sep  1 2010 [ 321024 00] GEN_23.AT3 
+-r-xr-xr-x   1    0    0      41832 Sep  1 2010 [ 321040 00] GEN_24.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/FR/HATCHING/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     68 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     33 02] .. 
+-r-xr-xr-x   1    0    0      97632 Sep  1 2010 [ 321072 00] HATCH_01.AT3 
+-r-xr-xr-x   1    0    0     152688 Sep  1 2010 [ 321120 00] HATCH_02.AT3 
+-r-xr-xr-x   1    0    0     152688 Sep  1 2010 [ 321200 00] HATCH_03.AT3 
+-r-xr-xr-x   1    0    0     141528 Sep  1 2010 [ 321280 00] HATCH_04.AT3 
+-r-xr-xr-x   1    0    0     121440 Sep  1 2010 [ 321360 00] HATCH_05.AT3 
+-r-xr-xr-x   1    0    0     114744 Sep  1 2010 [ 321424 00] HATCH_06.AT3 
+-r-xr-xr-x   1    0    0      88704 Sep  1 2010 [ 321488 00] HATCH_07.AT3 
+-r-xr-xr-x   1    0    0     100608 Sep  1 2010 [ 321536 00] HATCH_08.AT3 
+-r-xr-xr-x   1    0    0     130368 Sep  1 2010 [ 321600 00] HATCH_09.AT3 
+-r-xr-xr-x   1    0    0     107304 Sep  1 2010 [ 321664 00] HATCH_10.AT3 
+-r-xr-xr-x   1    0    0     146736 Sep  1 2010 [ 321728 00] HATCH_11.AT3 
+-r-xr-xr-x   1    0    0      79776 Sep  1 2010 [ 321808 00] HATCH_12.AT3 
+-r-xr-xr-x   1    0    0     140040 Sep  1 2010 [ 321856 00] HATCH_14.AT3 
+-r-xr-xr-x   1    0    0     108792 Sep  1 2010 [ 321936 00] HATCH_15.AT3 
+-r-xr-xr-x   1    0    0     115488 Sep  1 2010 [ 322000 00] HATCH_16.AT3 
+-r-xr-xr-x   1    0    0     159384 Sep  1 2010 [ 322064 00] HATCH_17.AT3 
+-r-xr-xr-x   1    0    0     126648 Sep  1 2010 [ 322144 00] HATCH_18.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/FR/OPENPLAY/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     69 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     33 02] .. 
+-r-xr-xr-x   1    0    0      83496 Sep  1 2010 [ 322208 00] HINT_01.AT3 
+-r-xr-xr-x   1    0    0     140040 Sep  1 2010 [ 322256 00] NO_CAM.AT3 
+-r-xr-xr-x   1    0    0     156408 Sep  1 2010 [ 322336 00] OPLAY_01.AT3 
+-r-xr-xr-x   1    0    0      83496 Sep  1 2010 [ 322416 00] OPLAY_02.AT3 
+-r-xr-xr-x   1    0    0     113256 Sep  1 2010 [ 322464 00] PDA_01.AT3 
+-r-xr-xr-x   1    0    0     112512 Sep  1 2010 [ 322528 00] PDA_02.AT3 
+-r-xr-xr-x   1    0    0     157896 Sep  1 2010 [ 322592 00] WARN_01.AT3 
+-r-xr-xr-x   1    0    0     169056 Sep  1 2010 [ 322672 00] WARN_02.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/FR/PETHOME/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     70 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     33 02] .. 
+-r-xr-xr-x   1    0    0     119208 Sep  1 2010 [ 322768 00] PHOME_01.AT3 
+-r-xr-xr-x   1    0    0      92424 Sep  1 2010 [ 322832 00] PHOME_02.AT3 
+-r-xr-xr-x   1    0    0     126648 Sep  1 2010 [ 322880 00] PHOME_03.AT3 
+-r-xr-xr-x   1    0    0      61920 Sep  1 2010 [ 322944 00] PHOME_04.AT3 
+-r-xr-xr-x   1    0    0     123672 Sep  1 2010 [ 322976 00] PHOME_05.AT3 
+-r-xr-xr-x   1    0    0     136320 Sep  1 2010 [ 323040 00] PHOME_06.AT3 
+-r-xr-xr-x   1    0    0     125160 Sep  1 2010 [ 323120 00] PHOME_07.AT3 
+-r-xr-xr-x   1    0    0      99120 Sep  1 2010 [ 323184 00] PHOME_08.AT3 
+-r-xr-xr-x   1    0    0     158640 Sep  1 2010 [ 323248 00] PHOME_09.AT3 
+-r-xr-xr-x   1    0    0     107304 Sep  1 2010 [ 323328 00] PHOME_10.AT3 
+-r-xr-xr-x   1    0    0     133344 Sep  1 2010 [ 323392 00] PHOME_11.AT3 
+-r-xr-xr-x   1    0    0      76056 Sep  1 2010 [ 323472 00] PHOME_12.AT3 
+-r-xr-xr-x   1    0    0     151200 Sep  1 2010 [ 323520 00] ROFF_01.AT3 
+-r-xr-xr-x   1    0    0     117720 Sep  1 2010 [ 323600 00] ROFF_02.AT3 
+-r-xr-xr-x   1    0    0      82752 Sep  1 2010 [ 323664 00] ROFF_03.AT3 
+-r-xr-xr-x   1    0    0      82752 Sep  1 2010 [ 323712 00] ROFF_04.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/FR/SCANNER/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     71 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     33 02] .. 
+-r-xr-xr-x   1    0    0     109536 Sep  1 2010 [ 323760 00] SCAN_01.AT3 
+-r-xr-xr-x   1    0    0     159384 Sep  1 2010 [ 323824 00] SCAN_02.AT3 
+-r-xr-xr-x   1    0    0     132600 Sep  1 2010 [ 323904 00] SCAN_DUM.AT3 
+-r-xr-xr-x   1    0    0     157152 Sep  1 2010 [ 323984 00] SCAN_EX.AT3 
+-r-xr-xr-x   1    0    0     131112 Sep  1 2010 [ 324064 00] SCAN_FED.AT3 
+-r-xr-xr-x   1    0    0     154920 Sep  1 2010 [ 324144 00] SCAN_HAP.AT3 
+-r-xr-xr-x   1    0    0     128880 Sep  1 2010 [ 324224 00] SCAN_OK.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/FR/TRAMP/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     72 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     33 02] .. 
+-r-xr-xr-x   1    0    0      99864 Sep  1 2010 [ 324288 00] TRAMP_01.AT3 
+-r-xr-xr-x   1    0    0     104328 Sep  1 2010 [ 324352 00] TRAMP_02.AT3 
+-r-xr-xr-x   1    0    0     143016 Sep  1 2010 [ 324416 00] TRAMP_03.AT3 
+-r-xr-xr-x   1    0    0     114744 Sep  1 2010 [ 324496 00] TRAMP_04.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/FR/TREASURE/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     73 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     33 02] .. 
+-r-xr-xr-x   1    0    0     147480 Sep  1 2010 [ 324560 00] THUNT_01.AT3 
+-r-xr-xr-x   1    0    0     136320 Sep  1 2010 [ 324640 00] THUNT_02.AT3 
+-r-xr-xr-x   1    0    0     108048 Sep  1 2010 [ 324720 00] THUNT_03.AT3 
+-r-xr-xr-x   1    0    0     124416 Sep  1 2010 [ 324784 00] THUNT_BD.AT3 
+-r-xr-xr-x   1    0    0      93168 Sep  1 2010 [ 324848 00] THUNT_DG.AT3 
+-r-xr-xr-x   1    0    0     147480 Sep  1 2010 [ 324896 00] THUNT_X.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/PT/BOAT/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     74 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     34 02] .. 
+-r-xr-xr-x   1    0    0     130368 Sep  1 2010 [ 324976 00] BOATDRAW.AT3 
+-r-xr-xr-x   1    0    0      86472 Sep  1 2010 [ 325040 00] BOAT_01.AT3 
+-r-xr-xr-x   1    0    0     113256 Sep  1 2010 [ 325088 00] BOAT_02.AT3 
+-r-xr-xr-x   1    0    0      66384 Sep  1 2010 [ 325152 00] BOAT_03.AT3 
+-r-xr-xr-x   1    0    0     142272 Sep  1 2010 [ 325200 00] BOAT_04.AT3 
+-r-xr-xr-x   1    0    0      97632 Sep  1 2010 [ 325280 00] BOAT_05.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/PT/BOWLING/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     75 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     34 02] .. 
+-r-xr-xr-x   1    0    0     102840 Sep  1 2010 [ 325328 00] BOWL_01.AT3 
+-r-xr-xr-x   1    0    0     124416 Sep  1 2010 [ 325392 00] BOWL_02.AT3 
+-r-xr-xr-x   1    0    0     116232 Sep  1 2010 [ 325456 00] BOWL_03.AT3 
+-r-xr-xr-x   1    0    0     126648 Sep  1 2010 [ 325520 00] BOWL_04.AT3 
+-r-xr-xr-x   1    0    0      82008 Sep  1 2010 [ 325584 00] BOWL_05.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/PT/DRAWING/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     76 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     34 02] .. 
+-r-xr-xr-x   1    0    0      97632 Sep  1 2010 [ 325632 00] DRAW_01.AT3 
+-r-xr-xr-x   1    0    0      71592 Sep  1 2010 [ 325680 00] DRAW_02.AT3 
+-r-xr-xr-x   1    0    0     111768 Sep  1 2010 [ 325728 00] DRAW_03.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/PT/DRIVING/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     77 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     34 02] .. 
+-r-xr-xr-x   1    0    0     140040 Sep  1 2010 [ 325792 00] DRIVDRAW.AT3 
+-r-xr-xr-x   1    0    0     175008 Sep  1 2010 [ 325872 00] DRIVE_01.AT3 
+-r-xr-xr-x   1    0    0      74568 Sep  1 2010 [ 325968 00] DRIVE_02.AT3 
+-r-xr-xr-x   1    0    0      76056 Sep  1 2010 [ 326016 00] DRIVE_03.AT3 
+-r-xr-xr-x   1    0    0     108048 Sep  1 2010 [ 326064 00] DRIVE_04.AT3 
+-r-xr-xr-x   1    0    0     117720 Sep  1 2010 [ 326128 00] DRIVE_05.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/PT/FISHING/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     78 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     34 02] .. 
+-r-xr-xr-x   1    0    0     111768 Sep  1 2010 [ 326192 00] FISH_01.AT3 
+-r-xr-xr-x   1    0    0     110280 Sep  1 2010 [ 326256 00] FISH_02.AT3 
+-r-xr-xr-x   1    0    0      77544 Sep  1 2010 [ 326320 00] FISH_03.AT3 
+-r-xr-xr-x   1    0    0      76056 Sep  1 2010 [ 326368 00] FISH_04.AT3 
+-r-xr-xr-x   1    0    0     101352 Sep  1 2010 [ 326416 00] FISH_05.AT3 
+-r-xr-xr-x   1    0    0     109536 Sep  1 2010 [ 326480 00] FISH_06.AT3 
+-r-xr-xr-x   1    0    0      67128 Sep  1 2010 [ 326544 00] FISH_07.AT3 
+-r-xr-xr-x   1    0    0      68616 Sep  1 2010 [ 326592 00] FISH_08.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/PT/FLOWER/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     79 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     34 02] .. 
+-r-xr-xr-x   1    0    0     100608 Sep  1 2010 [ 326640 00] FLOW_01.AT3 
+-r-xr-xr-x   1    0    0     108048 Sep  1 2010 [ 326704 00] FLOW_02.AT3 
+-r-xr-xr-x   1    0    0      70104 Sep  1 2010 [ 326768 00] FLOW_03.AT3 
+-r-xr-xr-x   1    0    0     116232 Sep  1 2010 [ 326816 00] FLOW_04.AT3 
+-r-xr-xr-x   1    0    0      90192 Sep  1 2010 [ 326880 00] FLOW_05.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/PT/GENERIC/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     80 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     34 02] .. 
+-r-xr-xr-x   1    0    0      73824 Sep  1 2010 [ 326928 00] GENW_01.AT3 
+-r-xr-xr-x   1    0    0      87216 Sep  1 2010 [ 326976 00] GENW_02.AT3 
+-r-xr-xr-x   1    0    0      83496 Sep  1 2010 [ 327024 00] GENW_03.AT3 
+-r-xr-xr-x   1    0    0      42576 Sep  1 2010 [ 327072 00] GEN_01.AT3 
+-r-xr-xr-x   1    0    0      26952 Sep  1 2010 [ 327104 00] GEN_02.AT3 
+-r-xr-xr-x   1    0    0      29184 Sep  1 2010 [ 327120 00] GEN_03.AT3 
+-r-xr-xr-x   1    0    0      35880 Sep  1 2010 [ 327136 00] GEN_04.AT3 
+-r-xr-xr-x   1    0    0      32160 Sep  1 2010 [ 327168 00] GEN_05.AT3 
+-r-xr-xr-x   1    0    0      38112 Sep  1 2010 [ 327184 00] GEN_06.AT3 
+-r-xr-xr-x   1    0    0      41088 Sep  1 2010 [ 327216 00] GEN_07.AT3 
+-r-xr-xr-x   1    0    0      27696 Sep  1 2010 [ 327248 00] GEN_08.AT3 
+-r-xr-xr-x   1    0    0      26208 Sep  1 2010 [ 327264 00] GEN_09.AT3 
+-r-xr-xr-x   1    0    0      63408 Sep  1 2010 [ 327280 00] GEN_10.AT3 
+-r-xr-xr-x   1    0    0      52248 Sep  1 2010 [ 327312 00] GEN_11.AT3 
+-r-xr-xr-x   1    0    0      52992 Sep  1 2010 [ 327344 00] GEN_12.AT3 
+-r-xr-xr-x   1    0    0      76800 Sep  1 2010 [ 327376 00] GEN_13.AT3 
+-r-xr-xr-x   1    0    0      47784 Sep  1 2010 [ 327424 00] GEN_14.AT3 
+-r-xr-xr-x   1    0    0      34392 Sep  1 2010 [ 327456 00] GEN_15.AT3 
+-r-xr-xr-x   1    0    0      23232 Sep  1 2010 [ 327488 00] GEN_16.AT3 
+-r-xr-xr-x   1    0    0      41088 Sep  1 2010 [ 327504 00] GEN_17.AT3 
+-r-xr-xr-x   1    0    0      27696 Sep  1 2010 [ 327536 00] GEN_18.AT3 
+-r-xr-xr-x   1    0    0      41088 Sep  1 2010 [ 327552 00] GEN_19.AT3 
+-r-xr-xr-x   1    0    0      35136 Sep  1 2010 [ 327584 00] GEN_20.AT3 
+-r-xr-xr-x   1    0    0      43320 Sep  1 2010 [ 327616 00] GEN_21.AT3 
+-r-xr-xr-x   1    0    0      35136 Sep  1 2010 [ 327648 00] GEN_22.AT3 
+-r-xr-xr-x   1    0    0      27696 Sep  1 2010 [ 327680 00] GEN_23.AT3 
+-r-xr-xr-x   1    0    0      36624 Sep  1 2010 [ 327696 00] GEN_24.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/PT/HATCHING/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     81 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     34 02] .. 
+-r-xr-xr-x   1    0    0      96144 Sep  1 2010 [ 327728 00] HATCH_01.AT3 
+-r-xr-xr-x   1    0    0     134832 Sep  1 2010 [ 327776 00] HATCH_02.AT3 
+-r-xr-xr-x   1    0    0     131112 Sep  1 2010 [ 327856 00] HATCH_03.AT3 
+-r-xr-xr-x   1    0    0     114000 Sep  1 2010 [ 327936 00] HATCH_04.AT3 
+-r-xr-xr-x   1    0    0     104328 Sep  1 2010 [ 328000 00] HATCH_05.AT3 
+-r-xr-xr-x   1    0    0      90936 Sep  1 2010 [ 328064 00] HATCH_06.AT3 
+-r-xr-xr-x   1    0    0      91680 Sep  1 2010 [ 328112 00] HATCH_07.AT3 
+-r-xr-xr-x   1    0    0     101352 Sep  1 2010 [ 328160 00] HATCH_08.AT3 
+-r-xr-xr-x   1    0    0     134832 Sep  1 2010 [ 328224 00] HATCH_09.AT3 
+-r-xr-xr-x   1    0    0     101352 Sep  1 2010 [ 328304 00] HATCH_10.AT3 
+-r-xr-xr-x   1    0    0     128880 Sep  1 2010 [ 328368 00] HATCH_11.AT3 
+-r-xr-xr-x   1    0    0      82752 Sep  1 2010 [ 328432 00] HATCH_12.AT3 
+-r-xr-xr-x   1    0    0     145992 Sep  1 2010 [ 328480 00] HATCH_14.AT3 
+-r-xr-xr-x   1    0    0      86472 Sep  1 2010 [ 328560 00] HATCH_15.AT3 
+-r-xr-xr-x   1    0    0      97632 Sep  1 2010 [ 328608 00] HATCH_16.AT3 
+-r-xr-xr-x   1    0    0     176496 Sep  1 2010 [ 328656 00] HATCH_17.AT3 
+-r-xr-xr-x   1    0    0     114744 Sep  1 2010 [ 328752 00] HATCH_18.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/PT/OPENPLAY/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     82 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     34 02] .. 
+-r-xr-xr-x   1    0    0      88704 Sep  1 2010 [ 328816 00] HINT_01.AT3 
+-r-xr-xr-x   1    0    0     109536 Sep  1 2010 [ 328864 00] NO_CAM.AT3 
+-r-xr-xr-x   1    0    0     156408 Sep  1 2010 [ 328928 00] OPLAY_01.AT3 
+-r-xr-xr-x   1    0    0      85728 Sep  1 2010 [ 329008 00] OPLAY_02.AT3 
+-r-xr-xr-x   1    0    0     122928 Sep  1 2010 [ 329056 00] PDA_01.AT3 
+-r-xr-xr-x   1    0    0      98376 Sep  1 2010 [ 329120 00] PDA_02.AT3 
+-r-xr-xr-x   1    0    0     131856 Sep  1 2010 [ 329184 00] WARN_01.AT3 
+-r-xr-xr-x   1    0    0     140784 Sep  1 2010 [ 329264 00] WARN_02.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/PT/PETHOME/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     83 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     34 02] .. 
+-r-xr-xr-x   1    0    0      98376 Sep  1 2010 [ 329344 00] PHOME_01.AT3 
+-r-xr-xr-x   1    0    0      99120 Sep  1 2010 [ 329408 00] PHOME_02.AT3 
+-r-xr-xr-x   1    0    0     131112 Sep  1 2010 [ 329472 00] PHOME_03.AT3 
+-r-xr-xr-x   1    0    0      56712 Sep  1 2010 [ 329552 00] PHOME_04.AT3 
+-r-xr-xr-x   1    0    0      99864 Sep  1 2010 [ 329584 00] PHOME_05.AT3 
+-r-xr-xr-x   1    0    0     121440 Sep  1 2010 [ 329648 00] PHOME_06.AT3 
+-r-xr-xr-x   1    0    0     107304 Sep  1 2010 [ 329712 00] PHOME_07.AT3 
+-r-xr-xr-x   1    0    0      82008 Sep  1 2010 [ 329776 00] PHOME_08.AT3 
+-r-xr-xr-x   1    0    0     134832 Sep  1 2010 [ 329824 00] PHOME_09.AT3 
+-r-xr-xr-x   1    0    0      93912 Sep  1 2010 [ 329904 00] PHOME_10.AT3 
+-r-xr-xr-x   1    0    0     109536 Sep  1 2010 [ 329952 00] PHOME_11.AT3 
+-r-xr-xr-x   1    0    0      62664 Sep  1 2010 [ 330016 00] PHOME_12.AT3 
+-r-xr-xr-x   1    0    0     137064 Sep  1 2010 [ 330048 00] ROFF_01.AT3 
+-r-xr-xr-x   1    0    0     104328 Sep  1 2010 [ 330128 00] ROFF_02.AT3 
+-r-xr-xr-x   1    0    0      63408 Sep  1 2010 [ 330192 00] ROFF_03.AT3 
+-r-xr-xr-x   1    0    0      76800 Sep  1 2010 [ 330224 00] ROFF_04.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/PT/SCANNER/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     84 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     34 02] .. 
+-r-xr-xr-x   1    0    0     101352 Sep  1 2010 [ 330272 00] SCAN_01.AT3 
+-r-xr-xr-x   1    0    0     132600 Sep  1 2010 [ 330336 00] SCAN_02.AT3 
+-r-xr-xr-x   1    0    0     114744 Sep  1 2010 [ 330416 00] SCAN_DUM.AT3 
+-r-xr-xr-x   1    0    0     129624 Sep  1 2010 [ 330480 00] SCAN_EX.AT3 
+-r-xr-xr-x   1    0    0     133344 Sep  1 2010 [ 330544 00] SCAN_FED.AT3 
+-r-xr-xr-x   1    0    0     117720 Sep  1 2010 [ 330624 00] SCAN_HAP.AT3 
+-r-xr-xr-x   1    0    0     117720 Sep  1 2010 [ 330688 00] SCAN_OK.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/PT/TRAMP/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     85 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     34 02] .. 
+-r-xr-xr-x   1    0    0     111768 Sep  1 2010 [ 330752 00] TRAMP_01.AT3 
+-r-xr-xr-x   1    0    0      88704 Sep  1 2010 [ 330816 00] TRAMP_02.AT3 
+-r-xr-xr-x   1    0    0     121440 Sep  1 2010 [ 330864 00] TRAMP_03.AT3 
+-r-xr-xr-x   1    0    0      94656 Sep  1 2010 [ 330928 00] TRAMP_04.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/SPEECH/PT/TREASURE/
+dr-xr-xr-x   1    0    0       2048 Sep 12 2010 [     86 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  2 2010 [     34 02] .. 
+-r-xr-xr-x   1    0    0     148968 Sep  1 2010 [ 330976 00] THUNT_01.AT3 
+-r-xr-xr-x   1    0    0     137064 Sep  1 2010 [ 331056 00] THUNT_02.AT3 
+-r-xr-xr-x   1    0    0      95400 Sep  1 2010 [ 331136 00] THUNT_03.AT3 
+-r-xr-xr-x   1    0    0     107304 Sep  1 2010 [ 331184 00] THUNT_BD.AT3 
+-r-xr-xr-x   1    0    0      95400 Sep  1 2010 [ 331248 00] THUNT_DG.AT3 
+-r-xr-xr-x   1    0    0     131112 Sep  1 2010 [ 331296 00] THUNT_X.AT3 
+=============================================================== 
+Generated on Mon 08/08/2022 at 15:46:25.45 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

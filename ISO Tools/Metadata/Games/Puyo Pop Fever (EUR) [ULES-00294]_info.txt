@@ -1,0 +1,568 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Puyo Pop Fever   
+Title ID: ULES-00294 
+Region: EUR  
+Languages:   
+Volume Creation Date: 2006-03-01 00:00:00 
+Volume Size: 174 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: PUYOPOPFEVER
+Volume set id: PUYOPOPFEVER
+Publisher id: IGNITION ENTERTAINMENT LTD.
+Data preparer id: SONIC
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 89296
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Mar  1 2006 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  1 2006 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jan 11 2006 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Jan 11 2006 [     42 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Jan 11 2006 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  1 2006 [     22 02] .. 
+-r-xr-xr-x   1    0    0      18218 Jan  5 2006 [  89056 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0      73728 Jan  5 2006 [  89072 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 Feb 23 2006 [  89120 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      13065 Feb  3 2006 [  89136 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0      28049 Feb  3 2006 [  89152 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0     249076 Jan  5 2006 [  89168 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 Jan 11 2006 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Jan 11 2006 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Jan 11 2006 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 11 2006 [     23 02] .. 
+-r-xr-xr-x   1    0    0    2091172 Feb 23 2006 [  21568 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    2091520 Feb 24 2006 [     48 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Jan 11 2006 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Jan 11 2006 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 11 2006 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jan 11 2006 [     27 02] System 
+dr-xr-xr-x   1    0    0      28672 Jan 11 2006 [     28 02] Track3 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Jan 11 2006 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 11 2006 [     24 02] .. 
+-r-xr-xr-x   1    0    0   14809632 Jan 11 2006 [   5184 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    3951712 Jan 11 2006 [   1088 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       1772 Jan 11 2006 [   1072 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/System/
+dr-xr-xr-x   1    0    0       2048 Jan 11 2006 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 11 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0       3312 Jan  5 2006 [  22592 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0       1088 Jan  5 2006 [  22608 00] libadler.prx 
+-r-xr-xr-x   1    0    0      10128 Jan  5 2006 [  22624 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0       1472 Jan  5 2006 [  22640 00] libbase64.prx 
+-r-xr-xr-x   1    0    0       3520 Jan  5 2006 [  22656 00] libccc.prx 
+-r-xr-xr-x   1    0    0       4416 Jan  5 2006 [  22672 00] libdeflt.prx 
+-r-xr-xr-x   1    0    0      23296 Jan  5 2006 [  22688 00] libfont.prx 
+-r-xr-xr-x   1    0    0       3696 Jan  5 2006 [  22704 00] libfpu.prx 
+-r-xr-xr-x   1    0    0       2384 Jan  5 2006 [  22720 00] libmd5.prx 
+-r-xr-xr-x   1    0    0       1296 Jan  5 2006 [  22736 00] libmt19937.prx 
+-r-xr-xr-x   1    0    0      35632 Jan  5 2006 [  22752 00] libpsmfplayer.prx 
+-r-xr-xr-x   1    0    0       1936 Jan  5 2006 [  22784 00] libqpcode.prx 
+-r-xr-xr-x   1    0    0       2576 Jan  5 2006 [  22800 00] libsha1.prx 
+-r-xr-xr-x   1    0    0       2912 Jan  5 2006 [  22816 00] libsha224.prx 
+-r-xr-xr-x   1    0    0       2912 Jan  5 2006 [  22832 00] libsha256.prx 
+-r-xr-xr-x   1    0    0       4592 Jan  5 2006 [  22848 00] libsha512.prx 
+-r-xr-xr-x   1    0    0      20976 Jan  5 2006 [  22864 00] mpeg.prx 
+-r-xr-xr-x   1    0    0       5136 Jan  5 2006 [  22880 00] mpegbase.prx 
+-r-xr-xr-x   1    0    0       6320 Jan  5 2006 [  22896 00] psmf.prx 
+-r-xr-xr-x   1    0    0       2448 Jan  5 2006 [  22912 00] pspnet_ap_dialog_dummy.prx 
+-r-xr-xr-x   1    0    0       6864 Jan  5 2006 [  22944 00] sc_sascore.prx 
+-r-xr-xr-x   1    0    0      31824 Jan  5 2006 [  22928 00] scan.prx 
+-r-xr-xr-x   1    0    0      29536 Jan  5 2006 [  22960 00] show_macaddr.prx 
+-r-xr-xr-x   1    0    0       3888 Jan  5 2006 [  22976 00] usbacc.prx 
+-r-xr-xr-x   1    0    0       6704 Jan  5 2006 [  22992 00] usbmic.prx 
+-r-xr-xr-x   1    0    0      14928 Jan  5 2006 [  23008 00] usbpspcm.prx 
+-r-xr-xr-x   1    0    0       3504 Jan  5 2006 [  23024 00] videocodec.prx 
+
+Directory listing of /PSP_GAME/USRDIR/Track3/
+dr-xr-xr-x   1    0    0      28672 Jan 11 2006 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 11 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0     492624 Jan  5 2006 [  29552 00] 00_TITLE.at3 
+-r-xr-xr-x   1    0    0    1234460 Jan  5 2006 [  29808 00] 01_MENU.at3 
+-r-xr-xr-x   1    0    0    1206188 Jan  5 2006 [  30416 00] 02_RULE.at3 
+-r-xr-xr-x   1    0    0    1273892 Jan  5 2006 [  31008 00] 03_OPENING.at3 
+-r-xr-xr-x   1    0    0    1335644 Jan  5 2006 [  31632 00] 04_MANZAI1.at3 
+-r-xr-xr-x   1    0    0    1167500 Jan  5 2006 [  32288 00] 05_MANZAI2.at3 
+-r-xr-xr-x   1    0    0    1055900 Jan  5 2006 [  32864 00] 06_MANZAI3.at3 
+-r-xr-xr-x   1    0    0     916704 Jan  5 2006 [  33392 00] 07_ENDING1.at3 
+-r-xr-xr-x   1    0    0    1766352 Jan  5 2006 [  33840 00] 08_ENDING2.at3 
+-r-xr-xr-x   1    0    0    2398752 Jan  5 2006 [  34704 00] 09_STAFFROLL.at3 
+-r-xr-xr-x   1    0    0    1872068 Jan  5 2006 [  35888 00] 10_TAISEN1.at3 
+-r-xr-xr-x   1    0    0    1680860 Jan  5 2006 [  36816 00] 11_TAISEN2.at3 
+-r-xr-xr-x   1    0    0    1360196 Jan  5 2006 [  37648 00] 12_TAISEN3.at3 
+-r-xr-xr-x   1    0    0    2260436 Jan  5 2006 [  38320 00] 13_TAISEN4.at3 
+-r-xr-xr-x   1    0    0     450284 Jan  5 2006 [  39424 00] 14_PINCH.at3 
+-r-xr-xr-x   1    0    0    1020932 Jan  5 2006 [  39648 00] 15_FEVER.at3 
+-r-xr-xr-x   1    0    0    2037980 Jan  5 2006 [  40160 00] 16_TOKO1.at3 
+-r-xr-xr-x   1    0    0    1961348 Jan  5 2006 [  41168 00] 17_TOKO2.at3 
+-r-xr-xr-x   1    0    0     106488 Jan  5 2006 [  42128 00] 18_CLEAR.at3 
+-r-xr-xr-x   1    0    0     117648 Jan  5 2006 [  42192 00] 19_BATANKYU.at3 
+-r-xr-xr-x   1    0    0    1044740 Jan  5 2006 [  42256 00] 20_NAME.at3 
+-r-xr-xr-x   1    0    0     308112 Jan  5 2006 [  42768 00] 21_CONTINUE.at3 
+-r-xr-xr-x   1    0    0     110952 Jan  5 2006 [  42928 00] 22_GAMEOVER.at3 
+-r-xr-xr-x   1    0    0     181460 Jan  5 2006 [  43664 00] ADV_GPC.bin 
+-r-xr-xr-x   1    0    0     182776 Jan  5 2006 [  43568 00] ADV_e_GPC.bin 
+-r-xr-xr-x   1    0    0     262272 Jan  5 2006 [  44112 00] BG_00.gim 
+-r-xr-xr-x   1    0    0        528 Jan  5 2006 [  44256 00] BG_00.pvp 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  44272 00] BG_00_e.gim 
+-r-xr-xr-x   1    0    0        528 Jan  5 2006 [  44320 00] BG_00_e.pvp 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  44336 00] BG_01.gim 
+-r-xr-xr-x   1    0    0        528 Jan  5 2006 [  44384 00] BG_01.pvp 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  44400 00] BG_01_e.gim 
+-r-xr-xr-x   1    0    0        528 Jan  5 2006 [  44448 00] BG_01_e.pvp 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  44464 00] BG_02.gim 
+-r-xr-xr-x   1    0    0        528 Jan  5 2006 [  44512 00] BG_02.pvp 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  44528 00] BG_03.gim 
+-r-xr-xr-x   1    0    0        528 Jan  5 2006 [  44576 00] BG_03.pvp 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  44592 00] BG_04.gim 
+-r-xr-xr-x   1    0    0        528 Jan  5 2006 [  44640 00] BG_04.pvp 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  44656 00] BG_05.gim 
+-r-xr-xr-x   1    0    0        528 Jan  5 2006 [  44704 00] BG_05.pvp 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  44720 00] BG_05_e.gim 
+-r-xr-xr-x   1    0    0        528 Jan  5 2006 [  44768 00] BG_05_e.pvp 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  44784 00] BG_06.gim 
+-r-xr-xr-x   1    0    0        528 Jan  5 2006 [  44832 00] BG_06.pvp 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  44848 00] BG_07.gim 
+-r-xr-xr-x   1    0    0        528 Jan  5 2006 [  44896 00] BG_07.pvp 
+-r-xr-xr-x   1    0    0     177108 Jan  5 2006 [  23040 00] COMMON_GPC.bin 
+-r-xr-xr-x   1    0    0    1000868 Jan  5 2006 [  24288 00] CSEL_GPC.bin 
+-r-xr-xr-x   1    0    0     966672 Jan  5 2006 [  23808 00] CSEL_e_GPC.bin 
+-r-xr-xr-x   1    0    0     214796 Jan  5 2006 [  28208 00] FUTAPUYO_GPC.bin 
+-r-xr-xr-x   1    0    0     210152 Jan  5 2006 [  28096 00] FUTAPUYO_e_GPC.bin 
+-r-xr-xr-x   1    0    0     541308 Jan  5 2006 [  25056 00] GAME1P_GPC.bin 
+-r-xr-xr-x   1    0    0     528648 Jan  5 2006 [  24784 00] GAME1P_e_GPC.bin 
+-r-xr-xr-x   1    0    0     539648 Jan  5 2006 [  25600 00] GAME2P_GPC.bin 
+-r-xr-xr-x   1    0    0     526988 Jan  5 2006 [  25328 00] GAME2P_e_GPC.bin 
+-r-xr-xr-x   1    0    0     541504 Jan  5 2006 [  26384 00] GAMECLASSIC_GPC.bin 
+-r-xr-xr-x   1    0    0     528844 Jan  5 2006 [  26112 00] GAMECLASSIC_e_GPC.bin 
+-r-xr-xr-x   1    0    0     549940 Jan  5 2006 [  26928 00] GAMETOKO_GPC.bin 
+-r-xr-xr-x   1    0    0     537280 Jan  5 2006 [  26656 00] GAMETOKO_e_GPC.bin 
+-r-xr-xr-x   1    0    0     558940 Jan  5 2006 [  27472 00] GAMEVERTICAL_GPC.bin 
+-r-xr-xr-x   1    0    0     546280 Jan  5 2006 [  27200 00] GAMEVERTICAL_e_GPC.bin 
+-r-xr-xr-x   1    0    0     471660 Jan  5 2006 [  29312 00] GAME_GPC.bin 
+-r-xr-xr-x   1    0    0     459000 Jan  5 2006 [  25872 00] GAME_e_GPC.bin 
+-r-xr-xr-x   1    0    0     168408 Jan  5 2006 [  27856 00] HITOPUYO_GPC.bin 
+-r-xr-xr-x   1    0    0     169752 Jan  5 2006 [  27760 00] HITOPUYO_e_GPC.bin 
+-r-xr-xr-x   1    0    0      29724 Jan  5 2006 [  23568 00] LOGO_GPC.bin 
+-r-xr-xr-x   1    0    0     210960 Jan  5 2006 [  28416 00] MAINMENU_GPC.bin 
+-r-xr-xr-x   1    0    0     182912 Jan  5 2006 [  28320 00] MAINMENU_e_GPC.bin 
+-r-xr-xr-x   1    0    0     132304 Jan  5 2006 [  55776 00] Mz000bg.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  55856 00] Mz002.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  56000 00] Mz100.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  56144 00] Mz100b.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  56288 00] Mz101.gim 
+-r-xr-xr-x   1    0    0     132304 Jan  5 2006 [  56432 00] Mz101bg.gim 
+-r-xr-xr-x   1    0    0     132304 Jan  5 2006 [  56512 00] Mz101bg_e.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  56592 00] Mz102.gim 
+-r-xr-xr-x   1    0    0     132304 Jan  5 2006 [  56736 00] Mz102bg.gim 
+-r-xr-xr-x   1    0    0     132304 Jan  5 2006 [  56816 00] Mz102bg_e.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  56896 00] Mz103.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  57040 00] Mz104.gim 
+-r-xr-xr-x   1    0    0     132304 Jan  5 2006 [  57184 00] Mz104bg.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  57264 00] Mz105.gim 
+-r-xr-xr-x   1    0    0     132304 Jan  5 2006 [  57408 00] Mz105bg.gim 
+-r-xr-xr-x   1    0    0     132304 Jan  5 2006 [  57488 00] Mz105bg_e.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  57568 00] Mz106.gim 
+-r-xr-xr-x   1    0    0     132304 Jan  5 2006 [  57712 00] Mz106bg.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  57792 00] Mz107.gim 
+-r-xr-xr-x   1    0    0     132304 Jan  5 2006 [  57936 00] Mz107bg.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  58016 00] Mz108.gim 
+-r-xr-xr-x   1    0    0     132304 Jan  5 2006 [  58160 00] Mz108bg.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  58240 00] Mz200.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  58384 00] Mz201.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  58528 00] Mz202.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  58672 00] Mz203.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  58816 00] Mz204.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  58960 00] Mz205.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  59104 00] Mz206.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  59248 00] Mz207.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  59392 00] Mz208.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  59536 00] Mz209.gim 
+-r-xr-xr-x   1    0    0     231628 Jan  5 2006 [  28640 00] NAMEENTRY_GPC.bin 
+-r-xr-xr-x   1    0    0     221488 Jan  5 2006 [  28528 00] NAMEENTRY_e_GPC.bin 
+-r-xr-xr-x   1    0    0     359520 Jan  5 2006 [  28944 00] OPENING_GPC.bin 
+-r-xr-xr-x   1    0    0     356120 Jan  5 2006 [  28768 00] OPENING_e_GPC.bin 
+-r-xr-xr-x   1    0    0     222568 Jan 11 2006 [  23696 00] OPTION_GPC.bin 
+-r-xr-xr-x   1    0    0     228352 Jan 11 2006 [  23584 00] OPTION_e_GPC.bin 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  61312 00] Op0_bg.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  61456 00] Op0_bg_e.gim 
+-r-xr-xr-x   1    0    0     131344 Jan  5 2006 [  61600 00] Op0_text.gim 
+-r-xr-xr-x   1    0    0     131344 Jan  5 2006 [  61680 00] Op0_text_e.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  61760 00] Op1_bg.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  61904 00] Op1_bg_e.gim 
+-r-xr-xr-x   1    0    0     131344 Jan  5 2006 [  62048 00] Op1_text.gim 
+-r-xr-xr-x   1    0    0     131344 Jan  5 2006 [  62128 00] Op1_text_e.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  62208 00] Op2_bg.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  62352 00] Op2_bg_e.gim 
+-r-xr-xr-x   1    0    0     131344 Jan  5 2006 [  62496 00] Op2_text.gim 
+-r-xr-xr-x   1    0    0     131344 Jan  5 2006 [  62576 00] Op2_text_e.gim 
+-r-xr-xr-x   1    0    0        336 Jan  5 2006 [  63664 00] P00.pse 
+-r-xr-xr-x   1    0    0      95036 Jan  5 2006 [  29168 00] RANKING_GPC.bin 
+-r-xr-xr-x   1    0    0      92132 Jan  5 2006 [  29120 00] RANKING_e_GPC.bin 
+-r-xr-xr-x   1    0    0      93112 Jan  5 2006 [  29264 00] REPLAY_GPC.bin 
+-r-xr-xr-x   1    0    0      86164 Jan  5 2006 [  29216 00] REPLAY_e_GPC.bin 
+-r-xr-xr-x   1    0    0     137768 Jan  5 2006 [  28016 00] TOKOPUYO_GPC.bin 
+-r-xr-xr-x   1    0    0     118044 Jan  5 2006 [  27952 00] TOKOPUYO_e_GPC.bin 
+-r-xr-xr-x   1    0    0     864512 Jan  5 2006 [  23136 00] _SE.VPC 
+-r-xr-xr-x   1    0    0     499968 Jan  5 2006 [  78640 00] _VOICE00.VPC 
+-r-xr-xr-x   1    0    0     606336 Jan  5 2006 [  78896 00] _VOICE00_e.VPC 
+-r-xr-xr-x   1    0    0     667840 Jan  5 2006 [  79200 00] _VOICE01.VPC 
+-r-xr-xr-x   1    0    0     719552 Jan  5 2006 [  79536 00] _VOICE01_e.VPC 
+-r-xr-xr-x   1    0    0     521664 Jan  5 2006 [  79888 00] _VOICE02.VPC 
+-r-xr-xr-x   1    0    0     705152 Jan  5 2006 [  80144 00] _VOICE02_e.VPC 
+-r-xr-xr-x   1    0    0     523456 Jan  5 2006 [  80496 00] _VOICE03.VPC 
+-r-xr-xr-x   1    0    0     536512 Jan  5 2006 [  80752 00] _VOICE03_e.VPC 
+-r-xr-xr-x   1    0    0     550272 Jan  5 2006 [  81024 00] _VOICE04.VPC 
+-r-xr-xr-x   1    0    0     491008 Jan  5 2006 [  81296 00] _VOICE04_e.VPC 
+-r-xr-xr-x   1    0    0     557824 Jan  5 2006 [  81536 00] _VOICE05.VPC 
+-r-xr-xr-x   1    0    0     605824 Jan  5 2006 [  81824 00] _VOICE05_e.VPC 
+-r-xr-xr-x   1    0    0     692160 Jan  5 2006 [  82128 00] _VOICE06.VPC 
+-r-xr-xr-x   1    0    0     679040 Jan  5 2006 [  82480 00] _VOICE06_e.VPC 
+-r-xr-xr-x   1    0    0     536704 Jan  5 2006 [  82816 00] _VOICE07.VPC 
+-r-xr-xr-x   1    0    0     698880 Jan  5 2006 [  83088 00] _VOICE07_e.VPC 
+-r-xr-xr-x   1    0    0     592704 Jan  5 2006 [  83440 00] _VOICE08.VPC 
+-r-xr-xr-x   1    0    0     643456 Jan  5 2006 [  83744 00] _VOICE08_e.VPC 
+-r-xr-xr-x   1    0    0     566592 Jan  5 2006 [  84064 00] _VOICE09.VPC 
+-r-xr-xr-x   1    0    0     534144 Jan  5 2006 [  84352 00] _VOICE09_e.VPC 
+-r-xr-xr-x   1    0    0     637952 Jan  5 2006 [  84624 00] _VOICE10.VPC 
+-r-xr-xr-x   1    0    0      30336 Jan  5 2006 [  84944 00] _VOICE100.VPC 
+-r-xr-xr-x   1    0    0      30336 Jan  5 2006 [  84960 00] _VOICE100_e.VPC 
+-r-xr-xr-x   1    0    0     764096 Jan  5 2006 [  84976 00] _VOICE10_e.VPC 
+-r-xr-xr-x   1    0    0     390592 Jan  5 2006 [  85360 00] _VOICE11.VPC 
+-r-xr-xr-x   1    0    0     587008 Jan  5 2006 [  85552 00] _VOICE11_e.VPC 
+-r-xr-xr-x   1    0    0     646720 Jan  5 2006 [  85840 00] _VOICE12.VPC 
+-r-xr-xr-x   1    0    0     717632 Jan  5 2006 [  86160 00] _VOICE12_e.VPC 
+-r-xr-xr-x   1    0    0     513920 Jan  5 2006 [  86512 00] _VOICE13.VPC 
+-r-xr-xr-x   1    0    0     596608 Jan  5 2006 [  86768 00] _VOICE13_e.VPC 
+-r-xr-xr-x   1    0    0     649600 Jan  5 2006 [  87072 00] _VOICE14.VPC 
+-r-xr-xr-x   1    0    0     923072 Jan  5 2006 [  87392 00] _VOICE14_e.VPC 
+-r-xr-xr-x   1    0    0     613248 Jan  5 2006 [  87856 00] _VOICE15.VPC 
+-r-xr-xr-x   1    0    0     661568 Jan  5 2006 [  88160 00] _VOICE15_e.VPC 
+-r-xr-xr-x   1    0    0     557952 Jan  5 2006 [  88496 00] _VOICE99.VPC 
+-r-xr-xr-x   1    0    0     536320 Jan  5 2006 [  88784 00] _VOICE99_e.VPC 
+-r-xr-xr-x   1    0    0     886210 Jan  5 2006 [  70688 00] _inst.APC 
+-r-xr-xr-x   1    0    0     744706 Jan  5 2006 [  71136 00] _inst_e.APC 
+-r-xr-xr-x   1    0    0     129410 Jan  5 2006 [  71504 00] _mz00.APC 
+-r-xr-xr-x   1    0    0      95554 Jan  5 2006 [  71568 00] _mz00_e.APC 
+-r-xr-xr-x   1    0    0     447298 Jan  5 2006 [  71616 00] _mz01.APC 
+-r-xr-xr-x   1    0    0     454274 Jan  5 2006 [  71840 00] _mz01_e.APC 
+-r-xr-xr-x   1    0    0     422082 Jan  5 2006 [  72064 00] _mz02.APC 
+-r-xr-xr-x   1    0    0     423234 Jan  5 2006 [  72272 00] _mz02_e.APC 
+-r-xr-xr-x   1    0    0     153410 Jan  5 2006 [  72480 00] _mz03.APC 
+-r-xr-xr-x   1    0    0     157826 Jan  5 2006 [  72560 00] _mz03_e.APC 
+-r-xr-xr-x   1    0    0      91906 Jan  5 2006 [  72640 00] _mz04.APC 
+-r-xr-xr-x   1    0    0     102530 Jan  5 2006 [  72688 00] _mz04_e.APC 
+-r-xr-xr-x   1    0    0     178946 Jan  5 2006 [  72752 00] _mz10.APC 
+-r-xr-xr-x   1    0    0     185282 Jan  5 2006 [  72848 00] _mz10_e.APC 
+-r-xr-xr-x   1    0    0     139010 Jan  5 2006 [  72944 00] _mz11.APC 
+-r-xr-xr-x   1    0    0     194754 Jan  5 2006 [  73024 00] _mz11_e.APC 
+-r-xr-xr-x   1    0    0     220482 Jan  5 2006 [  73120 00] _mz12.APC 
+-r-xr-xr-x   1    0    0     258882 Jan  5 2006 [  73232 00] _mz12_e.APC 
+-r-xr-xr-x   1    0    0     184770 Jan  5 2006 [  73360 00] _mz13.APC 
+-r-xr-xr-x   1    0    0     159234 Jan  5 2006 [  73456 00] _mz13_e.APC 
+-r-xr-xr-x   1    0    0     124034 Jan  5 2006 [  73536 00] _mz14.APC 
+-r-xr-xr-x   1    0    0     113922 Jan  5 2006 [  73600 00] _mz14_e.APC 
+-r-xr-xr-x   1    0    0     244354 Jan  5 2006 [  73664 00] _mz15.APC 
+-r-xr-xr-x   1    0    0     288706 Jan  5 2006 [  73792 00] _mz15_e.APC 
+-r-xr-xr-x   1    0    0     313218 Jan  5 2006 [  73936 00] _mz16.APC 
+-r-xr-xr-x   1    0    0     292290 Jan  5 2006 [  74096 00] _mz16_e.APC 
+-r-xr-xr-x   1    0    0     273346 Jan  5 2006 [  74240 00] _mz17.APC 
+-r-xr-xr-x   1    0    0     275586 Jan  5 2006 [  74384 00] _mz17_e.APC 
+-r-xr-xr-x   1    0    0     425986 Jan  5 2006 [  74528 00] _mz18.APC 
+-r-xr-xr-x   1    0    0     382658 Jan  5 2006 [  74752 00] _mz18_e.APC 
+-r-xr-xr-x   1    0    0     349954 Jan  5 2006 [  74944 00] _mz19.APC 
+-r-xr-xr-x   1    0    0     363010 Jan  5 2006 [  75120 00] _mz19_e.APC 
+-r-xr-xr-x   1    0    0     147266 Jan  5 2006 [  75312 00] _mz20.APC 
+-r-xr-xr-x   1    0    0     211522 Jan  5 2006 [  75392 00] _mz20_e.APC 
+-r-xr-xr-x   1    0    0     192770 Jan  5 2006 [  75504 00] _mz21.APC 
+-r-xr-xr-x   1    0    0     223298 Jan  5 2006 [  75600 00] _mz21_e.APC 
+-r-xr-xr-x   1    0    0     332482 Jan  5 2006 [  75712 00] _mz22.APC 
+-r-xr-xr-x   1    0    0     389314 Jan  5 2006 [  75888 00] _mz22_e.APC 
+-r-xr-xr-x   1    0    0     242050 Jan  5 2006 [  76080 00] _mz23.APC 
+-r-xr-xr-x   1    0    0     225154 Jan  5 2006 [  76208 00] _mz23_e.APC 
+-r-xr-xr-x   1    0    0     230082 Jan  5 2006 [  76320 00] _mz24.APC 
+-r-xr-xr-x   1    0    0     213954 Jan  5 2006 [  76448 00] _mz24_e.APC 
+-r-xr-xr-x   1    0    0     236994 Jan  5 2006 [  76560 00] _mz25.APC 
+-r-xr-xr-x   1    0    0     194242 Jan  5 2006 [  76688 00] _mz25_e.APC 
+-r-xr-xr-x   1    0    0     233282 Jan  5 2006 [  76784 00] _mz26.APC 
+-r-xr-xr-x   1    0    0     199042 Jan  5 2006 [  76912 00] _mz26_e.APC 
+-r-xr-xr-x   1    0    0     296258 Jan  5 2006 [  77024 00] _mz27.APC 
+-r-xr-xr-x   1    0    0     272898 Jan  5 2006 [  77184 00] _mz27_e.APC 
+-r-xr-xr-x   1    0    0     326210 Jan  5 2006 [  77328 00] _mz28.APC 
+-r-xr-xr-x   1    0    0     382914 Jan  5 2006 [  77488 00] _mz28_e.APC 
+-r-xr-xr-x   1    0    0     248130 Jan  5 2006 [  77680 00] _mz29.APC 
+-r-xr-xr-x   1    0    0     230850 Jan  5 2006 [  77808 00] _mz29_e.APC 
+-r-xr-xr-x   1    0    0     708866 Jan  5 2006 [  77936 00] _mz2a.APC 
+-r-xr-xr-x   1    0    0     694082 Jan  5 2006 [  78288 00] _mz2a_e.APC 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  42992 00] adinstA.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  43136 00] adinstA2.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  43280 00] adinstA_e.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  43424 00] adinstB.gim 
+-r-xr-xr-x   1    0    0      66844 Jan  5 2006 [  43760 00] am_font.gim 
+-r-xr-xr-x   1    0    0     325704 Jan  5 2006 [  43808 00] am_hitopuyo.pvz 
+-r-xr-xr-x   1    0    0     263859 Jan  5 2006 [  43968 00] am_hitopuyo_e.pvz 
+-r-xr-xr-x   1    0    0       8464 Jan  5 2006 [  44912 00] bonus.gim 
+-r-xr-xr-x   1    0    0     132384 Jan  5 2006 [  44928 00] bootbg_all.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  45008 00] cf00.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  45152 00] cf01.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  45296 00] cf02.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  45440 00] cf03.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  45584 00] cf04.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  45728 00] cf05.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  45872 00] cf06.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  46016 00] cf07.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  46160 00] cf08.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  46304 00] cf09.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  46448 00] cf10.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  46592 00] cf11.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  46736 00] cf12.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  46880 00] cf13.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  47024 00] cf14.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  47168 00] cf15.gim 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  47312 00] cm_02.gim 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  47360 00] cm_02_e.gim 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  47408 00] cm_03.gim 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  47456 00] cm_03_e.gim 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  47504 00] cm_04.gim 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  47552 00] cm_04_e.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  47600 00] cm_05.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  47744 00] cm_05_e.gim 
+-r-xr-xr-x   1    0    0      65808 Jan  5 2006 [  47888 00] crowd01.gim 
+-r-xr-xr-x   1    0    0      65808 Jan  5 2006 [  47936 00] crowd02.gim 
+-r-xr-xr-x   1    0    0     131344 Jan  5 2006 [  47984 00] crowd03.gim 
+-r-xr-xr-x   1    0    0     131344 Jan  5 2006 [  48064 00] crowd04.gim 
+-r-xr-xr-x   1    0    0       1044 Jan  5 2006 [  48144 00] dic.dat 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  48160 00] ed100.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  48304 00] ed101.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  48448 00] ed102.gim 
+-r-xr-xr-x   1    0    0     262416 Jan  5 2006 [  48592 00] ed103.gim 
+-r-xr-xr-x   1    0    0        528 Jan  5 2006 [  48736 00] ed103.pvp 
+-r-xr-xr-x   1    0    0        528 Jan  5 2006 [  48752 00] ed104.pvp 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  48768 00] ed200.gim 
+-r-xr-xr-x   1    0    0     263452 Jan  5 2006 [  48912 00] ed201.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  49056 00] ed202.gim 
+-r-xr-xr-x   1    0    0        528 Jan  5 2006 [  49200 00] ed202.pvp 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  49216 00] ed202_e.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  49360 00] ed203.gim 
+-r-xr-xr-x   1    0    0        528 Jan  5 2006 [  49504 00] ed203.pvp 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  49520 00] ed203_e.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  49664 00] ed204.gim 
+-r-xr-xr-x   1    0    0      61533 Jan  5 2006 [  49808 00] editrule.pvz 
+-r-xr-xr-x   1    0    0      69165 Jan  5 2006 [  49840 00] editrule_e.pvz 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  49888 00] effect.gim 
+-r-xr-xr-x   1    0    0     263452 Jan  5 2006 [  49936 00] eu_title.gim 
+-r-xr-xr-x   1    0    0      18464 Jan  5 2006 [  50080 00] extrabg1.pvr 
+-r-xr-xr-x   1    0    0      18464 Jan  5 2006 [  50096 00] extrabg2.pvr 
+-r-xr-xr-x   1    0    0      18464 Jan  5 2006 [  50112 00] extrabg3.pvr 
+-r-xr-xr-x   1    0    0      18464 Jan  5 2006 [  50128 00] extrabg4.pvr 
+-r-xr-xr-x   1    0    0      18464 Jan  5 2006 [  50144 00] extrabg5.pvr 
+-r-xr-xr-x   1    0    0      18464 Jan  5 2006 [  50160 00] extrabg6.pvr 
+-r-xr-xr-x   1    0    0      18464 Jan  5 2006 [  50176 00] extrabg7.pvr 
+-r-xr-xr-x   1    0    0      17104 Jan  5 2006 [  50192 00] fever11.gim 
+-r-xr-xr-x   1    0    0        272 Jan  5 2006 [  50208 00] fever11.pvp 
+-r-xr-xr-x   1    0    0      17104 Jan  5 2006 [  50224 00] fever12.gim 
+-r-xr-xr-x   1    0    0        272 Jan  5 2006 [  50240 00] fever12.pvp 
+-r-xr-xr-x   1    0    0      17104 Jan  5 2006 [  50256 00] fever13.gim 
+-r-xr-xr-x   1    0    0        272 Jan  5 2006 [  50272 00] fever13.pvp 
+-r-xr-xr-x   1    0    0      17104 Jan  5 2006 [  50288 00] fever14.gim 
+-r-xr-xr-x   1    0    0        272 Jan  5 2006 [  50304 00] fever14.pvp 
+-r-xr-xr-x   1    0    0      17104 Jan  5 2006 [  50320 00] fever15.gim 
+-r-xr-xr-x   1    0    0        272 Jan  5 2006 [  50336 00] fever15.pvp 
+-r-xr-xr-x   1    0    0      17104 Jan  5 2006 [  50352 00] fever21.gim 
+-r-xr-xr-x   1    0    0      17104 Jan  5 2006 [  50368 00] fever22.gim 
+-r-xr-xr-x   1    0    0      17104 Jan  5 2006 [  50384 00] fever23.gim 
+-r-xr-xr-x   1    0    0      17104 Jan  5 2006 [  50400 00] fever24.gim 
+-r-xr-xr-x   1    0    0      17104 Jan  5 2006 [  50416 00] fever25.gim 
+-r-xr-xr-x   1    0    0      66256 Jan  5 2006 [  50432 00] fever_count.gim 
+-r-xr-xr-x   1    0    0     263448 Jan  5 2006 [  50480 00] font.gim 
+-r-xr-xr-x   1    0    0         48 Jan  5 2006 [  50624 00] font.pvp 
+-r-xr-xr-x   1    0    0       8224 Jan  5 2006 [  50640 00] fontS.pvr 
+-r-xr-xr-x   1    0    0        528 Jan  5 2006 [  50656 00] frame1p.pvp 
+-r-xr-xr-x   1    0    0      66848 Jan  5 2006 [  50672 00] frame1p_2.gim 
+-r-xr-xr-x   1    0    0        528 Jan  5 2006 [  50720 00] frame2p.pvp 
+-r-xr-xr-x   1    0    0      66848 Jan  5 2006 [  50736 00] frame2p_2.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  50784 00] frameClassic.gim 
+-r-xr-xr-x   1    0    0        528 Jan  5 2006 [  50928 00] frameClassic.pvp 
+-r-xr-xr-x   1    0    0      66852 Jan  5 2006 [  50944 00] frameClassic_2.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  50992 00] frameToko.gim 
+-r-xr-xr-x   1    0    0        528 Jan  5 2006 [  51136 00] frameToko.pvp 
+-r-xr-xr-x   1    0    0      66848 Jan  5 2006 [  51152 00] frameToko_2.gim 
+-r-xr-xr-x   1    0    0     262864 Jan  5 2006 [  51200 00] frame_01.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  51344 00] frame_1p.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  51488 00] frame_2p.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  51632 00] frame_vertical.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  51776 00] futapuyoA.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  51920 00] futapuyoA_e.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  52064 00] futapuyoB.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  52208 00] futapuyoB_e.gim 
+-r-xr-xr-x   1    0    0     263452 Jan  5 2006 [  52352 00] gallery.gim 
+-r-xr-xr-x   1    0    0     263456 Jan  5 2006 [  52496 00] gallery_e.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  52640 00] hitopuyoA.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  52784 00] hitopuyoA_e.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  52928 00] hitopuyoB.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  53072 00] hitopuyoB_e.gim 
+-r-xr-xr-x   1    0    0      66848 Jan  5 2006 [  53216 00] insideW_0.gim 
+-r-xr-xr-x   1    0    0      66848 Jan  5 2006 [  53264 00] insideW_0_e.gim 
+-r-xr-xr-x   1    0    0      66848 Jan  5 2006 [  53312 00] insideW_1.gim 
+-r-xr-xr-x   1    0    0      66848 Jan  5 2006 [  53360 00] insideW_1_e.gim 
+-r-xr-xr-x   1    0    0      66848 Jan  5 2006 [  53408 00] insideW_2.gim 
+-r-xr-xr-x   1    0    0      66848 Jan  5 2006 [  53456 00] insideW_2_e.gim 
+-r-xr-xr-x   1    0    0      66848 Jan  5 2006 [  53504 00] insideW_3.gim 
+-r-xr-xr-x   1    0    0      66848 Jan  5 2006 [  53552 00] insideW_3_e.gim 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  53600 00] insideW_4.gim 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  53648 00] insideW_4_e.gim 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  53696 00] insideW_5.gim 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  53744 00] insideW_5_e.gim 
+-r-xr-xr-x   1    0    0     132380 Jan  5 2006 [  53792 00] key00.gim 
+-r-xr-xr-x   1    0    0     132380 Jan  5 2006 [  53872 00] key00_e.gim 
+-r-xr-xr-x   1    0    0     131424 Jan  5 2006 [  53952 00] loading00.gim 
+-r-xr-xr-x   1    0    0     263448 Jan  5 2006 [  54032 00] logo00.gim 
+-r-xr-xr-x   1    0    0        528 Jan  5 2006 [  54176 00] logo00.pvp 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  54192 00] logo3.gim 
+-r-xr-xr-x   1    0    0     263452 Jan  5 2006 [  54336 00] main00A.gim 
+-r-xr-xr-x   1    0    0     263456 Jan  5 2006 [  54480 00] main00A_e.gim 
+-r-xr-xr-x   1    0    0     263452 Jan  5 2006 [  54624 00] main00B.gim 
+-r-xr-xr-x   1    0    0     263452 Jan  5 2006 [  54768 00] main00B_e.gim 
+-r-xr-xr-x   1    0    0      36960 Jan  5 2006 [  54912 00] manatee.drv 
+-r-xr-xr-x   1    0    0     131420 Jan  5 2006 [  54944 00] menu_00.gim 
+-r-xr-xr-x   1    0    0         48 Jan  5 2006 [  55024 00] menu_00.pvp 
+-r-xr-xr-x   1    0    0     131104 Jan  5 2006 [  55040 00] menu_00.pvr 
+-r-xr-xr-x   1    0    0     131420 Jan  5 2006 [  55120 00] menu_00_e.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  55200 00] menu_01_a.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  55344 00] menu_01_b.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  55488 00] menu_01_b_e.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  55632 00] menu_01_c.gim 
+-r-xr-xr-x   1    0    0     263452 Jan  5 2006 [  59680 00] name00A.gim 
+-r-xr-xr-x   1    0    0     263456 Jan  5 2006 [  59824 00] name00A_e.gim 
+-r-xr-xr-x   1    0    0     263452 Jan  5 2006 [  59968 00] name00B.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  60112 00] name00B_e.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  60256 00] name00C.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  60400 00] name00C_e.gim 
+-r-xr-xr-x   1    0    0      37035 Jan  5 2006 [  60544 00] navi.pvz 
+-r-xr-xr-x   1    0    0     263456 Jan  5 2006 [  60576 00] online00A.gim 
+-r-xr-xr-x   1    0    0     263456 Jan  5 2006 [  60720 00] online00A_e.gim 
+-r-xr-xr-x   1    0    0     132380 Jan  5 2006 [  60864 00] online00B.gim 
+-r-xr-xr-x   1    0    0     132384 Jan  5 2006 [  60944 00] online00B_e.gim 
+-r-xr-xr-x   1    0    0     263456 Jan  5 2006 [  61024 00] online00C.gim 
+-r-xr-xr-x   1    0    0     263456 Jan  5 2006 [  61168 00] online00C_e.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  62656 00] opc_006_a.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  62800 00] opc_006_b.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  62944 00] opc_006_c.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  63088 00] opc_024_a.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  63232 00] opc_024_b.gim 
+-r-xr-xr-x   1    0    0     263456 Jan 11 2006 [  63376 00] option00.gim 
+-r-xr-xr-x   1    0    0     263456 Jan 11 2006 [  63520 00] option00_e.gim 
+-r-xr-xr-x   1    0    0     262864 Jan  5 2006 [  63680 00] puyo.gim 
+-r-xr-xr-x   1    0    0        528 Jan  5 2006 [  63824 00] puyo.pvp 
+-r-xr-xr-x   1    0    0     131420 Jan  5 2006 [  63840 00] puyo2.gim 
+-r-xr-xr-x   1    0    0     658016 Jan  5 2006 [  63920 00] puyofever_dc.mlt 
+-r-xr-xr-x   1    0    0     263452 Jan  5 2006 [  64256 00] rank00.gim 
+-r-xr-xr-x   1    0    0     263456 Jan  5 2006 [  64400 00] rank00_e.gim 
+-r-xr-xr-x   1    0    0     263452 Jan  5 2006 [  64544 00] rank01.gim 
+-r-xr-xr-x   1    0    0     263456 Jan  5 2006 [  64688 00] rank01_e.gim 
+-r-xr-xr-x   1    0    0      99438 Jan  5 2006 [  64832 00] rannyuFont.pvz 
+-r-xr-xr-x   1    0    0      99759 Jan  5 2006 [  64896 00] rannyuFont_e.pvz 
+-r-xr-xr-x   1    0    0      41814 Jan  5 2006 [  64960 00] rating.pvz 
+-r-xr-xr-x   1    0    0     263452 Jan  5 2006 [  64992 00] replay.gim 
+-r-xr-xr-x   1    0    0     263456 Jan  5 2006 [  65136 00] replay_e.gim 
+-r-xr-xr-x   1    0    0     116499 Jan  5 2006 [  65280 00] score00.pvz 
+-r-xr-xr-x   1    0    0     114549 Jan  5 2006 [  65344 00] score00_e.pvz 
+-r-xr-xr-x   1    0    0      89181 Jan  5 2006 [  65408 00] score01.pvz 
+-r-xr-xr-x   1    0    0      95550 Jan  5 2006 [  65456 00] score01_e.pvz 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  65504 00] sel_00.gim 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  65552 00] sel_00_e.gim 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  65600 00] sel_01.gim 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  65648 00] sel_01_e.gim 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  65696 00] sel_02.gim 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  65744 00] sel_02_e.gim 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  65792 00] sel_03.gim 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  65840 00] sel_03_e.gim 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  65888 00] sel_04.gim 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  65936 00] sel_04_e.gim 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  65984 00] sel_05.gim 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  66032 00] sel_05_e.gim 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  66080 00] sel_06.gim 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  66128 00] sel_06_e.gim 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  66176 00] sel_07.gim 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  66224 00] sel_07_e.gim 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  66272 00] sel_08.gim 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  66320 00] sel_08_e.gim 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  66368 00] sel_09.gim 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  66416 00] sel_09_e.gim 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  66464 00] sel_10.gim 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  66512 00] sel_10_e.gim 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  66560 00] sel_11.gim 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  66608 00] sel_11_e.gim 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  66656 00] sel_12.gim 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  66704 00] sel_12_e.gim 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  66752 00] sel_13.gim 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  66800 00] sel_13_e.gim 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  66848 00] sel_14.gim 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  66896 00] sel_14_e.gim 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  66944 00] sel_15.gim 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  66992 00] sel_15_e.gim 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  67040 00] sel_xx.gim 
+-r-xr-xr-x   1    0    0      66768 Jan  5 2006 [  67088 00] sel_xx_e.gim 
+-r-xr-xr-x   1    0    0      65776 Jan  5 2006 [  67136 00] sky.gim 
+-r-xr-xr-x   1    0    0         48 Jan  5 2006 [  67184 00] sky.pvp 
+-r-xr-xr-x   1    0    0      33120 Jan  5 2006 [  67200 00] stf_font.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  67232 00] stf_logo.gim 
+-r-xr-xr-x   1    0    0     263448 Jan  5 2006 [  67376 00] task.gim 
+-r-xr-xr-x   1    0    0     263456 Jan  5 2006 [  67520 00] task_c00.gim 
+-r-xr-xr-x   1    0    0     263456 Jan  5 2006 [  67664 00] task_c01.gim 
+-r-xr-xr-x   1    0    0     263456 Jan  5 2006 [  67808 00] task_c02.gim 
+-r-xr-xr-x   1    0    0     263456 Jan  5 2006 [  67952 00] task_c03.gim 
+-r-xr-xr-x   1    0    0     263456 Jan  5 2006 [  68096 00] task_c04.gim 
+-r-xr-xr-x   1    0    0     263456 Jan  5 2006 [  68240 00] task_c05.gim 
+-r-xr-xr-x   1    0    0     263456 Jan  5 2006 [  68384 00] task_c06.gim 
+-r-xr-xr-x   1    0    0     263456 Jan  5 2006 [  68528 00] task_c07.gim 
+-r-xr-xr-x   1    0    0     263456 Jan  5 2006 [  68672 00] task_c08.gim 
+-r-xr-xr-x   1    0    0     263456 Jan  5 2006 [  68816 00] task_c09.gim 
+-r-xr-xr-x   1    0    0     263456 Jan  5 2006 [  68960 00] task_c10.gim 
+-r-xr-xr-x   1    0    0     263456 Jan  5 2006 [  69104 00] task_c11.gim 
+-r-xr-xr-x   1    0    0     263456 Jan  5 2006 [  69248 00] task_c12.gim 
+-r-xr-xr-x   1    0    0     263456 Jan  5 2006 [  69392 00] task_c13.gim 
+-r-xr-xr-x   1    0    0     263456 Jan  5 2006 [  69536 00] task_c14.gim 
+-r-xr-xr-x   1    0    0     263456 Jan  5 2006 [  69680 00] task_c15.gim 
+-r-xr-xr-x   1    0    0     263448 Jan  5 2006 [  69824 00] task_e.gim 
+-r-xr-xr-x   1    0    0     263448 Jan  5 2006 [  69968 00] title.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  70112 00] tokopuyoA.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  70256 00] tokopuyoA_e.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  70400 00] tokopuyoB.gim 
+-r-xr-xr-x   1    0    0     263376 Jan  5 2006 [  70544 00] tokopuyoB_e.gim 
+=============================================================== 
+Generated on Sun 07/08/2022 at 19:29:08.62 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

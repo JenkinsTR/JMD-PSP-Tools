@@ -1,0 +1,101 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Shin Megami Tensei - Persona 3 Portable   
+Title ID: ULES-01523 
+Region: Europe  
+Languages: Beta  
+Volume Creation Date: 2011-01-25 15:05:55 
+Volume Size: 1260 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: ULES01523
+Volume set id: ULES01523
+Publisher id: GHOSTLIGHT
+Data preparer id: ATLUS
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 645456
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Jan 25 2011 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 25 2011 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jan 29 2009 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Jan 29 2009 [     30 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Jan 29 2009 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 25 2011 [     22 02] .. 
+-r-xr-xr-x   1    0    0      16145 Dec 24 2008 [  59552 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        560 Jan 25 2011 [  59536 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      22366 Mar 17 2010 [  59568 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0     113035 Nov 13 2008 [  59584 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Jan 29 2009 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Jan 29 2009 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Jan 29 2009 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 29 2009 [     23 02] .. 
+-r-xr-xr-x   1    0    0    5849468 Jan 25 2011 [  56672 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    5849808 Jan 25 2011 [    544 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0        880 Jan 26 2010 [     32 00] OPNSSMP.BIN 
+dr-xr-xr-x   1    0    0       2048 Jan 29 2009 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Jan 29 2009 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 29 2009 [     23 02] .. 
+-r-xr-xr-x   1    0    0      16122 Dec 30 2009 [ 645440 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0  269667104 Jan 25 2010 [ 348400 00] MEMST.CPK 
+dr-xr-xr-x   1    0    0       2048 Jan 24 2011 [     27 02] module 
+dr-xr-xr-x   1    0    0       2048 May 19 2009 [     28 02] sound 
+-r-xr-xr-x   1    0    0  553718280 Jan 25 2010 [  78016 00] umd0.cpk 
+-r-xr-xr-x   1    0    0  338630752 Jan 25 2010 [ 480080 00] umd1.cpk 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Jan 29 2009 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 29 2009 [     24 02] .. 
+-r-xr-xr-x   1    0    0   26091840 Jan 29 2009 [   7520 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5540576 Jan 29 2009 [   3424 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Jan 29 2009 [   3408 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/module/
+dr-xr-xr-x   1    0    0       2048 Jan 24 2011 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 29 2009 [     25 02] .. 
+-r-xr-xr-x   1    0    0       3024 Jun  4 2009 [  59648 00] libccc.prx 
+-r-xr-xr-x   1    0    0      21584 Jun  4 2009 [  59664 00] libfont.prx 
+-r-xr-xr-x   1    0    0      19336 Jun  4 2009 [  59680 00] libsuppreacc.prx 
+
+Directory listing of /PSP_GAME/USRDIR/sound/
+dr-xr-xr-x   1    0    0       2048 May 19 2009 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 29 2009 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 May 19 2009 [     29 02] pmsf 
+
+Directory listing of /PSP_GAME/USRDIR/sound/pmsf/
+dr-xr-xr-x   1    0    0       2048 May 19 2009 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 May 19 2009 [     28 02] .. 
+-r-xr-xr-x   1    0    0   24989696 Jul 17 2009 [  59696 00] P3OPMV_P3P.pmsf 
+-r-xr-xr-x   1    0    0   12503040 Jun  9 2009 [  71904 00] P3OPMV_P3PB.pmsf 
+=============================================================== 
+Generated on Sun 07/08/2022 at 13:43:40.29 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

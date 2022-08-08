@@ -1,0 +1,85 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Game Sharing Server Disc   
+Title ID: UCES-00218 
+Region: EUR  
+Languages:   
+Volume Creation Date: 2006-02-13 09:05:18 
+Volume Size: 46 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: SCEE
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 23664
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Feb 13 2006 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 13 2006 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 13 2006 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Feb 13 2006 [     28 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Feb 13 2006 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 13 2006 [     22 02] .. 
+-r-xr-xr-x   1    0    0       2824 Nov 11 2005 [  22032 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        472 Feb 13 2006 [  22048 00] PARAM.SFO 
+dr-xr-xr-x   1    0    0       2048 Feb 13 2006 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Feb 13 2006 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Feb 13 2006 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 13 2006 [     23 02] .. 
+-r-xr-xr-x   1    0    0    3048752 Feb 13 2006 [  22064 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    3049088 Feb 13 2006 [     32 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Feb 13 2006 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Feb 13 2006 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 13 2006 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 13 2006 [     27 02] module 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Feb 13 2006 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 13 2006 [     24 02] .. 
+-r-xr-xr-x   1    0    0   14809632 Feb 13 2006 [   5648 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    3951712 Feb 13 2006 [   1552 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       1772 Feb 13 2006 [   1536 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/module/
+dr-xr-xr-x   1    0    0       2048 Feb 13 2006 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 13 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0       3312 Oct 19 2005 [  23584 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0      23296 Oct 27 2005 [  23600 00] libfont.prx 
+-r-xr-xr-x   1    0    0      23088 Oct 27 2005 [  23616 00] mpeg.prx 
+-r-xr-xr-x   1    0    0       5392 Oct 19 2005 [  23632 00] mpegbase.prx 
+-r-xr-xr-x   1    0    0       6208 Oct 27 2005 [  23648 00] psmf.prx 
+-r-xr-xr-x   1    0    0       3504 Oct 19 2005 [  23568 00] videocodec.prx 
+=============================================================== 
+Generated on Sun 07/08/2022 at 19:28:58.98 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

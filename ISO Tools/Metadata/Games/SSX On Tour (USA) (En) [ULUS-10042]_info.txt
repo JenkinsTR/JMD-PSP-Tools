@@ -1,0 +1,413 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: SSX On Tour   
+Title ID: ULUS-10042 
+Region: USA  
+Languages: En  
+Volume Creation Date: 2005-09-06 16:18:50 
+Volume Size: 1348 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: NA
+Volume set id: SSX_PSP
+Publisher id: ELECTRONIC ARTS
+Data preparer id: SSX
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 690448
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Sep  6 2005 [     49 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     22 02] .. 
+-r-xr-xr-x   1    0    0      21252 Sep  6 2005 [ 442128 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     495616 Sep  6 2005 [ 442144 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 Sep  6 2005 [ 442400 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     153434 Sep  6 2005 [ 442416 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     23 02] .. 
+-r-xr-xr-x   1    0    0    4502088 Sep  6 2005 [ 336480 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    4502432 Sep  6 2005 [     64 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     27 02] data 
+-r-xr-xr-x   1    0    0         69 Sep  6 2005 [ 442112 00] disc.ini 
+-r-xr-xr-x   1    0    0  642482176 Sep  6 2005 [  22768 00] pad0.pad 
+-r-xr-xr-x   1    0    0   10485760 Sep  6 2005 [ 442496 00] pad1.pad 
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     28 02] prx 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     24 02] .. 
+-r-xr-xr-x   1    0    0   13182464 Sep  6 2005 [   6384 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    3536480 Sep  6 2005 [   2288 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       1772 Sep  6 2005 [   2272 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/data/
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     29 02] audio 
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     30 02] be 
+dr-xr-xr-x   1    0    0       6144 Sep  6 2005 [     31 02] char 
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     34 02] config 
+dr-xr-xr-x   1    0    0       4096 Sep  6 2005 [     35 02] eatrax 
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     37 02] fe 
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     38 02] fonts 
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     39 02] icon 
+-r-xr-xr-x   1    0    0        288 Sep  6 2005 [ 441856 00] lights.dat 
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     40 02] locale 
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     41 02] movies 
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     42 02] scripts 
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     43 02] textures 
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     44 02] trclocale 
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     45 02] ui 
+dr-xr-xr-x   1    0    0       4096 Sep  6 2005 [     46 02] worlds 
+
+Directory listing of /PSP_GAME/USRDIR/prx/
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     25 02] .. 
+-r-xr-xr-x   1    0    0       3200 Sep  6 2005 [ 441872 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0      10816 Sep  6 2005 [ 441888 00] ifhandle.prx 
+-r-xr-xr-x   1    0    0      19940 Sep  6 2005 [ 441904 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0      17216 Sep  6 2005 [ 441920 00] memab.prx 
+-r-xr-xr-x   1    0    0      43068 Sep  6 2005 [ 441936 00] mpeg.prx 
+-r-xr-xr-x   1    0    0       5808 Sep  6 2005 [ 441968 00] mpegbase.prx 
+-r-xr-xr-x   1    0    0      60360 Sep  6 2005 [ 441984 00] pspnet.prx 
+-r-xr-xr-x   1    0    0      42492 Sep  6 2005 [ 442016 00] pspnet_adhoc.prx 
+-r-xr-xr-x   1    0    0      11360 Sep  6 2005 [ 442064 00] pspnet_adhoc_auth.prx 
+-r-xr-xr-x   1    0    0      31996 Sep  6 2005 [ 442048 00] pspnet_adhocctl.prx 
+-r-xr-xr-x   1    0    0       5904 Sep  6 2005 [ 442080 00] sc_sascore.prx 
+-r-xr-xr-x   1    0    0       3808 Sep  6 2005 [ 442096 00] videocodec.prx 
+
+Directory listing of /PSP_GAME/USRDIR/data/audio/
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     27 02] .. 
+-r-xr-xr-x   1    0    0    1265936 Sep  6 2005 [ 338688 00] static.bnk 
+
+Directory listing of /PSP_GAME/USRDIR/data/be/
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     27 02] .. 
+-r-xr-xr-x   1    0    0        504 Sep  6 2005 [ 339312 00] behiloc.dbl 
+-r-xr-xr-x   1    0    0       8432 Sep  6 2005 [ 339328 00] chardb.dbl 
+-r-xr-xr-x   1    0    0        340 Sep  6 2005 [ 339344 00] global.dbl 
+-r-xr-xr-x   1    0    0        720 Sep  6 2005 [ 339360 00] modechal.dbl 
+-r-xr-xr-x   1    0    0      25770 Sep  6 2005 [ 339376 00] rwrdxbx.dat 
+-r-xr-xr-x   1    0    0        600 Sep  6 2005 [ 339392 00] statdb.dbl 
+
+Directory listing of /PSP_GAME/USRDIR/data/char/
+dr-xr-xr-x   1    0    0       6144 Sep  6 2005 [     31 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     27 02] .. 
+-r-xr-xr-x   1    0    0      60420 Sep  6 2005 [ 447616 00] allegratxm.big 
+-r-xr-xr-x   1    0    0  112841204 Sep  6 2005 [ 447648 00] allegtxm.big 
+-r-xr-xr-x   1    0    0    1597622 Sep  6 2005 [ 502752 00] anm.big 
+-r-xr-xr-x   1    0    0     551279 Sep  6 2005 [ 503536 00] boltxbx.dat 
+-r-xr-xr-x   1    0    0      68620 Sep  6 2005 [ 503808 00] elisetxm.big 
+-r-xr-xr-x   1    0    0      31687 Sep  6 2005 [ 503856 00] fbackcountryatxm.big 
+-r-xr-xr-x   1    0    0      29603 Sep  6 2005 [ 503872 00] fbackcountrybtxm.big 
+-r-xr-xr-x   1    0    0      33756 Sep  6 2005 [ 503888 00] fbackcountryctxm.big 
+-r-xr-xr-x   1    0    0      33795 Sep  6 2005 [ 503920 00] fbackcountrydtxm.big 
+-r-xr-xr-x   1    0    0      31713 Sep  6 2005 [ 503952 00] fbackcountryetxm.big 
+-r-xr-xr-x   1    0    0      31726 Sep  6 2005 [ 503968 00] fretroatxm.big 
+-r-xr-xr-x   1    0    0      29621 Sep  6 2005 [ 503984 00] fretrobtxm.big 
+-r-xr-xr-x   1    0    0      31732 Sep  6 2005 [ 504000 00] fretroctxm.big 
+-r-xr-xr-x   1    0    0      29630 Sep  6 2005 [ 504016 00] fretrodtxm.big 
+-r-xr-xr-x   1    0    0      31706 Sep  6 2005 [ 504032 00] fretroetxm.big 
+-r-xr-xr-x   1    0    0      29594 Sep  6 2005 [ 504048 00] fstreetatxm.big 
+-r-xr-xr-x   1    0    0      29584 Sep  6 2005 [ 504064 00] fstreetbtxm.big 
+-r-xr-xr-x   1    0    0      29645 Sep  6 2005 [ 504080 00] fstreetctxm.big 
+-r-xr-xr-x   1    0    0      29632 Sep  6 2005 [ 504096 00] fstreetdtxm.big 
+-r-xr-xr-x   1    0    0      29603 Sep  6 2005 [ 504112 00] fstreetetxm.big 
+-r-xr-xr-x   1    0    0      31708 Sep  6 2005 [ 504128 00] furbanatxm.big 
+-r-xr-xr-x   1    0    0      31720 Sep  6 2005 [ 504144 00] furbanbtxm.big 
+-r-xr-xr-x   1    0    0      31720 Sep  6 2005 [ 504160 00] furbanctxm.big 
+-r-xr-xr-x   1    0    0      29628 Sep  6 2005 [ 504176 00] furbandtxm.big 
+-r-xr-xr-x   1    0    0      31735 Sep  6 2005 [ 504192 00] furbanetxm.big 
+-r-xr-xr-x   1    0    0      35873 Sep  6 2005 [ 504208 00] fwackyatxm.big 
+-r-xr-xr-x   1    0    0      31705 Sep  6 2005 [ 504240 00] fwackybtxm.big 
+-r-xr-xr-x   1    0    0   46389038 Sep  6 2005 [ 504256 00] grifftxm.big 
+-r-xr-xr-x   1    0    0      52140 Sep  6 2005 [ 526912 00] kaoritxm.big 
+-r-xr-xr-x   1    0    0      54299 Sep  6 2005 [ 526944 00] mactxm.big 
+-r-xr-xr-x   1    0    0      29561 Sep  6 2005 [ 526976 00] mbackcountryatxm.big 
+-r-xr-xr-x   1    0    0      31659 Sep  6 2005 [ 526992 00] mbackcountrybtxm.big 
+-r-xr-xr-x   1    0    0      31693 Sep  6 2005 [ 527008 00] mbackcountryctxm.big 
+-r-xr-xr-x   1    0    0      29577 Sep  6 2005 [ 527024 00] mbackcountrydtxm.big 
+-r-xr-xr-x   1    0    0      29586 Sep  6 2005 [ 527040 00] mbackcountryetxm.big 
+-r-xr-xr-x   1    0    0    1796628 Sep  6 2005 [ 527056 00] mdlpsp.big 
+-r-xr-xr-x   1    0    0  182314959 Sep  6 2005 [ 527936 00] mobytxm.big 
+-r-xr-xr-x   1    0    0      29688 Sep  6 2005 [ 616960 00] mretroatxm.big 
+-r-xr-xr-x   1    0    0      31706 Sep  6 2005 [ 616976 00] mretrobtxm.big 
+-r-xr-xr-x   1    0    0      29661 Sep  6 2005 [ 616992 00] mretroctxm.big 
+-r-xr-xr-x   1    0    0      29624 Sep  6 2005 [ 617008 00] mretrodtxm.big 
+-r-xr-xr-x   1    0    0      33834 Sep  6 2005 [ 617024 00] mretroetxm.big 
+-r-xr-xr-x   1    0    0      31784 Sep  6 2005 [ 617056 00] mstreetatxm.big 
+-r-xr-xr-x   1    0    0      31724 Sep  6 2005 [ 617072 00] mstreetbtxm.big 
+-r-xr-xr-x   1    0    0      33807 Sep  6 2005 [ 617088 00] mstreetctxm.big 
+-r-xr-xr-x   1    0    0      31774 Sep  6 2005 [ 617120 00] mstreetdtxm.big 
+-r-xr-xr-x   1    0    0      33803 Sep  6 2005 [ 617136 00] mstreetetxm.big 
+-r-xr-xr-x   1    0    0      29679 Sep  6 2005 [ 617168 00] murbanatxm.big 
+-r-xr-xr-x   1    0    0      33853 Sep  6 2005 [ 617184 00] murbanbtxm.big 
+-r-xr-xr-x   1    0    0      31726 Sep  6 2005 [ 617216 00] murbanctxm.big 
+-r-xr-xr-x   1    0    0      31736 Sep  6 2005 [ 617232 00] murbandtxm.big 
+-r-xr-xr-x   1    0    0      33816 Sep  6 2005 [ 617248 00] murbanetxm.big 
+-r-xr-xr-x   1    0    0      37889 Sep  6 2005 [ 617280 00] mwackyatxm.big 
+-r-xr-xr-x   1    0    0      31748 Sep  6 2005 [ 617312 00] mwackybtxm.big 
+-r-xr-xr-x   1    0    0      82997 Sep  6 2005 [ 617328 00] natetxm.big 
+-r-xr-xr-x   1    0    0      76834 Sep  6 2005 [ 617376 00] npcfemale1txm.big 
+-r-xr-xr-x   1    0    0      58341 Sep  6 2005 [ 617424 00] npcfemale2txm.big 
+-r-xr-xr-x   1    0    0      91172 Sep  6 2005 [ 617456 00] npcfemale3txm.big 
+-r-xr-xr-x   1    0    0      76756 Sep  6 2005 [ 617504 00] npcfemale4txm.big 
+-r-xr-xr-x   1    0    0      91103 Sep  6 2005 [ 617552 00] npcmale1txm.big 
+-r-xr-xr-x   1    0    0      62501 Sep  6 2005 [ 617600 00] npcmale2txm.big 
+-r-xr-xr-x   1    0    0      91174 Sep  6 2005 [ 617632 00] npcmale3txm.big 
+-r-xr-xr-x   1    0    0      80940 Sep  6 2005 [ 617680 00] npcmale4txm.big 
+-r-xr-xr-x   1    0    0     527408 Sep  6 2005 [ 617728 00] othertxm.big 
+-r-xr-xr-x   1    0    0      60407 Sep  6 2005 [ 618000 00] patroltxm.big 
+-r-xr-xr-x   1    0    0      80957 Sep  6 2005 [ 618032 00] psymontxm.big 
+-r-xr-xr-x   1    0    0   54726446 Sep  6 2005 [ 618080 00] psymotxm.big 
+-r-xr-xr-x   1    0    0    6300896 Sep  6 2005 [ 644816 00] rwrdpsp.big 
+-r-xr-xr-x   1    0    0      54253 Sep  6 2005 [ 647904 00] sidtxm.big 
+-r-xr-xr-x   1    0    0      80907 Sep  6 2005 [ 647936 00] skyetxm.big 
+-r-xr-xr-x   1    0    0      62499 Sep  6 2005 [ 647984 00] tysontxm.big 
+-r-xr-xr-x   1    0    0   86834990 Sep  6 2005 [ 648016 00] viggotxm.big 
+-r-xr-xr-x   1    0    0      60338 Sep  6 2005 [ 690416 00] zoetxm.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/config/
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     34 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     27 02] .. 
+-r-xr-xr-x   1    0    0        313 Sep  6 2005 [ 339408 00] banks.inf 
+-r-xr-xr-x   1    0    0       1235 Sep  6 2005 [ 339424 00] crowd.inf 
+-r-xr-xr-x   1    0    0      13497 Sep  6 2005 [ 339440 00] input.map 
+-r-xr-xr-x   1    0    0      14143 Sep  6 2005 [ 339456 00] input2.map 
+-r-xr-xr-x   1    0    0        666 Sep  6 2005 [ 339472 00] mix.inf 
+-r-xr-xr-x   1    0    0      21483 Sep  6 2005 [ 339488 00] music.inf 
+-r-xr-xr-x   1    0    0        606 Sep  6 2005 [ 339504 00] playlist.inf 
+-r-xr-xr-x   1    0    0       3624 Sep  6 2005 [ 339520 00] snow.inf 
+-r-xr-xr-x   1    0    0         45 Sep  6 2005 [ 339536 00] speech.inf 
+-r-xr-xr-x   1    0    0       2532 Sep  6 2005 [ 339552 00] watrig.adb 
+-r-xr-xr-x   1    0    0       2532 Sep  6 2005 [ 339568 00] watrig.adl 
+
+Directory listing of /PSP_GAME/USRDIR/data/eatrax/
+dr-xr-xr-x   1    0    0       4096 Sep  6 2005 [     35 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     27 02] .. 
+-r-xr-xr-x   1    0    0    2497864 Sep  6 2005 [ 339584 00] avengedsevenfold.aud 
+-r-xr-xr-x   1    0    0    1670288 Sep  6 2005 [ 340816 00] billytalent.aud 
+-r-xr-xr-x   1    0    0    1888368 Sep  6 2005 [ 341632 00] blackalicious.aud 
+-r-xr-xr-x   1    0    0    1647728 Sep  6 2005 [ 342560 00] blocparty.aud 
+-r-xr-xr-x   1    0    0    2014704 Sep  6 2005 [ 343376 00] bonobo1.aud 
+-r-xr-xr-x   1    0    0    2302344 Sep  6 2005 [ 344368 00] bonobo2.aud 
+-r-xr-xr-x   1    0    0    1816552 Sep  6 2005 [ 345504 00] chali2na.aud 
+-r-xr-xr-x   1    0    0    2012072 Sep  6 2005 [ 346400 00] crayzwalz.aud 
+-r-xr-xr-x   1    0    0    1580800 Sep  6 2005 [ 347392 00] deathfromabove1979.aud 
+-r-xr-xr-x   1    0    0    2188416 Sep  6 2005 [ 348176 00] defleppard.aud 
+-r-xr-xr-x   1    0    0    1610504 Sep  6 2005 [ 349248 00] dio.aud 
+-r-xr-xr-x   1    0    0    2259480 Sep  6 2005 [ 350048 00] diplo1.aud 
+-r-xr-xr-x   1    0    0    1734208 Sep  6 2005 [ 351152 00] diplo2.aud 
+-r-xr-xr-x   1    0    0    1721424 Sep  6 2005 [ 352000 00] divainternational.aud 
+-r-xr-xr-x   1    0    0    2243688 Sep  6 2005 [ 352848 00] djspookyanddavelombardo.aud 
+-r-xr-xr-x   1    0    0       5551 Sep  6 2005 [ 353952 00] eatrax.bin 
+-r-xr-xr-x   1    0    0     706600 Sep  6 2005 [ 353968 00] fumanchu.aud 
+-r-xr-xr-x   1    0    0    1286768 Sep  6 2005 [ 354320 00] goldfinger.aud 
+-r-xr-xr-x   1    0    0    1249920 Sep  6 2005 [ 354960 00] hothotheat.aud 
+-r-xr-xr-x   1    0    0    1907544 Sep  6 2005 [ 355584 00] ironmaiden.aud 
+-r-xr-xr-x   1    0    0    1466120 Sep  6 2005 [ 356528 00] jurassic5.aud 
+-r-xr-xr-x   1    0    0    2565544 Sep  6 2005 [ 357248 00] lcdsoundsystem.aud 
+-r-xr-xr-x   1    0    0    1365352 Sep  6 2005 [ 358512 00] louisxiv.aud 
+-r-xr-xr-x   1    0    0    1631560 Sep  6 2005 [ 359184 00] maximopark.aud 
+-r-xr-xr-x   1    0    0    1216456 Sep  6 2005 [ 359984 00] morningwood.aud 
+-r-xr-xr-x   1    0    0    2543736 Sep  6 2005 [ 360592 00] motorhead.aud 
+-r-xr-xr-x   1    0    0    1455216 Sep  6 2005 [ 361840 00] nineblackalps.aud 
+-r-xr-xr-x   1    0    0    1475144 Sep  6 2005 [ 362560 00] okgo.aud 
+-r-xr-xr-x   1    0    0    1884984 Sep  6 2005 [ 363296 00] paulwall.aud 
+-r-xr-xr-x   1    0    0    1310832 Sep  6 2005 [ 364224 00] pennywise.aud 
+-r-xr-xr-x   1    0    0     926936 Sep  6 2005 [ 364880 00] queensofthestoneage.aud 
+-r-xr-xr-x   1    0    0    1070192 Sep  6 2005 [ 365344 00] rocknrollsoldiers.aud 
+-r-xr-xr-x   1    0    0    2045912 Sep  6 2005 [ 365872 00] scorpions.aud 
+-r-xr-xr-x   1    0    0    1354824 Sep  6 2005 [ 366880 00] sweatshopunion.aud 
+-r-xr-xr-x   1    0    0    2001920 Sep  6 2005 [ 367552 00] thefaint.aud 
+-r-xr-xr-x   1    0    0    2014328 Sep  6 2005 [ 368544 00] theherbaliser1.aud 
+-r-xr-xr-x   1    0    0    1754512 Sep  6 2005 [ 369536 00] theherbaliser2.aud 
+-r-xr-xr-x   1    0    0    1138624 Sep  6 2005 [ 370400 00] thehives.aud 
+-r-xr-xr-x   1    0    0    1162688 Sep  6 2005 [ 370960 00] theperceptionists.aud 
+-r-xr-xr-x   1    0    0    1598096 Sep  6 2005 [ 371536 00] vaticandc.aud 
+-r-xr-xr-x   1    0    0    1279248 Sep  6 2005 [ 372320 00] wearescientists.aud 
+-r-xr-xr-x   1    0    0    1703000 Sep  6 2005 [ 372960 00] ztrip.aud 
+
+Directory listing of /PSP_GAME/USRDIR/data/fe/
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     37 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     27 02] .. 
+-r-xr-xr-x   1    0    0    9931328 Sep  6 2005 [ 373792 00] screens.viv 
+
+Directory listing of /PSP_GAME/USRDIR/data/fonts/
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     38 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     27 02] .. 
+-r-xr-xr-x   1    0    0      26704 Sep  6 2005 [ 378656 00] aptfont1.mfn 
+-r-xr-xr-x   1    0    0      29520 Sep  6 2005 [ 378672 00] aptfont2.mfn 
+-r-xr-xr-x   1    0    0      10384 Sep  6 2005 [ 378688 00] debugfnt.mfn 
+-r-xr-xr-x   1    0    0      15952 Sep  6 2005 [ 378704 00] easportsblacksmallcaps14b.mfn 
+-r-xr-xr-x   1    0    0      18640 Sep  6 2005 [ 378720 00] fefont.mfn 
+-r-xr-xr-x   1    0    0      32832 Sep  6 2005 [ 378736 00] fload.msh 
+-r-xr-xr-x   1    0    0       8336 Sep  6 2005 [ 378768 00] font.mfn 
+-r-xr-xr-x   1    0    0      32832 Sep  6 2005 [ 378784 00] gload.msh 
+-r-xr-xr-x   1    0    0      35920 Sep  6 2005 [ 378816 00] hudfont.mfn 
+-r-xr-xr-x   1    0    0       2112 Sep  6 2005 [ 378848 00] menu.msh 
+-r-xr-xr-x   1    0    0      32832 Sep  6 2005 [ 378864 00] splash.msh 
+-r-xr-xr-x   1    0    0      14160 Sep  6 2005 [ 378896 00] transmission24.mfn 
+
+Directory listing of /PSP_GAME/USRDIR/data/icon/
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     39 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     27 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     48 02] savegame 
+
+Directory listing of /PSP_GAME/USRDIR/data/locale/
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     40 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     27 02] .. 
+-r-xr-xr-x   1    0    0     133984 Sep  6 2005 [ 378976 00] english.loc 
+-r-xr-xr-x   1    0    0     145740 Sep  6 2005 [ 379056 00] french.loc 
+-r-xr-xr-x   1    0    0     144636 Sep  6 2005 [ 379136 00] german.loc 
+-r-xr-xr-x   1    0    0      15856 Sep  6 2005 [ 379216 00] string.idx 
+
+Directory listing of /PSP_GAME/USRDIR/data/movies/
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     41 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     27 02] .. 
+-r-xr-xr-x   1    0    0     411648 Sep  6 2005 [ 379232 00] eabig.pmf 
+-r-xr-xr-x   1    0    0     411648 Sep  6 2005 [ 379440 00] eabigfrench.pmf 
+-r-xr-xr-x   1    0    0    1337344 Sep  6 2005 [ 379648 00] intro.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/data/scripts/
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     42 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     27 02] .. 
+-r-xr-xr-x   1    0    0    2607920 Sep  6 2005 [ 380304 00] animdbg.big 
+-r-xr-xr-x   1    0    0    9215218 Sep  6 2005 [ 381584 00] scdat.big 
+-r-xr-xr-x   1    0    0    1218496 Sep  6 2005 [ 386096 00] sounddbg.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/textures/
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     43 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     27 02] .. 
+-r-xr-xr-x   1    0    0      29672 Sep  6 2005 [ 386704 00] backs.msh 
+-r-xr-xr-x   1    0    0      66192 Sep  6 2005 [ 386720 00] crwd.msh 
+-r-xr-xr-x   1    0    0      32864 Sep  6 2005 [ 386768 00] dbgirad.msh 
+-r-xr-xr-x   1    0    0       1088 Sep  6 2005 [ 386800 00] dot.msh 
+-r-xr-xr-x   1    0    0      78240 Sep  6 2005 [ 386816 00] effects.msh 
+-r-xr-xr-x   1    0    0      61296 Sep  6 2005 [ 386864 00] particle.msh 
+-r-xr-xr-x   1    0    0     130768 Sep  6 2005 [ 386896 00] particle_backup.msh 
+
+Directory listing of /PSP_GAME/USRDIR/data/trclocale/
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     44 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     27 02] .. 
+-r-xr-xr-x   1    0    0       5104 Sep  6 2005 [ 386960 00] english.loc 
+-r-xr-xr-x   1    0    0       5956 Sep  6 2005 [ 386976 00] french.loc 
+-r-xr-xr-x   1    0    0       5212 Sep  6 2005 [ 386992 00] german.loc 
+-r-xr-xr-x   1    0    0        384 Sep  6 2005 [ 387008 00] string.idx 
+
+Directory listing of /PSP_GAME/USRDIR/data/ui/
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     45 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     27 02] .. 
+-r-xr-xr-x   1    0    0     493340 Sep  6 2005 [ 387024 00] charpic.big 
+-r-xr-xr-x   1    0    0     558460 Sep  6 2005 [ 387280 00] courspic.big 
+-r-xr-xr-x   1    0    0     364888 Sep  6 2005 [ 387568 00] fe.lui 
+-r-xr-xr-x   1    0    0     488384 Sep  6 2005 [ 387760 00] fe_1.msh 
+-r-xr-xr-x   1    0    0      28360 Sep  6 2005 [ 388000 00] fl.lui 
+-r-xr-xr-x   1    0    0      82144 Sep  6 2005 [ 388016 00] fl_1.msh 
+-r-xr-xr-x   1    0    0      35628 Sep  6 2005 [ 388064 00] gl.lui 
+-r-xr-xr-x   1    0    0      98560 Sep  6 2005 [ 388096 00] gl_1.msh 
+-r-xr-xr-x   1    0    0      65616 Sep  6 2005 [ 388160 00] loading_screen.msh 
+-r-xr-xr-x   1    0    0     854212 Sep  6 2005 [ 388208 00] mapgfx.big 
+-r-xr-xr-x   1    0    0       1044 Sep  6 2005 [ 388640 00] ov.lui 
+-r-xr-xr-x   1    0    0      66656 Sep  6 2005 [ 388656 00] ov_1.msh 
+-r-xr-xr-x   1    0    0       5956 Sep  6 2005 [ 388704 00] su.lui 
+-r-xr-xr-x   1    0    0      32864 Sep  6 2005 [ 388720 00] su_1.msh 
+
+Directory listing of /PSP_GAME/USRDIR/data/worlds/
+dr-xr-xr-x   1    0    0       4096 Sep  6 2005 [     46 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     27 02] .. 
+-r-xr-xr-x   1    0    0    3387180 Sep  6 2005 [ 388752 00] bam.big 
+-r-xr-xr-x   1    0    0       7564 Sep  6 2005 [ 390416 00] irr.dat 
+-r-xr-xr-x   1    0    0    1263284 Sep  6 2005 [ 390432 00] p1_bigair.big 
+-r-xr-xr-x   1    0    0     657936 Sep  6 2005 [ 391056 00] p1_bigair.bnk 
+-r-xr-xr-x   1    0    0    3234376 Sep  6 2005 [ 391392 00] p1_bigairbam.big 
+-r-xr-xr-x   1    0    0    1012508 Sep  6 2005 [ 392976 00] p1_disfunktion.big 
+-r-xr-xr-x   1    0    0     431504 Sep  6 2005 [ 393472 00] p1_disfunktion.bnk 
+-r-xr-xr-x   1    0    0    3016368 Sep  6 2005 [ 393696 00] p1_disfunktionbam.big 
+-r-xr-xr-x   1    0    0    2912368 Sep  6 2005 [ 395184 00] p1_happiness.big 
+-r-xr-xr-x   1    0    0     707104 Sep  6 2005 [ 396608 00] p1_happiness.bnk 
+-r-xr-xr-x   1    0    0    4883460 Sep  6 2005 [ 396960 00] p1_happinessbam.big 
+-r-xr-xr-x   1    0    0    3079428 Sep  6 2005 [ 399360 00] p1_randb.big 
+-r-xr-xr-x   1    0    0     636480 Sep  6 2005 [ 400864 00] p1_randb.bnk 
+-r-xr-xr-x   1    0    0    4984984 Sep  6 2005 [ 401184 00] p1_randbbam.big 
+-r-xr-xr-x   1    0    0    2911288 Sep  6 2005 [ 403632 00] p1_snowjam.big 
+-r-xr-xr-x   1    0    0     916032 Sep  6 2005 [ 405056 00] p1_snowjam.bnk 
+-r-xr-xr-x   1    0    0    4915108 Sep  6 2005 [ 405504 00] p1_snowjambam.big 
+-r-xr-xr-x   1    0    0    1260872 Sep  6 2005 [ 407904 00] p2_launchtime.big 
+-r-xr-xr-x   1    0    0     659088 Sep  6 2005 [ 408528 00] p2_launchtime.bnk 
+-r-xr-xr-x   1    0    0    3166296 Sep  6 2005 [ 408864 00] p2_launchtimebam.big 
+-r-xr-xr-x   1    0    0    3291428 Sep  6 2005 [ 410416 00] p2_ridge.big 
+-r-xr-xr-x   1    0    0     940752 Sep  6 2005 [ 412032 00] p2_ridge.bnk 
+-r-xr-xr-x   1    0    0    5229604 Sep  6 2005 [ 412496 00] p2_ridgebam.big 
+-r-xr-xr-x   1    0    0    2863520 Sep  6 2005 [ 415056 00] p2_ruthless.big 
+-r-xr-xr-x   1    0    0     675824 Sep  6 2005 [ 416464 00] p2_ruthless.bnk 
+-r-xr-xr-x   1    0    0    4900124 Sep  6 2005 [ 416800 00] p2_ruthlessbam.big 
+-r-xr-xr-x   1    0    0    1124860 Sep  6 2005 [ 419200 00] p2_schizo.big 
+-r-xr-xr-x   1    0    0     555024 Sep  6 2005 [ 419760 00] p2_schizo.bnk 
+-r-xr-xr-x   1    0    0    3095948 Sep  6 2005 [ 420032 00] p2_schizobam.big 
+-r-xr-xr-x   1    0    0    2545828 Sep  6 2005 [ 421552 00] p2_stylemile.big 
+-r-xr-xr-x   1    0    0     474112 Sep  6 2005 [ 422800 00] p2_stylemile.bnk 
+-r-xr-xr-x   1    0    0    4549688 Sep  6 2005 [ 423040 00] p2_stylemilebam.big 
+-r-xr-xr-x   1    0    0    2758664 Sep  6 2005 [ 425264 00] p3_gravitude.big 
+-r-xr-xr-x   1    0    0     831584 Sep  6 2005 [ 426624 00] p3_gravitude.bnk 
+-r-xr-xr-x   1    0    0    4729684 Sep  6 2005 [ 427040 00] p3_gravitudebam.big 
+-r-xr-xr-x   1    0    0    2192492 Sep  6 2005 [ 429360 00] p3_kickdoubt.big 
+-r-xr-xr-x   1    0    0     644512 Sep  6 2005 [ 430432 00] p3_kickdoubt.bnk 
+-r-xr-xr-x   1    0    0    4130660 Sep  6 2005 [ 430752 00] p3_kickdoubtbam.big 
+-r-xr-xr-x   1    0    0    1219288 Sep  6 2005 [ 432784 00] p3_much2much.big 
+-r-xr-xr-x   1    0    0     505248 Sep  6 2005 [ 433392 00] p3_much2much.bnk 
+-r-xr-xr-x   1    0    0    3157488 Sep  6 2005 [ 433648 00] p3_much2muchbam.big 
+-r-xr-xr-x   1    0    0     902276 Sep  6 2005 [ 435200 00] p3_perpin.big 
+-r-xr-xr-x   1    0    0     483552 Sep  6 2005 [ 435648 00] p3_perpin.bnk 
+-r-xr-xr-x   1    0    0    2906132 Sep  6 2005 [ 435888 00] p3_perpinbam.big 
+-r-xr-xr-x   1    0    0    3311856 Sep  6 2005 [ 437312 00] p3_thethrone.big 
+-r-xr-xr-x   1    0    0     622608 Sep  6 2005 [ 438944 00] p3_thethrone.bnk 
+-r-xr-xr-x   1    0    0    5282820 Sep  6 2005 [ 439264 00] p3_thethronebam.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/icon/savegame/
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     48 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep  6 2005 [     39 02] .. 
+-r-xr-xr-x   1    0    0      20464 Sep  6 2005 [ 378912 00] iconempty.png 
+-r-xr-xr-x   1    0    0      23650 Sep  6 2005 [ 378928 00] iconsave.png 
+-r-xr-xr-x   1    0    0      55296 Sep  6 2005 [ 378944 00] iconsaveanim.pmf 
+=============================================================== 
+Generated on Mon 08/08/2022 at 15:47:26.82 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

@@ -1,0 +1,107 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Traxxpad - Portable Studio   
+Title ID: ULUS-10272 
+Region: USA  
+Languages: En  
+Volume Creation Date: 2007-05-30 20:32:34 
+Volume Size: 400 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: TRAXXPAD
+Volume set id: TRAXXPAD
+Publisher id: EIDOS
+Data preparer id: NA
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 205184
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 May 30 2007 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 May 30 2007 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 May 30 2007 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 May 30 2007 [     30 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 May 30 2007 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 May 30 2007 [     22 02] .. 
+-r-xr-xr-x   1    0    0      19522 Apr  6 2007 [  21536 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     444416 Apr 10 2007 [  21600 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 May 23 2007 [  21552 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      56109 Apr 16 2007 [  21568 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 May 30 2007 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 May 30 2007 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 May 30 2007 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 May 30 2007 [     23 02] .. 
+-r-xr-xr-x   1    0    0    2042108 May 30 2007 [  21824 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    2042448 May 30 2007 [     32 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 May 30 2007 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 May 30 2007 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 May 30 2007 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 May 30 2007 [     27 02] data 
+dr-xr-xr-x   1    0    0       2048 May 30 2007 [     28 02] module 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 May 30 2007 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 May 30 2007 [     24 02] .. 
+-r-xr-xr-x   1    0    0   16703024 May 30 2007 [   5152 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5174464 May 30 2007 [   1056 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 May 30 2007 [   1040 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/data/
+dr-xr-xr-x   1    0    0       2048 May 30 2007 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 May 30 2007 [     25 02] .. 
+-r-xr-xr-x   1    0    0   98902675 Apr 16 2007 [ 156880 00] banks.pak 
+-r-xr-xr-x   1    0    0       6632 Apr 16 2007 [  24976 00] banks.toc 
+-r-xr-xr-x   1    0    0    1265555 May 24 2007 [  24992 00] common.pak 
+-r-xr-xr-x   1    0    0         40 May 24 2007 [  24912 00] common.toc 
+-r-xr-xr-x   1    0    0   48095187 May  3 2007 [  25616 00] frontends.pak 
+-r-xr-xr-x   1    0    0       1256 May  3 2007 [  24896 00] frontends.toc 
+-r-xr-xr-x   1    0    0      78163 May 18 2007 [ 156560 00] help.pak 
+-r-xr-xr-x   1    0    0         40 May 18 2007 [  24944 00] help.toc 
+-r-xr-xr-x   1    0    0     553171 Apr 16 2007 [ 156608 00] loops.pak 
+-r-xr-xr-x   1    0    0        616 Apr 16 2007 [  24960 00] loops.toc 
+dr-xr-xr-x   1    0    0       2048 May 30 2007 [     29 02] movie 
+-r-xr-xr-x   1    0    0  220064896 May  3 2007 [  49104 00] skins.pak 
+-r-xr-xr-x   1    0    0       4392 May  3 2007 [  24928 00] skins.toc 
+
+Directory listing of /PSP_GAME/USRDIR/module/
+dr-xr-xr-x   1    0    0       2048 May 30 2007 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 May 30 2007 [     25 02] .. 
+-r-xr-xr-x   1    0    0      35776 Feb  9 2007 [  22832 00] libpsmfplayer.prx 
+-r-xr-xr-x   1    0    0       7456 Feb  9 2007 [  22864 00] psmf.prx 
+
+Directory listing of /PSP_GAME/USRDIR/data/movie/
+dr-xr-xr-x   1    0    0       2048 May 30 2007 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 May 30 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0    2887680 May  3 2007 [  22880 00] intro.pmf 
+-r-xr-xr-x   1    0    0    1212416 Apr 16 2007 [  24304 00] legal.pmf 
+=============================================================== 
+Generated on Mon 08/08/2022 at 15:46:48.18 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

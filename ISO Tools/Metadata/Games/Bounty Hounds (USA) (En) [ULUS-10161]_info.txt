@@ -1,0 +1,208 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Bounty Hounds   
+Title ID: ULUS-10161 
+Region: USA  
+Languages: En  
+Volume Creation Date: 2006-08-09 22:26:28 
+Volume Size: 1094 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: NAMCO BANDAI GAMES
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 560256
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Aug  9 2006 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug  9 2006 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Aug  9 2006 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Aug  9 2006 [     33 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Aug  9 2006 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug  9 2006 [     22 02] .. 
+-r-xr-xr-x   1    0    0      26338 Jul 18 2006 [  22352 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0      94208 Jul 18 2006 [  22480 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 Jul 31 2006 [  22336 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      38437 Jul 31 2006 [  22448 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0     149401 Jul 18 2006 [  22368 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Aug  9 2006 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Aug  9 2006 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Aug  9 2006 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug  9 2006 [     23 02] .. 
+-r-xr-xr-x   1    0    0    3640660 Aug  9 2006 [  22528 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    3641008 Aug  9 2006 [     48 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Aug  9 2006 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Aug  9 2006 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug  9 2006 [     23 02] .. 
+-r-xr-xr-x   1    0    0      11299 Aug  9 2006 [ 560240 00] kxn.ufl 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2006 [     27 02] media 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Aug  9 2006 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug  9 2006 [     24 02] .. 
+-r-xr-xr-x   1    0    0   15027936 Aug  9 2006 [   5952 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5089088 Aug  9 2006 [   1856 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Aug  9 2006 [   1840 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/media/
+dr-xr-xr-x   1    0    0       2048 Jul 28 2006 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug  9 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0        700 Nov  8 2005 [  35408 00] E3_title.kxn 
+-r-xr-xr-x   1    0    0   12279808 Aug  9 2006 [  29344 00] MasterEq.xpk 
+-r-xr-xr-x   1    0    0         13 May  2 2005 [  74032 00] NetConfig.txt 
+-r-xr-xr-x   1    0    0   10272768 Aug  9 2006 [  24320 00] UI.xpk 
+-r-xr-xr-x   1    0    0        766 Mar 26 2006 [  35376 00] anti.fc 
+-r-xr-xr-x   1    0    0   19542016 Aug  9 2006 [  55248 00] anti.xpk 
+-r-xr-xr-x   1    0    0      26248 Jul 31 2006 [  55200 00] anti1.kxn 
+-r-xr-xr-x   1    0    0      25092 Jul 31 2006 [  55216 00] anti2.kxn 
+-r-xr-xr-x   1    0    0      18644 Jul 31 2006 [  55232 00] anti3.kxn 
+dr-xr-xr-x   1    0    0       2048 Aug  9 2006 [     28 02] audio 
+-r-xr-xr-x   1    0    0       1006 Mar 26 2006 [  35344 00] geez.fc 
+-r-xr-xr-x   1    0    0   19699712 Aug  9 2006 [  35472 00] geez.xpk 
+-r-xr-xr-x   1    0    0      30124 Jul 31 2006 [  35424 00] geez1.kxn 
+-r-xr-xr-x   1    0    0      24384 Jul 31 2006 [  35440 00] geez2.kxn 
+-r-xr-xr-x   1    0    0      18624 Jul 31 2006 [  35456 00] geez3.kxn 
+-r-xr-xr-x   1    0    0    6146048 Aug  9 2006 [  76176 00] gs.xpk 
+dr-xr-xr-x   1    0    0       2048 Aug  9 2006 [     29 02] gs 
+-r-xr-xr-x   1    0    0       1166 Mar 26 2006 [  35360 00] lost.fc 
+-r-xr-xr-x   1    0    0   20555776 Aug  9 2006 [  45152 00] lost.xpk 
+-r-xr-xr-x   1    0    0      24480 Jul 31 2006 [  45104 00] lost1.kxn 
+-r-xr-xr-x   1    0    0      26164 Jul 31 2006 [  45120 00] lost2.kxn 
+-r-xr-xr-x   1    0    0      18140 Jul 31 2006 [  45136 00] lost3.kxn 
+-r-xr-xr-x   1    0    0       4876 Mar  6 2006 [  74048 00] netstage.kxn 
+-r-xr-xr-x   1    0    0    4313088 Aug  9 2006 [  74064 00] netstage.xpk 
+-r-xr-xr-x   1    0    0        766 Mar 26 2006 [  35392 00] ngx.fc 
+-r-xr-xr-x   1    0    0   18806784 Aug  9 2006 [  64848 00] ngx.xpk 
+-r-xr-xr-x   1    0    0      24992 Jul 31 2006 [  64800 00] ngx1.kxn 
+-r-xr-xr-x   1    0    0      26628 Jul 31 2006 [  64816 00] ngx2.kxn 
+-r-xr-xr-x   1    0    0      19484 Jul 31 2006 [  64832 00] ngx3.kxn 
+-r-xr-xr-x   1    0    0     899072 Aug  9 2006 [  79184 00] savedata.xpk 
+-r-xr-xr-x   1    0    0     745472 Aug  9 2006 [  79632 00] subtitle.xpk 
+dr-xr-xr-x   1    0    0       6144 Aug  9 2006 [     30 02] video 
+
+Directory listing of /PSP_GAME/USRDIR/media/audio/
+dr-xr-xr-x   1    0    0       2048 Aug  9 2006 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2006 [     27 02] .. 
+-r-xr-xr-x   1    0    0    2201660 Sep 21 2005 [  80000 00] bgm_anti_ground.at3 
+-r-xr-xr-x   1    0    0    2119820 Sep 21 2005 [  81088 00] bgm_anti_underground.at3 
+-r-xr-xr-x   1    0    0    2017892 Sep 21 2005 [  82128 00] bgm_finalboss.at3 
+-r-xr-xr-x   1    0    0    2551340 Jul  5 2005 [  83120 00] bgm_geez_ground.at3 
+-r-xr-xr-x   1    0    0    2712044 Jul  5 2005 [  84368 00] bgm_geez_underground.at3 
+-r-xr-xr-x   1    0    0    2279780 Sep 21 2005 [  85696 00] bgm_lost_ground.at3 
+-r-xr-xr-x   1    0    0    2206868 Sep 21 2005 [  86816 00] bgm_ngx.at3 
+-r-xr-xr-x   1    0    0    2056580 Sep 21 2005 [  87904 00] bgm_otherboss.at3 
+-r-xr-xr-x   1    0    0    1920428 Sep 21 2005 [  88912 00] bgm_qs.at3 
+-r-xr-xr-x   1    0    0     382580 Nov 30 2005 [  89856 00] gs_bgm.at3 
+-r-xr-xr-x   1    0    0    1920360 Oct 14 2005 [  90048 00] titlebgm.at3 
+
+Directory listing of /PSP_GAME/USRDIR/media/gs/
+dr-xr-xr-x   1    0    0       2048 Aug  9 2006 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2006 [     27 02] .. 
+-r-xr-xr-x   1    0    0    8057760 Aug  9 2006 [ 556304 00] XP004_GS.bin 
+
+Directory listing of /PSP_GAME/USRDIR/media/video/
+dr-xr-xr-x   1    0    0       6144 Aug  9 2006 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2006 [     27 02] .. 
+-r-xr-xr-x   1    0    0   14102528 Apr  2 2006 [ 118256 00] 8410001.pmf 
+-r-xr-xr-x   1    0    0    7854080 Nov 22 2005 [ 125152 00] 8410002.pmf 
+-r-xr-xr-x   1    0    0    8634368 Nov 22 2005 [ 128992 00] 8410003.pmf 
+-r-xr-xr-x   1    0    0   24909824 Jan 23 2006 [ 133216 00] 8410009.pmf 
+-r-xr-xr-x   1    0    0    7520256 Nov 22 2005 [ 145392 00] 8410015.pmf 
+-r-xr-xr-x   1    0    0    8085504 Jan 23 2006 [ 149072 00] 8410016.pmf 
+-r-xr-xr-x   1    0    0    7933952 Nov 22 2005 [ 153024 00] 8410022.pmf 
+-r-xr-xr-x   1    0    0   11790336 Nov 22 2005 [ 156912 00] 8410101.pmf 
+-r-xr-xr-x   1    0    0   11925504 Nov 29 2005 [ 162672 00] 8410102.pmf 
+-r-xr-xr-x   1    0    0    4507648 Nov 22 2005 [ 168496 00] 8410103.pmf 
+-r-xr-xr-x   1    0    0    9508864 Nov 22 2005 [ 170704 00] 8410104.pmf 
+-r-xr-xr-x   1    0    0    4917248 Mar 31 2006 [ 175360 00] 8420002.pmf 
+-r-xr-xr-x   1    0    0    9084928 Mar 31 2006 [ 177776 00] 8420006.pmf 
+-r-xr-xr-x   1    0    0   13017088 Mar 31 2006 [ 182224 00] 8420007.pmf 
+-r-xr-xr-x   1    0    0   17620992 Mar 31 2006 [ 188592 00] 8420013.pmf 
+-r-xr-xr-x   1    0    0   51513344 Apr  2 2006 [ 197200 00] 8420019.pmf 
+-r-xr-xr-x   1    0    0   22532096 Nov 29 2005 [ 222368 00] 8420021.pmf 
+-r-xr-xr-x   1    0    0    9195520 Aug 16 2005 [ 233376 00] 8420021_2.pmf 
+-r-xr-xr-x   1    0    0   26036224 Nov 22 2005 [ 237872 00] 8420023.pmf 
+-r-xr-xr-x   1    0    0   16011264 Nov 22 2005 [ 250592 00] 8420027.pmf 
+-r-xr-xr-x   1    0    0    3962880 Nov 22 2005 [ 258416 00] 8420029.pmf 
+-r-xr-xr-x   1    0    0   19431424 Feb 10 2006 [ 260352 00] 8420101.pmf 
+-r-xr-xr-x   1    0    0   11130880 Nov 22 2005 [ 269840 00] 8420102.pmf 
+-r-xr-xr-x   1    0    0    8656896 Nov 22 2005 [ 275280 00] 8420103.pmf 
+-r-xr-xr-x   1    0    0    6127616 Nov 22 2005 [ 279520 00] 8420103b.pmf 
+-r-xr-xr-x   1    0    0    8323072 Dec 15 2005 [ 282512 00] 8420104.pmf 
+-r-xr-xr-x   1    0    0    2734080 Nov 22 2005 [ 286576 00] 8420104b.pmf 
+-r-xr-xr-x   1    0    0   14239744 Nov 29 2005 [ 287920 00] 8420105.pmf 
+-r-xr-xr-x   1    0    0   10256384 Nov 22 2005 [ 294880 00] 8430001.pmf 
+-r-xr-xr-x   1    0    0   12353536 Dec 23 2005 [ 299888 00] 8430001b.pmf 
+-r-xr-xr-x   1    0    0    4521984 Nov 22 2005 [ 305920 00] 8430010.pmf 
+-r-xr-xr-x   1    0    0    1900544 Mar 17 2006 [ 308128 00] 8430011.pmf 
+-r-xr-xr-x   1    0    0   21387264 Nov 22 2005 [ 309056 00] 8430015.pmf 
+-r-xr-xr-x   1    0    0   13959168 Nov 22 2005 [ 319504 00] 8430018.pmf 
+-r-xr-xr-x   1    0    0   13811712 Nov 22 2005 [ 326320 00] 8430101.pmf 
+-r-xr-xr-x   1    0    0   19396608 Nov 22 2005 [ 333072 00] 8430102.pmf 
+-r-xr-xr-x   1    0    0   14104576 Nov 22 2005 [ 342544 00] 8430103.pmf 
+-r-xr-xr-x   1    0    0   11071488 Nov 22 2005 [ 349440 00] 8430104.pmf 
+-r-xr-xr-x   1    0    0    9510912 Nov 22 2005 [ 354848 00] 8430105.pmf 
+-r-xr-xr-x   1    0    0    8230912 Nov 22 2005 [ 359504 00] 8430106.pmf 
+-r-xr-xr-x   1    0    0   20977664 Feb 22 2006 [ 363536 00] 8440101.pmf 
+-r-xr-xr-x   1    0    0   11778048 Nov 29 2005 [ 373792 00] 8440102.pmf 
+-r-xr-xr-x   1    0    0    4210688 Nov 22 2005 [ 379552 00] 8440103.pmf 
+-r-xr-xr-x   1    0    0    8206336 Jan  3 2006 [ 381616 00] 8440104.pmf 
+-r-xr-xr-x   1    0    0   28229632 Mar 17 2006 [ 385632 00] 8440105.pmf 
+-r-xr-xr-x   1    0    0    8507392 Nov 22 2005 [ 399424 00] 8440106.pmf 
+-r-xr-xr-x   1    0    0   10627072 Nov 22 2005 [ 403584 00] 8440107.pmf 
+-r-xr-xr-x   1    0    0   23384064 Nov 22 2005 [ 408784 00] 8440108.pmf 
+-r-xr-xr-x   1    0    0   12881920 Nov 29 2005 [ 420208 00] 8450001.pmf 
+-r-xr-xr-x   1    0    0    9791488 Nov 22 2005 [ 426512 00] 8450005.pmf 
+-r-xr-xr-x   1    0    0    6692864 Nov 22 2005 [ 431296 00] 8450009.pmf 
+-r-xr-xr-x   1    0    0    9777152 Nov 29 2005 [ 434576 00] 8450014.pmf 
+-r-xr-xr-x   1    0    0    8443904 Nov 29 2005 [ 442560 00] 8450015.pmf 
+-r-xr-xr-x   1    0    0    8988672 Nov 29 2005 [ 446688 00] 8450016.pmf 
+-r-xr-xr-x   1    0    0     727040 Mar 30 2006 [  90992 00] bhlogo.pmf 
+-r-xr-xr-x   1    0    0   45819904 Jul 31 2006 [ 451088 00] ending1.pmf 
+-r-xr-xr-x   1    0    0   92082176 Jul 31 2006 [ 473472 00] ending2.pmf 
+-r-xr-xr-x   1    0    0    3375104 Jul 31 2006 [ 106128 00] eyecatch1.pmf 
+-r-xr-xr-x   1    0    0    2551808 Jul 31 2006 [ 107776 00] eyecatch2.pmf 
+-r-xr-xr-x   1    0    0    2582528 Jul 31 2006 [ 109024 00] eyecatch3.pmf 
+-r-xr-xr-x   1    0    0    2871296 Jul 11 2006 [ 110288 00] eyecatch4.pmf 
+-r-xr-xr-x   1    0    0    4274176 Jul 11 2006 [ 111696 00] eyecatch5.pmf 
+-r-xr-xr-x   1    0    0    2902016 Jul 11 2006 [ 113792 00] eyecatch6.pmf 
+-r-xr-xr-x   1    0    0    2740224 Jul 11 2006 [ 115216 00] eyecatch7.pmf 
+-r-xr-xr-x   1    0    0    3463168 Jul 11 2006 [ 116560 00] eyecatch8.pmf 
+-r-xr-xr-x   1    0    0   18716672 Jul 11 2006 [  91360 00] op.pmf 
+-r-xr-xr-x   1    0    0   11499520 Jul 11 2006 [ 100512 00] prologue.pmf 
+-r-xr-xr-x   1    0    0   38721536 Jul 13 2006 [ 518448 00] staff1.pmf 
+-r-xr-xr-x   1    0    0   38789120 Jul 13 2006 [ 537360 00] staff2.pmf 
+=============================================================== 
+Generated on Mon 08/08/2022 at 15:46:55.14 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

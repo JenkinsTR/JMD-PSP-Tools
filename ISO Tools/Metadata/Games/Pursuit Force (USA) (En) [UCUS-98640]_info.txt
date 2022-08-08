@@ -1,0 +1,107 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Pursuit Force   
+Title ID: UCUS-98640 
+Region: USA  
+Languages: En  
+Volume Creation Date: 2005-12-15 12:23:14 
+Volume Size: 1397 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: 
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 715344
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Dec 15 2005 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 15 2005 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov 25 2005 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Nov 25 2005 [     29 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Nov 25 2005 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 15 2005 [     22 02] .. 
+-r-xr-xr-x   1    0    0      20301 Sep  5 2005 [  23168 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     329728 Sep  5 2005 [  23184 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 Nov 25 2005 [  23024 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     261350 Dec 13 2005 [  23040 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0      54484 Apr  1 2005 [  23360 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 Nov 25 2005 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Nov 25 2005 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Nov 25 2005 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 25 2005 [     23 02] .. 
+-r-xr-xr-x   1    0    0    2527108 Dec 15 2005 [  21776 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    2527456 Dec 15 2005 [     32 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Nov 25 2005 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Nov 25 2005 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 25 2005 [     23 02] .. 
+-r-xr-xr-x   1    0    0 1321682294 Dec 15 2005 [  69984 00] ALL.PAK 
+dr-xr-xr-x   1    0    0       2048 Dec 15 2005 [     27 02] MOVIES 
+-r-xr-xr-x   1    0    0   27743744 Nov 10 2005 [  56432 00] MusicPSP.pak 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2005 [     28 02] modules_psp 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Nov 25 2005 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 25 2005 [     24 02] .. 
+-r-xr-xr-x   1    0    0   13885040 Nov 25 2005 [   5392 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    3970656 Nov 25 2005 [   1296 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       1772 Nov 25 2005 [   1280 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/MOVIES/
+dr-xr-xr-x   1    0    0       2048 Dec 15 2005 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 25 2005 [     25 02] .. 
+-r-xr-xr-x   1    0    0    4186112 Oct 27 2005 [  23488 00] Capelli_Intro_US.pmf 
+-r-xr-xr-x   1    0    0    4040704 Oct 27 2005 [  25536 00] Capelli_Win_SCEA.pmf 
+-r-xr-xr-x   1    0    0    4726784 Nov  9 2005 [  27520 00] Convicts_Intro_US.pmf 
+-r-xr-xr-x   1    0    0    4052992 Sep  2 2005 [  29840 00] Convicts_Win_SCEA.pmf 
+-r-xr-xr-x   1    0    0    4788224 Nov  9 2005 [  31824 00] Killer66_Intro_US.pmf 
+-r-xr-xr-x   1    0    0    8712192 Oct 20 2005 [  34176 00] Killer66_Win_US_SCEA.pmf 
+-r-xr-xr-x   1    0    0    9887744 Oct  5 2005 [  38432 00] PursuitForce_SCEA.pmf 
+-r-xr-xr-x   1    0    0    7266304 Oct 20 2005 [  43264 00] SceneSetter_US.pmf 
+-r-xr-xr-x   1    0    0    5580800 Sep  2 2005 [  46816 00] Vixen_Intro_US.pmf 
+-r-xr-xr-x   1    0    0    4540416 Oct 27 2005 [  49552 00] Vixen_Win_SCEA.pmf 
+-r-xr-xr-x   1    0    0    4784128 Sep  2 2005 [  51776 00] Warlords_Intro_US.pmf 
+-r-xr-xr-x   1    0    0    4730880 Sep  2 2005 [  54112 00] Warlords_Win_SCEA.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/modules_psp/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2005 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 25 2005 [     25 02] .. 
+-r-xr-xr-x   1    0    0       3312 Oct 19 2005 [  23392 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0      10128 Oct 27 2005 [  23408 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0      23088 Oct 27 2005 [  23424 00] mpeg.prx 
+-r-xr-xr-x   1    0    0       5392 Oct 19 2005 [  23440 00] mpegbase.prx 
+-r-xr-xr-x   1    0    0       6832 Oct 19 2005 [  23456 00] sc_sascore.prx 
+-r-xr-xr-x   1    0    0       3504 Oct 19 2005 [  23472 00] videocodec.prx 
+=============================================================== 
+Generated on Mon 08/08/2022 at 15:47:22.33 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

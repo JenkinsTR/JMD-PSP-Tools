@@ -1,0 +1,145 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: LocoRoco   
+Title ID: UCUS-98662 
+Region: USA  
+Languages: En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Ru  
+Volume Creation Date: 2006-07-19 17:04:10 
+Volume Size: 562 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: LOCOROCO
+Volume set id: 
+Publisher id: SCEI
+Data preparer id: SCEJ
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 287968
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Jul 19 2006 [     32 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     22 02] .. 
+-r-xr-xr-x   1    0    0       4918 Apr  7 2006 [  22864 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     280576 Apr 26 2006 [  22880 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 Jul 19 2006 [  22848 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0       6195 Apr 23 2006 [  23024 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0       6174 Apr 23 2006 [  23040 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0     202044 May  3 2006 [  23056 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     23 02] .. 
+-r-xr-xr-x   1    0    0    2328548 Jul 19 2006 [  21696 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    2328896 Jul 19 2006 [     48 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     27 02] data 
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     28 02] modules 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     24 02] .. 
+-r-xr-xr-x   1    0    0   15027936 Jul 19 2006 [   5312 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5089088 Jul 19 2006 [   1216 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Jul 19 2006 [   1200 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/data/
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0  445022208 Jul 19 2006 [  23472 00] DATA.BIN 
+-r-xr-xr-x   1    0    0      98275 Jul 19 2006 [  23424 00] first_us.arc 
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     29 02] movie 
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     30 02] sharing 
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     31 02] stream 
+
+Directory listing of /PSP_GAME/USRDIR/modules/
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0       3264 Dec  8 2005 [  23200 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0      10128 Dec  8 2005 [  23344 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0      23488 Feb 27 2006 [  23360 00] libfont.prx 
+-r-xr-xr-x   1    0    0     102340 Mar 12 2006 [  23280 00] libpsmfplayer.prx 
+-r-xr-xr-x   1    0    0        242 Mar 12 2006 [  23168 00] module.cnf 
+-r-xr-xr-x   1    0    0      20976 Dec  8 2005 [  23248 00] mpeg.prx 
+-r-xr-xr-x   1    0    0       5136 Dec  8 2005 [  23232 00] mpegbase.prx 
+-r-xr-xr-x   1    0    0       6320 Dec  8 2005 [  23264 00] psmf.prx 
+-r-xr-xr-x   1    0    0       6864 Dec  8 2005 [  23184 00] sc_sascore.prx 
+-r-xr-xr-x   1    0    0       3440 Dec  8 2005 [  23216 00] videocodec.prx 
+-r-xr-xr-x   1    0    0      90040 Apr 21 2006 [  23376 00] web_apli.prx 
+
+Directory listing of /PSP_GAME/USRDIR/data/movie/
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     27 02] .. 
+-r-xr-xr-x   1    0    0    4306944 May  2 2006 [ 270576 00] Ending.pmf 
+-r-xr-xr-x   1    0    0   13246464 Apr 28 2006 [ 259936 00] Opening.pmf 
+-r-xr-xr-x   1    0    0   35123200 May 12 2006 [ 242784 00] titledemo.pmf 
+-r-xr-xr-x   1    0    0    3715072 Apr 28 2006 [ 266416 00] worldclear1.pmf 
+-r-xr-xr-x   1    0    0    4782080 Apr 28 2006 [ 268240 00] worldclear2.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/data/sharing/
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     27 02] .. 
+-r-xr-xr-x   1    0    0    7229520 Jul 19 2006 [ 272688 00] gs_ver1_usa.bin 
+-r-xr-xr-x   1    0    0    8180688 Jul 19 2006 [ 276224 00] gs_ver2_usa.bin 
+-r-xr-xr-x   1    0    0    7855312 Jul 19 2006 [ 280224 00] gs_ver3_usa.bin 
+-r-xr-xr-x   1    0    0    7973072 Jul 19 2006 [ 284064 00] gs_ver4_usa.bin 
+
+Directory listing of /PSP_GAME/USRDIR/data/stream/
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     31 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 19 2006 [     27 02] .. 
+-r-xr-xr-x   1    0    0     210144 Apr 24 2006 [ 240864 00] blk_SongEvent1.sgb 
+-r-xr-xr-x   1    0    0     210144 Apr 24 2006 [ 240976 00] blk_SongEvent2.sgb 
+-r-xr-xr-x   1    0    0     210144 Apr 24 2006 [ 241088 00] blk_SongEvent3.sgb 
+-r-xr-xr-x   1    0    0     236288 Apr 24 2006 [ 241200 00] blu_SongEvent1.sgb 
+-r-xr-xr-x   1    0    0     236288 Apr 24 2006 [ 241328 00] blu_SongEvent2.sgb 
+-r-xr-xr-x   1    0    0     236288 Apr 24 2006 [ 241456 00] blu_SongEvent3.sgb 
+-r-xr-xr-x   1    0    0     100192 Feb 13 2006 [ 240800 00] clear_jingle.sgb 
+-r-xr-xr-x   1    0    0      63344 Feb 13 2006 [ 240768 00] gameover.sgb 
+-r-xr-xr-x   1    0    0     162720 Apr 24 2006 [ 241584 00] grn_SongEvent1.sgb 
+-r-xr-xr-x   1    0    0     162720 Apr 24 2006 [ 241664 00] grn_SongEvent2.sgb 
+-r-xr-xr-x   1    0    0     162720 Apr 24 2006 [ 241744 00] grn_SongEvent3.sgb 
+-r-xr-xr-x   1    0    0     249360 Apr 24 2006 [ 241824 00] pin_SongEvent1.sgb 
+-r-xr-xr-x   1    0    0     249360 Apr 24 2006 [ 241952 00] pin_SongEvent2.sgb 
+-r-xr-xr-x   1    0    0     249360 Apr 24 2006 [ 242080 00] pin_SongEvent3.sgb 
+-r-xr-xr-x   1    0    0     170624 Apr 24 2006 [ 242208 00] red_SongEvent1.sgb 
+-r-xr-xr-x   1    0    0     170624 Apr 24 2006 [ 242304 00] red_SongEvent2.sgb 
+-r-xr-xr-x   1    0    0     170624 Apr 24 2006 [ 242400 00] red_SongEvent3.sgb 
+-r-xr-xr-x   1    0    0     180048 Apr 14 2006 [ 242496 00] yel_SongEvent1.sgb 
+-r-xr-xr-x   1    0    0     180048 Apr 14 2006 [ 242592 00] yel_SongEvent2.sgb 
+-r-xr-xr-x   1    0    0     180048 Apr 14 2006 [ 242688 00] yel_SongEvent3.sgb 
+=============================================================== 
+Generated on Sun 07/08/2022 at 13:43:38.93 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

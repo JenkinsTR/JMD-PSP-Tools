@@ -1,0 +1,776 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: What Did I Do to Deserve This, My Lord 2   
+Title ID: ULUS-10494 
+Region: USA  
+Languages: En  
+Volume Creation Date: 2010-03-09 18:56:29 
+Volume Size: 309 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: 
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 158688
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Mar  9 2010 [     73 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     22 02] .. 
+-r-xr-xr-x   1    0    0      14090 Dec  4 2008 [  56128 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        560 Feb  8 2010 [  56240 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     178628 Nov  4 2008 [  56144 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     23 02] .. 
+-r-xr-xr-x   1    0    0    2822716 Mar  9 2010 [  54736 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    2823056 Mar  9 2010 [    592 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0        880 Mar  9 2010 [     80 00] OPNSSMP.BIN 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     27 02] data_usa 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     24 02] .. 
+-r-xr-xr-x   1    0    0   23372384 Mar  9 2010 [   6096 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5545568 Mar  9 2010 [   2000 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Mar  9 2010 [   1984 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/data_usa/
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     28 02] Badman1 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     29 02] csvtables 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     30 02] download 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     31 02] font 
+dr-xr-xr-x   1    0    0       4096 Mar  9 2010 [     32 02] graph 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     34 02] module 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     35 02] movie 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     36 02] rush 
+dr-xr-xr-x   1    0    0       4096 Mar  9 2010 [     37 02] snd 
+dr-xr-xr-x   1    0    0       4096 Mar  9 2010 [     39 02] stage 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     41 02] text 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     42 02] zukan 
+
+Directory listing of /PSP_GAME/USRDIR/data_usa/Badman1/
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     27 02] .. 
+-r-xr-xr-x   1    0    0    1710708 Mar  9 2010 [  56256 00] badman1_rom.prx 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     43 02] data_usa 
+
+Directory listing of /PSP_GAME/USRDIR/data_usa/csvtables/
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     27 02] .. 
+-r-xr-xr-x   1    0    0      27325 Dec 17 2008 [  94528 00] HeroParam.bin 
+-r-xr-xr-x   1    0    0       3242 Aug  6 2009 [  94544 00] prefstage01.bin 
+-r-xr-xr-x   1    0    0       3242 Aug  6 2009 [  94560 00] prefstage02.bin 
+-r-xr-xr-x   1    0    0       5242 Aug  6 2009 [  94576 00] prefstage03.bin 
+-r-xr-xr-x   1    0    0       5242 Aug  6 2009 [  94592 00] prefstage04.bin 
+-r-xr-xr-x   1    0    0       8254 Aug  6 2009 [  94608 00] prefstage05.bin 
+-r-xr-xr-x   1    0    0       2241 Aug  6 2009 [  94624 00] prefstage06.bin 
+-r-xr-xr-x   1    0    0       6257 Aug  6 2009 [  94640 00] prefstage07.bin 
+-r-xr-xr-x   1    0    0       8238 Aug  6 2009 [  94656 00] prefstage08.bin 
+-r-xr-xr-x   1    0    0      52407 Aug  6 2009 [  94672 00] prefstagemission.bin 
+-r-xr-xr-x   1    0    0       2225 Aug  6 2009 [  94704 00] prefstageroom.bin 
+
+Directory listing of /PSP_GAME/USRDIR/data_usa/download/
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     27 02] .. 
+-r-xr-xr-x   1    0    0     363276 Mar  9 2010 [  94720 00] NPYDLD01.edat 
+-r-xr-xr-x   1    0    0     375936 Mar  9 2010 [  94912 00] NPYDLD02.edat 
+
+Directory listing of /PSP_GAME/USRDIR/data_usa/font/
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     31 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     27 02] .. 
+-r-xr-xr-x   1    0    0     102420 Jan 20 2010 [  95104 00] fpack.fbe 
+-r-xr-xr-x   1    0    0      93472 Sep  1 2008 [  95168 00] maou_face.gim 
+
+Directory listing of /PSP_GAME/USRDIR/data_usa/graph/
+dr-xr-xr-x   1    0    0       4096 Mar  9 2010 [     32 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     27 02] .. 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     44 02] Area0_Ground 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     45 02] Area1_Ground 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     46 02] Area2_Ground 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     47 02] Area3_Ground 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     48 02] Area4_Ground 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     49 02] Area5_Ground 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     50 02] Area6_Ground 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     51 02] Area7_Ground 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     52 02] Area8_Ground 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     53 02] Area9_Ground 
+-r-xr-xr-x   1    0    0       1274 Aug 20 2008 [  97952 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0       1339 Aug 20 2008 [  97968 00] ICON_NEW.PNG 
+-r-xr-xr-x   1    0    0     178628 Nov  4 2008 [  99504 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0       8992 Sep  5 2008 [  97664 00] area_clear.gim 
+-r-xr-xr-x   1    0    0      23536 Sep 10 2008 [  97680 00] block_youbun.gim 
+-r-xr-xr-x   1    0    0        780 Jun 19 2007 [  97696 00] checkmark.gim 
+-r-xr-xr-x   1    0    0       2212 Aug 12 2008 [  97712 00] cursor_maou.gim 
+-r-xr-xr-x   1    0    0        608 Aug 13 2008 [  97728 00] cursor_yubi.gim 
+-r-xr-xr-x   1    0    0       1112 Feb 10 2010 [  97744 00] dig.gim 
+-r-xr-xr-x   1    0    0       3772 Jun  5 2007 [  97760 00] gameover.gim 
+-r-xr-xr-x   1    0    0     358836 Feb 10 2010 [  97776 00] gpack.fbe 
+-r-xr-xr-x   1    0    0      24356 Jul 22 2008 [  97984 00] maou_island01.gim 
+-r-xr-xr-x   1    0    0      24356 Jul 22 2008 [  98000 00] maou_island02.gim 
+-r-xr-xr-x   1    0    0      24356 Jul 22 2008 [  98016 00] maou_island03.gim 
+-r-xr-xr-x   1    0    0      24356 Jul 22 2008 [  98032 00] maou_island04.gim 
+-r-xr-xr-x   1    0    0      24356 Jul 22 2008 [  98048 00] maou_island05.gim 
+-r-xr-xr-x   1    0    0      24356 Jul 22 2008 [  98064 00] maou_island05_2.gim 
+-r-xr-xr-x   1    0    0      24356 Jul 22 2008 [  98080 00] maou_island06.gim 
+-r-xr-xr-x   1    0    0      24356 Jul 22 2008 [  98096 00] maou_island07.gim 
+-r-xr-xr-x   1    0    0      24356 Jul 22 2008 [  98112 00] maou_island08.gim 
+-r-xr-xr-x   1    0    0     152868 Jul 22 2008 [  98128 00] maou_island_up1.gim 
+-r-xr-xr-x   1    0    0     152868 Jul 22 2008 [  98208 00] maou_island_up2.gim 
+-r-xr-xr-x   1    0    0      33956 May 10 2007 [  98288 00] map_effect_black.gim 
+-r-xr-xr-x   1    0    0      33964 May 10 2007 [  98320 00] map_effect_black_flip.gim 
+-r-xr-xr-x   1    0    0      33968 May  8 2008 [  98352 00] map_effect_red.gim 
+-r-xr-xr-x   1    0    0      33972 May  8 2008 [  98384 00] map_effect_red_flip.gim 
+-r-xr-xr-x   1    0    0       6436 Jul 27 2007 [  98416 00] mission_clear.gim 
+-r-xr-xr-x   1    0    0       6436 Jul 27 2007 [  98432 00] mission_failed.gim 
+-r-xr-xr-x   1    0    0       6436 Jul 27 2007 [  98448 00] mission_start.gim 
+-r-xr-xr-x   1    0    0       4900 Jul 27 2007 [  98464 00] mission_timeover.gim 
+-r-xr-xr-x   1    0    0    2082084 Nov 18 2008 [  98480 00] pack.fbe 
+-r-xr-xr-x   1    0    0       2268 Jul 25 2008 [  99600 00] retry.gim 
+-r-xr-xr-x   1    0    0        452 Jul 10 2008 [  99616 00] sankaku_sita0000.gim 
+-r-xr-xr-x   1    0    0        528 Jun 27 2007 [  99632 00] sankaku_yoko_r.gim 
+-r-xr-xr-x   1    0    0       4128 Jun  8 2007 [  99648 00] stageclear.gim 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     54 02] tutor 
+-r-xr-xr-x   1    0    0       3428 Jun 22 2007 [ 101344 00] vsmode_youlose.gim 
+-r-xr-xr-x   1    0    0       3076 Jun 22 2007 [ 101360 00] vsmode_youwin.gim 
+-r-xr-xr-x   1    0    0     131884 Aug 18 2008 [ 101376 00] worldmap.gim 
+-r-xr-xr-x   1    0    0     131872 Jun 24 2008 [ 101456 00] worldmap01.gim 
+-r-xr-xr-x   1    0    0     131872 Jun 24 2008 [ 101536 00] worldmap02.gim 
+-r-xr-xr-x   1    0    0     131872 Jun 24 2008 [ 101616 00] worldmap03.gim 
+-r-xr-xr-x   1    0    0     131872 Jun 24 2008 [ 101696 00] worldmap04.gim 
+-r-xr-xr-x   1    0    0     131872 Jun 24 2008 [ 101776 00] worldmap05.gim 
+
+Directory listing of /PSP_GAME/USRDIR/data_usa/module/
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     34 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     27 02] .. 
+-r-xr-xr-x   1    0    0      20688 Oct  9 2009 [ 101856 00] libfont.prx 
+
+Directory listing of /PSP_GAME/USRDIR/data_usa/movie/
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     35 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     27 02] .. 
+-r-xr-xr-x   1    0    0     239616 Mar 23 2009 [ 101872 00] logo.pmf 
+-r-xr-xr-x   1    0    0   21118976 Feb 10 2010 [ 102000 00] omote.pmf 
+-r-xr-xr-x   1    0    0   66037760 Feb 10 2010 [ 112320 00] ura.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/data_usa/rush/
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     36 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     27 02] .. 
+-r-xr-xr-x   1    0    0         64 Jun 26 2008 [ 144576 00] party01.bin 
+-r-xr-xr-x   1    0    0         64 Jun 26 2008 [ 144592 00] party02.bin 
+-r-xr-xr-x   1    0    0         96 Aug 28 2008 [ 144608 00] party03.bin 
+-r-xr-xr-x   1    0    0        128 Jul 16 2008 [ 144624 00] party04.bin 
+-r-xr-xr-x   1    0    0        128 Jul 16 2008 [ 144640 00] party05.bin 
+-r-xr-xr-x   1    0    0         80 Aug 18 2008 [ 144656 00] party06.bin 
+-r-xr-xr-x   1    0    0         80 Aug 15 2008 [ 144672 00] party07.bin 
+
+Directory listing of /PSP_GAME/USRDIR/data_usa/snd/
+dr-xr-xr-x   1    0    0       4096 Mar  9 2010 [     37 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     27 02] .. 
+-r-xr-xr-x   1    0    0    2458688 Sep  8 2008 [ 154304 00] GameSEPack.fbe 
+-r-xr-xr-x   1    0    0      78088 Sep  8 2008 [ 155520 00] HeroA_SEPack.fbe 
+-r-xr-xr-x   1    0    0     105160 Sep  8 2008 [ 155568 00] HeroB_SEPack.fbe 
+-r-xr-xr-x   1    0    0      55816 Sep  8 2008 [ 155632 00] HeroC_SEPack.fbe 
+-r-xr-xr-x   1    0    0      65368 Sep  8 2008 [ 155664 00] HeroD_SEPack.fbe 
+-r-xr-xr-x   1    0    0      47136 Sep  8 2008 [ 155696 00] HeroE_SEPack.fbe 
+-r-xr-xr-x   1    0    0      49288 Sep  8 2008 [ 155728 00] HeroF_SEPack.fbe 
+-r-xr-xr-x   1    0    0      44096 Sep  8 2008 [ 155760 00] HeroG_SEPack.fbe 
+-r-xr-xr-x   1    0    0      56136 Sep  8 2008 [ 155792 00] HeroH_SEPack.fbe 
+-r-xr-xr-x   1    0    0      54664 Sep  8 2008 [ 155824 00] HeroI_SEPack.fbe 
+-r-xr-xr-x   1    0    0     129320 Sep  8 2008 [ 155856 00] HeroJ_SEPack.fbe 
+-r-xr-xr-x   1    0    0      62120 Sep  8 2008 [ 155920 00] HeroK_SEPack.fbe 
+-r-xr-xr-x   1    0    0      62264 Sep  8 2008 [ 155952 00] HeroL_SEPack.fbe 
+-r-xr-xr-x   1    0    0      48616 Sep  8 2008 [ 155984 00] HeroM_SEPack.fbe 
+-r-xr-xr-x   1    0    0      84632 Sep  8 2008 [ 156016 00] HeroN_SEPack.fbe 
+-r-xr-xr-x   1    0    0      73688 Sep  8 2008 [ 156064 00] HeroO_SEPack.fbe 
+-r-xr-xr-x   1    0    0      62912 Sep  8 2008 [ 156112 00] HeroP_SEPack.fbe 
+-r-xr-xr-x   1    0    0      63000 Sep  8 2008 [ 156144 00] HeroQ_SEPack.fbe 
+-r-xr-xr-x   1    0    0      82856 Sep  8 2008 [ 156176 00] HeroR_SEPack.fbe 
+-r-xr-xr-x   1    0    0      67896 Sep  8 2008 [ 156224 00] HeroS_SEPack.fbe 
+-r-xr-xr-x   1    0    0      59128 Sep  8 2008 [ 156272 00] HeroT_SEPack.fbe 
+-r-xr-xr-x   1    0    0      51416 Sep  8 2008 [ 156304 00] HeroU_SEPack.fbe 
+-r-xr-xr-x   1    0    0      67160 Sep  8 2008 [ 156336 00] HeroV_SEPack.fbe 
+-r-xr-xr-x   1    0    0      69304 Sep  8 2008 [ 156384 00] HeroW_SEPack.fbe 
+-r-xr-xr-x   1    0    0      71640 Sep  8 2008 [ 156432 00] HeroX_SEPack.fbe 
+-r-xr-xr-x   1    0    0      68264 Sep  8 2008 [ 156480 00] HeroY_SEPack.fbe 
+-r-xr-xr-x   1    0    0      98928 Sep  8 2008 [ 156528 00] SystemSEPack.fbe 
+-r-xr-xr-x   1    0    0     266096 Aug 29 2008 [ 144688 00] bgm_01.ac3 
+-r-xr-xr-x   1    0    0     202816 Aug 29 2008 [ 144832 00] bgm_02.ac3 
+-r-xr-xr-x   1    0    0     509204 Aug 29 2008 [ 144944 00] bgm_03.ac3 
+-r-xr-xr-x   1    0    0      43776 Aug 29 2008 [ 145200 00] bgm_04.ac3 
+-r-xr-xr-x   1    0    0     605148 Aug 29 2008 [ 145232 00] bgm_05.ac3 
+-r-xr-xr-x   1    0    0     249856 Aug 29 2008 [ 145536 00] bgm_06.ac3 
+-r-xr-xr-x   1    0    0     187696 Aug 29 2008 [ 145664 00] bgm_07.ac3 
+-r-xr-xr-x   1    0    0    1619056 Aug 29 2008 [ 145760 00] bgm_08.ac3 
+-r-xr-xr-x   1    0    0     370884 Aug 29 2008 [ 146560 00] bgm_09.ac3 
+-r-xr-xr-x   1    0    0     776884 Aug 29 2008 [ 146752 00] bgm_10.ac3 
+-r-xr-xr-x   1    0    0     748324 Aug 29 2008 [ 147136 00] bgm_11.ac3 
+-r-xr-xr-x   1    0    0     538324 Aug 29 2008 [ 147504 00] bgm_12.ac3 
+-r-xr-xr-x   1    0    0     724524 Aug 29 2008 [ 147776 00] bgm_13.ac3 
+-r-xr-xr-x   1    0    0     772964 Aug 29 2008 [ 148144 00] bgm_14.ac3 
+-r-xr-xr-x   1    0    0     181044 Aug 29 2008 [ 148528 00] bgm_15.ac3 
+-r-xr-xr-x   1    0    0     296208 May 27 2008 [ 148624 00] bgm_16.ac3 
+-r-xr-xr-x   1    0    0     281776 Aug 29 2008 [ 148784 00] bgm_21.ac3 
+-r-xr-xr-x   1    0    0     632596 Aug 29 2008 [ 148928 00] bgm_22.ac3 
+-r-xr-xr-x   1    0    0     346244 Aug 29 2008 [ 149248 00] bgm_23.ac3 
+-r-xr-xr-x   1    0    0     645284 Aug 29 2008 [ 149424 00] bgm_24.ac3 
+-r-xr-xr-x   1    0    0     665444 Aug 29 2008 [ 149744 00] bgm_25.ac3 
+-r-xr-xr-x   1    0    0     215136 Aug 29 2008 [ 150080 00] bgm_26.ac3 
+-r-xr-xr-x   1    0    0     435284 Aug 29 2008 [ 150192 00] bgm_27.ac3 
+-r-xr-xr-x   1    0    0     148496 Aug 29 2008 [ 150416 00] bgm_27_1.ac3 
+-r-xr-xr-x   1    0    0     310404 Aug 29 2008 [ 150496 00] bgm_27_2.ac3 
+-r-xr-xr-x   1    0    0    2316256 Sep  8 2008 [ 150656 00] bgm_28.ac3 
+-r-xr-xr-x   1    0    0     491596 Aug 29 2008 [ 151792 00] bgm_29.ac3 
+-r-xr-xr-x   1    0    0     539348 Aug 29 2008 [ 152048 00] bgm_30.ac3 
+-r-xr-xr-x   1    0    0     651444 Aug 29 2008 [ 152320 00] bgm_31.ac3 
+-r-xr-xr-x   1    0    0     614172 Aug 29 2008 [ 152640 00] bgm_32.ac3 
+-r-xr-xr-x   1    0    0      98096 Aug 29 2008 [ 152944 00] bgm_33.ac3 
+-r-xr-xr-x   1    0    0     814204 Sep  8 2008 [ 152992 00] bgm_34.ac3 
+-r-xr-xr-x   1    0    0     573188 Aug 29 2008 [ 153392 00] bgm_35.ac3 
+-r-xr-xr-x   1    0    0     550084 Aug 29 2008 [ 153680 00] bgm_36.ac3 
+-r-xr-xr-x   1    0    0     696244 Aug 29 2008 [ 153952 00] bgm_37.ac3 
+
+Directory listing of /PSP_GAME/USRDIR/data_usa/stage/
+dr-xr-xr-x   1    0    0       4096 Mar  9 2010 [     39 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     27 02] .. 
+-r-xr-xr-x   1    0    0      90852 Aug 12 2008 [ 156592 00] mission_stagedata_01.bin 
+-r-xr-xr-x   1    0    0      90852 Aug 12 2008 [ 156640 00] mission_stagedata_02.bin 
+-r-xr-xr-x   1    0    0      90852 Aug 12 2008 [ 156688 00] mission_stagedata_03.bin 
+-r-xr-xr-x   1    0    0     106012 Sep  6 2008 [ 156736 00] mission_stagedata_04.bin 
+-r-xr-xr-x   1    0    0      52024 Aug  4 2007 [ 156800 00] mission_stagedata_05.bin 
+-r-xr-xr-x   1    0    0     107652 Aug 20 2008 [ 156832 00] mission_stagedata_06.bin 
+-r-xr-xr-x   1    0    0      98052 Aug 13 2008 [ 156896 00] mission_stagedata_07.bin 
+-r-xr-xr-x   1    0    0      88452 Aug 22 2008 [ 156944 00] mission_stagedata_08.bin 
+-r-xr-xr-x   1    0    0      34744 Aug  6 2007 [ 156992 00] mission_stagedata_09.bin 
+-r-xr-xr-x   1    0    0      90880 Aug 13 2008 [ 157024 00] mission_stagedata_10.bin 
+-r-xr-xr-x   1    0    0      20344 Aug  6 2007 [ 157072 00] mission_stagedata_11.bin 
+-r-xr-xr-x   1    0    0     100452 Jul 14 2008 [ 157088 00] mission_stagedata_12.bin 
+-r-xr-xr-x   1    0    0      93156 Aug 23 2008 [ 157152 00] mission_stagedata_13.bin 
+-r-xr-xr-x   1    0    0      93108 Aug 23 2008 [ 157200 00] mission_stagedata_14.bin 
+-r-xr-xr-x   1    0    0      37624 Aug 23 2007 [ 157248 00] mission_stagedata_15.bin 
+-r-xr-xr-x   1    0    0      20344 Aug  3 2007 [ 157280 00] mission_stagedata_16.bin 
+-r-xr-xr-x   1    0    0      88452 Aug 13 2008 [ 157296 00] mission_stagedata_17.bin 
+-r-xr-xr-x   1    0    0     102852 Aug 13 2008 [ 157344 00] mission_stagedata_18.bin 
+-r-xr-xr-x   1    0    0     114852 Aug 13 2008 [ 157408 00] mission_stagedata_19.bin 
+-r-xr-xr-x   1    0    0      86052 Aug 13 2008 [ 157472 00] mission_stagedata_20.bin 
+-r-xr-xr-x   1    0    0      95652 Aug 13 2008 [ 157520 00] mission_stagedata_21.bin 
+-r-xr-xr-x   1    0    0     110052 Aug 13 2008 [ 157568 00] mission_stagedata_22.bin 
+-r-xr-xr-x   1    0    0      43264 Aug  4 2007 [ 157632 00] mission_stagedata_23.bin 
+-r-xr-xr-x   1    0    0     114688 Aug 23 2008 [ 157664 00] mission_stagedata_24.bin 
+-r-xr-xr-x   1    0    0      28984 Aug 31 2007 [ 157728 00] mission_stagedata_25.bin 
+-r-xr-xr-x   1    0    0      23224 Aug 24 2007 [ 157744 00] mission_stagedata_26.bin 
+-r-xr-xr-x   1    0    0      28984 Aug  4 2007 [ 157760 00] mission_stagedata_27.bin 
+-r-xr-xr-x   1    0    0      26104 Sep  8 2007 [ 157776 00] mission_stagedata_30.bin 
+-r-xr-xr-x   1    0    0      43384 Sep  8 2007 [ 157792 00] mission_stagedata_32.bin 
+-r-xr-xr-x   1    0    0     110052 Aug 20 2008 [ 157824 00] mission_stagedata_33.bin 
+-r-xr-xr-x   1    0    0      52024 Aug 22 2007 [ 157888 00] mission_stagedata_35.bin 
+-r-xr-xr-x   1    0    0      23224 Sep 12 2007 [ 157920 00] mission_stagedata_41.bin 
+-r-xr-xr-x   1    0    0      52024 Aug  8 2007 [ 157936 00] mission_stagedata_42.bin 
+-r-xr-xr-x   1    0    0      26104 Sep  3 2007 [ 157968 00] mission_stagedata_51.bin 
+-r-xr-xr-x   1    0    0      23224 Sep  8 2007 [ 157984 00] mission_stagedata_52.bin 
+-r-xr-xr-x   1    0    0      23224 Sep  8 2007 [ 158000 00] mission_stagedata_53.bin 
+-r-xr-xr-x   1    0    0      23224 Aug 31 2007 [ 158016 00] mission_stagedata_55.bin 
+-r-xr-xr-x   1    0    0      73480 Sep  5 2008 [ 158032 00] mission_stagedata_60.bin 
+-r-xr-xr-x   1    0    0     107652 Aug 25 2008 [ 158080 00] mission_stagedata_61.bin 
+-r-xr-xr-x   1    0    0      93252 Aug 13 2008 [ 158144 00] mission_stagedata_62.bin 
+-r-xr-xr-x   1    0    0      93252 Aug 25 2008 [ 158192 00] mission_stagedata_63.bin 
+-r-xr-xr-x   1    0    0     105252 Aug 15 2008 [ 158240 00] mission_stagedata_64.bin 
+-r-xr-xr-x   1    0    0      93672 Aug 23 2008 [ 158304 00] mission_stagedata_65.bin 
+-r-xr-xr-x   1    0    0      95436 Aug 25 2008 [ 158352 00] mission_stagedata_66.bin 
+
+Directory listing of /PSP_GAME/USRDIR/data_usa/text/
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     41 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     27 02] .. 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     55 02] label 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     56 02] textdat 
+
+Directory listing of /PSP_GAME/USRDIR/data_usa/zukan/
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     42 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     27 02] .. 
+-r-xr-xr-x   1    0    0     355880 Mar  9 2010 [ 158512 00] zukan.fbe 
+
+Directory listing of /PSP_GAME/USRDIR/data_usa/Badman1/data_usa/
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     43 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     28 02] .. 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     57 02] font 
+dr-xr-xr-x   1    0    0       6144 Mar  9 2010 [     58 02] graph 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     61 02] module 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     62 02] movie 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     63 02] pack 
+dr-xr-xr-x   1    0    0       4096 Mar  9 2010 [     64 02] snd 
+dr-xr-xr-x   1    0    0       4096 Mar  9 2010 [     66 02] stage 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     68 02] text 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     69 02] zukan 
+
+Directory listing of /PSP_GAME/USRDIR/data_usa/graph/Area0_Ground/
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     44 02] . 
+dr-xr-xr-x   1    0    0       4096 Mar  9 2010 [     32 02] .. 
+-r-xr-xr-x   1    0    0       2780 Jun  6 2007 [  95216 00] flag_l01.gim 
+-r-xr-xr-x   1    0    0       2748 Jun  6 2007 [  95232 00] flag_r01.gim 
+-r-xr-xr-x   1    0    0      58920 Jul 23 2008 [  95248 00] tijyou_castel_bottom.gim 
+-r-xr-xr-x   1    0    0       6820 Jun  5 2007 [  95280 00] tijyou_castle.gim 
+-r-xr-xr-x   1    0    0       3044 Apr 18 2007 [  95296 00] tijyou_church.gim 
+-r-xr-xr-x   1    0    0       5316 May 13 2007 [  95312 00] tijyou_entrance.gim 
+-r-xr-xr-x   1    0    0       2592 Apr 18 2007 [  95328 00] tijyou_house.gim 
+-r-xr-xr-x   1    0    0       4000 Apr 18 2007 [  95344 00] tijyou_inn.gim 
+-r-xr-xr-x   1    0    0       5540 Apr 18 2007 [  95360 00] tijyou_mountain.gim 
+-r-xr-xr-x   1    0    0       1892 Jul 19 2007 [  95376 00] tijyou_sakaime.gim 
+-r-xr-xr-x   1    0    0       1668 May  7 2007 [  95392 00] tijyou_tobira.gim 
+-r-xr-xr-x   1    0    0       1860 Apr 18 2007 [  95408 00] tijyou_tree_1.gim 
+-r-xr-xr-x   1    0    0       1956 Apr 18 2007 [  95424 00] tijyou_tree_2.gim 
+-r-xr-xr-x   1    0    0       2020 Apr 18 2007 [  95440 00] tijyou_tree_3.gim 
+
+Directory listing of /PSP_GAME/USRDIR/data_usa/graph/Area1_Ground/
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     45 02] . 
+dr-xr-xr-x   1    0    0       4096 Mar  9 2010 [     32 02] .. 
+-r-xr-xr-x   1    0    0      17052 May 22 2008 [  95456 00] fill.gim 
+-r-xr-xr-x   1    0    0        924 May 24 2008 [  95472 00] flag_l.gim 
+-r-xr-xr-x   1    0    0        924 May 24 2008 [  95488 00] flag_r.gim 
+-r-xr-xr-x   1    0    0      15168 May 22 2008 [  95504 00] maouflag.gim 
+-r-xr-xr-x   1    0    0       1752 May 22 2008 [  95520 00] pole.gim 
+-r-xr-xr-x   1    0    0       3432 May 22 2008 [  95536 00] tijyou_castel_bottom.gim 
+-r-xr-xr-x   1    0    0       2920 May 22 2008 [  95552 00] tijyou_castel_top.gim 
+-r-xr-xr-x   1    0    0       1892 May 22 2008 [  95568 00] tijyou_church.gim 
+-r-xr-xr-x   1    0    0       6276 May 23 2008 [  95584 00] tijyou_entrance.gim 
+-r-xr-xr-x   1    0    0       1120 May 22 2008 [  95600 00] tijyou_house.gim 
+-r-xr-xr-x   1    0    0       2656 May 22 2008 [  95616 00] tijyou_inn.gim 
+-r-xr-xr-x   1    0    0      16996 May 22 2008 [  95632 00] tijyou_mountain.gim 
+-r-xr-xr-x   1    0    0       1124 May 22 2008 [  95648 00] tijyou_sakaime.gim 
+-r-xr-xr-x   1    0    0        740 May 22 2008 [  95664 00] tijyou_tobira.gim 
+-r-xr-xr-x   1    0    0       1892 May 22 2008 [  95680 00] tijyou_tree_1.gim 
+-r-xr-xr-x   1    0    0        868 May 22 2008 [  95696 00] tijyou_tree_2.gim 
+-r-xr-xr-x   1    0    0        868 May 22 2008 [  95712 00] tijyou_tree_3.gim 
+-r-xr-xr-x   1    0    0        868 May 22 2008 [  95728 00] tijyou_tree_4.gim 
+
+Directory listing of /PSP_GAME/USRDIR/data_usa/graph/Area2_Ground/
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     46 02] . 
+dr-xr-xr-x   1    0    0       4096 Mar  9 2010 [     32 02] .. 
+-r-xr-xr-x   1    0    0        924 May 24 2008 [  95744 00] flag_l.gim 
+-r-xr-xr-x   1    0    0        924 May 24 2008 [  95760 00] flag_r.gim 
+-r-xr-xr-x   1    0    0       2920 May 22 2008 [  95776 00] tijyou_castle_bottom.gim 
+-r-xr-xr-x   1    0    0       3816 May 22 2008 [  95792 00] tijyou_castle_top.gim 
+-r-xr-xr-x   1    0    0       2276 May 22 2008 [  95808 00] tijyou_church.gim 
+-r-xr-xr-x   1    0    0       4196 May 22 2008 [  95824 00] tijyou_entrance.gim 
+-r-xr-xr-x   1    0    0       1632 May 22 2008 [  95840 00] tijyou_house.gim 
+-r-xr-xr-x   1    0    0       2272 May 22 2008 [  95856 00] tijyou_inn.gim 
+-r-xr-xr-x   1    0    0      50468 May 22 2008 [  95872 00] tijyou_mountain.gim 
+-r-xr-xr-x   1    0    0       1124 May 22 2008 [  95904 00] tijyou_sakaime.gim 
+-r-xr-xr-x   1    0    0        740 May 22 2008 [  95920 00] tijyou_tobira.gim 
+-r-xr-xr-x   1    0    0        612 May 22 2008 [  95936 00] tijyou_tree_1.gim 
+-r-xr-xr-x   1    0    0        996 May 22 2008 [  95952 00] tijyou_tree_2.gim 
+-r-xr-xr-x   1    0    0        868 May 22 2008 [  95968 00] tijyou_tree_3.gim 
+-r-xr-xr-x   1    0    0        612 May 22 2008 [  95984 00] tijyou_tree_4.gim 
+
+Directory listing of /PSP_GAME/USRDIR/data_usa/graph/Area3_Ground/
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     47 02] . 
+dr-xr-xr-x   1    0    0       4096 Mar  9 2010 [     32 02] .. 
+-r-xr-xr-x   1    0    0        924 Jun  4 2008 [  96000 00] flag_l.gim 
+-r-xr-xr-x   1    0    0        924 Jun  4 2008 [  96016 00] flag_r.gim 
+-r-xr-xr-x   1    0    0       2920 Jul  2 2008 [  96032 00] tijyou_castle_bottom.gim 
+-r-xr-xr-x   1    0    0       7016 Jul  2 2008 [  96048 00] tijyou_castle_top.gim 
+-r-xr-xr-x   1    0    0       4964 Jul  2 2008 [  96064 00] tijyou_church.gim 
+-r-xr-xr-x   1    0    0       5476 Jul  3 2008 [  96080 00] tijyou_entrance.gim 
+-r-xr-xr-x   1    0    0       2144 Jul  2 2008 [  96096 00] tijyou_house.gim 
+-r-xr-xr-x   1    0    0       3424 Jul  2 2008 [  96112 00] tijyou_inn.gim 
+-r-xr-xr-x   1    0    0      32420 Jul  2 2008 [  96128 00] tijyou_mountain.gim 
+-r-xr-xr-x   1    0    0       1124 Jul  2 2008 [  96144 00] tijyou_sakaime.gim 
+-r-xr-xr-x   1    0    0        740 Jul  2 2008 [  96160 00] tijyou_tobira.gim 
+-r-xr-xr-x   1    0    0       1380 Jul  2 2008 [  96176 00] tijyou_tree_1.gim 
+-r-xr-xr-x   1    0    0        996 Jul  2 2008 [  96192 00] tijyou_tree_2.gim 
+-r-xr-xr-x   1    0    0       1892 Jul  4 2008 [  96208 00] tijyou_tree_3.gim 
+-r-xr-xr-x   1    0    0        996 Jul  2 2008 [  96224 00] tijyou_tree_4.gim 
+
+Directory listing of /PSP_GAME/USRDIR/data_usa/graph/Area4_Ground/
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     48 02] . 
+dr-xr-xr-x   1    0    0       4096 Mar  9 2010 [     32 02] .. 
+-r-xr-xr-x   1    0    0        924 Jun  4 2008 [  96240 00] flag_l.gim 
+-r-xr-xr-x   1    0    0        924 Jun  4 2008 [  96256 00] flag_r.gim 
+-r-xr-xr-x   1    0    0       3560 Jul  2 2008 [  96272 00] tijyou_castle_bottom.gim 
+-r-xr-xr-x   1    0    0       7016 Jul  2 2008 [  96288 00] tijyou_castle_top.gim 
+-r-xr-xr-x   1    0    0       2148 Jul  2 2008 [  96304 00] tijyou_church.gim 
+-r-xr-xr-x   1    0    0       4196 Jul  2 2008 [  96320 00] tijyou_entrance.gim 
+-r-xr-xr-x   1    0    0       8480 Jul  2 2008 [  96336 00] tijyou_house.gim 
+-r-xr-xr-x   1    0    0       3424 Jul  2 2008 [  96352 00] tijyou_inn.gim 
+-r-xr-xr-x   1    0    0      75044 Jul  2 2008 [  96368 00] tijyou_mountain.gim 
+-r-xr-xr-x   1    0    0       1124 Jul  2 2008 [  96416 00] tijyou_sakaime.gim 
+-r-xr-xr-x   1    0    0        740 Jul  2 2008 [  96432 00] tijyou_tobira.gim 
+-r-xr-xr-x   1    0    0       1892 Jul  2 2008 [  96448 00] tijyou_tree_1.gim 
+-r-xr-xr-x   1    0    0        996 Jul  2 2008 [  96464 00] tijyou_tree_2.gim 
+-r-xr-xr-x   1    0    0       1124 Jul  2 2008 [  96480 00] tijyou_tree_3.gim 
+
+Directory listing of /PSP_GAME/USRDIR/data_usa/graph/Area5_Ground/
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     49 02] . 
+dr-xr-xr-x   1    0    0       4096 Mar  9 2010 [     32 02] .. 
+-r-xr-xr-x   1    0    0        924 Jun  4 2008 [  96496 00] flag_l.gim 
+-r-xr-xr-x   1    0    0        924 Jun  4 2008 [  96512 00] flag_r.gim 
+-r-xr-xr-x   1    0    0       2408 Jul  2 2008 [  96528 00] tijyou_castle_bottom.gim 
+-r-xr-xr-x   1    0    0       7528 Jul  2 2008 [  96544 00] tijyou_castle_top.gim 
+-r-xr-xr-x   1    0    0       1376 Jul  2 2008 [  96560 00] tijyou_church.gim 
+-r-xr-xr-x   1    0    0       5476 Jul  2 2008 [  96576 00] tijyou_entrance.gim 
+-r-xr-xr-x   1    0    0       1892 Jul  2 2008 [  96592 00] tijyou_house.gim 
+-r-xr-xr-x   1    0    0       3040 Jul  2 2008 [  96608 00] tijyou_inn.gim 
+-r-xr-xr-x   1    0    0      13860 Jul  3 2008 [  96624 00] tijyou_mountain.gim 
+-r-xr-xr-x   1    0    0       1124 Jul  2 2008 [  96640 00] tijyou_sakaime.gim 
+-r-xr-xr-x   1    0    0        740 Jul  2 2008 [  96656 00] tijyou_tobira.gim 
+-r-xr-xr-x   1    0    0      16548 Jul  2 2008 [  96672 00] tijyou_tree_1.gim 
+-r-xr-xr-x   1    0    0        740 Jul  2 2008 [  96688 00] tijyou_tree_2.gim 
+-r-xr-xr-x   1    0    0        868 Jul  2 2008 [  96704 00] tijyou_tree_3.gim 
+
+Directory listing of /PSP_GAME/USRDIR/data_usa/graph/Area6_Ground/
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     50 02] . 
+dr-xr-xr-x   1    0    0       4096 Mar  9 2010 [     32 02] .. 
+-r-xr-xr-x   1    0    0        924 Jun  4 2008 [  96720 00] flag_l.gim 
+-r-xr-xr-x   1    0    0        924 Jun  4 2008 [  96736 00] flag_r.gim 
+-r-xr-xr-x   1    0    0      11176 Jul 15 2008 [  96752 00] maou_castel_after.gim 
+-r-xr-xr-x   1    0    0       2920 Jul 15 2008 [  96768 00] tijyou_castle_bottom.gim 
+-r-xr-xr-x   1    0    0       9960 Jul 15 2008 [  96784 00] tijyou_castle_top.gim 
+-r-xr-xr-x   1    0    0       1892 Jul 15 2008 [  96800 00] tijyou_church.gim 
+-r-xr-xr-x   1    0    0       5476 Jul 16 2008 [  96816 00] tijyou_entrance.gim 
+-r-xr-xr-x   1    0    0       2144 Jul 15 2008 [  96832 00] tijyou_house.gim 
+-r-xr-xr-x   1    0    0       3424 Jul 15 2008 [  96848 00] tijyou_inn.gim 
+-r-xr-xr-x   1    0    0      11172 Jul 15 2008 [  96864 00] tijyou_mountain.gim 
+-r-xr-xr-x   1    0    0       1124 Jul 15 2008 [  96880 00] tijyou_sakaime.gim 
+-r-xr-xr-x   1    0    0        740 Jul 15 2008 [  96896 00] tijyou_tobira.gim 
+-r-xr-xr-x   1    0    0       6500 Jul 15 2008 [  96912 00] tijyou_tree_1.gim 
+-r-xr-xr-x   1    0    0       2916 Jul 15 2008 [  96928 00] tijyou_tree_2.gim 
+-r-xr-xr-x   1    0    0       1892 Jul 15 2008 [  96944 00] tijyou_tree_3.gim 
+-r-xr-xr-x   1    0    0       1124 Jul 15 2008 [  96960 00] tijyou_tree_4.gim 
+
+Directory listing of /PSP_GAME/USRDIR/data_usa/graph/Area7_Ground/
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     51 02] . 
+dr-xr-xr-x   1    0    0       4096 Mar  9 2010 [     32 02] .. 
+-r-xr-xr-x   1    0    0        924 Jun  4 2008 [  96976 00] flag_l.gim 
+-r-xr-xr-x   1    0    0        924 Jun  4 2008 [  96992 00] flag_r.gim 
+-r-xr-xr-x   1    0    0      19240 Jul 16 2008 [  97008 00] maou_castel_after.gim 
+-r-xr-xr-x   1    0    0       2920 Jul 16 2008 [  97024 00] tijyou_castle_bottom.gim 
+-r-xr-xr-x   1    0    0      18024 Jul 16 2008 [  97040 00] tijyou_castle_top.gim 
+-r-xr-xr-x   1    0    0       1380 Jul 16 2008 [  97056 00] tijyou_church.gim 
+-r-xr-xr-x   1    0    0       4964 Jul 16 2008 [  97072 00] tijyou_entrance.gim 
+-r-xr-xr-x   1    0    0       6624 Jul 16 2008 [  97088 00] tijyou_house.gim 
+-r-xr-xr-x   1    0    0       3424 Jul 16 2008 [  97104 00] tijyou_inn.gim 
+-r-xr-xr-x   1    0    0      30308 Sep  4 2008 [  97120 00] tijyou_mountain.gim 
+-r-xr-xr-x   1    0    0       1124 Jul 16 2008 [  97136 00] tijyou_sakaime.gim 
+-r-xr-xr-x   1    0    0        740 Jul 16 2008 [  97152 00] tijyou_tobira.gim 
+-r-xr-xr-x   1    0    0      17956 Aug 29 2008 [  97168 00] tijyou_tree_1.gim 
+-r-xr-xr-x   1    0    0       4964 Jul 16 2008 [  97184 00] tijyou_tree_2.gim 
+-r-xr-xr-x   1    0    0       6500 Jul 16 2008 [  97200 00] tijyou_tree_3.gim 
+
+Directory listing of /PSP_GAME/USRDIR/data_usa/graph/Area8_Ground/
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     52 02] . 
+dr-xr-xr-x   1    0    0       4096 Mar  9 2010 [     32 02] .. 
+-r-xr-xr-x   1    0    0        924 Jun  4 2008 [  97216 00] flag_l.gim 
+-r-xr-xr-x   1    0    0        924 Jun  4 2008 [  97232 00] flag_r.gim 
+-r-xr-xr-x   1    0    0      23912 Jul  2 2008 [  97248 00] tijyou_castel_after.gim 
+-r-xr-xr-x   1    0    0      11880 Jul  8 2008 [  97264 00] tijyou_castel_after2.gim 
+-r-xr-xr-x   1    0    0      23912 Jul  2 2008 [  97280 00] tijyou_castle_bottom.gim 
+-r-xr-xr-x   1    0    0      11884 Jul  8 2008 [  97296 00] tijyou_castle_bottom2.gim 
+-r-xr-xr-x   1    0    0       2916 Jul  2 2008 [  97312 00] tijyou_church.gim 
+-r-xr-xr-x   1    0    0       5988 Jul  3 2008 [  97328 00] tijyou_entrance.gim 
+-r-xr-xr-x   1    0    0       3424 Jul  2 2008 [  97344 00] tijyou_inn.gim 
+-r-xr-xr-x   1    0    0       2916 Jul  2 2008 [  97360 00] tijyou_mountain.gim 
+-r-xr-xr-x   1    0    0       1124 Jul  2 2008 [  97376 00] tijyou_sakaime.gim 
+-r-xr-xr-x   1    0    0       2084 Jul  2 2008 [  97392 00] tijyou_tobira.gim 
+-r-xr-xr-x   1    0    0       1892 Jul  2 2008 [  97408 00] tijyou_tree_1.gim 
+-r-xr-xr-x   1    0    0       1508 Jul  2 2008 [  97424 00] tijyou_tree_2.gim 
+-r-xr-xr-x   1    0    0       1508 Jul  2 2008 [  97440 00] tijyou_tree_3.gim 
+
+Directory listing of /PSP_GAME/USRDIR/data_usa/graph/Area9_Ground/
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     53 02] . 
+dr-xr-xr-x   1    0    0       4096 Mar  9 2010 [     32 02] .. 
+-r-xr-xr-x   1    0    0       2780 Jun  6 2007 [  97456 00] flag_l01.gim 
+-r-xr-xr-x   1    0    0       2748 Jun  6 2007 [  97472 00] flag_r01.gim 
+-r-xr-xr-x   1    0    0       6820 Jun  5 2007 [  97488 00] tijyou_castle.gim 
+-r-xr-xr-x   1    0    0       3044 Apr 18 2007 [  97504 00] tijyou_church.gim 
+-r-xr-xr-x   1    0    0       5316 May 13 2007 [  97520 00] tijyou_entrance.gim 
+-r-xr-xr-x   1    0    0       2592 Apr 18 2007 [  97536 00] tijyou_house.gim 
+-r-xr-xr-x   1    0    0       4000 Apr 18 2007 [  97552 00] tijyou_inn.gim 
+-r-xr-xr-x   1    0    0       5540 Apr 18 2007 [  97568 00] tijyou_mountain.gim 
+-r-xr-xr-x   1    0    0       1892 Jul 19 2007 [  97584 00] tijyou_sakaime.gim 
+-r-xr-xr-x   1    0    0       1668 May  7 2007 [  97600 00] tijyou_tobira.gim 
+-r-xr-xr-x   1    0    0       1860 Apr 18 2007 [  97616 00] tijyou_tree_1.gim 
+-r-xr-xr-x   1    0    0       1956 Apr 18 2007 [  97632 00] tijyou_tree_2.gim 
+-r-xr-xr-x   1    0    0       2020 Apr 18 2007 [  97648 00] tijyou_tree_3.gim 
+
+Directory listing of /PSP_GAME/USRDIR/data_usa/graph/tutor/
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     54 02] . 
+dr-xr-xr-x   1    0    0       4096 Mar  9 2010 [     32 02] .. 
+-r-xr-xr-x   1    0    0     131868 Feb 10 2010 [  99664 00] tutor01.gim 
+-r-xr-xr-x   1    0    0     131868 Feb 10 2010 [  99744 00] tutor02.gim 
+-r-xr-xr-x   1    0    0     131868 Feb 10 2010 [  99824 00] tutor03.gim 
+-r-xr-xr-x   1    0    0     131868 Feb 10 2010 [  99904 00] tutor04.gim 
+-r-xr-xr-x   1    0    0     131868 Feb 10 2010 [  99984 00] tutor05.gim 
+-r-xr-xr-x   1    0    0     131868 Feb 10 2010 [ 100064 00] tutor06.gim 
+-r-xr-xr-x   1    0    0     131868 Feb 10 2010 [ 100144 00] tutor07.gim 
+-r-xr-xr-x   1    0    0     131868 Feb 10 2010 [ 100224 00] tutor08.gim 
+-r-xr-xr-x   1    0    0     131868 Feb 10 2010 [ 100304 00] tutor09.gim 
+-r-xr-xr-x   1    0    0     131868 Feb 10 2010 [ 100384 00] tutor10.gim 
+-r-xr-xr-x   1    0    0     131868 Feb 10 2010 [ 100464 00] tutor11.gim 
+-r-xr-xr-x   1    0    0     131868 Feb 10 2010 [ 100544 00] tutor12.gim 
+-r-xr-xr-x   1    0    0     131868 Feb 10 2010 [ 100624 00] tutor13.gim 
+-r-xr-xr-x   1    0    0     131868 Feb 10 2010 [ 100704 00] tutor14.gim 
+-r-xr-xr-x   1    0    0     131868 Feb 10 2010 [ 100784 00] tutor15.gim 
+-r-xr-xr-x   1    0    0     131868 Feb 10 2010 [ 100864 00] tutor16.gim 
+-r-xr-xr-x   1    0    0     131868 Feb 10 2010 [ 100944 00] tutor17.gim 
+-r-xr-xr-x   1    0    0     131868 Feb 10 2010 [ 101024 00] tutor18.gim 
+-r-xr-xr-x   1    0    0     131868 Feb 10 2010 [ 101104 00] tutor19.gim 
+-r-xr-xr-x   1    0    0     131868 Feb 10 2010 [ 101184 00] tutor20.gim 
+-r-xr-xr-x   1    0    0     131868 Feb 10 2010 [ 101264 00] tutor21.gim 
+
+Directory listing of /PSP_GAME/USRDIR/data_usa/text/label/
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     55 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     41 02] .. 
+-r-xr-xr-x   1    0    0      18804 Mar  9 2010 [ 158400 00] label.dat 
+
+Directory listing of /PSP_GAME/USRDIR/data_usa/text/textdat/
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     56 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     41 02] .. 
+-r-xr-xr-x   1    0    0     178100 Mar  9 2010 [ 158416 00] filelist.fbe 
+
+Directory listing of /PSP_GAME/USRDIR/data_usa/Badman1/data_usa/font/
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     57 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     43 02] .. 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     70 02] ccc 
+-r-xr-xr-x   1    0    0       4629 Apr 15 2009 [  57232 00] font.fnt 
+-r-xr-xr-x   1    0    0      29024 Apr 15 2009 [  57248 00] font.gim 
+-r-xr-xr-x   1    0    0        137 Jul 20 2007 [  57264 00] font_small.fnt 
+-r-xr-xr-x   1    0    0      93472 Mar  4 2009 [  57280 00] maou_face.gim 
+-r-xr-xr-x   1    0    0        452 May  5 2007 [  57328 00] sankaku_sita0000.gim 
+-r-xr-xr-x   1    0    0        512 May  5 2007 [  57344 00] sankaku_yoko.gim 
+-r-xr-xr-x   1    0    0       4220 Jul 18 2007 [  57360 00] status_numberfont_mix.gim 
+
+Directory listing of /PSP_GAME/USRDIR/data_usa/Badman1/data_usa/graph/
+dr-xr-xr-x   1    0    0       6144 Mar  9 2010 [     58 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     43 02] .. 
+-r-xr-xr-x   1    0    0       3420 Mar  4 2009 [  57488 00] DigArmy.gim 
+-r-xr-xr-x   1    0    0      14704 Feb  9 2010 [  57616 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     167339 Aug 30 2007 [  59216 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0      11884 May 16 2007 [  59312 00] PointLinght_Moya_Back.gim 
+-r-xr-xr-x   1    0    0       4204 May 16 2007 [  59328 00] PointLinght_Moya_Front.gim 
+-r-xr-xr-x   1    0    0      19472 Jul 20 2007 [  60064 00] __bock_blight.gim 
+-r-xr-xr-x   1    0    0        416 Jun  7 2007 [  57376 00] black.gim 
+-r-xr-xr-x   1    0    0       2336 May 11 2007 [  57392 00] block_shadow.gim 
+-r-xr-xr-x   1    0    0      19464 Jul 20 2007 [  57408 00] block_youbun.gim 
+-r-xr-xr-x   1    0    0        780 Jun 19 2007 [  57424 00] checkmark.gim 
+-r-xr-xr-x   1    0    0       4068 May 31 2007 [  57440 00] cursor_maou.gim 
+-r-xr-xr-x   1    0    0        848 Jun 19 2007 [  57456 00] cursor_yubi.gim 
+-r-xr-xr-x   1    0    0       1112 Mar  4 2009 [  57472 00] dig.gim 
+-r-xr-xr-x   1    0    0       2780 Jun  6 2007 [  57504 00] flag_l01.gim 
+-r-xr-xr-x   1    0    0       2748 Jun  6 2007 [  57520 00] flag_r01.gim 
+-r-xr-xr-x   1    0    0       3772 Jun  5 2007 [  57536 00] gameover.gim 
+-r-xr-xr-x   1    0    0       7704 Jul 20 2007 [  57552 00] grag.gim 
+-r-xr-xr-x   1    0    0       7704 Jul 20 2007 [  57568 00] grag2.gim 
+-r-xr-xr-x   1    0    0       7704 Jul 20 2007 [  57584 00] grag3.gim 
+-r-xr-xr-x   1    0    0       7704 Jul 20 2007 [  57600 00] grag4.gim 
+-r-xr-xr-x   1    0    0      33112 Jul 18 2007 [  57632 00] logo.gim 
+-r-xr-xr-x   1    0    0        648 Aug 31 2007 [  57664 00] map_boarder_entrance.gim 
+-r-xr-xr-x   1    0    0      33956 May 10 2007 [  57680 00] map_effect_black.gim 
+-r-xr-xr-x   1    0    0      33964 May 10 2007 [  57712 00] map_effect_black_flip.gim 
+-r-xr-xr-x   1    0    0     123236 Apr 12 2007 [  57744 00] map_effect_light.gim 
+-r-xr-xr-x   1    0    0       6436 Jul 27 2007 [  57808 00] mission_clear.gim 
+-r-xr-xr-x   1    0    0       6436 Jul 27 2007 [  57824 00] mission_failed.gim 
+-r-xr-xr-x   1    0    0       6436 Jul 27 2007 [  57840 00] mission_start.gim 
+-r-xr-xr-x   1    0    0       4900 Jul 27 2007 [  57856 00] mission_timeover.gim 
+-r-xr-xr-x   1    0    0       1600 Jun  5 2007 [  57872 00] monsterborn.gim 
+-r-xr-xr-x   1    0    0    2718120 Aug 29 2007 [  57888 00] pack.fbe 
+-r-xr-xr-x   1    0    0       1604 Jun  5 2007 [  59344 00] remainingtime.gim 
+-r-xr-xr-x   1    0    0       1412 Jul 24 2007 [  59360 00] sankaku_sita0000.gim 
+-r-xr-xr-x   1    0    0        576 Jun 27 2007 [  59376 00] sankaku_yoko_l.gim 
+-r-xr-xr-x   1    0    0        528 Jun 27 2007 [  59392 00] sankaku_yoko_r.gim 
+-r-xr-xr-x   1    0    0       1596 Jul 19 2007 [  59408 00] sidewall_1.gim 
+-r-xr-xr-x   1    0    0       4128 Jun  8 2007 [  59424 00] stageclear.gim 
+-r-xr-xr-x   1    0    0        544 May  8 2007 [  59440 00] status_moji.gim 
+-r-xr-xr-x   1    0    0       1444 Jun 28 2007 [  59456 00] status_yaruki01.gim 
+-r-xr-xr-x   1    0    0       1444 Jun 28 2007 [  59472 00] status_yaruki02.gim 
+-r-xr-xr-x   1    0    0       1444 Jun 28 2007 [  59488 00] status_yaruki03.gim 
+-r-xr-xr-x   1    0    0       1444 Jun 28 2007 [  59504 00] status_yaruki04.gim 
+-r-xr-xr-x   1    0    0       1444 Jun 28 2007 [  59520 00] status_yaruki05.gim 
+-r-xr-xr-x   1    0    0       6820 Jun  5 2007 [  59536 00] tijyou_castle.gim 
+-r-xr-xr-x   1    0    0       3044 Apr 18 2007 [  59552 00] tijyou_church.gim 
+-r-xr-xr-x   1    0    0       5316 May 13 2007 [  59568 00] tijyou_entrance.gim 
+-r-xr-xr-x   1    0    0       2592 Apr 18 2007 [  59584 00] tijyou_house.gim 
+-r-xr-xr-x   1    0    0       4000 Apr 18 2007 [  59600 00] tijyou_inn.gim 
+-r-xr-xr-x   1    0    0       5540 Apr 18 2007 [  59616 00] tijyou_mountain.gim 
+-r-xr-xr-x   1    0    0       1892 Jul 19 2007 [  59632 00] tijyou_sakaime.gim 
+-r-xr-xr-x   1    0    0       1668 May  7 2007 [  59648 00] tijyou_tobira.gim 
+-r-xr-xr-x   1    0    0       1860 Apr 18 2007 [  59664 00] tijyou_tree_1.gim 
+-r-xr-xr-x   1    0    0       1956 Apr 18 2007 [  59680 00] tijyou_tree_2.gim 
+-r-xr-xr-x   1    0    0       2020 Apr 18 2007 [  59696 00] tijyou_tree_3.gim 
+-r-xr-xr-x   1    0    0     131868 Feb 10 2010 [  59712 00] title.gim 
+-r-xr-xr-x   1    0    0     131872 Feb 23 2010 [  59792 00] title_ura.gim 
+-r-xr-xr-x   1    0    0       1820 Jul 19 2007 [  59872 00] turuhasi.gim 
+-r-xr-xr-x   1    0    0       2400 Jun 20 2007 [  59888 00] vsmode_back.gim 
+-r-xr-xr-x   1    0    0       3396 Jun 22 2007 [  59904 00] vsmode_battle.gim 
+-r-xr-xr-x   1    0    0       2560 Jun 22 2007 [  59920 00] vsmode_edit.gim 
+-r-xr-xr-x   1    0    0       3812 Jun 22 2007 [  59936 00] vsmode_tittle.gim 
+-r-xr-xr-x   1    0    0       3428 Jun 22 2007 [  59952 00] vsmode_youlose.gim 
+-r-xr-xr-x   1    0    0       3076 Jun 22 2007 [  59968 00] vsmode_youwin.gim 
+-r-xr-xr-x   1    0    0       3608 Aug 31 2007 [  59984 00] wall.gim 
+-r-xr-xr-x   1    0    0       1500 May 18 2007 [  60000 00] window.gim 
+-r-xr-xr-x   1    0    0       1500 May 18 2007 [  60016 00] window20.gim 
+-r-xr-xr-x   1    0    0       1504 Jun 20 2007 [  60032 00] window_vs.gim 
+-r-xr-xr-x   1    0    0        548 Jul 11 2007 [  60048 00] window_vs_black.gim 
+
+Directory listing of /PSP_GAME/USRDIR/data_usa/Badman1/data_usa/module/
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     61 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     43 02] .. 
+-r-xr-xr-x   1    0    0      20688 Oct  9 2009 [  60080 00] libfont.prx 
+
+Directory listing of /PSP_GAME/USRDIR/data_usa/Badman1/data_usa/movie/
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     62 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     43 02] .. 
+-r-xr-xr-x   1    0    0   50194432 Feb  9 2010 [  60096 00] demo01.pmf 
+-r-xr-xr-x   1    0    0     239616 Mar 23 2009 [  84608 00] logo.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/data_usa/Badman1/data_usa/pack/
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     63 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     43 02] .. 
+-r-xr-xr-x   1    0    0     229772 Feb 26 2010 [  84736 00] lpack.fbe 
+-r-xr-xr-x   1    0    0     151972 Feb 26 2010 [  84864 00] lpack1.fbe 
+
+Directory listing of /PSP_GAME/USRDIR/data_usa/Badman1/data_usa/snd/
+dr-xr-xr-x   1    0    0       4096 Mar  9 2010 [     64 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     43 02] .. 
+-r-xr-xr-x   1    0    0    2685792 Sep 17 2007 [  90784 00] GameSEPack.fbe 
+-r-xr-xr-x   1    0    0     155080 Sep 17 2007 [  92096 00] HeroA_SEPack.fbe 
+-r-xr-xr-x   1    0    0     209224 Sep 17 2007 [  92176 00] HeroB_SEPack.fbe 
+-r-xr-xr-x   1    0    0     110584 Sep 17 2007 [  92288 00] HeroC_SEPack.fbe 
+-r-xr-xr-x   1    0    0     129640 Sep 17 2007 [  92352 00] HeroD_SEPack.fbe 
+-r-xr-xr-x   1    0    0      93312 Sep 17 2007 [  92416 00] HeroE_SEPack.fbe 
+-r-xr-xr-x   1    0    0      97480 Sep 17 2007 [  92464 00] HeroF_SEPack.fbe 
+-r-xr-xr-x   1    0    0      87200 Sep 17 2007 [  92512 00] HeroG_SEPack.fbe 
+-r-xr-xr-x   1    0    0     111176 Sep 17 2007 [  92560 00] HeroH_SEPack.fbe 
+-r-xr-xr-x   1    0    0     108264 Sep 17 2007 [  92624 00] HeroI_SEPack.fbe 
+-r-xr-xr-x   1    0    0     257560 Sep 17 2007 [  92688 00] HeroJ_SEPack.fbe 
+-r-xr-xr-x   1    0    0     123176 Sep 17 2007 [  92816 00] HeroK_SEPack.fbe 
+-r-xr-xr-x   1    0    0     123416 Sep 17 2007 [  92880 00] HeroL_SEPack.fbe 
+-r-xr-xr-x   1    0    0      96136 Sep 17 2007 [  92944 00] HeroM_SEPack.fbe 
+-r-xr-xr-x   1    0    0     168184 Sep 17 2007 [  92992 00] HeroN_SEPack.fbe 
+-r-xr-xr-x   1    0    0     146344 Sep 17 2007 [  93088 00] HeroO_SEPack.fbe 
+-r-xr-xr-x   1    0    0     124848 Sep 17 2007 [  93168 00] HeroP_SEPack.fbe 
+-r-xr-xr-x   1    0    0     198064 Sep 17 2007 [  93232 00] SystemSEPack.fbe 
+-r-xr-xr-x   1    0    0     358704 Jul 15 2007 [  84944 00] bgm_01.ac3 
+-r-xr-xr-x   1    0    0     279096 Jul 15 2007 [  85120 00] bgm_02.ac3 
+-r-xr-xr-x   1    0    0     676460 Jul 15 2007 [  85264 00] bgm_03.ac3 
+-r-xr-xr-x   1    0    0      61848 Jul 15 2007 [  85600 00] bgm_04.ac3 
+-r-xr-xr-x   1    0    0    1202468 Jul 15 2007 [  85632 00] bgm_05.ac3 
+-r-xr-xr-x   1    0    0     317040 Jul 15 2007 [  86224 00] bgm_06.ac3 
+-r-xr-xr-x   1    0    0     244128 Jul 15 2007 [  86384 00] bgm_07.ac3 
+-r-xr-xr-x   1    0    0    2137608 Jul 15 2007 [  86512 00] bgm_08.ac3 
+-r-xr-xr-x   1    0    0     492692 Jul 15 2007 [  87568 00] bgm_09.ac3 
+-r-xr-xr-x   1    0    0    1032092 Jul 15 2007 [  87824 00] bgm_10.ac3 
+-r-xr-xr-x   1    0    0     994148 Jul 15 2007 [  88336 00] bgm_11.ac3 
+-r-xr-xr-x   1    0    0     715148 Jul 15 2007 [  88832 00] bgm_12.ac3 
+-r-xr-xr-x   1    0    0    1924892 Jul 15 2007 [  89184 00] bgm_13.ac3 
+-r-xr-xr-x   1    0    0    1026884 Jul 15 2007 [  90128 00] bgm_14.ac3 
+-r-xr-xr-x   1    0    0     266516 Jul 15 2007 [  90640 00] bgm_15.ac3 
+
+Directory listing of /PSP_GAME/USRDIR/data_usa/Badman1/data_usa/stage/
+dr-xr-xr-x   1    0    0       4096 Mar  9 2010 [     66 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     43 02] .. 
+-r-xr-xr-x   1    0    0      39040 Jul 23 2007 [  93344 00] mission_stagedata_01.bin 
+-r-xr-xr-x   1    0    0      37624 Aug 31 2007 [  93376 00] mission_stagedata_02.bin 
+-r-xr-xr-x   1    0    0      37664 Jul 26 2007 [  93408 00] mission_stagedata_03.bin 
+-r-xr-xr-x   1    0    0      86560 Jul 17 2007 [  93440 00] mission_stagedata_04.bin 
+-r-xr-xr-x   1    0    0      52024 Aug  4 2007 [  93488 00] mission_stagedata_05.bin 
+-r-xr-xr-x   1    0    0      37624 Aug 31 2007 [  93520 00] mission_stagedata_06.bin 
+-r-xr-xr-x   1    0    0      37624 Sep  4 2007 [  93552 00] mission_stagedata_07.bin 
+-r-xr-xr-x   1    0    0      34624 Aug  6 2007 [  93584 00] mission_stagedata_08.bin 
+-r-xr-xr-x   1    0    0      34744 Aug  6 2007 [  93616 00] mission_stagedata_09.bin 
+-r-xr-xr-x   1    0    0      26104 Aug  6 2007 [  93648 00] mission_stagedata_10.bin 
+-r-xr-xr-x   1    0    0      20344 Aug  6 2007 [  93664 00] mission_stagedata_11.bin 
+-r-xr-xr-x   1    0    0      28984 Aug 22 2007 [  93680 00] mission_stagedata_12.bin 
+-r-xr-xr-x   1    0    0      37624 Sep  6 2007 [  93696 00] mission_stagedata_13.bin 
+-r-xr-xr-x   1    0    0      34744 Aug 22 2007 [  93728 00] mission_stagedata_14.bin 
+-r-xr-xr-x   1    0    0      37624 Aug 23 2007 [  93760 00] mission_stagedata_15.bin 
+-r-xr-xr-x   1    0    0      20344 Aug  3 2007 [  93792 00] mission_stagedata_16.bin 
+-r-xr-xr-x   1    0    0      52024 Sep 12 2007 [  93808 00] mission_stagedata_17.bin 
+-r-xr-xr-x   1    0    0      86584 Aug 31 2007 [  93840 00] mission_stagedata_18.bin 
+-r-xr-xr-x   1    0    0      26104 Aug  3 2007 [  93888 00] mission_stagedata_19.bin 
+-r-xr-xr-x   1    0    0      26104 Aug  4 2007 [  93904 00] mission_stagedata_20.bin 
+-r-xr-xr-x   1    0    0      17464 Aug 24 2007 [  93920 00] mission_stagedata_21.bin 
+-r-xr-xr-x   1    0    0      86560 Jul 17 2007 [  93936 00] mission_stagedata_22.bin 
+-r-xr-xr-x   1    0    0      43264 Aug  4 2007 [  93984 00] mission_stagedata_23.bin 
+-r-xr-xr-x   1    0    0      86560 Jul 17 2007 [  94016 00] mission_stagedata_24.bin 
+-r-xr-xr-x   1    0    0      28984 Aug 31 2007 [  94064 00] mission_stagedata_25.bin 
+-r-xr-xr-x   1    0    0      23224 Aug 24 2007 [  94080 00] mission_stagedata_26.bin 
+-r-xr-xr-x   1    0    0      28984 Aug  4 2007 [  94096 00] mission_stagedata_27.bin 
+-r-xr-xr-x   1    0    0      26104 Sep  8 2007 [  94112 00] mission_stagedata_30.bin 
+-r-xr-xr-x   1    0    0      43384 Sep  8 2007 [  94128 00] mission_stagedata_32.bin 
+-r-xr-xr-x   1    0    0      34744 Aug 28 2007 [  94160 00] mission_stagedata_33.bin 
+-r-xr-xr-x   1    0    0      52024 Aug 22 2007 [  94192 00] mission_stagedata_35.bin 
+-r-xr-xr-x   1    0    0      23224 Sep 12 2007 [  94224 00] mission_stagedata_41.bin 
+-r-xr-xr-x   1    0    0      52024 Aug  8 2007 [  94240 00] mission_stagedata_42.bin 
+-r-xr-xr-x   1    0    0      26104 Sep  3 2007 [  94272 00] mission_stagedata_51.bin 
+-r-xr-xr-x   1    0    0      23224 Sep  8 2007 [  94288 00] mission_stagedata_52.bin 
+-r-xr-xr-x   1    0    0      23224 Sep  8 2007 [  94304 00] mission_stagedata_53.bin 
+-r-xr-xr-x   1    0    0      23224 Aug 31 2007 [  94320 00] mission_stagedata_55.bin 
+
+Directory listing of /PSP_GAME/USRDIR/data_usa/Badman1/data_usa/text/
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     68 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     43 02] .. 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     71 02] label 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     72 02] textdat 
+
+Directory listing of /PSP_GAME/USRDIR/data_usa/Badman1/data_usa/zukan/
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     69 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     43 02] .. 
+-r-xr-xr-x   1    0    0     174128 Jun 26 2009 [  94432 00] zukan.fbe 
+
+Directory listing of /PSP_GAME/USRDIR/data_usa/Badman1/data_usa/font/ccc/
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     70 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     57 02] .. 
+-r-xr-xr-x   1    0    0     131072 Feb 16 2005 [  57104 00] jis2ucs.bin 
+-r-xr-xr-x   1    0    0     131072 Feb 16 2005 [  57168 00] ucs2jis.bin 
+
+Directory listing of /PSP_GAME/USRDIR/data_usa/Badman1/data_usa/text/label/
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     71 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     68 02] .. 
+-r-xr-xr-x   1    0    0      15319 Feb 26 2010 [  94336 00] label.dat 
+-r-xr-xr-x   1    0    0        688 Feb 26 2010 [  94352 00] label_utf16.dat 
+
+Directory listing of /PSP_GAME/USRDIR/data_usa/Badman1/data_usa/text/textdat/
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     72 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  9 2010 [     68 02] .. 
+-r-xr-xr-x   1    0    0     107112 Jun 26 2009 [  94368 00] filelist.fbe 
+=============================================================== 
+Generated on Mon 08/08/2022 at 15:46:49.76 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
