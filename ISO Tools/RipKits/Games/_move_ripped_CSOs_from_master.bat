@@ -1,0 +1,121 @@
+@ECHO OFF
+
+REM Common
+SET PSP=U:\Games\PSP
+SET CSO=%PSP%\_CSO
+SET RKR=%CSO%\RipKit_Ready
+SET JMPSP=%PSP%\JMDigital
+SET RIP=%JMPSP%\_RIPs
+
+ECHO SET PSP as %PSP%
+ECHO SET CSO as %CSO%
+ECHO SET RKR as %RKR%
+ECHO SET JMPSP as %JMPSP%
+ECHO SET RIP as %RIP%
+
+REM For folders clear this var
+SET EXT=.cso
+ECHO SET EXT as %EXT%
+
+REM MOVE "%CSO%\7 Wonders of the Ancient World (EUR) (En,Fr,De,Es,It) [ULES-01037]%EXT%" "%RKR%\7 Wonders of the Ancient World (EUR) (En,Fr,De,Es,It) [ULES-01037]%EXT%" 
+MOVE "%CSO%\50 Cent - Bulletproof - G-Unit Edition (USA) (v1.02) [ULUS-10128]%EXT%" "%RKR%\50 Cent - Bulletproof - G-Unit Edition (USA) (v1.02) [ULUS-10128]%EXT%" 
+MOVE "%CSO%\Assassin's Creed - Bloodlines (USA) (En,Fr,De,Es,It) [ULUS-10455]%EXT%" "%RKR%\Assassin's Creed - Bloodlines (USA) (En,Fr,De,Es,It) [ULUS-10455]%EXT%" 
+MOVE "%CSO%\B-Boy (EUR) (En,Fr,De,Es,It) [UCES-00249]%EXT%" "%RKR%\B-Boy (EUR) (En,Fr,De,Es,It) [UCES-00249]%EXT%" 
+MOVE "%CSO%\Ben 10 - Alien Force (EUR) (En,Fr,De,Es,It) (v1.01) [ULES-01189]%EXT%" "%RKR%\Ben 10 - Alien Force (EUR) (En,Fr,De,Es,It) (v1.01) [ULES-01189]%EXT%" 
+MOVE "%CSO%\Ben 10 - Protector of Earth (EUR) [ULES-00906]%EXT%" "%RKR%\Ben 10 - Protector of Earth (EUR) [ULES-00906]%EXT%" 
+MOVE "%CSO%\Bomberman (EUR) (En,Fr,De,Es,It) (v1.02) [ULES-00469]%EXT%" "%RKR%\Bomberman (EUR) (En,Fr,De,Es,It) (v1.02) [ULES-00469]%EXT%" 
+MOVE "%CSO%\Burnout Dominator (USA) [ULUS-10236]%EXT%" "%RKR%\Burnout Dominator (USA) [ULUS-10236]%EXT%" 
+MOVE "%CSO%\Burnout Legends (USA) (En,Fr,De,Es,It,Nl) [ULUS-10025]%EXT%" "%RKR%\Burnout Legends (USA) (En,Fr,De,Es,It,Nl) [ULUS-10025]%EXT%" 
+MOVE "%CSO%\Capcom Classics Collection Reloaded (EUR) (v1.01) [ULES-00377]%EXT%" "%RKR%\Capcom Classics Collection Reloaded (EUR) (v1.01) [ULES-00377]%EXT%" 
+MOVE "%CSO%\Capcom Classics Collection Remixed (USA) [ULUS-10097]%EXT%" "%RKR%\Capcom Classics Collection Remixed (USA) [ULUS-10097]%EXT%" 
+MOVE "%CSO%\Chessmaster - The Art of Learning (EUR) (En,Fr,De,Es,It,Nl) [ULES-01013]%EXT%" "%RKR%\Chessmaster - The Art of Learning (EUR) (En,Fr,De,Es,It,Nl) [ULES-01013]%EXT%" 
+MOVE "%CSO%\Coded Arms - Contagion (USA) (v1.04) [ULUS-10184]%EXT%" "%RKR%\Coded Arms - Contagion (USA) (v1.04) [ULUS-10184]%EXT%" 
+MOVE "%CSO%\Coded Arms (ASIA) (En,Ja) (v1.01) [ULAS-42009] [b]%EXT%" "%RKR%\Coded Arms (ASIA) (En,Ja) (v1.01) [ULAS-42009] [b]%EXT%" 
+MOVE "%CSO%\Colin McRae - DiRT 2 (USA) (v1.02) [ULUS-10471]%EXT%" "%RKR%\Colin McRae - DiRT 2 (USA) (v1.02) [ULUS-10471]%EXT%" 
+MOVE "%CSO%\Colin McRae Rally 2005 Plus REPACK (EUR) (En,Fr,De,Es,It) (v1.02) [ULES-00111]%EXT%" "%RKR%\Colin McRae Rally 2005 Plus REPACK (EUR) (En,Fr,De,Es,It) (v1.02) [ULES-00111]%EXT%" 
+MOVE "%CSO%\Dave Mirra BMX Challenge (USA) [ULUS-10204]%EXT%" "%RKR%\Dave Mirra BMX Challenge (USA) [ULUS-10204]%EXT%" 
+MOVE "%CSO%\Dead to Rights - Reckoning (EUR) (En,Fr,De,Es,It) (v1.01) [ULES-00195]%EXT%" "%RKR%\Dead to Rights - Reckoning (EUR) (En,Fr,De,Es,It) (v1.01) [ULES-00195]%EXT%" 
+MOVE "%CSO%\Def Jam - Fight for NY - The Takeover (EUR) [ULES-00390]%EXT%" "%RKR%\Def Jam - Fight for NY - The Takeover (EUR) [ULES-00390]%EXT%" 
+MOVE "%CSO%\Disgaea Infinite (USA) [ULUS-10522]%EXT%" "%RKR%\Disgaea Infinite (USA) [ULUS-10522]%EXT%" 
+MOVE "%CSO%\DJ MAX Portable 3 (USA) [ULUS-10538]%EXT%" "%RKR%\DJ MAX Portable 3 (USA) [ULUS-10538]%EXT%" 
+MOVE "%CSO%\Driver 76 (EUR) (v1.01) [ULES-00740]%EXT%" "%RKR%\Driver 76 (EUR) (v1.01) [ULES-00740]%EXT%" 
+MOVE "%CSO%\Dynasty Warriors - Strikeforce (EUR) (En,Fr,De) [ULES-01221]%EXT%" "%RKR%\Dynasty Warriors - Strikeforce (EUR) (En,Fr,De) [ULES-01221]%EXT%" 
+MOVE "%CSO%\Dynasty Warriors (USA) [ULUS-10004]%EXT%" "%RKR%\Dynasty Warriors (USA) [ULUS-10004]%EXT%" 
+MOVE "%CSO%\Dynasty Warriors Vol. 2 (USA) [ULUS-10170]%EXT%" "%RKR%\Dynasty Warriors Vol. 2 (USA) [ULUS-10170]%EXT%" 
+MOVE "%CSO%\EA Replay (EUR) (En,De,Es,It,Nl) (v1.02) [ULES-00592]%EXT%" "%RKR%\EA Replay (EUR) (En,De,Es,It,Nl) (v1.02) [ULES-00592]%EXT%" 
+MOVE "%CSO%\Family Guy (USA) [ULUS-10185]%EXT%" "%RKR%\Family Guy (USA) [ULUS-10185]%EXT%" 
+MOVE "%CSO%\Final Fantasy II - 20th Anniversary Edition (EUR) (En,Ja) [ULES-00987]%EXT%" "%RKR%\Final Fantasy II - 20th Anniversary Edition (EUR) (En,Ja) [ULES-00987]%EXT%" 
+MOVE "%CSO%\Free Running (EUR) (En,Fr,De,Es,It) (v1.01) [ULES-00704]%EXT%" "%RKR%\Free Running (EUR) (En,Fr,De,Es,It) (v1.01) [ULES-00704]%EXT%" 
+MOVE "%CSO%\Ghost in The Shell - Stand Alone Complex (EUR) [ULES-00135]%EXT%" "%RKR%\Ghost in The Shell - Stand Alone Complex (EUR) [ULES-00135]%EXT%" 
+MOVE "%CSO%\God of War - Chains of Olympus (Australia) (En,Fr,De,Es,It) [UCES-00842]%EXT%" "%RKR%\God of War - Chains of Olympus (Australia) (En,Fr,De,Es,It) [UCES-00842]%EXT%" 
+MOVE "%CSO%\God of War - Ghost of Sparta (EUR) (En,Pl,Ru) (v1.01) [UCES-01473]%EXT%" "%RKR%\God of War - Ghost of Sparta (EUR) (En,Pl,Ru) (v1.01) [UCES-01473]%EXT%" 
+MOVE "%CSO%\Gran Turismo (EUR) (v1.01) [UCES-01245]%EXT%" "%RKR%\Gran Turismo (EUR) (v1.01) [UCES-01245]%EXT%" 
+MOVE "%CSO%\Grand Theft Auto Chinatown Wars (USA) (v1.01) [ULUS-10490]%EXT%" "%RKR%\Grand Theft Auto Chinatown Wars (USA) (v1.01) [ULUS-10490]%EXT%" 
+MOVE "%CSO%\Grand Theft Auto Liberty City Stories (EUR) (En,Fr,De,Es,It) (v3.00) [ULES-00151]%EXT%" "%RKR%\Grand Theft Auto Liberty City Stories (EUR) (En,Fr,De,Es,It) (v3.00) [ULES-00151]%EXT%" 
+MOVE "%CSO%\Grand Theft Auto Vice City Stories (EUR) (En,Fr,De,Es,It) (v1.02) [ULES-00502]%EXT%" "%RKR%\Grand Theft Auto Vice City Stories (EUR) (En,Fr,De,Es,It) (v1.02) [ULES-00502]%EXT%" 
+MOVE "%CSO%\History Channel - Great Battles of Rome (EUR) (En,Fr,De,Es,It) (v1.03) [ULES-00798]%EXT%" "%RKR%\History Channel - Great Battles of Rome (EUR) (En,Fr,De,Es,It) (v1.03) [ULES-00798]%EXT%" 
+MOVE "%CSO%\Juiced 2 - Hot Import Nights (USA) (v1.02) [ULUS-10312]%EXT%" "%RKR%\Juiced 2 - Hot Import Nights (USA) (v1.02) [ULUS-10312]%EXT%" 
+MOVE "%CSO%\Juiced Eliminator (USA) [ULUS-10090]%EXT%" "%RKR%\Juiced Eliminator (USA) [ULUS-10090]%EXT%" 
+MOVE "%CSO%\Kotoba no Puzzle Mojipittan Daijiten (JPN) [ULJS-00002]%EXT%" "%RKR%\Kotoba no Puzzle Mojipittan Daijiten (JPN) [ULJS-00002]%EXT%" 
+MOVE "%CSO%\LEGO Batman (EUR) (En,Fr,De,Es,It,Da) [ULES-01151]%EXT%" "%RKR%\LEGO Batman (EUR) (En,Fr,De,Es,It,Da) [ULES-01151]%EXT%" 
+MOVE "%CSO%\LEGO Star Wars II The Original Trilogy (EUR) (En,Fr,De,Es,It,Da) (v1.02) [ULES-00479]%EXT%" "%RKR%\LEGO Star Wars II The Original Trilogy (EUR) (En,Fr,De,Es,It,Da) (v1.02) [ULES-00479]%EXT%"
+MOVE "%CSO%\Loco Roco (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Ru) [UCUS-98662]%EXT%" "%RKR%\Loco Roco (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Ru) [UCUS-98662]%EXT%" 
+MOVE "%CSO%\Loco Roco 2 (EUR) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ru) [UCES-01059]%EXT%" "%RKR%\Loco Roco 2 (EUR) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ru) [UCES-01059]%EXT%" 
+MOVE "%CSO%\Lord of the Rings Aragorns Quest (EUR) (v1.02) [ULES-01395]%EXT%" "%RKR%\Lord of the Rings Aragorns Quest (EUR) (v1.02) [ULES-01395]%EXT%" 
+MOVE "%CSO%\Lumines - Puzzle Fusion (EUR) (En,Fr,De,Es,It) (v1.01) [ULES-00043]%EXT%" "%RKR%\Lumines - Puzzle Fusion (EUR) (En,Fr,De,Es,It) (v1.01) [ULES-00043]%EXT%" 
+MOVE "%CSO%\Luxor - Pharaoh's Challenge (EUR) (En,Fr,De,Es,It) [ULES-01028]%EXT%" "%RKR%\Luxor - Pharaoh's Challenge (EUR) (En,Fr,De,Es,It) [ULES-01028]%EXT%" 
+MOVE "%CSO%\Manhunt 2 (EUR) (En,Fr,De,Es,It) (v1.02) [ULES-00756]%EXT%" "%RKR%\Manhunt 2 (EUR) (En,Fr,De,Es,It) (v1.02) [ULES-00756]%EXT%" 
+MOVE "%CSO%\Marvel - Ultimate Alliance (EUR) (En,It) (v1.01) [ULES-00542]%EXT%" "%RKR%\Marvel - Ultimate Alliance (EUR) (En,It) (v1.01) [ULES-00542]%EXT%" 
+MOVE "%CSO%\Marvel - Ultimate Alliance 2 (EUR) (v1.02) [ULES-01343]%EXT%" "%RKR%\Marvel - Ultimate Alliance 2 (EUR) (v1.02) [ULES-01343]%EXT%" 
+MOVE "%CSO%\Metal Gear Solid Digital Graphic Novel (EUR) (v1.01) [ULES-00382]%EXT%" "%RKR%\Metal Gear Solid Digital Graphic Novel (EUR) (v1.01) [ULES-00382]%EXT%" 
+MOVE "%CSO%\Metal Gear Solid Peace Walker (Australia) (v1.01) [ULES-01372]%EXT%" "%RKR%\Metal Gear Solid Peace Walker (Australia) (v1.01) [ULES-01372]%EXT%" 
+MOVE "%CSO%\Miami Vice - The Game (USA) (v1.01) [ULUS-10109]%EXT%" "%RKR%\Miami Vice - The Game (USA) (v1.01) [ULUS-10109]%EXT%" 
+MOVE "%CSO%\MicroMachines V4 (EUR) (v1.01) [ULES-00368]%EXT%" "%RKR%\MicroMachines V4 (EUR) (v1.01) [ULES-00368]%EXT%" 
+MOVE "%CSO%\Midnight Club - L.A. Remix (EUR) (En,Fr,De,Es,It) (v1.04) [ULES-01144]%EXT%" "%RKR%\Midnight Club - L.A. Remix (EUR) (En,Fr,De,Es,It) (v1.04) [ULES-01144]%EXT%" 
+MOVE "%CSO%\Midnight Club 3 - DUB Edition (USA) [ULUS-10021]%EXT%" "%RKR%\Midnight Club 3 - DUB Edition (USA) [ULUS-10021]%EXT%" 
+MOVE "%CSO%\Midway Arcade Treasures Extended Play (EUR) (v1.02) [ULES-00180]%EXT%" "%RKR%\Midway Arcade Treasures Extended Play (EUR) (v1.02) [ULES-00180]%EXT%" 
+MOVE "%CSO%\Mortal Kombat Unchained (USA) (v1.03) [ULUS-10102]%EXT%" "%RKR%\Mortal Kombat Unchained (USA) (v1.03) [ULUS-10102]%EXT%" 
+MOVE "%CSO%\Naruto Shippuden - Ultimate Ninja Heroes 3 (USA) [ULUS-10518]%EXT%" "%RKR%\Naruto Shippuden - Ultimate Ninja Heroes 3 (USA) [ULUS-10518]%EXT%" 
+MOVE "%CSO%\Need for Speed - Most Wanted 5-1-0 (EUR) (En,Fr,De,Es,It) [ULES-00196]%EXT%" "%RKR%\Need for Speed - Most Wanted 5-1-0 (EUR) (En,Fr,De,Es,It) [ULES-00196]%EXT%" 
+MOVE "%CSO%\Need for Speed - Undercover (USA) [ULUS-10376]%EXT%" "%RKR%\Need for Speed - Undercover (USA) [ULUS-10376]%EXT%" 
+MOVE "%CSO%\Need for Speed - Underground Rivals (Australia) (En,Fr,De,Es,It) [ULES-00025]%EXT%" "%RKR%\Need for Speed - Underground Rivals (Australia) (En,Fr,De,Es,It) [ULES-00025]%EXT%" 
+MOVE "%CSO%\ObsCure - The Aftermath (EUR) (En,Fr,De,Es,It) (v1.01) [ULES-01340]%EXT%" "%RKR%\ObsCure - The Aftermath (EUR) (En,Fr,De,Es,It) (v1.01) [ULES-01340]%EXT%" 
+MOVE "%CSO%\Pachipara Slot Plus Daiku no Gensan (JPN) (v1.01) [ULJS-00516]%EXT%" "%RKR%\Pachipara Slot Plus Daiku no Gensan (JPN) (v1.01) [ULJS-00516]%EXT%" 
+MOVE "%CSO%\Pac-Man World 3 (EUR) (En,Fr,De,Es,It) [ULES-00260]%EXT%" "%RKR%\Pac-Man World 3 (EUR) (En,Fr,De,Es,It) [ULES-00260]%EXT%" 
+MOVE "%CSO%\Pac-Man World Rally (USA) (v1.02) [ULUS-10149]%EXT%" "%RKR%\Pac-Man World Rally (USA) (v1.02) [ULUS-10149]%EXT%" 
+MOVE "%CSO%\Prince of Persia - Rival Swords (EUR) (En,Fr,De,Es,It) (v1.06) [ULES-00579]%EXT%" "%RKR%\Prince of Persia - Rival Swords (EUR) (En,Fr,De,Es,It) (v1.06) [ULES-00579]%EXT%" 
+MOVE "%CSO%\Puzzle Quest - Challenge of the Warlords (USA) [ULUS-10225]%EXT%" "%RKR%\Puzzle Quest - Challenge of the Warlords (USA) [ULUS-10225]%EXT%" 
+MOVE "%CSO%\Ridge Racer (Australia) (En,Fr,De,Es,It) [UCES-00002]%EXT%" "%RKR%\Ridge Racer (Australia) (En,Fr,De,Es,It) [UCES-00002]%EXT%" 
+MOVE "%CSO%\Rock Band Unplugged (EUR) (En,Fr,De,Es,It) [ULES-01243]%EXT%" "%RKR%\Rock Band Unplugged (EUR) (En,Fr,De,Es,It) [ULES-01243]%EXT%" 
+MOVE "%CSO%\Rocky Balboa (EUR) (En,Fr,De,Es,It) (v1.01) [ULES-00670]%EXT%" "%RKR%\Rocky Balboa (EUR) (En,Fr,De,Es,It) (v1.01) [ULES-00670]%EXT%" 
+MOVE "%CSO%\R-Type Tactics (EUR) (En,Fr,De,Es,It) (v1.01) [ULES-01121]%EXT%" "%RKR%\R-Type Tactics (EUR) (En,Fr,De,Es,It) (v1.01) [ULES-01121]%EXT%" 
+MOVE "%CSO%\Samurai Warriors - State of War (EUR) [ULES-00297]%EXT%" "%RKR%\Samurai Warriors - State of War (EUR) [ULES-00297]%EXT%" 
+MOVE "%CSO%\Sega Mega Drive Collection (EUR) (En,Fr,De,Es,It) (v1.01) [ULES-00556]%EXT%" "%RKR%\Sega Mega Drive Collection (EUR) (En,Fr,De,Es,It) (v1.01) [ULES-00556]%EXT%" 
+MOVE "%CSO%\Sega Rally (EUR) (En,Fr,De,Es,It) (v2.00) [ULES-00910]%EXT%" "%RKR%\Sega Rally (EUR) (En,Fr,De,Es,It) (v2.00) [ULES-00910]%EXT%" 
+MOVE "%CSO%\Sengoku Musou 3Z - Special (JPN) (v1.01) [ULJM-06024]%EXT%" "%RKR%\Sengoku Musou 3Z - Special (JPN) (v1.01) [ULJM-06024]%EXT%" 
+MOVE "%CSO%\Smart Bomb (USA) (v1.03) [ULUS-10016]%EXT%" "%RKR%\Smart Bomb (USA) (v1.03) [ULUS-10016]%EXT%" 
+MOVE "%CSO%\Sonic Rivals 2 (EUR) (En,Fr,De,Es,It) (v1.01) [ULES-00940]%EXT%" "%RKR%\Sonic Rivals 2 (EUR) (En,Fr,De,Es,It) (v1.01) [ULES-00940]%EXT%" 
+MOVE "%CSO%\Spider-Man 3 (USA) (v1.02) [ULUS-10317]%EXT%" "%RKR%\Spider-Man 3 (USA) (v1.02) [ULUS-10317]%EXT%" 
+MOVE "%CSO%\Star Wars - The Force Unleashed (EUR) (En,Es,It) [ULES-00981]%EXT%" "%RKR%\Star Wars - The Force Unleashed (EUR) (En,Es,It) [ULES-00981]%EXT%" 
+MOVE "%CSO%\Street Fighter Alpha 3 MAX (EUR) (v1.01) [ULES-00235]%EXT%" "%RKR%\Street Fighter Alpha 3 MAX (EUR) (v1.01) [ULES-00235]%EXT%" 
+MOVE "%CSO%\Syphon Filter - Dark Mirror (EUR) (En,Fr,De,Es,It) [UCES-00310]%EXT%" "%RKR%\Syphon Filter - Dark Mirror (EUR) (En,Fr,De,Es,It) [UCES-00310]%EXT%" 
+MOVE "%CSO%\Syphon Filter - Logan's Shadow (USA) (v1.00) [UCUS-98606]%EXT%" "%RKR%\Syphon Filter - Logan's Shadow (USA) (v1.00) [UCUS-98606]%EXT%" 
+MOVE "%CSO%\Tekken - Dark Resurrection (USA) (En,Fr,De,Es,It) [ULUS-10139]%EXT%" "%RKR%\Tekken - Dark Resurrection (USA) (En,Fr,De,Es,It) [ULUS-10139]%EXT%" 
+MOVE "%CSO%\Tekken 6 (USA) (En,Ja,Fr,De,Es,It,Ko,Ru) [ULUS-10466]%EXT%" "%RKR%\Tekken 6 (USA) (En,Ja,Fr,De,Es,It,Ko,Ru) [ULUS-10466]%EXT%" 
+MOVE "%CSO%\Tenchu 4 - Shadow Assasins (EUR) (En,Fr,De,Es,It) (v1.01) [ULES-01237]%EXT%" "%RKR%\Tenchu 4 - Shadow Assasins (EUR) (En,Fr,De,Es,It) (v1.01) [ULES-01237]%EXT%" 
+MOVE "%CSO%\The Godfather - Mob Wars (USA) [ULUS-10098]%EXT%" "%RKR%\The Godfather - Mob Wars (USA) [ULUS-10098]%EXT%" 
+MOVE "%CSO%\The Simpsons Game (EUR) [ULES-00975]%EXT%" "%RKR%\The Simpsons Game (EUR) [ULES-00975]%EXT%" 
+MOVE "%CSO%\Tony Hawk's Underground 2 Remix (USA) (v1.01) [ULUS-10014]%EXT%" "%RKR%\Tony Hawk's Underground 2 Remix (USA) (v1.01) [ULUS-10014]%EXT%" 
+MOVE "%CSO%\Twisted Metal - Head-On (EUR) (En,Fr,De,Es,It) (v1.00) [UCES-00018]%EXT%" "%RKR%\Twisted Metal - Head-On (EUR) (En,Fr,De,Es,It) (v1.00) [UCES-00018]%EXT%" 
+MOVE "%CSO%\V8 Supercars Australia 2 (Australia) (En,Fr,De,Es,It) (v1.01) [ULES-00042]%EXT%" "%RKR%\V8 Supercars Australia 2 (Australia) (En,Fr,De,Es,It) (v1.01) [ULES-00042]%EXT%" 
+MOVE "%CSO%\V8 Supercars Australia 3 - Shootout (Australia) (En,Fr,De,Es,It) (v1.01) [ULES-00614]%EXT%" "%RKR%\V8 Supercars Australia 3 - Shootout (Australia) (En,Fr,De,Es,It) (v1.01) [ULES-00614]%EXT%"
+MOVE "%CSO%\Valhalla Knights 2 (EUR) [ULES-01265]%EXT%" "%RKR%\Valhalla Knights 2 (EUR) [ULES-01265]%EXT%" 
+MOVE "%CSO%\Virtua Tennis 3 (EUR) (En,Ja,Fr,De,Es,It) [ULES-00763]%EXT%" "%RKR%\Virtua Tennis 3 (EUR) (En,Ja,Fr,De,Es,It) [ULES-00763]%EXT%" 
+MOVE "%CSO%\Warriors Orochi (USA) [ULUS-10341]%EXT%" "%RKR%\Warriors Orochi (USA) [ULUS-10341]%EXT%" 
+MOVE "%CSO%\Warriors Orochi 2 (USA) (En,Fr) (v1.02) [ULUS-10423]%EXT%" "%RKR%\Warriors Orochi 2 (USA) (En,Fr) (v1.02) [ULUS-10423]%EXT%" 
+MOVE "%CSO%\WipEout Pulse (USA) (En,Fr,De,Es,It) [UCUS-98712]%EXT%" "%RKR%\WipEout Pulse (USA) (En,Fr,De,Es,It) [UCUS-98712]%EXT%" 
+MOVE "%CSO%\WipEout Pure (USA) (En,Fr,Es) (v1.04) [UCUS-98612]%EXT%" "%RKR%\WipEout Pure (USA) (En,Fr,Es) (v1.04) [UCUS-98612]%EXT%" 
+
+PAUSE
+
+EXIT
