@@ -1,0 +1,53 @@
+UMD Stream Composer Release Note
+Confidential
+Copyright 2004 Sony corporation
+ 
+Release Date: 2005/06/06
+Version: UMD Stream Composer 1.5 RC4
+ 
+1 Release Content
+-UMD Stream binary (includes Japanese Manual) 
+-Visual C++ .NET 2003 runtime library 
+-Release Note (this document)
+-Error Code Table
+-Supplemental Manual
+
+3 Changes in 1.5 RC4
+-The following bugs have been fixed.
+     1. With multiple front end machines, the rendering PCs are incorrectly deteced.
+     2. When encoding 60i, the encode unit detection fails.
+     3. When previewing encoded results, narrow bands appear in the CbCr components within the preview screen.
+     4. When the subtitle size is in multiples of 8, the rendered subtitles on the PSP display show artifacts.
+     5. brightnesScale bug fix.
+
+4 Limitations
+-Under a non-SDI display envirionment (a standard PC), if a window with the same color as the subtitle background is overlayed on the Viewer sceen, video can be seen through the window.
+-Preview will not read the video_full_range_flag.
+-Operation when inserting various still image sizes in a single stream has not been testing.
+-If the PC has inadequate CPU performance, data read out or decoding may not finish in the given time frame, and depending on the Previewer playback mode, the following symptoms may occur.
+	Preview Every Frame: Off
+Video and Audio will be in sync, however, video frames may be dropped and motion reproduction may not be smooth. If a certain limit is exceeded, video completely pauses, and after skipping frames for several seconds will re-commence playback. If the load is even higher, not only video but audio will skip for a few seconds. Under extreme load situations, video and audio will repeat stop and restarting playback.
+	Preview Every Frame: On
+Video frames will not be skipped, and will be displayed in sequential order. Therefore, it may look like it is playing in slow motion. While video is delaying, audio will continue playback and the sync will fall off. When the video and audio sync error becomes large, audio output will become silent.
+
+If the above symptoms occur when previewing the encoded results, turning the thumbnail images and audio waveform display off, or turning the entire timeline display off may mitigate this performance problem.
+
+-Even if the PC has adequate CPU and disc access performance, if the hardware has a video board and an audio board with clocks that are not in sync, the follwing symptoms may occur due to the difference in clock frequency.
+	Preview Every Frame: Off
+In order to maintain audio and video sync, occasionaly a video frame may be dropped or doubled.
+	Preview Every Frame: On
+For a long sequence, video and audio sync error will gradually accumulate.
+
+-If the audio material is in an AVI file on a remote machine, the Previewer may not output sound, or it may take time when switching clips or streams.
+-Due to the encoder database format change, encoded results from alpha3 can not be read into earlier Composer versions.
+-Simultaneous UMD Stream Viewer startup is not prohibited. The software that is started later will show an error dialog "Direct Draw Surface can not be obtained" and terminate.
+-It may take several minutes for canceling distributted processing.
+ 
+5 Known Bugs
+-The preview response is still slow.
+-Under the SDI display environment with RealVision SD-10, stopping UMD Stream Viewer playback will not lower the CPU load.
+-For 5.1ch and 7.1ch audio material preview, audio may deviate or break.
+-Under the SDI display environment with RealVision SD-10, if Video and Subtitles streams are both set to a 4:3 display aspect ratio and displayed with Pixel Aspect Ratio(NTSC), the screen side regions (black) may not be re-rendered correctly.
+-There are cases where the remote server displays an illegal dialog box.
+
+-End of document-

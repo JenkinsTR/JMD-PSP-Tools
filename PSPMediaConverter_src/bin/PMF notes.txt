@@ -1,0 +1,171 @@
+-----------------------------------
+/!\ IMPORTANT /!\
+-----------------------------------
+Win Vista/7/8/10/11 Note by JMD:
+	Universal Media Disc Stream Composer (the USC exe) has to be renamed to something other than the default. Here it's called PSP Stream Composer. The program is fully portable.
+	DirectShow error on load can be ignored. The error is just for the preview pane.
+	By this point you should already have finalised and separated audio/video streams, and that we only need this program to mux/merge and output to MPS,
+	Not to actually edit video with (because program is now 17+ years old in 2022, use something better like Vegas or Premiere).
+
+=============================================================================================================================
+=============================================================================================================================
+
+TeamPBCN's pmftools: Tools for handling PSP PMF movies (all included in bin, cli)
+
+psmfdump: Dump .264 and .oma files from .pmf files.
+mps2pmf: Convert .mps files to .pmf files.
+autousc: Automating UMD Stream Composer multiplex works.
+Download
+You can find a prebuilt package in the release section.
+
+Usage
+Convert PMF files to MP4 for editing
+
+Step 1: put PMF files into `input/pmf`
+Step 2: run `pmf_to_mp4.bat`
+Step 3: find your converted files in `output/mp4` and enjoy ~^.^~!
+Convert AVI files to PMF
+
+Step 1: put AVI files into `input/avi`
+Step 2: run `avi_to_pmf.bat`
+Step 3: find your converted files in `output/pmf` and enjoy ~^.^~!
+Verified by 吉🐣 PRODUCTION*
+
+=============================================================================================================================
+=============================================================================================================================
+
+from ikskoks's MediEvil PSP modding tutorial:
+
+PMF to AVI Tools:
+- mplayer - http://mplayerwin.sourceforge.net/downloads.html (included in bin, cli)
+- mencoder - part of above
+- vgm toolbox - https://sourceforge.net/projects/vgmtoolbox/ (included in bin, has GUI)
+- virtualdub (included in bin, has GUI, not to be confused with VirtualDubMOD)
+
+AVI to PMF Tools:
+- PSP Stream Composer (included in bin, has GUI)
+- MPStoPMF (included in bin, cli)
+- PmfCreator (included in bin, has GUI)
+
+After you collect all tools, you can start conversion.
+
+PMF to AVI conversion:
+1. Run Windows command-line (cmd.exe).
+2. Execute cd <mplayer_folder>
+3. Execute mplayer -dumpvideo <pmf_file_path>
+4. Execute mencoder.exe stream.dump -ovc raw -noskip -ofps 29.97 -o done.avi
+5. Extract OMA Audio from PMF file using vgm toolbox
+6. Convert OMA to WAV. You can do it here https://audio.online-convert.com/convert-to-wav or here https://www.filezigzag.com/
+7. Use virtualdub to merge audio and video to AVI file.
+8. [optionally] Use AVI ReComp to add subtitles to AVI and decrease file size.
+
+AVI to PMF conversion:
+1. Run Umd Stream Composer
+2. Create new project in Umd Stream Composer. Remember to check option "PSP Movie".
+3. Drag your AVI and WAV files to Umd Stream Composer window.
+4. Compile MPS file in Umd Stream Composer using option "Encode+Multiplex".
+5. Create PMF using MPStoPMF or PmfCreator tools.
+
+After you convert all movies to PMF, you can simply replace them in a movie folder GAMENAME\PSP_GAME\USRDIR\movies or GAMENAME\PSP_GAME\ICON1.PMF (144x80 res) for animated XMB icons.
+
+=============================================================================================================================
+=============================================================================================================================
+
+PSLover14's joined guide from "Converting Guide.txt" in the MPS to PMF Converter Zip:
+
+-----------------------------------------------------------
+
+Here we go, a Tutorial.
+Most of this is from Converting Guide.txt in the MPS to PMF Converter Zip.
+First, Find a AVI of a Video you want to make into a pmf. I used www.youtube.com/watch?v=oAhvQoLpvsM
+which is a PSX Boot.
+Next Download AviSynth at HERE (included in bin, installer, open source)
+Then Download VirtualDubMOD at HERE (included in bin, has GUI)
+Just in case nobody has clicked on them yet, they are both on SourceForge.
+Make sure if your video is a DivX Encoded video, you have DivX Codec, NOT K-Lite Codec Pack as The PSX Boot vid I encoded it into a DivX, and VirtualDubMod can't read it without the OFFICIAL DivX Codec.
+Now google Sony Umd Stream Composer. I can't tell you where to download it. (substituted with 'PSP Stream Composer' from here on)
+Then click HERE to go to a PSPMOD page and click Download on the MPS to PMF converters. (included in bin)
+
+This is the part, straight from Converting Guide.txt
+Install AviSynth 1st.
+Now extract VirtualDubMod to a folder.
+Find the file you want to convert. Once found, open up notepad.
+Type the following lines in the text document.
+
+-----------------------------------------------------------
+THIS IS FOR AN ICON
+copy everything between the blank lines below into a new doc
+-----------------------------------------------------------
+
+DirectShowSource("YOURVIDEOFILEHERE.EXTENSION")
+lanczosresize(144,80)
+changefps(29.97)
+
+-----------------------------------------------------------
+
+Replace YOURVIDEOFILEHERE.EXTENSION with the name of the file you want to convert including its extension.
+
+For example, I want to make a Gameboot,
+
+-----------------------------------------------------------
+
+DirectShowSource("naruto.avi")
+lanczosresize(480,272)
+changefps(29.97)
+
+-----------------------------------------------------------
+
+Now save your text document in the same folder as your movie file.
+
+Make sure you save it as an .AVS file and not a .TXT file.
+
+This is done by changing "Save as type" to "All Files" and adding the extension the the filename you are going to save it as, eg, NARUTO.AVS.
+
+Now locate the folder you extracted virtualdubmod to. open VirtualDubMod.exe
+
+Go to File>Open File. Find your .AVS file. Open that. you should now see your video file in the window.
+
+Now go to Streams>Stream List.
+
+Click Save WAV. After it is saved click disable. Now go to OK.
+
+Now go to File>Save As. name your avi file and click save.
+
+Almost there now. :) Last step!
+
+Find your WAV file you saved. Open it with sound recorder. Go to File>Save As.
+
+Where it says Format at the bottom of the save window, click on Change.
+
+Format should be: PCM
+Atrributes: 44.100 kHz, 16 Bit, Stereo 172kb/sec.
+
+Click ok. Now save your WAV as a new name.
+
+Sony UMD Tools
+1: Open up the PSP Stream composer.exe
+2: Go to new
+3: Name it what you want. Click next
+4: Tick the PSP Movie format (for game) bit.
+5: Change the max clip size to 2mb or less
+6: Hit finish
+7: Go to video source
+8: Find your video file made earlier with Virtual Dub Mod
+9: Go to audio source
+10: Find the WAV you made earlier.
+11: Now go to run at the top
+12: Choose encode + multiplex
+13: Hit start
+14: Well done the .mps has been made
+
+Step 4, .mps to .pmf Converter
+1: Go to My Documents (well yours)
+2: Go to the PSP Stream composer folder
+3: The .mps file is in here somewhere (I forget where exactly!)
+4: Put it in the same directory as the Icon1 or Gameboot converter
+5: Run the converter (Click Gameboot Converter or Icon Converter)
+6: And your gameboot pmf's or icon1 pmf's should be created.
+
+This only works with Windows, as far as I know.
+Thanks
+PSLover14

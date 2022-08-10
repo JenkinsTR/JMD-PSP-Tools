@@ -1,0 +1,20 @@
+--Output=...  Specify a template (BETA)
+Usage: "MediaInfo --Output=[xxx;]Text FileName"
+
+xxx can be: General, Video, Audio, Text, Chapter, Image, Menu
+Text can be the template text, or a filename
+     Filename must be in the form file://filename
+
+See --Info-Parameters for available parameters in the text
+(Parameters must be surrounded by "%" sign)
+
+Usage: "MediaInfo --Output=Video;%AspectRatio% FileName"
+
+Usage: "MediaInfo --Output=Video;file://Video.txt FileName"
+and Video.txt contains 
+"%DisplayAspectRatio%"        for Video Aspect Ratio.
+
+Usage: "MediaInfo --Output=file://Text.txt FileName"
+and Text.txt contains
+"Video;%DisplayAspectRatio%"  for Video Aspect Ratio.
+"Audio;%Format%"              for Audio Format.
