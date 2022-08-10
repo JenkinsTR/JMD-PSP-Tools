@@ -58,7 +58,7 @@ There seems to be 4 common types, in no particular order;
 
 It's pretty random which groups the `SND0.AT3` background music is included in, but there exists cases where titles in each group do and don't contain one.
 
-First we need to find all of the Group D titles, and separate them;
+First we need to find all of the titles, and separate them;
 
 `@ECHO OFF`
 
@@ -66,53 +66,57 @@ First we need to find all of the Group D titles, and separate them;
 
 `REM Searching for UMD_DATA.BIN is the only way to capture the master folder with 100% accuracy`
 `FOR /R %%G IN (*UMD_DATA.BIN) DO (`
-	`SET GAME=%%~dpG`
-	`SET PSP_GAME=!GAME!PSP_GAME`
-	`PUSHD "!PSP_GAME!"`
-	
-	`IF EXIST "!PSP_GAME!\ICON0.PNG" (`
-		`ECHO GROUP A`
-		`ECHO Found game icon, continuing . . .`
-		`ECHO !PSP_GAME!\ICON0.PNG > umd_background.txt`
-		`ECHO ------------------------------------`
-		
-		`IF EXIST "!PSP_GAME!\PIC1.PNG" (`
-			`ECHO GROUP B`
-			`ECHO Found game background, continuing . . .`
-			`ECHO ------------------------------------`
-			`ECHO !PSP_GAME!\PIC1.PNG >> umd_background.txt`
-			
-			`IF EXIST "!PSP_GAME!\ICON1.PMF" (`
-				`ECHO GROUP C`
-				`ECHO Found aniamted icon, continuing . . .`
-				`ECHO ------------------------------------`
-				`ECHO !PSP_GAME!\ICON1.PMF >> umd_background.txt`
-				
-				`IF EXIST "!PSP_GAME!\PIC0.PNG" (`
-					`ECHO GROUP D`
-					`ECHO Found large icon, all elements found`
-					`ECHO ------------------------------------`
-					`ECHO !PSP_GAME!\PIC0.PNG >> umd_background.txt`
-					
-				`) ELSE (`
-					`ECHO Large icon not found . . .`
-					`ECHO ------------------------------------`
-				`)`
-				
-			`) ELSE (`
-				`ECHO Animated icon not found . . .`
-				`ECHO ------------------------------------`
-			`)`			
-			
-		`) ELSE (`
-			`ECHO Game background not found . . .`
-			`ECHO ------------------------------------`
-		`)`
-		
-	`) ELSE (`
-		`ECHO Game icon not found . . .`
-		`ECHO ------------------------------------`
-	`)`
-	
+`	SET GAME=%%~dpG`
+`	SET PSP_GAME=!GAME!PSP_GAME`
+`	PUSHD "!PSP_GAME!"`
+`	`
+`	IF EXIST "!PSP_GAME!\ICON0.PNG" (`
+`		ECHO GROUP A`
+`		ECHO Found game icon, continuing . . .`
+`		ECHO !PSP_GAME!\ICON0.PNG > "!PSP_GAME!\umd_background.txt"`
+`		ECHO ------------------------------------`
+`		`
+`		IF EXIST "!PSP_GAME!\PIC1.PNG" (`
+`			ECHO GROUP B`
+`			ECHO Found game background, continuing . . .`
+`			ECHO ------------------------------------`
+`			ECHO !PSP_GAME!\PIC1.PNG >> "!PSP_GAME!\umd_background.txt"`
+`			`
+`			IF EXIST "!PSP_GAME!\ICON1.PMF" (`
+`				ECHO GROUP C`
+`				ECHO Found aniamted icon, continuing . . .`
+`				ECHO ------------------------------------`
+`				ECHO !PSP_GAME!\ICON1.PMF >> "!PSP_GAME!\umd_background.txt"`
+`				`
+`				IF EXIST "!PSP_GAME!\PIC0.PNG" (`
+`					ECHO GROUP D`
+`					ECHO Found large icon, all elements found`
+`					ECHO ------------------------------------`
+`					ECHO !PSP_GAME!\PIC0.PNG >> "!PSP_GAME!\umd_background.txt"`
+`					`
+`				) ELSE (`
+`					ECHO Large icon not found.`
+`				)`
+`				`
+`			) ELSE (`
+`				ECHO Animated icon not found.`
+`			)`			
+`			`
+`		) ELSE (`
+`			ECHO Game background not found.`
+`		)`
+`		`
+`	) ELSE (`
+`		ECHO Game icon not found.`
+`	)`
+`	`
+`	REM Now that we have a list 'umd_background.txt' inside of each 'PSP_GAME' folder for each game, we can process them accordingly.
+`	FOR /F "usebackq tokens=* delims=" %%G IN ("!PSP_GAME!\umd_background.txt") DO (`
+`		IF "%%~nxG"=="PIC0.PNG" ECHO This is the PIC0 file - %%G`
+`		IF "%%~nxG"=="PIC1.PNG" ECHO This is the PIC1 file - %%G`
+`		IF "%%~nxG"=="ICON0.PNG" ECHO This is the ICON0 file - %%G`
+`		IF "%%~nxG"=="ICON1.PMF" ECHO This is the ICON1 file - %%G`
+`	)`
 `)`
+
 
