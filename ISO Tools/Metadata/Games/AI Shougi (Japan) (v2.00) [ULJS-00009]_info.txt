@@ -1,0 +1,107 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: AI Shougi  
+Title ID: ULJS-00009 
+Region: Japan  
+Languages: v2.00  
+Volume Creation Date: 2005-03-03 00:00:00 
+Volume Size: 23 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: 
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: MARVELOUS_INTERACTIVE
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 12208
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Mar  3 2005 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  3 2005 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov  7 2004 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Nov  7 2004 [   1990 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Nov  7 2004 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  3 2005 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov  7 2004 [     24 02] SYSDIR 
+-r-xr-xr-x   1    0    0        472 Feb 10 2005 [   2000 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      28236 Nov  2 2004 [   2016 00] ICON0.PNG 
+dr-xr-xr-x   1    0    0       2048 Nov  7 2004 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Nov  7 2004 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov  7 2004 [     23 02] .. 
+-r-xr-xr-x   1    0    0    4009040 Mar  3 2005 [     32 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0    4008704 Mar  3 2005 [  10240 00] BOOT.BIN 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Nov  7 2004 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov  7 2004 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 Dec 18 2004 [     26 02] A000 
+dr-xr-xr-x   1    0    0       2048 Dec 18 2004 [     27 02] A980 
+dr-xr-xr-x   1    0    0       2048 Nov 12 2004 [     28 02] module 
+
+Directory listing of /PSP_GAME/USRDIR/A000/
+dr-xr-xr-x   1    0    0       2048 Dec 18 2004 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov  7 2004 [     25 02] .. 
+-r-xr-xr-x   1    0    0     401856 Nov  9 2004 [   2032 00] A000 
+-r-xr-xr-x   1    0    0     381504 Dec 12 2004 [   2240 00] A001 
+-r-xr-xr-x   1    0    0     566736 Nov  6 2004 [   2432 00] A002 
+-r-xr-xr-x   1    0    0     456800 Dec  9 2004 [   2720 00] A003 
+-r-xr-xr-x   1    0    0     703056 Dec 18 2004 [   2944 00] A004 
+-r-xr-xr-x   1    0    0     272528 Oct  5 2004 [   3296 00] A005 
+-r-xr-xr-x   1    0    0    2031280 Dec  9 2004 [   3440 00] A006 
+-r-xr-xr-x   1    0    0     734672 Dec  9 2004 [   4432 00] A007 
+-r-xr-xr-x   1    0    0    2031264 Dec 11 2004 [   4800 00] A008 
+-r-xr-xr-x   1    0    0    1301392 Dec  9 2004 [   5792 00] A009 
+-r-xr-xr-x   1    0    0     691315 Nov 26 2004 [   6432 00] A00A 
+-r-xr-xr-x   1    0    0     125415 Nov 26 2004 [   6784 00] A00B 
+
+Directory listing of /PSP_GAME/USRDIR/A980/
+dr-xr-xr-x   1    0    0       2048 Dec 18 2004 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov  7 2004 [     25 02] .. 
+-r-xr-xr-x   1    0    0    3200784 Nov 26 2004 [   6848 00] A980 
+-r-xr-xr-x   1    0    0    2974544 Nov 26 2004 [   8416 00] A981 
+
+Directory listing of /PSP_GAME/USRDIR/module/
+dr-xr-xr-x   1    0    0       2048 Nov 12 2004 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov  7 2004 [     25 02] .. 
+-r-xr-xr-x   1    0    0      10832 Nov 16 2004 [   9872 00] m00 
+-r-xr-xr-x   1    0    0      60256 Nov 16 2004 [   9888 00] m01 
+-r-xr-xr-x   1    0    0     247248 Nov 16 2004 [   9920 00] m02 
+-r-xr-xr-x   1    0    0      45196 Nov 18 2004 [  10048 00] m04 
+-r-xr-xr-x   1    0    0      15216 Nov 16 2004 [  10080 00] m05 
+-r-xr-xr-x   1    0    0      10816 Nov 16 2004 [  10096 00] m06 
+-r-xr-xr-x   1    0    0      40140 Nov 16 2004 [  10112 00] m07 
+-r-xr-xr-x   1    0    0      36416 Nov 18 2004 [  10144 00] m08 
+-r-xr-xr-x   1    0    0       5920 Nov 16 2004 [  10176 00] m09 
+-r-xr-xr-x   1    0    0      19524 Nov 16 2004 [  10192 00] m0a 
+-r-xr-xr-x   1    0    0       3232 Nov 16 2004 [  10208 00] m0b 
+-r-xr-xr-x   1    0    0      19480 Nov 16 2004 [  10224 00] m0c 
+=============================================================== 
+Generated on Thu 18/08/2022 at 18:18:11.77 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

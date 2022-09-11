@@ -1,0 +1,127 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Harry Potter et la Coupe de Feu  
+Title ID: ULES-00214 
+Region: France  
+Languages:   
+Volume Creation Date: 2005-10-12 15:20:13 
+Volume Size: 395 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: GOF
+Volume set id: GOF
+Publisher id: EA
+Data preparer id: EA
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 202720
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Oct 12 2005 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 12 2005 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct 12 2005 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Oct 12 2005 [     29 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Oct 12 2005 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 12 2005 [     22 02] .. 
+-r-xr-xr-x   1    0    0      21451 Oct  6 2005 [  23920 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     239616 Oct  4 2005 [  23936 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 Oct  7 2005 [  24064 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     229598 Sep 16 2005 [  24080 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Oct 12 2005 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Oct 12 2005 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Oct 12 2005 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 12 2005 [     23 02] .. 
+-r-xr-xr-x   1    0    0    6919797 Oct 12 2005 [  24208 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    6920144 Oct 12 2005 [     32 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Oct 12 2005 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Oct 12 2005 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 12 2005 [     23 02] .. 
+dr-xr-xr-x   1    0    0       4096 Oct 12 2005 [     27 02] MODULES 
+-r-xr-xr-x   1    0    0        128 Jun 21 2005 [  27600 00] fingerpr.int 
+-r-xr-xr-x   1    0    0  349425740 Oct 12 2005 [  27616 00] game.big 
+-r-xr-xr-x   1    0    0         90 May 14 2005 [ 198240 00] lvl_007_CareOfMagica_cp.txt 
+-r-xr-xr-x   1    0    0    6920208 Oct 11 2005 [ 198256 00] upload.dat 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Oct 12 2005 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 12 2005 [     24 02] .. 
+-r-xr-xr-x   1    0    0   13182464 Oct 12 2005 [   7536 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    3536480 Oct 12 2005 [   3440 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       1772 Oct 12 2005 [   3424 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/MODULES/
+dr-xr-xr-x   1    0    0       4096 Oct 12 2005 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 12 2005 [     25 02] .. 
+-r-xr-xr-x   1    0    0       3200 Aug 31 2005 [ 201648 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0      10816 Aug 31 2005 [ 201664 00] ifhandle.prx 
+-r-xr-xr-x   1    0    0       1824 Aug 31 2005 [ 201680 00] libadler_authorized.prx 
+-r-xr-xr-x   1    0    0      19940 Aug 31 2005 [ 201696 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0      20288 Aug 31 2005 [ 201712 00] libatrac3plus_authorized.prx 
+-r-xr-xr-x   1    0    0       2592 Aug 31 2005 [ 201728 00] libbase64_authorized.prx 
+-r-xr-xr-x   1    0    0       6400 Aug 31 2005 [ 201744 00] libccc_authorized.prx 
+-r-xr-xr-x   1    0    0       6688 Aug 31 2005 [ 201760 00] libdeflt_authorized.prx 
+-r-xr-xr-x   1    0    0      41040 Aug 31 2005 [ 201776 00] libfont_authorized.prx 
+-r-xr-xr-x   1    0    0       6992 Aug 31 2005 [ 201808 00] libfpu_authorized.prx 
+-r-xr-xr-x   1    0    0      87376 Aug 31 2005 [ 201824 00] libhttp_authorized.prx 
+-r-xr-xr-x   1    0    0       3584 Aug 31 2005 [ 201872 00] libmd5_authorized.prx 
+-r-xr-xr-x   1    0    0       2160 Aug 31 2005 [ 201888 00] libmt19937_authorized.prx 
+-r-xr-xr-x   1    0    0       5520 Aug 31 2005 [ 201904 00] libparse_http_authorized.prx 
+-r-xr-xr-x   1    0    0      15920 Aug 31 2005 [ 201920 00] libparse_uri_authorized.prx 
+-r-xr-xr-x   1    0    0       3264 Aug 31 2005 [ 201936 00] libqpcode_authorized.prx 
+-r-xr-xr-x   1    0    0       4256 Aug 31 2005 [ 201952 00] libsha1_authorized.prx 
+-r-xr-xr-x   1    0    0      17216 Aug 31 2005 [ 201968 00] memab.prx 
+-r-xr-xr-x   1    0    0        794 Aug 31 2005 [ 201984 00] moduleList.txt 
+-r-xr-xr-x   1    0    0      43068 Aug 31 2005 [ 202000 00] mpeg.prx 
+-r-xr-xr-x   1    0    0      43408 Aug 31 2005 [ 202048 00] mpeg_authorized.prx 
+-r-xr-xr-x   1    0    0       5808 Aug 31 2005 [ 202032 00] mpegbase.prx 
+-r-xr-xr-x   1    0    0       9740 Aug 31 2005 [ 202080 00] psmf.prx 
+-r-xr-xr-x   1    0    0      10080 Aug 31 2005 [ 202096 00] psmf_authorized.prx 
+-r-xr-xr-x   1    0    0      60360 Aug 31 2005 [ 202112 00] pspnet.prx 
+-r-xr-xr-x   1    0    0      42492 Aug 31 2005 [ 202144 00] pspnet_adhoc.prx 
+-r-xr-xr-x   1    0    0      11360 Aug 31 2005 [ 202208 00] pspnet_adhoc_auth.prx 
+-r-xr-xr-x   1    0    0      42832 Aug 31 2005 [ 202224 00] pspnet_adhoc_authorized.prx 
+-r-xr-xr-x   1    0    0      15828 Aug 31 2005 [ 202256 00] pspnet_adhoc_download.prx 
+-r-xr-xr-x   1    0    0      19688 Aug 31 2005 [ 202272 00] pspnet_adhoc_matching.prx 
+-r-xr-xr-x   1    0    0      31996 Aug 31 2005 [ 202176 00] pspnet_adhocctl.prx 
+-r-xr-xr-x   1    0    0      32336 Aug 31 2005 [ 202192 00] pspnet_adhocctl_authorized.prx 
+-r-xr-xr-x   1    0    0       4820 Aug 31 2005 [ 202352 00] pspnet_ap_dialog_dummy.prx 
+-r-xr-xr-x   1    0    0      44412 Aug 31 2005 [ 202288 00] pspnet_apctl.prx 
+-r-xr-xr-x   1    0    0      44752 Aug 31 2005 [ 202320 00] pspnet_apctl_authorized.prx 
+-r-xr-xr-x   1    0    0      60704 Aug 31 2005 [ 202368 00] pspnet_authorized.prx 
+-r-xr-xr-x   1    0    0     239968 Aug 31 2005 [ 202400 00] pspnet_inet.prx 
+-r-xr-xr-x   1    0    0     240304 Aug 31 2005 [ 202528 00] pspnet_inet_authorized.prx 
+-r-xr-xr-x   1    0    0      12400 Aug 31 2005 [ 202656 00] pspnet_resolver.prx 
+-r-xr-xr-x   1    0    0      12736 Aug 31 2005 [ 202672 00] pspnet_resolver_authorized.prx 
+-r-xr-xr-x   1    0    0       5904 Aug 31 2005 [ 202688 00] sc_sascore.prx 
+-r-xr-xr-x   1    0    0       3808 Aug 31 2005 [ 202704 00] videocodec.prx 
+=============================================================== 
+Generated on Mon 22/08/2022 at 16:16:27.90 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

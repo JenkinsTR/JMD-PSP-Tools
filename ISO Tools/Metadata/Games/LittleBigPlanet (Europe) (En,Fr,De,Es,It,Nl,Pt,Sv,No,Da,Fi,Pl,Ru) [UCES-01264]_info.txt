@@ -1,0 +1,194 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: LittleBigPlanet   
+Title ID: UCES-01264 
+Region: Europe  
+Languages: En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru  
+Volume Creation Date: 2009-10-21 09:30:00 
+Volume Size: 1437 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: 
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 735808
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Oct 21 2009 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 21 2009 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jul  9 2009 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Jul  9 2009 [     33 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Jul  9 2009 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 21 2009 [     22 02] .. 
+-r-xr-xr-x   1    0    0      20854 Oct 20 2009 [  55296 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     491520 Oct 20 2009 [  55312 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 Oct 20 2009 [  55552 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0        888 Oct 20 2009 [  55568 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0     329250 Oct 20 2009 [  55584 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Jul  9 2009 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Oct 21 2009 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Jul  9 2009 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul  9 2009 [     23 02] .. 
+-r-xr-xr-x   1    0    0    4060400 Oct 21 2009 [  55760 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    4060736 Oct 21 2009 [     48 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Jul  9 2009 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Oct 21 2009 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul  9 2009 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct 21 2009 [     27 02] archives 
+-r-xr-xr-x   1    0    0  202097319 Oct 21 2009 [ 569648 00] lbp_archive.arc 
+dr-xr-xr-x   1    0    0       2048 Oct 21 2009 [     28 02] modules 
+dr-xr-xr-x   1    0    0       6144 Oct 21 2009 [     29 02] movies 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Jul  9 2009 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul  9 2009 [     24 02] .. 
+-r-xr-xr-x   1    0    0   23221936 Jul  9 2009 [   6144 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5546112 Jul  9 2009 [   2048 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Jul  9 2009 [   2032 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/archives/
+dr-xr-xr-x   1    0    0       2048 Oct 21 2009 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 21 2009 [     25 02] .. 
+-r-xr-xr-x   1    0    0    4336268 Oct 21 2009 [ 668336 00] gui.arc 
+
+Directory listing of /PSP_GAME/USRDIR/modules/
+dr-xr-xr-x   1    0    0       2048 Oct 21 2009 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 21 2009 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct 21 2009 [     32 02] prx 
+
+Directory listing of /PSP_GAME/USRDIR/movies/
+dr-xr-xr-x   1    0    0       6144 Oct 21 2009 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 21 2009 [     25 02] .. 
+-r-xr-xr-x   1    0    0   16107308 Oct 21 2009 [  57760 00] 01_tut_mov.bik 
+-r-xr-xr-x   1    0    0    3807224 Oct 21 2009 [  65632 00] 02_tut_vo.bik 
+-r-xr-xr-x   1    0    0   21134832 Oct 21 2009 [  67504 00] 03_tut_mov.bik 
+-r-xr-xr-x   1    0    0   17315340 Oct 21 2009 [  77824 00] 04_tut_mov.bik 
+-r-xr-xr-x   1    0    0   15232276 Oct 21 2009 [  86288 00] 05_tut_vo.bik 
+-r-xr-xr-x   1    0    0    4609848 Oct 21 2009 [  93728 00] 06_tut_vo.bik 
+-r-xr-xr-x   1    0    0    1915328 Oct 21 2009 [  95984 00] 07_tut_vo.bik 
+-r-xr-xr-x   1    0    0   15257128 Oct 21 2009 [  96928 00] 08_tut_mov.bik 
+-r-xr-xr-x   1    0    0   16988592 Oct 21 2009 [ 104384 00] 09_tut_mov.bik 
+-r-xr-xr-x   1    0    0    3135156 Oct 21 2009 [ 112688 00] 10_tut_vo.bik 
+-r-xr-xr-x   1    0    0    6337392 Oct 21 2009 [ 114224 00] 11_tut_vo.bik 
+-r-xr-xr-x   1    0    0    5003584 Oct 21 2009 [ 117328 00] 12_tut_vo.bik 
+-r-xr-xr-x   1    0    0    3316656 Oct 21 2009 [ 119776 00] 13_tut_vo.bik 
+-r-xr-xr-x   1    0    0    2828776 Oct 21 2009 [ 121408 00] 14_tut_vo.bik 
+-r-xr-xr-x   1    0    0    8887732 Oct 21 2009 [ 122800 00] 15_tut_mov.bik 
+-r-xr-xr-x   1    0    0    8383032 Oct 21 2009 [ 127152 00] 16_tut_vo.bik 
+-r-xr-xr-x   1    0    0    4914108 Oct 21 2009 [ 131248 00] 17_tut_vo.bik 
+-r-xr-xr-x   1    0    0    3758064 Oct 21 2009 [ 133648 00] 18_tut_vo.bik 
+-r-xr-xr-x   1    0    0    1653848 Oct 21 2009 [ 135488 00] 19_tut_vo.bik 
+-r-xr-xr-x   1    0    0    3670940 Oct 21 2009 [ 136304 00] 20_tut_vo.bik 
+-r-xr-xr-x   1    0    0    2908448 Oct 21 2009 [ 138112 00] 21_tut_vo.bik 
+-r-xr-xr-x   1    0    0   15298788 Oct 21 2009 [ 139536 00] 22_tut_mov.bik 
+-r-xr-xr-x   1    0    0     796672 Oct 21 2009 [ 147008 00] 23_tut_vo.bik 
+-r-xr-xr-x   1    0    0   11886016 Oct 21 2009 [ 147408 00] 24_tut_mov.bik 
+-r-xr-xr-x   1    0    0    2354956 Oct 21 2009 [ 153216 00] 25_tut_vo.bik 
+-r-xr-xr-x   1    0    0   15957844 Oct 21 2009 [ 154368 00] 26_tut_mov.bik 
+-r-xr-xr-x   1    0    0    2756232 Oct 21 2009 [ 162160 00] 27_tut_vo.bik 
+-r-xr-xr-x   1    0    0    2802404 Oct 21 2009 [ 163520 00] 28_tut_vo.bik 
+-r-xr-xr-x   1    0    0    1731184 Oct 21 2009 [ 164896 00] 29_tut_vo.bik 
+-r-xr-xr-x   1    0    0    4918028 Oct 21 2009 [ 165744 00] 30_tut_vo.bik 
+-r-xr-xr-x   1    0    0    9498972 Oct 21 2009 [ 168160 00] 31_tut_mov.bik 
+-r-xr-xr-x   1    0    0    2597140 Oct 21 2009 [ 172800 00] 32_tut_vo.bik 
+-r-xr-xr-x   1    0    0   18924540 Oct 21 2009 [ 174080 00] 33_tut_mov.bik 
+-r-xr-xr-x   1    0    0    6138096 Oct 21 2009 [ 183328 00] 34_tut_vo.bik 
+-r-xr-xr-x   1    0    0   15053244 Oct 21 2009 [ 186336 00] 35_tut_mov.bik 
+-r-xr-xr-x   1    0    0   13526864 Oct 21 2009 [ 193696 00] 36_tut_mov.bik 
+-r-xr-xr-x   1    0    0    9574516 Oct 21 2009 [ 200304 00] 37_tut_mov.bik 
+-r-xr-xr-x   1    0    0   13282488 Oct 21 2009 [ 204992 00] 38_tut_mov.bik 
+-r-xr-xr-x   1    0    0   24153048 Oct 21 2009 [ 211488 00] 39_tut_mov.bik 
+-r-xr-xr-x   1    0    0   16394284 Oct 21 2009 [ 223296 00] 40_tut_mov.bik 
+-r-xr-xr-x   1    0    0   17603164 Oct 21 2009 [ 231312 00] 41_tut_mov.bik 
+-r-xr-xr-x   1    0    0   15465516 Oct 21 2009 [ 239920 00] 42_tut_mov.bik 
+-r-xr-xr-x   1    0    0    9526784 Oct 21 2009 [ 247472 00] 43_tut_mov.bik 
+-r-xr-xr-x   1    0    0   17789792 Oct 21 2009 [ 252128 00] 44_tut_mov.bik 
+-r-xr-xr-x   1    0    0   20963252 Oct 21 2009 [ 260816 00] 45_tut_mov.bik 
+-r-xr-xr-x   1    0    0   24244328 Oct 21 2009 [ 271056 00] 46_tut_mov.bik 
+-r-xr-xr-x   1    0    0   18983616 Oct 21 2009 [ 282896 00] 47_tut_mov.bik 
+-r-xr-xr-x   1    0    0   13933624 Oct 21 2009 [ 292176 00] 48_tut_mov.bik 
+-r-xr-xr-x   1    0    0   10159536 Oct 21 2009 [ 298992 00] 49_tut_mov.bik 
+-r-xr-xr-x   1    0    0   21223056 Oct 21 2009 [ 303968 00] 50_tut_mov.bik 
+-r-xr-xr-x   1    0    0   15355772 Oct 21 2009 [ 314336 00] 51_tut_mov.bik 
+-r-xr-xr-x   1    0    0   15069040 Oct 21 2009 [ 321840 00] 52_tut_mov.bik 
+-r-xr-xr-x   1    0    0   24031388 Oct 21 2009 [ 329200 00] 53_tut_mov.bik 
+-r-xr-xr-x   1    0    0   18119536 Oct 21 2009 [ 340944 00] 54_tut_mov.bik 
+-r-xr-xr-x   1    0    0   15916460 Oct 21 2009 [ 349792 00] 55_tut_mov.bik 
+-r-xr-xr-x   1    0    0   41366216 Oct 21 2009 [ 357568 00] 56_tut_mov.bik 
+-r-xr-xr-x   1    0    0   16222324 Oct 21 2009 [ 377776 00] 57_tut_mov.bik 
+-r-xr-xr-x   1    0    0   11508472 Oct 21 2009 [ 385712 00] 58_tut_mov.bik 
+-r-xr-xr-x   1    0    0   17824380 Oct 21 2009 [ 391344 00] 59_tut_mov.bik 
+-r-xr-xr-x   1    0    0   15146544 Oct 21 2009 [ 400048 00] 60_tut_mov.bik 
+-r-xr-xr-x   1    0    0    9833920 Oct 21 2009 [ 407456 00] 61_tut_mov.bik 
+-r-xr-xr-x   1    0    0   10915664 Oct 21 2009 [ 412272 00] 62_tut_mov.bik 
+-r-xr-xr-x   1    0    0   11431296 Oct 21 2009 [ 417616 00] 63_tut_mov.bik 
+-r-xr-xr-x   1    0    0   16114568 Oct 21 2009 [ 423200 00] 64_tut_mov.bik 
+-r-xr-xr-x   1    0    0   10708752 Oct 21 2009 [ 431072 00] 65_tut_mov.bik 
+-r-xr-xr-x   1    0    0   28827148 Oct 21 2009 [ 442560 00] 66_tut_mov.bik 
+-r-xr-xr-x   1    0    0   16374732 Oct 21 2009 [ 456640 00] 67_tut_mov.bik 
+-r-xr-xr-x   1    0    0   10041400 Oct 21 2009 [ 464640 00] 68_tut_mov.bik 
+-r-xr-xr-x   1    0    0   16630632 Oct 21 2009 [ 469552 00] 69_tut_mov.bik 
+-r-xr-xr-x   1    0    0   19824940 Oct 21 2009 [ 477680 00] 70_tut_mov.bik 
+-r-xr-xr-x   1    0    0   10751092 Oct 21 2009 [ 487376 00] 71_tut_mov.bik 
+-r-xr-xr-x   1    0    0   12376644 Oct 21 2009 [ 492640 00] 72_tut_mov.bik 
+-r-xr-xr-x   1    0    0   15235172 Oct 21 2009 [ 498688 00] 73_tut_mov.bik 
+-r-xr-xr-x   1    0    0   11495416 Oct 21 2009 [ 506128 00] 74_tut_mov.bik 
+-r-xr-xr-x   1    0    0   10147152 Oct 21 2009 [ 511744 00] 75_tut_mov.bik 
+-r-xr-xr-x   1    0    0   12858180 Oct 21 2009 [ 516704 00] 76_tut_mov.bik 
+-r-xr-xr-x   1    0    0    6085716 Oct 21 2009 [ 522992 00] 77_tut_mov.bik 
+-r-xr-xr-x   1    0    0    6182116 Oct 21 2009 [ 525968 00] 78_tut_mov.bik 
+-r-xr-xr-x   1    0    0   10592500 Oct 21 2009 [ 528992 00] 79_tut_mov.bik 
+-r-xr-xr-x   1    0    0    6450288 Oct 21 2009 [ 534176 00] 80_tut_mov.bik 
+-r-xr-xr-x   1    0    0   13505144 Oct 21 2009 [ 537328 00] 81_tut_vo.bik 
+-r-xr-xr-x   1    0    0    1401820 Oct 21 2009 [ 543936 00] 82_tut_vo.bik 
+-r-xr-xr-x   1    0    0    5455760 Oct 21 2009 [ 544624 00] 83_tut_vo.bik 
+-r-xr-xr-x   1    0    0    1806168 Oct 21 2009 [ 547296 00] 84_tut_vo.bik 
+-r-xr-xr-x   1    0    0   21486608 Oct 21 2009 [ 548192 00] 85_tut_mov.bik 
+-r-xr-xr-x   1    0    0    1689332 Oct 21 2009 [ 558688 00] 86_tut_vo.bik 
+-r-xr-xr-x   1    0    0    1471752 Oct 21 2009 [ 559520 00] 87_tut_vo.bik 
+-r-xr-xr-x   1    0    0    1172820 Oct 21 2009 [ 560240 00] 89_tut_mov.bik 
+-r-xr-xr-x   1    0    0  114575828 Oct 21 2009 [ 670464 00] 90_credits_long.bik 
+-r-xr-xr-x   1    0    0   19214648 Oct 21 2009 [ 726416 00] 90_tut_mov.bik 
+-r-xr-xr-x   1    0    0    1214716 Oct 21 2009 [ 560816 00] 91_tut_vo.bik 
+-r-xr-xr-x   1    0    0    1620088 Oct 21 2009 [ 561424 00] 92_tut_vo.bik 
+-r-xr-xr-x   1    0    0   15163716 Oct 21 2009 [ 562224 00] tutorial01.bik 
+-r-xr-xr-x   1    0    0        845 Oct 21 2009 [ 569632 00] tutorial_list.bin 
+
+Directory listing of /PSP_GAME/USRDIR/modules/prx/
+dr-xr-xr-x   1    0    0       2048 Oct 21 2009 [     32 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 21 2009 [     28 02] .. 
+-r-xr-xr-x   1    0    0       1872 Oct 21 2009 [  57744 00] pspnet_ap_dialog_dummy.prx 
+=============================================================== 
+Generated on Tue 09/08/2022 at  5:37:44.54 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

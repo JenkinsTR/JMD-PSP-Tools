@@ -1,0 +1,947 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Metal Gear Acid 2   
+Title ID: ULES-00284 
+Region: Europe  
+Languages: En,Fr,De,Es,It  
+Volume Creation Date: 2006-03-02 14:38:49 
+Volume Size: 874 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: 
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 447920
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Mar  2 2006 [    118 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     22 02] .. 
+-r-xr-xr-x   1    0    0       6178 Mar  2 2006 [  21936 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     139264 Mar  2 2006 [  21952 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 Mar  2 2006 [  21920 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      30911 Mar  2 2006 [  22032 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0     123805 Mar  2 2006 [  22048 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0     261484 Mar  2 2006 [  22112 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     23 02] .. 
+-r-xr-xr-x   1    0    0    2642943 Mar  2 2006 [  22240 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    2643280 Mar  2 2006 [    128 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     23 02] .. 
+dr-xr-xr-x   1    0    0       8192 Mar  2 2006 [     27 02] a3p 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     31 02] modules 
+dr-xr-xr-x   1    0    0      10240 Mar  2 2006 [     32 02] mpg 
+dr-xr-xr-x   1    0    0       4096 Mar  2 2006 [     37 02] psq 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] stage 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     24 02] .. 
+-r-xr-xr-x   1    0    0   14809632 Mar  2 2006 [   5536 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    3951712 Mar  2 2006 [   1440 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       1772 Mar  2 2006 [   1424 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/a3p/
+dr-xr-xr-x   1    0    0       8192 Mar  2 2006 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0     742012 Mar  2 2006 [  33792 00] B104_ST04_VINCE.a3p 
+-r-xr-xr-x   1    0    0     719452 Mar  2 2006 [  41552 00] B105_ST05_HIKENTAI.a3p 
+-r-xr-xr-x   1    0    0     962724 Mar  2 2006 [  26016 00] B109_ST09_METAL1.a3p 
+-r-xr-xr-x   1    0    0     807436 Mar  2 2006 [  37408 00] B110_ST09_METAL2.a3p 
+-r-xr-xr-x   1    0    0     790516 Mar  2 2006 [  43888 00] B111_ST11_METAL1.a3p 
+-r-xr-xr-x   1    0    0     960468 Mar  2 2006 [  40848 00] B112_ST12_VENUS.a3p 
+-r-xr-xr-x   1    0    0     911212 Mar  2 2006 [  36016 00] B1A1_ST11_METAL2.a3p 
+-r-xr-xr-x   1    0    0     598004 Mar  2 2006 [  33488 00] B200_TUTRIAL.a3p 
+-r-xr-xr-x   1    0    0     568676 Mar  2 2006 [  42272 00] B201_SNEAKY1.a3p 
+-r-xr-xr-x   1    0    0     592364 Mar  2 2006 [  24448 00] B202_SNEAKY2.a3p 
+-r-xr-xr-x   1    0    0     534460 Mar  2 2006 [  38992 00] B203_SNEAKY3.a3p 
+-r-xr-xr-x   1    0    0     508516 Mar  2 2006 [  45280 00] B204_SNEAKY4.a3p 
+-r-xr-xr-x   1    0    0     558524 Mar  2 2006 [  39264 00] B205_SNEAKY5.a3p 
+-r-xr-xr-x   1    0    0     581084 Mar  2 2006 [  45824 00] B206_SNEAKY6.a3p 
+-r-xr-xr-x   1    0    0     401732 Mar  2 2006 [  28896 00] B207_SNEAKY7.a3p 
+-r-xr-xr-x   1    0    0     524684 Mar  2 2006 [  29904 00] B208_SNEAKY8.a3p 
+-r-xr-xr-x   1    0    0     613420 Mar  2 2006 [  31168 00] B209_SNEAKY9.a3p 
+-r-xr-xr-x   1    0    0     509644 Mar  2 2006 [  41904 00] B210_SNEAKY10.a3p 
+-r-xr-xr-x   1    0    0     572436 Mar  2 2006 [  35664 00] B211_SNEAKY11.a3p 
+-r-xr-xr-x   1    0    0     454372 Mar  2 2006 [  41328 00] B212_SNEAKY12.a3p 
+-r-xr-xr-x   1    0    0     578076 Mar  2 2006 [  38704 00] B213_SNEAKY13.a3p 
+-r-xr-xr-x   1    0    0     467532 Mar  2 2006 [  44736 00] B214_SNEAKY14.a3p 
+-r-xr-xr-x   1    0    0     577324 Mar  2 2006 [  46112 00] B220_TUTRIAL2.a3p 
+-r-xr-xr-x   1    0    0     283668 Mar  2 2006 [  27072 00] B221_TUTRIAL_SHORT.a3p 
+-r-xr-xr-x   1    0    0     330292 Mar  2 2006 [  28432 00] B301_ACTION1.a3p 
+-r-xr-xr-x   1    0    0     389324 Mar  2 2006 [  43664 00] B302_ACTION2.a3p 
+-r-xr-xr-x   1    0    0     387444 Mar  2 2006 [  38512 00] B303_ACTION3.a3p 
+-r-xr-xr-x   1    0    0      12880 Mar  2 2006 [  42736 00] B304_ACTION4.a3p 
+-r-xr-xr-x   1    0    0      12880 Mar  2 2006 [  37808 00] B305_ACTION5.a3p 
+-r-xr-xr-x   1    0    0     484452 Mar  2 2006 [  36464 00] B401_INTERMISSION.a3p 
+-r-xr-xr-x   1    0    0     493476 Mar  2 2006 [  37152 00] B402_TITLE.a3p 
+-r-xr-xr-x   1    0    0     229900 Mar  2 2006 [  27712 00] B404_INTERMISSION2.a3p 
+-r-xr-xr-x   1    0    0      12880 Mar  2 2006 [  44352 00] B405_TITLE_ORC.a3p 
+-r-xr-xr-x   1    0    0      12880 Mar  2 2006 [  31152 00] B406_END_TAKIYAMA.a3p 
+-r-xr-xr-x   1    0    0    1002888 Mar  2 2006 [  35168 00] B407_ending1.a3p 
+-r-xr-xr-x   1    0    0    1084104 Mar  2 2006 [  42752 00] B408_ending2.a3p 
+-r-xr-xr-x   1    0    0     722836 Mar  2 2006 [  29136 00] B409_epilogue.a3p 
+-r-xr-xr-x   1    0    0     401732 Mar  2 2006 [  26736 00] B410_MGS1_SNEAKY.a3p 
+-r-xr-xr-x   1    0    0     401732 Mar  2 2006 [  32624 00] B411_MGS1_ACTION.a3p 
+-r-xr-xr-x   1    0    0     752540 Mar  2 2006 [  43296 00] B412_MGS2_SNEAKY.a3p 
+-r-xr-xr-x   1    0    0     752540 Mar  2 2006 [  33120 00] B413_MGS2_ACTION.a3p 
+-r-xr-xr-x   1    0    0     782620 Mar  2 2006 [  25040 00] B414_MGS3_SNEAKY.a3p 
+-r-xr-xr-x   1    0    0     782620 Mar  2 2006 [  24048 00] B415_MGS3_ACTION.a3p 
+-r-xr-xr-x   1    0    0      41080 Mar  2 2006 [  45536 00] B501_start.a3p 
+-r-xr-xr-x   1    0    0      37320 Mar  2 2006 [  43856 00] B502_complete.a3p 
+-r-xr-xr-x   1    0    0      41080 Mar  2 2006 [  29104 00] B503_failed.a3p 
+-r-xr-xr-x   1    0    0      41080 Mar  2 2006 [  28128 00] B504_nekal.a3p 
+-r-xr-xr-x   1    0    0      41080 Mar  2 2006 [  44976 00] B505_info.a3p 
+-r-xr-xr-x   1    0    0     722836 Mar  2 2006 [  44368 00] B601_VS_BATTLE.a3p 
+-r-xr-xr-x   1    0    0     250204 Mar  2 2006 [  31472 00] B602_VS_HURRY_UP.a3p 
+-r-xr-xr-x   1    0    0     886020 Mar  2 2006 [  36704 00] B701_DEMO1.a3p 
+-r-xr-xr-x   1    0    0     558148 Mar  2 2006 [  24752 00] B702_DEMO2.a3p 
+-r-xr-xr-x   1    0    0     541604 Mar  2 2006 [  45008 00] B703_DEMO3.a3p 
+-r-xr-xr-x   1    0    0     854060 Mar  2 2006 [  25584 00] B704_DEMO4.a3p 
+-r-xr-xr-x   1    0    0     601764 Mar  2 2006 [  34160 00] B705_DEMO5.a3p 
+-r-xr-xr-x   1    0    0     587476 Mar  2 2006 [  28608 00] B706_DEMO6.a3p 
+-r-xr-xr-x   1    0    0    1014612 Mar  2 2006 [  23536 00] B707_DEMO7.a3p 
+-r-xr-xr-x   1    0    0     839772 Mar  2 2006 [  40432 00] B708_DEMO8.a3p 
+-r-xr-xr-x   1    0    0     442716 Mar  2 2006 [  30928 00] B709_DEMO9.a3p 
+-r-xr-xr-x   1    0    0     663804 Mar  2 2006 [  39552 00] B710_DEMO10.a3p 
+-r-xr-xr-x   1    0    0     546116 Mar  2 2006 [  31600 00] B711_DEMO11.a3p 
+-r-xr-xr-x   1    0    0     591988 Mar  2 2006 [  30624 00] B712_DEMO12.a3p 
+-r-xr-xr-x   1    0    0      12880 Mar  2 2006 [  24432 00] B713_DEMO13.a3p 
+-r-xr-xr-x   1    0    0      12880 Mar  2 2006 [  24032 00] B714_DEMO14.a3p 
+-r-xr-xr-x   1    0    0     643500 Mar  2 2006 [  34464 00] B715_DEMO15.a3p 
+-r-xr-xr-x   1    0    0     519796 Mar  2 2006 [  27456 00] B716_DEMO16.a3p 
+-r-xr-xr-x   1    0    0     915348 Mar  2 2006 [  30176 00] B717_DEMO17.a3p 
+-r-xr-xr-x   1    0    0     584092 Mar  2 2006 [  34880 00] B718_DEMO18.a3p 
+-r-xr-xr-x   1    0    0     525060 Mar  2 2006 [  28160 00] B719_DEMO19.a3p 
+-r-xr-xr-x   1    0    0     525060 Mar  2 2006 [  29504 00] B720_DEMO20.a3p 
+-r-xr-xr-x   1    0    0     848796 Mar  2 2006 [  37824 00] B721_DEMO21.a3p 
+-r-xr-xr-x   1    0    0     382932 Mar  2 2006 [  40240 00] B722_DEMO22.a3p 
+-r-xr-xr-x   1    0    0     572436 Mar  2 2006 [  27840 00] B723_DEMO23.a3p 
+-r-xr-xr-x   1    0    0     506260 Mar  2 2006 [  39984 00] B724_DEMO24.a3p 
+-r-xr-xr-x   1    0    0     713060 Mar  2 2006 [  32272 00] B725_DEMO25.a3p 
+-r-xr-xr-x   1    0    0     463396 Mar  2 2006 [  26496 00] B726_DEMO26.a3p 
+-r-xr-xr-x   1    0    0     805556 Mar  2 2006 [  31872 00] B730_DEMO30.a3p 
+-r-xr-xr-x   1    0    0     353980 Mar  2 2006 [  42560 00] B731_DEMO31.a3p 
+-r-xr-xr-x   1    0    0     238548 Mar  2 2006 [  38384 00] B732_DEMO32.a3p 
+-r-xr-xr-x   1    0    0     854060 Mar  2 2006 [  46400 00] B733_DEMO33.a3p 
+-r-xr-xr-x   1    0    0     326908 Mar  2 2006 [  25424 00] B734_DEMO34.a3p 
+-r-xr-xr-x   1    0    0     467908 Mar  2 2006 [  27216 00] B735_DEMO35.a3p 
+-r-xr-xr-x   1    0    0     510772 Mar  2 2006 [  45568 00] B900_BG00_SEA.a3p 
+-r-xr-xr-x   1    0    0     182148 Mar  2 2006 [  39888 00] B901_BG01_INDOOR_M.a3p 
+-r-xr-xr-x   1    0    0     262988 Mar  2 2006 [  32976 00] B902_BG02_INDOOR_L.a3p 
+-r-xr-xr-x   1    0    0     101684 Mar  2 2006 [  44288 00] B903_BG03_ROOM1.a3p 
+-r-xr-xr-x   1    0    0     101684 Mar  2 2006 [  35952 00] B904_BG04_ROOM2.a3p 
+-r-xr-xr-x   1    0    0     262988 Mar  2 2006 [  38240 00] B905_BG05_TUNNEL.a3p 
+-r-xr-xr-x   1    0    0     261860 Mar  2 2006 [  29776 00] B906_BG06_TRAIN.a3p 
+-r-xr-xr-x   1    0    0     263740 Mar  2 2006 [  32832 00] B908_BG08_INDOOR_L.a3p 
+-r-xr-xr-x   1    0    0     200196 Mar  2 2006 [  42160 00] B909_BG09_INDOOR_L.a3p 
+-r-xr-xr-x   1    0    0     182148 Mar  2 2006 [  34784 00] B910_BG10_INDOOR_L.a3p 
+-r-xr-xr-x   1    0    0     233284 Mar  2 2006 [  26944 00] B999_env_sea_loop.a3p 
+
+Directory listing of /PSP_GAME/USRDIR/modules/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     31 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0       3264 Mar  2 2006 [  46928 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0      72990 Mar  2 2006 [  46960 00] kjfs.prx 
+-r-xr-xr-x   1    0    0      67671 Mar  2 2006 [  47168 00] kjnet.prx 
+-r-xr-xr-x   1    0    0       1088 Mar  2 2006 [  47296 00] libadler.prx 
+-r-xr-xr-x   1    0    0      10128 Mar  2 2006 [  46832 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0       1472 Mar  2 2006 [  47424 00] libbase64.prx 
+-r-xr-xr-x   1    0    0       3520 Mar  2 2006 [  46880 00] libccc.prx 
+-r-xr-xr-x   1    0    0       4416 Mar  2 2006 [  47264 00] libdeflt.prx 
+-r-xr-xr-x   1    0    0      23488 Mar  2 2006 [  46944 00] libfont.prx 
+-r-xr-xr-x   1    0    0       3696 Mar  2 2006 [  47392 00] libfpu.prx 
+-r-xr-xr-x   1    0    0       2384 Mar  2 2006 [  47440 00] libmd5.prx 
+-r-xr-xr-x   1    0    0       1296 Mar  2 2006 [  46848 00] libmt19937.prx 
+-r-xr-xr-x   1    0    0      35632 Mar  2 2006 [  47216 00] libpsmfplayer.prx 
+-r-xr-xr-x   1    0    0       1936 Mar  2 2006 [  47024 00] libqpcode.prx 
+-r-xr-xr-x   1    0    0       2576 Mar  2 2006 [  47120 00] libsha1.prx 
+-r-xr-xr-x   1    0    0       2912 Mar  2 2006 [  47104 00] libsha224.prx 
+-r-xr-xr-x   1    0    0       2912 Mar  2 2006 [  47312 00] libsha256.prx 
+-r-xr-xr-x   1    0    0       4592 Mar  2 2006 [  47248 00] libsha512.prx 
+-r-xr-xr-x   1    0    0      20976 Mar  2 2006 [  47136 00] mpeg.prx 
+-r-xr-xr-x   1    0    0       5136 Mar  2 2006 [  47408 00] mpegbase.prx 
+-r-xr-xr-x   1    0    0       6320 Mar  2 2006 [  47360 00] psmf.prx 
+-r-xr-xr-x   1    0    0       2448 Mar  2 2006 [  47376 00] pspnet_ap_dialog_dummy.prx 
+-r-xr-xr-x   1    0    0       6864 Mar  2 2006 [  46912 00] sc_sascore.prx 
+-r-xr-xr-x   1    0    0      31824 Mar  2 2006 [  46896 00] scan.prx 
+-r-xr-xr-x   1    0    0      29536 Mar  2 2006 [  46864 00] show_macaddr.prx 
+-r-xr-xr-x   1    0    0     122346 Mar  2 2006 [  47040 00] sound.prx 
+-r-xr-xr-x   1    0    0       3888 Mar  2 2006 [  47328 00] usbacc.prx 
+-r-xr-xr-x   1    0    0       6704 Mar  2 2006 [  47008 00] usbmic.prx 
+-r-xr-xr-x   1    0    0      14928 Mar  2 2006 [  47280 00] usbpspcm.prx 
+-r-xr-xr-x   1    0    0       3440 Mar  2 2006 [  47152 00] videocodec.prx 
+-r-xr-xr-x   1    0    0      20180 Mar  2 2006 [  47344 00] zlibdec.prx 
+
+Directory listing of /PSP_GAME/USRDIR/mpg/
+dr-xr-xr-x   1    0    0      10240 Mar  2 2006 [     32 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0    7249920 Mar  2 2006 [ 235504 00] 3D_girl_101.pmf 
+-r-xr-xr-x   1    0    0    5894144 Mar  2 2006 [ 328304 00] 3D_girl_102.pmf 
+-r-xr-xr-x   1    0    0    7761920 Mar  2 2006 [ 324512 00] 3D_girl_103.pmf 
+-r-xr-xr-x   1    0    0    5515264 Mar  2 2006 [ 115296 00] 3D_girl_104.pmf 
+-r-xr-xr-x   1    0    0    4683776 Mar  2 2006 [ 374816 00] 3D_girl_105.pmf 
+-r-xr-xr-x   1    0    0    5156864 Mar  2 2006 [  76416 00] 3D_girl_106.pmf 
+-r-xr-xr-x   1    0    0    5337088 Mar  2 2006 [  58080 00] 3D_girl_107.pmf 
+-r-xr-xr-x   1    0    0    1009664 Mar  2 2006 [ 118432 00] 3D_girl_108.pmf 
+-r-xr-xr-x   1    0    0    6862848 Mar  2 2006 [ 294096 00] 3D_girl_109.pmf 
+-r-xr-xr-x   1    0    0    5888000 Mar  2 2006 [ 212256 00] 3D_girl_110.pmf 
+-r-xr-xr-x   1    0    0    4624384 Mar  2 2006 [ 168320 00] 3D_girl_201.pmf 
+-r-xr-xr-x   1    0    0    4012032 Mar  2 2006 [  81840 00] 3D_girl_202.pmf 
+-r-xr-xr-x   1    0    0    5517312 Mar  2 2006 [ 307152 00] 3D_girl_203.pmf 
+-r-xr-xr-x   1    0    0    7069696 Mar  2 2006 [ 335872 00] 3D_girl_204.pmf 
+-r-xr-xr-x   1    0    0    6838272 Mar  2 2006 [ 393440 00] 3D_girl_205.pmf 
+-r-xr-xr-x   1    0    0    9588736 Mar  2 2006 [ 331184 00] 3D_girl_206.pmf 
+-r-xr-xr-x   1    0    0    5337088 Mar  2 2006 [ 379808 00] 3D_girl_207.pmf 
+-r-xr-xr-x   1    0    0    4898816 Mar  2 2006 [ 362928 00] 3D_girl_208.pmf 
+-r-xr-xr-x   1    0    0    4657152 Mar  2 2006 [ 251968 00] 3D_girl_301.pmf 
+-r-xr-xr-x   1    0    0    4780032 Mar  2 2006 [  74080 00] 3D_girl_302.pmf 
+-r-xr-xr-x   1    0    0    4243456 Mar  2 2006 [ 282224 00] 3D_girl_303.pmf 
+-r-xr-xr-x   1    0    0    5406720 Mar  2 2006 [ 359984 00] 3D_girl_304.pmf 
+-r-xr-xr-x   1    0    0    6629376 Mar  2 2006 [  83808 00] 3D_girl_305.pmf 
+-r-xr-xr-x   1    0    0    7215104 Mar  2 2006 [ 229008 00] 3D_girl_306.pmf 
+-r-xr-xr-x   1    0    0    4929536 Mar  2 2006 [ 369184 00] 3D_girl_307.pmf 
+-r-xr-xr-x   1    0    0    4825088 Mar  2 2006 [  78944 00] 3D_girl_308.pmf 
+-r-xr-xr-x   1    0    0    5355520 Mar  2 2006 [ 232544 00] 3D_girl_401.pmf 
+-r-xr-xr-x   1    0    0    5691392 Mar  2 2006 [ 215136 00] 3D_girl_402.pmf 
+-r-xr-xr-x   1    0    0   36833280 Mar  2 2006 [ 254832 00] 3D_mgs3_M020.pmf 
+-r-xr-xr-x   1    0    0   28899328 Mar  2 2006 [ 176800 00] 3D_mgs3_M050.pmf 
+-r-xr-xr-x   1    0    0   13150208 Mar  2 2006 [ 239488 00] 3D_mgs3_M110.pmf 
+-r-xr-xr-x   1    0    0   16238592 Mar  2 2006 [ 284784 00] 3D_mgs3_M170.pmf 
+-r-xr-xr-x   1    0    0   25753600 Mar  2 2006 [ 194672 00] 3D_mgs3_M390_020.pmf 
+-r-xr-xr-x   1    0    0   11763712 Mar  2 2006 [ 386784 00] 3D_mgs3_M390_030.pmf 
+-r-xr-xr-x   1    0    0   21741568 Mar  2 2006 [  47456 00] 3D_mgs3_M490.pmf 
+-r-xr-xr-x   1    0    0   14405632 Mar  2 2006 [ 159584 00] 3D_mgs3_M495.pmf 
+-r-xr-xr-x   1    0    0    9842688 Mar  2 2006 [ 299536 00] 3D_mgs3_M500.pmf 
+-r-xr-xr-x   1    0    0   11644928 Mar  2 2006 [ 245920 00] 3D_mgs3_M510.pmf 
+-r-xr-xr-x   1    0    0    7278592 Mar  2 2006 [ 172400 00] 3D_mgs3_M520.pmf 
+-r-xr-xr-x   1    0    0   20217856 Mar  2 2006 [ 311424 00] 3D_mgs3_M540.pmf 
+-r-xr-xr-x   1    0    0   23140352 Mar  2 2006 [  87552 00] 3D_mgs3_M570.pmf 
+-r-xr-xr-x   1    0    0   20715520 Mar  2 2006 [ 344928 00] 3D_mgs3_M600_050.pmf 
+-r-xr-xr-x   1    0    0   31768576 Mar  2 2006 [  99776 00] 3D_mgs3_V020.pmf 
+-r-xr-xr-x   1    0    0   19947520 Mar  2 2006 [  60688 00] 3D_mgs3_V020_030.pmf 
+-r-xr-xr-x   1    0    0    3209216 Mar  2 2006 [ 210688 00] 3D_mgs3_V040.pmf 
+-r-xr-xr-x   1    0    0   76539904 Mar  2 2006 [ 119232 00] 3D_mgs4.pmf 
+-r-xr-xr-x   1    0    0    3194880 Mar  2 2006 [ 220752 00] 3D_rumble.pmf 
+-r-xr-xr-x   1    0    0    1024000 Mar  2 2006 [ 191760 00] cdmv01.pmf 
+-r-xr-xr-x   1    0    0    1560576 Mar  2 2006 [ 274528 00] cdmv02.pmf 
+-r-xr-xr-x   1    0    0     665600 Mar  2 2006 [ 175968 00] cdmv03.pmf 
+-r-xr-xr-x   1    0    0    1036288 Mar  2 2006 [ 324000 00] cdmv04.pmf 
+-r-xr-xr-x   1    0    0     749568 Mar  2 2006 [ 159216 00] cdmv05.pmf 
+-r-xr-xr-x   1    0    0     776192 Mar  2 2006 [ 299152 00] cdmv06.pmf 
+-r-xr-xr-x   1    0    0    1101824 Mar  2 2006 [ 322880 00] cdmv07.pmf 
+-r-xr-xr-x   1    0    0    1107968 Mar  2 2006 [ 383824 00] cdmv08.pmf 
+-r-xr-xr-x   1    0    0    1040384 Mar  2 2006 [ 385264 00] cdmv09.pmf 
+-r-xr-xr-x   1    0    0    1177600 Mar  2 2006 [ 217920 00] cdmv10.pmf 
+-r-xr-xr-x   1    0    0    1169408 Mar  2 2006 [ 323424 00] cdmv100.pmf 
+-r-xr-xr-x   1    0    0     733184 Mar  2 2006 [ 385776 00] cdmv101.pmf 
+-r-xr-xr-x   1    0    0    1370112 Mar  2 2006 [ 306048 00] cdmv102.pmf 
+-r-xr-xr-x   1    0    0    1263616 Mar  2 2006 [ 293472 00] cdmv103.pmf 
+-r-xr-xr-x   1    0    0    1368064 Mar  2 2006 [  73408 00] cdmv11.pmf 
+-r-xr-xr-x   1    0    0     856064 Mar  2 2006 [ 373904 00] cdmv12.pmf 
+-r-xr-xr-x   1    0    0     884736 Mar  2 2006 [ 239056 00] cdmv13.pmf 
+-r-xr-xr-x   1    0    0     985088 Mar  2 2006 [  87056 00] cdmv14.pmf 
+-r-xr-xr-x   1    0    0     796672 Mar  2 2006 [ 222320 00] cdmv15.pmf 
+-r-xr-xr-x   1    0    0     739328 Mar  2 2006 [ 355728 00] cdmv16.pmf 
+-r-xr-xr-x   1    0    0     610304 Mar  2 2006 [ 118928 00] cdmv17.pmf 
+-r-xr-xr-x   1    0    0     894976 Mar  2 2006 [ 357824 00] cdmv18.pmf 
+-r-xr-xr-x   1    0    0     894976 Mar  2 2006 [ 218928 00] cdmv19.pmf 
+-r-xr-xr-x   1    0    0    1538048 Mar  2 2006 [ 292720 00] cdmv20.pmf 
+-r-xr-xr-x   1    0    0    1007616 Mar  2 2006 [ 190912 00] cdmv21.pmf 
+-r-xr-xr-x   1    0    0    1136640 Mar  2 2006 [ 310464 00] cdmv22.pmf 
+-r-xr-xr-x   1    0    0    1120256 Mar  2 2006 [ 281664 00] cdmv23.pmf 
+-r-xr-xr-x   1    0    0     786432 Mar  2 2006 [  71152 00] cdmv24.pmf 
+-r-xr-xr-x   1    0    0     792576 Mar  2 2006 [ 311024 00] cdmv25.pmf 
+-r-xr-xr-x   1    0    0    1640448 Mar  2 2006 [ 382416 00] cdmv26.pmf 
+-r-xr-xr-x   1    0    0     915456 Mar  2 2006 [ 277040 00] cdmv27.pmf 
+-r-xr-xr-x   1    0    0     903168 Mar  2 2006 [ 368176 00] cdmv28.pmf 
+-r-xr-xr-x   1    0    0    1015808 Mar  2 2006 [ 275296 00] cdmv29.pmf 
+-r-xr-xr-x   1    0    0     710656 Mar  2 2006 [ 191408 00] cdmv30.pmf 
+-r-xr-xr-x   1    0    0     987136 Mar  2 2006 [ 192992 00] cdmv31.pmf 
+-r-xr-xr-x   1    0    0     876544 Mar  2 2006 [  99344 00] cdmv32.pmf 
+-r-xr-xr-x   1    0    0    1290240 Mar  2 2006 [ 386144 00] cdmv33.pmf 
+-r-xr-xr-x   1    0    0     860160 Mar  2 2006 [ 118000 00] cdmv34.pmf 
+-r-xr-xr-x   1    0    0    1241088 Mar  2 2006 [ 278128 00] cdmv35.pmf 
+-r-xr-xr-x   1    0    0    1368064 Mar  2 2006 [  72016 00] cdmv36.pmf 
+-r-xr-xr-x   1    0    0    1443840 Mar  2 2006 [ 192272 00] cdmv37.pmf 
+-r-xr-xr-x   1    0    0    1175552 Mar  2 2006 [ 254256 00] cdmv38.pmf 
+-r-xr-xr-x   1    0    0    1519616 Mar  2 2006 [ 356800 00] cdmv39.pmf 
+-r-xr-xr-x   1    0    0     555008 Mar  2 2006 [ 357552 00] cdmv40.pmf 
+-r-xr-xr-x   1    0    0     907264 Mar  2 2006 [ 339760 00] cdmv41.pmf 
+-r-xr-xr-x   1    0    0     780288 Mar  2 2006 [ 321296 00] cdmv42.pmf 
+-r-xr-xr-x   1    0    0     776192 Mar  2 2006 [ 280352 00] cdmv43.pmf 
+-r-xr-xr-x   1    0    0    1269760 Mar  2 2006 [ 358688 00] cdmv44.pmf 
+-r-xr-xr-x   1    0    0     651264 Mar  2 2006 [ 367344 00] cdmv45.pmf 
+-r-xr-xr-x   1    0    0    3807232 Mar  2 2006 [ 371600 00] cdmv46.pmf 
+-r-xr-xr-x   1    0    0    4726784 Mar  2 2006 [ 342608 00] cdmv47.pmf 
+-r-xr-xr-x   1    0    0    3680256 Mar  2 2006 [ 170592 00] cdmv48.pmf 
+-r-xr-xr-x   1    0    0    3295232 Mar  2 2006 [ 278736 00] cdmv49.pmf 
+-r-xr-xr-x   1    0    0    1347584 Mar  2 2006 [ 359312 00] cdmv50.pmf 
+-r-xr-xr-x   1    0    0    1843200 Mar  2 2006 [ 392528 00] cdmv51.pmf 
+-r-xr-xr-x   1    0    0    1413120 Mar  2 2006 [ 356096 00] cdmv52.pmf 
+-r-xr-xr-x   1    0    0     425984 Mar  2 2006 [ 367664 00] cdmv53.pmf 
+-r-xr-xr-x   1    0    0     657408 Mar  2 2006 [ 235168 00] cdmv54.pmf 
+-r-xr-xr-x   1    0    0     571392 Mar  2 2006 [ 207248 00] cdmv55.pmf 
+-r-xr-xr-x   1    0    0     395264 Mar  2 2006 [ 159008 00] cdmv56.pmf 
+-r-xr-xr-x   1    0    0    1118208 Mar  2 2006 [ 368624 00] cdmv57.pmf 
+-r-xr-xr-x   1    0    0     956416 Mar  2 2006 [ 284304 00] cdmv58.pmf 
+-r-xr-xr-x   1    0    0    1884160 Mar  2 2006 [ 280736 00] cdmv59.pmf 
+-r-xr-xr-x   1    0    0     909312 Mar  2 2006 [ 377104 00] cdmv60.pmf 
+-r-xr-xr-x   1    0    0    1464320 Mar  2 2006 [  70432 00] cdmv61.pmf 
+-r-xr-xr-x   1    0    0    1310720 Mar  2 2006 [ 277488 00] cdmv62.pmf 
+-r-xr-xr-x   1    0    0     854016 Mar  2 2006 [ 373472 00] cdmv64.pmf 
+-r-xr-xr-x   1    0    0    1359872 Mar  2 2006 [ 355056 00] cdmv67.pmf 
+-r-xr-xr-x   1    0    0    2447360 Mar  2 2006 [ 321680 00] cdmv68.pmf 
+-r-xr-xr-x   1    0    0    1130496 Mar  2 2006 [ 220192 00] cdmv69.pmf 
+-r-xr-xr-x   1    0    0    1812480 Mar  2 2006 [ 384368 00] cdmv70.pmf 
+-r-xr-xr-x   1    0    0     874496 Mar  2 2006 [ 339328 00] cdmv71.pmf 
+-r-xr-xr-x   1    0    0     970752 Mar  2 2006 [ 374336 00] cdmv72.pmf 
+-r-xr-xr-x   1    0    0    1060864 Mar  2 2006 [  81312 00] cdmv73.pmf 
+-r-xr-xr-x   1    0    0     868352 Mar  2 2006 [ 306720 00] cdmv74.pmf 
+-r-xr-xr-x   1    0    0    1011712 Mar  2 2006 [ 176304 00] cdmv75.pmf 
+-r-xr-xr-x   1    0    0     980992 Mar  2 2006 [  71536 00] cdmv76.pmf 
+-r-xr-xr-x   1    0    0    1460224 Mar  2 2006 [  72688 00] cdmv77.pmf 
+-r-xr-xr-x   1    0    0     696320 Mar  2 2006 [ 251616 00] cdmv78.pmf 
+-r-xr-xr-x   1    0    0     845824 Mar  2 2006 [ 358272 00] cdmv79.pmf 
+-r-xr-xr-x   1    0    0     784384 Mar  2 2006 [ 194288 00] cdmv81.pmf 
+-r-xr-xr-x   1    0    0     591872 Mar  2 2006 [ 362624 00] cdmv83.pmf 
+-r-xr-xr-x   1    0    0    2553856 Mar  2 2006 [ 275792 00] cdmv84.pmf 
+-r-xr-xr-x   1    0    0    1636352 Mar  2 2006 [ 193488 00] cdmv85.pmf 
+-r-xr-xr-x   1    0    0    1392640 Mar  2 2006 [ 210000 00] cdmv88.pmf 
+-r-xr-xr-x   1    0    0    1232896 Mar  2 2006 [ 309856 00] cdmv90.pmf 
+-r-xr-xr-x   1    0    0    1185792 Mar  2 2006 [ 383232 00] cdmv91.pmf 
+-r-xr-xr-x   1    0    0     880640 Mar  2 2006 [ 218496 00] cdmv92.pmf 
+-r-xr-xr-x   1    0    0     884736 Mar  2 2006 [ 207536 00] cdmv93.pmf 
+-r-xr-xr-x   1    0    0     620544 Mar  2 2006 [ 367872 00] cdmv94.pmf 
+-r-xr-xr-x   1    0    0     983040 Mar  2 2006 [  98864 00] cdmv95.pmf 
+-r-xr-xr-x   1    0    0    4141056 Mar  2 2006 [ 207968 00] chronicle_pack.pmf 
+-r-xr-xr-x   1    0    0    4124672 Mar  2 2006 [ 365328 00] chronicle_pack_e.pmf 
+-r-xr-xr-x   1    0    0    4591616 Mar  2 2006 [ 377552 00] dl_test.pmf 
+-r-xr-xr-x   1    0    0    4898816 Mar  2 2006 [ 156608 00] mgs1_pack.pmf 
+-r-xr-xr-x   1    0    0    4904960 Mar  2 2006 [ 340208 00] mgs1_pack_e.pmf 
+-r-xr-xr-x   1    0    0    3473408 Mar  2 2006 [ 272832 00] mgs2_pack.pmf 
+-r-xr-xr-x   1    0    0    3471360 Mar  2 2006 [ 304352 00] mgs2_pack_e.pmf 
+-r-xr-xr-x   1    0    0    3457024 Mar  2 2006 [ 297456 00] mgs3_pack.pmf 
+-r-xr-xr-x   1    0    0    3463168 Mar  2 2006 [ 166624 00] mgs3_pack_e.pmf 
+-r-xr-xr-x   1    0    0   12847104 Mar  2 2006 [ 222720 00] opening.pmf 
+-r-xr-xr-x   1    0    0    1654784 Mar  2 2006 [ 219376 00] testmg.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/psq/
+dr-xr-xr-x   1    0    0       4096 Mar  2 2006 [     37 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0     800568 Mar  2 2006 [ 399008 00] e001system.psq 
+-r-xr-xr-x   1    0    0     235288 Mar  2 2006 [ 397872 00] e002st00_1.psq 
+-r-xr-xr-x   1    0    0     126860 Mar  2 2006 [ 398208 00] e004st06_1.psq 
+-r-xr-xr-x   1    0    0     250540 Mar  2 2006 [ 396864 00] e008st11_1.psq 
+-r-xr-xr-x   1    0    0     822536 Mar  2 2006 [ 398592 00] e009endbgm.psq 
+-r-xr-xr-x   1    0    0     247112 Mar  2 2006 [ 398000 00] e010st04_2.psq 
+-r-xr-xr-x   1    0    0     179236 Mar  2 2006 [ 397504 00] e011st11_1.psq 
+-r-xr-xr-x   1    0    0     163012 Mar  2 2006 [ 400000 00] e012st09_1.psq 
+-r-xr-xr-x   1    0    0     152652 Mar  2 2006 [ 400528 00] e012st09_3.psq 
+-r-xr-xr-x   1    0    0     116004 Mar  2 2006 [ 397360 00] e013st05_2.psq 
+-r-xr-xr-x   1    0    0     157360 Mar  2 2006 [ 398512 00] e014are_01.psq 
+-r-xr-xr-x   1    0    0     154800 Mar  2 2006 [ 397072 00] e015are_02.psq 
+-r-xr-xr-x   1    0    0     153336 Mar  2 2006 [ 396992 00] e016are_03.psq 
+-r-xr-xr-x   1    0    0     154824 Mar  2 2006 [ 400080 00] e017are_04.psq 
+-r-xr-xr-x   1    0    0     155800 Mar  2 2006 [ 397792 00] e018are_05.psq 
+-r-xr-xr-x   1    0    0     147384 Mar  2 2006 [ 400448 00] e019are_06.psq 
+-r-xr-xr-x   1    0    0     144824 Mar  2 2006 [ 397712 00] e020are_07.psq 
+-r-xr-xr-x   1    0    0     156288 Mar  2 2006 [ 399408 00] e021are_08.psq 
+-r-xr-xr-x   1    0    0     155896 Mar  2 2006 [ 400288 00] e022are_09.psq 
+-r-xr-xr-x   1    0    0     147872 Mar  2 2006 [ 399488 00] e023are_10.psq 
+-r-xr-xr-x   1    0    0     153240 Mar  2 2006 [ 398128 00] e024are_11.psq 
+-r-xr-xr-x   1    0    0     146408 Mar  2 2006 [ 397424 00] e025are_12.psq 
+-r-xr-xr-x   1    0    0     156384 Mar  2 2006 [ 396784 00] e026are_13.psq 
+-r-xr-xr-x   1    0    0     154312 Mar  2 2006 [ 397152 00] e027are_14.psq 
+-r-xr-xr-x   1    0    0     146312 Mar  2 2006 [ 400368 00] e028are_15.psq 
+-r-xr-xr-x   1    0    0     195060 Mar  2 2006 [ 400608 00] e029st09_2.psq 
+-r-xr-xr-x   1    0    0      92984 Mar  2 2006 [ 398352 00] e030st00_0.psq 
+-r-xr-xr-x   1    0    0     228972 Mar  2 2006 [ 398400 00] e031st04_1.psq 
+-r-xr-xr-x   1    0    0     190236 Mar  2 2006 [ 400704 00] e032st08_1.psq 
+-r-xr-xr-x   1    0    0     137256 Mar  2 2006 [ 398272 00] e033st11_4.psq 
+-r-xr-xr-x   1    0    0     242076 Mar  2 2006 [ 400160 00] e034st06_1.psq 
+-r-xr-xr-x   1    0    0     216600 Mar  2 2006 [ 399568 00] e035st07_1.psq 
+-r-xr-xr-x   1    0    0     234736 Mar  2 2006 [ 399680 00] e036st12_1.psq 
+-r-xr-xr-x   1    0    0     219580 Mar  2 2006 [ 397600 00] e037st07_2.psq 
+-r-xr-xr-x   1    0    0     244840 Mar  2 2006 [ 397232 00] e038st11_3.psq 
+-r-xr-xr-x   1    0    0     375324 Mar  2 2006 [ 399808 00] e039endbgm.psq 
+
+Directory listing of /PSP_GAME/USRDIR/stage/
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     42 02] a0000b 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     43 02] a0000 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     44 02] a0001b 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     45 02] a0001 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     46 02] a0002b 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     47 02] a0002 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     48 02] arena_save 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     49 02] arena_test 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     50 02] endroll 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     51 02] init 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     52 02] intermission 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     53 02] lastsave 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     54 02] link00 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     55 02] lobby 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     56 02] pic_story_e3 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     57 02] rsrc_e 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     58 02] rsrc_f 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     59 02] rsrc_g 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     60 02] rsrc_i 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     61 02] rsrc_s 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     62 02] rsrc_title 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     63 02] st0000 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     64 02] st0100tr 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     65 02] st0100 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     66 02] st0200 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     67 02] st0300 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     68 02] st0301 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     69 02] st0400 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     70 02] st0401_robo 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     71 02] st0401tr 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     72 02] st0401 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     73 02] st0402_takiyama 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     74 02] st0402 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     75 02] st0500 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     76 02] st0501 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     77 02] st0502tr 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     78 02] st0502 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     79 02] st0600tr 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     80 02] st0600 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     81 02] st0700_demo 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     82 02] st0700tr 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     83 02] st0700 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     84 02] st0800demo 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     85 02] st0800tr 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     86 02] st0800 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     87 02] st0801demo 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     88 02] st0801 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     89 02] st0900 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     90 02] st0901 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     91 02] st0902_end 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     92 02] st0902tr 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     93 02] st0902 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     94 02] st0903 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     95 02] st1000tr 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     96 02] st1000 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     97 02] st1100tr 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     98 02] st1100 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     99 02] st1101 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [    100 02] st1102 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [    101 02] st1103_demo2 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [    102 02] st1103_demo 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [    103 02] st1103 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [    104 02] st1104 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [    105 02] st1200 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [    106 02] st1201 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [    107 02] st12_demo 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [    108 02] st_debug 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [    109 02] suspsave 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [    110 02] title 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [    111 02] try0000 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [    112 02] try0001 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [    113 02] try0100 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [    114 02] try0200 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [    115 02] tu0000 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [    116 02] tu0001 
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [    117 02] tu0002 
+
+Directory listing of /PSP_GAME/USRDIR/stage/a0000b/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     42 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0    1951392 Mar  2 2006 [ 406016 00] _zar 
+-r-xr-xr-x   1    0    0     110085 Mar  2 2006 [ 405952 00] a0000b.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/a0000/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     43 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0    1599339 Mar  2 2006 [ 423952 00] _zar 
+-r-xr-xr-x   1    0    0     100690 Mar  2 2006 [ 423888 00] a0000.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/a0001b/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     44 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0    1396466 Mar  2 2006 [ 408704 00] _zar 
+-r-xr-xr-x   1    0    0      85234 Mar  2 2006 [ 408656 00] a0001b.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/a0001/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     45 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0    1642042 Mar  2 2006 [ 426288 00] _zar 
+-r-xr-xr-x   1    0    0      87224 Mar  2 2006 [ 426240 00] a0001.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/a0002b/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     46 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0    1708731 Mar  2 2006 [ 435104 00] _zar 
+-r-xr-xr-x   1    0    0      83673 Mar  2 2006 [ 435056 00] a0002b.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/a0002/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     47 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0    1929312 Mar  2 2006 [ 415584 00] _zar 
+-r-xr-xr-x   1    0    0      83941 Mar  2 2006 [ 416528 00] a0002.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/arena_save/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     48 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0     451238 Mar  2 2006 [ 410976 00] _zar 
+-r-xr-xr-x   1    0    0      28645 Mar  2 2006 [ 411200 00] arena_save.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/arena_test/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     49 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0     587424 Mar  2 2006 [ 409392 00] _zar 
+-r-xr-xr-x   1    0    0      42696 Mar  2 2006 [ 409680 00] arena_test.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/endroll/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     50 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0    1130787 Mar  2 2006 [ 403952 00] _zar 
+-r-xr-xr-x   1    0    0      33168 Mar  2 2006 [ 404512 00] endroll.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/init/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     51 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0    4152836 Mar  2 2006 [ 438080 00] _zar 
+-r-xr-xr-x   1    0    0     800568 Mar  2 2006 [ 437680 00] e001system.psq 
+-r-xr-xr-x   1    0    0      35969 Mar  2 2006 [ 437648 00] init.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/intermission/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     52 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0    1032033 Mar  2 2006 [ 402192 00] _zar 
+-r-xr-xr-x   1    0    0     235288 Mar  2 2006 [ 402064 00] e002st00_1.psq 
+-r-xr-xr-x   1    0    0     142541 Mar  2 2006 [ 401984 00] intermission.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/lastsave/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     53 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0     451456 Mar  2 2006 [ 427664 00] _zar 
+-r-xr-xr-x   1    0    0      29712 Mar  2 2006 [ 427648 00] lastsave.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/link00/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     54 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0    1601364 Mar  2 2006 [ 402928 00] _zar 
+-r-xr-xr-x   1    0    0      80852 Mar  2 2006 [ 402880 00] link00.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/lobby/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     55 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0      76977 Mar  2 2006 [ 431072 00] _zar 
+-r-xr-xr-x   1    0    0      31698 Mar  2 2006 [ 431056 00] lobby.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/pic_story_e3/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     56 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0     314350 Mar  2 2006 [ 402704 00] _zar 
+-r-xr-xr-x   1    0    0      17157 Mar  2 2006 [ 402864 00] pic_story_e3.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/rsrc_e/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     57 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0      94785 Mar  2 2006 [ 412176 00] _zar 
+-r-xr-xr-x   1    0    0       3687 Mar  2 2006 [ 412160 00] rsrc_e.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/rsrc_f/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     58 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0     102277 Mar  2 2006 [ 407840 00] _zar 
+-r-xr-xr-x   1    0    0       3687 Mar  2 2006 [ 407904 00] rsrc_f.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/rsrc_g/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     59 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0     101303 Mar  2 2006 [ 413584 00] _zar 
+-r-xr-xr-x   1    0    0       3687 Mar  2 2006 [ 413568 00] rsrc_g.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/rsrc_i/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     60 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0      99818 Mar  2 2006 [ 424800 00] _zar 
+-r-xr-xr-x   1    0    0       3687 Mar  2 2006 [ 424784 00] rsrc_i.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/rsrc_s/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     61 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0      98089 Mar  2 2006 [ 420864 00] _zar 
+-r-xr-xr-x   1    0    0       3687 Mar  2 2006 [ 420912 00] rsrc_s.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/rsrc_title/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     62 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0      38718 Mar  2 2006 [ 424752 00] _zar 
+-r-xr-xr-x   1    0    0       3687 Mar  2 2006 [ 424736 00] rsrc_title.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/st0000/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     63 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0     666903 Mar  2 2006 [ 404544 00] _zar 
+-r-xr-xr-x   1    0    0      21297 Mar  2 2006 [ 404880 00] st0000.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/st0100tr/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     64 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0     939933 Mar  2 2006 [ 425712 00] _zar 
+-r-xr-xr-x   1    0    0     107653 Mar  2 2006 [ 426176 00] st0100tr.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/st0100/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     65 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0    1090818 Mar  2 2006 [ 413904 00] _zar 
+-r-xr-xr-x   1    0    0     118753 Mar  2 2006 [ 413840 00] st0100.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/st0200/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     66 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0     669308 Mar  2 2006 [ 412656 00] _zar 
+-r-xr-xr-x   1    0    0     124394 Mar  2 2006 [ 412592 00] st0200.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/st0300/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     67 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0    1020895 Mar  2 2006 [ 413056 00] _zar 
+-r-xr-xr-x   1    0    0     128515 Mar  2 2006 [ 412992 00] st0300.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/st0301/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     68 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0     757577 Mar  2 2006 [ 420992 00] _zar 
+-r-xr-xr-x   1    0    0     105709 Mar  2 2006 [ 420928 00] st0301.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/st0400/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     69 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0     870949 Mar  2 2006 [ 421456 00] _zar 
+-r-xr-xr-x   1    0    0     153842 Mar  2 2006 [ 421376 00] st0400.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/st0401_robo/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     70 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0    1151667 Mar  2 2006 [ 418800 00] _zar 
+-r-xr-xr-x   1    0    0     101319 Mar  2 2006 [ 418736 00] st0401_robo.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/st0401tr/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     71 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0     628352 Mar  2 2006 [ 407520 00] _zar 
+-r-xr-xr-x   1    0    0     133954 Mar  2 2006 [ 407440 00] st0401tr.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/st0401/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     72 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0    1397844 Mar  2 2006 [ 419472 00] _zar 
+-r-xr-xr-x   1    0    0     169475 Mar  2 2006 [ 419376 00] st0401.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/st0402_takiyama/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     73 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0     867479 Mar  2 2006 [ 417840 00] _zar 
+-r-xr-xr-x   1    0    0      72552 Mar  2 2006 [ 418272 00] st0402_takiyama.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/st0402/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     74 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0     692071 Mar  2 2006 [ 405152 00] _zar 
+-r-xr-xr-x   1    0    0     182975 Mar  2 2006 [ 405504 00] st0402.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/st0500/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     75 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0     937526 Mar  2 2006 [ 427184 00] _zar 
+-r-xr-xr-x   1    0    0     151923 Mar  2 2006 [ 427104 00] st0500.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/st0501/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     76 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0     862139 Mar  2 2006 [ 436736 00] _zar 
+-r-xr-xr-x   1    0    0     129617 Mar  2 2006 [ 436672 00] st0501.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/st0502tr/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     77 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0     231959 Mar  2 2006 [ 413712 00] _zar 
+-r-xr-xr-x   1    0    0     107565 Mar  2 2006 [ 413648 00] st0502tr.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/st0502/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     78 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0    1414745 Mar  2 2006 [ 440928 00] _zar 
+-r-xr-xr-x   1    0    0     179963 Mar  2 2006 [ 440832 00] st0502.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/st0600tr/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     79 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0    1307414 Mar  2 2006 [ 420160 00] _zar 
+-r-xr-xr-x   1    0    0     102541 Mar  2 2006 [ 420800 00] st0600tr.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/st0600/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     80 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0    1316051 Mar  2 2006 [ 440176 00] _zar 
+-r-xr-xr-x   1    0    0     122997 Mar  2 2006 [ 440112 00] st0600.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/st0700_demo/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     81 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0    1789923 Mar  2 2006 [ 423008 00] _zar 
+-r-xr-xr-x   1    0    0     142432 Mar  2 2006 [ 422928 00] st0700_demo.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/st0700tr/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     82 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0    1411209 Mar  2 2006 [ 431184 00] _zar 
+-r-xr-xr-x   1    0    0     104301 Mar  2 2006 [ 431120 00] st0700tr.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/st0700/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     83 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0    1424121 Mar  2 2006 [ 416656 00] _zar 
+-r-xr-xr-x   1    0    0     137397 Mar  2 2006 [ 416576 00] st0700.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/st0800demo/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     84 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0     409455 Mar  2 2006 [ 403744 00] _zar 
+-r-xr-xr-x   1    0    0      38952 Mar  2 2006 [ 403712 00] st0800demo.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/st0800tr/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     85 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0     878532 Mar  2 2006 [ 428624 00] _zar 
+-r-xr-xr-x   1    0    0      98724 Mar  2 2006 [ 428560 00] st0800tr.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/st0800/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     86 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0     886882 Mar  2 2006 [ 400864 00] _zar 
+-r-xr-xr-x   1    0    0     113086 Mar  2 2006 [ 400800 00] st0800.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/st0801demo/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     87 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0     432268 Mar  2 2006 [ 404928 00] _zar 
+-r-xr-xr-x   1    0    0      44414 Mar  2 2006 [ 404896 00] st0801demo.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/st0801/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     88 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0    1016004 Mar  2 2006 [ 421888 00] _zar 
+-r-xr-xr-x   1    0    0     156460 Mar  2 2006 [ 422400 00] st0801.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/st0900/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     89 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0    1223766 Mar  2 2006 [ 414528 00] _zar 
+-r-xr-xr-x   1    0    0     138413 Mar  2 2006 [ 414448 00] st0900.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/st0901/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     90 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0    1209968 Mar  2 2006 [ 401392 00] _zar 
+-r-xr-xr-x   1    0    0     160759 Mar  2 2006 [ 401312 00] st0901.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/st0902_end/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     91 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0     431750 Mar  2 2006 [ 431888 00] _zar 
+-r-xr-xr-x   1    0    0      44326 Mar  2 2006 [ 432112 00] st0902_end.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/st0902tr/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     92 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0     289343 Mar  2 2006 [ 410336 00] _zar 
+-r-xr-xr-x   1    0    0     113676 Mar  2 2006 [ 410272 00] st0902tr.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/st0902/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     93 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0     749137 Mar  2 2006 [ 437280 00] _zar 
+-r-xr-xr-x   1    0    0     216822 Mar  2 2006 [ 437168 00] st0902.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/st0903/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     94 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0     636663 Mar  2 2006 [ 434448 00] _zar 
+-r-xr-xr-x   1    0    0     171811 Mar  2 2006 [ 434768 00] st0903.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/st1000tr/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     95 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0     788790 Mar  2 2006 [ 430656 00] _zar 
+-r-xr-xr-x   1    0    0     124602 Mar  2 2006 [ 430592 00] st1000tr.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/st1000/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     96 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0    1367687 Mar  2 2006 [ 429920 00] _zar 
+-r-xr-xr-x   1    0    0     151648 Mar  2 2006 [ 429840 00] st1000.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/st1100tr/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     97 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0    1332220 Mar  2 2006 [ 436016 00] _zar 
+-r-xr-xr-x   1    0    0     127987 Mar  2 2006 [ 435952 00] st1100tr.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/st1100/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     98 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0    1362482 Mar  2 2006 [ 433776 00] _zar 
+-r-xr-xr-x   1    0    0     159653 Mar  2 2006 [ 433696 00] st1100.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/st1101/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [     99 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0     730090 Mar  2 2006 [ 415136 00] _zar 
+-r-xr-xr-x   1    0    0     132552 Mar  2 2006 [ 415504 00] st1101.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/st1102/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [    100 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0    1381894 Mar  2 2006 [ 429152 00] _zar 
+-r-xr-xr-x   1    0    0     188535 Mar  2 2006 [ 429056 00] st1102.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/st1103_demo2/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [    101 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0    1396508 Mar  2 2006 [ 432624 00] _zar 
+-r-xr-xr-x   1    0    0     148720 Mar  2 2006 [ 432544 00] st1103_demo2.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/st1103_demo/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [    102 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0     966829 Mar  2 2006 [ 409792 00] _zar 
+-r-xr-xr-x   1    0    0     156966 Mar  2 2006 [ 409712 00] st1103_demo.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/st1103/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [    103 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0     695260 Mar  2 2006 [ 410624 00] _zar 
+-r-xr-xr-x   1    0    0     265869 Mar  2 2006 [ 410480 00] st1103.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/st1104/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [    104 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0    1259232 Mar  2 2006 [ 427936 00] _zar 
+-r-xr-xr-x   1    0    0      92535 Mar  2 2006 [ 427888 00] st1104.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/st1200/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [    105 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0     771934 Mar  2 2006 [ 422544 00] _zar 
+-r-xr-xr-x   1    0    0     107971 Mar  2 2006 [ 422480 00] st1200.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/st1201/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [    106 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0     756016 Mar  2 2006 [ 406976 00] _zar 
+-r-xr-xr-x   1    0    0     131140 Mar  2 2006 [ 407360 00] st1201.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/st12_demo/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [    107 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0    1829463 Mar  2 2006 [ 411264 00] _zar 
+-r-xr-xr-x   1    0    0      74787 Mar  2 2006 [ 411216 00] st12_demo.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/st_debug/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [    108 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0     792656 Mar  2 2006 [ 424912 00] _zar 
+-r-xr-xr-x   1    0    0      76299 Mar  2 2006 [ 424864 00] st_debug.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/suspsave/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [    109 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0     339752 Mar  2 2006 [ 434880 00] _zar 
+-r-xr-xr-x   1    0    0      29909 Mar  2 2006 [ 434864 00] suspsave.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/title/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [    110 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0    1086625 Mar  2 2006 [ 408112 00] _zar 
+-r-xr-xr-x   1    0    0     235288 Mar  2 2006 [ 407920 00] e002st00_1.psq 
+-r-xr-xr-x   1    0    0      98447 Mar  2 2006 [ 408048 00] title.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/try0000/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [    111 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0     671984 Mar  2 2006 [ 432208 00] _zar 
+-r-xr-xr-x   1    0    0     102552 Mar  2 2006 [ 432144 00] try0000.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/try0001/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [    112 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0     672422 Mar  2 2006 [ 433360 00] _zar 
+-r-xr-xr-x   1    0    0      96668 Mar  2 2006 [ 433312 00] try0001.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/try0100/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [    113 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0     678339 Mar  2 2006 [ 425312 00] _zar 
+-r-xr-xr-x   1    0    0     105478 Mar  2 2006 [ 425648 00] try0100.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/try0200/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [    114 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0     857799 Mar  2 2006 [ 417408 00] _zar 
+-r-xr-xr-x   1    0    0      96692 Mar  2 2006 [ 417360 00] try0200.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/tu0000/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [    115 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0     704745 Mar  2 2006 [ 418384 00] _zar 
+-r-xr-xr-x   1    0    0     114447 Mar  2 2006 [ 418320 00] tu0000.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/tu0001/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [    116 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0     609858 Mar  2 2006 [ 405600 00] _zar 
+-r-xr-xr-x   1    0    0      91865 Mar  2 2006 [ 405904 00] tu0001.prx 
+
+Directory listing of /PSP_GAME/USRDIR/stage/tu0002/
+dr-xr-xr-x   1    0    0       2048 Mar  2 2006 [    117 02] . 
+dr-xr-xr-x   1    0    0       6144 Mar  2 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0     623923 Mar  2 2006 [ 412272 00] _zar 
+-r-xr-xr-x   1    0    0      91825 Mar  2 2006 [ 412224 00] tu0002.prx 
+=============================================================== 
+Generated on Tue 09/08/2022 at  5:37:50.36 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

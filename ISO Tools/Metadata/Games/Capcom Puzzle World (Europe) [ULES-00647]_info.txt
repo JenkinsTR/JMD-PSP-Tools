@@ -1,0 +1,582 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Capcom Puzzle World   
+Title ID: ULES-00647 
+Region: Europe  
+Languages:   
+Volume Creation Date: 2007-05-17 11:40:11 
+Volume Size: 489 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: 
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 250672
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 May 17 2007 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 May 17 2007 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Nov 14 2006 [     59 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 May 17 2007 [     22 02] .. 
+-r-xr-xr-x   1    0    0      28600 Jun 20 2006 [  80064 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     176128 Apr 26 2006 [  80080 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 Apr 30 2007 [  80560 00] PARAM.SFO 
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Feb 23 2007 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     23 02] .. 
+-r-xr-xr-x   1    0    0     490200 May 17 2007 [ 220640 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0     490544 May 17 2007 [     64 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Feb 23 2007 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 May 16 2007 [     27 02] Data 
+dr-xr-xr-x   1    0    0       2048 Feb 23 2007 [     28 02] Modules 
+dr-xr-xr-x   1    0    0       2048 May 17 2007 [     29 02] overlay 
+-r-xr-xr-x   1    0    0    2457272 May 17 2007 [ 220880 00] puzzle.prx 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     24 02] .. 
+-r-xr-xr-x   1    0    0   16820256 Nov 14 2006 [   4416 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5214848 Nov 14 2006 [    320 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Nov 14 2006 [    304 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/Data/
+dr-xr-xr-x   1    0    0       2048 May 16 2007 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 23 2007 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     30 02] BB 
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     31 02] BC 
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     32 02] BR 
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     33 02] MOVIES 
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     34 02] Menu 
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     35 02] Mice 
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     36 02] PF 
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     37 02] SBB 
+dr-xr-xr-x   1    0    0       6144 Nov 14 2006 [     38 02] Wad 
+
+Directory listing of /PSP_GAME/USRDIR/Modules/
+dr-xr-xr-x   1    0    0       2048 Feb 23 2007 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 23 2007 [     25 02] .. 
+-r-xr-xr-x   1    0    0       3264 Apr  4 2006 [  20912 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0      10928 Jul  6 2006 [  20928 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0      44432 Apr  4 2006 [  20800 00] libfont.prx 
+-r-xr-xr-x   1    0    0       3200 Jul 18 2006 [  80592 00] libheap.prx 
+-r-xr-xr-x   1    0    0      35904 Dec 15 2006 [ 235808 00] libpsmfplayer.prx 
+-r-xr-xr-x   1    0    0      20096 Jul  6 2006 [  20832 00] mpeg.prx 
+-r-xr-xr-x   1    0    0       5136 Apr  4 2006 [  20848 00] mpegbase.prx 
+-r-xr-xr-x   1    0    0       7440 Dec 15 2006 [ 235840 00] psmf.prx 
+-r-xr-xr-x   1    0    0       6864 Apr  4 2006 [  20864 00] sc_sascore.prx 
+-r-xr-xr-x   1    0    0       6400 Apr  4 2006 [  20880 00] scsascor.prx 
+-r-xr-xr-x   1    0    0       3440 Apr  4 2006 [  20896 00] videocodec.prx 
+
+Directory listing of /PSP_GAME/USRDIR/overlay/
+dr-xr-xr-x   1    0    0       2048 May 17 2007 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 23 2007 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 May  1 2007 [     41 02] block 
+
+Directory listing of /PSP_GAME/USRDIR/Data/BB/
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 May 16 2007 [     27 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     42 02] sound 
+
+Directory listing of /PSP_GAME/USRDIR/Data/BC/
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     31 02] . 
+dr-xr-xr-x   1    0    0       2048 May 16 2007 [     27 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     43 02] sound 
+
+Directory listing of /PSP_GAME/USRDIR/Data/BR/
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     32 02] . 
+dr-xr-xr-x   1    0    0       2048 May 16 2007 [     27 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     44 02] sound 
+
+Directory listing of /PSP_GAME/USRDIR/Data/MOVIES/
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     33 02] . 
+dr-xr-xr-x   1    0    0       2048 May 16 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0    4673536 Oct  9 2006 [ 222080 00] Attract1.pmf 
+-r-xr-xr-x   1    0    0    4534272 Oct  9 2006 [ 224368 00] Attract2.pmf 
+-r-xr-xr-x   1    0    0    4642816 Oct  9 2006 [ 226592 00] Attract3.pmf 
+-r-xr-xr-x   1    0    0    2426880 Sep  8 2006 [  59760 00] Intro_Sound_1020.pmf 
+-r-xr-xr-x   1    0    0     219136 Sep  8 2006 [  60960 00] PuzzleLogo2_Sound_1020.pmf 
+-r-xr-xr-x   1    0    0   19396608 Apr  4 2006 [  61072 00] TrainingDemo.pmf 
+-r-xr-xr-x   1    0    0     176128 Apr  4 2006 [  70544 00] icon1.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/Data/Menu/
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     34 02] . 
+dr-xr-xr-x   1    0    0       2048 May 16 2007 [     27 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     45 02] sound 
+
+Directory listing of /PSP_GAME/USRDIR/Data/Mice/
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     35 02] . 
+dr-xr-xr-x   1    0    0       2048 May 16 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0      10908 Apr  7 2006 [  40032 00] BlackBar.gim 
+-r-xr-xr-x   1    0    0      24512 Apr  8 2006 [  40064 00] Credit_pic_01.gim 
+-r-xr-xr-x   1    0    0      24512 Apr  8 2006 [  40080 00] Credit_pic_02.gim 
+-r-xr-xr-x   1    0    0      29760 Apr  8 2006 [  40096 00] Credits_pic_03.gim 
+-r-xr-xr-x   1    0    0      58916 Apr  9 2006 [  39984 00] akuma_background.gim 
+-r-xr-xr-x   1    0    0       7713 Apr  6 2006 [  40016 00] akuma_tile.gim 
+-r-xr-xr-x   1    0    0       7713 Apr  6 2006 [  40048 00] chun_li_tile.gim 
+-r-xr-xr-x   1    0    0       7709 Apr  6 2006 [  40112 00] dan_tile.gim 
+-r-xr-xr-x   1    0    0       7713 Apr  6 2006 [  40128 00] devilot_tile.gim 
+-r-xr-xr-x   1    0    0       7713 Apr  6 2006 [  40144 00] donovan_tile.gim 
+-r-xr-xr-x   1    0    0       7713 Apr  6 2006 [  40160 00] felicia_tile.gim 
+-r-xr-xr-x   1    0    0       2077 Apr  6 2006 [  40176 00] high_score_akuma.gim 
+-r-xr-xr-x   1    0    0       2077 Apr  6 2006 [  40192 00] high_score_chun_li.gim 
+-r-xr-xr-x   1    0    0       2073 Apr  6 2006 [  40208 00] high_score_dan.gim 
+-r-xr-xr-x   1    0    0       2077 Apr  6 2006 [  40224 00] high_score_devilot.gim 
+-r-xr-xr-x   1    0    0       2077 Apr  6 2006 [  39792 00] high_score_donovan.gim 
+-r-xr-xr-x   1    0    0       2077 Apr  6 2006 [  39808 00] high_score_felicia.gim 
+-r-xr-xr-x   1    0    0       2081 Apr  6 2006 [  39824 00] high_score_hsien_ko.gim 
+-r-xr-xr-x   1    0    0       2073 Apr  6 2006 [  39840 00] high_score_ken.gim 
+-r-xr-xr-x   1    0    0       2081 Apr  6 2006 [  39856 00] high_score_morrigan.gim 
+-r-xr-xr-x   1    0    0       2073 Apr  6 2006 [  39872 00] high_score_ryu.gim 
+-r-xr-xr-x   1    0    0       2077 Apr  6 2006 [  39888 00] high_score_sakura.gim 
+-r-xr-xr-x   1    0    0       7713 Apr  6 2006 [  39904 00] hsien_ko_tile.gim 
+-r-xr-xr-x   1    0    0       7709 Apr  6 2006 [  39920 00] ken_tile.gim 
+-r-xr-xr-x   1    0    0       7713 Apr  6 2006 [  39936 00] morrigan_tile.gim 
+-r-xr-xr-x   1    0    0       7709 Apr  6 2006 [  39952 00] ryu_tile.gim 
+-r-xr-xr-x   1    0    0       7713 Apr  6 2006 [  39968 00] sakura_tile.gim 
+
+Directory listing of /PSP_GAME/USRDIR/Data/PF/
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     36 02] . 
+dr-xr-xr-x   1    0    0       2048 May 16 2007 [     27 02] .. 
+dr-xr-xr-x   1    0    0       4096 Nov 14 2006 [     46 02] Illustrations 
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     48 02] sound 
+
+Directory listing of /PSP_GAME/USRDIR/Data/SBB/
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     37 02] . 
+dr-xr-xr-x   1    0    0       2048 May 16 2007 [     27 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     49 02] sound 
+
+Directory listing of /PSP_GAME/USRDIR/Data/Wad/
+dr-xr-xr-x   1    0    0       6144 Nov 14 2006 [     38 02] . 
+dr-xr-xr-x   1    0    0       2048 May 16 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0    2557864 May  7 2007 [  81088 00] akuma.pzp 
+-r-xr-xr-x   1    0    0     905152 May  7 2007 [  82352 00] anita.pzp 
+-r-xr-xr-x   1    0    0    2001948 May  7 2007 [  82800 00] bat.pzp 
+-r-xr-xr-x   1    0    0    9187832 May  7 2007 [  83792 00] bb.pzw 
+-r-xr-xr-x   1    0    0   12588244 May  7 2007 [  88288 00] bb_illustrations.pzp 
+-r-xr-xr-x   1    0    0   55686680 May  7 2007 [  94448 00] bbpatch.pzp 
+-r-xr-xr-x   1    0    0       1159 Aug  2 2006 [ 121648 00] bbtips.txt 
+-r-xr-xr-x   1    0    0    2098044 May  7 2007 [ 121664 00] bl_illustrations.pzp 
+-r-xr-xr-x   1    0    0    2917604 May  7 2007 [ 122704 00] br.pzw 
+-r-xr-xr-x   1    0    0     715900 May  7 2007 [ 124144 00] br_credits.pzp 
+-r-xr-xr-x   1    0    0   10490172 May  7 2007 [ 124496 00] br_illustrations.pzp 
+-r-xr-xr-x   1    0    0   18902588 May  7 2007 [ 129632 00] brpatch.pzp 
+-r-xr-xr-x   1    0    0        952 Aug  2 2006 [ 138864 00] brtips.txt 
+-r-xr-xr-x   1    0    0        978 Jul 17 2006 [ 138880 00] brtipx.txt 
+-r-xr-xr-x   1    0    0    2330976 May  7 2007 [ 138896 00] chun_li.pzp 
+-r-xr-xr-x   1    0    0       1516 Sep 11 2006 [ 140048 00] cont_01.rrd 
+-r-xr-xr-x   1    0    0       1588 Sep 11 2006 [ 140064 00] cont_02.rrd 
+-r-xr-xr-x   1    0    0        204 Sep 11 2006 [ 140080 00] cont_03.rrd 
+-r-xr-xr-x   1    0    0       1260 Sep 11 2006 [ 140096 00] cont_04.rrd 
+-r-xr-xr-x   1    0    0       1676 Sep 11 2006 [ 140112 00] cont_05.rrd 
+-r-xr-xr-x   1    0    0       1860 Sep 11 2006 [ 140128 00] cont_06.rrd 
+-r-xr-xr-x   1    0    0       2084 Sep 11 2006 [ 140144 00] cont_07.rrd 
+-r-xr-xr-x   1    0    0       2340 Sep 11 2006 [ 140160 00] cont_08.rrd 
+-r-xr-xr-x   1    0    0       2612 Sep 11 2006 [ 140176 00] cont_09.rrd 
+-r-xr-xr-x   1    0    0       2380 Sep 11 2006 [ 140192 00] cont_10.rrd 
+-r-xr-xr-x   1    0    0    8339804 May  7 2007 [ 140208 00] credits.pzp 
+-r-xr-xr-x   1    0    0    1433628 May  7 2007 [ 144288 00] dan.pzp 
+-r-xr-xr-x   1    0    0     515556 May  7 2007 [ 144992 00] dan_ew.pzp 
+-r-xr-xr-x   1    0    0      11784 May  7 2007 [ 145248 00] debug.str 
+-r-xr-xr-x   1    0    0    2291132 May  7 2007 [ 145264 00] devilot.pzp 
+-r-xr-xr-x   1    0    0    1904052 May  7 2007 [ 146384 00] donovan.pzp 
+-r-xr-xr-x   1    0    0      22588 May  7 2007 [ 147328 00] english.str 
+-r-xr-xr-x   1    0    0    2053752 May  7 2007 [ 147344 00] felicia.pzp 
+-r-xr-xr-x   1    0    0       3600 May  7 2007 [ 148352 00] french.str 
+-r-xr-xr-x   1    0    0    4235588 May  7 2007 [ 148368 00] frontmenu.pzw 
+-r-xr-xr-x   1    0    0     323744 May  7 2007 [ 150448 00] ge.pzp 
+-r-xr-xr-x   1    0    0       3600 May  7 2007 [ 150608 00] german.str 
+-r-xr-xr-x   1    0    0    1133508 May  7 2007 [ 150624 00] hardwin.pzp 
+-r-xr-xr-x   1    0    0    2293176 May  7 2007 [ 151184 00] hsien_ko.pzp 
+-r-xr-xr-x   1    0    0       1516 Sep 22 2006 [ 152304 00] inter_01.rrd 
+-r-xr-xr-x   1    0    0       1588 Sep 11 2006 [ 152320 00] inter_02.rrd 
+-r-xr-xr-x   1    0    0        204 Sep 11 2006 [ 152336 00] inter_03.rrd 
+-r-xr-xr-x   1    0    0       1260 Sep 12 2006 [ 152352 00] inter_04.rrd 
+-r-xr-xr-x   1    0    0       1676 Sep 12 2006 [ 152368 00] inter_05.rrd 
+-r-xr-xr-x   1    0    0       1860 Sep 11 2006 [ 152384 00] inter_06.rrd 
+-r-xr-xr-x   1    0    0       2084 Sep 11 2006 [ 152400 00] inter_07.rrd 
+-r-xr-xr-x   1    0    0       2340 Sep 11 2006 [ 152416 00] inter_08.rrd 
+-r-xr-xr-x   1    0    0       2612 Sep 13 2006 [ 152432 00] inter_09.rrd 
+-r-xr-xr-x   1    0    0       2380 Sep 11 2006 [ 152448 00] inter_10.rrd 
+-r-xr-xr-x   1    0    0       5396 May  7 2007 [ 152464 00] japanese.str 
+-r-xr-xr-x   1    0    0    2038788 May  7 2007 [ 152480 00] ken.pzp 
+-r-xr-xr-x   1    0    0    1120452 May  7 2007 [ 153488 00] lielie.pzp 
+-r-xr-xr-x   1    0    0    1098860 May  7 2007 [ 154048 00] menu.pzw 
+-r-xr-xr-x   1    0    0     522448 Apr 18 2006 [ 154592 00] metallic_background.gim 
+-r-xr-xr-x   1    0    0    1731472 May  7 2007 [ 154848 00] morrigan.pzp 
+-r-xr-xr-x   1    0    0      62540 Jan 23 2006 [ 155696 00] new_challenger_cycle.gim 
+-r-xr-xr-x   1    0    0     204072 Jan 23 2006 [ 155728 00] new_challenger_flash.gim 
+-r-xr-xr-x   1    0    0     102189 Jan 23 2006 [ 155840 00] new_challenger_grid.gim 
+-r-xr-xr-x   1    0    0      26056 Feb 17 2006 [ 155904 00] new_player_cycle.gim 
+-r-xr-xr-x   1    0    0      25512 Feb 17 2006 [ 155920 00] new_player_flash.gim 
+-r-xr-xr-x   1    0    0    8815904 May  7 2007 [ 155936 00] pf.pzw 
+-r-xr-xr-x   1    0    0     495696 May  7 2007 [ 160256 00] pfcredits.pzp 
+-r-xr-xr-x   1    0    0   62042480 May  7 2007 [ 160512 00] pfillustrations.pzp 
+-r-xr-xr-x   1    0    0    5869360 May  7 2007 [ 190816 00] pfintermissions.pzp 
+-r-xr-xr-x   1    0    0       1069 Aug  4 2006 [ 193696 00] pftips.txt 
+-r-xr-xr-x   1    0    0     522460 Jan 12 2007 [ 193712 00] puzzleworld_Static.gim 
+-r-xr-xr-x   1    0    0    1861224 May  7 2007 [ 193968 00] ryu.pzp 
+-r-xr-xr-x   1    0    0    2404344 May  7 2007 [ 194880 00] sakura.pzp 
+-r-xr-xr-x   1    0    0    4320944 May  7 2007 [ 196064 00] sb.pzw 
+-r-xr-xr-x   1    0    0    8392156 May  7 2007 [ 198176 00] sb_illustrations.pzp 
+-r-xr-xr-x   1    0    0   18874612 May  7 2007 [ 202288 00] sbbpatch.pzp 
+-r-xr-xr-x   1    0    0       1138 Aug  7 2006 [ 211520 00] sbtips.txt 
+-r-xr-xr-x   1    0    0     297680 Jan 23 2006 [ 211536 00] start_screen.gim 
+-r-xr-xr-x   1    0    0     176608 May  7 2007 [ 211696 00] training.pzp 
+-r-xr-xr-x   1    0    0     500308 May  7 2007 [ 211792 00] txt.pzw 
+
+Directory listing of /PSP_GAME/USRDIR/overlay/block/
+dr-xr-xr-x   1    0    0       2048 May  1 2007 [     41 02] . 
+dr-xr-xr-x   1    0    0       2048 May 17 2007 [     29 02] .. 
+-r-xr-xr-x   1    0    0     620204 Dec 15 2006 [ 229040 00] BLOKBLOK.PRX 
+-r-xr-xr-x   1    0    0   12916736 Nov  8 2006 [ 229360 00] BLOKBLOK.SR 
+-r-xr-xr-x   1    0    0     244736 Nov  7 2006 [ 235680 00] CPW_FW.SR 
+-r-xr-xr-x   1    0    0       2984 Nov 14 2006 [ 229344 00] blockblock_stub.a 
+
+Directory listing of /PSP_GAME/USRDIR/Data/BB/sound/
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     42 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     30 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     50 02] at3 
+
+Directory listing of /PSP_GAME/USRDIR/Data/BC/sound/
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     43 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     31 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     51 02] at3 
+
+Directory listing of /PSP_GAME/USRDIR/Data/BR/sound/
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     44 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     32 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     52 02] at3 
+
+Directory listing of /PSP_GAME/USRDIR/Data/Menu/sound/
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     45 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     34 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     53 02] at3 
+
+Directory listing of /PSP_GAME/USRDIR/Data/PF/Illustrations/
+dr-xr-xr-x   1    0    0       4096 Nov 14 2006 [     46 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     36 02] .. 
+-r-xr-xr-x   1    0    0     377036 Mar 17 2006 [  72768 00] dbfont.gim 
+-r-xr-xr-x   1    0    0     377036 Aug  8 2006 [  72960 00] p01a.gim 
+-r-xr-xr-x   1    0    0     377036 Aug  8 2006 [  73152 00] p01b.gim 
+-r-xr-xr-x   1    0    0     377036 Aug  8 2006 [  73344 00] p01c.gim 
+-r-xr-xr-x   1    0    0     377036 Aug  8 2006 [  73536 00] p01d.gim 
+-r-xr-xr-x   1    0    0     377036 Aug  8 2006 [  73728 00] p02a.gim 
+-r-xr-xr-x   1    0    0     377036 Aug  8 2006 [  73920 00] p02b.gim 
+-r-xr-xr-x   1    0    0     377032 Sep  8 2006 [  74112 00] p02c.gim 
+-r-xr-xr-x   1    0    0     377036 Sep  8 2006 [  74304 00] p02d.gim 
+-r-xr-xr-x   1    0    0     377036 Aug  8 2006 [  74496 00] p03a.gim 
+-r-xr-xr-x   1    0    0     377036 Aug  8 2006 [  74688 00] p03b.gim 
+-r-xr-xr-x   1    0    0     377036 Aug  8 2006 [  74880 00] p03c.gim 
+-r-xr-xr-x   1    0    0     377036 Aug  8 2006 [  75072 00] p03d.gim 
+-r-xr-xr-x   1    0    0     368844 Aug  8 2006 [  75264 00] p04a.gim 
+-r-xr-xr-x   1    0    0     368844 Aug  8 2006 [  75456 00] p04b.gim 
+-r-xr-xr-x   1    0    0     368844 Aug  8 2006 [  75648 00] p04c.gim 
+-r-xr-xr-x   1    0    0     368844 Aug  8 2006 [  75840 00] p04d.gim 
+-r-xr-xr-x   1    0    0     377036 Aug  8 2006 [  76032 00] p05a.gim 
+-r-xr-xr-x   1    0    0     377036 Aug  8 2006 [  76224 00] p05b.gim 
+-r-xr-xr-x   1    0    0     377036 Aug  8 2006 [  76416 00] p05c.gim 
+-r-xr-xr-x   1    0    0     377036 Aug  8 2006 [  76608 00] p05d.gim 
+-r-xr-xr-x   1    0    0     377036 Aug  8 2006 [  76800 00] p06a.gim 
+-r-xr-xr-x   1    0    0     368844 Aug  8 2006 [  76992 00] p06b.gim 
+-r-xr-xr-x   1    0    0     377036 Aug  8 2006 [  77184 00] p06c.gim 
+-r-xr-xr-x   1    0    0     368844 Aug  8 2006 [  77376 00] p06d.gim 
+-r-xr-xr-x   1    0    0     377036 Aug  8 2006 [  77568 00] p07a.gim 
+-r-xr-xr-x   1    0    0     377036 Aug  8 2006 [  77760 00] p07b.gim 
+-r-xr-xr-x   1    0    0     377036 Aug  8 2006 [  77952 00] p07c.gim 
+-r-xr-xr-x   1    0    0     377036 Aug  8 2006 [  78144 00] p07d.gim 
+-r-xr-xr-x   1    0    0     368844 Aug  8 2006 [  78336 00] p08a.gim 
+-r-xr-xr-x   1    0    0     368844 Aug  8 2006 [  78528 00] p08b.gim 
+-r-xr-xr-x   1    0    0     368844 Aug  8 2006 [  78720 00] p08c.gim 
+-r-xr-xr-x   1    0    0     368844 Aug  8 2006 [  78912 00] p08d.gim 
+-r-xr-xr-x   1    0    0     377036 Aug  8 2006 [  79104 00] p09a.gim 
+-r-xr-xr-x   1    0    0     377036 Aug  8 2006 [  79296 00] p09b.gim 
+-r-xr-xr-x   1    0    0     377036 Aug  8 2006 [  79488 00] p09c.gim 
+-r-xr-xr-x   1    0    0     377036 Aug  8 2006 [  79680 00] p09d.gim 
+-r-xr-xr-x   1    0    0     377036 Aug  8 2006 [  79872 00] p10a.gim 
+-r-xr-xr-x   1    0    0     377036 Aug  8 2006 [  70640 00] p10b.gim 
+-r-xr-xr-x   1    0    0     377036 Aug  8 2006 [  70832 00] p10c.gim 
+-r-xr-xr-x   1    0    0     377036 Aug  8 2006 [  71024 00] p10d.gim 
+-r-xr-xr-x   1    0    0     377036 Aug  8 2006 [  71216 00] p11a.gim 
+-r-xr-xr-x   1    0    0     377036 Aug  8 2006 [  71408 00] p11b.gim 
+-r-xr-xr-x   1    0    0     377036 Aug  8 2006 [  71600 00] p11c.gim 
+-r-xr-xr-x   1    0    0     368840 Sep  8 2006 [  71792 00] p11d.gim 
+-r-xr-xr-x   1    0    0     377036 Aug  8 2006 [  71984 00] p12a.gim 
+-r-xr-xr-x   1    0    0     368844 Aug  8 2006 [  72176 00] p12b.gim 
+-r-xr-xr-x   1    0    0     368844 Aug  8 2006 [  72368 00] p12c.gim 
+-r-xr-xr-x   1    0    0     368840 Sep  8 2006 [  72560 00] p12d.gim 
+-r-xr-xr-x   1    0    0      23392 Apr 26 2006 [  72752 00] text_box_alpha.gim 
+
+Directory listing of /PSP_GAME/USRDIR/Data/PF/sound/
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     48 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     36 02] .. 
+dr-xr-xr-x   1    0    0       4096 Feb 23 2007 [     54 02] at3 
+
+Directory listing of /PSP_GAME/USRDIR/Data/SBB/sound/
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     49 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     37 02] .. 
+dr-xr-xr-x   1    0    0       4096 Nov 14 2006 [     56 02] at3 
+
+Directory listing of /PSP_GAME/USRDIR/Data/BB/sound/at3/
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     50 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     42 02] .. 
+-r-xr-xr-x   1    0    0     400004 Mar  9 2006 [ 212048 00] bb_20sec.at3 
+-r-xr-xr-x   1    0    0     202884 Mar  7 2006 [ 212256 00] bb_20sec_LP.at3 
+-r-xr-xr-x   1    0    0    1101684 Mar  9 2006 [ 212368 00] bb_beglvl1.at3 
+-r-xr-xr-x   1    0    0     280164 Mar  7 2006 [ 212912 00] bb_beglvl1_LP.at3 
+-r-xr-xr-x   1    0    0    1116804 Mar  9 2006 [ 213056 00] bb_beglvl1_RM.at3 
+-r-xr-xr-x   1    0    0    1138084 Mar  9 2006 [ 213616 00] bb_beglvl2.at3 
+-r-xr-xr-x   1    0    0     230324 Mar  7 2006 [ 214176 00] bb_beglvl2_LP.at3 
+-r-xr-xr-x   1    0    0    1122404 Mar  9 2006 [ 214304 00] bb_beglvl2_RM.at3 
+-r-xr-xr-x   1    0    0    1133044 Mar  9 2006 [ 214864 00] bb_beglvl3.at3 
+-r-xr-xr-x   1    0    0     360804 Mar  7 2006 [ 215424 00] bb_beglvl3_LP.at3 
+-r-xr-xr-x   1    0    0    1139204 Mar  9 2006 [ 215616 00] bb_beglvl3_RM.at3 
+-r-xr-xr-x   1    0    0    1126884 Mar  9 2006 [ 216176 00] bb_beglvl4.at3 
+-r-xr-xr-x   1    0    0     197844 Mar  7 2006 [ 216736 00] bb_beglvl4_LP.at3 
+-r-xr-xr-x   1    0    0    1125204 Mar  9 2006 [ 216848 00] bb_beglvl4_RM.at3 
+-r-xr-xr-x   1    0    0    1120164 Mar  9 2006 [ 217408 00] bb_beglvl5.at3 
+-r-xr-xr-x   1    0    0     354084 Mar  7 2006 [ 217968 00] bb_beglvl5_LP.at3 
+-r-xr-xr-x   1    0    0    1145924 Mar  9 2006 [ 218144 00] bb_beglvl5_RM.at3 
+-r-xr-xr-x   1    0    0     500804 Mar  9 2006 [ 218704 00] bb_cont.at3 
+-r-xr-xr-x   1    0    0     169284 Mar  7 2006 [ 218960 00] bb_cont_LP.at3 
+-r-xr-xr-x   1    0    0     350724 Oct 13 2006 [ 228864 00] bb_initials.at3 
+-r-xr-xr-x   1    0    0      39364 Mar  9 2006 [ 219056 00] bb_lvlcomp.at3 
+-r-xr-xr-x   1    0    0     427444 Sep 18 2006 [ 219088 00] bb_panic162.at3 
+-r-xr-xr-x   1    0    0     354644 Sep 18 2006 [ 219312 00] bb_panic192.at3 
+-r-xr-xr-x   1    0    0     139044 Sep 18 2006 [ 219488 00] bb_panicmode3.at3 
+-r-xr-xr-x   1    0    0     774084 Mar  9 2006 [ 219568 00] bb_selmenu.at3 
+-r-xr-xr-x   1    0    0      78564 Mar  7 2006 [ 219952 00] bb_selmenu_LP.at3 
+-r-xr-xr-x   1    0    0     765684 Mar  9 2006 [ 220000 00] bb_stagesel.at3 
+-r-xr-xr-x   1    0    0     505284 Mar  9 2006 [ 220384 00] bb_wc.at3 
+
+Directory listing of /PSP_GAME/USRDIR/Data/BC/sound/at3/
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     51 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     43 02] .. 
+-r-xr-xr-x   1    0    0     205124 Feb 17 2006 [  24400 00] BGM_10_ST.at3 
+-r-xr-xr-x   1    0    0     267844 Feb 17 2006 [  24512 00] BGM_11_ST.at3 
+-r-xr-xr-x   1    0    0     232004 Feb 17 2006 [  24656 00] BGM_12_ST.at3 
+-r-xr-xr-x   1    0    0     503604 Feb 17 2006 [  24784 00] BGM_13_ST.at3 
+-r-xr-xr-x   1    0    0     338404 Feb 17 2006 [  25040 00] BGM_14_ST.at3 
+-r-xr-xr-x   1    0    0     285204 Feb 17 2006 [  25216 00] BGM_15_ST.at3 
+-r-xr-xr-x   1    0    0     545604 Feb 17 2006 [  25360 00] BGM_16_ST.at3 
+-r-xr-xr-x   1    0    0     478404 Feb 17 2006 [  25632 00] BGM_17_ST.at3 
+-r-xr-xr-x   1    0    0     249364 Feb 17 2006 [  25872 00] BGM_18_LONG_ST.at3 
+-r-xr-xr-x   1    0    0     125044 Feb 17 2006 [  26000 00] BGM_18_ST.at3 
+-r-xr-xr-x   1    0    0     124484 Feb 17 2006 [  26064 00] BGM_18_ST_2.at3 
+-r-xr-xr-x   1    0    0     404484 Feb 17 2006 [  26128 00] BGM_19_LONG_ST.at3 
+-r-xr-xr-x   1    0    0     243764 Feb 17 2006 [  20944 00] BGM_19_ST.at3 
+-r-xr-xr-x   1    0    0     483444 Feb 17 2006 [  21072 00] BGM_20_ST.at3 
+-r-xr-xr-x   1    0    0     479524 Feb 17 2006 [  21312 00] BGM_21_ST.at3 
+-r-xr-xr-x   1    0    0     579764 Feb 17 2006 [  21552 00] BGM_25_ST.at3 
+-r-xr-xr-x   1    0    0     485124 Feb 17 2006 [  21840 00] BGM_26_ST.at3 
+-r-xr-xr-x   1    0    0     618404 Feb 17 2006 [  22080 00] BGM_27_ST.at3 
+-r-xr-xr-x   1    0    0     480644 Feb 17 2006 [  22384 00] BGM_28_ST.at3 
+-r-xr-xr-x   1    0    0     486244 Feb 17 2006 [  22624 00] BGM_29_ST.at3 
+-r-xr-xr-x   1    0    0     328884 Feb 17 2006 [  23344 00] BGM_2_ST.at3 
+-r-xr-xr-x   1    0    0     225284 Feb 17 2006 [  22864 00] BGM_30_ST.at3 
+-r-xr-xr-x   1    0    0     687284 Feb 17 2006 [  22976 00] BGM_32_ST.at3 
+-r-xr-xr-x   1    0    0     129524 Feb 17 2006 [  23520 00] BGM_4_ST.at3 
+-r-xr-xr-x   1    0    0     416804 Feb 17 2006 [  23584 00] BGM_5_ST.at3 
+-r-xr-xr-x   1    0    0     490164 Feb 17 2006 [  23792 00] BGM_6_mewST.at3 
+-r-xr-xr-x   1    0    0     167604 Feb 17 2006 [  24032 00] BGM_7_ST.at3 
+-r-xr-xr-x   1    0    0     484564 Feb 17 2006 [  24128 00] BGM_8_ST.at3 
+-r-xr-xr-x   1    0    0      37684 Feb 17 2006 [  24368 00] BGM_9_ST.at3 
+-r-xr-xr-x   1    0    0      37684 Feb 17 2006 [  23312 00] BGM_win_ST.at3 
+
+Directory listing of /PSP_GAME/USRDIR/Data/BR/sound/at3/
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     52 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     44 02] .. 
+-r-xr-xr-x   1    0    0     408964 Mar  9 2006 [  34160 00] br_20sec.at3 
+-r-xr-xr-x   1    0    0     476724 Mar  9 2006 [  34368 00] br_50sec.at3 
+-r-xr-xr-x   1    0    0     355764 Mar  9 2006 [  34608 00] br_cont.at3 
+-r-xr-xr-x   1    0    0      88644 Mar  9 2006 [  34784 00] br_gameover.at3 
+-r-xr-xr-x   1    0    0     517044 Mar  9 2006 [  34832 00] br_highscore.at3 
+-r-xr-xr-x   1    0    0    1130804 Mar  9 2006 [  35088 00] br_lvl1.at3 
+-r-xr-xr-x   1    0    0    1131924 Mar  9 2006 [  26336 00] br_lvl10.at3 
+-r-xr-xr-x   1    0    0    1126324 Mar 27 2006 [  26896 00] br_lvl10_RM.at3 
+-r-xr-xr-x   1    0    0    1135844 Mar  9 2006 [  27456 00] br_lvl13.at3 
+-r-xr-xr-x   1    0    0    1089924 Mar 27 2006 [  28016 00] br_lvl13_RM.at3 
+-r-xr-xr-x   1    0    0    1102804 Mar  9 2006 [  28560 00] br_lvl16.at3 
+-r-xr-xr-x   1    0    0    1157684 Mar  9 2006 [  29104 00] br_lvl16_RM.at3 
+-r-xr-xr-x   1    0    0    1021604 Mar  9 2006 [  29680 00] br_lvl19.at3 
+-r-xr-xr-x   1    0    0    1063604 Mar  9 2006 [  30192 00] br_lvl19_RM.at3 
+-r-xr-xr-x   1    0    0    1153764 Mar 27 2006 [  35648 00] br_lvl1_RM.at3 
+-r-xr-xr-x   1    0    0    1005364 Mar  9 2006 [  30720 00] br_lvl22.at3 
+-r-xr-xr-x   1    0    0     996404 Mar  9 2006 [  31216 00] br_lvl22_RM.at3 
+-r-xr-xr-x   1    0    0     985764 Mar  9 2006 [  31712 00] br_lvl25.at3 
+-r-xr-xr-x   1    0    0     993044 Mar  9 2006 [  32208 00] br_lvl25_RM.at3 
+-r-xr-xr-x   1    0    0     946564 Mar  9 2006 [  32704 00] br_lvl28.at3 
+-r-xr-xr-x   1    0    0     963924 Mar  9 2006 [  33168 00] br_lvl28_RM.at3 
+-r-xr-xr-x   1    0    0     946564 Mar  9 2006 [  33648 00] br_lvl31.at3 
+-r-xr-xr-x   1    0    0    1128004 Mar  9 2006 [  36224 00] br_lvl4.at3 
+-r-xr-xr-x   1    0    0    1061364 Mar 27 2006 [  36784 00] br_lvl4_RM.at3 
+-r-xr-xr-x   1    0    0    1134724 Mar  9 2006 [  37312 00] br_lvl7.at3 
+-r-xr-xr-x   1    0    0    1097764 Mar 27 2006 [  37872 00] br_lvl7_RM.at3 
+-r-xr-xr-x   1    0    0      74084 Mar  9 2006 [  34112 00] br_lvltrans.at3 
+
+Directory listing of /PSP_GAME/USRDIR/Data/Menu/sound/at3/
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     53 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     45 02] .. 
+-r-xr-xr-x   1    0    0     484004 Sep  8 2006 [  80848 00] BGM_08.at3 
+-r-xr-xr-x   1    0    0     226404 Apr 19 2006 [  38416 00] CCSSPW_Sequence.at3 
+-r-xr-xr-x   1    0    0     178244 Mar 17 2006 [  39696 00] CCSS_Sequence.at3 
+-r-xr-xr-x   1    0    0     429124 Jan  4 2006 [  38720 00] PF_BGM_12.at3 
+-r-xr-xr-x   1    0    0      50564 Jan  4 2006 [  38944 00] PF_BGM_15.at3 
+-r-xr-xr-x   1    0    0    1054992 Dec 22 2005 [  38976 00] at3out.at3 
+-r-xr-xr-x   1    0    0     378164 Apr 20 2006 [  39504 00] attraction.at3 
+-r-xr-xr-x   1    0    0     370884 Jun  1 2006 [  80176 00] attraction1.at3 
+-r-xr-xr-x   1    0    0     388244 Jun  1 2006 [  80368 00] attraction2.at3 
+-r-xr-xr-x   1    0    0     371444 Apr 20 2006 [  38528 00] credit_LP.at3 
+-r-xr-xr-x   1    0    0      19204 Sep  1 2006 [  80576 00] pzl_logo2.at3 
+
+Directory listing of /PSP_GAME/USRDIR/Data/PF/sound/at3/
+dr-xr-xr-x   1    0    0       4096 Feb 23 2007 [     54 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     48 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 23 2007 [     58 02] CVS 
+-r-xr-xr-x   1    0    0    1194644 Jan  4 2006 [ 235920 00] PF_BGM_00.at3 
+-r-xr-xr-x   1    0    0     769604 Jan  4 2006 [ 236512 00] PF_BGM_01.at3 
+-r-xr-xr-x   1    0    0     745524 Jan  4 2006 [ 236896 00] PF_BGM_02.at3 
+-r-xr-xr-x   1    0    0    1311684 Jan  4 2006 [ 237264 00] PF_BGM_03.at3 
+-r-xr-xr-x   1    0    0    1011524 Jan  4 2006 [ 237920 00] PF_BGM_04.at3 
+-r-xr-xr-x   1    0    0     454884 Jan  4 2006 [ 238416 00] PF_BGM_05.at3 
+-r-xr-xr-x   1    0    0     575284 Jan  4 2006 [ 238640 00] PF_BGM_06.at3 
+-r-xr-xr-x   1    0    0     612244 Jan  4 2006 [ 238928 00] PF_BGM_07.at3 
+-r-xr-xr-x   1    0    0     597124 Jan  4 2006 [ 239232 00] PF_BGM_08.at3 
+-r-xr-xr-x   1    0    0     680004 Jan  4 2006 [ 239536 00] PF_BGM_09.at3 
+-r-xr-xr-x   1    0    0    1302724 Jan  4 2006 [ 239872 00] PF_BGM_10.at3 
+-r-xr-xr-x   1    0    0     256084 Jan  4 2006 [ 240512 00] PF_BGM_11.at3 
+-r-xr-xr-x   1    0    0     429124 Jan  4 2006 [ 240640 00] PF_BGM_12.at3 
+-r-xr-xr-x   1    0    0     491284 Jan  4 2006 [ 240864 00] PF_BGM_13.at3 
+-r-xr-xr-x   1    0    0      66804 Jan  4 2006 [ 241104 00] PF_BGM_14.at3 
+-r-xr-xr-x   1    0    0      50564 Jan  4 2006 [ 241152 00] PF_BGM_15.at3 
+-r-xr-xr-x   1    0    0     106564 Jan  4 2006 [ 241184 00] PF_BGM_16.at3 
+-r-xr-xr-x   1    0    0     120564 Jan  4 2006 [ 241248 00] PF_BGM_17.at3 
+-r-xr-xr-x   1    0    0      35444 Jan  4 2006 [ 241312 00] PF_BGM_18.at3 
+-r-xr-xr-x   1    0    0      56164 Jan  4 2006 [ 241344 00] PF_BGM_19.at3 
+-r-xr-xr-x   1    0    0      36004 Jan  4 2006 [ 241376 00] PF_BGM_20.at3 
+-r-xr-xr-x   1    0    0      68484 Jan  4 2006 [ 241408 00] PF_BGM_21.at3 
+-r-xr-xr-x   1    0    0     846884 Jan  4 2006 [ 241456 00] PF_BGM_22.at3 
+-r-xr-xr-x   1    0    0    1061364 Jan  4 2006 [ 241872 00] PF_BGM_23.at3 
+-r-xr-xr-x   1    0    0     781924 Jan  4 2006 [ 242400 00] PF_BGM_24.at3 
+-r-xr-xr-x   1    0    0     715284 Jan  4 2006 [ 242784 00] PF_BGM_25.at3 
+-r-xr-xr-x   1    0    0     659284 Jan  4 2006 [ 243136 00] PF_BGM_26.at3 
+-r-xr-xr-x   1    0    0     554004 Jan  4 2006 [ 243472 00] PF_BGM_27.at3 
+-r-xr-xr-x   1    0    0     454884 Jan  4 2006 [ 243744 00] PF_BGM_28.at3 
+-r-xr-xr-x   1    0    0     694564 Jan  4 2006 [ 243968 00] PF_BGM_29.at3 
+-r-xr-xr-x   1    0    0     618404 Jan  4 2006 [ 244320 00] PF_BGM_30.at3 
+-r-xr-xr-x   1    0    0    1161044 Jan  4 2006 [ 244624 00] PF_BGM_31.at3 
+-r-xr-xr-x   1    0    0     659284 Jan  4 2006 [ 245200 00] PF_BGM_32.at3 
+-r-xr-xr-x   1    0    0     940404 Jan  4 2006 [ 245536 00] PF_BGM_33.at3 
+-r-xr-xr-x   1    0    0     265044 Jan  4 2006 [ 246000 00] PF_BGM_34.at3 
+-r-xr-xr-x   1    0    0     440324 Jan  4 2006 [ 246144 00] PF_BGM_35.at3 
+-r-xr-xr-x   1    0    0     328884 Jan  4 2006 [ 246368 00] PF_BGM_36.at3 
+-r-xr-xr-x   1    0    0      66244 Jan  4 2006 [ 246544 00] PF_BGM_37.at3 
+-r-xr-xr-x   1    0    0      55044 Jan  4 2006 [ 246592 00] PF_BGM_38.at3 
+-r-xr-xr-x   1    0    0     220804 Jan  4 2006 [ 246624 00] PF_BGM_39.at3 
+-r-xr-xr-x   1    0    0     120004 Jan  4 2006 [ 246736 00] PF_BGM_40.at3 
+-r-xr-xr-x   1    0    0      36004 Jan  4 2006 [ 246800 00] PF_BGM_41.at3 
+-r-xr-xr-x   1    0    0      50564 Jan  4 2006 [ 246832 00] PF_BGM_42.at3 
+-r-xr-xr-x   1    0    0      43284 Jan  4 2006 [ 246864 00] PF_BGM_43.at3 
+-r-xr-xr-x   1    0    0      75204 Jan  4 2006 [ 246896 00] PF_BGM_44.at3 
+-r-xr-xr-x   1    0    0     855844 Jan  4 2006 [ 246944 00] PF_BGM_45.at3 
+-r-xr-xr-x   1    0    0     104884 Jan  4 2006 [ 247376 00] PF_BGM_46.at3 
+-r-xr-xr-x   1    0    0     776884 Jan  4 2006 [ 247440 00] PF_BGM_47.at3 
+-r-xr-xr-x   1    0    0    2911604 Jan  4 2006 [ 247824 00] PF_BGM_48.at3 
+-r-xr-xr-x   1    0    0    2886404 Jan  4 2006 [ 249248 00] PF_BGM_49.at3 
+
+Directory listing of /PSP_GAME/USRDIR/Data/SBB/sound/at3/
+dr-xr-xr-x   1    0    0       4096 Nov 14 2006 [     56 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 14 2006 [     49 02] .. 
+-r-xr-xr-x   1    0    0     209044 Mar  9 2006 [  45296 00] sbb_20sec.at3 
+-r-xr-xr-x   1    0    0     363044 Sep  5 2006 [  80608 00] sbb_Panic162.at3 
+-r-xr-xr-x   1    0    0     750564 Mar 27 2006 [  43072 00] sbb_Panic162_RM.at3 
+-r-xr-xr-x   1    0    0      72964 Sep  5 2006 [  80800 00] sbb_Panic192.at3 
+-r-xr-xr-x   1    0    0     633524 Mar 27 2006 [  43440 00] sbb_Panic192_RM.at3 
+-r-xr-xr-x   1    0    0     128404 Mar  9 2006 [  45408 00] sbb_asiacomp.at3 
+-r-xr-xr-x   1    0    0     375364 Mar  9 2006 [  45472 00] sbb_cont.at3 
+-r-xr-xr-x   1    0    0      73524 Mar  9 2006 [  45664 00] sbb_finalwin.at3 
+-r-xr-xr-x   1    0    0      47764 Mar  9 2006 [  45712 00] sbb_gameover.at3 
+-r-xr-xr-x   1    0    0    1137524 Mar  9 2006 [  45744 00] sbb_lvl1.at3 
+-r-xr-xr-x   1    0    0    1126884 Mar  9 2006 [  50304 00] sbb_lvl11.at3 
+-r-xr-xr-x   1    0    0    1152644 Mar 27 2006 [  50864 00] sbb_lvl11_RM.at3 
+-r-xr-xr-x   1    0    0    1131924 Mar  9 2006 [  51440 00] sbb_lvl14.at3 
+-r-xr-xr-x   1    0    0    1105604 Mar 27 2006 [  52000 00] sbb_lvl14_RM.at3 
+-r-xr-xr-x   1    0    0    1101684 Mar  9 2006 [  52544 00] sbb_lvl17.at3 
+-r-xr-xr-x   1    0    0    1054084 Mar 27 2006 [  53088 00] sbb_lvl17_RM.at3 
+-r-xr-xr-x   1    0    0    1153764 Mar 27 2006 [  46304 00] sbb_lvl1_RM.at3 
+-r-xr-xr-x   1    0    0    1134724 Mar  9 2006 [  46880 00] sbb_lvl2.at3 
+-r-xr-xr-x   1    0    0    1142004 Mar  9 2006 [  53616 00] sbb_lvl20.at3 
+-r-xr-xr-x   1    0    0    1111764 Mar 27 2006 [  54176 00] sbb_lvl20_RM.at3 
+-r-xr-xr-x   1    0    0    1129684 Mar  9 2006 [  54720 00] sbb_lvl23.at3 
+-r-xr-xr-x   1    0    0    1156004 Mar 27 2006 [  55280 00] sbb_lvl23_RM.at3 
+-r-xr-xr-x   1    0    0    1130244 Mar  9 2006 [  55856 00] sbb_lvl26.at3 
+-r-xr-xr-x   1    0    0    1114564 Mar 27 2006 [  56416 00] sbb_lvl26_RM.at3 
+-r-xr-xr-x   1    0    0    1144804 Mar  9 2006 [  56976 00] sbb_lvl29.at3 
+-r-xr-xr-x   1    0    0    1169444 Mar 27 2006 [  57536 00] sbb_lvl29_RM.at3 
+-r-xr-xr-x   1    0    0    1154324 Mar 27 2006 [  47440 00] sbb_lvl2_RM.at3 
+-r-xr-xr-x   1    0    0    1142564 Mar  9 2006 [  58112 00] sbb_lvl32.at3 
+-r-xr-xr-x   1    0    0    1103924 Mar 27 2006 [  58672 00] sbb_lvl32_RM.at3 
+-r-xr-xr-x   1    0    0    1113444 Mar  9 2006 [  59216 00] sbb_lvl35.at3 
+-r-xr-xr-x   1    0    0    1108404 Mar 27 2006 [  40240 00] sbb_lvl35_RM.at3 
+-r-xr-xr-x   1    0    0    1133044 Mar  9 2006 [  40784 00] sbb_lvl36.at3 
+-r-xr-xr-x   1    0    0    1123524 Mar 27 2006 [  41344 00] sbb_lvl36_RM.at3 
+-r-xr-xr-x   1    0    0    1139204 Mar  9 2006 [  41904 00] sbb_lvl39.at3 
+-r-xr-xr-x   1    0    0    1175044 Mar 27 2006 [  42464 00] sbb_lvl39_RM.at3 
+-r-xr-xr-x   1    0    0    1132484 Mar  9 2006 [  48016 00] sbb_lvl5.at3 
+-r-xr-xr-x   1    0    0    1160484 Mar 27 2006 [  48576 00] sbb_lvl5_RM.at3 
+-r-xr-xr-x   1    0    0    1134724 Mar  9 2006 [  49152 00] sbb_lvl8.at3 
+-r-xr-xr-x   1    0    0    1204724 Mar 27 2006 [  49712 00] sbb_lvl8_RM.at3 
+-r-xr-xr-x   1    0    0      34324 Mar  9 2006 [  43040 00] sbb_lvlcomp.at3 
+-r-xr-xr-x   1    0    0     615604 Mar  9 2006 [  43760 00] sbb_selmode.at3 
+-r-xr-xr-x   1    0    0     615604 Mar  9 2006 [  44064 00] sbb_sm.at3 
+-r-xr-xr-x   1    0    0     833444 Mar  9 2006 [  44368 00] sbb_ts.at3 
+-r-xr-xr-x   1    0    0     232564 Mar  9 2006 [  44784 00] sbb_wc1.at3 
+-r-xr-xr-x   1    0    0     239284 Mar  9 2006 [  44912 00] sbb_wc2.at3 
+-r-xr-xr-x   1    0    0     232564 Mar  9 2006 [  45040 00] sbb_wincredit1.at3 
+-r-xr-xr-x   1    0    0     239284 Mar  9 2006 [  45168 00] sbb_wincredit2.at3 
+
+Directory listing of /PSP_GAME/USRDIR/Data/PF/sound/at3/CVS/
+dr-xr-xr-x   1    0    0       2048 Feb 23 2007 [     58 02] . 
+dr-xr-xr-x   1    0    0       4096 Feb 23 2007 [     54 02] .. 
+-r-xr-xr-x   1    0    0       1500 Feb 23 2007 [ 235872 00] Entries.Extra 
+-r-xr-xr-x   1    0    0       2503 Feb 23 2007 [ 235856 00] Entries 
+-r-xr-xr-x   1    0    0         26 Feb 23 2007 [ 235888 00] Repository 
+-r-xr-xr-x   1    0    0         42 Feb 23 2007 [ 235904 00] Root 
+=============================================================== 
+Generated on Tue 09/08/2022 at  5:37:05.85 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

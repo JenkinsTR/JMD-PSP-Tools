@@ -1,0 +1,1045 @@
+=============================================================================== 
+Setting up our binary paths . . . 
+ 
+SET DBTOOLS as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty"  
+SET IM_MASTER as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64"  
+SET LAME as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\Lame\lame.exe"  
+SET FFMPEG as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ffmpeg-n5.1-latest-win64-gpl-5.1\bin\ffmpeg.exe"  
+SET HNDBRK as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\HandBrakeCLI-1.5.1-win-x86_64"  
+SET HBCLI as "HandBrakeCLI.exe"  
+SET HBMKV as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\HandBrakeCLI-1.5.1-win-x86_64\HandBrakeCLI.exe"  
+SET FNR as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\fnr.exe"  
+SET SZ as "C:\Program Files\7-Zip\7z.exe"  
+SET DDTBEXE as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\RVDWTools\DateTimeBox.exe"  
+SET DDDBEXE as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\RVDWTools\DropDownBox.exe"  
+SET DINBEXE as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\RVDWTools\InputBox.exe"  
+SET DMGBEXE as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\RVDWTools\MessageBox.exe"  
+SET DOFBEXE as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\RVDWTools\OpenFileBox.exe"  
+SET DODBEXE as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\RVDWTools\OpenFolderBox.exe"  
+SET DPRNEXE as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\RVDWTools\PrinterSelectBox.exe"  
+SET DSVFEXE as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\RVDWTools\SaveFileBox.exe"  
+SET OPTEXE as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\optipng.exe"  
+SET CSHEXE as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\pngcrush_1_7_87_w64.exe"  
+SET IM_COMPARE as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\compare.exe"  
+SET IM_COMPOSITE as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\composite.exe"  
+SET IM_CONJURE as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\conjure.exe"  
+SET IM_CONVERT as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\convert.exe"  
+SET IM_DCRAW as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\dcraw.exe"  
+SET IM_FFMPEG as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\ffmpeg.exe"  
+SET IM_HP2XX as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\hp2xx.exe"  
+SET IM_ID as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\identify.exe"  
+SET IM_IMDISP as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\IMDisplay.exe"  
+SET IM_MAGICK as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\magick.exe"  
+SET IM_MOGRIFY as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\mogrify.exe"  
+SET IM_MONTAGE as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\montage.exe"  
+SET IM_STREAM as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\stream.exe"  
+SET HSBT_WINP as C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\HSBT\winput.exe  
+SET HSBT_WPRO as C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\HSBT\Wprompt.exe  
+SET HSBT_WSEL as C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\HSBT\Wselect.exe  
+SET HSBT_FTO as C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\HSBT\FileToOpen.exe  
+SET HSBT_FTS as C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\HSBT\FileToSave.exe  
+SET HSBT_WBOX as C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\HSBT\Wbox.exe  
+SET HSBT_WBUS as C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\HSBT\Wbusy.exe  
+SET HSBT_WDIR as C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\HSBT\Wfolder.exe  
+SET HSBT_WDIR2 as C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\HSBT\Wfolder2.exe  
+SET MKVNOTICE_IMG as explorer "C:\Program Files (x86)\Jenkins Media\JM Tools\Readme\mkvnotice.jpg"  
+ 
+Done  
+ 
+SET JMT_VIDEO_DB as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\pspmc.database.files\pspmc.database.files.videos.csv"  
+SET JMT_AUDIO_DB as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\pspmc.database.files\pspmc.database.files.audio.csv"  
+SET JMT_IMAGE_DB as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\pspmc.database.files\pspmc.database.files.images.csv"  
+=============================================================================== 
+JMDigital PSP Media Converter [jm_pspmc_v1 - v1.0.0.1 (2022-08-05)]  
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved.  
+=============================================================================== 
+ 
+ 
+ 
+Replacing data... 
+ 
+ 
+Counting lines...  
+ 
+ 
+Running FOR loop on file 
+ 
+Number of lines in selection = 19 
+ 
+If we have 1 line, most likely only 1 file was selected 
+IF 19 EQ 1 GOTO PSPMC_VIDEO_SKIPFNR 
+ 
+We detected more than 1 line in "C:\Users\Jenkins\AppData\Local\Temp\userselectedfiles.tmp" 
+ 
+Continuing... 
+ 
+Replacing data... 
+ 
+Replacing data... 
+ 
+Jenkins, please select your output folder . . .  
+ 
+Your chosen output folder is:  
+H:\_PSP  
+ 
+FILE EXISTS AS P:\TV Series\Animation\American Dad\Season 03\S03E01 - Camp Refoogee_q28.mkv 
+FILED SET AS P:\TV Series\Animation\American Dad\Season 03\ 
+FILEN SET AS S03E01 - Camp Refoogee_q28 
+FILEX SET AS .mkv 
+FILEZ SET AS 107761625 
+ 
+Bytes:    107761625 
+KBytes:    105236 
+SET KBYTES AS 105236 
+MBytes:    103 
+SET MBYTES AS 103 
+ 
+We detected Windows thumbnail cache files in this directory, removing.  
+ 
+Deleted file - P:\TV Series\Animation\American Dad\Season 03\Thumbs.db
+ 
+Converting S03E01 - Camp Refoogee_q28.mkv to S03E01 - Camp Refoogee_q28_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 29.970  
+"VHEIGHT" = 480  
+"VWIDTH" = 716  
+"VDAR" = 1.325  
+"VDUR" = 1313413  
+OUTFILEZKB SET AS 52964772 
+ 
+Bytes:    52964772 
+KBytes:    51724 
+SET OUTKBYTES AS 51724 
+MBytes:    51 
+SET OUTMBYTES AS 51 
+ 
+INSIZEKB = 105236 
+OUTSIZEKB = 105236-51724 = 53512 
+OUTPERCKB = 53512*100 = 5351200 
+OUTPERCKB = 50/105236 = 50 
+ 
+You saved approx. 50%  
+FILENUM IS 2 out of 19 
+ 
+FILENUM1 = 200  
+ 
+TOTALPERC IS 10%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 2 out of 19 (10%) 
+Conversion took 43secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\American Dad\Season 03\S03E02 - The American Dad After School Special_q28.mkv 
+FILED SET AS P:\TV Series\Animation\American Dad\Season 03\ 
+FILEN SET AS S03E02 - The American Dad After School Special_q28 
+FILEX SET AS .mkv 
+FILEZ SET AS 98682404 
+ 
+Bytes:    98682404 
+KBytes:    96370 
+SET KBYTES AS 96370 
+MBytes:    95 
+SET MBYTES AS 95 
+ 
+Converting S03E02 - The American Dad After School Special_q28.mkv to S03E02 - The American Dad After School Special_q28_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 29.970  
+"VHEIGHT" = 480  
+"VWIDTH" = 716  
+"VDAR" = 1.325  
+"VDUR" = 1312079  
+OUTFILEZKB SET AS 53326780 
+ 
+Bytes:    53326780 
+KBytes:    52077 
+SET OUTKBYTES AS 52077 
+MBytes:    51 
+SET OUTMBYTES AS 51 
+ 
+INSIZEKB = 96370 
+OUTSIZEKB = 96370-52077 = 44293 
+OUTPERCKB = 44293*100 = 4429300 
+OUTPERCKB = 45/96370 = 45 
+ 
+You saved approx. 45%  
+FILENUM IS 4 out of 19 
+ 
+FILENUM1 = 400  
+ 
+TOTALPERC IS 21%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 4 out of 19 (21%) 
+Conversion took 43secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\American Dad\Season 03\S03E03 - Failure is Not a Factory-installed Option_q28.mkv 
+FILED SET AS P:\TV Series\Animation\American Dad\Season 03\ 
+FILEN SET AS S03E03 - Failure is Not a Factory-installed Option_q28 
+FILEX SET AS .mkv 
+FILEZ SET AS 92645530 
+ 
+Bytes:    92645530 
+KBytes:    90475 
+SET KBYTES AS 90475 
+MBytes:    89 
+SET MBYTES AS 89 
+ 
+Converting S03E03 - Failure is Not a Factory-installed Option_q28.mkv to S03E03 - Failure is Not a Factory-installed Option_q28_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 29.970  
+"VHEIGHT" = 480  
+"VWIDTH" = 716  
+"VDAR" = 1.325  
+"VDUR" = 1313080  
+OUTFILEZKB SET AS 54243385 
+ 
+Bytes:    54243385 
+KBytes:    52973 
+SET OUTKBYTES AS 52973 
+MBytes:    52 
+SET OUTMBYTES AS 52 
+ 
+INSIZEKB = 90475 
+OUTSIZEKB = 90475-52973 = 37502 
+OUTPERCKB = 37502*100 = 3750200 
+OUTPERCKB = 41/90475 = 41 
+ 
+You saved approx. 41%  
+FILENUM IS 6 out of 19 
+ 
+FILENUM1 = 600  
+ 
+TOTALPERC IS 31%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 6 out of 19 (31%) 
+Conversion took 43secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\American Dad\Season 03\S03E04 - Lincoln Lover_q28.mkv 
+FILED SET AS P:\TV Series\Animation\American Dad\Season 03\ 
+FILEN SET AS S03E04 - Lincoln Lover_q28 
+FILEX SET AS .mkv 
+FILEZ SET AS 104034271 
+ 
+Bytes:    104034271 
+KBytes:    101596 
+SET KBYTES AS 101596 
+MBytes:    100 
+SET MBYTES AS 100 
+ 
+Converting S03E04 - Lincoln Lover_q28.mkv to S03E04 - Lincoln Lover_q28_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 29.970  
+"VHEIGHT" = 480  
+"VWIDTH" = 716  
+"VDAR" = 1.325  
+"VDUR" = 1314414  
+OUTFILEZKB SET AS 53364707 
+ 
+Bytes:    53364707 
+KBytes:    52114 
+SET OUTKBYTES AS 52114 
+MBytes:    51 
+SET OUTMBYTES AS 51 
+ 
+INSIZEKB = 101596 
+OUTSIZEKB = 101596-52114 = 49482 
+OUTPERCKB = 49482*100 = 4948200 
+OUTPERCKB = 48/101596 = 48 
+ 
+You saved approx. 48%  
+FILENUM IS 8 out of 19 
+ 
+FILENUM1 = 800  
+ 
+TOTALPERC IS 42%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 8 out of 19 (42%) 
+Conversion took 43secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\American Dad\Season 03\S03E05 - Dungeons and Wagons_q28.mkv 
+FILED SET AS P:\TV Series\Animation\American Dad\Season 03\ 
+FILEN SET AS S03E05 - Dungeons and Wagons_q28 
+FILEX SET AS .mkv 
+FILEZ SET AS 103920164 
+ 
+Bytes:    103920164 
+KBytes:    101485 
+SET KBYTES AS 101485 
+MBytes:    100 
+SET MBYTES AS 100 
+ 
+Converting S03E05 - Dungeons and Wagons_q28.mkv to S03E05 - Dungeons and Wagons_q28_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 29.970  
+"VHEIGHT" = 480  
+"VWIDTH" = 716  
+"VDAR" = 1.325  
+"VDUR" = 1313413  
+OUTFILEZKB SET AS 53074921 
+ 
+Bytes:    53074921 
+KBytes:    51831 
+SET OUTKBYTES AS 51831 
+MBytes:    51 
+SET OUTMBYTES AS 51 
+ 
+INSIZEKB = 101485 
+OUTSIZEKB = 101485-51831 = 49654 
+OUTPERCKB = 49654*100 = 4965400 
+OUTPERCKB = 48/101485 = 48 
+ 
+You saved approx. 48%  
+FILENUM IS 10 out of 19 
+ 
+FILENUM1 = 1000  
+ 
+TOTALPERC IS 52%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 10 out of 19 (52%) 
+Conversion took 42secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\American Dad\Season 03\S03E06 - Iced, Iced Babies_q28.mkv 
+FILED SET AS P:\TV Series\Animation\American Dad\Season 03\ 
+FILEN SET AS S03E06 - Iced, Iced Babies_q28 
+FILEX SET AS .mkv 
+FILEZ SET AS 101373777 
+ 
+Bytes:    101373777 
+KBytes:    98998 
+SET KBYTES AS 98998 
+MBytes:    97 
+SET MBYTES AS 97 
+ 
+Converting S03E06 - Iced, Iced Babies_q28.mkv to S03E06 - Iced, Iced Babies_q28_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 29.970  
+"VHEIGHT" = 480  
+"VWIDTH" = 716  
+"VDAR" = 1.325  
+"VDUR" = 1313413  
+OUTFILEZKB SET AS 53458199 
+ 
+Bytes:    53458199 
+KBytes:    52206 
+SET OUTKBYTES AS 52206 
+MBytes:    51 
+SET OUTMBYTES AS 51 
+ 
+INSIZEKB = 98998 
+OUTSIZEKB = 98998-52206 = 46792 
+OUTPERCKB = 46792*100 = 4679200 
+OUTPERCKB = 47/98998 = 47 
+ 
+You saved approx. 47%  
+FILENUM IS 12 out of 19 
+ 
+FILENUM1 = 1200  
+ 
+TOTALPERC IS 63%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 12 out of 19 (63%) 
+Conversion took 43secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\American Dad\Season 03\S03E07 - Of Ice and Men_q28.mkv 
+FILED SET AS P:\TV Series\Animation\American Dad\Season 03\ 
+FILEN SET AS S03E07 - Of Ice and Men_q28 
+FILEX SET AS .mkv 
+FILEZ SET AS 105927331 
+ 
+Bytes:    105927331 
+KBytes:    103445 
+SET KBYTES AS 103445 
+MBytes:    102 
+SET MBYTES AS 102 
+ 
+Converting S03E07 - Of Ice and Men_q28.mkv to S03E07 - Of Ice and Men_q28_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 29.970  
+"VHEIGHT" = 480  
+"VWIDTH" = 716  
+"VDAR" = 1.325  
+"VDUR" = 1313380  
+OUTFILEZKB SET AS 53803857 
+ 
+Bytes:    53803857 
+KBytes:    52543 
+SET OUTKBYTES AS 52543 
+MBytes:    52 
+SET OUTMBYTES AS 52 
+ 
+INSIZEKB = 103445 
+OUTSIZEKB = 103445-52543 = 50902 
+OUTPERCKB = 50902*100 = 5090200 
+OUTPERCKB = 49/103445 = 49 
+ 
+You saved approx. 49%  
+FILENUM IS 14 out of 19 
+ 
+FILENUM1 = 1400  
+ 
+TOTALPERC IS 73%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 14 out of 19 (73%) 
+Conversion took 42secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\American Dad\Season 03\S03E08 - Irregarding Steve_q28.mkv 
+FILED SET AS P:\TV Series\Animation\American Dad\Season 03\ 
+FILEN SET AS S03E08 - Irregarding Steve_q28 
+FILEX SET AS .mkv 
+FILEZ SET AS 99675162 
+ 
+Bytes:    99675162 
+KBytes:    97340 
+SET KBYTES AS 97340 
+MBytes:    96 
+SET MBYTES AS 96 
+ 
+Converting S03E08 - Irregarding Steve_q28.mkv to S03E08 - Irregarding Steve_q28_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 29.970  
+"VHEIGHT" = 480  
+"VWIDTH" = 716  
+"VDAR" = 1.325  
+"VDUR" = 1313080  
+OUTFILEZKB SET AS 53486065 
+ 
+Bytes:    53486065 
+KBytes:    52233 
+SET OUTKBYTES AS 52233 
+MBytes:    52 
+SET OUTMBYTES AS 52 
+ 
+INSIZEKB = 97340 
+OUTSIZEKB = 97340-52233 = 45107 
+OUTPERCKB = 45107*100 = 4510700 
+OUTPERCKB = 46/97340 = 46 
+ 
+You saved approx. 46%  
+FILENUM IS 16 out of 19 
+ 
+FILENUM1 = 1600  
+ 
+TOTALPERC IS 84%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 16 out of 19 (84%) 
+Conversion took 42secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\American Dad\Season 03\S03E09 - The Best Christmas Story Never Told_q28.mkv 
+FILED SET AS P:\TV Series\Animation\American Dad\Season 03\ 
+FILEN SET AS S03E09 - The Best Christmas Story Never Told_q28 
+FILEX SET AS .mkv 
+FILEZ SET AS 105440581 
+ 
+Bytes:    105440581 
+KBytes:    102970 
+SET KBYTES AS 102970 
+MBytes:    101 
+SET MBYTES AS 101 
+ 
+Converting S03E09 - The Best Christmas Story Never Told_q28.mkv to S03E09 - The Best Christmas Story Never Told_q28_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 29.970  
+"VHEIGHT" = 480  
+"VWIDTH" = 716  
+"VDAR" = 1.325  
+"VDUR" = 1313413  
+OUTFILEZKB SET AS 53090301 
+ 
+Bytes:    53090301 
+KBytes:    51846 
+SET OUTKBYTES AS 51846 
+MBytes:    51 
+SET OUTMBYTES AS 51 
+ 
+INSIZEKB = 102970 
+OUTSIZEKB = 102970-51846 = 51124 
+OUTPERCKB = 51124*100 = 5112400 
+OUTPERCKB = 49/102970 = 49 
+ 
+You saved approx. 49%  
+FILENUM IS 18 out of 19 
+ 
+FILENUM1 = 1800  
+ 
+TOTALPERC IS 94%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 18 out of 19 (94%) 
+Conversion took 42secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\American Dad\Season 03\S03E10 - Bush Comes to Dinner_q28.mkv 
+FILED SET AS P:\TV Series\Animation\American Dad\Season 03\ 
+FILEN SET AS S03E10 - Bush Comes to Dinner_q28 
+FILEX SET AS .mkv 
+FILEZ SET AS 129590427 
+ 
+Bytes:    129590427 
+KBytes:    126554 
+SET KBYTES AS 126554 
+MBytes:    124 
+SET MBYTES AS 124 
+ 
+Converting S03E10 - Bush Comes to Dinner_q28.mkv to S03E10 - Bush Comes to Dinner_q28_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 25.000  
+"VHEIGHT" = 576  
+"VWIDTH" = 720  
+"VDAR" = 1.250  
+"VDUR" = 1259600  
+OUTFILEZKB SET AS 51985757 
+ 
+Bytes:    51985757 
+KBytes:    50768 
+SET OUTKBYTES AS 50768 
+MBytes:    50 
+SET OUTMBYTES AS 50 
+ 
+INSIZEKB = 126554 
+OUTSIZEKB = 126554-50768 = 75786 
+OUTPERCKB = 75786*100 = 7578600 
+OUTPERCKB = 59/126554 = 59 
+ 
+You saved approx. 59%  
+FILENUM IS 20 out of 19 
+ 
+FILENUM1 = 2000  
+ 
+TOTALPERC IS 105%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 20 out of 19 (105%) 
+Conversion took 42secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\American Dad\Season 03\S03E11 - American Dream Factory_q28.mkv 
+FILED SET AS P:\TV Series\Animation\American Dad\Season 03\ 
+FILEN SET AS S03E11 - American Dream Factory_q28 
+FILEX SET AS .mkv 
+FILEZ SET AS 108311492 
+ 
+Bytes:    108311492 
+KBytes:    105773 
+SET KBYTES AS 105773 
+MBytes:    104 
+SET MBYTES AS 104 
+ 
+Converting S03E11 - American Dream Factory_q28.mkv to S03E11 - American Dream Factory_q28_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 25.000  
+"VHEIGHT" = 576  
+"VWIDTH" = 720  
+"VDAR" = 1.333  
+"VDUR" = 1258000  
+OUTFILEZKB SET AS 53091734 
+ 
+Bytes:    53091734 
+KBytes:    51848 
+SET OUTKBYTES AS 51848 
+MBytes:    51 
+SET OUTMBYTES AS 51 
+ 
+INSIZEKB = 105773 
+OUTSIZEKB = 105773-51848 = 53925 
+OUTPERCKB = 53925*100 = 5392500 
+OUTPERCKB = 50/105773 = 50 
+ 
+You saved approx. 50%  
+FILENUM IS 22 out of 19 
+ 
+FILENUM1 = 2200  
+ 
+TOTALPERC IS 115%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 22 out of 19 (115%) 
+Conversion took 38secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\American Dad\Season 03\S03E12 - A.T. The Abusive Terrestrial_q28.mkv 
+FILED SET AS P:\TV Series\Animation\American Dad\Season 03\ 
+FILEN SET AS S03E12 - A.T. The Abusive Terrestrial_q28 
+FILEX SET AS .mkv 
+FILEZ SET AS 97862903 
+ 
+Bytes:    97862903 
+KBytes:    95570 
+SET KBYTES AS 95570 
+MBytes:    94 
+SET MBYTES AS 94 
+ 
+Converting S03E12 - A.T. The Abusive Terrestrial_q28.mkv to S03E12 - A.T. The Abusive Terrestrial_q28_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 25.000  
+"VHEIGHT" = 576  
+"VWIDTH" = 720  
+"VDAR" = 1.333  
+"VDUR" = 1260840  
+OUTFILEZKB SET AS 50939586 
+ 
+Bytes:    50939586 
+KBytes:    49746 
+SET OUTKBYTES AS 49746 
+MBytes:    49 
+SET OUTMBYTES AS 49 
+ 
+INSIZEKB = 95570 
+OUTSIZEKB = 95570-49746 = 45824 
+OUTPERCKB = 45824*100 = 4582400 
+OUTPERCKB = 47/95570 = 47 
+ 
+You saved approx. 47%  
+FILENUM IS 24 out of 19 
+ 
+FILENUM1 = 2400  
+ 
+TOTALPERC IS 126%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 24 out of 19 (126%) 
+Conversion took 39secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\American Dad\Season 03\S03E13 - Black Mystery Month_q28.mkv 
+FILED SET AS P:\TV Series\Animation\American Dad\Season 03\ 
+FILEN SET AS S03E13 - Black Mystery Month_q28 
+FILEX SET AS .mkv 
+FILEZ SET AS 98068490 
+ 
+Bytes:    98068490 
+KBytes:    95771 
+SET KBYTES AS 95771 
+MBytes:    94 
+SET MBYTES AS 94 
+ 
+Converting S03E13 - Black Mystery Month_q28.mkv to S03E13 - Black Mystery Month_q28_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 25.000  
+"VHEIGHT" = 576  
+"VWIDTH" = 720  
+"VDAR" = 1.333  
+"VDUR" = 1261200  
+OUTFILEZKB SET AS 50632605 
+ 
+Bytes:    50632605 
+KBytes:    49446 
+SET OUTKBYTES AS 49446 
+MBytes:    49 
+SET OUTMBYTES AS 49 
+ 
+INSIZEKB = 95771 
+OUTSIZEKB = 95771-49446 = 46325 
+OUTPERCKB = 46325*100 = 4632500 
+OUTPERCKB = 48/95771 = 48 
+ 
+You saved approx. 48%  
+FILENUM IS 26 out of 19 
+ 
+FILENUM1 = 2600  
+ 
+TOTALPERC IS 136%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 26 out of 19 (136%) 
+Conversion took 38secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\American Dad\Season 03\S03E14 - An Apocalypse to Remember_q28.mkv 
+FILED SET AS P:\TV Series\Animation\American Dad\Season 03\ 
+FILEN SET AS S03E14 - An Apocalypse to Remember_q28 
+FILEX SET AS .mkv 
+FILEZ SET AS 101841119 
+ 
+Bytes:    101841119 
+KBytes:    99455 
+SET KBYTES AS 99455 
+MBytes:    98 
+SET MBYTES AS 98 
+ 
+Converting S03E14 - An Apocalypse to Remember_q28.mkv to S03E14 - An Apocalypse to Remember_q28_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 25.000  
+"VHEIGHT" = 576  
+"VWIDTH" = 720  
+"VDAR" = 1.333  
+"VDUR" = 1261200  
+OUTFILEZKB SET AS 51875254 
+ 
+Bytes:    51875254 
+KBytes:    50660 
+SET OUTKBYTES AS 50660 
+MBytes:    50 
+SET OUTMBYTES AS 50 
+ 
+INSIZEKB = 99455 
+OUTSIZEKB = 99455-50660 = 48795 
+OUTPERCKB = 48795*100 = 4879500 
+OUTPERCKB = 49/99455 = 49 
+ 
+You saved approx. 49%  
+FILENUM IS 28 out of 19 
+ 
+FILENUM1 = 2800  
+ 
+TOTALPERC IS 147%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 28 out of 19 (147%) 
+Conversion took 39secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\American Dad\Season 03\S03E15 - Four Little Words_q28.mkv 
+FILED SET AS P:\TV Series\Animation\American Dad\Season 03\ 
+FILEN SET AS S03E15 - Four Little Words_q28 
+FILEX SET AS .mkv 
+FILEZ SET AS 98532512 
+ 
+Bytes:    98532512 
+KBytes:    96224 
+SET KBYTES AS 96224 
+MBytes:    94 
+SET MBYTES AS 94 
+ 
+Converting S03E15 - Four Little Words_q28.mkv to S03E15 - Four Little Words_q28_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 25.000  
+"VHEIGHT" = 576  
+"VWIDTH" = 720  
+"VDAR" = 1.333  
+"VDUR" = 1260840  
+OUTFILEZKB SET AS 50792874 
+ 
+Bytes:    50792874 
+KBytes:    49603 
+SET OUTKBYTES AS 49603 
+MBytes:    49 
+SET OUTMBYTES AS 49 
+ 
+INSIZEKB = 96224 
+OUTSIZEKB = 96224-49603 = 46621 
+OUTPERCKB = 46621*100 = 4662100 
+OUTPERCKB = 48/96224 = 48 
+ 
+You saved approx. 48%  
+FILENUM IS 30 out of 19 
+ 
+FILENUM1 = 3000  
+ 
+TOTALPERC IS 157%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 30 out of 19 (157%) 
+Conversion took 38secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\American Dad\Season 03\S03E16 - When a Stan Loves a Woman_q28.mkv 
+FILED SET AS P:\TV Series\Animation\American Dad\Season 03\ 
+FILEN SET AS S03E16 - When a Stan Loves a Woman_q28 
+FILEX SET AS .mkv 
+FILEZ SET AS 100873763 
+ 
+Bytes:    100873763 
+KBytes:    98510 
+SET KBYTES AS 98510 
+MBytes:    97 
+SET MBYTES AS 97 
+ 
+Converting S03E16 - When a Stan Loves a Woman_q28.mkv to S03E16 - When a Stan Loves a Woman_q28_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 25.000  
+"VHEIGHT" = 576  
+"VWIDTH" = 720  
+"VDAR" = 1.333  
+"VDUR" = 1300640  
+OUTFILEZKB SET AS 51706057 
+ 
+Bytes:    51706057 
+KBytes:    50495 
+SET OUTKBYTES AS 50495 
+MBytes:    50 
+SET OUTMBYTES AS 50 
+ 
+INSIZEKB = 98510 
+OUTSIZEKB = 98510-50495 = 48015 
+OUTPERCKB = 48015*100 = 4801500 
+OUTPERCKB = 48/98510 = 48 
+ 
+You saved approx. 48%  
+FILENUM IS 32 out of 19 
+ 
+FILENUM1 = 3200  
+ 
+TOTALPERC IS 168%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 32 out of 19 (168%) 
+Conversion took 39secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\American Dad\Season 03\S03E17 - I Can't Stan You_q28.mkv 
+FILED SET AS P:\TV Series\Animation\American Dad\Season 03\ 
+FILEN SET AS S03E17 - I Can't Stan You_q28 
+FILEX SET AS .mkv 
+FILEZ SET AS 97921770 
+ 
+Bytes:    97921770 
+KBytes:    95627 
+SET KBYTES AS 95627 
+MBytes:    94 
+SET MBYTES AS 94 
+ 
+Converting S03E17 - I Can't Stan You_q28.mkv to S03E17 - I Can't Stan You_q28_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 25.000  
+"VHEIGHT" = 576  
+"VWIDTH" = 720  
+"VDAR" = 1.333  
+"VDUR" = 1260640  
+OUTFILEZKB SET AS 50605185 
+ 
+Bytes:    50605185 
+KBytes:    49420 
+SET OUTKBYTES AS 49420 
+MBytes:    49 
+SET OUTMBYTES AS 49 
+ 
+INSIZEKB = 95627 
+OUTSIZEKB = 95627-49420 = 46207 
+OUTPERCKB = 46207*100 = 4620700 
+OUTPERCKB = 48/95627 = 48 
+ 
+You saved approx. 48%  
+FILENUM IS 34 out of 19 
+ 
+FILENUM1 = 3400  
+ 
+TOTALPERC IS 178%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 34 out of 19 (178%) 
+Conversion took 39secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\American Dad\Season 03\S03E18 - The Magnificent Steven_q28.mkv 
+FILED SET AS P:\TV Series\Animation\American Dad\Season 03\ 
+FILEN SET AS S03E18 - The Magnificent Steven_q28 
+FILEX SET AS .mkv 
+FILEZ SET AS 112138499 
+ 
+Bytes:    112138499 
+KBytes:    109511 
+SET KBYTES AS 109511 
+MBytes:    107 
+SET MBYTES AS 107 
+ 
+Converting S03E18 - The Magnificent Steven_q28.mkv to S03E18 - The Magnificent Steven_q28_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 25.000  
+"VHEIGHT" = 576  
+"VWIDTH" = 720  
+"VDAR" = 1.333  
+"VDUR" = 1260640  
+OUTFILEZKB SET AS 50251868 
+ 
+Bytes:    50251868 
+KBytes:    49075 
+SET OUTKBYTES AS 49075 
+MBytes:    48 
+SET OUTMBYTES AS 48 
+ 
+INSIZEKB = 109511 
+OUTSIZEKB = 109511-49075 = 60436 
+OUTPERCKB = 60436*100 = 6043600 
+OUTPERCKB = 55/109511 = 55 
+ 
+You saved approx. 55%  
+FILENUM IS 36 out of 19 
+ 
+FILENUM1 = 3600  
+ 
+TOTALPERC IS 189%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 36 out of 19 (189%) 
+Conversion took 38secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\American Dad\Season 03\S03E19 - Joint Custody_q28.mkv 
+FILED SET AS P:\TV Series\Animation\American Dad\Season 03\ 
+FILEN SET AS S03E19 - Joint Custody_q28 
+FILEX SET AS .mkv 
+FILEZ SET AS 96027890 
+ 
+Bytes:    96027890 
+KBytes:    93778 
+SET KBYTES AS 93778 
+MBytes:    92 
+SET MBYTES AS 92 
+ 
+Converting S03E19 - Joint Custody_q28.mkv to S03E19 - Joint Custody_q28_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 25.000  
+"VHEIGHT" = 576  
+"VWIDTH" = 720  
+"VDAR" = 1.333  
+"VDUR" = 1260640  
+OUTFILEZKB SET AS 50615194 
+ 
+Bytes:    50615194 
+KBytes:    49429 
+SET OUTKBYTES AS 49429 
+MBytes:    49 
+SET OUTMBYTES AS 49 
+ 
+INSIZEKB = 93778 
+OUTSIZEKB = 93778-49429 = 44349 
+OUTPERCKB = 44349*100 = 4434900 
+OUTPERCKB = 47/93778 = 47 
+ 
+You saved approx. 47%  
+FILENUM IS 38 out of 19 
+ 
+FILENUM1 = 3800  
+ 
+TOTALPERC IS 200%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 38 out of 19 (200%) 
+Conversion took 39secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+Finished all files, and finished all supported files. Moving to the end. 
+Renaming files back to their original extension  
+ 
+SET ReturnCode to 1  
+ 
+Jenkins opted to NOT Exit  
+ 

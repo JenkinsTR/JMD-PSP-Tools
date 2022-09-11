@@ -1,0 +1,756 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: EA Replay  
+Title ID: ULUS-10140 
+Region: USA  
+Languages:   
+Volume Creation Date: 2006-10-05 14:10:06 
+Volume Size: 850 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: NA
+Volume set id: RETRO
+Publisher id: ELECTRONIC ARTS
+Data preparer id: ELECTRONIC ARTS
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 435424
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Oct  5 2006 [     88 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     22 02] .. 
+-r-xr-xr-x   1    0    0      15307 Aug 10 2006 [ 385552 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        472 Oct  5 2006 [ 385568 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     130439 Aug 10 2006 [ 385584 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     23 02] .. 
+-r-xr-xr-x   1    0    0    3260705 Oct  5 2006 [ 385648 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    3261056 Oct  5 2006 [     96 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     23 02] .. 
+dr-xr-xr-x   1    0    0       4096 Oct  5 2006 [     27 02] data 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     29 02] module 
+-r-xr-xr-x   1    0    0  735295488 Oct  5 2006 [  22192 00] pad0.pad 
+-r-xr-xr-x   1    0    0         69 Oct  5 2006 [ 400704 00] retro.ini 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     24 02] .. 
+-r-xr-xr-x   1    0    0   15027936 Oct  5 2006 [   5808 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5089088 Oct  5 2006 [   1712 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Oct  5 2006 [   1696 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/data/
+dr-xr-xr-x   1    0    0       4096 Oct  5 2006 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     30 02] audio 
+-r-xr-xr-x   1    0    0        196 Aug  2 2006 [ 412496 00] bob.dat 
+-r-xr-xr-x   1    0    0     490564 Oct  5 2006 [ 412512 00] bob.dtb 
+-r-xr-xr-x   1    0    0     383160 Oct  5 2006 [ 412752 00] budokan.dtb 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     31 02] bundle 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     32 02] cro 
+-r-xr-xr-x   1    0    0      55912 Aug  9 2006 [ 412960 00] desertstrike.dat 
+-r-xr-xr-x   1    0    0     644708 Oct  5 2006 [ 412992 00] desertstrike.dtb 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     33 02] eatrax 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     34 02] eavis 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     35 02] fe 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     36 02] fonts 
+-r-xr-xr-x   1    0    0        130 Aug 21 2006 [ 413312 00] fusion.bts 
+-r-xr-xr-x   1    0    0      38924 Oct  5 2006 [ 401152 00] gameinfo.def 
+-r-xr-xr-x   1    0    0       1604 Jul 10 2006 [ 413328 00] haunting.dat 
+-r-xr-xr-x   1    0    0    1170256 Oct  5 2006 [ 413344 00] haunting.dtb 
+-r-xr-xr-x   1    0    0     107556 Sep 18 2006 [ 413920 00] junglestrike.dat 
+-r-xr-xr-x   1    0    0     689440 Oct  5 2006 [ 413984 00] junglestrike.dtb 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     37 02] locale 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     38 02] movies 
+-r-xr-xr-x   1    0    0      91724 Sep 22 2006 [ 414384 00] mutantleaguefootball.dat 
+-r-xr-xr-x   1    0    0    2068628 Oct  5 2006 [ 414432 00] mutantleaguefootball.dtb 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     39 02] netcore 
+-r-xr-xr-x   1    0    0      87460 Sep  1 2006 [ 415536 00] roadrash.dat 
+-r-xr-xr-x   1    0    0     756076 Oct  5 2006 [ 415584 00] roadrash.dtb 
+-r-xr-xr-x   1    0    0        220 Jul 10 2006 [ 415968 00] roadrash2.dat 
+-r-xr-xr-x   1    0    0     955048 Oct  5 2006 [ 415984 00] roadrash2.dtb 
+-r-xr-xr-x   1    0    0        432 Jul 10 2006 [ 416464 00] roadrash3.dat 
+-r-xr-xr-x   1    0    0    1375212 Oct  5 2006 [ 416480 00] roadrash3.dtb 
+-r-xr-xr-x   1    0    0   10762574 Oct  5 2006 [ 407232 00] roms.viv 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     40 02] saveicons 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     41 02] sprreplace 
+-r-xr-xr-x   1    0    0       7440 Aug 24 2006 [ 417152 00] syndicate.dat 
+-r-xr-xr-x   1    0    0     877196 Oct  5 2006 [ 417168 00] syndicate.dtb 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     42 02] textures 
+-r-xr-xr-x   1    0    0       2856 Jul 20 2006 [ 417600 00] ultima7.dat 
+-r-xr-xr-x   1    0    0     810652 Oct  5 2006 [ 417616 00] ultima7.dtb 
+-r-xr-xr-x   1    0    0     737128 Oct  5 2006 [ 419760 00] virtualpinball.dtb 
+-r-xr-xr-x   1    0    0    1734368 Oct  5 2006 [ 418016 00] wingcommander.dtb 
+-r-xr-xr-x   1    0    0       1168 Sep 22 2006 [ 418864 00] wingcommander_tsm.dat 
+-r-xr-xr-x   1    0    0    1772628 Oct  5 2006 [ 418880 00] wingcommander_tsm.dtb 
+
+Directory listing of /PSP_GAME/USRDIR/module/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0       1104 Jul  6 2006 [ 400336 00] libadler.prx 
+-r-xr-xr-x   1    0    0      10928 Jul  6 2006 [ 400352 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0       1472 Jul  6 2006 [ 400368 00] libbase64.prx 
+-r-xr-xr-x   1    0    0       3520 Jul  6 2006 [ 400384 00] libccc.prx 
+-r-xr-xr-x   1    0    0       4432 Jul  6 2006 [ 400400 00] libdeflt.prx 
+-r-xr-xr-x   1    0    0      23456 Jul  6 2006 [ 400416 00] libfont.prx 
+-r-xr-xr-x   1    0    0       4176 Jul  6 2006 [ 400432 00] libfpu.prx 
+-r-xr-xr-x   1    0    0       3200 Jul  6 2006 [ 400448 00] libheap.prx 
+-r-xr-xr-x   1    0    0       2400 Jul  6 2006 [ 400464 00] libmd5.prx 
+-r-xr-xr-x   1    0    0       1312 Jul  6 2006 [ 400480 00] libmt19937.prx 
+-r-xr-xr-x   1    0    0      35984 Jul  6 2006 [ 400496 00] libpsmfplayer.prx 
+-r-xr-xr-x   1    0    0       1936 Jul  6 2006 [ 400528 00] libqpcode.prx 
+-r-xr-xr-x   1    0    0       2576 Jul  6 2006 [ 400544 00] libsha1.prx 
+-r-xr-xr-x   1    0    0       2928 Jul  6 2006 [ 400560 00] libsha224.prx 
+-r-xr-xr-x   1    0    0       2944 Jul  6 2006 [ 400576 00] libsha256.prx 
+-r-xr-xr-x   1    0    0       4672 Jul  6 2006 [ 400592 00] libsha384.prx 
+-r-xr-xr-x   1    0    0       4672 Jul  6 2006 [ 400608 00] libsha512.prx 
+-r-xr-xr-x   1    0    0      20096 Jul  6 2006 [ 400624 00] mpeg.prx 
+-r-xr-xr-x   1    0    0       7440 Jul  6 2006 [ 400640 00] psmf.prx 
+-r-xr-xr-x   1    0    0       2448 Jul  6 2006 [ 400656 00] pspnet_ap_dialog_dummy.prx 
+-r-xr-xr-x   1    0    0      31824 Jul  6 2006 [ 400672 00] scan.prx 
+-r-xr-xr-x   1    0    0      29536 Jul  6 2006 [ 400688 00] show_macaddr.prx 
+
+Directory listing of /PSP_GAME/USRDIR/data/audio/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     30 02] . 
+dr-xr-xr-x   1    0    0       4096 Oct  5 2006 [     27 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     43 02] aems 
+
+Directory listing of /PSP_GAME/USRDIR/data/bundle/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     31 02] . 
+dr-xr-xr-x   1    0    0       4096 Oct  5 2006 [     27 02] .. 
+-r-xr-xr-x   1    0    0        130 May 29 2006 [ 403712 00] bundle.bin 
+-r-xr-xr-x   1    0    0     879520 Oct  5 2006 [ 400720 00] febundle.viv 
+
+Directory listing of /PSP_GAME/USRDIR/data/cro/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     32 02] . 
+dr-xr-xr-x   1    0    0       4096 Oct  5 2006 [     27 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     44 02] boxartbig 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     45 02] gamevideos 
+dr-xr-xr-x   1    0    0       4096 Oct  5 2006 [     46 02] timelinemd 
+dr-xr-xr-x   1    0    0       4096 Oct  5 2006 [     48 02] timelinepic 
+
+Directory listing of /PSP_GAME/USRDIR/data/eatrax/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     33 02] . 
+dr-xr-xr-x   1    0    0       4096 Oct  5 2006 [     27 02] .. 
+-r-xr-xr-x   1    0    0    1681192 Oct  5 2006 [ 420160 00] fasolath.aud 
+-r-xr-xr-x   1    0    0    1965448 Oct  5 2006 [ 420992 00] feta.aud 
+-r-xr-xr-x   1    0    0    3894328 Oct  5 2006 [ 421952 00] flimsy.aud 
+-r-xr-xr-x   1    0    0     246376 Oct  5 2006 [ 405760 00] funknbub.aud 
+-r-xr-xr-x   1    0    0    2384688 Oct  5 2006 [ 423856 00] gore.aud 
+-r-xr-xr-x   1    0    0    1345800 Oct  5 2006 [ 425024 00] hallass.aud 
+-r-xr-xr-x   1    0    0    1807152 Oct  5 2006 [ 425696 00] hydrus.aud 
+-r-xr-xr-x   1    0    0     268560 Oct  5 2006 [ 405888 00] ianattheroxy.aud 
+-r-xr-xr-x   1    0    0    1434912 Oct  5 2006 [ 426592 00] overheat.aud 
+-r-xr-xr-x   1    0    0    1291280 Oct  5 2006 [ 427296 00] pavlova.aud 
+-r-xr-xr-x   1    0    0    1181488 Oct  5 2006 [ 427936 00] pwrslide.aud 
+-r-xr-xr-x   1    0    0    1458600 Oct  5 2006 [ 428528 00] rampant.aud 
+-r-xr-xr-x   1    0    0    1422128 Oct  5 2006 [ 429248 00] route99.aud 
+-r-xr-xr-x   1    0    0    1475144 Oct  5 2006 [ 429952 00] scud.aud 
+-r-xr-xr-x   1    0    0    3111496 Oct  5 2006 [ 430688 00] snowbags.aud 
+-r-xr-xr-x   1    0    0    3938696 Oct  5 2006 [ 432208 00] sweatsow.aud 
+-r-xr-xr-x   1    0    0     230208 Oct  5 2006 [ 406032 00] track12.aud 
+-r-xr-xr-x   1    0    0     797592 Oct  5 2006 [ 406160 00] track18.aud 
+-r-xr-xr-x   1    0    0       1233 Aug 11 2006 [ 401504 00] trackinfo 
+-r-xr-xr-x   1    0    0    2610664 Oct  5 2006 [ 434144 00] warped.aud 
+
+Directory listing of /PSP_GAME/USRDIR/data/eavis/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     34 02] . 
+dr-xr-xr-x   1    0    0       4096 Oct  5 2006 [     27 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     50 02] dat 
+
+Directory listing of /PSP_GAME/USRDIR/data/fe/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     35 02] . 
+dr-xr-xr-x   1    0    0       4096 Oct  5 2006 [     27 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     51 02] components 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     52 02] data 
+-r-xr-xr-x   1    0    0        208 Oct  5 2006 [ 385344 00] empty.big 
+-r-xr-xr-x   1    0    0        516 Oct  5 2006 [ 401248 00] fonttable.txt 
+-r-xr-xr-x   1    0    0     159656 Oct  5 2006 [ 385360 00] main.big 
+-r-xr-xr-x   1    0    0        708 Oct  5 2006 [ 385440 00] mainsystem.big 
+-r-xr-xr-x   1    0    0         69 Oct  5 2006 [ 401264 00] realfonts.txt 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     53 02] screens 
+
+Directory listing of /PSP_GAME/USRDIR/data/fonts/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     36 02] . 
+dr-xr-xr-x   1    0    0       4096 Oct  5 2006 [     27 02] .. 
+-r-xr-xr-x   1    0    0       8208 Jul 17 2006 [ 401280 00] auxgraph.mfn 
+-r-xr-xr-x   1    0    0      11024 May 29 2006 [ 383280 00] nfsbody10.mfn 
+-r-xr-xr-x   1    0    0      14672 May 29 2006 [ 383296 00] nfsbody12.mfn 
+-r-xr-xr-x   1    0    0       7056 May 29 2006 [ 383312 00] nfspixel8.mfn 
+-r-xr-xr-x   1    0    0      15312 May 29 2006 [ 383328 00] nfsrewards.mfn 
+-r-xr-xr-x   1    0    0      23888 May 29 2006 [ 383344 00] nfstitle20.mfn 
+-r-xr-xr-x   1    0    0     101648 Aug 22 2006 [ 401312 00] replaygradient_10.mfn 
+-r-xr-xr-x   1    0    0      19152 Oct  5 2006 [ 401296 00] replayheader.mfn 
+-r-xr-xr-x   1    0    0      10960 Oct  5 2006 [ 401376 00] replaylarge.mfn 
+-r-xr-xr-x   1    0    0      10960 Oct  5 2006 [ 401392 00] replaysmall.mfn 
+
+Directory listing of /PSP_GAME/USRDIR/data/locale/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     37 02] . 
+dr-xr-xr-x   1    0    0       4096 Oct  5 2006 [     27 02] .. 
+-r-xr-xr-x   1    0    0      37552 Oct  5 2006 [ 401408 00] english.loc 
+-r-xr-xr-x   1    0    0       4688 Oct  5 2006 [ 401440 00] string.idx 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     54 02] trc 
+
+Directory listing of /PSP_GAME/USRDIR/data/movies/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     38 02] . 
+dr-xr-xr-x   1    0    0       4096 Oct  5 2006 [     27 02] .. 
+-r-xr-xr-x   1    0    0    7860224 Aug 11 2006 [ 387248 00] attract.pmf 
+-r-xr-xr-x   1    0    0    5906432 Aug 10 2006 [ 391088 00] crosssell1.pmf 
+-r-xr-xr-x   1    0    0    7450624 Aug 23 2006 [ 393984 00] crosssell2.pmf 
+-r-xr-xr-x   1    0    0     464896 Aug 28 2006 [ 403472 00] eag_english.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/data/netcore/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     39 02] . 
+dr-xr-xr-x   1    0    0       4096 Oct  5 2006 [     27 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     55 02] apt 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     56 02] bootimages 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     57 02] fonts 
+-r-xr-xr-x   1    0    0     185440 Oct  5 2006 [ 399664 00] globe.viv 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     58 02] locale 
+-r-xr-xr-x   1    0    0     580642 Oct  5 2006 [ 399760 00] netcoreadhocboot.viv 
+-r-xr-xr-x   1    0    0     580642 Oct  5 2006 [ 400048 00] netcoreinetboot.viv 
+
+Directory listing of /PSP_GAME/USRDIR/data/saveicons/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     40 02] . 
+dr-xr-xr-x   1    0    0       4096 Oct  5 2006 [     27 02] .. 
+-r-xr-xr-x   1    0    0      14359 Aug 10 2006 [ 401232 00] xmb_retro_empty.png 
+-r-xr-xr-x   1    0    0      15277 Aug 10 2006 [ 401216 00] xmb_retro_saved.png 
+
+Directory listing of /PSP_GAME/USRDIR/data/sprreplace/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     41 02] . 
+dr-xr-xr-x   1    0    0       4096 Oct  5 2006 [     27 02] .. 
+-r-xr-xr-x   1    0    0       6512 Oct  5 2006 [ 412944 00] budokan_pause.msh 
+-r-xr-xr-x   1    0    0        368 Oct  5 2006 [ 414336 00] js_pause_a.msh 
+-r-xr-xr-x   1    0    0        368 Oct  5 2006 [ 414352 00] js_pause_b.msh 
+-r-xr-xr-x   1    0    0        368 Oct  5 2006 [ 414368 00] js_pause_c.msh 
+-r-xr-xr-x   1    0    0       1888 Oct  5 2006 [ 415456 00] mlf_areplay.msh 
+-r-xr-xr-x   1    0    0       1904 Oct  5 2006 [ 415472 00] mlf_btimeout.msh 
+-r-xr-xr-x   1    0    0       2048 Oct  5 2006 [ 415488 00] mlf_passrunnasty.msh 
+-r-xr-xr-x   1    0    0       2032 Oct  5 2006 [ 415504 00] mlf_play123.msh 
+-r-xr-xr-x   1    0    0       3984 Oct  5 2006 [ 415520 00] mlf_replayhud.msh 
+-r-xr-xr-x   1    0    0        384 Oct  5 2006 [ 420128 00] vp_blaster.msh 
+-r-xr-xr-x   1    0    0        512 Oct  5 2006 [ 420144 00] vp_grabber.msh 
+
+Directory listing of /PSP_GAME/USRDIR/data/textures/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     42 02] . 
+dr-xr-xr-x   1    0    0       4096 Oct  5 2006 [     27 02] .. 
+-r-xr-xr-x   1    0    0       7504 Oct  5 2006 [ 385456 00] 1992copy.msh 
+-r-xr-xr-x   1    0    0       7504 Oct  5 2006 [ 385472 00] 1993copy.msh 
+-r-xr-xr-x   1    0    0       7504 Oct  5 2006 [ 385488 00] 1994copy.msh 
+-r-xr-xr-x   1    0    0       7504 Oct  5 2006 [ 385504 00] 1995copy.msh 
+-r-xr-xr-x   1    0    0       4192 Oct  5 2006 [ 385520 00] loadingarrows.msh 
+-r-xr-xr-x   1    0    0      17744 Oct  5 2006 [ 385536 00] videoalpha.msh 
+
+Directory listing of /PSP_GAME/USRDIR/data/audio/aems/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     43 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     30 02] .. 
+-r-xr-xr-x   1    0    0      34428 May 29 2006 [ 401472 00] fe_bank.abk 
+-r-xr-xr-x   1    0    0         92 May 29 2006 [ 401456 00] retro_fe_sfx.csi 
+
+Directory listing of /PSP_GAME/USRDIR/data/cro/boxartbig/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     44 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0      95312 Oct  5 2006 [ 406560 00] bba00.msh 
+-r-xr-xr-x   1    0    0      95312 Oct  5 2006 [ 406608 00] bba01.msh 
+-r-xr-xr-x   1    0    0      95312 Oct  5 2006 [ 406656 00] bba02.msh 
+-r-xr-xr-x   1    0    0      95312 Oct  5 2006 [ 406704 00] bba03.msh 
+-r-xr-xr-x   1    0    0      95312 Oct  5 2006 [ 406752 00] bba04.msh 
+-r-xr-xr-x   1    0    0      95312 Oct  5 2006 [ 406800 00] bba05.msh 
+-r-xr-xr-x   1    0    0      95312 Oct  5 2006 [ 406848 00] bba06.msh 
+-r-xr-xr-x   1    0    0      95312 Oct  5 2006 [ 406896 00] bba07.msh 
+-r-xr-xr-x   1    0    0      95312 Oct  5 2006 [ 406944 00] bba08.msh 
+-r-xr-xr-x   1    0    0      95312 Oct  5 2006 [ 406992 00] bba09.msh 
+-r-xr-xr-x   1    0    0      95312 Oct  5 2006 [ 407040 00] bba10.msh 
+-r-xr-xr-x   1    0    0      95312 Oct  5 2006 [ 407088 00] bba11.msh 
+-r-xr-xr-x   1    0    0      95312 Oct  5 2006 [ 407136 00] bba12.msh 
+-r-xr-xr-x   1    0    0      95312 Oct  5 2006 [ 407184 00] bba13.msh 
+
+Directory listing of /PSP_GAME/USRDIR/data/cro/gamevideos/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     45 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0    3918208 Oct  5 2006 [ 401552 00] crovideos.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/cro/timelinemd/
+dr-xr-xr-x   1    0    0       4096 Oct  5 2006 [     46 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0      11472 Oct  5 2006 [ 405072 00] tlmd00_00.msh 
+-r-xr-xr-x   1    0    0      11472 Oct  5 2006 [ 405088 00] tlmd00_01.msh 
+-r-xr-xr-x   1    0    0      11472 Oct  5 2006 [ 405104 00] tlmd00_02.msh 
+-r-xr-xr-x   1    0    0      11472 Oct  5 2006 [ 405120 00] tlmd01_00.msh 
+-r-xr-xr-x   1    0    0      11472 Oct  5 2006 [ 405136 00] tlmd01_01.msh 
+-r-xr-xr-x   1    0    0      11472 Oct  5 2006 [ 405152 00] tlmd01_02.msh 
+-r-xr-xr-x   1    0    0      11488 Oct  5 2006 [ 405168 00] tlmd02_00.msh 
+-r-xr-xr-x   1    0    0      11472 Oct  5 2006 [ 405184 00] tlmd02_01.msh 
+-r-xr-xr-x   1    0    0      11472 Oct  5 2006 [ 405200 00] tlmd02_02.msh 
+-r-xr-xr-x   1    0    0      11472 Oct  5 2006 [ 405216 00] tlmd03_00.msh 
+-r-xr-xr-x   1    0    0      11472 Oct  5 2006 [ 405232 00] tlmd03_01.msh 
+-r-xr-xr-x   1    0    0      11472 Oct  5 2006 [ 405248 00] tlmd03_02.msh 
+-r-xr-xr-x   1    0    0      11472 Oct  5 2006 [ 405264 00] tlmd04_00.msh 
+-r-xr-xr-x   1    0    0      11472 Oct  5 2006 [ 405280 00] tlmd04_01.msh 
+-r-xr-xr-x   1    0    0      11472 Oct  5 2006 [ 405296 00] tlmd04_02.msh 
+-r-xr-xr-x   1    0    0      11472 Oct  5 2006 [ 405312 00] tlmd05_00.msh 
+-r-xr-xr-x   1    0    0      11472 Oct  5 2006 [ 405328 00] tlmd05_01.msh 
+-r-xr-xr-x   1    0    0      11472 Oct  5 2006 [ 405344 00] tlmd05_02.msh 
+-r-xr-xr-x   1    0    0      11472 Oct  5 2006 [ 405360 00] tlmd06_00.msh 
+-r-xr-xr-x   1    0    0      11472 Oct  5 2006 [ 405376 00] tlmd06_01.msh 
+-r-xr-xr-x   1    0    0      11472 Oct  5 2006 [ 405392 00] tlmd06_02.msh 
+-r-xr-xr-x   1    0    0      11472 Oct  5 2006 [ 405408 00] tlmd07_00.msh 
+-r-xr-xr-x   1    0    0      11472 Oct  5 2006 [ 405424 00] tlmd07_01.msh 
+-r-xr-xr-x   1    0    0      11472 Oct  5 2006 [ 405440 00] tlmd07_02.msh 
+-r-xr-xr-x   1    0    0      11472 Oct  5 2006 [ 405456 00] tlmd08_00.msh 
+-r-xr-xr-x   1    0    0      11472 Oct  5 2006 [ 405472 00] tlmd08_01.msh 
+-r-xr-xr-x   1    0    0      11472 Oct  5 2006 [ 405488 00] tlmd08_02.msh 
+-r-xr-xr-x   1    0    0      11472 Oct  5 2006 [ 405504 00] tlmd09_00.msh 
+-r-xr-xr-x   1    0    0      11472 Oct  5 2006 [ 405520 00] tlmd09_01.msh 
+-r-xr-xr-x   1    0    0      11472 Oct  5 2006 [ 405536 00] tlmd09_02.msh 
+-r-xr-xr-x   1    0    0      11472 Oct  5 2006 [ 405552 00] tlmd10_00.msh 
+-r-xr-xr-x   1    0    0      11472 Oct  5 2006 [ 405568 00] tlmd10_01.msh 
+-r-xr-xr-x   1    0    0      11472 Oct  5 2006 [ 405584 00] tlmd10_02.msh 
+-r-xr-xr-x   1    0    0      11472 Oct  5 2006 [ 405600 00] tlmd11_00.msh 
+-r-xr-xr-x   1    0    0      11472 Oct  5 2006 [ 405616 00] tlmd11_01.msh 
+-r-xr-xr-x   1    0    0      11472 Oct  5 2006 [ 405632 00] tlmd11_02.msh 
+-r-xr-xr-x   1    0    0      11472 Oct  5 2006 [ 405648 00] tlmd12_00.msh 
+-r-xr-xr-x   1    0    0      11472 Oct  5 2006 [ 405664 00] tlmd12_01.msh 
+-r-xr-xr-x   1    0    0      11472 Oct  5 2006 [ 405680 00] tlmd12_02.msh 
+-r-xr-xr-x   1    0    0      11472 Oct  5 2006 [ 405696 00] tlmd13_00.msh 
+-r-xr-xr-x   1    0    0      11472 Oct  5 2006 [ 405712 00] tlmd13_01.msh 
+-r-xr-xr-x   1    0    0      11472 Oct  5 2006 [ 405728 00] tlmd13_02.msh 
+-r-xr-xr-x   1    0    0      11472 Oct  5 2006 [ 405744 00] tlmd_lock00.msh 
+
+Directory listing of /PSP_GAME/USRDIR/data/cro/timelinepic/
+dr-xr-xr-x   1    0    0       4096 Oct  5 2006 [     48 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0      62944 Oct  5 2006 [ 403728 00] tlpv00_00.msh 
+-r-xr-xr-x   1    0    0      62944 Oct  5 2006 [ 403760 00] tlpv00_01.msh 
+-r-xr-xr-x   1    0    0      62944 Oct  5 2006 [ 403792 00] tlpv00_02.msh 
+-r-xr-xr-x   1    0    0      62944 Oct  5 2006 [ 403824 00] tlpv01_00.msh 
+-r-xr-xr-x   1    0    0      62944 Oct  5 2006 [ 403856 00] tlpv01_01.msh 
+-r-xr-xr-x   1    0    0      62944 Oct  5 2006 [ 403888 00] tlpv01_02.msh 
+-r-xr-xr-x   1    0    0      62928 Oct  5 2006 [ 403920 00] tlpv02_00.msh 
+-r-xr-xr-x   1    0    0      62944 Oct  5 2006 [ 403952 00] tlpv02_01.msh 
+-r-xr-xr-x   1    0    0      62944 Oct  5 2006 [ 403984 00] tlpv02_02.msh 
+-r-xr-xr-x   1    0    0      62944 Oct  5 2006 [ 404016 00] tlpv03_00.msh 
+-r-xr-xr-x   1    0    0      62944 Oct  5 2006 [ 404048 00] tlpv03_01.msh 
+-r-xr-xr-x   1    0    0      62944 Oct  5 2006 [ 404080 00] tlpv03_02.msh 
+-r-xr-xr-x   1    0    0      62944 Oct  5 2006 [ 404112 00] tlpv04_00.msh 
+-r-xr-xr-x   1    0    0      62944 Oct  5 2006 [ 404144 00] tlpv04_01.msh 
+-r-xr-xr-x   1    0    0      62944 Oct  5 2006 [ 404176 00] tlpv04_02.msh 
+-r-xr-xr-x   1    0    0      62944 Oct  5 2006 [ 404208 00] tlpv05_00.msh 
+-r-xr-xr-x   1    0    0      62944 Oct  5 2006 [ 404240 00] tlpv05_01.msh 
+-r-xr-xr-x   1    0    0      62944 Oct  5 2006 [ 404272 00] tlpv05_02.msh 
+-r-xr-xr-x   1    0    0      62944 Oct  5 2006 [ 404304 00] tlpv06_00.msh 
+-r-xr-xr-x   1    0    0      62944 Oct  5 2006 [ 404336 00] tlpv06_01.msh 
+-r-xr-xr-x   1    0    0      62944 Oct  5 2006 [ 404368 00] tlpv06_02.msh 
+-r-xr-xr-x   1    0    0      62944 Oct  5 2006 [ 404400 00] tlpv07_00.msh 
+-r-xr-xr-x   1    0    0      62944 Oct  5 2006 [ 404432 00] tlpv07_01.msh 
+-r-xr-xr-x   1    0    0      62944 Oct  5 2006 [ 404464 00] tlpv07_02.msh 
+-r-xr-xr-x   1    0    0      62944 Oct  5 2006 [ 404496 00] tlpv08_00.msh 
+-r-xr-xr-x   1    0    0      62944 Oct  5 2006 [ 404528 00] tlpv08_01.msh 
+-r-xr-xr-x   1    0    0      62944 Oct  5 2006 [ 404560 00] tlpv08_02.msh 
+-r-xr-xr-x   1    0    0      62944 Oct  5 2006 [ 404592 00] tlpv09_00.msh 
+-r-xr-xr-x   1    0    0      62944 Oct  5 2006 [ 404624 00] tlpv09_01.msh 
+-r-xr-xr-x   1    0    0      62944 Oct  5 2006 [ 404656 00] tlpv09_02.msh 
+-r-xr-xr-x   1    0    0      62944 Oct  5 2006 [ 404688 00] tlpv10_00.msh 
+-r-xr-xr-x   1    0    0      62944 Oct  5 2006 [ 404720 00] tlpv10_01.msh 
+-r-xr-xr-x   1    0    0      62944 Oct  5 2006 [ 404752 00] tlpv10_02.msh 
+-r-xr-xr-x   1    0    0      62944 Oct  5 2006 [ 404784 00] tlpv11_00.msh 
+-r-xr-xr-x   1    0    0      62944 Oct  5 2006 [ 404816 00] tlpv11_01.msh 
+-r-xr-xr-x   1    0    0      62944 Oct  5 2006 [ 404848 00] tlpv11_02.msh 
+-r-xr-xr-x   1    0    0      62944 Oct  5 2006 [ 404880 00] tlpv12_00.msh 
+-r-xr-xr-x   1    0    0      62944 Oct  5 2006 [ 404912 00] tlpv12_01.msh 
+-r-xr-xr-x   1    0    0      62944 Oct  5 2006 [ 404944 00] tlpv12_02.msh 
+-r-xr-xr-x   1    0    0      62944 Oct  5 2006 [ 404976 00] tlpv13_00.msh 
+-r-xr-xr-x   1    0    0      62944 Oct  5 2006 [ 405008 00] tlpv13_01.msh 
+-r-xr-xr-x   1    0    0      62944 Oct  5 2006 [ 405040 00] tlpv13_02.msh 
+
+Directory listing of /PSP_GAME/USRDIR/data/eavis/dat/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     50 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     34 02] .. 
+-r-xr-xr-x   1    0    0     199301 Oct  5 2006 [ 381328 00] fasolath.dat 
+-r-xr-xr-x   1    0    0     232997 Oct  5 2006 [ 381440 00] feta.dat 
+-r-xr-xr-x   1    0    0     461669 Oct  5 2006 [ 381568 00] flimsy.dat 
+-r-xr-xr-x   1    0    0      29157 Oct  5 2006 [ 381232 00] funknbub.dat 
+-r-xr-xr-x   1    0    0     282693 Oct  5 2006 [ 381808 00] gore.dat 
+-r-xr-xr-x   1    0    0     159493 Oct  5 2006 [ 381952 00] hallass.dat 
+-r-xr-xr-x   1    0    0     214213 Oct  5 2006 [ 382032 00] hydrus.dat 
+-r-xr-xr-x   1    0    0      31749 Oct  5 2006 [ 381248 00] ianattheroxy.dat 
+-r-xr-xr-x   1    0    0     170085 Oct  5 2006 [ 382144 00] overheat.dat 
+-r-xr-xr-x   1    0    0     153061 Oct  5 2006 [ 382240 00] pavlova.dat 
+-r-xr-xr-x   1    0    0     140037 Oct  5 2006 [ 382320 00] pwrslide.dat 
+-r-xr-xr-x   1    0    0     172901 Oct  5 2006 [ 382400 00] rampant.dat 
+-r-xr-xr-x   1    0    0     168549 Oct  5 2006 [ 382496 00] route99.dat 
+-r-xr-xr-x   1    0    0     174821 Oct  5 2006 [ 382592 00] scud.dat 
+-r-xr-xr-x   1    0    0     368869 Oct  5 2006 [ 382688 00] snowbags.dat 
+-r-xr-xr-x   1    0    0     466949 Oct  5 2006 [ 382880 00] sweatsow.dat 
+-r-xr-xr-x   1    0    0      27205 Oct  5 2006 [ 381264 00] track12.dat 
+-r-xr-xr-x   1    0    0      94501 Oct  5 2006 [ 381280 00] track18.dat 
+-r-xr-xr-x   1    0    0     309477 Oct  5 2006 [ 383120 00] warped.dat 
+
+Directory listing of /PSP_GAME/USRDIR/data/fe/components/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     51 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     35 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     59 02] artwork 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     60 02] controls 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     61 02] editors 
+
+Directory listing of /PSP_GAME/USRDIR/data/fe/data/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     52 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     35 02] .. 
+-r-xr-xr-x   1    0    0       3033 Oct  5 2006 [ 384288 00] windowinfo.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/fe/screens/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     53 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     35 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     62 02] boot 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     63 02] common 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     64 02] eatrax 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     65 02] loading 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     66 02] menu 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     67 02] online 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     68 02] pausemenu 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     69 02] trivia 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     70 02] unlockables 
+
+Directory listing of /PSP_GAME/USRDIR/data/locale/trc/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     54 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     37 02] .. 
+-r-xr-xr-x   1    0    0       5748 Jul  6 2006 [ 401184 00] english.loc 
+-r-xr-xr-x   1    0    0        424 Jul  6 2006 [ 401200 00] string.idx 
+
+Directory listing of /PSP_GAME/USRDIR/data/netcore/apt/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     55 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     39 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     71 02] components 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     72 02] data 
+-r-xr-xr-x   1    0    0        802 Oct  5 2006 [ 399328 00] fonttable.txt 
+-r-xr-xr-x   1    0    0     174522 Oct  5 2006 [ 399344 00] main.big 
+-r-xr-xr-x   1    0    0        692 Oct  5 2006 [ 399440 00] mainsystem.big 
+-r-xr-xr-x   1    0    0        142 Oct  5 2006 [ 399456 00] realfonts.txt 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     73 02] screens 
+
+Directory listing of /PSP_GAME/USRDIR/data/netcore/bootimages/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     56 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0      20832 Oct  5 2006 [ 399472 00] bootimages.msh 
+
+Directory listing of /PSP_GAME/USRDIR/data/netcore/fonts/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     57 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0       9360 Oct  5 2006 [ 399488 00] espntkr.mfn 
+-r-xr-xr-x   1    0    0      12624 Oct  5 2006 [ 399504 00] online_body.mfn 
+-r-xr-xr-x   1    0    0       8720 Oct  5 2006 [ 399520 00] online_bodydark.mfn 
+-r-xr-xr-x   1    0    0      13008 Oct  5 2006 [ 399536 00] online_headerbig.mfn 
+-r-xr-xr-x   1    0    0       9616 Oct  5 2006 [ 399552 00] online_headerbold.mfn 
+-r-xr-xr-x   1    0    0       9488 Oct  5 2006 [ 399568 00] online_headerheavy.mfn 
+-r-xr-xr-x   1    0    0       1712 Oct  5 2006 [ 399584 00] online_ranking.mfn 
+-r-xr-xr-x   1    0    0       1328 Oct  5 2006 [ 399600 00] online_rankingmini.mfn 
+
+Directory listing of /PSP_GAME/USRDIR/data/netcore/locale/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     58 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0      55288 Oct  5 2006 [ 399616 00] english.loc 
+-r-xr-xr-x   1    0    0       7424 Oct  5 2006 [ 399648 00] string.idx 
+
+Directory listing of /PSP_GAME/USRDIR/data/fe/components/artwork/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     59 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     51 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     74 02] backgrounds 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     75 02] headers 
+-r-xr-xr-x   1    0    0      22544 Oct  5 2006 [ 383648 00] stdart.big 
+-r-xr-xr-x   1    0    0     433344 Oct  5 2006 [ 383664 00] stdartreplay.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/fe/components/controls/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     60 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     51 02] .. 
+-r-xr-xr-x   1    0    0        592 Oct  5 2006 [ 383888 00] background.big 
+-r-xr-xr-x   1    0    0      14079 Oct  5 2006 [ 383904 00] buttons.big 
+-r-xr-xr-x   1    0    0      20848 Oct  5 2006 [ 383920 00] captiontext.big 
+-r-xr-xr-x   1    0    0      12016 Oct  5 2006 [ 383936 00] creditsroll.big 
+-r-xr-xr-x   1    0    0       4048 Oct  5 2006 [ 383952 00] cro.big 
+-r-xr-xr-x   1    0    0       1631 Oct  5 2006 [ 383968 00] footer.big 
+-r-xr-xr-x   1    0    0       2171 Oct  5 2006 [ 383984 00] header.big 
+-r-xr-xr-x   1    0    0      32512 Oct  5 2006 [ 384000 00] help.big 
+-r-xr-xr-x   1    0    0      10991 Oct  5 2006 [ 384016 00] highlight.big 
+-r-xr-xr-x   1    0    0      12144 Oct  5 2006 [ 384032 00] imageholder.big 
+-r-xr-xr-x   1    0    0      18727 Oct  5 2006 [ 384048 00] itemscroller.big 
+-r-xr-xr-x   1    0    0      46688 Oct  5 2006 [ 384064 00] overlay.big 
+-r-xr-xr-x   1    0    0      25296 Oct  5 2006 [ 384096 00] popup.big 
+-r-xr-xr-x   1    0    0       4403 Oct  5 2006 [ 384112 00] scrollbar.big 
+-r-xr-xr-x   1    0    0      29824 Oct  5 2006 [ 384128 00] slider.big 
+-r-xr-xr-x   1    0    0      47824 Oct  5 2006 [ 384144 00] sxb.big 
+-r-xr-xr-x   1    0    0      40192 Oct  5 2006 [ 384176 00] toggle.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/fe/components/editors/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     61 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     51 02] .. 
+-r-xr-xr-x   1    0    0      15472 Oct  5 2006 [ 384208 00] alpha.big 
+-r-xr-xr-x   1    0    0       5776 Oct  5 2006 [ 384224 00] bgeditor.big 
+-r-xr-xr-x   1    0    0       9312 Oct  5 2006 [ 384240 00] helpeditor.big 
+-r-xr-xr-x   1    0    0      11536 Oct  5 2006 [ 384256 00] move.big 
+-r-xr-xr-x   1    0    0      11056 Oct  5 2006 [ 401520 00] scale.big 
+-r-xr-xr-x   1    0    0       6064 Oct  5 2006 [ 384272 00] sxbeditor.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/fe/screens/boot/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     62 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     53 02] .. 
+-r-xr-xr-x   1    0    0     119952 Oct  5 2006 [ 384304 00] bootloading.big 
+-r-xr-xr-x   1    0    0     165536 Oct  5 2006 [ 384368 00] titlescreen.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/fe/screens/common/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     63 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     53 02] .. 
+-r-xr-xr-x   1    0    0       7376 Oct  5 2006 [ 384464 00] darkoverlay.big 
+-r-xr-xr-x   1    0    0      84032 Oct  5 2006 [ 384480 00] eaextras.big 
+-r-xr-xr-x   1    0    0      27904 Oct  5 2006 [ 384528 00] eareplaycredits.big 
+-r-xr-xr-x   1    0    0      13504 Oct  5 2006 [ 384544 00] gameinfopopup.big 
+-r-xr-xr-x   1    0    0      33776 Oct  5 2006 [ 384560 00] gameoptions.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/fe/screens/eatrax/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     64 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     53 02] .. 
+-r-xr-xr-x   1    0    0      19968 Oct  5 2006 [ 401536 00] eatraxchyron.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/fe/screens/loading/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     65 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     53 02] .. 
+-r-xr-xr-x   1    0    0     110016 Oct  5 2006 [ 384592 00] beloadingscreen.big 
+-r-xr-xr-x   1    0    0      87168 Oct  5 2006 [ 384656 00] loadingscreen1.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/fe/screens/menu/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     66 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     53 02] .. 
+-r-xr-xr-x   1    0    0     396096 Oct  5 2006 [ 384704 00] mainmenu.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/fe/screens/online/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     67 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     53 02] .. 
+-r-xr-xr-x   1    0    0       8367 Oct  5 2006 [ 384912 00] onlinemessage.big 
+-r-xr-xr-x   1    0    0      26160 Oct  5 2006 [ 384928 00] onlinepause.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/fe/screens/pausemenu/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     68 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     53 02] .. 
+-r-xr-xr-x   1    0    0      13655 Oct  5 2006 [ 384944 00] controlinfo.big 
+-r-xr-xr-x   1    0    0      20368 Oct  5 2006 [ 384976 00] hints.big 
+-r-xr-xr-x   1    0    0      17255 Oct  5 2006 [ 384960 00] pausemenu.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/fe/screens/trivia/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     69 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     53 02] .. 
+-r-xr-xr-x   1    0    0      69152 Oct  5 2006 [ 384992 00] triviabreakdown.big 
+-r-xr-xr-x   1    0    0     182544 Oct  5 2006 [ 385040 00] triviagame.big 
+-r-xr-xr-x   1    0    0      11456 Oct  5 2006 [ 385136 00] triviaresult.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/fe/screens/unlockables/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     70 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     53 02] .. 
+-r-xr-xr-x   1    0    0     266560 Oct  5 2006 [ 385152 00] unlockableartmenu.big 
+-r-xr-xr-x   1    0    0      26576 Oct  5 2006 [ 385296 00] unlockableartview.big 
+-r-xr-xr-x   1    0    0      15168 Oct  5 2006 [ 385312 00] unlockablepopup.big 
+-r-xr-xr-x   1    0    0      25872 Oct  5 2006 [ 385328 00] unlockables.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/netcore/apt/components/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     71 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     55 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     76 02] artwork 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     77 02] audio 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     78 02] controls 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     79 02] editors 
+
+Directory listing of /PSP_GAME/USRDIR/data/netcore/apt/data/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     72 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     55 02] .. 
+-r-xr-xr-x   1    0    0       2907 Oct  5 2006 [ 398464 00] internetmainmenudata.big 
+-r-xr-xr-x   1    0    0       3969 Oct  5 2006 [ 398480 00] windowinfo.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/netcore/apt/screens/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     73 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     55 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     80 02] adhoc 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     81 02] common 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     82 02] eaconnect 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     83 02] eamessenger 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     84 02] eatrax 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     85 02] internet 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     86 02] menu 
+
+Directory listing of /PSP_GAME/USRDIR/data/fe/components/artwork/backgrounds/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     74 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     59 02] .. 
+-r-xr-xr-x   1    0    0      67968 Oct  5 2006 [ 383360 00] bg_beloading.big 
+-r-xr-xr-x   1    0    0      68080 Oct  5 2006 [ 383408 00] bg_common.big 
+-r-xr-xr-x   1    0    0      68080 Oct  5 2006 [ 383456 00] bg_credits.big 
+-r-xr-xr-x   1    0    0       2896 Oct  5 2006 [ 383504 00] bg_empty.big 
+-r-xr-xr-x   1    0    0      67952 Oct  5 2006 [ 383520 00] bg_loading.big 
+-r-xr-xr-x   1    0    0      67952 Oct  5 2006 [ 383568 00] bg_mainmenu.big 
+-r-xr-xr-x   1    0    0      17616 Oct  5 2006 [ 383616 00] default.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/fe/components/artwork/headers/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     75 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     59 02] .. 
+-r-xr-xr-x   1    0    0       9792 Oct  5 2006 [ 383632 00] timeline_0.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/netcore/apt/components/artwork/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     76 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     71 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     87 02] animations 
+-r-xr-xr-x   1    0    0     121312 Oct  5 2006 [ 397664 00] netart.big 
+-r-xr-xr-x   1    0    0      23056 Oct  5 2006 [ 397728 00] netart2.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/netcore/apt/components/audio/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     77 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     71 02] .. 
+-r-xr-xr-x   1    0    0      45176 Oct  5 2006 [ 397744 00] stdsound.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/netcore/apt/components/controls/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     78 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     71 02] .. 
+-r-xr-xr-x   1    0    0        592 Oct  5 2006 [ 397776 00] background.big 
+-r-xr-xr-x   1    0    0       3648 Oct  5 2006 [ 397792 00] cro.big 
+-r-xr-xr-x   1    0    0      12192 Oct  5 2006 [ 397808 00] imageholder.big 
+-r-xr-xr-x   1    0    0      27856 Oct  5 2006 [ 397824 00] netbuttons.big 
+-r-xr-xr-x   1    0    0       6139 Oct  5 2006 [ 397840 00] netchat.big 
+-r-xr-xr-x   1    0    0      16079 Oct  5 2006 [ 397856 00] netedittextbutton.big 
+-r-xr-xr-x   1    0    0      55376 Oct  5 2006 [ 397872 00] netflags.big 
+-r-xr-xr-x   1    0    0       6259 Oct  5 2006 [ 397904 00] netfooter.big 
+-r-xr-xr-x   1    0    0      10863 Oct  5 2006 [ 397920 00] netheader.big 
+-r-xr-xr-x   1    0    0      46032 Oct  5 2006 [ 397936 00] nethelp.big 
+-r-xr-xr-x   1    0    0      13664 Oct  5 2006 [ 397968 00] nethighlight.big 
+-r-xr-xr-x   1    0    0      97248 Oct  5 2006 [ 397984 00] neticonlistbox.big 
+-r-xr-xr-x   1    0    0      19883 Oct  5 2006 [ 398032 00] netitemscroller.big 
+-r-xr-xr-x   1    0    0      18176 Oct  5 2006 [ 398048 00] netlevelmeter.big 
+-r-xr-xr-x   1    0    0      51040 Oct  5 2006 [ 398064 00] netmedallion.big 
+-r-xr-xr-x   1    0    0     104688 Oct  5 2006 [ 398096 00] netmessenger.big 
+-r-xr-xr-x   1    0    0       8320 Oct  5 2006 [ 398160 00] netmeterslider.big 
+-r-xr-xr-x   1    0    0      12763 Oct  5 2006 [ 398176 00] netoverlay.big 
+-r-xr-xr-x   1    0    0      28976 Oct  5 2006 [ 398192 00] netpopup.big 
+-r-xr-xr-x   1    0    0       7008 Oct  5 2006 [ 398208 00] netrepmeter.big 
+-r-xr-xr-x   1    0    0       9152 Oct  5 2006 [ 398224 00] netscrollbar.big 
+-r-xr-xr-x   1    0    0      29968 Oct  5 2006 [ 398240 00] netshouldertoggle.big 
+-r-xr-xr-x   1    0    0      22807 Oct  5 2006 [ 398256 00] netslider.big 
+-r-xr-xr-x   1    0    0      58816 Oct  5 2006 [ 398272 00] netsxb.big 
+-r-xr-xr-x   1    0    0      22368 Oct  5 2006 [ 398304 00] nettabs.big 
+-r-xr-xr-x   1    0    0      33968 Oct  5 2006 [ 398320 00] netticker.big 
+-r-xr-xr-x   1    0    0      25887 Oct  5 2006 [ 398352 00] nettoggle.big 
+-r-xr-xr-x   1    0    0      32448 Oct  5 2006 [ 398368 00] toggle.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/netcore/apt/components/editors/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     79 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     71 02] .. 
+-r-xr-xr-x   1    0    0      15472 Oct  5 2006 [ 398384 00] alpha.big 
+-r-xr-xr-x   1    0    0      14208 Oct  5 2006 [ 398400 00] bgeditor.big 
+-r-xr-xr-x   1    0    0      10688 Oct  5 2006 [ 398416 00] helpeditor.big 
+-r-xr-xr-x   1    0    0      11520 Oct  5 2006 [ 398432 00] move.big 
+-r-xr-xr-x   1    0    0       6416 Oct  5 2006 [ 398448 00] sxbeditor.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/netcore/apt/screens/adhoc/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     80 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     73 02] .. 
+-r-xr-xr-x   1    0    0      11456 Oct  5 2006 [ 398496 00] adhocconnecting.big 
+-r-xr-xr-x   1    0    0      40144 Oct  5 2006 [ 398512 00] adhocgameroom.big 
+-r-xr-xr-x   1    0    0      23024 Oct  5 2006 [ 398544 00] adhoclobby.big 
+-r-xr-xr-x   1    0    0      17569 Oct  5 2006 [ 398560 00] adhocplayerselect.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/netcore/apt/screens/common/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     81 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     73 02] .. 
+-r-xr-xr-x   1    0    0      34994 Oct  5 2006 [ 398576 00] netcreategame.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/netcore/apt/screens/eaconnect/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     82 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     73 02] .. 
+-r-xr-xr-x   1    0    0      10496 Oct  5 2006 [ 398608 00] internetage.big 
+-r-xr-xr-x   1    0    0      23760 Oct  5 2006 [ 398624 00] internetchoosecountry.big 
+-r-xr-xr-x   1    0    0      36292 Oct  5 2006 [ 398640 00] internetcreatenewaccount.big 
+-r-xr-xr-x   1    0    0      15440 Oct  5 2006 [ 398672 00] internetdupacct.big 
+-r-xr-xr-x   1    0    0      16304 Oct  5 2006 [ 398688 00] internetduppers.big 
+-r-xr-xr-x   1    0    0      22063 Oct  5 2006 [ 398704 00] interneteditacct.big 
+-r-xr-xr-x   1    0    0       9347 Oct  5 2006 [ 398720 00] internetforeignreg.big 
+-r-xr-xr-x   1    0    0      12399 Oct  5 2006 [ 398736 00] internetforgotacct.big 
+-r-xr-xr-x   1    0    0      61919 Oct  5 2006 [ 398752 00] internetoffer.big 
+-r-xr-xr-x   1    0    0      12831 Oct  5 2006 [ 398784 00] internetparentalemail.big 
+-r-xr-xr-x   1    0    0      16835 Oct  5 2006 [ 398800 00] internetselectpers.big 
+-r-xr-xr-x   1    0    0      15936 Oct  5 2006 [ 398816 00] internetsigninmenu.big 
+-r-xr-xr-x   1    0    0      18563 Oct  5 2006 [ 398832 00] internetuseexisting.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/netcore/apt/screens/eamessenger/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     83 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     73 02] .. 
+-r-xr-xr-x   1    0    0      14315 Oct  5 2006 [ 398848 00] eamessengerfeedback.big 
+-r-xr-xr-x   1    0    0      17247 Oct  5 2006 [ 398864 00] eamessengerinvitetogame.big 
+-r-xr-xr-x   1    0    0      16251 Oct  5 2006 [ 398880 00] eamessengerreadmessage.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/netcore/apt/screens/eatrax/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     84 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     73 02] .. 
+-r-xr-xr-x   1    0    0      25904 Oct  5 2006 [ 398896 00] eatraxchyron.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/netcore/apt/screens/internet/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     85 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     73 02] .. 
+-r-xr-xr-x   1    0    0      33638 Oct  5 2006 [ 398912 00] generalsettings.big 
+-r-xr-xr-x   1    0    0      42816 Oct  5 2006 [ 398944 00] internetealocker.big 
+-r-xr-xr-x   1    0    0      22435 Oct  5 2006 [ 398976 00] interneteditmessage.big 
+-r-xr-xr-x   1    0    0      21120 Oct  5 2006 [ 398992 00] internetgamechannels.big 
+-r-xr-xr-x   1    0    0      17511 Oct  5 2006 [ 399008 00] internetgameinfo.big 
+-r-xr-xr-x   1    0    0      46192 Oct  5 2006 [ 399024 00] internetldrbrdlaprecord.big 
+-r-xr-xr-x   1    0    0      48896 Oct  5 2006 [ 399056 00] internetldrbrdtop100sport.big 
+-r-xr-xr-x   1    0    0      38144 Oct  5 2006 [ 399088 00] internetlobby.big 
+-r-xr-xr-x   1    0    0      20367 Oct  5 2006 [ 399120 00] internetlockeraction.big 
+-r-xr-xr-x   1    0    0      54528 Oct  5 2006 [ 399136 00] internetplayerroom.big 
+-r-xr-xr-x   1    0    0      18101 Oct  5 2006 [ 399168 00] internetplayerselect.big 
+-r-xr-xr-x   1    0    0      33234 Oct  5 2006 [ 399184 00] internetplaynowsettings.big 
+-r-xr-xr-x   1    0    0      22999 Oct  5 2006 [ 399216 00] internetquickmessages.big 
+-r-xr-xr-x   1    0    0      27872 Oct  5 2006 [ 399232 00] internetsendmessage.big 
+-r-xr-xr-x   1    0    0      23536 Oct  5 2006 [ 399248 00] internetstatbook.big 
+-r-xr-xr-x   1    0    0      17367 Oct  5 2006 [ 399264 00] internetupload.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/netcore/apt/screens/menu/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     86 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     73 02] .. 
+-r-xr-xr-x   1    0    0       5383 Oct  5 2006 [ 399280 00] genericbackground.big 
+-r-xr-xr-x   1    0    0      37008 Oct  5 2006 [ 399296 00] internetmainmenu.big 
+
+Directory listing of /PSP_GAME/USRDIR/data/netcore/apt/components/artwork/animations/
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     87 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  5 2006 [     76 02] .. 
+-r-xr-xr-x   1    0    0      46976 Oct  5 2006 [ 397632 00] popupwaiting.big 
+=============================================================== 
+Generated on Sat 20/08/2022 at 10:11:16.89 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

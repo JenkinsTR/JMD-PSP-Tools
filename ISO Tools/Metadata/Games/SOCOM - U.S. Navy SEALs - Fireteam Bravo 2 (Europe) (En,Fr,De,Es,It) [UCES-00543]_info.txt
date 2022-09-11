@@ -1,0 +1,815 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: SOCOM - U.S. Navy SEALs - Fireteam Bravo 2   
+Title ID: UCES-00543 
+Region: Europe  
+Languages: En,Fr,De,Es,It  
+Volume Creation Date: 2007-04-18 11:16:55 
+Volume Size: 1595 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: FTB2SCEE
+Volume set id: 
+Publisher id: SCEE
+Data preparer id: JAY EMBRY
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 816704
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2007 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Feb 15 2007 [     65 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2007 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     22 02] .. 
+-r-xr-xr-x   1    0    0      14921 Apr 17 2007 [  23728 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     270336 Apr 17 2007 [  23744 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 Apr 18 2007 [  23888 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     220105 Apr 17 2007 [  23904 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0      90788 Apr 17 2007 [  24016 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2007 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2007 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2007 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2007 [     23 02] .. 
+-r-xr-xr-x   1    0    0      51648 Apr 17 2007 [  20608 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0      51984 Apr 18 2007 [     80 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2007 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2007 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2007 [     23 02] .. 
+-r-xr-xr-x   1    0    0      14921 Apr 17 2007 [  24064 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     270336 Apr 17 2007 [  24080 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 Apr 18 2007 [  24224 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     220105 Apr 17 2007 [  24240 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       4096 Feb 15 2007 [     27 02] RUN 
+-r-xr-xr-x   1    0    0      90788 Apr 17 2007 [  24352 00] SND0.AT3 
+-r-xr-xr-x   1    0    0    6315888 Apr 18 2007 [  20640 00] SOCOMPSP.PRX 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2007 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2007 [     24 02] .. 
+-r-xr-xr-x   1    0    0   16833136 Feb 15 2007 [   4224 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5213248 Feb 15 2007 [    128 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Feb 15 2007 [    112 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/RUN/
+dr-xr-xr-x   1    0    0       4096 Feb 15 2007 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2007 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     29 02] AIRPORT_SP 
+-r-xr-xr-x   1    0    0     961728 Apr 17 2007 [  24400 00] AUX_GZAN.ZDB 
+-r-xr-xr-x   1    0    0     112064 Apr 17 2007 [  24880 00] AUX_MZAN.ZDB 
+-r-xr-xr-x   1    0    0        384 Apr 17 2007 [  24944 00] AUX_SOUN.ZDB 
+-r-xr-xr-x   1    0    0     366016 Apr 17 2007 [  24960 00] AUX_SVO.ZDB 
+-r-xr-xr-x   1    0    0     411136 Apr 17 2007 [  25152 00] AUX_SZAN.ZDB 
+-r-xr-xr-x   1    0    0      90304 Apr 17 2007 [  25360 00] AUX_VZAN.ZDB 
+-r-xr-xr-x   1    0    0      18368 Apr 17 2007 [  25408 00] AUX_ZRDR.ZDB 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     30 02] BORDER_TOWN_MP 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     31 02] BORDER_TOWN_SP 
+-r-xr-xr-x   1    0    0      13888 Apr 17 2007 [  25440 00] CUSTOMCH.ZDB 
+-r-xr-xr-x   1    0    0        951 Apr 17 2007 [  25424 00] Commerce_Beta_14.cer 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     32 02] DAM_MP 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     33 02] DAM_SP 
+-r-xr-xr-x   1    0    0     680320 Apr 17 2007 [  25456 00] FLASH.ZDB 
+-r-xr-xr-x   1    0    0     552896 Apr 17 2007 [  25792 00] FLASHMP.ZDB 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     34 02] FORT_MP 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     35 02] FORT_SP 
+-r-xr-xr-x   1    0    0     346240 Apr 17 2007 [  26064 00] FRENCH.ZDB 
+-r-xr-xr-x   1    0    0     346240 Apr 17 2007 [  26240 00] GERMAN.ZDB 
+-r-xr-xr-x   1    0    0    1552896 Apr 17 2007 [  26416 00] GLOBAL.ZDB 
+-r-xr-xr-x   1    0    0    8319168 Apr 17 2007 [  27184 00] GSSGAME.DAT 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     36 02] HEROIN_COMPLEX_MP 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     37 02] HEROIN_COMPLEX_SP 
+-r-xr-xr-x   1    0    0     346240 Apr 17 2007 [  31248 00] ITALIAN.ZDB 
+-r-xr-xr-x   1    0    0     216832 Apr 17 2007 [  31424 00] KEYSTONE.ZDB 
+-r-xr-xr-x   1    0    0    1080256 Apr 17 2007 [  31536 00] LIBMISSI.ZDB 
+-r-xr-xr-x   1    0    0     185024 Apr 17 2007 [  32064 00] LOADSCRE.ZDB 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     38 02] MOUNTAIN_SP 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     39 02] MOVIES 
+-r-xr-xr-x   1    0    0        384 Apr 17 2007 [  32160 00] MPBASE.ZDB 
+-r-xr-xr-x   1    0    0     198656 Apr 17 2007 [  32176 00] MPIMGAST.ZDB 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     40 02] MP_CHILE_NEIGHBORHOOD 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     41 02] MP_MOROCCO_MARKET 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     42 02] MP_MOROCCO_ROCKSLIDE 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     43 02] MP_POLAND_WINTER 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     44 02] OLYMPIC_CAMP_SP 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     45 02] POPPY_FIELD_MP 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     46 02] POPPY_FIELD_SP 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     47 02] RAW 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     48 02] RIVERBED_SP 
+-r-xr-xr-x   1    0    0        950 Apr 17 2007 [  32288 00] SOCOM_PSP_FB_16.cer 
+dr-xr-xr-x   1    0    0       4096 Apr 18 2007 [     49 02] SOUNDS 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     51 02] SOVIET_BASE_MP 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     52 02] SOVIET_BASE_SP 
+-r-xr-xr-x   1    0    0     346240 Apr 17 2007 [  32304 00] SPANISH.ZDB 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     53 02] UI_FLASH 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     54 02] UI_MOVIE 
+-r-xr-xr-x   1    0    0     346240 Apr 17 2007 [  32480 00] UK.ZDB 
+-r-xr-xr-x   1    0    0      14784 Apr 17 2007 [  32656 00] VEH_C130.ZDB 
+-r-xr-xr-x   1    0    0       9792 Apr 17 2007 [  32672 00] VEH_F18.ZDB 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     55 02] VILLAGE_SP1 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     56 02] VILLAGE_SP2 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     57 02] VILLA_MP 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     58 02] VILLA_SP 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     59 02] WATER_RIG_DYN 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     60 02] WATER_RIG_MP 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     61 02] WATER_RIG_SP 
+-r-xr-xr-x   1    0    0        384 Apr 17 2007 [  32688 00] WOODLAND.ZDB 
+
+Directory listing of /PSP_GAME/USRDIR/RUN/AIRPORT_SP/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     29 02] . 
+dr-xr-xr-x   1    0    0       4096 Feb 15 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0     392832 Apr 17 2007 [  42048 00] AIRPORT_.ZDB 
+-r-xr-xr-x   1    0    0     255104 Apr 17 2007 [  42240 00] DYNAMIC.ZDB 
+-r-xr-xr-x   1    0    0    3860032 Apr 17 2007 [  42368 00] ISLAND_A.ZDB 
+-r-xr-xr-x   1    0    0     246656 Apr 17 2007 [  44256 00] SP.ZDB 
+-r-xr-xr-x   1    0    0     781056 Apr 17 2007 [  44384 00] VCOMMON_DYNAMIC.ZDB 
+-r-xr-xr-x   1    0    0     651008 Apr 17 2007 [  44768 00] VCOMMON_SP.ZDB 
+-r-xr-xr-x   1    0    0     218176 Apr 17 2007 [  45088 00] Z3A_C02.ZDB 
+-r-xr-xr-x   1    0    0     105984 Apr 17 2007 [  45200 00] Z3A_INS.ZDB 
+
+Directory listing of /PSP_GAME/USRDIR/RUN/BORDER_TOWN_MP/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     30 02] . 
+dr-xr-xr-x   1    0    0       4096 Feb 15 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0     269760 Apr 17 2007 [ 152656 00] BORDER_T.ZDB 
+-r-xr-xr-x   1    0    0      84672 Apr 17 2007 [ 152800 00] DEFAULT.ZDB 
+-r-xr-xr-x   1    0    0     214080 Apr 17 2007 [ 152848 00] DEM.ZDB 
+-r-xr-xr-x   1    0    0     219456 Apr 17 2007 [ 152960 00] EXT.ZDB 
+-r-xr-xr-x   1    0    0     208576 Apr 17 2007 [ 153072 00] FFA.ZDB 
+-r-xr-xr-x   1    0    0     217024 Apr 17 2007 [ 153184 00] INT.ZDB 
+-r-xr-xr-x   1    0    0    2984384 Apr 17 2007 [ 153296 00] ISLAND_B.ZDB 
+-r-xr-xr-x   1    0    0     211456 Apr 17 2007 [ 154768 00] SUP.ZDB 
+-r-xr-xr-x   1    0    0     208192 Apr 17 2007 [ 154880 00] TAG.ZDB 
+-r-xr-xr-x   1    0    0     211904 Apr 17 2007 [ 154992 00] TAR.ZDB 
+-r-xr-xr-x   1    0    0     218112 Apr 17 2007 [ 155104 00] TOW.ZDB 
+-r-xr-xr-x   1    0    0     115776 Apr 17 2007 [ 155216 00] VCOMMON_DEFAULT.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 155280 00] VCOMMON_DEM.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 156128 00] VCOMMON_EXT.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 156976 00] VCOMMON_FFA.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 157824 00] VCOMMON_INT.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 158672 00] VCOMMON_SUP.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 159520 00] VCOMMON_TAG.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 160368 00] VCOMMON_TAR.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 161216 00] VCOMMON_TOW.ZDB 
+
+Directory listing of /PSP_GAME/USRDIR/RUN/BORDER_TOWN_SP/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     31 02] . 
+dr-xr-xr-x   1    0    0       4096 Feb 15 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0     387904 Apr 17 2007 [  45264 00] BORDER_T.ZDB 
+-r-xr-xr-x   1    0    0     280320 Apr 17 2007 [  45456 00] DYNAMIC.ZDB 
+-r-xr-xr-x   1    0    0    3508480 Apr 17 2007 [  45600 00] ISLAND_B.ZDB 
+-r-xr-xr-x   1    0    0     227008 Apr 17 2007 [  47328 00] SP.ZDB 
+-r-xr-xr-x   1    0    0     921344 Apr 17 2007 [  47440 00] VCOMMON_DYNAMIC.ZDB 
+-r-xr-xr-x   1    0    0     702016 Apr 17 2007 [  47904 00] VCOMMON_SP.ZDB 
+-r-xr-xr-x   1    0    0     500288 Apr 17 2007 [  48256 00] Z7D_C01.ZDB 
+-r-xr-xr-x   1    0    0     310656 Apr 17 2007 [  48512 00] Z7D_EXT.ZDB 
+-r-xr-xr-x   1    0    0     102912 Apr 17 2007 [  48672 00] Z7D_INS.ZDB 
+
+Directory listing of /PSP_GAME/USRDIR/RUN/DAM_MP/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     32 02] . 
+dr-xr-xr-x   1    0    0       4096 Feb 15 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0     269760 Apr 17 2007 [ 162064 00] DAM_MP.ZDB 
+-r-xr-xr-x   1    0    0      92480 Apr 17 2007 [ 162208 00] DEFAULT.ZDB 
+-r-xr-xr-x   1    0    0     216704 Apr 17 2007 [ 162256 00] DEM.ZDB 
+-r-xr-xr-x   1    0    0     222080 Apr 17 2007 [ 162368 00] EXT.ZDB 
+-r-xr-xr-x   1    0    0     211200 Apr 17 2007 [ 162480 00] FFA.ZDB 
+-r-xr-xr-x   1    0    0     219648 Apr 17 2007 [ 162592 00] INT.ZDB 
+-r-xr-xr-x   1    0    0    2922560 Apr 17 2007 [ 162704 00] ISLAND_D.ZDB 
+-r-xr-xr-x   1    0    0     214016 Apr 17 2007 [ 164144 00] SUP.ZDB 
+-r-xr-xr-x   1    0    0     210816 Apr 17 2007 [ 164256 00] TAG.ZDB 
+-r-xr-xr-x   1    0    0     214528 Apr 17 2007 [ 164368 00] TAR.ZDB 
+-r-xr-xr-x   1    0    0     220672 Apr 17 2007 [ 164480 00] TOW.ZDB 
+-r-xr-xr-x   1    0    0     229696 Apr 17 2007 [ 164592 00] VCOMMON_DEFAULT.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 164720 00] VCOMMON_DEM.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 165568 00] VCOMMON_EXT.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 166416 00] VCOMMON_FFA.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 167264 00] VCOMMON_INT.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 168112 00] VCOMMON_SUP.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 168960 00] VCOMMON_TAG.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 169808 00] VCOMMON_TAR.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 170656 00] VCOMMON_TOW.ZDB 
+
+Directory listing of /PSP_GAME/USRDIR/RUN/DAM_SP/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     33 02] . 
+dr-xr-xr-x   1    0    0       4096 Feb 15 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0     429376 Apr 17 2007 [  48736 00] DAM_SP.ZDB 
+-r-xr-xr-x   1    0    0     272000 Apr 17 2007 [  48960 00] DYNAMIC.ZDB 
+-r-xr-xr-x   1    0    0    4607616 Apr 17 2007 [  49104 00] ISLAND_D.ZDB 
+-r-xr-xr-x   1    0    0     258112 Apr 17 2007 [  51360 00] SP.ZDB 
+-r-xr-xr-x   1    0    0     812544 Apr 17 2007 [  51488 00] VCOMMON_DYNAMIC.ZDB 
+-r-xr-xr-x   1    0    0     587392 Apr 17 2007 [  51888 00] VCOMMON_SP.ZDB 
+-r-xr-xr-x   1    0    0     480320 Apr 17 2007 [  52176 00] Z4A_EXT.ZDB 
+-r-xr-xr-x   1    0    0     110144 Apr 17 2007 [  52416 00] Z4A_INS.ZDB 
+
+Directory listing of /PSP_GAME/USRDIR/RUN/FORT_MP/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     34 02] . 
+dr-xr-xr-x   1    0    0       4096 Feb 15 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0      82880 Apr 17 2007 [ 171504 00] DEFAULT.ZDB 
+-r-xr-xr-x   1    0    0     211072 Apr 17 2007 [ 171552 00] DEM.ZDB 
+-r-xr-xr-x   1    0    0     215168 Apr 17 2007 [ 171664 00] EXT.ZDB 
+-r-xr-xr-x   1    0    0     205504 Apr 17 2007 [ 171776 00] FFA.ZDB 
+-r-xr-xr-x   1    0    0     269760 Apr 17 2007 [ 171888 00] FORT_MP.ZDB 
+-r-xr-xr-x   1    0    0     214016 Apr 17 2007 [ 172032 00] INT.ZDB 
+-r-xr-xr-x   1    0    0    2619264 Apr 17 2007 [ 172144 00] ISLAND_F.ZDB 
+-r-xr-xr-x   1    0    0     208512 Apr 17 2007 [ 173424 00] SUP.ZDB 
+-r-xr-xr-x   1    0    0     205248 Apr 17 2007 [ 173536 00] TAG.ZDB 
+-r-xr-xr-x   1    0    0     208832 Apr 17 2007 [ 173648 00] TAR.ZDB 
+-r-xr-xr-x   1    0    0     215104 Apr 17 2007 [ 173760 00] TOW.ZDB 
+-r-xr-xr-x   1    0    0     131072 Apr 17 2007 [ 173872 00] VCOMMON_DEFAULT.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 173936 00] VCOMMON_DEM.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 174784 00] VCOMMON_EXT.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 175632 00] VCOMMON_FFA.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 176480 00] VCOMMON_INT.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 177328 00] VCOMMON_SUP.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 178176 00] VCOMMON_TAG.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 179024 00] VCOMMON_TAR.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 179872 00] VCOMMON_TOW.ZDB 
+
+Directory listing of /PSP_GAME/USRDIR/RUN/FORT_SP/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     35 02] . 
+dr-xr-xr-x   1    0    0       4096 Feb 15 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0     268864 Apr 17 2007 [  52480 00] DYNAMIC.ZDB 
+-r-xr-xr-x   1    0    0     387520 Apr 17 2007 [  52624 00] FORT_SP.ZDB 
+-r-xr-xr-x   1    0    0    5419456 Apr 17 2007 [  52816 00] ISLAND_F.ZDB 
+-r-xr-xr-x   1    0    0     256512 Apr 17 2007 [  55472 00] SP.ZDB 
+-r-xr-xr-x   1    0    0     785728 Apr 17 2007 [  55600 00] VCOMMON_DYNAMIC.ZDB 
+-r-xr-xr-x   1    0    0     514176 Apr 17 2007 [  55984 00] VCOMMON_SP.ZDB 
+-r-xr-xr-x   1    0    0       2240 Apr 17 2007 [  56240 00] Z7B_C01.ZDB 
+-r-xr-xr-x   1    0    0     416384 Apr 17 2007 [  56256 00] Z7B_EXT.ZDB 
+-r-xr-xr-x   1    0    0     128576 Apr 17 2007 [  56464 00] Z7B_INS.ZDB 
+
+Directory listing of /PSP_GAME/USRDIR/RUN/HEROIN_COMPLEX_MP/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     36 02] . 
+dr-xr-xr-x   1    0    0       4096 Feb 15 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0     153856 Apr 17 2007 [ 180720 00] DEFAULT.ZDB 
+-r-xr-xr-x   1    0    0     223104 Apr 17 2007 [ 180800 00] DEM.ZDB 
+-r-xr-xr-x   1    0    0     228736 Apr 17 2007 [ 180912 00] EXT.ZDB 
+-r-xr-xr-x   1    0    0     217792 Apr 17 2007 [ 181024 00] FFA.ZDB 
+-r-xr-xr-x   1    0    0     269760 Apr 17 2007 [ 181136 00] HEROIN_C.ZDB 
+-r-xr-xr-x   1    0    0     226240 Apr 17 2007 [ 181280 00] INT.ZDB 
+-r-xr-xr-x   1    0    0    4229504 Apr 17 2007 [ 181392 00] ISLAND_H.ZDB 
+-r-xr-xr-x   1    0    0     220736 Apr 17 2007 [ 183472 00] SUP.ZDB 
+-r-xr-xr-x   1    0    0     217472 Apr 17 2007 [ 183584 00] TAG.ZDB 
+-r-xr-xr-x   1    0    0     220928 Apr 17 2007 [ 183696 00] TAR.ZDB 
+-r-xr-xr-x   1    0    0     227328 Apr 17 2007 [ 183808 00] TOW.ZDB 
+-r-xr-xr-x   1    0    0      87296 Apr 17 2007 [ 183920 00] VCOMMON_DEFAULT.ZDB 
+-r-xr-xr-x   1    0    0    1622912 Apr 17 2007 [ 183968 00] VCOMMON_DEM.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 184768 00] VCOMMON_EXT.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 185616 00] VCOMMON_FFA.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 186464 00] VCOMMON_INT.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 187312 00] VCOMMON_SUP.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 188160 00] VCOMMON_TAG.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 189008 00] VCOMMON_TAR.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 189856 00] VCOMMON_TOW.ZDB 
+
+Directory listing of /PSP_GAME/USRDIR/RUN/HEROIN_COMPLEX_SP/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     37 02] . 
+dr-xr-xr-x   1    0    0       4096 Feb 15 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0     286912 Apr 17 2007 [  56528 00] DYNAMIC.ZDB 
+-r-xr-xr-x   1    0    0     395264 Apr 17 2007 [  56672 00] HEROIN_C.ZDB 
+-r-xr-xr-x   1    0    0    4852864 Apr 17 2007 [  56880 00] ISLAND_H.ZDB 
+-r-xr-xr-x   1    0    0     269120 Apr 17 2007 [  59264 00] SP.ZDB 
+-r-xr-xr-x   1    0    0     921344 Apr 17 2007 [  59408 00] VCOMMON_DYNAMIC.ZDB 
+-r-xr-xr-x   1    0    0     693248 Apr 17 2007 [  59872 00] VCOMMON_SP.ZDB 
+-r-xr-xr-x   1    0    0     381824 Apr 17 2007 [  60224 00] Z2B_EXT.ZDB 
+-r-xr-xr-x   1    0    0     129152 Apr 17 2007 [  60416 00] Z2B_INS.ZDB 
+
+Directory listing of /PSP_GAME/USRDIR/RUN/MOUNTAIN_SP/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     38 02] . 
+dr-xr-xr-x   1    0    0       4096 Feb 15 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0     237696 Apr 17 2007 [  60480 00] DYNAMIC.ZDB 
+-r-xr-xr-x   1    0    0    5213312 Apr 17 2007 [  60608 00] ISLAND_M.ZDB 
+-r-xr-xr-x   1    0    0     388032 Apr 17 2007 [  63168 00] MOUNTAIN.ZDB 
+-r-xr-xr-x   1    0    0     286720 Apr 17 2007 [  63360 00] SP.ZDB 
+-r-xr-xr-x   1    0    0     687808 Apr 17 2007 [  63504 00] VCOMMON_DYNAMIC.ZDB 
+-r-xr-xr-x   1    0    0     673856 Apr 17 2007 [  63840 00] VCOMMON_SP.ZDB 
+-r-xr-xr-x   1    0    0     139776 Apr 17 2007 [  64176 00] Z1A_EXT.ZDB 
+-r-xr-xr-x   1    0    0     239616 Apr 17 2007 [  64256 00] Z1A_INS.ZDB 
+
+Directory listing of /PSP_GAME/USRDIR/RUN/MOVIES/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     39 02] . 
+dr-xr-xr-x   1    0    0       4096 Feb 15 2007 [     27 02] .. 
+dr-xr-xr-x   1    0    0       6144 Apr 18 2007 [     62 02] COMMON 
+
+Directory listing of /PSP_GAME/USRDIR/RUN/MP_CHILE_NEIGHBORHOOD/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     40 02] . 
+dr-xr-xr-x   1    0    0       4096 Feb 15 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0    2346048 Apr 17 2007 [ 190704 00] ISLAND_N.ZDB 
+-r-xr-xr-x   1    0    0     273536 Apr 17 2007 [ 191856 00] MP_CHILE.ZDB 
+-r-xr-xr-x   1    0    0      80512 Apr 17 2007 [ 192000 00] PM32.ZDB 
+-r-xr-xr-x   1    0    0     209920 Apr 17 2007 [ 192048 00] PM32DEM.ZDB 
+-r-xr-xr-x   1    0    0     214016 Apr 17 2007 [ 192160 00] PM32EXT.ZDB 
+-r-xr-xr-x   1    0    0     204672 Apr 17 2007 [ 192272 00] PM32FFA.ZDB 
+-r-xr-xr-x   1    0    0     211008 Apr 17 2007 [ 192384 00] PM32INT.ZDB 
+-r-xr-xr-x   1    0    0     207296 Apr 17 2007 [ 192496 00] PM32SUP.ZDB 
+-r-xr-xr-x   1    0    0     204032 Apr 17 2007 [ 192608 00] PM32TAG.ZDB 
+-r-xr-xr-x   1    0    0     205952 Apr 17 2007 [ 192720 00] PM32TAR.ZDB 
+-r-xr-xr-x   1    0    0     213888 Apr 17 2007 [ 192832 00] PM32TOW.ZDB 
+-r-xr-xr-x   1    0    0     115776 Apr 17 2007 [ 192944 00] VCOMMON_PM32.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 193008 00] VCOMMON_PM32DEM.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 193856 00] VCOMMON_PM32EXT.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 194704 00] VCOMMON_PM32FFA.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 195552 00] VCOMMON_PM32INT.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 196400 00] VCOMMON_PM32SUP.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 197248 00] VCOMMON_PM32TAG.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 198096 00] VCOMMON_PM32TAR.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 198944 00] VCOMMON_PM32TOW.ZDB 
+
+Directory listing of /PSP_GAME/USRDIR/RUN/MP_MOROCCO_MARKET/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     41 02] . 
+dr-xr-xr-x   1    0    0       4096 Feb 15 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0    2380288 Apr 17 2007 [ 199792 00] ISLAND_M.ZDB 
+-r-xr-xr-x   1    0    0     273472 Apr 17 2007 [ 200960 00] MP_MOROC.ZDB 
+-r-xr-xr-x   1    0    0      81344 Apr 17 2007 [ 201104 00] PM11.ZDB 
+-r-xr-xr-x   1    0    0     210560 Apr 17 2007 [ 201152 00] PM11DEM.ZDB 
+-r-xr-xr-x   1    0    0     216384 Apr 17 2007 [ 201264 00] PM11EXT.ZDB 
+-r-xr-xr-x   1    0    0     204992 Apr 17 2007 [ 201376 00] PM11FFA.ZDB 
+-r-xr-xr-x   1    0    0     211584 Apr 17 2007 [ 201488 00] PM11INT.ZDB 
+-r-xr-xr-x   1    0    0     207936 Apr 17 2007 [ 201600 00] PM11SUP.ZDB 
+-r-xr-xr-x   1    0    0     204672 Apr 17 2007 [ 201712 00] PM11TAG.ZDB 
+-r-xr-xr-x   1    0    0     206912 Apr 17 2007 [ 201824 00] PM11TAR.ZDB 
+-r-xr-xr-x   1    0    0     215040 Apr 17 2007 [ 201936 00] PM11TOW.ZDB 
+-r-xr-xr-x   1    0    0      88128 Apr 17 2007 [ 202048 00] VCOMMON_PM11.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 202096 00] VCOMMON_PM11DEM.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 202944 00] VCOMMON_PM11EXT.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 203792 00] VCOMMON_PM11FFA.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 204640 00] VCOMMON_PM11INT.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 205488 00] VCOMMON_PM11SUP.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 206336 00] VCOMMON_PM11TAG.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 207184 00] VCOMMON_PM11TAR.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 208032 00] VCOMMON_PM11TOW.ZDB 
+
+Directory listing of /PSP_GAME/USRDIR/RUN/MP_MOROCCO_ROCKSLIDE/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     42 02] . 
+dr-xr-xr-x   1    0    0       4096 Feb 15 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0    2372672 Apr 17 2007 [  96800 00] ISLAND_R.ZDB 
+-r-xr-xr-x   1    0    0     273408 Apr 17 2007 [  97968 00] MP_MOROC.ZDB 
+-r-xr-xr-x   1    0    0      80896 Apr 17 2007 [  98112 00] PM12.ZDB 
+-r-xr-xr-x   1    0    0     210304 Apr 17 2007 [  98160 00] PM12DEM.ZDB 
+-r-xr-xr-x   1    0    0     214400 Apr 17 2007 [  98272 00] PM12EXT.ZDB 
+-r-xr-xr-x   1    0    0     203904 Apr 17 2007 [  98384 00] PM12FFA.ZDB 
+-r-xr-xr-x   1    0    0     211456 Apr 17 2007 [  98496 00] PM12INT.ZDB 
+-r-xr-xr-x   1    0    0     207680 Apr 17 2007 [  98608 00] PM12SUP.ZDB 
+-r-xr-xr-x   1    0    0     204416 Apr 17 2007 [  98720 00] PM12TAG.ZDB 
+-r-xr-xr-x   1    0    0     205440 Apr 17 2007 [  98832 00] PM12TAR.ZDB 
+-r-xr-xr-x   1    0    0     214272 Apr 17 2007 [  98944 00] PM12TOW.ZDB 
+-r-xr-xr-x   1    0    0     115776 Apr 17 2007 [  99056 00] VCOMMON_PM12.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [  99120 00] VCOMMON_PM12DEM.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [  99968 00] VCOMMON_PM12EXT.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 100816 00] VCOMMON_PM12FFA.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 101664 00] VCOMMON_PM12INT.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 102512 00] VCOMMON_PM12SUP.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 103360 00] VCOMMON_PM12TAG.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 104208 00] VCOMMON_PM12TAR.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 105056 00] VCOMMON_PM12TOW.ZDB 
+
+Directory listing of /PSP_GAME/USRDIR/RUN/MP_POLAND_WINTER/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     43 02] . 
+dr-xr-xr-x   1    0    0       4096 Feb 15 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0    2883840 Apr 17 2007 [ 105904 00] ISLAND_W.ZDB 
+-r-xr-xr-x   1    0    0     275264 Apr 17 2007 [ 107328 00] MP_POLAN.ZDB 
+-r-xr-xr-x   1    0    0      87104 Apr 17 2007 [ 107472 00] PM41.ZDB 
+-r-xr-xr-x   1    0    0     216512 Apr 17 2007 [ 107520 00] PM41DEM.ZDB 
+-r-xr-xr-x   1    0    0     221888 Apr 17 2007 [ 107632 00] PM41EXT.ZDB 
+-r-xr-xr-x   1    0    0     211072 Apr 17 2007 [ 107744 00] PM41FFA.ZDB 
+-r-xr-xr-x   1    0    0     217664 Apr 17 2007 [ 107856 00] PM41INT.ZDB 
+-r-xr-xr-x   1    0    0     213888 Apr 17 2007 [ 107968 00] PM41SUP.ZDB 
+-r-xr-xr-x   1    0    0     210624 Apr 17 2007 [ 108080 00] PM41TAG.ZDB 
+-r-xr-xr-x   1    0    0     212544 Apr 17 2007 [ 108192 00] PM41TAR.ZDB 
+-r-xr-xr-x   1    0    0     220480 Apr 17 2007 [ 108304 00] PM41TOW.ZDB 
+-r-xr-xr-x   1    0    0     115776 Apr 17 2007 [ 108416 00] VCOMMON_PM41.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 108480 00] VCOMMON_PM41DEM.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 109328 00] VCOMMON_PM41EXT.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 110176 00] VCOMMON_PM41FFA.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 111024 00] VCOMMON_PM41INT.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 111872 00] VCOMMON_PM41SUP.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 112720 00] VCOMMON_PM41TAG.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 113568 00] VCOMMON_PM41TAR.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 114416 00] VCOMMON_PM41TOW.ZDB 
+
+Directory listing of /PSP_GAME/USRDIR/RUN/OLYMPIC_CAMP_SP/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     44 02] . 
+dr-xr-xr-x   1    0    0       4096 Feb 15 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0     259904 Apr 17 2007 [  64384 00] DYNAMIC.ZDB 
+-r-xr-xr-x   1    0    0    4980928 Apr 17 2007 [  64512 00] ISLAND_O.ZDB 
+-r-xr-xr-x   1    0    0     395264 Apr 17 2007 [  66960 00] OLYMPIC_.ZDB 
+-r-xr-xr-x   1    0    0     250432 Apr 17 2007 [  67168 00] SP.ZDB 
+-r-xr-xr-x   1    0    0     909632 Apr 17 2007 [  67296 00] VCOMMON_DYNAMIC.ZDB 
+-r-xr-xr-x   1    0    0     717824 Apr 17 2007 [  67744 00] VCOMMON_SP.ZDB 
+-r-xr-xr-x   1    0    0     405568 Apr 17 2007 [  68096 00] Z7A_C07.ZDB 
+-r-xr-xr-x   1    0    0      79808 Apr 17 2007 [  68304 00] Z7A_INS.ZDB 
+
+Directory listing of /PSP_GAME/USRDIR/RUN/POPPY_FIELD_MP/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     45 02] . 
+dr-xr-xr-x   1    0    0       4096 Feb 15 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0     116800 Apr 17 2007 [ 115264 00] DEFAULT.ZDB 
+-r-xr-xr-x   1    0    0     240896 Apr 17 2007 [ 115328 00] DEM.ZDB 
+-r-xr-xr-x   1    0    0     244992 Apr 17 2007 [ 115456 00] EXT.ZDB 
+-r-xr-xr-x   1    0    0     235776 Apr 17 2007 [ 115584 00] FFA.ZDB 
+-r-xr-xr-x   1    0    0     242112 Apr 17 2007 [ 115712 00] INT.ZDB 
+-r-xr-xr-x   1    0    0    2027072 Apr 17 2007 [ 115840 00] ISLAND_P.ZDB 
+-r-xr-xr-x   1    0    0     269760 Apr 17 2007 [ 116832 00] POPPY_FI.ZDB 
+-r-xr-xr-x   1    0    0     238272 Apr 17 2007 [ 116976 00] SUP.ZDB 
+-r-xr-xr-x   1    0    0     235008 Apr 17 2007 [ 117104 00] TAG.ZDB 
+-r-xr-xr-x   1    0    0     239104 Apr 17 2007 [ 117232 00] TAR.ZDB 
+-r-xr-xr-x   1    0    0     244864 Apr 17 2007 [ 117360 00] TOW.ZDB 
+-r-xr-xr-x   1    0    0     117312 Apr 17 2007 [ 117488 00] VCOMMON_DEFAULT.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 117552 00] VCOMMON_DEM.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 118400 00] VCOMMON_EXT.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 119248 00] VCOMMON_FFA.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 120096 00] VCOMMON_INT.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 120944 00] VCOMMON_SUP.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 121792 00] VCOMMON_TAG.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 122640 00] VCOMMON_TAR.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 123488 00] VCOMMON_TOW.ZDB 
+
+Directory listing of /PSP_GAME/USRDIR/RUN/POPPY_FIELD_SP/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     46 02] . 
+dr-xr-xr-x   1    0    0       4096 Feb 15 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0     246784 Apr 17 2007 [  68352 00] DYNAMIC.ZDB 
+-r-xr-xr-x   1    0    0    4092928 Apr 17 2007 [  68480 00] ISLAND_P.ZDB 
+-r-xr-xr-x   1    0    0     392448 Apr 17 2007 [  70480 00] POPPY_FI.ZDB 
+-r-xr-xr-x   1    0    0     235328 Apr 17 2007 [  70672 00] SP.ZDB 
+-r-xr-xr-x   1    0    0     886976 Apr 17 2007 [  70800 00] VCOMMON_DYNAMIC.ZDB 
+-r-xr-xr-x   1    0    0     685952 Apr 17 2007 [  71248 00] VCOMMON_SP.ZDB 
+-r-xr-xr-x   1    0    0     388480 Apr 17 2007 [  71584 00] Z2A_C01.ZDB 
+-r-xr-xr-x   1    0    0     188928 Apr 17 2007 [  71776 00] Z2A_EXT.ZDB 
+-r-xr-xr-x   1    0    0       6592 Apr 17 2007 [  71872 00] Z2A_INS.ZDB 
+
+Directory listing of /PSP_GAME/USRDIR/RUN/RAW/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     47 02] . 
+dr-xr-xr-x   1    0    0       4096 Feb 15 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0     327680 Apr 17 2007 [  32704 00] ERRE.raw 
+-r-xr-xr-x   1    0    0     327680 Apr 17 2007 [  32864 00] ERRF.raw 
+-r-xr-xr-x   1    0    0     327680 Apr 17 2007 [  33024 00] ERRG.raw 
+-r-xr-xr-x   1    0    0     327680 Apr 17 2007 [  33184 00] ERRI.raw 
+-r-xr-xr-x   1    0    0     327680 Apr 17 2007 [  33344 00] ERRS.raw 
+-r-xr-xr-x   1    0    0    1146880 Apr 17 2007 [  33504 00] LOADING.RAW 
+-r-xr-xr-x   1    0    0    1146880 Apr 17 2007 [  34064 00] LOADING2.raw 
+-r-xr-xr-x   1    0    0     327680 Apr 17 2007 [  34624 00] LOFE.RAW 
+-r-xr-xr-x   1    0    0     327680 Apr 17 2007 [  34784 00] LOFF.raw 
+-r-xr-xr-x   1    0    0     327680 Apr 17 2007 [  34944 00] LOFG.raw 
+-r-xr-xr-x   1    0    0     327680 Apr 17 2007 [  35104 00] LOFI.raw 
+-r-xr-xr-x   1    0    0     327680 Apr 17 2007 [  35264 00] LOFS.raw 
+-r-xr-xr-x   1    0    0     327680 Apr 17 2007 [  35424 00] MC1E.RAW 
+-r-xr-xr-x   1    0    0     327680 Apr 17 2007 [  35584 00] MC1F.RAW 
+-r-xr-xr-x   1    0    0     327680 Apr 17 2007 [  35744 00] MC1G.RAW 
+-r-xr-xr-x   1    0    0     327680 Apr 17 2007 [  35904 00] MC1I.RAW 
+-r-xr-xr-x   1    0    0     327680 Apr 17 2007 [  36064 00] MC1J.raw 
+-r-xr-xr-x   1    0    0     327680 Apr 17 2007 [  36224 00] MC1K.raw 
+-r-xr-xr-x   1    0    0     327680 Apr 17 2007 [  36384 00] MC1S.RAW 
+-r-xr-xr-x   1    0    0     327680 Apr 17 2007 [  36544 00] MC2E.RAW 
+-r-xr-xr-x   1    0    0     327680 Apr 17 2007 [  36704 00] MC2F.RAW 
+-r-xr-xr-x   1    0    0     327680 Apr 17 2007 [  36864 00] MC2G.RAW 
+-r-xr-xr-x   1    0    0     327680 Apr 17 2007 [  37024 00] MC2I.RAW 
+-r-xr-xr-x   1    0    0     327680 Apr 17 2007 [  37184 00] MC2J.raw 
+-r-xr-xr-x   1    0    0     327680 Apr 17 2007 [  37344 00] MC2K.raw 
+-r-xr-xr-x   1    0    0     327680 Apr 17 2007 [  37504 00] MC2S.RAW 
+-r-xr-xr-x   1    0    0     327680 Apr 17 2007 [  37664 00] MLE.RAW 
+-r-xr-xr-x   1    0    0     327680 Apr 17 2007 [  37824 00] MLF.raw 
+-r-xr-xr-x   1    0    0     327680 Apr 17 2007 [  37984 00] MLG.raw 
+-r-xr-xr-x   1    0    0     327680 Apr 17 2007 [  38144 00] MLI.raw 
+-r-xr-xr-x   1    0    0     327680 Apr 17 2007 [  38304 00] MLJ.raw 
+-r-xr-xr-x   1    0    0     327680 Apr 17 2007 [  38464 00] MLK.raw 
+-r-xr-xr-x   1    0    0     327680 Apr 17 2007 [  38624 00] MLS.raw 
+
+Directory listing of /PSP_GAME/USRDIR/RUN/RIVERBED_SP/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     48 02] . 
+dr-xr-xr-x   1    0    0       4096 Feb 15 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0     231232 Apr 17 2007 [  71888 00] DYNAMIC.ZDB 
+-r-xr-xr-x   1    0    0    5211072 Apr 17 2007 [  72016 00] ISLAND_R.ZDB 
+-r-xr-xr-x   1    0    0     390592 Apr 17 2007 [  74576 00] RIVERBED.ZDB 
+-r-xr-xr-x   1    0    0     222848 Apr 17 2007 [  74768 00] SP.ZDB 
+-r-xr-xr-x   1    0    0     621952 Apr 17 2007 [  74880 00] VCOMMON_DYNAMIC.ZDB 
+-r-xr-xr-x   1    0    0     690624 Apr 17 2007 [  75184 00] VCOMMON_SP.ZDB 
+-r-xr-xr-x   1    0    0     108416 Apr 17 2007 [  75536 00] Z8A_C05.ZDB 
+-r-xr-xr-x   1    0    0     156672 Apr 17 2007 [  75600 00] Z8A_INS.ZDB 
+
+Directory listing of /PSP_GAME/USRDIR/RUN/SOUNDS/
+dr-xr-xr-x   1    0    0       4096 Apr 18 2007 [     49 02] . 
+dr-xr-xr-x   1    0    0       4096 Feb 15 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0     809384 Apr 17 2007 [ 212048 00] A_P1A.bnk 
+-r-xr-xr-x   1    0    0   30916608 Apr 17 2007 [ 219360 00] BNKSTORE.ZAR 
+-r-xr-xr-x   1    0    0      20848 Apr 17 2007 [ 234464 00] Echo.bnk 
+-r-xr-xr-x   1    0    0     609112 Apr 17 2007 [ 234480 00] FX_PSP.bnk 
+-r-xr-xr-x   1    0    0      10328 Apr 17 2007 [ 235312 00] HUD.bnk 
+-r-xr-xr-x   1    0    0       9576 Apr 17 2007 [ 235328 00] HUD_GS.bnk 
+-r-xr-xr-x   1    0    0     116132 Apr 17 2007 [ 235344 00] MPVO.bnk 
+-r-xr-xr-x   1    0    0     115988 Apr 17 2007 [ 235408 00] MPVO_frn.bnk 
+-r-xr-xr-x   1    0    0     115748 Apr 17 2007 [ 235472 00] MPVO_ger.bnk 
+-r-xr-xr-x   1    0    0     132372 Apr 17 2007 [ 235536 00] MPVO_itl.bnk 
+-r-xr-xr-x   1    0    0     112932 Apr 17 2007 [ 235616 00] MPVO_spn.bnk 
+-r-xr-xr-x   1    0    0     252992 Apr 17 2007 [ 239264 00] TEST.bnk 
+-r-xr-xr-x   1    0    0     274848 Apr 17 2007 [ 239392 00] UI.bnk 
+-r-xr-xr-x   1    0    0  235061248 Apr 17 2007 [ 239536 00] VAGSTORE.ZAR 
+-r-xr-xr-x   1    0    0   73889792 Apr 17 2007 [ 354320 00] VAGS_ENG.ZAR 
+-r-xr-xr-x   1    0    0   73633792 Apr 17 2007 [ 390400 00] VAGS_FRN.ZAR 
+-r-xr-xr-x   1    0    0   83703808 Apr 17 2007 [ 426368 00] VAGS_GER.ZAR 
+-r-xr-xr-x   1    0    0   76511232 Apr 17 2007 [ 467248 00] VAGS_ITL.ZAR 
+-r-xr-xr-x   1    0    0       4096 Apr 17 2007 [ 504608 00] VAGS_JPN.ZAR 
+-r-xr-xr-x   1    0    0       4096 Apr 17 2007 [ 504624 00] VAGS_KOR.ZAR 
+-r-xr-xr-x   1    0    0   76560384 Apr 17 2007 [ 504640 00] VAGS_SPN.ZAR 
+-r-xr-xr-x   1    0    0     800752 Apr 17 2007 [ 208880 00] a_mp52.bnk 
+-r-xr-xr-x   1    0    0     798112 Apr 17 2007 [ 209280 00] a_mp53.bnk 
+-r-xr-xr-x   1    0    0     800272 Apr 17 2007 [ 209680 00] a_mp54.bnk 
+-r-xr-xr-x   1    0    0     779200 Apr 17 2007 [ 210080 00] a_mp55.bnk 
+-r-xr-xr-x   1    0    0     797952 Apr 17 2007 [ 210464 00] a_mp56.bnk 
+-r-xr-xr-x   1    0    0     787752 Apr 17 2007 [ 210864 00] a_mp58.bnk 
+-r-xr-xr-x   1    0    0     795800 Apr 17 2007 [ 211264 00] a_mp59.bnk 
+-r-xr-xr-x   1    0    0     785080 Apr 17 2007 [ 211664 00] a_mp60.bnk 
+-r-xr-xr-x   1    0    0     388680 Apr 17 2007 [ 212448 00] a_p1a_GS.bnk 
+-r-xr-xr-x   1    0    0     808688 Apr 17 2007 [ 212640 00] a_p2a.bnk 
+-r-xr-xr-x   1    0    0     808888 Apr 17 2007 [ 213040 00] a_p2b.bnk 
+-r-xr-xr-x   1    0    0     806072 Apr 17 2007 [ 213440 00] a_p2c.bnk 
+-r-xr-xr-x   1    0    0     798856 Apr 17 2007 [ 213840 00] a_p3a.bnk 
+-r-xr-xr-x   1    0    0     801720 Apr 17 2007 [ 214240 00] a_p4a.bnk 
+-r-xr-xr-x   1    0    0     795984 Apr 17 2007 [ 214640 00] a_p4b.bnk 
+-r-xr-xr-x   1    0    0     801592 Apr 17 2007 [ 215040 00] a_p5a.bnk 
+-r-xr-xr-x   1    0    0     809936 Apr 17 2007 [ 215440 00] a_p6a.bnk 
+-r-xr-xr-x   1    0    0     805584 Apr 17 2007 [ 215840 00] a_p7a.bnk 
+-r-xr-xr-x   1    0    0     798800 Apr 17 2007 [ 216240 00] a_p7b.bnk 
+-r-xr-xr-x   1    0    0     809616 Apr 17 2007 [ 216640 00] a_p7c.bnk 
+-r-xr-xr-x   1    0    0     800992 Apr 17 2007 [ 217040 00] a_p7d.bnk 
+-r-xr-xr-x   1    0    0     806024 Apr 17 2007 [ 217440 00] a_p8a.bnk 
+-r-xr-xr-x   1    0    0     803072 Apr 17 2007 [ 217840 00] a_pm11.bnk 
+-r-xr-xr-x   1    0    0     773688 Apr 17 2007 [ 218240 00] a_pm12.bnk 
+-r-xr-xr-x   1    0    0     670744 Apr 17 2007 [ 218624 00] a_pm32.bnk 
+-r-xr-xr-x   1    0    0     804336 Apr 17 2007 [ 218960 00] a_pm41.bnk 
+-r-xr-xr-x   1    0    0     679680 Apr 17 2007 [ 234784 00] fx_psp2.bnk 
+-r-xr-xr-x   1    0    0     377544 Apr 17 2007 [ 235120 00] fx_psp2_GS.bnk 
+-r-xr-xr-x   1    0    0     461116 Apr 17 2007 [ 235680 00] p1a.bnk 
+-r-xr-xr-x   1    0    0     437320 Apr 17 2007 [ 235920 00] p1a_B.bnk 
+-r-xr-xr-x   1    0    0     437432 Apr 17 2007 [ 236144 00] p1a_B_frn.bnk 
+-r-xr-xr-x   1    0    0     436088 Apr 17 2007 [ 236368 00] p1a_B_ger.bnk 
+-r-xr-xr-x   1    0    0     433000 Apr 17 2007 [ 236592 00] p1a_B_itl.bnk 
+-r-xr-xr-x   1    0    0     435176 Apr 17 2007 [ 236816 00] p1a_B_spn.bnk 
+-r-xr-xr-x   1    0    0     437608 Apr 17 2007 [ 237040 00] p1a_L.bnk 
+-r-xr-xr-x   1    0    0     436744 Apr 17 2007 [ 237264 00] p1a_L_frn.bnk 
+-r-xr-xr-x   1    0    0     435288 Apr 17 2007 [ 237488 00] p1a_L_ger.bnk 
+-r-xr-xr-x   1    0    0     433736 Apr 17 2007 [ 237712 00] p1a_L_itl.bnk 
+-r-xr-xr-x   1    0    0     432456 Apr 17 2007 [ 237936 00] p1a_L_spn.bnk 
+-r-xr-xr-x   1    0    0     433384 Apr 17 2007 [ 238160 00] p1a_W.bnk 
+-r-xr-xr-x   1    0    0     435688 Apr 17 2007 [ 238384 00] p1a_W_frn.bnk 
+-r-xr-xr-x   1    0    0     435192 Apr 17 2007 [ 238608 00] p1a_W_ger.bnk 
+-r-xr-xr-x   1    0    0     431176 Apr 17 2007 [ 238832 00] p1a_W_itl.bnk 
+-r-xr-xr-x   1    0    0     423992 Apr 17 2007 [ 239056 00] p1a_W_spn.bnk 
+-r-xr-xr-x   1    0    0      60088 Apr 17 2007 [ 542032 00] v_p1a_gs.bnk 
+
+Directory listing of /PSP_GAME/USRDIR/RUN/SOVIET_BASE_MP/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     51 02] . 
+dr-xr-xr-x   1    0    0       4096 Feb 15 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0     134464 Apr 17 2007 [ 124336 00] DEFAULT.ZDB 
+-r-xr-xr-x   1    0    0     212224 Apr 17 2007 [ 124416 00] DEM.ZDB 
+-r-xr-xr-x   1    0    0     216320 Apr 17 2007 [ 124528 00] EXT.ZDB 
+-r-xr-xr-x   1    0    0     206720 Apr 17 2007 [ 124640 00] FFA.ZDB 
+-r-xr-xr-x   1    0    0     213376 Apr 17 2007 [ 124752 00] INT.ZDB 
+-r-xr-xr-x   1    0    0    3315648 Apr 17 2007 [ 124864 00] ISLAND_S.ZDB 
+-r-xr-xr-x   1    0    0     272064 Apr 17 2007 [ 126496 00] SOVIET_B.ZDB 
+-r-xr-xr-x   1    0    0     208192 Apr 17 2007 [ 126640 00] SUP.ZDB 
+-r-xr-xr-x   1    0    0     206336 Apr 17 2007 [ 126752 00] TAG.ZDB 
+-r-xr-xr-x   1    0    0     208192 Apr 17 2007 [ 126864 00] TAR.ZDB 
+-r-xr-xr-x   1    0    0     216192 Apr 17 2007 [ 126976 00] TOW.ZDB 
+-r-xr-xr-x   1    0    0     115776 Apr 17 2007 [ 127088 00] VCOMMON_DEFAULT.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 127152 00] VCOMMON_DEM.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 128000 00] VCOMMON_EXT.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 128848 00] VCOMMON_FFA.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 129696 00] VCOMMON_INT.ZDB 
+-r-xr-xr-x   1    0    0    1622912 Apr 17 2007 [ 130544 00] VCOMMON_SUP.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 131344 00] VCOMMON_TAG.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 132192 00] VCOMMON_TAR.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 133040 00] VCOMMON_TOW.ZDB 
+
+Directory listing of /PSP_GAME/USRDIR/RUN/SOVIET_BASE_SP/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     52 02] . 
+dr-xr-xr-x   1    0    0       4096 Feb 15 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0     229184 Apr 17 2007 [  75680 00] DYNAMIC.ZDB 
+-r-xr-xr-x   1    0    0    5355456 Apr 17 2007 [  75792 00] ISLAND_S.ZDB 
+-r-xr-xr-x   1    0    0     391360 Apr 17 2007 [  78416 00] SOVIET_B.ZDB 
+-r-xr-xr-x   1    0    0     208192 Apr 17 2007 [  78608 00] SP.ZDB 
+-r-xr-xr-x   1    0    0     803776 Apr 17 2007 [  78720 00] VCOMMON_DYNAMIC.ZDB 
+-r-xr-xr-x   1    0    0     514176 Apr 17 2007 [  79120 00] VCOMMON_SP.ZDB 
+-r-xr-xr-x   1    0    0      87104 Apr 17 2007 [  79376 00] Z7C_EXT.ZDB 
+-r-xr-xr-x   1    0    0     177088 Apr 17 2007 [  79424 00] Z7C_INS.ZDB 
+
+Directory listing of /PSP_GAME/USRDIR/RUN/UI_FLASH/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     53 02] . 
+dr-xr-xr-x   1    0    0       4096 Feb 15 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0      77632 Apr 17 2007 [  38784 00] DB_UI_FL.ZDB 
+-r-xr-xr-x   1    0    0      97472 Apr 17 2007 [  38832 00] DEFAULT.ZDB 
+-r-xr-xr-x   1    0    0    2699456 Apr 17 2007 [  38880 00] FLASH_SP.ZDB 
+-r-xr-xr-x   1    0    0      81344 Apr 17 2007 [  40208 00] UI_FLASH.ZDB 
+-r-xr-xr-x   1    0    0    1618816 Apr 17 2007 [  40256 00] VCOMMON_DEFAULT.ZDB 
+
+Directory listing of /PSP_GAME/USRDIR/RUN/UI_MOVIE/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     54 02] . 
+dr-xr-xr-x   1    0    0       4096 Feb 15 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0      78464 Apr 17 2007 [  41056 00] DB_UI_MO.ZDB 
+-r-xr-xr-x   1    0    0     159744 Apr 17 2007 [  41104 00] FLASH_MO.ZDB 
+-r-xr-xr-x   1    0    0      96704 Apr 17 2007 [  41184 00] MOVIE.ZDB 
+-r-xr-xr-x   1    0    0      26752 Apr 17 2007 [  41232 00] UI_MOVIE.ZDB 
+-r-xr-xr-x   1    0    0    1618816 Apr 17 2007 [  41248 00] VCOMMON_MOVIE.ZDB 
+
+Directory listing of /PSP_GAME/USRDIR/RUN/VILLAGE_SP1/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     55 02] . 
+dr-xr-xr-x   1    0    0       4096 Feb 15 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0    5106048 Apr 17 2007 [  83072 00] ISLAND_V.ZDB 
+-r-xr-xr-x   1    0    0     272064 Apr 17 2007 [  85568 00] SP1.ZDB 
+-r-xr-xr-x   1    0    0     772160 Apr 17 2007 [  85712 00] VCOMMON_SP1.ZDB 
+-r-xr-xr-x   1    0    0     358848 Apr 17 2007 [  86096 00] VILLAGE_.ZDB 
+-r-xr-xr-x   1    0    0     183168 Apr 17 2007 [  86272 00] Z4B_C01.ZDB 
+-r-xr-xr-x   1    0    0     232768 Apr 17 2007 [  86368 00] Z4B_C02.ZDB 
+-r-xr-xr-x   1    0    0     240000 Apr 17 2007 [  86496 00] Z4B_C04.ZDB 
+-r-xr-xr-x   1    0    0     211136 Apr 17 2007 [  86624 00] Z4B_INS.ZDB 
+
+Directory listing of /PSP_GAME/USRDIR/RUN/VILLAGE_SP2/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     56 02] . 
+dr-xr-xr-x   1    0    0       4096 Feb 15 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0     241536 Apr 17 2007 [  86736 00] DYNAMIC.ZDB 
+-r-xr-xr-x   1    0    0    5264192 Apr 17 2007 [  86864 00] ISLAND_V.ZDB 
+-r-xr-xr-x   1    0    0     287168 Apr 17 2007 [  89440 00] SP2.ZDB 
+-r-xr-xr-x   1    0    0     714048 Apr 17 2007 [  89584 00] VCOMMON_DYNAMIC.ZDB 
+-r-xr-xr-x   1    0    0     761792 Apr 17 2007 [  89936 00] VCOMMON_SP2.ZDB 
+-r-xr-xr-x   1    0    0     393216 Apr 17 2007 [  90320 00] VILLAGE_.ZDB 
+-r-xr-xr-x   1    0    0     413568 Apr 17 2007 [  90512 00] Z6A_EXT.ZDB 
+-r-xr-xr-x   1    0    0     280384 Apr 17 2007 [  90720 00] Z6A_INS.ZDB 
+
+Directory listing of /PSP_GAME/USRDIR/RUN/VILLA_MP/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     57 02] . 
+dr-xr-xr-x   1    0    0       4096 Feb 15 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0      84416 Apr 17 2007 [ 133888 00] DEFAULT.ZDB 
+-r-xr-xr-x   1    0    0     214848 Apr 17 2007 [ 133936 00] DEM.ZDB 
+-r-xr-xr-x   1    0    0     220032 Apr 17 2007 [ 134048 00] EXT.ZDB 
+-r-xr-xr-x   1    0    0     209280 Apr 17 2007 [ 134160 00] FFA.ZDB 
+-r-xr-xr-x   1    0    0     217600 Apr 17 2007 [ 134272 00] INT.ZDB 
+-r-xr-xr-x   1    0    0    2852608 Apr 17 2007 [ 134384 00] ISLAND_V.ZDB 
+-r-xr-xr-x   1    0    0     212096 Apr 17 2007 [ 135792 00] SUP.ZDB 
+-r-xr-xr-x   1    0    0     207808 Apr 17 2007 [ 135904 00] TAG.ZDB 
+-r-xr-xr-x   1    0    0     212352 Apr 17 2007 [ 136016 00] TAR.ZDB 
+-r-xr-xr-x   1    0    0     218624 Apr 17 2007 [ 136128 00] TOW.ZDB 
+-r-xr-xr-x   1    0    0      87296 Apr 17 2007 [ 136240 00] VCOMMON_DEFAULT.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 136288 00] VCOMMON_DEM.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 137136 00] VCOMMON_EXT.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 137984 00] VCOMMON_FFA.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 138832 00] VCOMMON_INT.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 139680 00] VCOMMON_SUP.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 140528 00] VCOMMON_TAG.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 141376 00] VCOMMON_TAR.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 142224 00] VCOMMON_TOW.ZDB 
+-r-xr-xr-x   1    0    0     269760 Apr 17 2007 [ 143072 00] VILLA_MP.ZDB 
+
+Directory listing of /PSP_GAME/USRDIR/RUN/VILLA_SP/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     58 02] . 
+dr-xr-xr-x   1    0    0       4096 Feb 15 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0     260544 Apr 17 2007 [  79520 00] DYNAMIC.ZDB 
+-r-xr-xr-x   1    0    0    3822528 Apr 17 2007 [  79648 00] ISLAND_V.ZDB 
+-r-xr-xr-x   1    0    0     265408 Apr 17 2007 [  81520 00] SP.ZDB 
+-r-xr-xr-x   1    0    0     801984 Apr 17 2007 [  81664 00] VCOMMON_DYNAMIC.ZDB 
+-r-xr-xr-x   1    0    0     713856 Apr 17 2007 [  82064 00] VCOMMON_SP.ZDB 
+-r-xr-xr-x   1    0    0     389760 Apr 17 2007 [  82416 00] VILLA_SP.ZDB 
+-r-xr-xr-x   1    0    0      94400 Apr 17 2007 [  82608 00] Z2C_C01.ZDB 
+-r-xr-xr-x   1    0    0     283968 Apr 17 2007 [  82656 00] Z2C_C02.ZDB 
+-r-xr-xr-x   1    0    0     287936 Apr 17 2007 [  82800 00] Z2C_C03.ZDB 
+-r-xr-xr-x   1    0    0     241024 Apr 17 2007 [  82944 00] Z2C_INS.ZDB 
+
+Directory listing of /PSP_GAME/USRDIR/RUN/WATER_RIG_DYN/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     59 02] . 
+dr-xr-xr-x   1    0    0       4096 Feb 15 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0     262400 Apr 17 2007 [  90864 00] DYNAMIC.ZDB 
+-r-xr-xr-x   1    0    0    3356160 Apr 17 2007 [  91008 00] ISLAND_W.ZDB 
+-r-xr-xr-x   1    0    0     808256 Apr 17 2007 [  92656 00] VCOMMON_DYNAMIC.ZDB 
+-r-xr-xr-x   1    0    0     385344 Apr 17 2007 [  93056 00] WATER_RI.ZDB 
+
+Directory listing of /PSP_GAME/USRDIR/RUN/WATER_RIG_MP/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     60 02] . 
+dr-xr-xr-x   1    0    0       4096 Feb 15 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0      92032 Apr 17 2007 [ 143216 00] DEFAULT.ZDB 
+-r-xr-xr-x   1    0    0     216256 Apr 17 2007 [ 143264 00] DEM.ZDB 
+-r-xr-xr-x   1    0    0     221632 Apr 17 2007 [ 143376 00] EXT.ZDB 
+-r-xr-xr-x   1    0    0     210688 Apr 17 2007 [ 143488 00] FFA.ZDB 
+-r-xr-xr-x   1    0    0     219200 Apr 17 2007 [ 143600 00] INT.ZDB 
+-r-xr-xr-x   1    0    0    2942592 Apr 17 2007 [ 143712 00] ISLAND_W.ZDB 
+-r-xr-xr-x   1    0    0     213632 Apr 17 2007 [ 145152 00] SUP.ZDB 
+-r-xr-xr-x   1    0    0     210368 Apr 17 2007 [ 145264 00] TAG.ZDB 
+-r-xr-xr-x   1    0    0     214016 Apr 17 2007 [ 145376 00] TAR.ZDB 
+-r-xr-xr-x   1    0    0     220224 Apr 17 2007 [ 145488 00] TOW.ZDB 
+-r-xr-xr-x   1    0    0     229696 Apr 17 2007 [ 145600 00] VCOMMON_DEFAULT.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 145728 00] VCOMMON_DEM.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 146576 00] VCOMMON_EXT.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 147424 00] VCOMMON_FFA.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 148272 00] VCOMMON_INT.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 149120 00] VCOMMON_SUP.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 149968 00] VCOMMON_TAG.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 150816 00] VCOMMON_TAR.ZDB 
+-r-xr-xr-x   1    0    0    1731392 Apr 17 2007 [ 151664 00] VCOMMON_TOW.ZDB 
+-r-xr-xr-x   1    0    0     269760 Apr 17 2007 [ 152512 00] WATER_RI.ZDB 
+
+Directory listing of /PSP_GAME/USRDIR/RUN/WATER_RIG_SP/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     61 02] . 
+dr-xr-xr-x   1    0    0       4096 Feb 15 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0    5259200 Apr 17 2007 [  93248 00] ISLAND_W.ZDB 
+-r-xr-xr-x   1    0    0     227136 Apr 17 2007 [  95824 00] SP.ZDB 
+-r-xr-xr-x   1    0    0     589952 Apr 17 2007 [  95936 00] VCOMMON_SP.ZDB 
+-r-xr-xr-x   1    0    0     391936 Apr 17 2007 [  96240 00] WATER_RI.ZDB 
+-r-xr-xr-x   1    0    0      46144 Apr 17 2007 [  96432 00] Z5A_C01.ZDB 
+-r-xr-xr-x   1    0    0      28608 Apr 17 2007 [  96464 00] Z5A_C02.ZDB 
+-r-xr-xr-x   1    0    0       7488 Apr 17 2007 [  96480 00] Z5A_C05.ZDB 
+-r-xr-xr-x   1    0    0     166016 Apr 17 2007 [  96496 00] Z5A_C06.ZDB 
+-r-xr-xr-x   1    0    0      90560 Apr 17 2007 [  96592 00] Z5A_EXT.ZDB 
+-r-xr-xr-x   1    0    0     297984 Apr 17 2007 [  96640 00] Z5A_INS.ZDB 
+
+Directory listing of /PSP_GAME/USRDIR/RUN/MOVIES/COMMON/
+dr-xr-xr-x   1    0    0       6144 Apr 18 2007 [     62 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     39 02] .. 
+-r-xr-xr-x   1    0    0    8466432 Apr 17 2007 [ 542064 00] 01_E_CA_Intro.pmf 
+-r-xr-xr-x   1    0    0    8437760 Apr 17 2007 [ 546208 00] 01_F_CA_Intro.pmf 
+-r-xr-xr-x   1    0    0    8443904 Apr 17 2007 [ 550336 00] 01_G_CA_Intro.pmf 
+-r-xr-xr-x   1    0    0    8429568 Apr 17 2007 [ 554464 00] 01_I_CA_Intro.pmf 
+-r-xr-xr-x   1    0    0    8439808 Apr 17 2007 [ 558592 00] 01_S_CA_Intro.pmf 
+-r-xr-xr-x   1    0    0    8998912 Apr 17 2007 [ 562720 00] 02_E_Intro_Pivot.pmf 
+-r-xr-xr-x   1    0    0    8986624 Apr 17 2007 [ 567120 00] 02_F_Intro_Pivot.pmf 
+-r-xr-xr-x   1    0    0    8986624 Apr 17 2007 [ 571520 00] 02_G_Intro_Pivot.pmf 
+-r-xr-xr-x   1    0    0    8994816 Apr 17 2007 [ 575920 00] 02_I_Intro_Pivot.pmf 
+-r-xr-xr-x   1    0    0    8988672 Apr 17 2007 [ 580320 00] 02_S_Intro_Pivot.pmf 
+-r-xr-xr-x   1    0    0    8630272 Apr 17 2007 [ 584720 00] 03_E_FTB2_Intro.pmf 
+-r-xr-xr-x   1    0    0    8636416 Apr 17 2007 [ 588944 00] 03_F_FTB2_Intro.pmf 
+-r-xr-xr-x   1    0    0    8640512 Apr 17 2007 [ 593168 00] 03_G_FTB2_Intro.pmf 
+-r-xr-xr-x   1    0    0    8632320 Apr 17 2007 [ 597392 00] 03_I_FTB2_Intro.pmf 
+-r-xr-xr-x   1    0    0    8634368 Apr 17 2007 [ 601616 00] 03_S_FTB2_Intro.pmf 
+-r-xr-xr-x   1    0    0    8906752 Apr 17 2007 [ 605840 00] 04_E_CA_ACT1.pmf 
+-r-xr-xr-x   1    0    0    8908800 Apr 17 2007 [ 610192 00] 04_F_CA_ACT1.pmf 
+-r-xr-xr-x   1    0    0    8910848 Apr 17 2007 [ 614544 00] 04_G_CA_ACT1.pmf 
+-r-xr-xr-x   1    0    0    8912896 Apr 17 2007 [ 618896 00] 04_I_CA_ACT1.pmf 
+-r-xr-xr-x   1    0    0    8906752 Apr 17 2007 [ 623248 00] 04_S_CA_ACT1.pmf 
+-r-xr-xr-x   1    0    0    7034880 Apr 17 2007 [ 627600 00] 05_E_ACT1_PIVOT.pmf 
+-r-xr-xr-x   1    0    0    7038976 Apr 17 2007 [ 631040 00] 05_F_ACT1_PIVOT.pmf 
+-r-xr-xr-x   1    0    0    7032832 Apr 17 2007 [ 634480 00] 05_G_ACT1_PIVOT.pmf 
+-r-xr-xr-x   1    0    0    7038976 Apr 17 2007 [ 637920 00] 05_I_ACT1_PIVOT.pmf 
+-r-xr-xr-x   1    0    0    7032832 Apr 17 2007 [ 641360 00] 05_S_ACT1_PIVOT.pmf 
+-r-xr-xr-x   1    0    0    6373376 Apr 17 2007 [ 644800 00] 06_E_ACT1_FTB2.pmf 
+-r-xr-xr-x   1    0    0    6391808 Apr 17 2007 [ 647920 00] 06_F_ACT1_FTB2.pmf 
+-r-xr-xr-x   1    0    0    6387712 Apr 17 2007 [ 651056 00] 06_G_ACT1_FTB2.pmf 
+-r-xr-xr-x   1    0    0    6387712 Apr 17 2007 [ 654176 00] 06_I_ACT1_FTB2.pmf 
+-r-xr-xr-x   1    0    0    6385664 Apr 17 2007 [ 657296 00] 06_S_ACT1_FTB2.pmf 
+-r-xr-xr-x   1    0    0   11114496 Apr 17 2007 [ 660416 00] 07_E_CA_ACT2.pmf 
+-r-xr-xr-x   1    0    0   11108352 Apr 17 2007 [ 665856 00] 07_F_CA_ACT2.pmf 
+-r-xr-xr-x   1    0    0   11118592 Apr 17 2007 [ 671280 00] 07_G_CA_ACT2.pmf 
+-r-xr-xr-x   1    0    0   11110400 Apr 17 2007 [ 676720 00] 07_I_CA_ACT2.pmf 
+-r-xr-xr-x   1    0    0   11110400 Apr 17 2007 [ 682160 00] 07_S_CA_ACT2.pmf 
+-r-xr-xr-x   1    0    0    9093120 Apr 17 2007 [ 687600 00] 08_E_ACT2_PIVOT.pmf 
+-r-xr-xr-x   1    0    0    9080832 Apr 17 2007 [ 692048 00] 08_F_ACT2_PIVOT.pmf 
+-r-xr-xr-x   1    0    0    9080832 Apr 17 2007 [ 696496 00] 08_G_ACT2_PIVOT.pmf 
+-r-xr-xr-x   1    0    0    9080832 Apr 17 2007 [ 700944 00] 08_I_ACT2_PIVOT.pmf 
+-r-xr-xr-x   1    0    0    9080832 Apr 17 2007 [ 705392 00] 08_S_ACT2_PIVOT.pmf 
+-r-xr-xr-x   1    0    0    7596032 Apr 17 2007 [ 709840 00] 09_E_FTB2_ACT2.pmf 
+-r-xr-xr-x   1    0    0    7608320 Apr 17 2007 [ 713552 00] 09_F_FTB2_ACT2.pmf 
+-r-xr-xr-x   1    0    0    7602176 Apr 17 2007 [ 717280 00] 09_G_FTB2_ACT2.pmf 
+-r-xr-xr-x   1    0    0    7606272 Apr 17 2007 [ 720992 00] 09_I_FTB2_ACT2.pmf 
+-r-xr-xr-x   1    0    0    7610368 Apr 17 2007 [ 724720 00] 09_S_FTB2_ACT2.pmf 
+-r-xr-xr-x   1    0    0    9064448 Apr 17 2007 [ 728448 00] 10_E_CA_FINAL.pmf 
+-r-xr-xr-x   1    0    0    9062400 Apr 17 2007 [ 732880 00] 10_F_CA_FINAL.pmf 
+-r-xr-xr-x   1    0    0    9064448 Apr 17 2007 [ 737312 00] 10_G_CA_FINAL.pmf 
+-r-xr-xr-x   1    0    0    9068544 Apr 17 2007 [ 741744 00] 10_I_CA_FINAL.pmf 
+-r-xr-xr-x   1    0    0    9064448 Apr 17 2007 [ 746176 00] 10_S_CA_FINAL.pmf 
+-r-xr-xr-x   1    0    0    5482496 Apr 17 2007 [ 750608 00] 11_E_FINAL_PIVOT.pmf 
+-r-xr-xr-x   1    0    0    5500928 Apr 17 2007 [ 753296 00] 11_F_FINAL_PIVOT.pmf 
+-r-xr-xr-x   1    0    0    5500928 Apr 17 2007 [ 755984 00] 11_G_FINAL_PIVOT.pmf 
+-r-xr-xr-x   1    0    0    5500928 Apr 17 2007 [ 758672 00] 11_I_FINAL_PIVOT.pmf 
+-r-xr-xr-x   1    0    0    5500928 Apr 17 2007 [ 761360 00] 11_S_FINAL_PIVOT.pmf 
+-r-xr-xr-x   1    0    0   15206400 Apr 17 2007 [ 764048 00] 12_E_FTB2_FINAL.pmf 
+-r-xr-xr-x   1    0    0   15220736 Apr 17 2007 [ 771488 00] 12_F_FTB2_FINAL.pmf 
+-r-xr-xr-x   1    0    0   15212544 Apr 17 2007 [ 778928 00] 12_G_FTB2_FINAL.pmf 
+-r-xr-xr-x   1    0    0   15216640 Apr 17 2007 [ 786368 00] 12_I_FTB2_FINAL.pmf 
+-r-xr-xr-x   1    0    0   15220736 Apr 17 2007 [ 793808 00] 12_S_FTB2_FINAL.pmf 
+-r-xr-xr-x   1    0    0    2654208 Apr 17 2007 [ 801248 00] 13_ENDCAP.pmf 
+-r-xr-xr-x   1    0    0   22235136 Apr 17 2007 [ 802544 00] Credits.pmf 
+-r-xr-xr-x   1    0    0    6742016 Apr 17 2007 [ 813408 00] ftb2_attractLoop.pmf 
+=============================================================== 
+Generated on Tue 09/08/2022 at  5:38:29.34 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

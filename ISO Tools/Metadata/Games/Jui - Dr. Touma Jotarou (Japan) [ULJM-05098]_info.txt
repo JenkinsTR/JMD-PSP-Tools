@@ -1,0 +1,126 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Jui - Dr. Touma Jotarou  
+Title ID: ULJM-05098 
+Region: Japan  
+Languages:   
+Volume Creation Date: 2005-12-26 10:35:56 
+Volume Size: 395 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: 
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 202672
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Dec 26 2005 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 26 2005 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Dec 26 2005 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Dec 26 2005 [     29 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Dec 26 2005 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 26 2005 [     22 02] .. 
+-r-xr-xr-x   1    0    0      21564 Aug 26 2005 [ 201888 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     376832 Nov  8 2005 [ 201536 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 Dec 26 2005 [ 201904 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      51830 Dec 21 2005 [ 201728 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0     153616 Nov  2 2005 [ 201760 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0      78748 Nov  2 2005 [ 201840 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 Dec 26 2005 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Dec 26 2005 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Dec 26 2005 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 26 2005 [     23 02] .. 
+-r-xr-xr-x   1    0    0    1535704 Dec 26 2005 [ 201920 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    1536048 Dec 26 2005 [     32 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Dec 26 2005 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Dec 26 2005 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 26 2005 [     23 02] .. 
+dr-xr-xr-x   1    0    0       4096 Nov 22 2005 [     27 02] MODULES 
+-r-xr-xr-x   1    0    0  367151104 Dec 26 2005 [  22256 00] data.dat 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Dec 26 2005 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 26 2005 [     24 02] .. 
+-r-xr-xr-x   1    0    0   14809632 Dec 26 2005 [   4896 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    3951712 Dec 26 2005 [    800 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       1772 Dec 26 2005 [    784 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/MODULES/
+dr-xr-xr-x   1    0    0       4096 Nov 22 2005 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 26 2005 [     25 02] .. 
+-r-xr-xr-x   1    0    0       3312 Oct 19 2005 [  21280 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0       3088 Jun 13 2005 [  21296 00] cert_loader.prx 
+-r-xr-xr-x   1    0    0      10816 Jun 13 2005 [  21312 00] ifhandle.prx 
+-r-xr-xr-x   1    0    0       1088 Oct 27 2005 [  21328 00] libadler.prx 
+-r-xr-xr-x   1    0    0      10128 Oct 27 2005 [  21344 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0       1472 Oct 27 2005 [  21360 00] libbase64.prx 
+-r-xr-xr-x   1    0    0       3488 Oct 27 2005 [  21376 00] libccc.prx 
+-r-xr-xr-x   1    0    0       4416 Oct 27 2005 [  21392 00] libdeflt.prx 
+-r-xr-xr-x   1    0    0      23296 Oct 27 2005 [  21408 00] libfont.prx 
+-r-xr-xr-x   1    0    0       3664 Oct 27 2005 [  21424 00] libfpu.prx 
+-r-xr-xr-x   1    0    0      87032 Jun 13 2005 [  21440 00] libhttp.prx 
+-r-xr-xr-x   1    0    0       2384 Oct 27 2005 [  21488 00] libmd5.prx 
+-r-xr-xr-x   1    0    0       1296 Oct 27 2005 [  21504 00] libmt19937.prx 
+-r-xr-xr-x   1    0    0       5180 Jun 13 2005 [  21520 00] libparse_http.prx 
+-r-xr-xr-x   1    0    0      15584 Jun 13 2005 [  21536 00] libparse_uri.prx 
+-r-xr-xr-x   1    0    0       1936 Oct 27 2005 [  21552 00] libqpcode.prx 
+-r-xr-xr-x   1    0    0       2576 Oct 27 2005 [  21568 00] libsha1.prx 
+-r-xr-xr-x   1    0    0       2912 Oct 27 2005 [  21584 00] libsha224.prx 
+-r-xr-xr-x   1    0    0       2912 Oct 27 2005 [  21600 00] libsha256.prx 
+-r-xr-xr-x   1    0    0     259788 Jun 13 2005 [  21616 00] libssl.prx 
+-r-xr-xr-x   1    0    0      17216 Jun 13 2005 [  21744 00] memab.prx 
+-r-xr-xr-x   1    0    0      23088 Oct 27 2005 [  21760 00] mpeg.prx 
+-r-xr-xr-x   1    0    0       5392 Oct 19 2005 [  21776 00] mpegbase.prx 
+-r-xr-xr-x   1    0    0       6208 Oct 27 2005 [  21792 00] psmf.prx 
+-r-xr-xr-x   1    0    0      60360 Jun 13 2005 [  21808 00] pspnet.prx 
+-r-xr-xr-x   1    0    0      42492 Jun 13 2005 [  21840 00] pspnet_adhoc.prx 
+-r-xr-xr-x   1    0    0      11360 Jun 13 2005 [  21888 00] pspnet_adhoc_auth.prx 
+-r-xr-xr-x   1    0    0      15828 Jun 13 2005 [  21904 00] pspnet_adhoc_download.prx 
+-r-xr-xr-x   1    0    0      19688 Jun 13 2005 [  21920 00] pspnet_adhoc_matching.prx 
+-r-xr-xr-x   1    0    0      31996 Jun 13 2005 [  21872 00] pspnet_adhocctl.prx 
+-r-xr-xr-x   1    0    0       2448 Oct 27 2005 [  21968 00] pspnet_ap_dialog_dummy.prx 
+-r-xr-xr-x   1    0    0      44412 Jun 13 2005 [  21936 00] pspnet_apctl.prx 
+-r-xr-xr-x   1    0    0     239968 Jun 13 2005 [  21984 00] pspnet_inet.prx 
+-r-xr-xr-x   1    0    0      12400 Jun 13 2005 [  22112 00] pspnet_resolver.prx 
+-r-xr-xr-x   1    0    0      31104 Feb 21 2005 [  22128 00] rinit.prx 
+-r-xr-xr-x   1    0    0       6832 Oct 19 2005 [  22160 00] sc_sascore.prx 
+-r-xr-xr-x   1    0    0      31824 Oct 27 2005 [  22144 00] scan.prx 
+-r-xr-xr-x   1    0    0      29536 Oct 27 2005 [  22176 00] show_macaddr.prx 
+-r-xr-xr-x   1    0    0       3888 Oct 19 2005 [  22192 00] usbacc.prx 
+-r-xr-xr-x   1    0    0       6704 Oct 19 2005 [  22208 00] usbmic.prx 
+-r-xr-xr-x   1    0    0      15072 Oct 19 2005 [  22224 00] usbpspcm.prx 
+-r-xr-xr-x   1    0    0       3504 Oct 19 2005 [  22240 00] videocodec.prx 
+=============================================================== 
+Generated on Tue 23/08/2022 at 19:50:27.36 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

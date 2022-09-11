@@ -1,0 +1,958 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: King of Clubs   
+Title ID: ULES-00914 
+Region: Europe  
+Languages: En,Fr,De,Es,It,Nl  
+Volume Creation Date: 2007-11-20 10:21:31 
+Volume Size: 438 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: KINGOFCLUBS
+Volume set id: 
+Publisher id: OXYGEN INTERACTIVE
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 224720
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Nov 20 2007 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 20 2007 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct 16 2007 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Oct 16 2007 [     84 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Oct 16 2007 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 20 2007 [     22 02] .. 
+-r-xr-xr-x   1    0    0      17996 Apr 18 2007 [  54192 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        472 Nov 15 2007 [ 224704 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     120965 Mar 12 2007 [  54208 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0     462932 Apr  4 2007 [  53952 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 Oct 16 2007 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Oct 16 2007 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Oct 16 2007 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 16 2007 [     23 02] .. 
+-r-xr-xr-x   1    0    0    1205120 Nov 15 2007 [  54272 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    1205456 Nov 20 2007 [     96 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Oct 16 2007 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Oct 16 2007 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 16 2007 [     23 02] .. 
+-r-xr-xr-x   1    0    0      26131 Sep 18 2007 [ 222576 00] Dutch.txf 
+-r-xr-xr-x   1    0    0    3658944 Nov 20 2007 [ 222592 00] EBOOT.PBP 
+-r-xr-xr-x   1    0    0      25349 Sep 18 2007 [ 224384 00] English.txf 
+-r-xr-xr-x   1    0    0      26424 Dec 13 2006 [ 224400 00] Font1.spr 
+-r-xr-xr-x   1    0    0      30399 Sep 18 2007 [ 224416 00] French.txf 
+-r-xr-xr-x   1    0    0      29145 Sep 18 2007 [ 224432 00] German.txf 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     27 02] Golfers 
+-r-xr-xr-x   1    0    0      29236 Sep 18 2007 [ 224448 00] Italian.txf 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     28 02] Levels 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     29 02] Menus 
+dr-xr-xr-x   1    0    0       4096 Nov 15 2007 [     30 02] Models 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     32 02] Overlays 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     33 02] Sounds 
+-r-xr-xr-x   1    0    0      28581 Sep 18 2007 [ 224672 00] Spanish.txf 
+-r-xr-xr-x   1    0    0       2216 Feb 26 2007 [ 224688 00] Spray.spr 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     34 02] Videos 
+-r-xr-xr-x   1    0    0     120965 Mar 12 2007 [ 224464 00] savelgic.png 
+-r-xr-xr-x   1    0    0     252312 Apr 18 2007 [ 224528 00] savemusi.at3 
+-r-xr-xr-x   1    0    0      17996 Apr 18 2007 [ 224656 00] savesmic.png 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Oct 16 2007 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 16 2007 [     24 02] .. 
+-r-xr-xr-x   1    0    0   18374448 Oct 16 2007 [   4800 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5245712 Oct 16 2007 [    704 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Oct 16 2007 [    688 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/Golfers/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 16 2007 [     25 02] .. 
+-r-xr-xr-x   1    0    0    1387984 Apr  4 2007 [  54864 00] Golfer10a.3df 
+-r-xr-xr-x   1    0    0    1352848 Mar 30 2007 [  55552 00] Golfer10b.3df 
+-r-xr-xr-x   1    0    0    1422352 Mar 30 2007 [  56224 00] Golfer10c.3df 
+-r-xr-xr-x   1    0    0    1495792 Apr  4 2007 [  56928 00] Golfer1a.3df 
+-r-xr-xr-x   1    0    0    1487568 Mar 30 2007 [  57664 00] Golfer1b.3df 
+-r-xr-xr-x   1    0    0    1482128 Mar 30 2007 [  58400 00] Golfer1c.3df 
+-r-xr-xr-x   1    0    0    1479392 Apr  4 2007 [  59136 00] Golfer2a.3df 
+-r-xr-xr-x   1    0    0    1448192 Mar 30 2007 [  59872 00] Golfer2b.3df 
+-r-xr-xr-x   1    0    0    1426144 Mar 30 2007 [  60592 00] Golfer2c.3df 
+-r-xr-xr-x   1    0    0    1469232 Apr  4 2007 [  61296 00] Golfer3a.3df 
+-r-xr-xr-x   1    0    0    1383728 Mar 30 2007 [  62016 00] Golfer3b.3df 
+-r-xr-xr-x   1    0    0    1383600 Mar 30 2007 [  62704 00] Golfer3c.3df 
+-r-xr-xr-x   1    0    0    1471680 Apr  4 2007 [  63392 00] Golfer4a.3df 
+-r-xr-xr-x   1    0    0    1492704 Mar 30 2007 [  64112 00] Golfer4b.3df 
+-r-xr-xr-x   1    0    0    1458336 Mar 30 2007 [  64848 00] Golfer4c.3df 
+-r-xr-xr-x   1    0    0    1502288 Apr  4 2007 [  65568 00] Golfer5a.3df 
+-r-xr-xr-x   1    0    0    1438032 Mar 30 2007 [  66304 00] Golfer5b.3df 
+-r-xr-xr-x   1    0    0    1480624 Mar 30 2007 [  67008 00] Golfer5c.3df 
+-r-xr-xr-x   1    0    0    1464720 Apr  4 2007 [  67744 00] Golfer6a.3df 
+-r-xr-xr-x   1    0    0    1424272 Mar 30 2007 [  68464 00] Golfer6b.3df 
+-r-xr-xr-x   1    0    0    1386704 Mar 30 2007 [  69168 00] Golfer6c.3df 
+-r-xr-xr-x   1    0    0    1369904 Apr  4 2007 [  69856 00] Golfer7a.3df 
+-r-xr-xr-x   1    0    0    1296336 Mar 30 2007 [  70528 00] Golfer7b.3df 
+-r-xr-xr-x   1    0    0    1232592 Mar 30 2007 [  71168 00] Golfer7c.3df 
+-r-xr-xr-x   1    0    0    1457360 Apr  4 2007 [  71776 00] Golfer8a.3df 
+-r-xr-xr-x   1    0    0    1531088 Mar 30 2007 [  72496 00] Golfer8b.3df 
+-r-xr-xr-x   1    0    0    1455408 Mar 30 2007 [  73248 00] Golfer8c.3df 
+-r-xr-xr-x   1    0    0    1560736 Apr  4 2007 [  73968 00] Golfer9a.3df 
+-r-xr-xr-x   1    0    0    1533216 Mar 30 2007 [  74736 00] Golfer9b.3df 
+-r-xr-xr-x   1    0    0    1519872 Mar 30 2007 [  75488 00] Golfer9c.3df 
+
+Directory listing of /PSP_GAME/USRDIR/Levels/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 16 2007 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     35 02] Egyptian 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     36 02] Future 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     37 02] Medieval 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     38 02] Prehist 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     39 02] Tropical 
+
+Directory listing of /PSP_GAME/USRDIR/Menus/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 16 2007 [     25 02] .. 
+-r-xr-xr-x   1    0    0       3399 Jun 20 2007 [ 200800 00] Courses.csv 
+-r-xr-xr-x   1    0    0      66712 Mar 15 2007 [ 200816 00] Credits.spr 
+-r-xr-xr-x   1    0    0     237368 Mar  1 2007 [ 200864 00] EPMenu.spr 
+-r-xr-xr-x   1    0    0      61288 Apr 16 2007 [ 200992 00] Font16.spr 
+-r-xr-xr-x   1    0    0     172552 May  9 2007 [ 201024 00] Font32.spr 
+-r-xr-xr-x   1    0    0     235400 Apr 16 2007 [ 201120 00] Font64.spr 
+-r-xr-xr-x   1    0    0     137768 Jul  5 2007 [ 201248 00] Hole_1_1.spr 
+-r-xr-xr-x   1    0    0      52184 Aug  1 2007 [ 201328 00] Hole_1_2.spr 
+-r-xr-xr-x   1    0    0      46968 Mar 15 2007 [ 201360 00] Hole_2_1.spr 
+-r-xr-xr-x   1    0    0      52184 Mar 15 2007 [ 201392 00] Hole_2_2.spr 
+-r-xr-xr-x   1    0    0      46968 Mar 15 2007 [ 201424 00] Hole_3_1.spr 
+-r-xr-xr-x   1    0    0      52184 Mar 15 2007 [ 201456 00] Hole_3_2.spr 
+-r-xr-xr-x   1    0    0      46968 Mar 15 2007 [ 201488 00] Hole_4_1.spr 
+-r-xr-xr-x   1    0    0      52184 Mar 29 2007 [ 201520 00] Hole_4_2.spr 
+-r-xr-xr-x   1    0    0      46968 Mar 14 2007 [ 201552 00] Hole_5_1.spr 
+-r-xr-xr-x   1    0    0      64520 Mar 14 2007 [ 201584 00] Hole_5_2.spr 
+-r-xr-xr-x   1    0    0     137352 Mar  7 2007 [ 201616 00] InGame.spr 
+-r-xr-xr-x   1    0    0     132248 Mar 29 2007 [ 201696 00] Loading.spr 
+-r-xr-xr-x   1    0    0     264536 Apr  4 2007 [ 201776 00] MenuBkg.spr 
+-r-xr-xr-x   1    0    0     556984 Apr  4 2007 [ 201920 00] Menus.spr 
+-r-xr-xr-x   1    0    0    1278056 Apr  4 2007 [ 202192 00] PSMenu.spr 
+
+Directory listing of /PSP_GAME/USRDIR/Models/
+dr-xr-xr-x   1    0    0       4096 Nov 15 2007 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 16 2007 [     25 02] .. 
+-r-xr-xr-x   1    0    0      16944 Mar  5 2007 [ 202832 00] 8ball.3df 
+-r-xr-xr-x   1    0    0      17680 Mar 29 2007 [ 202848 00] Ball.3df 
+-r-xr-xr-x   1    0    0      16944 Mar  5 2007 [ 202864 00] Basket.3df 
+-r-xr-xr-x   1    0    0      19472 Mar  5 2007 [ 202880 00] Beach.3df 
+-r-xr-xr-x   1    0    0      17680 Mar 29 2007 [ 202896 00] Black.3df 
+-r-xr-xr-x   1    0    0      17680 Mar 29 2007 [ 202912 00] Blue.3df 
+-r-xr-xr-x   1    0    0     101136 Mar 28 2007 [ 202944 00] Flag.3df 
+-r-xr-xr-x   1    0    0      37296 Nov  2 2006 [ 203024 00] GoldWedge.3df 
+-r-xr-xr-x   1    0    0      17680 Mar 29 2007 [ 203056 00] Green.3df 
+-r-xr-xr-x   1    0    0      37296 Nov  2 2006 [ 203072 00] GuideSupreme.3df 
+-r-xr-xr-x   1    0    0      17680 Mar 29 2007 [ 203104 00] Orange.3df 
+-r-xr-xr-x   1    0    0      37072 Nov  2 2006 [ 203120 00] PeeWeePutter.3df 
+-r-xr-xr-x   1    0    0      17680 Mar 29 2007 [ 203152 00] Pink.3df 
+-r-xr-xr-x   1    0    0      46560 Nov  2 2006 [ 203168 00] PowerPutter2000.3df 
+-r-xr-xr-x   1    0    0      17680 Mar 29 2007 [ 203840 00] Purple.3df 
+-r-xr-xr-x   1    0    0      17680 Mar 29 2007 [ 203856 00] Red.3df 
+-r-xr-xr-x   1    0    0      37296 Nov  2 2006 [ 203872 00] SilverWedge.3df 
+-r-xr-xr-x   1    0    0      45312 Nov  2 2006 [ 203904 00] SwerveCurvePutter.3df 
+-r-xr-xr-x   1    0    0      17680 Mar 29 2007 [ 203936 00] Yellow.3df 
+-r-xr-xr-x   1    0    0      16944 Mar  5 2007 [ 202928 00] eyeball.3df 
+-r-xr-xr-x   1    0    0      17872 Mar  5 2007 [ 203008 00] football.3df 
+-r-xr-xr-x   1    0    0     120752 Mar  5 2007 [ 203200 00] ps_ball_flightlight.3df 
+-r-xr-xr-x   1    0    0     172400 Mar  5 2007 [ 203264 00] ps_ball_free.3df 
+-r-xr-xr-x   1    0    0     172400 Mar  5 2007 [ 203360 00] ps_ball_glue.3df 
+-r-xr-xr-x   1    0    0     172400 Mar  5 2007 [ 203456 00] ps_ball_rubber.3df 
+-r-xr-xr-x   1    0    0     172400 Mar  5 2007 [ 203552 00] ps_ball_speed.3df 
+-r-xr-xr-x   1    0    0      51440 Nov  2 2006 [ 203648 00] ps_club_gold.3df 
+-r-xr-xr-x   1    0    0      51440 Nov  2 2006 [ 203680 00] ps_club_guided.3df 
+-r-xr-xr-x   1    0    0      51216 Nov  2 2006 [ 203712 00] ps_club_peewee.3df 
+-r-xr-xr-x   1    0    0      60704 Nov  2 2006 [ 203744 00] ps_club_power.3df 
+-r-xr-xr-x   1    0    0      51440 Nov  2 2006 [ 203776 00] ps_club_silver.3df 
+-r-xr-xr-x   1    0    0      59488 Nov  2 2006 [ 203808 00] ps_club_swerve.3df 
+
+Directory listing of /PSP_GAME/USRDIR/Overlays/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     32 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 16 2007 [     25 02] .. 
+-r-xr-xr-x   1    0    0     263096 Mar  2 2007 [ 203952 00] Players.spr 
+-r-xr-xr-x   1    0    0     131224 Mar  2 2007 [ 204096 00] Power.spr 
+-r-xr-xr-x   1    0    0       1176 Nov 23 2006 [ 204176 00] Target.spr 
+
+Directory listing of /PSP_GAME/USRDIR/Sounds/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     33 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 16 2007 [     25 02] .. 
+-r-xr-xr-x   1    0    0        672 Jan 29 2007 [ 204192 00] BallBounce1.vag 
+dr-xr-xr-x   1    0    0       6144 Nov 15 2007 [     40 02] Char 
+-r-xr-xr-x   1    0    0     546192 Apr  5 2007 [ 206800 00] Egypt.at3 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     43 02] Egypt 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     44 02] Env 
+-r-xr-xr-x   1    0    0     514268 Apr  4 2007 [ 208944 00] Future.at3 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     45 02] Future 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     46 02] InGame 
+-r-xr-xr-x   1    0    0     462864 Apr  5 2007 [ 209440 00] Medi.at3 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     47 02] Medieval 
+-r-xr-xr-x   1    0    0     462932 Apr  4 2007 [ 210512 00] Menu.at3 
+-r-xr-xr-x   1    0    0     514268 Apr  4 2007 [ 211920 00] Prehist.at3 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     48 02] Prehist 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     49 02] QuackPck 
+-r-xr-xr-x   1    0    0       1616 Jan 29 2007 [ 215760 00] SwingHit2.vag 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     50 02] Trigger 
+-r-xr-xr-x   1    0    0     514200 Apr  5 2007 [ 215776 00] Trop.at3 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     51 02] Tropical 
+
+Directory listing of /PSP_GAME/USRDIR/Videos/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     34 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 16 2007 [     25 02] .. 
+-r-xr-xr-x   1    0    0     577536 Mar 29 2007 [ 217088 00] OxyIntro.pmf 
+-r-xr-xr-x   1    0    0     342016 Dec 13 2006 [ 216912 00] Oxygen.pmf 
+-r-xr-xr-x   1    0    0   10643456 Mar 29 2007 [ 217376 00] PSPIntro.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/Levels/Egyptian/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     35 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     28 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     52 02] AI 
+-r-xr-xr-x   1    0    0    1454928 Apr  2 2007 [  79776 00] cg_e_01.3df 
+-r-xr-xr-x   1    0    0    2571440 Apr  2 2007 [  80496 00] cg_e_02.3df 
+-r-xr-xr-x   1    0    0    1479056 Apr 26 2007 [  81760 00] cg_e_03.3df 
+-r-xr-xr-x   1    0    0    2571600 Jun 13 2007 [  82496 00] cg_e_04.3df 
+-r-xr-xr-x   1    0    0    2836720 Jul  5 2007 [  83760 00] cg_e_05.3df 
+-r-xr-xr-x   1    0    0    2393392 Apr  2 2007 [  85152 00] cg_e_06.3df 
+-r-xr-xr-x   1    0    0    2089680 Apr  2 2007 [  86336 00] cg_e_07.3df 
+-r-xr-xr-x   1    0    0    2252960 Apr  2 2007 [  87360 00] cg_e_08.3df 
+-r-xr-xr-x   1    0    0    2297008 Apr  2 2007 [  88464 00] cg_e_09.3df 
+-r-xr-xr-x   1    0    0    2266832 Apr  2 2007 [  89600 00] cg_e_10.3df 
+-r-xr-xr-x   1    0    0    2314032 Apr  2 2007 [  90720 00] cg_e_11.3df 
+-r-xr-xr-x   1    0    0    2805456 Apr 26 2007 [  91856 00] cg_e_12.3df 
+-r-xr-xr-x   1    0    0    2169536 Apr  2 2007 [  93232 00] cg_e_13.3df 
+-r-xr-xr-x   1    0    0    2564512 Apr  2 2007 [  94304 00] cg_e_14.3df 
+-r-xr-xr-x   1    0    0    2460896 Apr  2 2007 [  95568 00] cg_e_15.3df 
+-r-xr-xr-x   1    0    0    2169248 Apr  2 2007 [  96784 00] cg_e_16.3df 
+-r-xr-xr-x   1    0    0    2284016 May  9 2007 [  97856 00] cg_e_17.3df 
+-r-xr-xr-x   1    0    0    2223408 Jun 13 2007 [  98976 00] cg_e_18.3df 
+-r-xr-xr-x   1    0    0    1864608 Apr 26 2007 [ 100064 00] cg_e_19.3df 
+
+Directory listing of /PSP_GAME/USRDIR/Levels/Future/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     36 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     28 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     53 02] AI 
+-r-xr-xr-x   1    0    0    1312016 Apr  2 2007 [ 105408 00] cg_f_01.3df 
+-r-xr-xr-x   1    0    0    1956544 Jun 13 2007 [ 106064 00] cg_f_02.3df 
+-r-xr-xr-x   1    0    0    2092432 May  9 2007 [ 107024 00] cg_f_03.3df 
+-r-xr-xr-x   1    0    0    1402272 May  9 2007 [ 108048 00] cg_f_04.3df 
+-r-xr-xr-x   1    0    0    1759296 May  9 2007 [ 108736 00] cg_f_05.3df 
+-r-xr-xr-x   1    0    0    1485776 Apr  2 2007 [ 109600 00] cg_f_06.3df 
+-r-xr-xr-x   1    0    0    2354224 May  9 2007 [ 110336 00] cg_f_07.3df 
+-r-xr-xr-x   1    0    0    2748768 Apr  2 2007 [ 111488 00] cg_f_08.3df 
+-r-xr-xr-x   1    0    0    1551744 Mar 30 2007 [ 112832 00] cg_f_09.3df 
+-r-xr-xr-x   1    0    0    1822464 Apr  2 2007 [ 113600 00] cg_f_10.3df 
+-r-xr-xr-x   1    0    0    2469392 Apr  4 2007 [ 114496 00] cg_f_11.3df 
+-r-xr-xr-x   1    0    0    2457472 Mar 30 2007 [ 115712 00] cg_f_12.3df 
+-r-xr-xr-x   1    0    0    2501760 Apr  2 2007 [ 116912 00] cg_f_13.3df 
+-r-xr-xr-x   1    0    0    2690144 Jun 13 2007 [ 118144 00] cg_f_14.3df 
+-r-xr-xr-x   1    0    0    2110672 Apr  2 2007 [ 119472 00] cg_f_15.3df 
+-r-xr-xr-x   1    0    0    2129312 Apr  4 2007 [ 120512 00] cg_f_16.3df 
+-r-xr-xr-x   1    0    0    2263952 Apr  4 2007 [ 121552 00] cg_f_17.3df 
+-r-xr-xr-x   1    0    0    2384976 Apr  2 2007 [ 122672 00] cg_f_18.3df 
+-r-xr-xr-x   1    0    0    1831456 Apr  2 2007 [ 123840 00] cg_f_19.3df 
+-r-xr-xr-x   1    0    0    2451968 Apr  2 2007 [ 124736 00] cg_f_20.3df 
+
+Directory listing of /PSP_GAME/USRDIR/Levels/Medieval/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     37 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     28 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     54 02] AI 
+-r-xr-xr-x   1    0    0    2682784 Apr  4 2007 [ 129872 00] cg_m_01.3df 
+-r-xr-xr-x   1    0    0    2703664 Apr  4 2007 [ 131184 00] cg_m_02.3df 
+-r-xr-xr-x   1    0    0    2473648 Apr  4 2007 [ 132512 00] cg_m_03.3df 
+-r-xr-xr-x   1    0    0    2263216 May  9 2007 [ 133728 00] cg_m_04.3df 
+-r-xr-xr-x   1    0    0    2478160 Apr  4 2007 [ 134848 00] cg_m_05.3df 
+-r-xr-xr-x   1    0    0    2392848 Apr  4 2007 [ 136064 00] cg_m_06.3df 
+-r-xr-xr-x   1    0    0    2840720 May  9 2007 [ 137248 00] cg_m_07.3df 
+-r-xr-xr-x   1    0    0    2071328 Apr  4 2007 [ 138640 00] cg_m_08.3df 
+-r-xr-xr-x   1    0    0    2755248 Apr  4 2007 [ 139664 00] cg_m_09.3df 
+-r-xr-xr-x   1    0    0    2285408 Jun 13 2007 [ 141024 00] cg_m_10.3df 
+-r-xr-xr-x   1    0    0    2212928 Apr  4 2007 [ 142144 00] cg_m_11.3df 
+-r-xr-xr-x   1    0    0    2787760 Nov 13 2007 [ 143232 00] cg_m_12.3df 
+-r-xr-xr-x   1    0    0    3087120 Apr 26 2007 [ 144608 00] cg_m_13.3df 
+-r-xr-xr-x   1    0    0    2207888 Apr  4 2007 [ 146128 00] cg_m_14.3df 
+-r-xr-xr-x   1    0    0    2578560 Apr  4 2007 [ 147216 00] cg_m_15.3df 
+-r-xr-xr-x   1    0    0    1849920 Apr  4 2007 [ 148480 00] cg_m_16.3df 
+-r-xr-xr-x   1    0    0    2438608 Apr  4 2007 [ 149392 00] cg_m_17.3df 
+-r-xr-xr-x   1    0    0    2057392 Apr  4 2007 [ 150592 00] cg_m_18.3df 
+-r-xr-xr-x   1    0    0    2423536 Apr  4 2007 [ 151600 00] cg_m_19.3df 
+
+Directory listing of /PSP_GAME/USRDIR/Levels/Prehist/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     38 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     28 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     55 02] AI 
+-r-xr-xr-x   1    0    0    2152096 Jul  5 2007 [ 155680 00] cg_p_01.3df 
+-r-xr-xr-x   1    0    0    2078832 Apr  2 2007 [ 156736 00] cg_p_02.3df 
+-r-xr-xr-x   1    0    0    1878720 Jul  5 2007 [ 157760 00] cg_p_03.3df 
+-r-xr-xr-x   1    0    0    1392400 Jul  5 2007 [ 158688 00] cg_p_04.3df 
+-r-xr-xr-x   1    0    0    2261328 Apr  4 2007 [ 159376 00] cg_p_05.3df 
+-r-xr-xr-x   1    0    0    2376688 Aug  1 2007 [ 160496 00] cg_p_06.3df 
+-r-xr-xr-x   1    0    0    2106032 Jul  5 2007 [ 161664 00] cg_p_07.3df 
+-r-xr-xr-x   1    0    0    1831648 Apr  2 2007 [ 162704 00] cg_p_08.3df 
+-r-xr-xr-x   1    0    0    1732832 Jul  5 2007 [ 163600 00] cg_p_09.3df 
+-r-xr-xr-x   1    0    0    1811952 Jul  5 2007 [ 164448 00] cg_p_10.3df 
+-r-xr-xr-x   1    0    0    1287792 Jul  5 2007 [ 165344 00] cg_p_11.3df 
+-r-xr-xr-x   1    0    0    1796464 Apr  2 2007 [ 165984 00] cg_p_12.3df 
+-r-xr-xr-x   1    0    0    2622992 Apr  2 2007 [ 166864 00] cg_p_13.3df 
+-r-xr-xr-x   1    0    0    2040304 Apr  2 2007 [ 168160 00] cg_p_14.3df 
+-r-xr-xr-x   1    0    0    1648624 Apr  2 2007 [ 169168 00] cg_p_15.3df 
+-r-xr-xr-x   1    0    0    1923568 Jul  5 2007 [ 169984 00] cg_p_16.3df 
+-r-xr-xr-x   1    0    0    2079440 Apr  2 2007 [ 170928 00] cg_p_17.3df 
+-r-xr-xr-x   1    0    0    2536976 Jul  5 2007 [ 171952 00] cg_p_18.3df 
+-r-xr-xr-x   1    0    0    1712336 Apr 26 2007 [ 173200 00] cg_p_19.3df 
+
+Directory listing of /PSP_GAME/USRDIR/Levels/Tropical/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     39 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     28 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     56 02] AI 
+-r-xr-xr-x   1    0    0    2366688 May  9 2007 [ 177616 00] cg_t_01.3df 
+-r-xr-xr-x   1    0    0    1925280 Apr  4 2007 [ 178784 00] cg_t_02.3df 
+-r-xr-xr-x   1    0    0    1940448 Apr  4 2007 [ 179728 00] cg_t_03.3df 
+-r-xr-xr-x   1    0    0    2465248 May  9 2007 [ 180688 00] cg_t_04.3df 
+-r-xr-xr-x   1    0    0    2191152 Apr  4 2007 [ 181904 00] cg_t_05.3df 
+-r-xr-xr-x   1    0    0    2944112 Apr  4 2007 [ 182976 00] cg_t_06.3df 
+-r-xr-xr-x   1    0    0    2316864 Apr  4 2007 [ 184416 00] cg_t_07.3df 
+-r-xr-xr-x   1    0    0    2349744 Apr  4 2007 [ 185552 00] cg_t_08.3df 
+-r-xr-xr-x   1    0    0    2141568 Jul  5 2007 [ 186704 00] cg_t_09.3df 
+-r-xr-xr-x   1    0    0    2548528 Apr  4 2007 [ 187760 00] cg_t_10.3df 
+-r-xr-xr-x   1    0    0    2959136 Apr  4 2007 [ 189008 00] cg_t_11.3df 
+-r-xr-xr-x   1    0    0    2714784 May  9 2007 [ 190464 00] cg_t_12.3df 
+-r-xr-xr-x   1    0    0    2414672 Jun 13 2007 [ 191792 00] cg_t_13.3df 
+-r-xr-xr-x   1    0    0    2546208 Apr  4 2007 [ 192976 00] cg_t_14.3df 
+-r-xr-xr-x   1    0    0    2286912 Apr  4 2007 [ 194224 00] cg_t_15.3df 
+-r-xr-xr-x   1    0    0    2286928 Apr 16 2007 [ 195344 00] cg_t_16.3df 
+-r-xr-xr-x   1    0    0    2959328 Apr  4 2007 [ 196464 00] cg_t_17.3df 
+-r-xr-xr-x   1    0    0    2806752 Apr  4 2007 [ 197920 00] cg_t_18.3df 
+-r-xr-xr-x   1    0    0    3056928 Apr  4 2007 [ 199296 00] cg_t_19.3df 
+
+Directory listing of /PSP_GAME/USRDIR/Sounds/Char/
+dr-xr-xr-x   1    0    0       6144 Nov 15 2007 [     40 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     33 02] .. 
+-r-xr-xr-x   1    0    0      13712 Apr  3 2007 [ 204208 00] 01_A_00.vag 
+-r-xr-xr-x   1    0    0      16384 Apr  3 2007 [ 204224 00] 01_A_01.vag 
+-r-xr-xr-x   1    0    0      24992 Apr  3 2007 [ 204240 00] 01_A_02.vag 
+-r-xr-xr-x   1    0    0      26560 Apr  3 2007 [ 204256 00] 01_A_03.vag 
+-r-xr-xr-x   1    0    0      30800 Apr  3 2007 [ 204272 00] 01_B_00.vag 
+-r-xr-xr-x   1    0    0      27024 Apr  3 2007 [ 204288 00] 01_B_01.vag 
+-r-xr-xr-x   1    0    0      31312 Apr  3 2007 [ 204304 00] 01_B_02.vag 
+-r-xr-xr-x   1    0    0      53280 Apr  3 2007 [ 204320 00] 01_B_03.vag 
+-r-xr-xr-x   1    0    0      33088 Apr  3 2007 [ 204352 00] 02_A_00.vag 
+-r-xr-xr-x   1    0    0      29920 Apr  3 2007 [ 204384 00] 02_A_01.vag 
+-r-xr-xr-x   1    0    0      42112 Apr  3 2007 [ 204400 00] 02_A_02.vag 
+-r-xr-xr-x   1    0    0      27456 Apr  3 2007 [ 204432 00] 02_A_03.vag 
+-r-xr-xr-x   1    0    0      33456 Apr  3 2007 [ 204448 00] 02_B_00.vag 
+-r-xr-xr-x   1    0    0      38400 Apr  3 2007 [ 204480 00] 02_B_01.vag 
+-r-xr-xr-x   1    0    0      34192 Apr  3 2007 [ 204512 00] 02_B_02.vag 
+-r-xr-xr-x   1    0    0      44496 Apr  3 2007 [ 204544 00] 02_B_03.vag 
+-r-xr-xr-x   1    0    0      22864 Apr  3 2007 [ 204576 00] 03_A_00.vag 
+-r-xr-xr-x   1    0    0      26288 Apr  3 2007 [ 204592 00] 03_A_01.vag 
+-r-xr-xr-x   1    0    0      18064 Apr  3 2007 [ 204608 00] 03_A_02.vag 
+-r-xr-xr-x   1    0    0      33632 Apr  3 2007 [ 204624 00] 03_A_03.vag 
+-r-xr-xr-x   1    0    0      20240 Apr  3 2007 [ 204656 00] 03_B_00.vag 
+-r-xr-xr-x   1    0    0      25216 Apr  3 2007 [ 204672 00] 03_B_01.vag 
+-r-xr-xr-x   1    0    0      21872 Apr  3 2007 [ 204688 00] 03_B_02.vag 
+-r-xr-xr-x   1    0    0      38080 Apr  3 2007 [ 204704 00] 03_B_03.vag 
+-r-xr-xr-x   1    0    0      40400 Apr  3 2007 [ 204736 00] 04_A_00.vag 
+-r-xr-xr-x   1    0    0      27872 Apr  3 2007 [ 204768 00] 04_A_01.vag 
+-r-xr-xr-x   1    0    0      43872 Apr  3 2007 [ 204784 00] 04_A_02.vag 
+-r-xr-xr-x   1    0    0      58336 Apr  3 2007 [ 204816 00] 04_A_03.vag 
+-r-xr-xr-x   1    0    0      25568 Apr  3 2007 [ 204848 00] 04_B_00.vag 
+-r-xr-xr-x   1    0    0      24624 Apr  3 2007 [ 204864 00] 04_B_01.vag 
+-r-xr-xr-x   1    0    0      52560 Apr  3 2007 [ 204880 00] 04_B_02.vag 
+-r-xr-xr-x   1    0    0      46080 Apr  3 2007 [ 204912 00] 04_B_03.vag 
+-r-xr-xr-x   1    0    0      24272 Apr  3 2007 [ 204944 00] 05_A_00.vag 
+-r-xr-xr-x   1    0    0      46880 Apr  3 2007 [ 204960 00] 05_A_01.vag 
+-r-xr-xr-x   1    0    0      45728 Apr  3 2007 [ 204992 00] 05_A_02.vag 
+-r-xr-xr-x   1    0    0      60944 Apr  3 2007 [ 205024 00] 05_A_03.vag 
+-r-xr-xr-x   1    0    0      36000 Apr  3 2007 [ 205056 00] 05_B_00.vag 
+-r-xr-xr-x   1    0    0      49744 Apr  3 2007 [ 205088 00] 05_B_01.vag 
+-r-xr-xr-x   1    0    0      41776 Apr  3 2007 [ 205120 00] 05_B_02.vag 
+-r-xr-xr-x   1    0    0      28768 Apr  3 2007 [ 205152 00] 05_B_03.vag 
+-r-xr-xr-x   1    0    0      32352 Apr  3 2007 [ 205168 00] 06_A_00.vag 
+-r-xr-xr-x   1    0    0      28336 Apr  3 2007 [ 205184 00] 06_A_01.vag 
+-r-xr-xr-x   1    0    0      49408 Apr  3 2007 [ 205200 00] 06_A_02.vag 
+-r-xr-xr-x   1    0    0      46480 Apr  3 2007 [ 205232 00] 06_A_03.vag 
+-r-xr-xr-x   1    0    0      34752 Apr  3 2007 [ 205264 00] 06_B_00.vag 
+-r-xr-xr-x   1    0    0      37984 Apr  3 2007 [ 205296 00] 06_B_01.vag 
+-r-xr-xr-x   1    0    0      31168 Apr  3 2007 [ 205328 00] 06_B_02.vag 
+-r-xr-xr-x   1    0    0      39168 Apr  3 2007 [ 205344 00] 06_B_03.vag 
+-r-xr-xr-x   1    0    0      37600 Apr  3 2007 [ 205376 00] 07_A_00.vag 
+-r-xr-xr-x   1    0    0      31120 Apr  3 2007 [ 205408 00] 07_A_01.vag 
+-r-xr-xr-x   1    0    0      38960 Apr  3 2007 [ 205424 00] 07_A_02.vag 
+-r-xr-xr-x   1    0    0      46608 Apr  3 2007 [ 205456 00] 07_A_03.vag 
+-r-xr-xr-x   1    0    0      30944 Apr  3 2007 [ 205488 00] 07_B_00.vag 
+-r-xr-xr-x   1    0    0      36528 Apr  3 2007 [ 205504 00] 07_B_01.vag 
+-r-xr-xr-x   1    0    0      39280 Apr  3 2007 [ 205536 00] 07_B_02.vag 
+-r-xr-xr-x   1    0    0      56528 Apr  3 2007 [ 205568 00] 07_B_03.vag 
+-r-xr-xr-x   1    0    0      19312 Apr  3 2007 [ 205600 00] 08_A_00.vag 
+-r-xr-xr-x   1    0    0      30496 Apr  3 2007 [ 205616 00] 08_A_01.vag 
+-r-xr-xr-x   1    0    0      64656 Apr  3 2007 [ 205632 00] 08_A_02.vag 
+-r-xr-xr-x   1    0    0      31808 Apr  3 2007 [ 205664 00] 08_A_03.vag 
+-r-xr-xr-x   1    0    0      30032 Apr  3 2007 [ 205680 00] 08_B_00.vag 
+-r-xr-xr-x   1    0    0      23728 Apr  3 2007 [ 205696 00] 08_B_01.vag 
+-r-xr-xr-x   1    0    0      25600 Apr  3 2007 [ 205712 00] 08_B_02.vag 
+-r-xr-xr-x   1    0    0      40928 Apr  3 2007 [ 205728 00] 08_B_03.vag 
+-r-xr-xr-x   1    0    0      19536 Apr  3 2007 [ 205760 00] 09_A_00.vag 
+-r-xr-xr-x   1    0    0      11568 Apr  3 2007 [ 205776 00] 09_A_01.vag 
+-r-xr-xr-x   1    0    0      33536 Apr  3 2007 [ 205792 00] 09_A_02.vag 
+-r-xr-xr-x   1    0    0      17680 Apr  3 2007 [ 205824 00] 09_A_03.vag 
+-r-xr-xr-x   1    0    0      22928 Apr  3 2007 [ 205840 00] 09_B_00.vag 
+-r-xr-xr-x   1    0    0      21072 Apr  3 2007 [ 205856 00] 09_B_01.vag 
+-r-xr-xr-x   1    0    0      25152 Apr  3 2007 [ 205872 00] 09_B_02.vag 
+-r-xr-xr-x   1    0    0      32368 Apr  3 2007 [ 205888 00] 09_B_03.vag 
+-r-xr-xr-x   1    0    0      38560 Apr  3 2007 [ 205904 00] 10_A_00.vag 
+-r-xr-xr-x   1    0    0      20656 Apr  3 2007 [ 205936 00] 10_A_01.vag 
+-r-xr-xr-x   1    0    0      14944 Apr  3 2007 [ 205952 00] 10_A_02.vag 
+-r-xr-xr-x   1    0    0      16928 Apr  3 2007 [ 205968 00] 10_A_03.vag 
+-r-xr-xr-x   1    0    0      27968 Apr  3 2007 [ 205984 00] 10_B_00.vag 
+-r-xr-xr-x   1    0    0      24592 Apr  3 2007 [ 206000 00] 10_B_01.vag 
+-r-xr-xr-x   1    0    0      22624 Apr  3 2007 [ 206016 00] 10_B_02.vag 
+-r-xr-xr-x   1    0    0      20880 Apr  3 2007 [ 206032 00] 10_B_03.vag 
+
+Directory listing of /PSP_GAME/USRDIR/Sounds/Egypt/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     43 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     33 02] .. 
+-r-xr-xr-x   1    0    0      89312 Apr  4 2007 [ 206048 00] Crickets.vag 
+-r-xr-xr-x   1    0    0      39696 Apr  4 2007 [ 206096 00] Drip1.vag 
+-r-xr-xr-x   1    0    0      40688 Apr  4 2007 [ 206128 00] Drip2.vag 
+-r-xr-xr-x   1    0    0      44272 Apr  4 2007 [ 206160 00] Drip4.vag 
+-r-xr-xr-x   1    0    0      40544 Apr  4 2007 [ 206192 00] Drip5.vag 
+-r-xr-xr-x   1    0    0      84208 Apr  4 2007 [ 206224 00] Gust04.vag 
+-r-xr-xr-x   1    0    0     101264 Apr  4 2007 [ 206272 00] Gust10.vag 
+-r-xr-xr-x   1    0    0       7984 Apr  4 2007 [ 206336 00] Hammer1.vag 
+-r-xr-xr-x   1    0    0       8416 Apr  4 2007 [ 206352 00] Hammer2.vag 
+-r-xr-xr-x   1    0    0       8240 Apr  4 2007 [ 206368 00] Hammer3.vag 
+-r-xr-xr-x   1    0    0     125952 Apr  4 2007 [ 206384 00] Market.vag 
+-r-xr-xr-x   1    0    0      65456 Apr  4 2007 [ 206448 00] MnrLaugh.vag 
+-r-xr-xr-x   1    0    0     149888 Apr  4 2007 [ 206480 00] SnkCharm.vag 
+-r-xr-xr-x   1    0    0      20816 Apr  4 2007 [ 206560 00] SnkRattl.vag 
+-r-xr-xr-x   1    0    0     216192 Apr  4 2007 [ 206576 00] WindDst1.vag 
+-r-xr-xr-x   1    0    0     217680 Apr  4 2007 [ 206688 00] WindDst2.vag 
+
+Directory listing of /PSP_GAME/USRDIR/Sounds/Env/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     44 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     33 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     57 02] EgyptA 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     58 02] EgyptB 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     59 02] FutureA 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     60 02] FutureB 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     61 02] HistA 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     62 02] HistB 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     63 02] MediA 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     64 02] MediB 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     65 02] TropA 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     66 02] TropB 
+
+Directory listing of /PSP_GAME/USRDIR/Sounds/Future/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     45 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     33 02] .. 
+-r-xr-xr-x   1    0    0      94448 Apr  4 2007 [ 208608 00] BigFan.vag 
+-r-xr-xr-x   1    0    0      76016 Apr  4 2007 [ 208656 00] BlckHole.vag 
+-r-xr-xr-x   1    0    0      79664 Apr  4 2007 [ 208704 00] FSaucer.vag 
+-r-xr-xr-x   1    0    0      68544 Apr  4 2007 [ 208752 00] Insects.vag 
+-r-xr-xr-x   1    0    0      59040 Apr  4 2007 [ 208800 00] Robots.vag 
+-r-xr-xr-x   1    0    0      76688 Apr  4 2007 [ 208832 00] SawHarp.vag 
+-r-xr-xr-x   1    0    0      47488 Apr  4 2007 [ 208880 00] ShipEng.vag 
+-r-xr-xr-x   1    0    0      43568 Apr  4 2007 [ 208912 00] Sputnik.vag 
+
+Directory listing of /PSP_GAME/USRDIR/Sounds/InGame/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     46 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     33 02] .. 
+-r-xr-xr-x   1    0    0       6336 Apr  4 2007 [ 209200 00] AxeHit.vag 
+-r-xr-xr-x   1    0    0      11504 Apr  4 2007 [ 209216 00] BlkMove.vag 
+-r-xr-xr-x   1    0    0      16976 Apr  4 2007 [ 209232 00] BlkSlide.vag 
+-r-xr-xr-x   1    0    0       7728 Apr  4 2007 [ 209248 00] Flipper.vag 
+-r-xr-xr-x   1    0    0      16400 Apr  4 2007 [ 209264 00] GuilHit.vag 
+-r-xr-xr-x   1    0    0      53184 Apr  4 2007 [ 209280 00] MineCart.vag 
+-r-xr-xr-x   1    0    0      10912 Apr  4 2007 [ 209312 00] StnSlide.vag 
+-r-xr-xr-x   1    0    0      47824 Apr  4 2007 [ 209328 00] StnSrcp.vag 
+-r-xr-xr-x   1    0    0       5072 Apr  4 2007 [ 209360 00] Swish.vag 
+-r-xr-xr-x   1    0    0      11824 Apr  4 2007 [ 209376 00] Swish2.vag 
+-r-xr-xr-x   1    0    0       4768 Apr  4 2007 [ 209392 00] TDClose.vag 
+-r-xr-xr-x   1    0    0       6544 Apr  4 2007 [ 209408 00] TDOpen.vag 
+-r-xr-xr-x   1    0    0      12880 Apr  4 2007 [ 209424 00] WtrSlide.vag 
+
+Directory listing of /PSP_GAME/USRDIR/Sounds/Medieval/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     47 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     33 02] .. 
+-r-xr-xr-x   1    0    0      41376 Apr  4 2007 [ 209680 00] ArwTwang.vag 
+-r-xr-xr-x   1    0    0      22464 Apr  4 2007 [ 209712 00] Chain01.vag 
+-r-xr-xr-x   1    0    0      21408 Apr  4 2007 [ 209728 00] Chain06.vag 
+-r-xr-xr-x   1    0    0      21296 Apr  4 2007 [ 209744 00] Chain07.vag 
+-r-xr-xr-x   1    0    0      14800 Apr  4 2007 [ 209760 00] ChanDrop.vag 
+-r-xr-xr-x   1    0    0      51872 Apr  4 2007 [ 209776 00] CrchBell.vag 
+-r-xr-xr-x   1    0    0      55424 Apr  4 2007 [ 209872 00] FScream1.vag 
+-r-xr-xr-x   1    0    0     124576 Apr  4 2007 [ 209808 00] Fire4.vag 
+-r-xr-xr-x   1    0    0      81408 Apr  4 2007 [ 209904 00] GLaugh1.vag 
+-r-xr-xr-x   1    0    0      86240 Apr  4 2007 [ 209952 00] GLaugh2.vag 
+-r-xr-xr-x   1    0    0      50752 Apr  4 2007 [ 210000 00] Horse.vag 
+-r-xr-xr-x   1    0    0      37520 Apr  4 2007 [ 210032 00] Leaves3.vag 
+-r-xr-xr-x   1    0    0      46608 Apr  4 2007 [ 210064 00] RustyChn.vag 
+-r-xr-xr-x   1    0    0      56608 Apr  4 2007 [ 210096 00] Scream4.vag 
+-r-xr-xr-x   1    0    0      12288 Apr  4 2007 [ 210128 00] Squeak02.vag 
+-r-xr-xr-x   1    0    0       9056 Apr  4 2007 [ 210144 00] Squeak03.vag 
+-r-xr-xr-x   1    0    0      16736 Apr  4 2007 [ 210160 00] Squeak04.vag 
+-r-xr-xr-x   1    0    0      10032 Apr  4 2007 [ 210176 00] Squeak05.vag 
+-r-xr-xr-x   1    0    0      15648 Apr  4 2007 [ 210192 00] Squeak06.vag 
+-r-xr-xr-x   1    0    0      16192 Apr  4 2007 [ 210208 00] Squeak07.vag 
+-r-xr-xr-x   1    0    0     126736 Apr  4 2007 [ 210224 00] SwdFight.vag 
+-r-xr-xr-x   1    0    0      87808 Apr  4 2007 [ 210288 00] Thunder1.vag 
+-r-xr-xr-x   1    0    0     116256 Apr  4 2007 [ 210336 00] Thunder4.vag 
+-r-xr-xr-x   1    0    0      88688 Apr  4 2007 [ 210400 00] Wind05.vag 
+-r-xr-xr-x   1    0    0     114672 Apr  4 2007 [ 210448 00] WindCnyn.vag 
+
+Directory listing of /PSP_GAME/USRDIR/Sounds/Prehist/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     48 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     33 02] .. 
+-r-xr-xr-x   1    0    0      22464 Apr  4 2007 [ 210752 00] Chain01.vag 
+-r-xr-xr-x   1    0    0      21408 Apr  4 2007 [ 210768 00] Chain06.vag 
+-r-xr-xr-x   1    0    0      21296 Apr  4 2007 [ 210784 00] Chain07.vag 
+-r-xr-xr-x   1    0    0      14800 Apr  4 2007 [ 210800 00] ChanDrop.vag 
+-r-xr-xr-x   1    0    0      51872 Apr  4 2007 [ 210816 00] CrchBell.vag 
+-r-xr-xr-x   1    0    0      65360 Apr  4 2007 [ 210864 00] Dino.vag 
+-r-xr-xr-x   1    0    0     170816 Apr  4 2007 [ 210896 00] DinoRoar.vag 
+-r-xr-xr-x   1    0    0      53632 Apr 11 2007 [ 210992 00] Dinosaur.vag 
+-r-xr-xr-x   1    0    0      55424 Apr  4 2007 [ 211184 00] FScream1.vag 
+-r-xr-xr-x   1    0    0     124592 Apr  4 2007 [ 211024 00] Fire4.vag 
+-r-xr-xr-x   1    0    0      81408 Apr  4 2007 [ 211216 00] GLaugh1.vag 
+-r-xr-xr-x   1    0    0      86240 Apr  4 2007 [ 211264 00] GLaugh2.vag 
+-r-xr-xr-x   1    0    0     149840 Apr  4 2007 [ 211344 00] IcyWind.vag 
+-r-xr-xr-x   1    0    0     125600 Apr  4 2007 [ 211424 00] Lava.vag 
+-r-xr-xr-x   1    0    0      37520 Apr  4 2007 [ 211488 00] Leaves3.vag 
+-r-xr-xr-x   1    0    0      20864 Apr  4 2007 [ 211520 00] OogaBoga.vag 
+-r-xr-xr-x   1    0    0      40976 Apr  4 2007 [ 211536 00] Pterodac.vag 
+-r-xr-xr-x   1    0    0      56608 Apr  4 2007 [ 211568 00] Scream4.vag 
+-r-xr-xr-x   1    0    0      12288 Apr  4 2007 [ 211600 00] Squeak02.vag 
+-r-xr-xr-x   1    0    0       9056 Apr  4 2007 [ 211616 00] Squeak03.vag 
+-r-xr-xr-x   1    0    0      16736 Apr  4 2007 [ 211632 00] Squeak04.vag 
+-r-xr-xr-x   1    0    0      10032 Apr  4 2007 [ 211648 00] Squeak05.vag 
+-r-xr-xr-x   1    0    0      15648 Apr  4 2007 [ 211664 00] Squeak06.vag 
+-r-xr-xr-x   1    0    0      16192 Apr  4 2007 [ 211680 00] Squeak07.vag 
+-r-xr-xr-x   1    0    0      87808 Apr  4 2007 [ 211696 00] Thunder1.vag 
+-r-xr-xr-x   1    0    0     116256 Apr  4 2007 [ 211744 00] Thunder4.vag 
+-r-xr-xr-x   1    0    0      88704 Apr  4 2007 [ 211808 00] Wind05.vag 
+-r-xr-xr-x   1    0    0     114688 Apr  4 2007 [ 211856 00] WindCnyn.vag 
+-r-xr-xr-x   1    0    0       8928 Apr  4 2007 [ 210848 00] cricket.vag 
+-r-xr-xr-x   1    0    0      78592 Apr  4 2007 [ 211088 00] frog.vag 
+-r-xr-xr-x   1    0    0      78592 Apr  4 2007 [ 211136 00] frog2.vag 
+-r-xr-xr-x   1    0    0      48032 Apr  4 2007 [ 211312 00] hiss.vag 
+
+Directory listing of /PSP_GAME/USRDIR/Sounds/QuackPck/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     49 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     33 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     67 02] Basic 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     68 02] Cartoon 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     69 02] DinoDen 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     70 02] Island 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     71 02] Laser 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     72 02] Pharoah 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     73 02] Swords 
+
+Directory listing of /PSP_GAME/USRDIR/Sounds/Trigger/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     50 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     33 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     74 02] EgyptA 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     75 02] EgyptB 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     76 02] FutureA 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     77 02] FutureB 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     78 02] HistA 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     79 02] HistB 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     80 02] MediA 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     81 02] MediB 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     82 02] TropA 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     83 02] TropB 
+
+Directory listing of /PSP_GAME/USRDIR/Sounds/Tropical/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     51 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     33 02] .. 
+-r-xr-xr-x   1    0    0      30832 Apr  4 2007 [ 216032 00] CanFire2.vag 
+-r-xr-xr-x   1    0    0      29232 Apr  4 2007 [ 216048 00] CanWood.vag 
+-r-xr-xr-x   1    0    0      24896 Apr  4 2007 [ 216064 00] Chain04.vag 
+-r-xr-xr-x   1    0    0      18032 Apr  4 2007 [ 216080 00] Chain05.vag 
+-r-xr-xr-x   1    0    0     111280 Apr  4 2007 [ 216096 00] CldGust1.vag 
+-r-xr-xr-x   1    0    0      33936 Apr  4 2007 [ 216160 00] CrkHevy1.vag 
+-r-xr-xr-x   1    0    0      50624 Apr  4 2007 [ 216192 00] CrkLarg1.vag 
+-r-xr-xr-x   1    0    0      79088 Apr  4 2007 [ 216224 00] Gust02.vag 
+-r-xr-xr-x   1    0    0      83088 Apr  4 2007 [ 216272 00] Gust11.vag 
+-r-xr-xr-x   1    0    0     241136 Apr  4 2007 [ 216320 00] Ocean.vag 
+-r-xr-xr-x   1    0    0      74352 Apr  4 2007 [ 216448 00] OcnBrk2.vag 
+-r-xr-xr-x   1    0    0      63568 Apr  4 2007 [ 216496 00] OcnBrk4.vag 
+-r-xr-xr-x   1    0    0      15600 Apr  4 2007 [ 216528 00] Rustle02.vag 
+-r-xr-xr-x   1    0    0      20800 Apr  4 2007 [ 216544 00] Rustle03.vag 
+-r-xr-xr-x   1    0    0      15296 Apr  4 2007 [ 216560 00] Rustle06.vag 
+-r-xr-xr-x   1    0    0     135840 Apr  4 2007 [ 216576 00] SeaGulls.vag 
+-r-xr-xr-x   1    0    0     250512 Apr  4 2007 [ 216656 00] Uwater.vag 
+-r-xr-xr-x   1    0    0     115648 Apr  4 2007 [ 216784 00] WarDrums.vag 
+-r-xr-xr-x   1    0    0     112416 Apr  4 2007 [ 216848 00] Waves.vag 
+
+Directory listing of /PSP_GAME/USRDIR/Levels/Egyptian/AI/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     52 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     35 02] .. 
+-r-xr-xr-x   1    0    0    7222564 Apr  2 2007 [  76240 00] 000.RPK 
+
+Directory listing of /PSP_GAME/USRDIR/Levels/Future/AI/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     53 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     36 02] .. 
+-r-xr-xr-x   1    0    0    9046756 Jun 13 2007 [ 100976 00] 000.RPK 
+
+Directory listing of /PSP_GAME/USRDIR/Levels/Medieval/AI/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     54 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     37 02] .. 
+-r-xr-xr-x   1    0    0    8051648 Mar 29 2007 [ 125936 00] 000.RPK 
+
+Directory listing of /PSP_GAME/USRDIR/Levels/Prehist/AI/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     55 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     38 02] .. 
+-r-xr-xr-x   1    0    0    5899816 Aug  1 2007 [ 152784 00] 000.RPK 
+
+Directory listing of /PSP_GAME/USRDIR/Levels/Tropical/AI/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     56 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     39 02] .. 
+-r-xr-xr-x   1    0    0    7284256 Apr  2 2007 [ 174048 00] 000.RPK 
+
+Directory listing of /PSP_GAME/USRDIR/Sounds/Env/EgyptA/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     57 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     44 02] .. 
+-r-xr-xr-x   1    0    0       1009 Apr  4 2007 [ 207072 00] 01.sp 
+-r-xr-xr-x   1    0    0        852 Apr  4 2007 [ 207088 00] 02.sp 
+-r-xr-xr-x   1    0    0       1090 Apr  4 2007 [ 207104 00] 03.sp 
+-r-xr-xr-x   1    0    0       1009 Apr  4 2007 [ 207120 00] 04.sp 
+-r-xr-xr-x   1    0    0       1009 Apr  4 2007 [ 207136 00] 05.sp 
+-r-xr-xr-x   1    0    0       1009 Apr  4 2007 [ 207152 00] 06.sp 
+-r-xr-xr-x   1    0    0       1009 Apr  4 2007 [ 207168 00] 07.sp 
+-r-xr-xr-x   1    0    0       1090 Apr  4 2007 [ 207184 00] 08.sp 
+-r-xr-xr-x   1    0    0       1009 Apr  4 2007 [ 207200 00] 09.sp 
+
+Directory listing of /PSP_GAME/USRDIR/Sounds/Env/EgyptB/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     58 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     44 02] .. 
+-r-xr-xr-x   1    0    0       1009 Apr  4 2007 [ 207216 00] 01.sp 
+-r-xr-xr-x   1    0    0       1090 Apr  4 2007 [ 207232 00] 02.sp 
+-r-xr-xr-x   1    0    0       1009 Apr  4 2007 [ 207248 00] 03.sp 
+-r-xr-xr-x   1    0    0       1009 Apr  4 2007 [ 207264 00] 04.sp 
+-r-xr-xr-x   1    0    0       1090 Apr  4 2007 [ 207280 00] 05.sp 
+-r-xr-xr-x   1    0    0       1009 Apr  4 2007 [ 207296 00] 06.sp 
+-r-xr-xr-x   1    0    0       1090 Apr  4 2007 [ 207312 00] 07.sp 
+-r-xr-xr-x   1    0    0       1009 Apr  4 2007 [ 207328 00] 08.sp 
+-r-xr-xr-x   1    0    0       1090 Apr  4 2007 [ 207344 00] 09.sp 
+-r-xr-xr-x   1    0    0       1009 Apr  4 2007 [ 207360 00] 10.sp 
+
+Directory listing of /PSP_GAME/USRDIR/Sounds/Env/FutureA/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     59 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     44 02] .. 
+-r-xr-xr-x   1    0    0       1409 Apr  4 2007 [ 207376 00] 01.sp 
+-r-xr-xr-x   1    0    0       1445 Apr  4 2007 [ 207392 00] 02.sp 
+-r-xr-xr-x   1    0    0        978 Apr  4 2007 [ 207408 00] 03.sp 
+-r-xr-xr-x   1    0    0       1409 Apr  4 2007 [ 207424 00] 04.sp 
+-r-xr-xr-x   1    0    0        978 Apr  4 2007 [ 207440 00] 05.sp 
+-r-xr-xr-x   1    0    0       1409 Apr  4 2007 [ 207456 00] 06.sp 
+-r-xr-xr-x   1    0    0       1445 Apr  4 2007 [ 207472 00] 07.sp 
+-r-xr-xr-x   1    0    0        978 Apr  4 2007 [ 207488 00] 08.sp 
+-r-xr-xr-x   1    0    0       1409 Apr  4 2007 [ 207504 00] 09.sp 
+
+Directory listing of /PSP_GAME/USRDIR/Sounds/Env/FutureB/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     60 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     44 02] .. 
+-r-xr-xr-x   1    0    0       1445 Apr  4 2007 [ 207520 00] 01.sp 
+-r-xr-xr-x   1    0    0       1445 Apr  4 2007 [ 207536 00] 02.sp 
+-r-xr-xr-x   1    0    0        978 Apr  4 2007 [ 207552 00] 03.sp 
+-r-xr-xr-x   1    0    0        978 Apr  4 2007 [ 207568 00] 04.sp 
+-r-xr-xr-x   1    0    0       1445 Apr  4 2007 [ 207584 00] 05.sp 
+-r-xr-xr-x   1    0    0       1409 Apr  4 2007 [ 207600 00] 06.sp 
+-r-xr-xr-x   1    0    0       1445 Apr  4 2007 [ 207616 00] 07.sp 
+-r-xr-xr-x   1    0    0       1445 Apr  4 2007 [ 207632 00] 08.sp 
+-r-xr-xr-x   1    0    0        978 Apr  4 2007 [ 207648 00] 09.sp 
+-r-xr-xr-x   1    0    0        989 Apr  4 2007 [ 207664 00] 10.sp 
+-r-xr-xr-x   1    0    0        111 Mar  8 2007 [ 207680 00] 11.sp 
+
+Directory listing of /PSP_GAME/USRDIR/Sounds/Env/HistA/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     61 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     44 02] .. 
+-r-xr-xr-x   1    0    0        981 Apr  4 2007 [ 207696 00] 01.sp 
+-r-xr-xr-x   1    0    0       1018 Apr  4 2007 [ 207712 00] 02.sp 
+-r-xr-xr-x   1    0    0        975 Apr  4 2007 [ 207728 00] 03.sp 
+-r-xr-xr-x   1    0    0        981 Apr  4 2007 [ 207744 00] 04.sp 
+-r-xr-xr-x   1    0    0       1018 Apr  4 2007 [ 207760 00] 05.sp 
+-r-xr-xr-x   1    0    0        765 Apr  4 2007 [ 207776 00] 06.sp 
+-r-xr-xr-x   1    0    0        765 Apr  4 2007 [ 207792 00] 07.sp 
+-r-xr-xr-x   1    0    0        765 Apr  4 2007 [ 207808 00] 08.sp 
+-r-xr-xr-x   1    0    0       1018 Apr  4 2007 [ 207824 00] 09.sp 
+
+Directory listing of /PSP_GAME/USRDIR/Sounds/Env/HistB/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     62 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     44 02] .. 
+-r-xr-xr-x   1    0    0       1018 Apr  4 2007 [ 207840 00] 01.sp 
+-r-xr-xr-x   1    0    0        981 Apr  4 2007 [ 207856 00] 02.sp 
+-r-xr-xr-x   1    0    0       1018 Apr  4 2007 [ 207872 00] 03.sp 
+-r-xr-xr-x   1    0    0       1018 Apr  4 2007 [ 207888 00] 04.sp 
+-r-xr-xr-x   1    0    0       1018 Apr  4 2007 [ 207904 00] 05.sp 
+-r-xr-xr-x   1    0    0       1018 Apr  4 2007 [ 207920 00] 06.sp 
+-r-xr-xr-x   1    0    0        763 Apr  4 2007 [ 207936 00] 07.sp 
+-r-xr-xr-x   1    0    0        765 Apr  4 2007 [ 207952 00] 08.sp 
+-r-xr-xr-x   1    0    0        765 Apr  4 2007 [ 207968 00] 09.sp 
+-r-xr-xr-x   1    0    0        765 Apr  4 2007 [ 207984 00] 10.sp 
+
+Directory listing of /PSP_GAME/USRDIR/Sounds/Env/MediA/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     63 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     44 02] .. 
+-r-xr-xr-x   1    0    0       1312 Apr  4 2007 [ 208000 00] 01.sp 
+-r-xr-xr-x   1    0    0       1689 Apr  4 2007 [ 208016 00] 02.sp 
+-r-xr-xr-x   1    0    0       1689 Apr  4 2007 [ 208032 00] 03.sp 
+-r-xr-xr-x   1    0    0       1689 Apr  4 2007 [ 208048 00] 04.sp 
+-r-xr-xr-x   1    0    0       1689 Apr  4 2007 [ 208064 00] 05.sp 
+-r-xr-xr-x   1    0    0       1689 Apr  4 2007 [ 208080 00] 06.sp 
+-r-xr-xr-x   1    0    0       1274 Apr  4 2007 [ 208096 00] 07.sp 
+-r-xr-xr-x   1    0    0       1689 Apr  4 2007 [ 208112 00] 08.sp 
+-r-xr-xr-x   1    0    0       1274 Apr  4 2007 [ 208128 00] 09.sp 
+
+Directory listing of /PSP_GAME/USRDIR/Sounds/Env/MediB/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     64 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     44 02] .. 
+-r-xr-xr-x   1    0    0       1689 Apr  4 2007 [ 208144 00] 01.sp 
+-r-xr-xr-x   1    0    0       1689 Apr  4 2007 [ 208160 00] 02.sp 
+-r-xr-xr-x   1    0    0       1689 Apr  4 2007 [ 208176 00] 03.sp 
+-r-xr-xr-x   1    0    0       1274 Apr  4 2007 [ 208192 00] 04.sp 
+-r-xr-xr-x   1    0    0       1689 Apr  4 2007 [ 208208 00] 05.sp 
+-r-xr-xr-x   1    0    0       1312 Apr  4 2007 [ 208224 00] 06.sp 
+-r-xr-xr-x   1    0    0       1274 Apr  4 2007 [ 208240 00] 07.sp 
+-r-xr-xr-x   1    0    0       1274 Apr  4 2007 [ 208256 00] 08.sp 
+-r-xr-xr-x   1    0    0       1274 Apr  4 2007 [ 208272 00] 09.sp 
+-r-xr-xr-x   1    0    0       1689 Apr  4 2007 [ 208288 00] 10.sp 
+
+Directory listing of /PSP_GAME/USRDIR/Sounds/Env/TropA/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     65 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     44 02] .. 
+-r-xr-xr-x   1    0    0        772 Apr  4 2007 [ 208304 00] 01.sp 
+-r-xr-xr-x   1    0    0        822 Apr  4 2007 [ 208320 00] 02.sp 
+-r-xr-xr-x   1    0    0        822 Apr  4 2007 [ 208336 00] 03.sp 
+-r-xr-xr-x   1    0    0        822 Apr  4 2007 [ 208352 00] 04.sp 
+-r-xr-xr-x   1    0    0        822 Apr  4 2007 [ 208368 00] 05.sp 
+-r-xr-xr-x   1    0    0        772 Apr  4 2007 [ 208384 00] 06.sp 
+-r-xr-xr-x   1    0    0        613 Apr  4 2007 [ 208400 00] 07.sp 
+-r-xr-xr-x   1    0    0        613 Apr  4 2007 [ 208416 00] 08.sp 
+-r-xr-xr-x   1    0    0        772 Apr  4 2007 [ 208432 00] 09.sp 
+
+Directory listing of /PSP_GAME/USRDIR/Sounds/Env/TropB/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     66 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     44 02] .. 
+-r-xr-xr-x   1    0    0        822 Apr  4 2007 [ 208448 00] 01.sp 
+-r-xr-xr-x   1    0    0        613 Apr  4 2007 [ 208464 00] 02.sp 
+-r-xr-xr-x   1    0    0        613 Apr  4 2007 [ 208480 00] 03.sp 
+-r-xr-xr-x   1    0    0        772 Apr  4 2007 [ 208496 00] 04.sp 
+-r-xr-xr-x   1    0    0        772 Apr  4 2007 [ 208512 00] 05.sp 
+-r-xr-xr-x   1    0    0        772 Apr  4 2007 [ 208528 00] 06.sp 
+-r-xr-xr-x   1    0    0        772 Apr  4 2007 [ 208544 00] 07.sp 
+-r-xr-xr-x   1    0    0        613 Apr  4 2007 [ 208560 00] 08.sp 
+-r-xr-xr-x   1    0    0        613 Apr  4 2007 [ 208576 00] 09.sp 
+-r-xr-xr-x   1    0    0        772 Apr  4 2007 [ 208592 00] 10.sp 
+
+Directory listing of /PSP_GAME/USRDIR/Sounds/QuackPck/Basic/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     67 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     49 02] .. 
+-r-xr-xr-x   1    0    0     137200 Apr  4 2007 [ 212176 00] Boo.vag 
+-r-xr-xr-x   1    0    0       1264 Apr  4 2007 [ 212256 00] Bounce.vag 
+-r-xr-xr-x   1    0    0      95168 Apr  4 2007 [ 212272 00] Cheer1.vag 
+-r-xr-xr-x   1    0    0     115648 Apr  4 2007 [ 212320 00] Cheer2.vag 
+-r-xr-xr-x   1    0    0      30960 Apr  4 2007 [ 212384 00] FECancel.vag 
+-r-xr-xr-x   1    0    0       3360 Apr  4 2007 [ 212400 00] FECursor.vag 
+-r-xr-xr-x   1    0    0       7392 Apr  4 2007 [ 212416 00] FEError.vag 
+-r-xr-xr-x   1    0    0      21216 Apr  4 2007 [ 212432 00] FESelect.vag 
+-r-xr-xr-x   1    0    0      17280 Apr  4 2007 [ 212448 00] Hole.vag 
+-r-xr-xr-x   1    0    0      35264 Apr  4 2007 [ 212512 00] OOB.vag 
+-r-xr-xr-x   1    0    0      68688 Apr  4 2007 [ 212464 00] Oh.vag 
+-r-xr-xr-x   1    0    0       2992 Apr  4 2007 [ 212544 00] Swing1.vag 
+-r-xr-xr-x   1    0    0       3152 Apr  4 2007 [ 212560 00] SwingHit.vag 
+-r-xr-xr-x   1    0    0      23936 Apr  4 2007 [ 212576 00] Water.vag 
+
+Directory listing of /PSP_GAME/USRDIR/Sounds/QuackPck/Cartoon/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     68 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     49 02] .. 
+-r-xr-xr-x   1    0    0     137200 Apr  4 2007 [ 212592 00] Boo.vag 
+-r-xr-xr-x   1    0    0      13152 Apr  4 2007 [ 212672 00] Bounce.vag 
+-r-xr-xr-x   1    0    0      95168 Apr  4 2007 [ 212688 00] Cheer1.vag 
+-r-xr-xr-x   1    0    0     115648 Apr  4 2007 [ 212736 00] Cheer2.vag 
+-r-xr-xr-x   1    0    0      30960 Apr  4 2007 [ 212800 00] FECancel.vag 
+-r-xr-xr-x   1    0    0       3360 Apr  4 2007 [ 212816 00] FECursor.vag 
+-r-xr-xr-x   1    0    0       7392 Apr  4 2007 [ 212832 00] FEError.vag 
+-r-xr-xr-x   1    0    0      21216 Apr  4 2007 [ 212848 00] FESelect.vag 
+-r-xr-xr-x   1    0    0      30336 Apr  4 2007 [ 212864 00] Hole.vag 
+-r-xr-xr-x   1    0    0      36176 Apr  4 2007 [ 212928 00] OOB.vag 
+-r-xr-xr-x   1    0    0      68688 Apr  4 2007 [ 212880 00] Oh.vag 
+-r-xr-xr-x   1    0    0      18400 Apr  4 2007 [ 212960 00] Swing1.vag 
+-r-xr-xr-x   1    0    0      18400 Apr  4 2007 [ 212976 00] SwingHit.vag 
+-r-xr-xr-x   1    0    0      23936 Apr  4 2007 [ 212992 00] Water.vag 
+
+Directory listing of /PSP_GAME/USRDIR/Sounds/QuackPck/DinoDen/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     69 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     49 02] .. 
+-r-xr-xr-x   1    0    0     137200 Apr  4 2007 [ 213008 00] Boo.vag 
+-r-xr-xr-x   1    0    0      19808 Apr  4 2007 [ 213088 00] Bounce.vag 
+-r-xr-xr-x   1    0    0      95168 Apr  4 2007 [ 213104 00] Cheer1.vag 
+-r-xr-xr-x   1    0    0     115648 Apr  4 2007 [ 213152 00] Cheer2.vag 
+-r-xr-xr-x   1    0    0      30960 Apr  4 2007 [ 213216 00] FECancel.vag 
+-r-xr-xr-x   1    0    0       3360 Apr  4 2007 [ 213232 00] FECursor.vag 
+-r-xr-xr-x   1    0    0       7392 Apr  4 2007 [ 213248 00] FEError.vag 
+-r-xr-xr-x   1    0    0      21216 Apr  4 2007 [ 213264 00] FESelect.vag 
+-r-xr-xr-x   1    0    0      64320 Apr  4 2007 [ 213280 00] Hole.vag 
+-r-xr-xr-x   1    0    0      65360 Apr  4 2007 [ 213360 00] OOB.vag 
+-r-xr-xr-x   1    0    0      68688 Apr  4 2007 [ 213312 00] Oh.vag 
+-r-xr-xr-x   1    0    0      54384 Apr  4 2007 [ 213392 00] Swing1.vag 
+-r-xr-xr-x   1    0    0      50432 Apr  4 2007 [ 213424 00] SwingHit.vag 
+-r-xr-xr-x   1    0    0      23936 Apr  4 2007 [ 213456 00] Water.vag 
+
+Directory listing of /PSP_GAME/USRDIR/Sounds/QuackPck/Island/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     70 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     49 02] .. 
+-r-xr-xr-x   1    0    0      23008 Apr  4 2007 [ 213472 00] BonuPick.vag 
+-r-xr-xr-x   1    0    0     136720 Apr  4 2007 [ 213488 00] Boo.vag 
+-r-xr-xr-x   1    0    0       3520 Apr  4 2007 [ 213568 00] Bounce.vag 
+-r-xr-xr-x   1    0    0      57872 Apr  4 2007 [ 213584 00] CashPick.vag 
+-r-xr-xr-x   1    0    0     101200 Apr  4 2007 [ 213616 00] Cheer1.vag 
+-r-xr-xr-x   1    0    0     100448 Apr  4 2007 [ 213680 00] Cheer2.vag 
+-r-xr-xr-x   1    0    0      30960 Apr  4 2007 [ 213744 00] FECancel.vag 
+-r-xr-xr-x   1    0    0       3360 Apr  4 2007 [ 213760 00] FECursor.vag 
+-r-xr-xr-x   1    0    0       7392 Apr  4 2007 [ 213776 00] FEError.vag 
+-r-xr-xr-x   1    0    0      21216 Apr  4 2007 [ 213792 00] FESelect.vag 
+-r-xr-xr-x   1    0    0      32272 Apr  4 2007 [ 213808 00] GophPick.vag 
+-r-xr-xr-x   1    0    0      45136 Apr  4 2007 [ 213824 00] Hole.vag 
+-r-xr-xr-x   1    0    0      46240 Apr  4 2007 [ 213856 00] MullPick.vag 
+-r-xr-xr-x   1    0    0      39776 Apr  4 2007 [ 213936 00] OOB.vag 
+-r-xr-xr-x   1    0    0      72848 Apr  4 2007 [ 213888 00] Oh.vag 
+-r-xr-xr-x   1    0    0      41920 Apr  4 2007 [ 213968 00] PerfPick.vag 
+-r-xr-xr-x   1    0    0      38640 Apr  4 2007 [ 214000 00] ShotPick.vag 
+-r-xr-xr-x   1    0    0       3488 Apr  4 2007 [ 214032 00] Swing1.vag 
+-r-xr-xr-x   1    0    0      13888 Apr  4 2007 [ 214048 00] SwingHit.vag 
+-r-xr-xr-x   1    0    0      12656 Apr  4 2007 [ 214064 00] SwingHit2.vag 
+-r-xr-xr-x   1    0    0      23936 Apr  4 2007 [ 214080 00] Water.vag 
+
+Directory listing of /PSP_GAME/USRDIR/Sounds/QuackPck/Laser/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     71 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     49 02] .. 
+-r-xr-xr-x   1    0    0      62000 Apr  4 2007 [ 214096 00] BonuPick.vag 
+-r-xr-xr-x   1    0    0     139200 Apr  4 2007 [ 214128 00] Boo.vag 
+-r-xr-xr-x   1    0    0       4176 Apr  4 2007 [ 214208 00] Bounce.vag 
+-r-xr-xr-x   1    0    0      71152 Apr  4 2007 [ 214224 00] CashPick.vag 
+-r-xr-xr-x   1    0    0     111488 Apr  4 2007 [ 214272 00] Cheer1.vag 
+-r-xr-xr-x   1    0    0      99776 Apr  4 2007 [ 214336 00] Cheer2.vag 
+-r-xr-xr-x   1    0    0      30960 Apr  4 2007 [ 214400 00] FECancel.vag 
+-r-xr-xr-x   1    0    0       3360 Apr  4 2007 [ 214416 00] FECursor.vag 
+-r-xr-xr-x   1    0    0       7392 Apr  4 2007 [ 214432 00] FEError.vag 
+-r-xr-xr-x   1    0    0      21216 Apr  4 2007 [ 214448 00] FESelect.vag 
+-r-xr-xr-x   1    0    0      35296 Apr  4 2007 [ 214464 00] GophPick.vag 
+-r-xr-xr-x   1    0    0      72800 Apr  4 2007 [ 214496 00] Hole.vag 
+-r-xr-xr-x   1    0    0      45440 Apr  4 2007 [ 214544 00] MullPick.vag 
+-r-xr-xr-x   1    0    0      56816 Apr  4 2007 [ 214624 00] OOB.vag 
+-r-xr-xr-x   1    0    0      75952 Apr  4 2007 [ 214576 00] Oh.vag 
+-r-xr-xr-x   1    0    0      59776 Apr  4 2007 [ 214656 00] PerfPick.vag 
+-r-xr-xr-x   1    0    0      71040 Apr  4 2007 [ 214688 00] ShotPick.vag 
+-r-xr-xr-x   1    0    0      12624 Apr  4 2007 [ 214736 00] Swing1.vag 
+-r-xr-xr-x   1    0    0      22032 Apr  4 2007 [ 214752 00] SwingHit.vag 
+-r-xr-xr-x   1    0    0      25616 Apr  4 2007 [ 214768 00] SwingHit1.vag 
+-r-xr-xr-x   1    0    0      17008 Apr  4 2007 [ 214784 00] SwingHit2.vag 
+-r-xr-xr-x   1    0    0      23936 Apr  4 2007 [ 214800 00] Water.vag 
+
+Directory listing of /PSP_GAME/USRDIR/Sounds/QuackPck/Pharoah/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     72 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     49 02] .. 
+-r-xr-xr-x   1    0    0     137200 Apr  4 2007 [ 214816 00] Boo.vag 
+-r-xr-xr-x   1    0    0      13104 Apr  4 2007 [ 214896 00] Bounce.vag 
+-r-xr-xr-x   1    0    0      95168 Apr  4 2007 [ 214912 00] Cheer1.vag 
+-r-xr-xr-x   1    0    0     115648 Apr  4 2007 [ 214960 00] Cheer2.vag 
+-r-xr-xr-x   1    0    0      30960 Apr  4 2007 [ 215024 00] FECancel.vag 
+-r-xr-xr-x   1    0    0       3360 Apr  4 2007 [ 215040 00] FECursor.vag 
+-r-xr-xr-x   1    0    0       7392 Apr  4 2007 [ 215056 00] FEError.vag 
+-r-xr-xr-x   1    0    0      21216 Apr  4 2007 [ 215072 00] FESelect.vag 
+-r-xr-xr-x   1    0    0      67200 Apr  4 2007 [ 215088 00] Hole.vag 
+-r-xr-xr-x   1    0    0     144848 Apr  4 2007 [ 215184 00] OOB.vag 
+-r-xr-xr-x   1    0    0      68688 Apr  4 2007 [ 215136 00] Oh.vag 
+-r-xr-xr-x   1    0    0      50480 Apr  4 2007 [ 215264 00] Swing1.vag 
+-r-xr-xr-x   1    0    0      20736 Apr  4 2007 [ 215296 00] SwingHit.vag 
+-r-xr-xr-x   1    0    0      23936 Apr  4 2007 [ 215312 00] Water.vag 
+
+Directory listing of /PSP_GAME/USRDIR/Sounds/QuackPck/Swords/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     73 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     49 02] .. 
+-r-xr-xr-x   1    0    0     137200 Apr  4 2007 [ 215328 00] Boo.vag 
+-r-xr-xr-x   1    0    0      11072 Apr  4 2007 [ 215408 00] Bounce.vag 
+-r-xr-xr-x   1    0    0      95168 Apr  4 2007 [ 215424 00] Cheer1.vag 
+-r-xr-xr-x   1    0    0     115648 Apr  4 2007 [ 215472 00] Cheer2.vag 
+-r-xr-xr-x   1    0    0      30960 Apr  4 2007 [ 215536 00] FECancel.vag 
+-r-xr-xr-x   1    0    0       3360 Apr  4 2007 [ 215552 00] FECursor.vag 
+-r-xr-xr-x   1    0    0       7392 Apr  4 2007 [ 215568 00] FEError.vag 
+-r-xr-xr-x   1    0    0      21216 Apr  4 2007 [ 215584 00] FESelect.vag 
+-r-xr-xr-x   1    0    0      35392 Apr  4 2007 [ 215600 00] Hole.vag 
+-r-xr-xr-x   1    0    0      34000 Apr  4 2007 [ 215680 00] OOB.vag 
+-r-xr-xr-x   1    0    0      68688 Apr  4 2007 [ 215632 00] Oh.vag 
+-r-xr-xr-x   1    0    0      12512 Apr  4 2007 [ 215712 00] Swing1.vag 
+-r-xr-xr-x   1    0    0      30352 Apr  4 2007 [ 215728 00] SwingHit.vag 
+-r-xr-xr-x   1    0    0      23936 Apr  4 2007 [ 215744 00] Water.vag 
+
+Directory listing of /PSP_GAME/USRDIR/Sounds/Trigger/EgyptA/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     74 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     50 02] .. 
+
+Directory listing of /PSP_GAME/USRDIR/Sounds/Trigger/EgyptB/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     75 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     50 02] .. 
+
+Directory listing of /PSP_GAME/USRDIR/Sounds/Trigger/FutureA/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     76 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     50 02] .. 
+
+Directory listing of /PSP_GAME/USRDIR/Sounds/Trigger/FutureB/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     77 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     50 02] .. 
+
+Directory listing of /PSP_GAME/USRDIR/Sounds/Trigger/HistA/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     78 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     50 02] .. 
+
+Directory listing of /PSP_GAME/USRDIR/Sounds/Trigger/HistB/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     79 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     50 02] .. 
+
+Directory listing of /PSP_GAME/USRDIR/Sounds/Trigger/MediA/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     80 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     50 02] .. 
+
+Directory listing of /PSP_GAME/USRDIR/Sounds/Trigger/MediB/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     81 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     50 02] .. 
+
+Directory listing of /PSP_GAME/USRDIR/Sounds/Trigger/TropA/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     82 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     50 02] .. 
+
+Directory listing of /PSP_GAME/USRDIR/Sounds/Trigger/TropB/
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     83 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 15 2007 [     50 02] .. 
+=============================================================== 
+Generated on Tue 09/08/2022 at  5:37:40.65 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

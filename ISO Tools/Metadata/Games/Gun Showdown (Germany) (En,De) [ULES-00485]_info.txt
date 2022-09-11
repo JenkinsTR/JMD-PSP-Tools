@@ -1,0 +1,823 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Gun Showdown  
+Title ID: ULES-00485 
+Region: Germany  
+Languages: En,De  
+Volume Creation Date: 2006-08-18 19:38:11 
+Volume Size: 751 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: GUN
+Volume set id: GUN
+Publisher id: ACTIVISION
+Data preparer id: REBELLION
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 384880
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Aug 18 2006 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 18 2006 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Apr  6 2006 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Apr  6 2006 [     62 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Apr  6 2006 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 18 2006 [     22 02] .. 
+-r-xr-xr-x   1    0    0       8508 Jan 24 2006 [  22800 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     335872 Aug  4 2006 [  22816 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 Aug  8 2006 [  23088 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     252973 Jul 25 2006 [  25376 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0     165332 Aug  4 2006 [  22992 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 Apr  6 2006 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Apr  6 2006 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Apr  6 2006 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr  6 2006 [     23 02] .. 
+-r-xr-xr-x   1    0    0    4574400 Aug 18 2006 [  23104 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    4574736 Aug 18 2006 [     64 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Apr  6 2006 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Apr  6 2006 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr  6 2006 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 Apr  6 2006 [     27 02] ENVS 
+dr-xr-xr-x   1    0    0       6144 Apr  6 2006 [     28 02] FMV 
+dr-xr-xr-x   1    0    0       2048 Apr  6 2006 [     31 02] GRAPHICS 
+dr-xr-xr-x   1    0    0       2048 Apr  6 2006 [     32 02] MISC 
+dr-xr-xr-x   1    0    0       2048 Apr  6 2006 [     33 02] MODULE 
+dr-xr-xr-x   1    0    0       2048 Apr  6 2006 [     34 02] SOUNDS 
+dr-xr-xr-x   1    0    0       6144 Apr 12 2006 [     35 02] SUBTITLE 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Apr  6 2006 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr  6 2006 [     24 02] .. 
+-r-xr-xr-x   1    0    0   15027936 Apr  6 2006 [   6416 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5089088 Apr  6 2006 [   2320 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Apr  6 2006 [   2304 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/ENVS/
+dr-xr-xr-x   1    0    0       2048 Apr  6 2006 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr  6 2006 [     25 02] .. 
+dr-xr-xr-x   1    0    0       4096 May 16 2006 [     38 02] DAY 
+-r-xr-xr-x   1    0    0    3395251 Aug  2 2006 [ 265744 00] FRONTEND.PSP 
+dr-xr-xr-x   1    0    0       6144 May 10 2006 [     40 02] MISSIONS 
+dr-xr-xr-x   1    0    0       2048 May 16 2006 [     43 02] MULTIPLAYER 
+dr-xr-xr-x   1    0    0       4096 May 16 2006 [     44 02] NIGHT 
+dr-xr-xr-x   1    0    0       2048 May 16 2006 [     46 02] QUICKPLAY 
+-r-xr-xr-x   1    0    0     200708 Jul 24 2006 [ 267408 00] SKYBOX_DAY.PSP 
+-r-xr-xr-x   1    0    0     200760 Jul 17 2006 [ 265632 00] SKYBOX_NIGHT.PSP 
+
+Directory listing of /PSP_GAME/USRDIR/FMV/
+dr-xr-xr-x   1    0    0       6144 Apr  6 2006 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr  6 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0    6580224 Jul 25 2006 [  33328 00] AF_INTRO.PMF 
+-r-xr-xr-x   1    0    0    8075264 Jul 28 2006 [  36544 00] AP_FB.PMF 
+-r-xr-xr-x   1    0    0    2840576 Jul 25 2006 [  40496 00] AP_INTRO.PMF 
+-r-xr-xr-x   1    0    0    3393536 Jul 25 2006 [  41888 00] AP_MID1.PMF 
+-r-xr-xr-x   1    0    0    5201920 Jul 25 2006 [  43552 00] AP_MID2.PMF 
+-r-xr-xr-x   1    0    0     843776 May 19 2006 [  46096 00] ATVLOGO.PMF 
+-r-xr-xr-x   1    0    0    3594240 Jul 25 2006 [  46512 00] BD_INTRO.PMF 
+-r-xr-xr-x   1    0    0    2076672 Jul 25 2006 [  48272 00] BD_MID1.PMF 
+-r-xr-xr-x   1    0    0    3856384 Jul 25 2006 [  49296 00] BD_MID2.PMF 
+-r-xr-xr-x   1    0    0    3334144 Jul 25 2006 [  51184 00] BD_OUTRO.PMF 
+-r-xr-xr-x   1    0    0    8529920 Jul 25 2006 [  52816 00] BF_INTRO.PMF 
+-r-xr-xr-x   1    0    0    5732352 Jul 25 2006 [  56992 00] BF_MID1.PMF 
+-r-xr-xr-x   1    0    0    2398208 Jul 25 2006 [  59792 00] BF_MID2.PMF 
+-r-xr-xr-x   1    0    0    4204544 Jul 25 2006 [  60976 00] BF_OUTRO.PMF 
+-r-xr-xr-x   1    0    0    5609472 Jul 25 2006 [  63040 00] BT_01.PMF 
+-r-xr-xr-x   1    0    0    4786176 Jul 25 2006 [  65792 00] BT_02.PMF 
+-r-xr-xr-x   1    0    0   27379712 Aug 10 2006 [  68144 00] CREDITS.PMF 
+-r-xr-xr-x   1    0    0    7190528 Jul 28 2006 [  81520 00] DH_FB.PMF 
+-r-xr-xr-x   1    0    0    5173248 Jul 25 2006 [  85040 00] DH_INTRO.PMF 
+-r-xr-xr-x   1    0    0    3698688 Jul 11 2006 [  87568 00] DH_MID.PMF 
+-r-xr-xr-x   1    0    0    3399680 Jul 25 2006 [  89376 00] DH_OUTRO.PMF 
+-r-xr-xr-x   1    0    0    3297280 Jul 25 2006 [  91040 00] DO_INTRO.PMF 
+-r-xr-xr-x   1    0    0    7899136 Jul 25 2006 [  92656 00] EA_INTRO.PMF 
+-r-xr-xr-x   1    0    0    4730880 Jul 25 2006 [  96528 00] EA_OUTRO.PMF 
+-r-xr-xr-x   1    0    0   14600192 Jul 25 2006 [  98848 00] EF_INTRO.PMF 
+-r-xr-xr-x   1    0    0    3366912 Jul 31 2006 [ 105984 00] EJ_INTRO.PMF 
+-r-xr-xr-x   1    0    0    5103616 Jul 25 2006 [ 107632 00] EJ_INTRO2.PMF 
+-r-xr-xr-x   1    0    0    7129088 Jul 25 2006 [ 110128 00] EJ_MID.PMF 
+-r-xr-xr-x   1    0    0    2082816 Jul 25 2006 [ 113616 00] EJ_MID2.PMF 
+-r-xr-xr-x   1    0    0    8228864 Jul 25 2006 [ 114640 00] EJ_OUTRO.PMF 
+-r-xr-xr-x   1    0    0    5767168 Jul 28 2006 [  26656 00] GUN_INTRO.PMF 
+-r-xr-xr-x   1    0    0    7100416 Jul 25 2006 [ 118672 00] HT_INTRO.PMF 
+-r-xr-xr-x   1    0    0    2992128 Jul 25 2006 [ 122144 00] HT_OUTRO.PMF 
+-r-xr-xr-x   1    0    0    3063808 Jul 25 2006 [ 123616 00] HU_INTRO.PMF 
+-r-xr-xr-x   1    0    0    2310144 Jul 25 2006 [ 125120 00] HU_MID1.PMF 
+-r-xr-xr-x   1    0    0    6610944 Jul 27 2006 [ 126256 00] HU_OUTRO.PMF 
+-r-xr-xr-x   1    0    0    3201024 Aug  2 2006 [ 129488 00] JB_INTRO.PMF 
+-r-xr-xr-x   1    0    0    1849344 Jul 25 2006 [ 131056 00] JS_HOLLISTER.PMF 
+-r-xr-xr-x   1    0    0    1986560 Jul 28 2006 [ 131968 00] JS_INTRO.PMF 
+-r-xr-xr-x   1    0    0    6475776 Jul 25 2006 [ 132944 00] JS_MID1.PMF 
+-r-xr-xr-x   1    0    0    9519104 Jul 28 2006 [ 136112 00] JS_OUTRO.PMF 
+-r-xr-xr-x   1    0    0    6352896 Jul 25 2006 [ 140768 00] JS_RIFLE.PMF 
+-r-xr-xr-x   1    0    0    1368064 Jul 25 2006 [ 143872 00] KH_ADD.PMF 
+-r-xr-xr-x   1    0    0    2893824 Jul 28 2006 [ 144544 00] KH_INTRO.PMF 
+-r-xr-xr-x   1    0    0    6473728 Jul 25 2006 [ 145968 00] KH_MID1.PMF 
+-r-xr-xr-x   1    0    0    2596864 Jul 28 2006 [ 149136 00] KH_MID2.PMF 
+-r-xr-xr-x   1    0    0    4018176 Jul 25 2006 [ 150416 00] KH_OUTRO.PMF 
+-r-xr-xr-x   1    0    0    2615296 Jul 25 2006 [ 152384 00] KM_INTRO.PMF 
+-r-xr-xr-x   1    0    0    1751040 Jul 25 2006 [ 153664 00] KM_MID1.PMF 
+-r-xr-xr-x   1    0    0    4636672 Jul 25 2006 [ 154528 00] KM_MID2.PMF 
+-r-xr-xr-x   1    0    0   13795328 Jul 25 2006 [ 156800 00] KM_OUTRO.PMF 
+-r-xr-xr-x   1    0    0    8998912 Jul 25 2006 [ 163536 00] LO_INTRO.PMF 
+-r-xr-xr-x   1    0    0    3080192 Jul 25 2006 [ 167936 00] LO_MID.PMF 
+-r-xr-xr-x   1    0    0    1828864 Jul 25 2006 [ 169440 00] LO_MID2.PMF 
+-r-xr-xr-x   1    0    0    5570560 Jul 28 2006 [ 170336 00] LO_OUTRO.PMF 
+-r-xr-xr-x   1    0    0    3975168 Jul 25 2006 [ 173056 00] NS_INTRO.PMF 
+-r-xr-xr-x   1    0    0     911360 Nov 22 2005 [ 175008 00] REBELLION.PMF 
+-r-xr-xr-x   1    0    0    8595456 Jul 25 2006 [ 175456 00] SB_INTRO.PMF 
+-r-xr-xr-x   1    0    0    4798464 Jul 28 2006 [ 179664 00] SB_MID1.PMF 
+-r-xr-xr-x   1    0    0    1587200 Jul 25 2006 [ 182016 00] SB_MID2.PMF 
+-r-xr-xr-x   1    0    0    4517888 Aug  1 2006 [ 182800 00] SB_OUTRO.PMF 
+-r-xr-xr-x   1    0    0    2365440 Jul 25 2006 [ 185008 00] SS_GALLOWS.PMF 
+-r-xr-xr-x   1    0    0    3342336 Jul 25 2006 [ 186176 00] SS_INTRO.PMF 
+-r-xr-xr-x   1    0    0    1806336 Jul 25 2006 [ 195024 00] STAGECOACH_BARRICADE.PMF 
+-r-xr-xr-x   1    0    0    3110912 Jul 28 2006 [ 195920 00] STAGECOACH_CRASH.PMF 
+-r-xr-xr-x   1    0    0    1503232 Jul 25 2006 [ 187808 00] ST_INTRO.PMF 
+-r-xr-xr-x   1    0    0    1945600 Jul 25 2006 [ 188544 00] ST_MID1.PMF 
+-r-xr-xr-x   1    0    0    1499136 Jul 25 2006 [ 189504 00] ST_MID2.PMF 
+-r-xr-xr-x   1    0    0    2015232 Jul 25 2006 [ 190240 00] ST_MID3.PMF 
+-r-xr-xr-x   1    0    0    7741440 Jul 25 2006 [ 191232 00] ST_OUTRO.PMF 
+-r-xr-xr-x   1    0    0    4237312 Jul 25 2006 [ 197440 00] TR_INTRO.PMF 
+-r-xr-xr-x   1    0    0    4753408 Jul 25 2006 [ 199520 00] TR_OUTRO.PMF 
+-r-xr-xr-x   1    0    0    2504704 Jul 25 2006 [ 201856 00] WHORE_INTRO.PMF 
+-r-xr-xr-x   1    0    0    7895040 Jul 25 2006 [  29472 00] WHORE_OUTRO.PMF 
+
+Directory listing of /PSP_GAME/USRDIR/GRAPHICS/
+dr-xr-xr-x   1    0    0       2048 Apr  6 2006 [     31 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr  6 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0      17854 Dec  6 2005 [  26640 00] BEAMS.ASR 
+-r-xr-xr-x   1    0    0     139856 Jul 17 2006 [  25792 00] FONTS.ASR 
+-r-xr-xr-x   1    0    0      69412 Jul 28 2006 [  25952 00] HUD.ASR 
+-r-xr-xr-x   1    0    0      66844 Jul 31 2006 [  26000 00] HUD2.ASR 
+-r-xr-xr-x   1    0    0       8206 Jul 19 2006 [ 264304 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     133276 Mar 27 2006 [ 264320 00] INTRO.ASR 
+-r-xr-xr-x   1    0    0      67752 Jul 28 2006 [  26048 00] INVGUNS.ASR 
+-r-xr-xr-x   1    0    0      34112 Jul 24 2006 [  26096 00] INVITEMS.ASR 
+-r-xr-xr-x   1    0    0     133284 Jul 28 2006 [  26176 00] LOADSCN.ASR 
+-r-xr-xr-x   1    0    0      66892 Aug  9 2006 [  26128 00] MENUS.ASR 
+-r-xr-xr-x   1    0    0     279944 Jul 27 2006 [ 264400 00] MP_POSTCARDS.ASR 
+-r-xr-xr-x   1    0    0      22678 Jul 20 2006 [ 264544 00] NEWDATA.PNG 
+-r-xr-xr-x   1    0    0     199092 Jul 31 2006 [  26256 00] PERMANENT_2D_GRAPHICS.ASR 
+-r-xr-xr-x   1    0    0     753688 May  4 2006 [ 264560 00] POKER.ASR 
+-r-xr-xr-x   1    0    0    1404684 Jul 26 2006 [ 264944 00] POKER_REDUCED.ASR 
+-r-xr-xr-x   1    0    0     138880 Jul 26 2006 [  25872 00] SPECIALFX.ASR 
+
+Directory listing of /PSP_GAME/USRDIR/MISC/
+dr-xr-xr-x   1    0    0       2048 Apr  6 2006 [     32 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr  6 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0       6240 Jul 31 2006 [  25776 00] ANIMTEMP.ASR 
+-r-xr-xr-x   1    0    0    2846900 Aug  9 2006 [ 257328 00] COMMON.ASR 
+-r-xr-xr-x   1    0    0    2776038 Aug  7 2006 [ 258720 00] COMMON_INDIAN.ASR 
+-r-xr-xr-x   1    0    0    2848182 Aug  7 2006 [ 260080 00] COMMON_LAWMAN.ASR 
+-r-xr-xr-x   1    0    0    2851426 Aug  7 2006 [ 261472 00] COMMON_RESIST.ASR 
+-r-xr-xr-x   1    0    0    2862978 Aug  7 2006 [ 262880 00] COMMON_START.ASR 
+dr-xr-xr-x   1    0    0       2048 Apr 12 2006 [     47 02] CSTEXT 
+-r-xr-xr-x   1    0    0      43780 Aug 14 2006 [  25504 00] GERMAN.ASR 
+-r-xr-xr-x   1    0    0        360 Aug  1 2006 [  25600 00] GUN_ACTION_GERMAN.ASR 
+-r-xr-xr-x   1    0    0      17808 Aug 10 2006 [  25616 00] GUN_CREDITS_GERMAN.ASR 
+-r-xr-xr-x   1    0    0      25408 Aug  3 2006 [  25632 00] GUN_HINTS_GERMAN.ASR 
+-r-xr-xr-x   1    0    0       3468 Aug  3 2006 [  25648 00] GUN_NAMETAG_GERMAN.ASR 
+-r-xr-xr-x   1    0    0      30470 Aug 15 2006 [  25664 00] GUN_OBJECT_GERMAN.ASR 
+-r-xr-xr-x   1    0    0     182592 Aug  4 2006 [  25680 00] GUN_TANNOY_GERMAN.ASR 
+-r-xr-xr-x   1    0    0      28556 Aug  6 2006 [ 264288 00] NPCTEMPS.ASR 
+
+Directory listing of /PSP_GAME/USRDIR/MODULE/
+dr-xr-xr-x   1    0    0       2048 Apr  6 2006 [     33 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr  6 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0      10928 Jun 23 2006 [  25344 00] LIBATRAC3PLUS.PRX 
+-r-xr-xr-x   1    0    0      20096 Jun 23 2006 [  25360 00] MPEG.PRX 
+
+Directory listing of /PSP_GAME/USRDIR/SOUNDS/
+dr-xr-xr-x   1    0    0       2048 Apr  6 2006 [     34 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr  6 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0     554912 Aug  8 2006 [  26368 00] EN_GMSND.ASR 
+dr-xr-xr-x   1    0    0       4096 Apr  6 2006 [     48 02] MUSIC 
+dr-xr-xr-x   1    0    0       2048 Jul  6 2006 [     50 02] SPEECH 
+
+Directory listing of /PSP_GAME/USRDIR/SUBTITLE/
+dr-xr-xr-x   1    0    0       6144 Apr 12 2006 [     35 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr  6 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0        224 Jul 29 2006 [ 203088 00] AF_INTRO.ASR 
+-r-xr-xr-x   1    0    0        128 Jul 29 2006 [ 203104 00] AP_FB.ASR 
+-r-xr-xr-x   1    0    0        104 Jul 29 2006 [ 203120 00] AP_INTRO.ASR 
+-r-xr-xr-x   1    0    0        104 Jul 29 2006 [ 203136 00] AP_MID1.ASR 
+-r-xr-xr-x   1    0    0        140 Jul 29 2006 [ 203152 00] AP_MID2.ASR 
+-r-xr-xr-x   1    0    0        140 Jul 29 2006 [ 203168 00] BD_INTRO.ASR 
+-r-xr-xr-x   1    0    0         92 Jul 29 2006 [ 203184 00] BD_MID1.ASR 
+-r-xr-xr-x   1    0    0        104 Jul 29 2006 [ 203200 00] BD_MID2.ASR 
+-r-xr-xr-x   1    0    0        128 Jul 29 2006 [ 203216 00] BD_OUTRO.ASR 
+-r-xr-xr-x   1    0    0        284 Jul 29 2006 [ 203232 00] BF_INTRO.ASR 
+-r-xr-xr-x   1    0    0        212 Jul 29 2006 [ 203248 00] BF_MID1.ASR 
+-r-xr-xr-x   1    0    0         68 Jul 29 2006 [ 203264 00] BF_MID2.ASR 
+-r-xr-xr-x   1    0    0        296 Jul 29 2006 [ 203280 00] BF_OUTRO.ASR 
+-r-xr-xr-x   1    0    0        140 Jul 29 2006 [ 203296 00] BT_01.ASR 
+-r-xr-xr-x   1    0    0        176 Jul 29 2006 [ 203312 00] BT_02.ASR 
+-r-xr-xr-x   1    0    0         56 Jul 29 2006 [ 203328 00] CREDITS.ASR 
+-r-xr-xr-x   1    0    0        224 Aug  1 2006 [ 203344 00] DH_FB.ASR 
+-r-xr-xr-x   1    0    0        164 Jul 29 2006 [ 203360 00] DH_INTRO.ASR 
+-r-xr-xr-x   1    0    0        164 Jul 29 2006 [ 203376 00] DH_MID.ASR 
+-r-xr-xr-x   1    0    0        164 Jul 29 2006 [ 203392 00] DH_OUTRO.ASR 
+-r-xr-xr-x   1    0    0        104 Jul 29 2006 [ 203408 00] DO_INTRO.ASR 
+-r-xr-xr-x   1    0    0        200 Jul 29 2006 [ 203424 00] EA_INTRO.ASR 
+-r-xr-xr-x   1    0    0        176 Jul 29 2006 [ 203440 00] EA_OUTRO.ASR 
+-r-xr-xr-x   1    0    0        284 Jul 29 2006 [ 203456 00] EF_INTRO.ASR 
+-r-xr-xr-x   1    0    0        200 Jul 29 2006 [ 203488 00] EJ_INTRO.ASR 
+-r-xr-xr-x   1    0    0        140 Jul 29 2006 [ 203472 00] EJ_INTRO2.ASR 
+-r-xr-xr-x   1    0    0        212 Jul 29 2006 [ 203520 00] EJ_MID.ASR 
+-r-xr-xr-x   1    0    0         92 Jul 29 2006 [ 203504 00] EJ_MID2.ASR 
+-r-xr-xr-x   1    0    0        368 Jul 29 2006 [ 203536 00] EJ_OUTRO.ASR 
+-r-xr-xr-x   1    0    0         56 Jul 29 2006 [ 203552 00] GUN_INTRO.ASR 
+-r-xr-xr-x   1    0    0        224 Jul 29 2006 [ 203568 00] HT_INTRO.ASR 
+-r-xr-xr-x   1    0    0        128 Jul 29 2006 [ 203584 00] HT_OUTRO.ASR 
+-r-xr-xr-x   1    0    0         68 Jul 29 2006 [ 203600 00] HU_INTRO.ASR 
+-r-xr-xr-x   1    0    0         56 Jul 29 2006 [ 203616 00] HU_MID1.ASR 
+-r-xr-xr-x   1    0    0        140 Jul 29 2006 [ 203632 00] HU_OUTRO.ASR 
+-r-xr-xr-x   1    0    0        176 Aug  1 2006 [ 203648 00] JB_INTRO.ASR 
+-r-xr-xr-x   1    0    0         56 Jul 29 2006 [ 203664 00] JS_HOLLISTER.ASR 
+-r-xr-xr-x   1    0    0         56 Aug  1 2006 [ 203680 00] JS_INTRO.ASR 
+-r-xr-xr-x   1    0    0        104 Jul 29 2006 [ 203696 00] JS_MID1.ASR 
+-r-xr-xr-x   1    0    0        200 Jul 29 2006 [ 203712 00] JS_OUTRO.ASR 
+-r-xr-xr-x   1    0    0         80 Jul 29 2006 [ 203728 00] JS_RIFLE.ASR 
+-r-xr-xr-x   1    0    0         68 Jul 29 2006 [ 203744 00] KH_ADD.ASR 
+-r-xr-xr-x   1    0    0         80 Jul 29 2006 [ 203760 00] KH_INTRO.ASR 
+-r-xr-xr-x   1    0    0        224 Jul 29 2006 [ 203776 00] KH_MID1.ASR 
+-r-xr-xr-x   1    0    0         68 Jul 29 2006 [ 203792 00] KH_MID2.ASR 
+-r-xr-xr-x   1    0    0        128 Jul 29 2006 [ 203808 00] KH_OUTRO.ASR 
+-r-xr-xr-x   1    0    0         56 Jul 29 2006 [ 203824 00] KM_INTRO.ASR 
+-r-xr-xr-x   1    0    0         92 Jul 29 2006 [ 203840 00] KM_MID1.ASR 
+-r-xr-xr-x   1    0    0        152 Jul 29 2006 [ 203856 00] KM_MID2.ASR 
+-r-xr-xr-x   1    0    0        236 Jul 29 2006 [ 203872 00] KM_OUTRO.ASR 
+-r-xr-xr-x   1    0    0        296 Jul 29 2006 [ 203888 00] LO_INTRO.ASR 
+-r-xr-xr-x   1    0    0        116 Jul 29 2006 [ 203920 00] LO_MID.ASR 
+-r-xr-xr-x   1    0    0         56 Jul 29 2006 [ 203904 00] LO_MID2.ASR 
+-r-xr-xr-x   1    0    0        212 Jul 29 2006 [ 203936 00] LO_OUTRO.ASR 
+-r-xr-xr-x   1    0    0         68 Jul 29 2006 [ 203952 00] NS_INTRO.ASR 
+-r-xr-xr-x   1    0    0        164 Jul 29 2006 [ 203968 00] SB_INTRO.ASR 
+-r-xr-xr-x   1    0    0        104 Jul 31 2006 [ 203984 00] SB_MID1.ASR 
+-r-xr-xr-x   1    0    0         68 Jul 29 2006 [ 204000 00] SB_MID2.ASR 
+-r-xr-xr-x   1    0    0        212 Jul 29 2006 [ 204016 00] SB_OUTRO.ASR 
+-r-xr-xr-x   1    0    0         68 Jul 29 2006 [ 204032 00] SS_GALLOWS.ASR 
+-r-xr-xr-x   1    0    0        176 Jul 29 2006 [ 204048 00] SS_INTRO.ASR 
+-r-xr-xr-x   1    0    0         80 Jul 29 2006 [ 204144 00] STAGECOACH_BARRICADE.ASR 
+-r-xr-xr-x   1    0    0         80 Jul 31 2006 [ 204160 00] STAGECOACH_CRASH.ASR 
+-r-xr-xr-x   1    0    0         68 Jul 29 2006 [ 204064 00] ST_INTRO.ASR 
+-r-xr-xr-x   1    0    0         92 Jul 29 2006 [ 204080 00] ST_MID1.ASR 
+-r-xr-xr-x   1    0    0         68 Jul 29 2006 [ 204096 00] ST_MID2.ASR 
+-r-xr-xr-x   1    0    0         56 Jul 29 2006 [ 204112 00] ST_MID3.ASR 
+-r-xr-xr-x   1    0    0        200 Jul 29 2006 [ 204128 00] ST_OUTRO.ASR 
+-r-xr-xr-x   1    0    0        152 Jul 29 2006 [ 204176 00] TR_INTRO.ASR 
+-r-xr-xr-x   1    0    0        128 Jul 29 2006 [ 204192 00] TR_OUTRO.ASR 
+-r-xr-xr-x   1    0    0         68 Jul 29 2006 [ 204208 00] WHORE_INTRO.ASR 
+-r-xr-xr-x   1    0    0        236 Jul 29 2006 [ 204224 00] WHORE_OUTRO.ASR 
+
+Directory listing of /PSP_GAME/USRDIR/ENVS/DAY/
+dr-xr-xr-x   1    0    0       4096 May 16 2006 [     38 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr  6 2006 [     27 02] .. 
+dr-xr-xr-x   1    0    0       4096 Jun  2 2006 [     51 02] LODS 
+-r-xr-xr-x   1    0    0    1451979 Aug 16 2006 [ 353616 00] Z_ALHAMBRA.PSP 
+-r-xr-xr-x   1    0    0    7034549 Jul 21 2006 [ 354336 00] Z_BACKEND.PSP 
+-r-xr-xr-x   1    0    0    1211613 Aug 17 2006 [ 357776 00] Z_BADLANDS.PSP 
+-r-xr-xr-x   1    0    0     604498 Aug  9 2006 [ 358368 00] Z_BANK.PSP 
+-r-xr-xr-x   1    0    0    1204459 Aug 14 2006 [ 358672 00] Z_BRIDGE.PSP 
+-r-xr-xr-x   1    0    0    1151671 Aug 15 2006 [ 359264 00] Z_BRIDGE_DOWN.PSP 
+-r-xr-xr-x   1    0    0    1638800 Aug 14 2006 [ 359840 00] Z_CANYONE.PSP 
+-r-xr-xr-x   1    0    0    1447392 Aug 15 2006 [ 360656 00] Z_CANYONMA.PSP 
+-r-xr-xr-x   1    0    0     826776 Aug  9 2006 [ 361376 00] Z_CANYONMB.PSP 
+-r-xr-xr-x   1    0    0      90424 Aug  9 2006 [ 361792 00] Z_CANYONTRAIL.PSP 
+-r-xr-xr-x   1    0    0    1597760 Aug  9 2006 [ 361840 00] Z_CANYONW.PSP 
+-r-xr-xr-x   1    0    0    1736468 Aug 18 2006 [ 362624 00] Z_DODGE.PSP 
+-r-xr-xr-x   1    0    0    1324718 Aug 16 2006 [ 363472 00] Z_FOOTHILLNA.PSP 
+-r-xr-xr-x   1    0    0    1135068 Aug  9 2006 [ 364128 00] Z_FOOTHILLNB.PSP 
+-r-xr-xr-x   1    0    0    1393099 Aug 16 2006 [ 364688 00] Z_FOOTHILLS.PSP 
+-r-xr-xr-x   1    0    0    1404442 Aug 10 2006 [ 365376 00] Z_FORTA.PSP 
+-r-xr-xr-x   1    0    0    1508080 Aug  9 2006 [ 366064 00] Z_FORTB.PSP 
+-r-xr-xr-x   1    0    0    1314864 Aug  9 2006 [ 366816 00] Z_HIDE.PSP 
+-r-xr-xr-x   1    0    0     452466 Aug  9 2006 [ 367472 00] Z_HIDESKIRTS.PSP 
+-r-xr-xr-x   1    0    0     933152 Aug  9 2006 [ 367696 00] Z_HOODOO.PSP 
+-r-xr-xr-x   1    0    0     375451 Aug 14 2006 [ 368160 00] Z_HOODOOTUNNEL.PSP 
+-r-xr-xr-x   1    0    0    1541680 Aug 10 2006 [ 368352 00] Z_HUNTA.PSP 
+-r-xr-xr-x   1    0    0    1392268 Aug 11 2006 [ 369120 00] Z_HUNTB.PSP 
+-r-xr-xr-x   1    0    0     571556 Aug  9 2006 [ 369808 00] Z_INJUN.PSP 
+-r-xr-xr-x   1    0    0     949798 Aug 14 2006 [ 370096 00] Z_INSKIRTS.PSP 
+-r-xr-xr-x   1    0    0     575204 Aug  9 2006 [ 370560 00] Z_LAUNDRY.PSP 
+-r-xr-xr-x   1    0    0    1067108 Aug  9 2006 [ 370848 00] Z_LOSTCITYA.PSP 
+-r-xr-xr-x   1    0    0    1319516 Aug  9 2006 [ 371376 00] Z_LOSTCITYB.PSP 
+-r-xr-xr-x   1    0    0    1688948 Aug 14 2006 [ 372032 00] Z_LVEAST.PSP 
+-r-xr-xr-x   1    0    0    1691564 Aug 14 2006 [ 372864 00] Z_LVEAST_JAILBREAK.PSP 
+-r-xr-xr-x   1    0    0    1455555 Aug 15 2006 [ 373696 00] Z_LVWEST.PSP 
+-r-xr-xr-x   1    0    0    1369096 Aug 11 2006 [ 374416 00] Z_MINE.PSP 
+-r-xr-xr-x   1    0    0     929322 Aug  9 2006 [ 375088 00] Z_MINESKIRTS.PSP 
+-r-xr-xr-x   1    0    0     948224 Aug  9 2006 [ 375552 00] Z_MINESKIRTS_CLOSED.PSP 
+-r-xr-xr-x   1    0    0    1143304 Aug  9 2006 [ 376016 00] Z_MINETUNNEL.PSP 
+-r-xr-xr-x   1    0    0     766499 Aug  9 2006 [ 376576 00] Z_OPIUM.PSP 
+-r-xr-xr-x   1    0    0    1200733 Aug 15 2006 [ 376960 00] Z_OUTSKIRTS.PSP 
+-r-xr-xr-x   1    0    0     257308 Aug  9 2006 [ 377552 00] Z_PASSE.PSP 
+-r-xr-xr-x   1    0    0     299308 Aug  9 2006 [ 377680 00] Z_PASSN.PSP 
+-r-xr-xr-x   1    0    0    1299507 Aug 17 2006 [ 377840 00] Z_PASSS.PSP 
+-r-xr-xr-x   1    0    0     890171 Aug 17 2006 [ 378480 00] Z_PASSS_WITHOUTFERRY.PSP 
+-r-xr-xr-x   1    0    0     395716 Aug 10 2006 [ 378928 00] Z_PASSW.PSP 
+-r-xr-xr-x   1    0    0    1737336 Aug 15 2006 [ 379136 00] Z_RANCH.PSP 
+-r-xr-xr-x   1    0    0    1165089 Aug  9 2006 [ 380000 00] Z_SBMOVINGWORLD.PSP 
+-r-xr-xr-x   1    0    0     888230 Aug 14 2006 [ 380576 00] Z_SEPLAINS.PSP 
+-r-xr-xr-x   1    0    0     863836 Aug  9 2006 [ 381024 00] Z_STEAMBOAT2.PSP 
+-r-xr-xr-x   1    0    0    1265060 Aug  9 2006 [ 381456 00] Z_STEAMBOAT3.PSP 
+-r-xr-xr-x   1    0    0     978380 Aug 10 2006 [ 382080 00] Z_STEAMBOATA.PSP 
+-r-xr-xr-x   1    0    0    1589268 Aug 10 2006 [ 382560 00] Z_STEAMBOATB.PSP 
+-r-xr-xr-x   1    0    0     587916 Aug  9 2006 [ 383344 00] Z_TRAINTUNNELMINE.PSP 
+-r-xr-xr-x   1    0    0     444860 Aug  9 2006 [ 353392 00] Z_TRAINTUNNELSEPLAINS.PSP 
+
+Directory listing of /PSP_GAME/USRDIR/ENVS/MISSIONS/
+dr-xr-xr-x   1    0    0       6144 May 10 2006 [     40 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr  6 2006 [     27 02] .. 
+-r-xr-xr-x   1    0    0    1425089 Aug 14 2006 [ 294752 00] 01_HUNT.PSP 
+-r-xr-xr-x   1    0    0     818854 Aug  8 2006 [ 295456 00] 02A_STEAMBOATMASS.PSP 
+-r-xr-xr-x   1    0    0     811565 Aug  9 2006 [ 295856 00] 02B_STEAMBOATMASS.PSP 
+-r-xr-xr-x   1    0    0    1063924 Aug 18 2006 [ 296256 00] 03_HONESTTOM.PSP 
+-r-xr-xr-x   1    0    0    1449788 Aug 15 2006 [ 296784 00] 04_REDHAND.PSP 
+-r-xr-xr-x   1    0    0     962175 Aug 14 2006 [ 297504 00] 05_DODGEBRIDGE.PSP 
+-r-xr-xr-x   1    0    0    1065829 Aug 11 2006 [ 297984 00] 06_STAGECOACH.PSP 
+-r-xr-xr-x   1    0    0    1410570 Aug  4 2006 [ 298512 00] 07_LAWANDORDER.PSP 
+-r-xr-xr-x   1    0    0    1760087 Aug 15 2006 [ 299216 00] 08_ESCAPEJAIL.PSP 
+-r-xr-xr-x   1    0    0    1531100 Aug 10 2006 [ 300080 00] 09_AMBUSHTRAIN.PSP 
+-r-xr-xr-x   1    0    0    1156237 Aug  4 2006 [ 300832 00] 10_DEFENDHIDEOUT.PSP 
+-r-xr-xr-x   1    0    0    1805663 Aug 18 2006 [ 301408 00] 11_KILLHOODOO.PSP 
+-r-xr-xr-x   1    0    0    1381913 Aug  2 2006 [ 302304 00] 12_SAVESOAPY.PSP 
+-r-xr-xr-x   1    0    0    1556932 Aug 18 2006 [ 302992 00] 13_HOLLISTERSFORT.PSP 
+-r-xr-xr-x   1    0    0    1522446 Aug  4 2006 [ 303760 00] 14_ATTACKFORT.PSP 
+-r-xr-xr-x   1    0    0    1312875 Aug  9 2006 [ 304512 00] 15_STEAMBOATBATTLE.PSP 
+-r-xr-xr-x   1    0    0    1250139 Aug 11 2006 [ 305168 00] 16_ACROSSBADLANDS.PSP 
+-r-xr-xr-x   1    0    0     856463 Aug 11 2006 [ 305792 00] 17_ESCAPEAMBUSH.PSP 
+-r-xr-xr-x   1    0    0    1819241 Aug 11 2006 [ 306224 00] 18_MAGRUDERSMINEA.PSP 
+-r-xr-xr-x   1    0    0    1007104 Aug  9 2006 [ 307120 00] 18_MAGRUDERSMINEB.PSP 
+-r-xr-xr-x   1    0    0     677254 Aug  4 2006 [ 307616 00] B01_MAHONEE.PSP 
+-r-xr-xr-x   1    0    0     463632 Aug  4 2006 [ 307952 00] B02_MAINARD.PSP 
+-r-xr-xr-x   1    0    0     293948 Aug  7 2006 [ 308192 00] B03_GREED.PSP 
+-r-xr-xr-x   1    0    0     637417 Aug 15 2006 [ 308336 00] B04_SCHOLZ.PSP 
+-r-xr-xr-x   1    0    0     517605 Aug 11 2006 [ 308656 00] B05_LEEHOP.PSP 
+-r-xr-xr-x   1    0    0     640004 Jul 31 2006 [ 308912 00] B06_BELLE.PSP 
+-r-xr-xr-x   1    0    0     482415 Aug  4 2006 [ 309232 00] B07_TORCH.PSP 
+-r-xr-xr-x   1    0    0     532951 Aug  4 2006 [ 309472 00] B08_MADDOG.PSP 
+-r-xr-xr-x   1    0    0     810230 Aug  4 2006 [ 309744 00] B09_WAYLAND.PSP 
+-r-xr-xr-x   1    0    0     505023 Aug  4 2006 [ 310144 00] B10_BANDITBROS.PSP 
+-r-xr-xr-x   1    0    0     299637 Jul 31 2006 [ 310400 00] B11_BLACKBIRD.PSP 
+-r-xr-xr-x   1    0    0     805830 Aug 17 2006 [ 310560 00] B12_BLADE.PSP 
+-r-xr-xr-x   1    0    0     445408 Aug 15 2006 [ 310960 00] FM01_MILLER.PSP 
+-r-xr-xr-x   1    0    0     409269 Aug  2 2006 [ 311184 00] FM02_VACCINE.PSP 
+-r-xr-xr-x   1    0    0     454705 Aug  7 2006 [ 311392 00] FM03_CHINAMEN.PSP 
+-r-xr-xr-x   1    0    0     595865 Aug 17 2006 [ 311616 00] FM04_COACHBANDIT.PSP 
+-r-xr-xr-x   1    0    0     313641 Aug 14 2006 [ 311920 00] FM05_SETTLERBANDIT.PSP 
+-r-xr-xr-x   1    0    0     678593 Aug  7 2006 [ 312080 00] FM06_OPIUM.PSP 
+-r-xr-xr-x   1    0    0     444299 Aug 14 2006 [ 312416 00] FM07_SETTLERWOLVES.PSP 
+-r-xr-xr-x   1    0    0     219499 Aug  3 2006 [ 312640 00] H06_GRIZZLY.PSP 
+-r-xr-xr-x   1    0    0     998592 Aug  1 2006 [ 312752 00] INTER01_S03TOS04.PSP 
+-r-xr-xr-x   1    0    0     795974 Jul 31 2006 [ 313248 00] INTER02_S04TOS05.PSP 
+-r-xr-xr-x   1    0    0     432754 Jul 31 2006 [ 313648 00] INTER03_S05TOS06.PSP 
+-r-xr-xr-x   1    0    0     757530 Jul 31 2006 [ 313872 00] INTER04_S06TOFM01.PSP 
+-r-xr-xr-x   1    0    0     198297 Jul 31 2006 [ 314256 00] INTER05_FM01TOFM06.PSP 
+-r-xr-xr-x   1    0    0     198297 Jul 31 2006 [ 314368 00] INTER06_FM06TOX01.PSP 
+-r-xr-xr-x   1    0    0     198301 Jul 31 2006 [ 314480 00] INTER07_X01TOX04.PSP 
+-r-xr-xr-x   1    0    0     402900 Jul 31 2006 [ 314592 00] INTER08_X04TOS07.PSP 
+-r-xr-xr-x   1    0    0       2486 Jul 31 2006 [ 314800 00] INTER09_S07TOS08.PSP 
+-r-xr-xr-x   1    0    0     605343 Aug  4 2006 [ 314816 00] INTER10_S08TOX05.PSP 
+-r-xr-xr-x   1    0    0      38888 Jul 31 2006 [ 315120 00] INTER11_X05TOX02.PSP 
+-r-xr-xr-x   1    0    0      38893 Jul 31 2006 [ 315152 00] INTER12_X02TOX03.PSP 
+-r-xr-xr-x   1    0    0     218943 Jul 31 2006 [ 315184 00] INTER13_X03TOS09.PSP 
+-r-xr-xr-x   1    0    0     218943 Jul 31 2006 [ 315296 00] INTER14_S09TOS10.PSP 
+-r-xr-xr-x   1    0    0     222913 Jul 31 2006 [ 315408 00] INTER15_S10TOS11.PSP 
+-r-xr-xr-x   1    0    0     118295 Jul 31 2006 [ 315520 00] INTER16_S11TOS12.PSP 
+-r-xr-xr-x   1    0    0    1233280 Aug  1 2006 [ 315584 00] INTER17_S14TOS15.PSP 
+-r-xr-xr-x   1    0    0    1232075 Aug 15 2006 [ 316192 00] INTER18_S15TOS16.PSP 
+-r-xr-xr-x   1    0    0     937421 Aug  1 2006 [ 316800 00] INTER19_END.PSP 
+-r-xr-xr-x   1    0    0     638969 Aug  6 2006 [ 317264 00] KP01.PSP 
+-r-xr-xr-x   1    0    0     890832 Aug 14 2006 [ 317584 00] KP02.PSP 
+-r-xr-xr-x   1    0    0     221813 Aug 14 2006 [ 318032 00] KP03.PSP 
+-r-xr-xr-x   1    0    0     583027 Jul 31 2006 [ 318144 00] KP04.PSP 
+-r-xr-xr-x   1    0    0     553019 Aug 18 2006 [ 318432 00] KP05.PSP 
+-r-xr-xr-x   1    0    0     998223 Aug  4 2006 [ 318704 00] KP06.PSP 
+-r-xr-xr-x   1    0    0     335950 Aug  4 2006 [ 319200 00] PE01_TUBBS.PSP 
+-r-xr-xr-x   1    0    0     183551 Aug  4 2006 [ 319376 00] PE02_CALHOUN.PSP 
+-r-xr-xr-x   1    0    0     427949 Aug  4 2006 [ 319472 00] PE03_STUMPY.PSP 
+-r-xr-xr-x   1    0    0     556998 Aug  4 2006 [ 319696 00] PE04_RANCHER.PSP 
+-r-xr-xr-x   1    0    0     564168 Aug  4 2006 [ 319968 00] PE05_CLETUS.PSP 
+-r-xr-xr-x   1    0    0     273446 Aug  4 2006 [ 320256 00] PE06_MARCUS.PSP 
+-r-xr-xr-x   1    0    0     424479 Aug  4 2006 [ 320400 00] PE07_LOSTRIDER.PSP 
+-r-xr-xr-x   1    0    0     311684 Aug  4 2006 [ 320608 00] PE08_SPEEDYPETE.PSP 
+-r-xr-xr-x   1    0    0     391115 Aug  4 2006 [ 320768 00] PE09_SHOPKEEP.PSP 
+-r-xr-xr-x   1    0    0     632618 Aug  4 2006 [ 320960 00] PE10_RAILPLANS.PSP 
+-r-xr-xr-x   1    0    0     582602 Aug 10 2006 [ 321280 00] R01_HERDCATTLE.PSP 
+-r-xr-xr-x   1    0    0     199147 Aug  3 2006 [ 321568 00] R02_MUSTANGS.PSP 
+-r-xr-xr-x   1    0    0     440406 Jul 31 2006 [ 321680 00] R03_CATTLEWOLVES.PSP 
+-r-xr-xr-x   1    0    0     415273 Aug  3 2006 [ 321904 00] R04_CATTLERUSTLER.PSP 
+-r-xr-xr-x   1    0    0     361655 Aug  7 2006 [ 322112 00] R05_CUTCALVES.PSP 
+-r-xr-xr-x   1    0    0     490829 Aug  3 2006 [ 322304 00] R06_DRIVEHERD.PSP 
+-r-xr-xr-x   1    0    0     485924 Aug 17 2006 [ 322544 00] R07_ESCORTRANCHER.PSP 
+-r-xr-xr-x   1    0    0     796336 Aug  6 2006 [ 322784 00] X01_KRAGEN.PSP 
+-r-xr-xr-x   1    0    0     952295 Aug  3 2006 [ 323184 00] X02_RESISTANCE.PSP 
+-r-xr-xr-x   1    0    0    1444525 Aug 10 2006 [ 323664 00] X03_BANKJOB.PSP 
+-r-xr-xr-x   1    0    0    1729737 Aug  8 2006 [ 324384 00] X04_MOONSHINE.PSP 
+-r-xr-xr-x   1    0    0    1044297 Aug 10 2006 [ 294240 00] X05_BRUSHFIRE.PSP 
+
+Directory listing of /PSP_GAME/USRDIR/ENVS/MULTIPLAYER/
+dr-xr-xr-x   1    0    0       2048 May 16 2006 [     43 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr  6 2006 [     27 02] .. 
+-r-xr-xr-x   1    0    0    5866787 Aug  9 2006 [ 275360 00] MP01_DODGE.PSP 
+-r-xr-xr-x   1    0    0    4974750 Aug  9 2006 [ 278240 00] MP03_LVEAST.PSP 
+-r-xr-xr-x   1    0    0    5655906 Aug 15 2006 [ 280672 00] MP04_LVWEST.PSP 
+-r-xr-xr-x   1    0    0    4270556 Aug 15 2006 [ 283440 00] MP05_HIDE.PSP 
+-r-xr-xr-x   1    0    0    5494808 Aug 14 2006 [ 285536 00] MP06_FORT.PSP 
+-r-xr-xr-x   1    0    0    3731258 Aug 14 2006 [ 288224 00] MP07_LOSTCITY.PSP 
+-r-xr-xr-x   1    0    0    4292366 Aug 18 2006 [ 290048 00] MP08_HUNT.PSP 
+-r-xr-xr-x   1    0    0    4284288 Aug 14 2006 [ 292144 00] MP09_STEAMBOAT2.PSP 
+
+Directory listing of /PSP_GAME/USRDIR/ENVS/NIGHT/
+dr-xr-xr-x   1    0    0       4096 May 16 2006 [     44 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr  6 2006 [     27 02] .. 
+dr-xr-xr-x   1    0    0       4096 Jun  2 2006 [     53 02] LODS 
+-r-xr-xr-x   1    0    0    1451979 Aug 16 2006 [ 325456 00] Z_ALHAMBRA.PSP 
+-r-xr-xr-x   1    0    0    1212021 Aug 17 2006 [ 326176 00] Z_BADLANDS.PSP 
+-r-xr-xr-x   1    0    0     604430 Aug  9 2006 [ 326768 00] Z_BANK.PSP 
+-r-xr-xr-x   1    0    0    1202871 Aug 14 2006 [ 327072 00] Z_BRIDGE.PSP 
+-r-xr-xr-x   1    0    0    1151527 Aug 15 2006 [ 327664 00] Z_BRIDGE_DOWN.PSP 
+-r-xr-xr-x   1    0    0    1661904 Aug 14 2006 [ 328240 00] Z_CANYONE.PSP 
+-r-xr-xr-x   1    0    0    1469680 Aug 15 2006 [ 329056 00] Z_CANYONMA.PSP 
+-r-xr-xr-x   1    0    0     826776 Aug  9 2006 [ 329776 00] Z_CANYONMB.PSP 
+-r-xr-xr-x   1    0    0      90424 Aug  9 2006 [ 330192 00] Z_CANYONTRAIL.PSP 
+-r-xr-xr-x   1    0    0    1618352 Aug  9 2006 [ 330240 00] Z_CANYONW.PSP 
+-r-xr-xr-x   1    0    0    1758528 Aug 18 2006 [ 331040 00] Z_DODGE.PSP 
+-r-xr-xr-x   1    0    0    1347858 Aug 16 2006 [ 331904 00] Z_FOOTHILLNA.PSP 
+-r-xr-xr-x   1    0    0    1135476 Aug  9 2006 [ 332576 00] Z_FOOTHILLNB.PSP 
+-r-xr-xr-x   1    0    0    1393099 Aug 16 2006 [ 333136 00] Z_FOOTHILLS.PSP 
+-r-xr-xr-x   1    0    0    1403038 Aug 10 2006 [ 333824 00] Z_FORTA.PSP 
+-r-xr-xr-x   1    0    0    1507024 Aug  9 2006 [ 334512 00] Z_FORTB.PSP 
+-r-xr-xr-x   1    0    0    1338616 Aug  9 2006 [ 335248 00] Z_HIDE.PSP 
+-r-xr-xr-x   1    0    0     452466 Aug  9 2006 [ 335904 00] Z_HIDESKIRTS.PSP 
+-r-xr-xr-x   1    0    0     940340 Aug  9 2006 [ 336128 00] Z_HOODOO.PSP 
+-r-xr-xr-x   1    0    0     375451 Aug 14 2006 [ 336592 00] Z_HOODOOTUNNEL.PSP 
+-r-xr-xr-x   1    0    0    1541680 Aug 10 2006 [ 336784 00] Z_HUNTA.PSP 
+-r-xr-xr-x   1    0    0    1392268 Aug 11 2006 [ 337552 00] Z_HUNTB.PSP 
+-r-xr-xr-x   1    0    0     571388 Aug  9 2006 [ 338240 00] Z_INJUN.PSP 
+-r-xr-xr-x   1    0    0     949798 Aug 14 2006 [ 338528 00] Z_INSKIRTS.PSP 
+-r-xr-xr-x   1    0    0     574200 Aug  9 2006 [ 338992 00] Z_LAUNDRY.PSP 
+-r-xr-xr-x   1    0    0    1066008 Aug  9 2006 [ 339280 00] Z_LOSTCITYA.PSP 
+-r-xr-xr-x   1    0    0    1319252 Aug  9 2006 [ 339808 00] Z_LOSTCITYB.PSP 
+-r-xr-xr-x   1    0    0    1686908 Aug 14 2006 [ 340464 00] Z_LVEAST.PSP 
+-r-xr-xr-x   1    0    0    1689524 Aug 14 2006 [ 341296 00] Z_LVEAST_JAILBREAK.PSP 
+-r-xr-xr-x   1    0    0    1478079 Aug 15 2006 [ 342128 00] Z_LVWEST.PSP 
+-r-xr-xr-x   1    0    0    1368952 Aug 11 2006 [ 342864 00] Z_MINE.PSP 
+-r-xr-xr-x   1    0    0     929994 Aug  9 2006 [ 343536 00] Z_MINESKIRTS.PSP 
+-r-xr-xr-x   1    0    0     948944 Aug  9 2006 [ 344000 00] Z_MINESKIRTS_CLOSED.PSP 
+-r-xr-xr-x   1    0    0    1143304 Aug  9 2006 [ 344464 00] Z_MINETUNNEL.PSP 
+-r-xr-xr-x   1    0    0     766499 Aug  9 2006 [ 345024 00] Z_OPIUM.PSP 
+-r-xr-xr-x   1    0    0    1200349 Aug 15 2006 [ 345408 00] Z_OUTSKIRTS.PSP 
+-r-xr-xr-x   1    0    0     280156 Aug  9 2006 [ 346000 00] Z_PASSE.PSP 
+-r-xr-xr-x   1    0    0     298732 Aug  9 2006 [ 346144 00] Z_PASSN.PSP 
+-r-xr-xr-x   1    0    0    1322419 Aug 17 2006 [ 346304 00] Z_PASSS.PSP 
+-r-xr-xr-x   1    0    0     889739 Aug 17 2006 [ 346960 00] Z_PASSS_WITHOUTFERRY.PSP 
+-r-xr-xr-x   1    0    0     395716 Aug 10 2006 [ 347408 00] Z_PASSW.PSP 
+-r-xr-xr-x   1    0    0    1760872 Aug 15 2006 [ 347616 00] Z_RANCH.PSP 
+-r-xr-xr-x   1    0    0    1163173 Aug  9 2006 [ 348480 00] Z_SBMOVINGWORLD.PSP 
+-r-xr-xr-x   1    0    0     887846 Aug 14 2006 [ 349056 00] Z_SEPLAINS.PSP 
+-r-xr-xr-x   1    0    0     863836 Aug  9 2006 [ 349504 00] Z_STEAMBOAT2.PSP 
+-r-xr-xr-x   1    0    0    1264916 Aug  9 2006 [ 349936 00] Z_STEAMBOAT3.PSP 
+-r-xr-xr-x   1    0    0     978332 Aug 10 2006 [ 350560 00] Z_STEAMBOATA.PSP 
+-r-xr-xr-x   1    0    0    1589268 Aug 10 2006 [ 351040 00] Z_STEAMBOATB.PSP 
+-r-xr-xr-x   1    0    0     587508 Aug  9 2006 [ 351824 00] Z_TRAINTUNNELMINE.PSP 
+-r-xr-xr-x   1    0    0     444668 Aug  9 2006 [ 325232 00] Z_TRAINTUNNELSEPLAINS.PSP 
+
+Directory listing of /PSP_GAME/USRDIR/ENVS/QUICKPLAY/
+dr-xr-xr-x   1    0    0       2048 May 16 2006 [     46 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr  6 2006 [     27 02] .. 
+-r-xr-xr-x   1    0    0    1808292 Aug 18 2006 [ 267520 00] QP01_QUAILHUNT.PSP 
+-r-xr-xr-x   1    0    0    3061620 Aug  4 2006 [ 268416 00] QP02_FORT.PSP 
+-r-xr-xr-x   1    0    0    3389934 Aug  1 2006 [ 269920 00] QP03_OUTLAWS.PSP 
+-r-xr-xr-x   1    0    0    1863657 Aug 18 2006 [ 271584 00] QP04_BEARHUNT.PSP 
+-r-xr-xr-x   1    0    0    2836342 Aug  7 2006 [ 272496 00] QP05_ARSON.PSP 
+-r-xr-xr-x   1    0    0    3010059 Aug  4 2006 [ 273888 00] QP06_HOLLISTER.PSP 
+
+Directory listing of /PSP_GAME/USRDIR/MISC/CSTEXT/
+dr-xr-xr-x   1    0    0       2048 Apr 12 2006 [     47 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr  6 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     102772 Aug 15 2006 [  25536 00] CS_GE.ASR 
+
+Directory listing of /PSP_GAME/USRDIR/SOUNDS/MUSIC/
+dr-xr-xr-x   1    0    0       4096 Apr  6 2006 [     48 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr  6 2006 [     34 02] .. 
+-r-xr-xr-x   1    0    0    2348972 Jun  9 2006 [ 216192 00] A1APACHEROOTS.AT3 
+-r-xr-xr-x   1    0    0    2276060 Feb 24 2006 [ 219552 00] A2TRIBALBATTLE.AT3 
+-r-xr-xr-x   1    0    0    2098988 Feb 24 2006 [ 220672 00] B1SNEAKINGSNIPING.AT3 
+-r-xr-xr-x   1    0    0    2032772 Feb 21 2006 [ 221712 00] B2CANNONATTAC.AT3 
+-r-xr-xr-x   1    0    0    2142140 Mar 13 2006 [ 222720 00] B3ALLIEDBATTLE.AT3 
+-r-xr-xr-x   1    0    0    3872684 Apr 12 2006 [ 223776 00] BOSS_BEAR.AT3 
+-r-xr-xr-x   1    0    0    2874980 Mar 13 2006 [ 225680 00] BOSS_HOLLISTER.AT3 
+-r-xr-xr-x   1    0    0    1828172 Mar 17 2006 [ 227088 00] BOSS_HOODOO.AT3 
+-r-xr-xr-x   1    0    0    6402284 Mar 28 2006 [ 227984 00] BOSS_MAGRUDER_PT2.AT3 
+-r-xr-xr-x   1    0    0    3763316 Feb 24 2006 [ 231120 00] BOSS_QUICKKILLER.AT3 
+-r-xr-xr-x   1    0    0    2623508 Mar 13 2006 [ 232960 00] BOSS_REED.AT3 
+-r-xr-xr-x   1    0    0    4342892 Mar  3 2006 [ 234256 00] BOSS_WEBB.AT3 
+-r-xr-xr-x   1    0    0    2130236 Mar 15 2006 [ 236384 00] C1HOLDTHEMOFF.AT3 
+-r-xr-xr-x   1    0    0    2322188 Mar 16 2006 [ 237440 00] C2FOLLOWREED.AT3 
+-r-xr-xr-x   1    0    0    2111636 Mar  7 2006 [ 238576 00] CLIFFLASTSTAND.AT3 
+-r-xr-xr-x   1    0    0    2776772 Feb 21 2006 [ 239616 00] COL1SNEAKINGTHRU.AT3 
+-r-xr-xr-x   1    0    0    2016404 Feb 17 2006 [ 240976 00] COL2DRAW.AT3 
+-r-xr-xr-x   1    0    0    2290196 May 19 2006 [ 241968 00] COLTTRAVELS.AT3 
+-r-xr-xr-x   1    0    0    2289452 Feb 17 2006 [ 243696 00] GUNMAINTHEME.AT3 
+-r-xr-xr-x   1    0    0    1229996 Mar  7 2006 [ 243088 00] GUN_REPRISE.AT3 
+-r-xr-xr-x   1    0    0     111764 Jun  8 2006 [ 253504 00] INT_COLTON_BD.AT3 
+-r-xr-xr-x   1    0    0     155660 Jun  8 2006 [ 253424 00] INT_COLTON_DO.AT3 
+-r-xr-xr-x   1    0    0     115484 Jun  8 2006 [ 253568 00] INT_COLTON_EF.AT3 
+-r-xr-xr-x   1    0    0     176492 Jun  8 2006 [ 253632 00] INT_COLTON_HA.AT3 
+-r-xr-xr-x   1    0    0     212948 Jun  8 2006 [ 253728 00] INT_COLTON_HU.AT3 
+-r-xr-xr-x   1    0    0     188396 Jun  8 2006 [ 253840 00] INT_COLTON_KM_ALT.AT3 
+-r-xr-xr-x   1    0    0     174260 Jun  8 2006 [ 253936 00] INT_COLTON_SS_01.AT3 
+-r-xr-xr-x   1    0    0     557420 Jun  8 2006 [ 217344 00] JENNYSALOON.AT3 
+-r-xr-xr-x   1    0    0    3359324 Mar  3 2006 [ 244816 00] M1MAGRUDERAMB.AT3 
+-r-xr-xr-x   1    0    0    2164460 Mar  7 2006 [ 246464 00] M2MAGRUDERMINE.AT3 
+-r-xr-xr-x   1    0    0    2436764 Mar  7 2006 [ 247536 00] M3KILLMAGRUDER.AT3 
+-r-xr-xr-x   1    0    0     867668 Feb 27 2006 [ 248736 00] M4MAGRUDERAMB.AT3 
+-r-xr-xr-x   1    0    0     138548 May 16 2006 [ 249168 00] MISSION_FAIL.AT3 
+-r-xr-xr-x   1    0    0    3968660 Mar  3 2006 [ 249248 00] MISSION_JS_RIDERS.AT3 
+-r-xr-xr-x   1    0    0     115484 May 16 2006 [ 251200 00] MISSION_SUCCESS.AT3 
+-r-xr-xr-x   1    0    0    2407748 Feb 20 2006 [ 251264 00] N2NEDTEACHWOLF.AT3 
+-r-xr-xr-x   1    0    0    1973252 Feb 17 2006 [ 252448 00] R1DEALINGWIBROWN.AT3 
+-r-xr-xr-x   1    0    0    2424116 Feb 17 2006 [ 254032 00] R2CANNONCAVALRY.AT3 
+-r-xr-xr-x   1    0    0    2128004 Mar 13 2006 [ 255216 00] R3RESISTANCE.AT3 
+-r-xr-xr-x   1    0    0    2112380 Jun  8 2006 [ 217632 00] W1TRAVELING2DODGE.AT3 
+-r-xr-xr-x   1    0    0    2183804 May 19 2006 [ 256256 00] W2EMPIRE.AT3 
+-r-xr-xr-x   1    0    0    1782044 Mar 15 2006 [ 218672 00] W4LAWMENAPPRCH.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUNDS/SPEECH/
+dr-xr-xr-x   1    0    0       2048 Jul  6 2006 [     50 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr  6 2006 [     34 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jul  6 2006 [     55 02] ENGLISH 
+
+Directory listing of /PSP_GAME/USRDIR/ENVS/DAY/LODS/
+dr-xr-xr-x   1    0    0       4096 Jun  2 2006 [     51 02] . 
+dr-xr-xr-x   1    0    0       4096 May 16 2006 [     38 02] .. 
+-r-xr-xr-x   1    0    0      55144 Aug  9 2006 [ 383680 00] Z_BADLANDS.PSP 
+-r-xr-xr-x   1    0    0      41656 Aug  9 2006 [ 383712 00] Z_BANK.PSP 
+-r-xr-xr-x   1    0    0      62088 Aug 11 2006 [ 383744 00] Z_BRIDGE.PSP 
+-r-xr-xr-x   1    0    0      62088 Aug 11 2006 [ 383776 00] Z_BRIDGE_DOWN.PSP 
+-r-xr-xr-x   1    0    0      71976 Aug  9 2006 [ 383808 00] Z_CANYONE.PSP 
+-r-xr-xr-x   1    0    0      75748 Aug  9 2006 [ 383856 00] Z_CANYONMA.PSP 
+-r-xr-xr-x   1    0    0      69184 Aug  9 2006 [ 383904 00] Z_CANYONMB.PSP 
+-r-xr-xr-x   1    0    0      18644 Aug  9 2006 [ 383952 00] Z_CANYONTRAIL.PSP 
+-r-xr-xr-x   1    0    0      73536 Aug  9 2006 [ 383968 00] Z_CANYONW.PSP 
+-r-xr-xr-x   1    0    0      57460 Aug  9 2006 [ 384016 00] Z_DODGE.PSP 
+-r-xr-xr-x   1    0    0      38328 Aug  9 2006 [ 384048 00] Z_FOOTHILLNA.PSP 
+-r-xr-xr-x   1    0    0       5208 Aug  9 2006 [ 384080 00] Z_FOOTHILLNB.PSP 
+-r-xr-xr-x   1    0    0      41884 Aug  9 2006 [ 384096 00] Z_FOOTHILLS.PSP 
+-r-xr-xr-x   1    0    0        564 Aug  9 2006 [ 383632 00] Z_FORTA.PSP 
+-r-xr-xr-x   1    0    0      69104 Aug  9 2006 [ 384128 00] Z_FORTB.PSP 
+-r-xr-xr-x   1    0    0      35952 Aug  9 2006 [ 384176 00] Z_HIDE.PSP 
+-r-xr-xr-x   1    0    0      17608 Aug  9 2006 [ 384208 00] Z_HIDESKIRTS.PSP 
+-r-xr-xr-x   1    0    0      29716 Aug  9 2006 [ 384224 00] Z_HOODOO.PSP 
+-r-xr-xr-x   1    0    0      49972 Aug  9 2006 [ 384240 00] Z_HUNTB.PSP 
+-r-xr-xr-x   1    0    0      78548 Aug  9 2006 [ 384272 00] Z_INJUN.PSP 
+-r-xr-xr-x   1    0    0      32336 Aug  9 2006 [ 384320 00] Z_INSKIRTS.PSP 
+-r-xr-xr-x   1    0    0      27248 Aug  9 2006 [ 384336 00] Z_LAUNDRY.PSP 
+-r-xr-xr-x   1    0    0      75092 Aug 14 2006 [ 384352 00] Z_LVEAST.PSP 
+-r-xr-xr-x   1    0    0      75116 Aug 14 2006 [ 384832 00] Z_LVEAST_JAILBREAK.PSP 
+-r-xr-xr-x   1    0    0      46400 Aug  9 2006 [ 384400 00] Z_LVWEST.PSP 
+-r-xr-xr-x   1    0    0      64396 Aug  9 2006 [ 384432 00] Z_MINE.PSP 
+-r-xr-xr-x   1    0    0      27644 Aug  9 2006 [ 384464 00] Z_MINESKIRTS.PSP 
+-r-xr-xr-x   1    0    0      27656 Aug  9 2006 [ 384480 00] Z_MINESKIRTS_CLOSED.PSP 
+-r-xr-xr-x   1    0    0      46224 Aug  9 2006 [ 384496 00] Z_OPIUM.PSP 
+-r-xr-xr-x   1    0    0      46884 Aug  9 2006 [ 384528 00] Z_OUTSKIRTS.PSP 
+-r-xr-xr-x   1    0    0      56496 Aug  9 2006 [ 384560 00] Z_PASSE.PSP 
+-r-xr-xr-x   1    0    0      21624 Aug  9 2006 [ 384592 00] Z_PASSN.PSP 
+-r-xr-xr-x   1    0    0      59840 Aug  9 2006 [ 384608 00] Z_PASSS.PSP 
+-r-xr-xr-x   1    0    0      59840 Jul 28 2006 [ 384640 00] Z_PASSS_WITHOUTFERRY.PSP 
+-r-xr-xr-x   1    0    0      66500 Aug  9 2006 [ 384672 00] Z_PASSW.PSP 
+-r-xr-xr-x   1    0    0      70168 Aug  9 2006 [ 384720 00] Z_RANCH.PSP 
+-r-xr-xr-x   1    0    0      70804 Aug  9 2006 [ 384768 00] Z_SEPLAINS.PSP 
+-r-xr-xr-x   1    0    0      16408 Aug  9 2006 [ 384816 00] Z_TRAINTUNNELMINE.PSP 
+-r-xr-xr-x   1    0    0      38040 Aug  9 2006 [ 383648 00] Z_TRAINTUNNELSEPLAINS.PSP 
+
+Directory listing of /PSP_GAME/USRDIR/ENVS/NIGHT/LODS/
+dr-xr-xr-x   1    0    0       4096 Jun  2 2006 [     53 02] . 
+dr-xr-xr-x   1    0    0       4096 May 16 2006 [     44 02] .. 
+-r-xr-xr-x   1    0    0      54348 Aug  9 2006 [ 352160 00] Z_BADLANDS.PSP 
+-r-xr-xr-x   1    0    0      41656 Aug  9 2006 [ 352192 00] Z_BANK.PSP 
+-r-xr-xr-x   1    0    0      62088 Aug 11 2006 [ 352224 00] Z_BRIDGE.PSP 
+-r-xr-xr-x   1    0    0      62088 Aug 11 2006 [ 352256 00] Z_BRIDGE_DOWN.PSP 
+-r-xr-xr-x   1    0    0      71904 Aug  9 2006 [ 352288 00] Z_CANYONE.PSP 
+-r-xr-xr-x   1    0    0      75312 Aug  9 2006 [ 352336 00] Z_CANYONMA.PSP 
+-r-xr-xr-x   1    0    0      69184 Aug  9 2006 [ 352384 00] Z_CANYONMB.PSP 
+-r-xr-xr-x   1    0    0      18548 Aug  9 2006 [ 352432 00] Z_CANYONTRAIL.PSP 
+-r-xr-xr-x   1    0    0      73248 Aug  9 2006 [ 352448 00] Z_CANYONW.PSP 
+-r-xr-xr-x   1    0    0      57248 Aug  9 2006 [ 352496 00] Z_DODGE.PSP 
+-r-xr-xr-x   1    0    0      43228 Jul 25 2006 [ 352528 00] Z_DODGESKIRTS.PSP 
+-r-xr-xr-x   1    0    0      38160 Aug  9 2006 [ 352560 00] Z_FOOTHILLNA.PSP 
+-r-xr-xr-x   1    0    0       5208 Aug  9 2006 [ 352592 00] Z_FOOTHILLNB.PSP 
+-r-xr-xr-x   1    0    0      41884 Aug  9 2006 [ 352608 00] Z_FOOTHILLS.PSP 
+-r-xr-xr-x   1    0    0        564 Aug  9 2006 [ 352112 00] Z_FORTA.PSP 
+-r-xr-xr-x   1    0    0      69104 Aug  9 2006 [ 352640 00] Z_FORTB.PSP 
+-r-xr-xr-x   1    0    0      35804 Aug  9 2006 [ 352688 00] Z_HIDE.PSP 
+-r-xr-xr-x   1    0    0      17608 Aug  9 2006 [ 352720 00] Z_HIDESKIRTS.PSP 
+-r-xr-xr-x   1    0    0      29716 Aug  9 2006 [ 352736 00] Z_HOODOO.PSP 
+-r-xr-xr-x   1    0    0      49972 Aug  9 2006 [ 352752 00] Z_HUNTB.PSP 
+-r-xr-xr-x   1    0    0      78548 Aug  9 2006 [ 352784 00] Z_INJUN.PSP 
+-r-xr-xr-x   1    0    0      32336 Aug  9 2006 [ 352832 00] Z_INSKIRTS.PSP 
+-r-xr-xr-x   1    0    0      27248 Aug  9 2006 [ 352848 00] Z_LAUNDRY.PSP 
+-r-xr-xr-x   1    0    0      75092 Aug 14 2006 [ 352864 00] Z_LVEAST.PSP 
+-r-xr-xr-x   1    0    0      75116 Aug 14 2006 [ 353344 00] Z_LVEAST_JAILBREAK.PSP 
+-r-xr-xr-x   1    0    0      46400 Aug  9 2006 [ 352912 00] Z_LVWEST.PSP 
+-r-xr-xr-x   1    0    0      64016 Aug  9 2006 [ 352944 00] Z_MINE.PSP 
+-r-xr-xr-x   1    0    0      27644 Aug  9 2006 [ 352976 00] Z_MINESKIRTS.PSP 
+-r-xr-xr-x   1    0    0      27656 Aug  9 2006 [ 352992 00] Z_MINESKIRTS_CLOSED.PSP 
+-r-xr-xr-x   1    0    0      46224 Jul 19 2006 [ 353008 00] Z_OPIUM.PSP 
+-r-xr-xr-x   1    0    0      46740 Aug  9 2006 [ 353040 00] Z_OUTSKIRTS.PSP 
+-r-xr-xr-x   1    0    0      56256 Aug  9 2006 [ 353072 00] Z_PASSE.PSP 
+-r-xr-xr-x   1    0    0      21624 Aug  9 2006 [ 353104 00] Z_PASSN.PSP 
+-r-xr-xr-x   1    0    0      59840 Aug  9 2006 [ 353120 00] Z_PASSS.PSP 
+-r-xr-xr-x   1    0    0      59840 Jul 28 2006 [ 353152 00] Z_PASSS_WITHOUTFERRY.PSP 
+-r-xr-xr-x   1    0    0      66500 Aug  9 2006 [ 353184 00] Z_PASSW.PSP 
+-r-xr-xr-x   1    0    0      70168 Aug  9 2006 [ 353232 00] Z_RANCH.PSP 
+-r-xr-xr-x   1    0    0      70804 Aug  9 2006 [ 353280 00] Z_SEPLAINS.PSP 
+-r-xr-xr-x   1    0    0      16408 Aug  9 2006 [ 353328 00] Z_TRAINTUNNELMINE.PSP 
+-r-xr-xr-x   1    0    0      38040 Aug  9 2006 [ 352128 00] Z_TRAINTUNNELSEPLAINS.PSP 
+
+Directory listing of /PSP_GAME/USRDIR/SOUNDS/SPEECH/ENGLISH/
+dr-xr-xr-x   1    0    0       2048 Jul  6 2006 [     55 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul  6 2006 [     50 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jul  6 2006 [     56 02] CUTSCENE 
+
+Directory listing of /PSP_GAME/USRDIR/SOUNDS/SPEECH/ENGLISH/CUTSCENE/
+dr-xr-xr-x   1    0    0       2048 Jul  6 2006 [     56 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul  6 2006 [     55 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jul 20 2006 [     57 02] MAIN_MISSIONS 
+dr-xr-xr-x   1    0    0       8192 Jul  6 2006 [     58 02] SIDE_MISSIONS 
+
+Directory listing of /PSP_GAME/USRDIR/SOUNDS/SPEECH/ENGLISH/CUTSCENE/MAIN_MISSIONS/
+dr-xr-xr-x   1    0    0       2048 Jul 20 2006 [     57 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul  6 2006 [     56 02] .. 
+-r-xr-xr-x   1    0    0      84980 Jun 13 2006 [ 213648 00] AF_TALK_FIGHTS_AT_DAWN.AT3 
+-r-xr-xr-x   1    0    0      48524 Jun 13 2006 [ 213696 00] DH_PORT.AT3 
+-r-xr-xr-x   1    0    0     535844 Jun 14 2006 [ 213728 00] EF_CS1.AT3 
+-r-xr-xr-x   1    0    0     279164 Jun 13 2006 [ 214000 00] EF_CS2.AT3 
+-r-xr-xr-x   1    0    0      88700 Jun 13 2006 [ 214144 00] EF_CS3.AT3 
+-r-xr-xr-x   1    0    0     230804 Jun 13 2006 [ 214192 00] EF_CS4.AT3 
+-r-xr-xr-x   1    0    0     196580 Jun 13 2006 [ 214320 00] EF_CS5.AT3 
+-r-xr-xr-x   1    0    0     184676 Jun 13 2006 [ 214416 00] EF_CS6.AT3 
+-r-xr-xr-x   1    0    0     372908 Jun 14 2006 [ 214512 00] EJ_KILLSGUARD.AT3 
+-r-xr-xr-x   1    0    0     388532 Jun 13 2006 [ 214704 00] EJ_SOAPYTALK.AT3 
+-r-xr-xr-x   1    0    0      43316 Jun 13 2006 [ 214896 00] EXPLOSION_01.AT3 
+-r-xr-xr-x   1    0    0      51500 Jun 13 2006 [ 214928 00] EXPLOSION_02.AT3 
+-r-xr-xr-x   1    0    0      63404 Jun 13 2006 [ 214960 00] EXPLOSION_03.AT3 
+-r-xr-xr-x   1    0    0      67124 Jun 13 2006 [ 214992 00] EXPLOSION_04.AT3 
+-r-xr-xr-x   1    0    0     962900 Jul 20 2006 [ 213168 00] FRONTEND_ANIM.AT3 
+-r-xr-xr-x   1    0    0      34388 Jun 13 2006 [ 215040 00] GET_IN_CANOE.AT3 
+-r-xr-xr-x   1    0    0      34388 Jun 13 2006 [ 215072 00] GET_OUT_CANOE.AT3 
+-r-xr-xr-x   1    0    0     307436 Jun 13 2006 [ 215104 00] KH_PORT_01.AT3 
+-r-xr-xr-x   1    0    0     205508 Jun 13 2006 [ 215264 00] KH_RENDEZVOUS_01.AT3 
+-r-xr-xr-x   1    0    0     426476 Jun 13 2006 [ 215376 00] KH_RESCUE_01.AT3 
+-r-xr-xr-x   1    0    0     670508 Jun 13 2006 [ 215600 00] KH_TORTURE_ROOM_01.AT3 
+-r-xr-xr-x   1    0    0     121436 Jun 13 2006 [ 215936 00] KILL_ELK.AT3 
+-r-xr-xr-x   1    0    0      66380 Jun 15 2006 [ 216000 00] KM_TURNTABLE.AT3 
+-r-xr-xr-x   1    0    0     284372 Jun 13 2006 [ 216048 00] SS_DENTONTALK.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/SOUNDS/SPEECH/ENGLISH/CUTSCENE/SIDE_MISSIONS/
+dr-xr-xr-x   1    0    0       8192 Jul  6 2006 [     58 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul  6 2006 [     56 02] .. 
+-r-xr-xr-x   1    0    0     147476 Jun 13 2006 [ 204240 00] B01.AT3 
+-r-xr-xr-x   1    0    0     145988 Jun 13 2006 [ 204320 00] B02.AT3 
+-r-xr-xr-x   1    0    0     181700 Jun 13 2006 [ 204400 00] B03.AT3 
+-r-xr-xr-x   1    0    0     157148 Jun 13 2006 [ 204496 00] B04.AT3 
+-r-xr-xr-x   1    0    0      79028 Jun 13 2006 [ 204576 00] B04_GLUETALK.AT3 
+-r-xr-xr-x   1    0    0     180956 Jun 13 2006 [ 204624 00] B05.AT3 
+-r-xr-xr-x   1    0    0     178724 Jun 13 2006 [ 204720 00] B06.AT3 
+-r-xr-xr-x   1    0    0     201788 Jun 13 2006 [ 204816 00] B07.AT3 
+-r-xr-xr-x   1    0    0     203276 Jun 13 2006 [ 204928 00] B07_TOBYTALK.AT3 
+-r-xr-xr-x   1    0    0     129620 Jun 13 2006 [ 205040 00] B08.AT3 
+-r-xr-xr-x   1    0    0     174260 Jun 13 2006 [ 205104 00] B09.AT3 
+-r-xr-xr-x   1    0    0     180212 Jun 13 2006 [ 205200 00] B10.AT3 
+-r-xr-xr-x   1    0    0     209228 Jun 13 2006 [ 205296 00] B11.AT3 
+-r-xr-xr-x   1    0    0     190628 Jun 13 2006 [ 205408 00] B12.AT3 
+-r-xr-xr-x   1    0    0     258332 Jun 13 2006 [ 205504 00] B12_BLADESPEAKS.AT3 
+-r-xr-xr-x   1    0    0     124412 Jun 13 2006 [ 205632 00] CS_RANCHER1_INTRO.AT3 
+-r-xr-xr-x   1    0    0      80516 Jun 13 2006 [ 205696 00] CS_RANCHER2_INTRO.AT3 
+-r-xr-xr-x   1    0    0      78284 Jun 13 2006 [ 205744 00] CS_RANCHER3_INTRO.AT3 
+-r-xr-xr-x   1    0    0     134084 Jun 13 2006 [ 205792 00] CS_RANCHER4_INTRO.AT3 
+-r-xr-xr-x   1    0    0      50756 Jun 13 2006 [ 205872 00] CS_RANCHER5_INTRO.AT3 
+-r-xr-xr-x   1    0    0      92420 Jun 13 2006 [ 205904 00] CS_RANCHER6_INTRO.AT3 
+-r-xr-xr-x   1    0    0      82004 Jun 13 2006 [ 205952 00] CS_RANCHER7_INTRO.AT3 
+-r-xr-xr-x   1    0    0      82748 Jun 13 2006 [ 206000 00] CS_SNITCH1.AT3 
+-r-xr-xr-x   1    0    0     140780 Jun 13 2006 [ 206048 00] CS_SNITCH2.AT3 
+-r-xr-xr-x   1    0    0      67868 Jun 22 2006 [ 206128 00] CS_WEALTHYCITIZEN.AT3 
+-r-xr-xr-x   1    0    0      73820 Jun 13 2006 [ 206176 00] FERRY_D2H.AT3 
+-r-xr-xr-x   1    0    0      98372 Jun 13 2006 [ 206224 00] FERRY_H2D.AT3 
+-r-xr-xr-x   1    0    0     414572 Jun 15 2006 [ 206288 00] FM01_INTRO.AT3 
+-r-xr-xr-x   1    0    0     154916 Jun 13 2006 [ 206496 00] FM02_INTRO.AT3 
+-r-xr-xr-x   1    0    0     164588 Jun 13 2006 [ 206576 00] FM03_INTRO.AT3 
+-r-xr-xr-x   1    0    0     137060 Jun 13 2006 [ 206672 00] FM04_BAD_GUY.AT3 
+-r-xr-xr-x   1    0    0     120692 Jun 13 2006 [ 206752 00] FM04_INTRO.AT3 
+-r-xr-xr-x   1    0    0      71588 Jun 13 2006 [ 206816 00] FM04_TALK_GOOD.AT3 
+-r-xr-xr-x   1    0    0     145244 Jun 13 2006 [ 206864 00] FM05_INTRO.AT3 
+-r-xr-xr-x   1    0    0     232292 Jun 15 2006 [ 206944 00] FM06_INTRO.AT3 
+-r-xr-xr-x   1    0    0     159380 Jun 13 2006 [ 207072 00] FM07_INTRO.AT3 
+-r-xr-xr-x   1    0    0     248660 Jun 14 2006 [ 207152 00] H01_GREYWOLF_INTRO.AT3 
+-r-xr-xr-x   1    0    0     220388 Jun 13 2006 [ 207280 00] H02_BUFFALO_INTRO.AT3 
+-r-xr-xr-x   1    0    0      93164 Jun 13 2006 [ 207392 00] H03_WHITEWOLF_INTRO.AT3 
+-r-xr-xr-x   1    0    0     248660 Jun 13 2006 [ 207440 00] H04_COUGAR_INTRO.AT3 
+-r-xr-xr-x   1    0    0     258332 Jun 13 2006 [ 207568 00] H05_BLACKWOLF_INTRO.AT3 
+-r-xr-xr-x   1    0    0     153428 Jun 13 2006 [ 207696 00] H06_GRIZZLY_INTRO.AT3 
+-r-xr-xr-x   1    0    0      86468 Jun 13 2006 [ 207776 00] H06_GRIZZLY_OUTRO.AT3 
+-r-xr-xr-x   1    0    0     395228 Jun 13 2006 [ 207824 00] H_INTRO.AT3 
+-r-xr-xr-x   1    0    0     116228 Jun 13 2006 [ 208032 00] KTP_01.AT3 
+-r-xr-xr-x   1    0    0      55220 Jun 13 2006 [ 208096 00] KTP_02.AT3 
+-r-xr-xr-x   1    0    0      62660 Jun 13 2006 [ 208128 00] KTP_03.AT3 
+-r-xr-xr-x   1    0    0     116228 Jul  5 2006 [ 208160 00] KTP_04.AT3 
+-r-xr-xr-x   1    0    0      55220 Jun 13 2006 [ 208224 00] KTP_05.AT3 
+-r-xr-xr-x   1    0    0      62660 Jun 13 2006 [ 208256 00] KTP_06.AT3 
+-r-xr-xr-x   1    0    0     293300 Jun 13 2006 [ 208288 00] PE01.AT3 
+-r-xr-xr-x   1    0    0      53732 Jun 13 2006 [ 208432 00] PE01_SHOPKEEPER.AT3 
+-r-xr-xr-x   1    0    0      98372 Jun 13 2006 [ 208464 00] PE01_TLA.AT3 
+-r-xr-xr-x   1    0    0     201788 Jun 13 2006 [ 208528 00] PE01_TUBBY.AT3 
+-r-xr-xr-x   1    0    0     102836 Jun 13 2006 [ 208640 00] PE02_INTRO.AT3 
+-r-xr-xr-x   1    0    0     184676 Jun 13 2006 [ 208704 00] PE02_JOHNNYRANTS.AT3 
+-r-xr-xr-x   1    0    0      88700 Jun 13 2006 [ 208800 00] PE02_MC.AT3 
+-r-xr-xr-x   1    0    0      84236 Jun 13 2006 [ 208848 00] PE03_BEGIN.AT3 
+-r-xr-xr-x   1    0    0     107300 Jun 13 2006 [ 208896 00] PE03_COMPLETE.AT3 
+-r-xr-xr-x   1    0    0      72332 Jun 13 2006 [ 208960 00] PE03_INTRO.AT3 
+-r-xr-xr-x   1    0    0      79028 Jun 13 2006 [ 209008 00] PE04_DOC.AT3 
+-r-xr-xr-x   1    0    0     125900 Jun 13 2006 [ 209056 00] PE04_GUNSMITH.AT3 
+-r-xr-xr-x   1    0    0      58940 Jun 13 2006 [ 209120 00] PE04_INTRO.AT3 
+-r-xr-xr-x   1    0    0     166076 Jun 13 2006 [ 209152 00] PE04_RANCHER1.AT3 
+-r-xr-xr-x   1    0    0      32900 Jun 13 2006 [ 209248 00] PE04_RANCHER2.AT3 
+-r-xr-xr-x   1    0    0     112508 Jun 13 2006 [ 209280 00] PE05_BARTON.AT3 
+-r-xr-xr-x   1    0    0     155660 Jun 13 2006 [ 209344 00] PE05_CLETUS.AT3 
+-r-xr-xr-x   1    0    0      95396 Jun 13 2006 [ 209424 00] PE05_INTRO.AT3 
+-r-xr-xr-x   1    0    0     121436 Jun 13 2006 [ 209472 00] PE05_WORKER.AT3 
+-r-xr-xr-x   1    0    0      90188 Jun 13 2006 [ 209536 00] PE06_END.AT3 
+-r-xr-xr-x   1    0    0     113996 Jun 13 2006 [ 209584 00] PE06_INTRO.AT3 
+-r-xr-xr-x   1    0    0     248660 Jun 13 2006 [ 209648 00] PE06_MARCUS.AT3 
+-r-xr-xr-x   1    0    0      26948 Jun 13 2006 [ 209776 00] PE06_RANCHER.AT3 
+-r-xr-xr-x   1    0    0     145244 Jun 13 2006 [ 209792 00] PE07_END.AT3 
+-r-xr-xr-x   1    0    0     111020 Jun 13 2006 [ 209872 00] PE07_INTRO.AT3 
+-r-xr-xr-x   1    0    0     145244 Jun 13 2006 [ 209936 00] PE07_RIDER.AT3 
+-r-xr-xr-x   1    0    0     361748 Jun 13 2006 [ 210016 00] PE07_START.AT3 
+-r-xr-xr-x   1    0    0     224852 Jun 13 2006 [ 210208 00] PE08_INTRO.AT3 
+-r-xr-xr-x   1    0    0     152684 Jun 13 2006 [ 210320 00] PE08_PETEDODGE.AT3 
+-r-xr-xr-x   1    0    0     557420 Jun 13 2006 [ 210400 00] PE08_PETEEMPIRE.AT3 
+-r-xr-xr-x   1    0    0      35132 Jun 13 2006 [ 210688 00] PE08_RIDER.AT3 
+-r-xr-xr-x   1    0    0     126644 Jun 13 2006 [ 210720 00] PE09_INTRO.AT3 
+-r-xr-xr-x   1    0    0     147476 Jun 13 2006 [ 210784 00] PE09_OUTRO.AT3 
+-r-xr-xr-x   1    0    0     174260 Jun 13 2006 [ 210864 00] PE09_SHOPKEEP_01.AT3 
+-r-xr-xr-x   1    0    0     215924 Jun 13 2006 [ 210960 00] PE09_WILLIE_01.AT3 
+-r-xr-xr-x   1    0    0     151196 Jun 13 2006 [ 211072 00] PE10_COUNCILMAN_01.AT3 
+-r-xr-xr-x   1    0    0     110276 Jun 13 2006 [ 211152 00] PE10_INTRO.AT3 
+-r-xr-xr-x   1    0    0     301484 Jun 13 2006 [ 211216 00] PE10_OUTRO.AT3 
+-r-xr-xr-x   1    0    0      64148 Jun 13 2006 [ 211376 00] PE10_WORKERS_01.AT3 
+-r-xr-xr-x   1    0    0     107300 Jun 13 2006 [ 211408 00] PE10_WORKERS_02.AT3 
+-r-xr-xr-x   1    0    0      40340 Jun 13 2006 [ 211472 00] PE10_WORKERS_03.AT3 
+-r-xr-xr-x   1    0    0      35876 Jun 13 2006 [ 211504 00] PE10_WORKERS_04.AT3 
+-r-xr-xr-x   1    0    0      59684 Jun 13 2006 [ 211536 00] PE10_WORKERS_05.AT3 
+-r-xr-xr-x   1    0    0      47780 Jun 13 2006 [ 211568 00] SK_DODGE_MALE.AT3 
+-r-xr-xr-x   1    0    0      47036 Jun 13 2006 [ 211600 00] SK_EMPIRE_MALE.AT3 
+-r-xr-xr-x   1    0    0      31412 Jun 13 2006 [ 211632 00] SK_FOOTHILL_INDIAN.AT3 
+-r-xr-xr-x   1    0    0     105812 Jun 14 2006 [ 211648 00] X01_ENTER_FORT.AT3 
+-r-xr-xr-x   1    0    0     301484 Jun 15 2006 [ 211712 00] X01_PANCHO_INTRO.AT3 
+-r-xr-xr-x   1    0    0     293300 Jun 28 2006 [ 211872 00] X02_BARTON_INTRO.AT3 
+-r-xr-xr-x   1    0    0     268748 Jun 13 2006 [ 212016 00] X02_PANCHO_INTRO.AT3 
+-r-xr-xr-x   1    0    0     352820 Jun 15 2006 [ 212160 00] X03_BARTON_DEATH.AT3 
+-r-xr-xr-x   1    0    0     110276 Jun 22 2006 [ 212336 00] X03_INTRO.AT3 
+-r-xr-xr-x   1    0    0     130364 Jun 13 2006 [ 212400 00] X03_SAFE_CRACKED.AT3 
+-r-xr-xr-x   1    0    0      81260 Jun 14 2006 [ 212464 00] X04_ESCAPE_CAVE.AT3 
+-r-xr-xr-x   1    0    0      44804 Jun 13 2006 [ 212512 00] X04_INTERROGATION.AT3 
+-r-xr-xr-x   1    0    0     298508 Jun 15 2006 [ 212544 00] X04_INTRO.AT3 
+-r-xr-xr-x   1    0    0      96140 Jul  5 2006 [ 213120 00] X04_IRISHATCAVE.AT3 
+-r-xr-xr-x   1    0    0     189884 Jun 15 2006 [ 212704 00] X04_PANCHO_OUTRO.AT3 
+-r-xr-xr-x   1    0    0     237500 Jun 13 2006 [ 212800 00] X04_PEEPATSTILL3.AT3 
+-r-xr-xr-x   1    0    0     308924 Jun 13 2006 [ 212928 00] X05_BARTON_INTRO.AT3 
+-r-xr-xr-x   1    0    0      49268 Jun 13 2006 [ 213088 00] X05_CS_RANCHER.AT3 
+=============================================================== 
+Generated on Mon 22/08/2022 at 13:20:35.96 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

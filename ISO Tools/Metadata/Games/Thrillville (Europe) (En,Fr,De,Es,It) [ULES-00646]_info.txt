@@ -1,0 +1,101 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Thrillville   
+Title ID: ULES-00646 
+Region: Europe  
+Languages: En,Fr,De,Es,It  
+Volume Creation Date: 2006-11-03 16:52:05 
+Volume Size: 815 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: THRILLVILLE
+Volume set id: THRILLVILLE
+Publisher id: ATARI
+Data preparer id: FRONTIER
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 417344
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Nov  3 2006 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov  3 2006 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov  3 2006 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Nov  3 2006 [     28 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Nov  3 2006 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov  3 2006 [     22 02] .. 
+-r-xr-xr-x   1    0    0      25461 Aug 25 2006 [ 134320 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     337920 Aug 29 2006 [ 134432 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 Oct 13 2006 [ 134304 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     168292 Aug 25 2006 [ 134336 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0     136244 Aug 29 2006 [ 134608 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 Nov  3 2006 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Nov  3 2006 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Nov  3 2006 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov  3 2006 [     23 02] .. 
+-r-xr-xr-x   1    0    0    7564484 Nov  3 2006 [  24224 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    7564832 Nov  3 2006 [     32 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Nov  3 2006 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Nov  3 2006 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov  3 2006 [     23 02] .. 
+-r-xr-xr-x   1    0    0  442040320 Nov  3 2006 [ 140512 00] AUDDATA.ZAP 
+-r-xr-xr-x   1    0    0   26902528 Nov  3 2006 [ 356352 00] AUXDATA.ZAP 
+dr-xr-xr-x   1    0    0       2048 Nov  3 2006 [     27 02] FMV 
+-r-xr-xr-x   1    0    0   16220160 Nov  3 2006 [ 369488 00] LUA.ZAP 
+-r-xr-xr-x   1    0    0     425984 Nov  3 2006 [ 134688 00] MEMCARD.ZAP 
+-r-xr-xr-x   1    0    0  217776128 Nov  3 2006 [  27968 00] OVLDATA.ZAP 
+-r-xr-xr-x   1    0    0     393216 Nov  3 2006 [ 134896 00] PARKS.ZAP 
+-r-xr-xr-x   1    0    0     393216 Nov  3 2006 [ 417152 00] SUBS.ZAP 
+-r-xr-xr-x   1    0    0   10846208 Nov  3 2006 [ 135088 00] TRACKDGN.ZAP 
+-r-xr-xr-x   1    0    0     262144 Nov  3 2006 [ 140384 00] TRACKSVS.ZAP 
+-r-xr-xr-x   1    0    0      76239 Nov  3 2006 [  27920 00] UCP.DGF 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Nov  3 2006 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov  3 2006 [     24 02] .. 
+-r-xr-xr-x   1    0    0   15456416 Nov  3 2006 [   7840 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5079424 Nov  3 2006 [   3744 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Nov  3 2006 [   3728 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/FMV/
+dr-xr-xr-x   1    0    0       2048 Nov  3 2006 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov  3 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0   16316416 Sep 11 2006 [ 406528 00] A.FMV 
+-r-xr-xr-x   1    0    0   11196416 Oct 10 2006 [ 377408 00] L2.FMV 
+-r-xr-xr-x   1    0    0    9969664 Oct 10 2006 [ 382880 00] L3.FMV 
+-r-xr-xr-x   1    0    0    8865792 Oct 10 2006 [ 387760 00] L4.FMV 
+-r-xr-xr-x   1    0    0   12345344 Oct 10 2006 [ 392096 00] L5.FMV 
+-r-xr-xr-x   1    0    0     894976 Sep 25 2006 [ 416704 00] LOGOS1.FMV 
+-r-xr-xr-x   1    0    0    1425408 Sep  1 2006 [ 414496 00] LOGOS2.FMV 
+-r-xr-xr-x   1    0    0   17184768 Oct 30 2006 [ 398128 00] P.FMV 
+-r-xr-xr-x   1    0    0    3053568 Sep 11 2006 [ 415200 00] TITLES.FMV 
+=============================================================== 
+Generated on Tue 09/08/2022 at  5:38:42.62 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

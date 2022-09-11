@@ -1,0 +1,149 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Gungnir  
+Title ID: ULUS-10592 
+Region: USA  
+Languages:   
+Volume Creation Date: 2012-02-23 12:46:20 
+Volume Size: 250 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: 
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 128304
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Feb 23 2012 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 23 2012 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2009 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Oct  9 2009 [     31 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Oct  9 2009 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 23 2012 [     22 02] .. 
+-r-xr-xr-x   1    0    0      30202 Mar 19 2012 [  54928 00] ICON0.PNG 
+dr-xr-xr-x   1    0    0       2048 Feb 28 2012 [     24 02] INSDIR 
+-r-xr-xr-x   1    0    0        604 Feb 23 2012 [  54944 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      44130 Mar 13 2012 [  54960 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0     148979 Feb  1 2012 [  54992 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2009 [     25 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Mar  1 2012 [     26 02] USRDIR 
+
+Directory listing of /PSP_GAME/INSDIR/
+dr-xr-xr-x   1    0    0       2048 Feb 28 2012 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2009 [     23 02] .. 
+-r-xr-xr-x   1    0    0   39393648 Mar 30 2012 [ 108960 00] DATA.DAR 
+-r-xr-xr-x   1    0    0      30143 Mar 30 2012 [ 128208 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     148979 Mar 30 2012 [ 128224 00] PIC1.PNG 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Oct  9 2009 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2009 [     23 02] .. 
+-r-xr-xr-x   1    0    0    3335749 Apr  3 2012 [ 107328 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    3336096 Apr  3 2012 [    544 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0        880 Oct  9 2009 [     32 00] OPNSSMP.BIN 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2009 [     27 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Mar  1 2012 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2009 [     23 02] .. 
+dr-xr-xr-x   1    0    0       4096 Feb  1 2012 [     28 02] bgm 
+-r-xr-xr-x   1    0    0   38787440 Mar 30 2012 [  88384 00] data.dar 
+-r-xr-xr-x   1    0    0    3032608 Mar 27 2012 [  55072 00] ini.dar 
+dr-xr-xr-x   1    0    0       2048 Feb  1 2012 [     30 02] movie 
+-r-xr-xr-x   1    0    0     392320 Feb  1 2012 [  56560 00] voice.dar 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Oct  9 2009 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2009 [     25 02] .. 
+-r-xr-xr-x   1    0    0   26876352 Oct  9 2009 [   6288 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5718512 Oct  9 2009 [   2192 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Oct  9 2009 [   2176 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/bgm/
+dr-xr-xr-x   1    0    0       4096 Feb  1 2012 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  1 2012 [     26 02] .. 
+-r-xr-xr-x   1    0    0     959112 Feb  1 2012 [  61168 00] bgm01.at3 
+-r-xr-xr-x   1    0    0     962900 Feb  1 2012 [  61648 00] bgm05.at3 
+-r-xr-xr-x   1    0    0    1000844 Feb  1 2012 [  62128 00] bgm06.at3 
+-r-xr-xr-x   1    0    0    1223300 Feb  1 2012 [  62624 00] bgm07.at3 
+-r-xr-xr-x   1    0    0     866180 Feb  1 2012 [  63232 00] bgm08.at3 
+-r-xr-xr-x   1    0    0     689852 Feb  1 2012 [  63664 00] bgm09.at3 
+-r-xr-xr-x   1    0    0     791780 Feb  1 2012 [  64016 00] bgm10.at3 
+-r-xr-xr-x   1    0    0     587180 Feb  1 2012 [  64416 00] bgm12.at3 
+-r-xr-xr-x   1    0    0    1014236 Feb  1 2012 [  64704 00] bgm13.at3 
+-r-xr-xr-x   1    0    0    1389212 Feb  1 2012 [  65200 00] bgm14.at3 
+-r-xr-xr-x   1    0    0    1328204 Feb  1 2012 [  65888 00] bgm15.at3 
+-r-xr-xr-x   1    0    0    1413020 Feb  1 2012 [  66544 00] bgm16.at3 
+-r-xr-xr-x   1    0    0    1448732 Feb  1 2012 [  67248 00] bgm17.at3 
+-r-xr-xr-x   1    0    0    1420460 Feb  1 2012 [  67968 00] bgm18.at3 
+-r-xr-xr-x   1    0    0    1382516 Feb  1 2012 [  68672 00] bgm19.at3 
+-r-xr-xr-x   1    0    0    1376564 Feb  1 2012 [  69360 00] bgm20.at3 
+-r-xr-xr-x   1    0    0    1536524 Feb  1 2012 [  70048 00] bgm21.at3 
+-r-xr-xr-x   1    0    0    1381772 Feb  1 2012 [  70800 00] bgm22.at3 
+-r-xr-xr-x   1    0    0    1677884 Feb  1 2012 [  71488 00] bgm23.at3 
+-r-xr-xr-x   1    0    0    1295468 Feb  1 2012 [  72320 00] bgm24.at3 
+-r-xr-xr-x   1    0    0    1488164 Feb  1 2012 [  72960 00] bgm25.at3 
+-r-xr-xr-x   1    0    0    1105748 Feb  1 2012 [  73696 00] bgm26.at3 
+-r-xr-xr-x   1    0    0    1555868 Feb  1 2012 [  74240 00] bgm27.at3 
+-r-xr-xr-x   1    0    0    1462124 Feb  1 2012 [  75008 00] bgm28.at3 
+-r-xr-xr-x   1    0    0    1561820 Feb  1 2012 [  75728 00] bgm29.at3 
+-r-xr-xr-x   1    0    0    1369868 Feb  1 2012 [  76496 00] bgm31.at3 
+-r-xr-xr-x   1    0    0    1407812 Feb  1 2012 [  77168 00] bgm39.at3 
+-r-xr-xr-x   1    0    0     930164 Feb  1 2012 [  77856 00] bgm43.at3 
+-r-xr-xr-x   1    0    0    1064084 Feb  1 2012 [  78320 00] bgm45.at3 
+-r-xr-xr-x   1    0    0     689108 Feb  1 2012 [  78848 00] bgm46.at3 
+-r-xr-xr-x   1    0    0     878084 Feb  1 2012 [  79200 00] bgm47.at3 
+-r-xr-xr-x   1    0    0    1243388 Feb  1 2012 [  79632 00] bgm48.at3 
+-r-xr-xr-x   1    0    0    1126580 Feb  1 2012 [  80240 00] bgm49.at3 
+-r-xr-xr-x   1    0    0     575276 Feb  1 2012 [  80800 00] bgm50.at3 
+-r-xr-xr-x   1    0    0     595364 Feb  1 2012 [  81088 00] bgm51.at3 
+-r-xr-xr-x   1    0    0     917516 Feb  1 2012 [  81392 00] bgm52.at3 
+-r-xr-xr-x   1    0    0    1034324 Feb  1 2012 [  81856 00] bgm55.at3 
+-r-xr-xr-x   1    0    0    1017212 Feb  1 2012 [  82368 00] bgm57.at3 
+-r-xr-xr-x   1    0    0    1058132 Feb  1 2012 [  82880 00] bgm58.at3 
+-r-xr-xr-x   1    0    0     881060 Feb  1 2012 [  83408 00] bgm59.at3 
+-r-xr-xr-x   1    0    0    1227020 Feb  1 2012 [  83840 00] bgm60.at3 
+-r-xr-xr-x   1    0    0     938348 Feb  1 2012 [  84448 00] bgm63.at3 
+-r-xr-xr-x   1    0    0    1206188 Feb  1 2012 [  84912 00] bgm64.at3 
+-r-xr-xr-x   1    0    0    2890536 Feb  1 2012 [  85504 00] bgm67.at3 
+-r-xr-xr-x   1    0    0     693572 Feb  1 2012 [  87888 00] bgm70.at3 
+-r-xr-xr-x   1    0    0     288836 Feb  1 2012 [  88240 00] bgm71.at3 
+-r-xr-xr-x   1    0    0     532868 Feb  1 2012 [  86928 00] bgm72.at3 
+-r-xr-xr-x   1    0    0     462932 Feb  1 2012 [  87200 00] bgm73.at3 
+-r-xr-xr-x   1    0    0     504528 Feb  1 2012 [  87440 00] bgm74.at3 
+-r-xr-xr-x   1    0    0     376628 Feb  1 2012 [  87696 00] bgm75.at3 
+
+Directory listing of /PSP_GAME/USRDIR/movie/
+dr-xr-xr-x   1    0    0       2048 Feb  1 2012 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  1 2012 [     26 02] .. 
+-r-xr-xr-x   1    0    0    9015296 Feb  1 2012 [  56752 00] op.pmf 
+=============================================================== 
+Generated on Mon 22/08/2022 at 13:47:21.40 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

@@ -1,0 +1,1503 @@
+=============================================================================== 
+Setting up our binary paths . . . 
+ 
+SET DBTOOLS as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty"  
+SET IM_MASTER as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64"  
+SET LAME as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\Lame\lame.exe"  
+SET FFMPEG as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ffmpeg-n5.1-latest-win64-gpl-5.1\bin\ffmpeg.exe"  
+SET HNDBRK as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\HandBrakeCLI-1.5.1-win-x86_64"  
+SET HBCLI as "HandBrakeCLI.exe"  
+SET HBMKV as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\HandBrakeCLI-1.5.1-win-x86_64\HandBrakeCLI.exe"  
+SET FNR as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\fnr.exe"  
+SET SZ as "C:\Program Files\7-Zip\7z.exe"  
+SET DDTBEXE as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\RVDWTools\DateTimeBox.exe"  
+SET DDDBEXE as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\RVDWTools\DropDownBox.exe"  
+SET DINBEXE as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\RVDWTools\InputBox.exe"  
+SET DMGBEXE as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\RVDWTools\MessageBox.exe"  
+SET DOFBEXE as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\RVDWTools\OpenFileBox.exe"  
+SET DODBEXE as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\RVDWTools\OpenFolderBox.exe"  
+SET DPRNEXE as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\RVDWTools\PrinterSelectBox.exe"  
+SET DSVFEXE as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\RVDWTools\SaveFileBox.exe"  
+SET OPTEXE as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\optipng.exe"  
+SET CSHEXE as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\pngcrush_1_7_87_w64.exe"  
+SET IM_COMPARE as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\compare.exe"  
+SET IM_COMPOSITE as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\composite.exe"  
+SET IM_CONJURE as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\conjure.exe"  
+SET IM_CONVERT as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\convert.exe"  
+SET IM_DCRAW as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\dcraw.exe"  
+SET IM_FFMPEG as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\ffmpeg.exe"  
+SET IM_HP2XX as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\hp2xx.exe"  
+SET IM_ID as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\identify.exe"  
+SET IM_IMDISP as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\IMDisplay.exe"  
+SET IM_MAGICK as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\magick.exe"  
+SET IM_MOGRIFY as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\mogrify.exe"  
+SET IM_MONTAGE as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\montage.exe"  
+SET IM_STREAM as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\stream.exe"  
+SET HSBT_WINP as C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\HSBT\winput.exe  
+SET HSBT_WPRO as C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\HSBT\Wprompt.exe  
+SET HSBT_WSEL as C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\HSBT\Wselect.exe  
+SET HSBT_FTO as C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\HSBT\FileToOpen.exe  
+SET HSBT_FTS as C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\HSBT\FileToSave.exe  
+SET HSBT_WBOX as C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\HSBT\Wbox.exe  
+SET HSBT_WBUS as C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\HSBT\Wbusy.exe  
+SET HSBT_WDIR as C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\HSBT\Wfolder.exe  
+SET HSBT_WDIR2 as C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\HSBT\Wfolder2.exe  
+SET MKVNOTICE_IMG as explorer "C:\Program Files (x86)\Jenkins Media\JM Tools\Readme\mkvnotice.jpg"  
+ 
+Done  
+ 
+SET JMT_VIDEO_DB as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\pspmc.database.files\pspmc.database.files.videos.csv"  
+SET JMT_AUDIO_DB as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\pspmc.database.files\pspmc.database.files.audio.csv"  
+SET JMT_IMAGE_DB as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\pspmc.database.files\pspmc.database.files.images.csv"  
+=============================================================================== 
+JMDigital PSP Media Converter [jm_pspmc_v1 - v1.0.0.1 (2022-08-05)]  
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved.  
+=============================================================================== 
+ 
+ 
+ 
+Replacing data... 
+ 
+ 
+Counting lines...  
+ 
+ 
+Running FOR loop on file 
+ 
+Number of lines in selection = 40 
+ 
+If we have 1 line, most likely only 1 file was selected 
+IF 40 EQ 1 GOTO PSPMC_VIDEO_SKIPFNR 
+ 
+We detected more than 1 line in "C:\Users\Jenkins\AppData\Local\Temp\userselectedfiles.tmp" 
+ 
+Continuing... 
+ 
+Replacing data... 
+ 
+Replacing data... 
+ 
+Jenkins, please select your output folder . . .  
+ 
+Your chosen output folder is:  
+H:\_PSP  
+ 
+FILE EXISTS AS P:\TV Series\Animation\Harvey Birdman\2conv\S01E01 - Bannon Custody Battle [720p].mp4 
+FILED SET AS P:\TV Series\Animation\Harvey Birdman\2conv\ 
+FILEN SET AS S01E01 - Bannon Custody Battle [720p] 
+FILEX SET AS .mp4 
+FILEZ SET AS 322198334 
+ 
+Bytes:    322198334 
+KBytes:    314647 
+SET KBYTES AS 314647 
+MBytes:    308 
+SET MBYTES AS 308 
+ 
+Converting S01E01 - Bannon Custody Battle [720p].mp4 to S01E01 - Bannon Custody Battle [720p]_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 29.970  
+"VHEIGHT" = 720  
+"VWIDTH" = 1280  
+"VDAR" = 1.778  
+"VDUR" = 715449  
+OUTFILEZKB SET AS 14117509 
+ 
+Bytes:    14117509 
+KBytes:    13787 
+SET OUTKBYTES AS 13787 
+MBytes:    14 
+SET OUTMBYTES AS 14 
+ 
+INSIZEKB = 314647 
+OUTSIZEKB = 314647-13787 = 300860 
+OUTPERCKB = 300860*100 = 30086000 
+OUTPERCKB = 95/314647 = 95 
+ 
+You saved approx. 95%  
+FILENUM IS 2 out of 40 
+ 
+FILENUM1 = 200  
+ 
+TOTALPERC IS 5%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 2 out of 40 (5%) 
+Conversion took 30secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\Harvey Birdman\2conv\S01E02 - Very Personal Injury [720p].mp4 
+FILED SET AS P:\TV Series\Animation\Harvey Birdman\2conv\ 
+FILEN SET AS S01E02 - Very Personal Injury [720p] 
+FILEX SET AS .mp4 
+FILEZ SET AS 326872377 
+ 
+Bytes:    326872377 
+KBytes:    319212 
+SET KBYTES AS 319212 
+MBytes:    312 
+SET MBYTES AS 312 
+ 
+Converting S01E02 - Very Personal Injury [720p].mp4 to S01E02 - Very Personal Injury [720p]_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 29.970  
+"VHEIGHT" = 720  
+"VWIDTH" = 1280  
+"VDAR" = 1.778  
+"VDUR" = 725659  
+OUTFILEZKB SET AS 13939124 
+ 
+Bytes:    13939124 
+KBytes:    13613 
+SET OUTKBYTES AS 13613 
+MBytes:    14 
+SET OUTMBYTES AS 14 
+ 
+INSIZEKB = 319212 
+OUTSIZEKB = 319212-13613 = 305599 
+OUTPERCKB = 305599*100 = 30559900 
+OUTPERCKB = 95/319212 = 95 
+ 
+You saved approx. 95%  
+FILENUM IS 4 out of 40 
+ 
+FILENUM1 = 400  
+ 
+TOTALPERC IS 10%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 4 out of 40 (10%) 
+Conversion took 27secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\Harvey Birdman\2conv\S01E03 - Shaggy Busted [720p].mp4 
+FILED SET AS P:\TV Series\Animation\Harvey Birdman\2conv\ 
+FILEN SET AS S01E03 - Shaggy Busted [720p] 
+FILEX SET AS .mp4 
+FILEZ SET AS 319068436 
+ 
+Bytes:    319068436 
+KBytes:    311591 
+SET KBYTES AS 311591 
+MBytes:    305 
+SET MBYTES AS 305 
+ 
+Converting S01E03 - Shaggy Busted [720p].mp4 to S01E03 - Shaggy Busted [720p]_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 29.970  
+"VHEIGHT" = 720  
+"VWIDTH" = 1280  
+"VDAR" = 1.778  
+"VDUR" = 709777  
+OUTFILEZKB SET AS 14382950 
+ 
+Bytes:    14382950 
+KBytes:    14046 
+SET OUTKBYTES AS 14046 
+MBytes:    14 
+SET OUTMBYTES AS 14 
+ 
+INSIZEKB = 311591 
+OUTSIZEKB = 311591-14046 = 297545 
+OUTPERCKB = 297545*100 = 29754500 
+OUTPERCKB = 95/311591 = 95 
+ 
+You saved approx. 95%  
+FILENUM IS 6 out of 40 
+ 
+FILENUM1 = 600  
+ 
+TOTALPERC IS 15%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 6 out of 40 (15%) 
+Conversion took 30secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\Harvey Birdman\2conv\S01E04 - Death By Chocolate [720p].mp4 
+FILED SET AS P:\TV Series\Animation\Harvey Birdman\2conv\ 
+FILEN SET AS S01E04 - Death By Chocolate [720p] 
+FILEX SET AS .mp4 
+FILEZ SET AS 322411032 
+ 
+Bytes:    322411032 
+KBytes:    314855 
+SET KBYTES AS 314855 
+MBytes:    308 
+SET MBYTES AS 308 
+ 
+Converting S01E04 - Death By Chocolate [720p].mp4 to S01E04 - Death By Chocolate [720p]_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 29.970  
+"VHEIGHT" = 720  
+"VWIDTH" = 1280  
+"VDAR" = 1.778  
+"VDUR" = 719720  
+OUTFILEZKB SET AS 15272317 
+ 
+Bytes:    15272317 
+KBytes:    14915 
+SET OUTKBYTES AS 14915 
+MBytes:    15 
+SET OUTMBYTES AS 15 
+ 
+INSIZEKB = 314855 
+OUTSIZEKB = 314855-14915 = 299940 
+OUTPERCKB = 299940*100 = 29994000 
+OUTPERCKB = 95/314855 = 95 
+ 
+You saved approx. 95%  
+FILENUM IS 8 out of 40 
+ 
+FILENUM1 = 800  
+ 
+TOTALPERC IS 20%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 8 out of 40 (20%) 
+Conversion took 32secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\Harvey Birdman\2conv\S01E05 - Shoyu Weenie [720p].mp4 
+FILED SET AS P:\TV Series\Animation\Harvey Birdman\2conv\ 
+FILEN SET AS S01E05 - Shoyu Weenie [720p] 
+FILEX SET AS .mp4 
+FILEZ SET AS 323125129 
+ 
+Bytes:    323125129 
+KBytes:    315552 
+SET KBYTES AS 315552 
+MBytes:    309 
+SET MBYTES AS 309 
+ 
+Converting S01E05 - Shoyu Weenie [720p].mp4 to S01E05 - Shoyu Weenie [720p]_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 29.970  
+"VHEIGHT" = 720  
+"VWIDTH" = 1280  
+"VDAR" = 1.778  
+"VDUR" = 719920  
+OUTFILEZKB SET AS 14876957 
+ 
+Bytes:    14876957 
+KBytes:    14529 
+SET OUTKBYTES AS 14529 
+MBytes:    15 
+SET OUTMBYTES AS 15 
+ 
+INSIZEKB = 315552 
+OUTSIZEKB = 315552-14529 = 301023 
+OUTPERCKB = 301023*100 = 30102300 
+OUTPERCKB = 95/315552 = 95 
+ 
+You saved approx. 95%  
+FILENUM IS 10 out of 40 
+ 
+FILENUM1 = 1000  
+ 
+TOTALPERC IS 25%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 10 out of 40 (25%) 
+Conversion took 31secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\Harvey Birdman\2conv\S01E06 - The Dabba Don [720p].mp4 
+FILED SET AS P:\TV Series\Animation\Harvey Birdman\2conv\ 
+FILEN SET AS S01E06 - The Dabba Don [720p] 
+FILEX SET AS .mp4 
+FILEZ SET AS 321804763 
+ 
+Bytes:    321804763 
+KBytes:    314263 
+SET KBYTES AS 314263 
+MBytes:    307 
+SET MBYTES AS 307 
+ 
+Converting S01E06 - The Dabba Don [720p].mp4 to S01E06 - The Dabba Don [720p]_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 29.970  
+"VHEIGHT" = 720  
+"VWIDTH" = 1280  
+"VDAR" = 1.778  
+"VDUR" = 719887  
+OUTFILEZKB SET AS 15956156 
+ 
+Bytes:    15956156 
+KBytes:    15583 
+SET OUTKBYTES AS 15583 
+MBytes:    16 
+SET OUTMBYTES AS 16 
+ 
+INSIZEKB = 314263 
+OUTSIZEKB = 314263-15583 = 298680 
+OUTPERCKB = 298680*100 = 29868000 
+OUTPERCKB = 95/314263 = 95 
+ 
+You saved approx. 95%  
+FILENUM IS 12 out of 40 
+ 
+FILENUM1 = 1200  
+ 
+TOTALPERC IS 30%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 12 out of 40 (30%) 
+Conversion took 31secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\Harvey Birdman\2conv\S01E07 - Deadomutt Part1 [720p].mp4 
+FILED SET AS P:\TV Series\Animation\Harvey Birdman\2conv\ 
+FILEN SET AS S01E07 - Deadomutt Part1 [720p] 
+FILEX SET AS .mp4 
+FILEZ SET AS 310074052 
+ 
+Bytes:    310074052 
+KBytes:    302807 
+SET KBYTES AS 302807 
+MBytes:    296 
+SET MBYTES AS 296 
+ 
+Converting S01E07 - Deadomutt Part1 [720p].mp4 to S01E07 - Deadomutt Part1 [720p]_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 29.970  
+"VHEIGHT" = 720  
+"VWIDTH" = 1280  
+"VDAR" = 1.778  
+"VDUR" = 695930  
+OUTFILEZKB SET AS 15716926 
+ 
+Bytes:    15716926 
+KBytes:    15349 
+SET OUTKBYTES AS 15349 
+MBytes:    15 
+SET OUTMBYTES AS 15 
+ 
+INSIZEKB = 302807 
+OUTSIZEKB = 302807-15349 = 287458 
+OUTPERCKB = 287458*100 = 28745800 
+OUTPERCKB = 94/302807 = 94 
+ 
+You saved approx. 94%  
+FILENUM IS 14 out of 40 
+ 
+FILENUM1 = 1400  
+ 
+TOTALPERC IS 35%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 14 out of 40 (35%) 
+Conversion took 31secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\Harvey Birdman\2conv\S01E08 - Deadomutt Part2 [720p].mp4 
+FILED SET AS P:\TV Series\Animation\Harvey Birdman\2conv\ 
+FILEN SET AS S01E08 - Deadomutt Part2 [720p] 
+FILEX SET AS .mp4 
+FILEZ SET AS 305861972 
+ 
+Bytes:    305861972 
+KBytes:    298694 
+SET KBYTES AS 298694 
+MBytes:    292 
+SET MBYTES AS 292 
+ 
+Converting S01E08 - Deadomutt Part2 [720p].mp4 to S01E08 - Deadomutt Part2 [720p]_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 29.970  
+"VHEIGHT" = 720  
+"VWIDTH" = 1280  
+"VDAR" = 1.778  
+"VDUR" = 689924  
+OUTFILEZKB SET AS 14790449 
+ 
+Bytes:    14790449 
+KBytes:    14444 
+SET OUTKBYTES AS 14444 
+MBytes:    15 
+SET OUTMBYTES AS 15 
+ 
+INSIZEKB = 298694 
+OUTSIZEKB = 298694-14444 = 284250 
+OUTPERCKB = 284250*100 = 28425000 
+OUTPERCKB = 95/298694 = 95 
+ 
+You saved approx. 95%  
+FILENUM IS 16 out of 40 
+ 
+FILENUM1 = 1600  
+ 
+TOTALPERC IS 40%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 16 out of 40 (40%) 
+Conversion took 30secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\Harvey Birdman\2conv\S01E09 - X The Eliminator [720p].mp4 
+FILED SET AS P:\TV Series\Animation\Harvey Birdman\2conv\ 
+FILEN SET AS S01E09 - X The Eliminator [720p] 
+FILEX SET AS .mp4 
+FILEZ SET AS 311332608 
+ 
+Bytes:    311332608 
+KBytes:    304036 
+SET KBYTES AS 304036 
+MBytes:    297 
+SET MBYTES AS 297 
+ 
+Converting S01E09 - X The Eliminator [720p].mp4 to S01E09 - X The Eliminator [720p]_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 29.970  
+"VHEIGHT" = 720  
+"VWIDTH" = 1280  
+"VDAR" = 1.778  
+"VDUR" = 694929  
+OUTFILEZKB SET AS 14777069 
+ 
+Bytes:    14777069 
+KBytes:    14431 
+SET OUTKBYTES AS 14431 
+MBytes:    15 
+SET OUTMBYTES AS 15 
+ 
+INSIZEKB = 304036 
+OUTSIZEKB = 304036-14431 = 289605 
+OUTPERCKB = 289605*100 = 28960500 
+OUTPERCKB = 95/304036 = 95 
+ 
+You saved approx. 95%  
+FILENUM IS 18 out of 40 
+ 
+FILENUM1 = 1800  
+ 
+TOTALPERC IS 45%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 18 out of 40 (45%) 
+Conversion took 29secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\Harvey Birdman\2conv\S02E01 - Blackwatch Plaid [720p].mp4 
+FILED SET AS P:\TV Series\Animation\Harvey Birdman\2conv\ 
+FILEN SET AS S02E01 - Blackwatch Plaid [720p] 
+FILEX SET AS .mp4 
+FILEZ SET AS 310434692 
+ 
+Bytes:    310434692 
+KBytes:    303159 
+SET KBYTES AS 303159 
+MBytes:    297 
+SET MBYTES AS 297 
+ 
+Converting S02E01 - Blackwatch Plaid [720p].mp4 to S02E01 - Blackwatch Plaid [720p]_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 29.970  
+"VHEIGHT" = 720  
+"VWIDTH" = 1280  
+"VDAR" = 1.778  
+"VDUR" = 694595  
+OUTFILEZKB SET AS 13682655 
+ 
+Bytes:    13682655 
+KBytes:    13362 
+SET OUTKBYTES AS 13362 
+MBytes:    14 
+SET OUTMBYTES AS 14 
+ 
+INSIZEKB = 303159 
+OUTSIZEKB = 303159-13362 = 289797 
+OUTPERCKB = 289797*100 = 28979700 
+OUTPERCKB = 95/303159 = 95 
+ 
+You saved approx. 95%  
+FILENUM IS 20 out of 40 
+ 
+FILENUM1 = 2000  
+ 
+TOTALPERC IS 50%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 20 out of 40 (50%) 
+Conversion took 29secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\Harvey Birdman\2conv\S02E02 - Trio's Company [720p].mp4 
+FILED SET AS P:\TV Series\Animation\Harvey Birdman\2conv\ 
+FILEN SET AS S02E02 - Trio's Company [720p] 
+FILEX SET AS .mp4 
+FILEZ SET AS 315121971 
+ 
+Bytes:    315121971 
+KBytes:    307737 
+SET KBYTES AS 307737 
+MBytes:    301 
+SET MBYTES AS 301 
+ 
+Converting S02E02 - Trio's Company [720p].mp4 to S02E02 - Trio's Company [720p]_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 29.970  
+"VHEIGHT" = 720  
+"VWIDTH" = 1280  
+"VDAR" = 1.778  
+"VDUR" = 700634  
+OUTFILEZKB SET AS 13948121 
+ 
+Bytes:    13948121 
+KBytes:    13622 
+SET OUTKBYTES AS 13622 
+MBytes:    14 
+SET OUTMBYTES AS 14 
+ 
+INSIZEKB = 307737 
+OUTSIZEKB = 307737-13622 = 294115 
+OUTPERCKB = 294115*100 = 29411500 
+OUTPERCKB = 95/307737 = 95 
+ 
+You saved approx. 95%  
+FILENUM IS 22 out of 40 
+ 
+FILENUM1 = 2200  
+ 
+TOTALPERC IS 55%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 22 out of 40 (55%) 
+Conversion took 29secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\Harvey Birdman\2conv\S02E03 - Devlin Made Me Do It [720p].mp4 
+FILED SET AS P:\TV Series\Animation\Harvey Birdman\2conv\ 
+FILEN SET AS S02E03 - Devlin Made Me Do It [720p] 
+FILEX SET AS .mp4 
+FILEZ SET AS 311953454 
+ 
+Bytes:    311953454 
+KBytes:    304643 
+SET KBYTES AS 304643 
+MBytes:    298 
+SET MBYTES AS 298 
+ 
+Converting S02E03 - Devlin Made Me Do It [720p].mp4 to S02E03 - Devlin Made Me Do It [720p]_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 29.970  
+"VHEIGHT" = 720  
+"VWIDTH" = 1280  
+"VDAR" = 1.778  
+"VDUR" = 695863  
+OUTFILEZKB SET AS 14578236 
+ 
+Bytes:    14578236 
+KBytes:    14237 
+SET OUTKBYTES AS 14237 
+MBytes:    14 
+SET OUTMBYTES AS 14 
+ 
+INSIZEKB = 304643 
+OUTSIZEKB = 304643-14237 = 290406 
+OUTPERCKB = 290406*100 = 29040600 
+OUTPERCKB = 95/304643 = 95 
+ 
+You saved approx. 95%  
+FILENUM IS 24 out of 40 
+ 
+FILENUM1 = 2400  
+ 
+TOTALPERC IS 60%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 24 out of 40 (60%) 
+Conversion took 29secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\Harvey Birdman\2conv\S02E04 - High Speed Buggy Chase [720p].mp4 
+FILED SET AS P:\TV Series\Animation\Harvey Birdman\2conv\ 
+FILEN SET AS S02E04 - High Speed Buggy Chase [720p] 
+FILEX SET AS .mp4 
+FILEZ SET AS 313092390 
+ 
+Bytes:    313092390 
+KBytes:    305755 
+SET KBYTES AS 305755 
+MBytes:    299 
+SET MBYTES AS 299 
+ 
+Converting S02E04 - High Speed Buggy Chase [720p].mp4 to S02E04 - High Speed Buggy Chase [720p]_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 29.970  
+"VHEIGHT" = 720  
+"VWIDTH" = 1280  
+"VDAR" = 1.778  
+"VDUR" = 695930  
+OUTFILEZKB SET AS 14329345 
+ 
+Bytes:    14329345 
+KBytes:    13994 
+SET OUTKBYTES AS 13994 
+MBytes:    14 
+SET OUTMBYTES AS 14 
+ 
+INSIZEKB = 305755 
+OUTSIZEKB = 305755-13994 = 291761 
+OUTPERCKB = 291761*100 = 29176100 
+OUTPERCKB = 95/305755 = 95 
+ 
+You saved approx. 95%  
+FILENUM IS 26 out of 40 
+ 
+FILENUM1 = 2600  
+ 
+TOTALPERC IS 65%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 26 out of 40 (65%) 
+Conversion took 28secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\Harvey Birdman\2conv\S02E05 - SPF [720p].mp4 
+FILED SET AS P:\TV Series\Animation\Harvey Birdman\2conv\ 
+FILEN SET AS S02E05 - SPF [720p] 
+FILEX SET AS .mp4 
+FILEZ SET AS 313262022 
+ 
+Bytes:    313262022 
+KBytes:    305920 
+SET KBYTES AS 305920 
+MBytes:    299 
+SET MBYTES AS 299 
+ 
+Converting S02E05 - SPF [720p].mp4 to S02E05 - SPF [720p]_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 29.970  
+"VHEIGHT" = 720  
+"VWIDTH" = 1280  
+"VDAR" = 1.778  
+"VDUR" = 696764  
+OUTFILEZKB SET AS 13866243 
+ 
+Bytes:    13866243 
+KBytes:    13542 
+SET OUTKBYTES AS 13542 
+MBytes:    14 
+SET OUTMBYTES AS 14 
+ 
+INSIZEKB = 305920 
+OUTSIZEKB = 305920-13542 = 292378 
+OUTPERCKB = 292378*100 = 29237800 
+OUTPERCKB = 95/305920 = 95 
+ 
+You saved approx. 95%  
+FILENUM IS 28 out of 40 
+ 
+FILENUM1 = 2800  
+ 
+TOTALPERC IS 70%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 28 out of 40 (70%) 
+Conversion took 29secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\Harvey Birdman\2conv\S02E06 - Back To The Present [720p].mp4 
+FILED SET AS P:\TV Series\Animation\Harvey Birdman\2conv\ 
+FILEN SET AS S02E06 - Back To The Present [720p] 
+FILEX SET AS .mp4 
+FILEZ SET AS 304827259 
+ 
+Bytes:    304827259 
+KBytes:    297683 
+SET KBYTES AS 297683 
+MBytes:    291 
+SET MBYTES AS 291 
+ 
+Converting S02E06 - Back To The Present [720p].mp4 to S02E06 - Back To The Present [720p]_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 29.970  
+"VHEIGHT" = 720  
+"VWIDTH" = 1280  
+"VDAR" = 1.778  
+"VDUR" = 695663  
+OUTFILEZKB SET AS 14094586 
+ 
+Bytes:    14094586 
+KBytes:    13765 
+SET OUTKBYTES AS 13765 
+MBytes:    14 
+SET OUTMBYTES AS 14 
+ 
+INSIZEKB = 297683 
+OUTSIZEKB = 297683-13765 = 283918 
+OUTPERCKB = 283918*100 = 28391800 
+OUTPERCKB = 95/297683 = 95 
+ 
+You saved approx. 95%  
+FILENUM IS 30 out of 40 
+ 
+FILENUM1 = 3000  
+ 
+TOTALPERC IS 75%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 30 out of 40 (75%) 
+Conversion took 27secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\Harvey Birdman\2conv\S02E07 - Grape Juiced [720p].mp4 
+FILED SET AS P:\TV Series\Animation\Harvey Birdman\2conv\ 
+FILEN SET AS S02E07 - Grape Juiced [720p] 
+FILEX SET AS .mp4 
+FILEZ SET AS 312637497 
+ 
+Bytes:    312637497 
+KBytes:    305311 
+SET KBYTES AS 305311 
+MBytes:    299 
+SET MBYTES AS 299 
+ 
+Converting S02E07 - Grape Juiced [720p].mp4 to S02E07 - Grape Juiced [720p]_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 29.970  
+"VHEIGHT" = 720  
+"VWIDTH" = 1280  
+"VDAR" = 1.778  
+"VDUR" = 695863  
+OUTFILEZKB SET AS 15077595 
+ 
+Bytes:    15077595 
+KBytes:    14725 
+SET OUTKBYTES AS 14725 
+MBytes:    15 
+SET OUTMBYTES AS 15 
+ 
+INSIZEKB = 305311 
+OUTSIZEKB = 305311-14725 = 290586 
+OUTPERCKB = 290586*100 = 29058600 
+OUTPERCKB = 95/305311 = 95 
+ 
+You saved approx. 95%  
+FILENUM IS 32 out of 40 
+ 
+FILENUM1 = 3200  
+ 
+TOTALPERC IS 80%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 32 out of 40 (80%) 
+Conversion took 30secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\Harvey Birdman\2conv\S02E08 - Peanut Puberty [720p].mp4 
+FILED SET AS P:\TV Series\Animation\Harvey Birdman\2conv\ 
+FILEN SET AS S02E08 - Peanut Puberty [720p] 
+FILEX SET AS .mp4 
+FILEZ SET AS 312955131 
+ 
+Bytes:    312955131 
+KBytes:    305621 
+SET KBYTES AS 305621 
+MBytes:    299 
+SET MBYTES AS 299 
+ 
+Converting S02E08 - Peanut Puberty [720p].mp4 to S02E08 - Peanut Puberty [720p]_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 29.970  
+"VHEIGHT" = 720  
+"VWIDTH" = 1280  
+"VDAR" = 1.778  
+"VDUR" = 695896  
+OUTFILEZKB SET AS 14607608 
+ 
+Bytes:    14607608 
+KBytes:    14266 
+SET OUTKBYTES AS 14266 
+MBytes:    14 
+SET OUTMBYTES AS 14 
+ 
+INSIZEKB = 305621 
+OUTSIZEKB = 305621-14266 = 291355 
+OUTPERCKB = 291355*100 = 29135500 
+OUTPERCKB = 95/305621 = 95 
+ 
+You saved approx. 95%  
+FILENUM IS 34 out of 40 
+ 
+FILENUM1 = 3400  
+ 
+TOTALPERC IS 85%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 34 out of 40 (85%) 
+Conversion took 29secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\Harvey Birdman\2conv\S02E09 - Gone Efficien   T [720p].mp4 
+FILED SET AS P:\TV Series\Animation\Harvey Birdman\2conv\ 
+FILEN SET AS S02E09 - Gone Efficien   T [720p] 
+FILEX SET AS .mp4 
+FILEZ SET AS 312577482 
+ 
+Bytes:    312577482 
+KBytes:    305252 
+SET KBYTES AS 305252 
+MBytes:    299 
+SET MBYTES AS 299 
+ 
+Converting S02E09 - Gone Efficien   T [720p].mp4 to S02E09 - Gone Efficien   T [720p]_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 29.970  
+"VHEIGHT" = 720  
+"VWIDTH" = 1280  
+"VDAR" = 1.778  
+"VDUR" = 695996  
+OUTFILEZKB SET AS 15180890 
+ 
+Bytes:    15180890 
+KBytes:    14826 
+SET OUTKBYTES AS 14826 
+MBytes:    15 
+SET OUTMBYTES AS 15 
+ 
+INSIZEKB = 305252 
+OUTSIZEKB = 305252-14826 = 290426 
+OUTPERCKB = 290426*100 = 29042600 
+OUTPERCKB = 95/305252 = 95 
+ 
+You saved approx. 95%  
+FILENUM IS 36 out of 40 
+ 
+FILENUM1 = 3600  
+ 
+TOTALPERC IS 90%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 36 out of 40 (90%) 
+Conversion took 29secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\Harvey Birdman\2conv\S02E10 - Droopy Botox [720p].mp4 
+FILED SET AS P:\TV Series\Animation\Harvey Birdman\2conv\ 
+FILEN SET AS S02E10 - Droopy Botox [720p] 
+FILEX SET AS .mp4 
+FILEZ SET AS 316690742 
+ 
+Bytes:    316690742 
+KBytes:    309269 
+SET KBYTES AS 309269 
+MBytes:    303 
+SET MBYTES AS 303 
+ 
+Converting S02E10 - Droopy Botox [720p].mp4 to S02E10 - Droopy Botox [720p]_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 29.970  
+"VHEIGHT" = 720  
+"VWIDTH" = 1280  
+"VDAR" = 1.778  
+"VDUR" = 703904  
+OUTFILEZKB SET AS 14863821 
+ 
+Bytes:    14863821 
+KBytes:    14516 
+SET OUTKBYTES AS 14516 
+MBytes:    15 
+SET OUTMBYTES AS 15 
+ 
+INSIZEKB = 309269 
+OUTSIZEKB = 309269-14516 = 294753 
+OUTPERCKB = 294753*100 = 29475300 
+OUTPERCKB = 95/309269 = 95 
+ 
+You saved approx. 95%  
+FILENUM IS 38 out of 40 
+ 
+FILENUM1 = 3800  
+ 
+TOTALPERC IS 95%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 38 out of 40 (95%) 
+Conversion took 30secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\Harvey Birdman\2conv\S02E11 - Guitar Control [720p].mp4 
+FILED SET AS P:\TV Series\Animation\Harvey Birdman\2conv\ 
+FILEN SET AS S02E11 - Guitar Control [720p] 
+FILEX SET AS .mp4 
+FILEZ SET AS 312476371 
+ 
+Bytes:    312476371 
+KBytes:    305153 
+SET KBYTES AS 305153 
+MBytes:    299 
+SET MBYTES AS 299 
+ 
+Converting S02E11 - Guitar Control [720p].mp4 to S02E11 - Guitar Control [720p]_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 29.970  
+"VHEIGHT" = 720  
+"VWIDTH" = 1280  
+"VDAR" = 1.778  
+"VDUR" = 695830  
+OUTFILEZKB SET AS 15311489 
+ 
+Bytes:    15311489 
+KBytes:    14953 
+SET OUTKBYTES AS 14953 
+MBytes:    15 
+SET OUTMBYTES AS 15 
+ 
+INSIZEKB = 305153 
+OUTSIZEKB = 305153-14953 = 290200 
+OUTPERCKB = 290200*100 = 29020000 
+OUTPERCKB = 95/305153 = 95 
+ 
+You saved approx. 95%  
+FILENUM IS 40 out of 40 
+ 
+FILENUM1 = 4000  
+ 
+TOTALPERC IS 100%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 40 out of 40 (100%) 
+Conversion took 30secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\Harvey Birdman\2conv\S03E01 - Booty Noir [720p].mp4 
+FILED SET AS P:\TV Series\Animation\Harvey Birdman\2conv\ 
+FILEN SET AS S03E01 - Booty Noir [720p] 
+FILEX SET AS .mp4 
+FILEZ SET AS 307969113 
+ 
+Bytes:    307969113 
+KBytes:    300752 
+SET KBYTES AS 300752 
+MBytes:    294 
+SET MBYTES AS 294 
+ 
+Converting S03E01 - Booty Noir [720p].mp4 to S03E01 - Booty Noir [720p]_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 29.970  
+"VHEIGHT" = 720  
+"VWIDTH" = 1280  
+"VDAR" = 1.778  
+"VDUR" = 695863  
+OUTFILEZKB SET AS 14359840 
+ 
+Bytes:    14359840 
+KBytes:    14024 
+SET OUTKBYTES AS 14024 
+MBytes:    14 
+SET OUTMBYTES AS 14 
+ 
+INSIZEKB = 300752 
+OUTSIZEKB = 300752-14024 = 286728 
+OUTPERCKB = 286728*100 = 28672800 
+OUTPERCKB = 95/300752 = 95 
+ 
+You saved approx. 95%  
+FILENUM IS 42 out of 40 
+ 
+FILENUM1 = 4200  
+ 
+TOTALPERC IS 105%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 42 out of 40 (105%) 
+Conversion took 29secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\Harvey Birdman\2conv\S03E02 - Harvey's Civvy [720p].mp4 
+FILED SET AS P:\TV Series\Animation\Harvey Birdman\2conv\ 
+FILEN SET AS S03E02 - Harvey's Civvy [720p] 
+FILEX SET AS .mp4 
+FILEZ SET AS 313361988 
+ 
+Bytes:    313361988 
+KBytes:    306018 
+SET KBYTES AS 306018 
+MBytes:    299 
+SET MBYTES AS 299 
+ 
+Converting S03E02 - Harvey's Civvy [720p].mp4 to S03E02 - Harvey's Civvy [720p]_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 29.970  
+"VHEIGHT" = 720  
+"VWIDTH" = 1280  
+"VDAR" = 1.778  
+"VDUR" = 697932  
+OUTFILEZKB SET AS 14524348 
+ 
+Bytes:    14524348 
+KBytes:    14184 
+SET OUTKBYTES AS 14184 
+MBytes:    14 
+SET OUTMBYTES AS 14 
+ 
+INSIZEKB = 306018 
+OUTSIZEKB = 306018-14184 = 291834 
+OUTPERCKB = 291834*100 = 29183400 
+OUTPERCKB = 95/306018 = 95 
+ 
+You saved approx. 95%  
+FILENUM IS 44 out of 40 
+ 
+FILENUM1 = 4400  
+ 
+TOTALPERC IS 110%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 44 out of 40 (110%) 
+Conversion took 29secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\Harvey Birdman\2conv\S03E03 - X Gets The Crest [720p].mp4 
+FILED SET AS P:\TV Series\Animation\Harvey Birdman\2conv\ 
+FILEN SET AS S03E03 - X Gets The Crest [720p] 
+FILEX SET AS .mp4 
+FILEZ SET AS 312806320 
+ 
+Bytes:    312806320 
+KBytes:    305475 
+SET KBYTES AS 305475 
+MBytes:    299 
+SET MBYTES AS 299 
+ 
+Converting S03E03 - X Gets The Crest [720p].mp4 to S03E03 - X Gets The Crest [720p]_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 29.970  
+"VHEIGHT" = 720  
+"VWIDTH" = 1280  
+"VDAR" = 1.778  
+"VDUR" = 693961  
+OUTFILEZKB SET AS 14100910 
+ 
+Bytes:    14100910 
+KBytes:    13771 
+SET OUTKBYTES AS 13771 
+MBytes:    14 
+SET OUTMBYTES AS 14 
+ 
+INSIZEKB = 305475 
+OUTSIZEKB = 305475-13771 = 291704 
+OUTPERCKB = 291704*100 = 29170400 
+OUTPERCKB = 95/305475 = 95 
+ 
+You saved approx. 95%  
+FILENUM IS 46 out of 40 
+ 
+FILENUM1 = 4600  
+ 
+TOTALPERC IS 115%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 46 out of 40 (115%) 
+Conversion took 28secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\Harvey Birdman\2conv\S03E04 - Bird Girl Of Guantanamole [720p].mp4 
+FILED SET AS P:\TV Series\Animation\Harvey Birdman\2conv\ 
+FILEN SET AS S03E04 - Bird Girl Of Guantanamole [720p] 
+FILEX SET AS .mp4 
+FILEZ SET AS 311000142 
+ 
+Bytes:    311000142 
+KBytes:    303712 
+SET KBYTES AS 303712 
+MBytes:    297 
+SET MBYTES AS 297 
+ 
+Converting S03E04 - Bird Girl Of Guantanamole [720p].mp4 to S03E04 - Bird Girl Of Guantanamole [720p]_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 29.970  
+"VHEIGHT" = 720  
+"VWIDTH" = 1280  
+"VDAR" = 1.778  
+"VDUR" = 692059  
+OUTFILEZKB SET AS 13717828 
+ 
+Bytes:    13717828 
+KBytes:    13397 
+SET OUTKBYTES AS 13397 
+MBytes:    14 
+SET OUTMBYTES AS 14 
+ 
+INSIZEKB = 303712 
+OUTSIZEKB = 303712-13397 = 290315 
+OUTPERCKB = 290315*100 = 29031500 
+OUTPERCKB = 95/303712 = 95 
+ 
+You saved approx. 95%  
+FILENUM IS 48 out of 40 
+ 
+FILENUM1 = 4800  
+ 
+TOTALPERC IS 120%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 48 out of 40 (120%) 
+Conversion took 29secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\Harvey Birdman\2conv\S03E05 - Beyond The Valley Of The Dinosaurs [720p].mp4 
+FILED SET AS P:\TV Series\Animation\Harvey Birdman\2conv\ 
+FILEN SET AS S03E05 - Beyond The Valley Of The Dinosaurs [720p] 
+FILEX SET AS .mp4 
+FILEZ SET AS 310906011 
+ 
+Bytes:    310906011 
+KBytes:    303620 
+SET KBYTES AS 303620 
+MBytes:    297 
+SET MBYTES AS 297 
+ 
+Converting S03E05 - Beyond The Valley Of The Dinosaurs [720p].mp4 to S03E05 - Beyond The Valley Of The Dinosaurs [720p]_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 29.970  
+"VHEIGHT" = 720  
+"VWIDTH" = 1280  
+"VDAR" = 1.778  
+"VDUR" = 691759  
+OUTFILEZKB SET AS 15212974 
+ 
+Bytes:    15212974 
+KBytes:    14857 
+SET OUTKBYTES AS 14857 
+MBytes:    15 
+SET OUTMBYTES AS 15 
+ 
+INSIZEKB = 303620 
+OUTSIZEKB = 303620-14857 = 288763 
+OUTPERCKB = 288763*100 = 28876300 
+OUTPERCKB = 95/303620 = 95 
+ 
+You saved approx. 95%  
+FILENUM IS 50 out of 40 
+ 
+FILENUM1 = 5000  
+ 
+TOTALPERC IS 125%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 50 out of 40 (125%) 
+Conversion took 30secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\Harvey Birdman\2conv\S03E06 - Evolutionary War [720p].mp4 
+FILED SET AS P:\TV Series\Animation\Harvey Birdman\2conv\ 
+FILEN SET AS S03E06 - Evolutionary War [720p] 
+FILEX SET AS .mp4 
+FILEZ SET AS 311971833 
+ 
+Bytes:    311971833 
+KBytes:    304660 
+SET KBYTES AS 304660 
+MBytes:    298 
+SET MBYTES AS 298 
+ 
+Converting S03E06 - Evolutionary War [720p].mp4 to S03E06 - Evolutionary War [720p]_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 29.970  
+"VHEIGHT" = 720  
+"VWIDTH" = 1280  
+"VDAR" = 1.778  
+"VDUR" = 693928  
+OUTFILEZKB SET AS 14163674 
+ 
+Bytes:    14163674 
+KBytes:    13832 
+SET OUTKBYTES AS 13832 
+MBytes:    14 
+SET OUTMBYTES AS 14 
+ 
+INSIZEKB = 304660 
+OUTSIZEKB = 304660-13832 = 290828 
+OUTPERCKB = 290828*100 = 29082800 
+OUTPERCKB = 95/304660 = 95 
+ 
+You saved approx. 95%  
+FILENUM IS 52 out of 40 
+ 
+FILENUM1 = 5200  
+ 
+TOTALPERC IS 130%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 52 out of 40 (130%) 
+Conversion took 29secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\Harvey Birdman\2conv\S03E07 - Turner Classic Birdman AKA Bust Day For Birdman [720p].mp4 
+FILED SET AS P:\TV Series\Animation\Harvey Birdman\2conv\ 
+FILEN SET AS S03E07 - Turner Classic Birdman AKA Bust Day For Birdman [720p] 
+FILEX SET AS .mp4 
+FILEZ SET AS 308052783 
+ 
+Bytes:    308052783 
+KBytes:    300833 
+SET KBYTES AS 300833 
+MBytes:    294 
+SET MBYTES AS 294 
+ 
+Converting S03E07 - Turner Classic Birdman AKA Bust Day For Birdman [720p].mp4 to S03E07 - Turner Classic Birdman AKA Bust Day For Birdman [720p]_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 29.970  
+"VHEIGHT" = 720  
+"VWIDTH" = 1280  
+"VDAR" = 1.778  
+"VDUR" = 684318  
+OUTFILEZKB SET AS 14530707 
+ 
+Bytes:    14530707 
+KBytes:    14191 
+SET OUTKBYTES AS 14191 
+MBytes:    14 
+SET OUTMBYTES AS 14 
+ 
+INSIZEKB = 300833 
+OUTSIZEKB = 300833-14191 = 286642 
+OUTPERCKB = 286642*100 = 28664200 
+OUTPERCKB = 95/300833 = 95 
+ 
+You saved approx. 95%  
+FILENUM IS 54 out of 40 
+ 
+FILENUM1 = 5400  
+ 
+TOTALPERC IS 135%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 54 out of 40 (135%) 
+Conversion took 27secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\Harvey Birdman\2conv\S03E08 - Free Magilla [720p].mp4 
+FILED SET AS P:\TV Series\Animation\Harvey Birdman\2conv\ 
+FILEN SET AS S03E08 - Free Magilla [720p] 
+FILEX SET AS .mp4 
+FILEZ SET AS 311512509 
+ 
+Bytes:    311512509 
+KBytes:    304212 
+SET KBYTES AS 304212 
+MBytes:    298 
+SET MBYTES AS 298 
+ 
+Converting S03E08 - Free Magilla [720p].mp4 to S03E08 - Free Magilla [720p]_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 29.970  
+"VHEIGHT" = 720  
+"VWIDTH" = 1280  
+"VDAR" = 1.778  
+"VDUR" = 693127  
+OUTFILEZKB SET AS 14468911 
+ 
+Bytes:    14468911 
+KBytes:    14130 
+SET OUTKBYTES AS 14130 
+MBytes:    14 
+SET OUTMBYTES AS 14 
+ 
+INSIZEKB = 304212 
+OUTSIZEKB = 304212-14130 = 290082 
+OUTPERCKB = 290082*100 = 29008200 
+OUTPERCKB = 95/304212 = 95 
+ 
+You saved approx. 95%  
+FILENUM IS 56 out of 40 
+ 
+FILENUM1 = 5600  
+ 
+TOTALPERC IS 140%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 56 out of 40 (140%) 
+Conversion took 28secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\Harvey Birdman\2conv\S03E09 - Return Of Birdgirl [720p].mp4 
+FILED SET AS P:\TV Series\Animation\Harvey Birdman\2conv\ 
+FILEN SET AS S03E09 - Return Of Birdgirl [720p] 
+FILEX SET AS .mp4 
+FILEZ SET AS 313340213 
+ 
+Bytes:    313340213 
+KBytes:    305997 
+SET KBYTES AS 305997 
+MBytes:    299 
+SET MBYTES AS 299 
+ 
+Converting S03E09 - Return Of Birdgirl [720p].mp4 to S03E09 - Return Of Birdgirl [720p]_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 29.970  
+"VHEIGHT" = 720  
+"VWIDTH" = 1280  
+"VDAR" = 1.778  
+"VDUR" = 695996  

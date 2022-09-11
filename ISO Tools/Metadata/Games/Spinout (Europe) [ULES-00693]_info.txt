@@ -1,0 +1,428 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Spinout   
+Title ID: ULES-00693 
+Region: Europe  
+Languages:   
+Volume Creation Date: 2007-11-30 10:53:15 
+Volume Size: 122 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: GHOSTLIGHT LTD.
+Data preparer id: ALASDAIR EVANS
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 62880
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Nov 30 2007 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 30 2007 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 11 2006 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Sep 11 2006 [     50 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Sep 11 2006 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 30 2007 [     22 02] .. 
+-r-xr-xr-x   1    0    0      23246 Oct  1 2007 [  62816 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        472 Nov 30 2007 [  62832 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      29844 Sep 28 2007 [  62688 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0     205783 Sep 28 2007 [  62704 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0      58068 Apr 12 2007 [  62848 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 Sep 11 2006 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Sep 11 2006 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Sep 11 2006 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 11 2006 [     23 02] .. 
+-r-xr-xr-x   1    0    0    2270516 Dec  2 2007 [  21680 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    2270864 Dec  3 2007 [     64 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Sep 11 2006 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Sep 11 2006 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 11 2006 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     27 02] AUDIO 
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     28 02] CHARS 
+-r-xr-xr-x   1    0    0    8239571 Nov 19 2007 [  22816 00] GAME.BRA 
+-r-xr-xr-x   1    0    0      23276 Oct 12 2007 [  22800 00] GAME.INI 
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     29 02] ICONS 
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     30 02] LEVELS 
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     31 02] MODULES 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Sep 11 2006 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 11 2006 [     24 02] .. 
+-r-xr-xr-x   1    0    0   18374528 Sep 11 2006 [   5296 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5246816 Sep 11 2006 [   1200 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Sep 11 2006 [   1184 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 11 2006 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     32 02] GAME2 
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     33 02] GAME3 
+dr-xr-xr-x   1    0    0       4096 Oct 23 2007 [     34 02] GAME 
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     36 02] MENU 
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     37 02] MUSIC 
+
+Directory listing of /PSP_GAME/USRDIR/CHARS/
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 11 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0      88172 Aug  8 2006 [  52640 00] CHARS.3DF 
+-r-xr-xr-x   1    0    0     173665 Aug  8 2006 [  52688 00] STAND.3DF 
+-r-xr-xr-x   1    0    0      45407 Oct 12 2007 [  52784 00] XORB01.3DF 
+-r-xr-xr-x   1    0    0      51909 Oct 12 2007 [  52816 00] XORB02.3DF 
+-r-xr-xr-x   1    0    0      52205 Oct 12 2007 [  52848 00] XORB03.3DF 
+-r-xr-xr-x   1    0    0      52631 Oct 12 2007 [  52880 00] XORB04.3DF 
+-r-xr-xr-x   1    0    0      74530 Oct 12 2007 [  62496 00] XORBN01.3DF 
+-r-xr-xr-x   1    0    0      81369 Oct 12 2007 [  62544 00] XORBN02.3DF 
+-r-xr-xr-x   1    0    0      81735 Oct 12 2007 [  62592 00] XORBN03.3DF 
+-r-xr-xr-x   1    0    0      82307 Oct 12 2007 [  62640 00] XORBN04.3DF 
+-r-xr-xr-x   1    0    0      52025 Oct 12 2007 [  52912 00] XORBREP.3DF 
+-r-xr-xr-x   1    0    0       1408 Oct 12 2007 [  52944 00] XORBSHAD.3DF 
+
+Directory listing of /PSP_GAME/USRDIR/ICONS/
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 11 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0     223123 May 30 2007 [  62384 00] BACKGROUND.PNG 
+-r-xr-xr-x   1    0    0      58068 Apr 12 2007 [  53296 00] SND.AT3 
+-r-xr-xr-x   1    0    0      23246 Oct  1 2007 [  53280 00] STATIC.PNG 
+
+Directory listing of /PSP_GAME/USRDIR/LEVELS/
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 11 2006 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     38 02] CAREER 
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     39 02] THEME01 
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     40 02] THEME02 
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     41 02] THEME03 
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     42 02] THEME04 
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     43 02] THEME05 
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     44 02] THEME06 
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     45 02] THEME07 
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     46 02] THEME08 
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     47 02] THEME09 
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     48 02] THEME10 
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     49 02] THEME11 
+
+Directory listing of /PSP_GAME/USRDIR/MODULES/
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     31 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 11 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0      10128 Dec  8 2005 [  52960 00] ATRAC3P.PRX 
+-r-xr-xr-x   1    0    0       3264 Dec  8 2005 [  52976 00] AUDCODEC.PRX 
+-r-xr-xr-x   1    0    0       3920 Oct  4 2007 [  62368 00] LIBFPU.PRX 
+-r-xr-xr-x   1    0    0      20976 Dec  8 2005 [  52992 00] MPEG.PRX 
+-r-xr-xr-x   1    0    0       5136 Dec  8 2005 [  53008 00] MPEGBASE.PRX 
+-r-xr-xr-x   1    0    0       6864 Dec  8 2005 [  53024 00] SASCORE.PRX 
+-r-xr-xr-x   1    0    0       3440 Dec  8 2005 [  53040 00] VIDCODEC.PRX 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/GAME2/
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     32 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0       9128 Apr 12 2007 [  61440 00] BOUNCE.SDF 
+-r-xr-xr-x   1    0    0      47176 Apr 12 2007 [  61456 00] DEFORMCH.SDF 
+-r-xr-xr-x   1    0    0      32952 Apr 12 2007 [  61488 00] DISC.SDF 
+-r-xr-xr-x   1    0    0      33672 Apr 12 2007 [  61520 00] DISC_I.SDF 
+-r-xr-xr-x   1    0    0      26232 Apr 12 2007 [  61552 00] EMP.SDF 
+-r-xr-xr-x   1    0    0      29096 Apr 12 2007 [  61568 00] ENERGYCH.SDF 
+-r-xr-xr-x   1    0    0      22024 Apr 12 2007 [  61584 00] FLARE.SDF 
+-r-xr-xr-x   1    0    0      49656 Apr 12 2007 [  61600 00] I_DEFORM.SDF 
+-r-xr-xr-x   1    0    0      44648 Apr 12 2007 [  61632 00] I_EXPL.SDF 
+-r-xr-xr-x   1    0    0      60360 Apr 12 2007 [  61664 00] I_ROCKET.SDF 
+-r-xr-xr-x   1    0    0       5960 Apr 12 2007 [  61696 00] LOCKON.SDF 
+-r-xr-xr-x   1    0    0      21272 Apr 12 2007 [  61712 00] MATTGREN.SDF 
+-r-xr-xr-x   1    0    0      38584 Apr 12 2007 [  61728 00] MINIGUNS.SDF 
+-r-xr-xr-x   1    0    0      33672 Apr 12 2007 [  61760 00] MINI_I.SDF 
+-r-xr-xr-x   1    0    0      32360 Apr 12 2007 [  61792 00] REPEL.SDF 
+-r-xr-xr-x   1    0    0      25480 Apr 12 2007 [  61808 00] ROCKET.SDF 
+-r-xr-xr-x   1    0    0     115336 Apr 12 2007 [  61824 00] SHIELD.SDF 
+-r-xr-xr-x   1    0    0      17992 Apr 12 2007 [  61888 00] T_LOCKED.SDF 
+-r-xr-xr-x   1    0    0      21304 Apr 12 2007 [  61904 00] W_PICKUP.SDF 
+-r-xr-xr-x   1    0    0      36312 Apr 12 2007 [  61920 00] X_GOAL.SDF 
+-r-xr-xr-x   1    0    0      48312 Apr 12 2007 [  61952 00] X_LAUNCH.SDF 
+-r-xr-xr-x   1    0    0      81112 Apr 12 2007 [  61984 00] X_START.SDF 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/GAME3/
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     33 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0      26008 Apr 12 2007 [  62032 00] 10TOGO.SDF 
+-r-xr-xr-x   1    0    0      19864 Apr 12 2007 [  62048 00] 1TOGO.SDF 
+-r-xr-xr-x   1    0    0      19576 Apr 12 2007 [  62064 00] 2TOGO.SDF 
+-r-xr-xr-x   1    0    0      22856 Apr 12 2007 [  62080 00] 3TOGO.SDF 
+-r-xr-xr-x   1    0    0      24776 Apr 12 2007 [  62096 00] 4TOGO.SDF 
+-r-xr-xr-x   1    0    0      22344 Apr 12 2007 [  62112 00] 5TOGO.SDF 
+-r-xr-xr-x   1    0    0      23448 Apr 12 2007 [  62128 00] 6TOGO.SDF 
+-r-xr-xr-x   1    0    0      28648 Apr 12 2007 [  62144 00] 7TOGO.SDF 
+-r-xr-xr-x   1    0    0      24120 Apr 12 2007 [  62160 00] 8TOGO.SDF 
+-r-xr-xr-x   1    0    0      21464 Apr 12 2007 [  62176 00] 9TOGO.SDF 
+-r-xr-xr-x   1    0    0      11256 Apr 12 2007 [  62192 00] COOL.SDF 
+-r-xr-xr-x   1    0    0      48696 Apr 12 2007 [  62208 00] LOSE.SDF 
+-r-xr-xr-x   1    0    0      22376 Apr 12 2007 [  62240 00] WELLDONE.SDF 
+-r-xr-xr-x   1    0    0     207864 Apr 12 2007 [  62256 00] WIN.SDF 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/GAME/
+dr-xr-xr-x   1    0    0       4096 Oct 23 2007 [     34 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0      26152 Apr 12 2007 [  26848 00] AIRBRAKE.SDF 
+-r-xr-xr-x   1    0    0       3192 Apr 12 2007 [  26864 00] BONUSMAN.SDF 
+-r-xr-xr-x   1    0    0       9128 Apr 12 2007 [  55792 00] BOUNCE.SDF 
+-r-xr-xr-x   1    0    0      12840 Apr 12 2007 [  55808 00] BUMPERS.SDF 
+-r-xr-xr-x   1    0    0      47176 Apr 12 2007 [  55824 00] DEFORMCH.SDF 
+-r-xr-xr-x   1    0    0      32952 Apr 12 2007 [  55856 00] DISC.SDF 
+-r-xr-xr-x   1    0    0      33672 Apr 12 2007 [  55888 00] DISCIMPACT.SDF 
+-r-xr-xr-x   1    0    0      26232 Apr 12 2007 [  55920 00] EMP.SDF 
+-r-xr-xr-x   1    0    0      29096 Apr 12 2007 [  55936 00] ENERGYCH.SDF 
+-r-xr-xr-x   1    0    0      55512 Apr 12 2007 [  26880 00] EXPLODE.SDF 
+-r-xr-xr-x   1    0    0      22024 Apr 12 2007 [  55952 00] FLARE.SDF 
+-r-xr-xr-x   1    0    0      37672 Apr 12 2007 [  26912 00] GATE.SDF 
+-r-xr-xr-x   1    0    0      15512 Apr 12 2007 [  26944 00] HITBALL.SDF 
+-r-xr-xr-x   1    0    0      21384 Apr 12 2007 [  26960 00] HIT_BIGM.SDF 
+-r-xr-xr-x   1    0    0      54424 Apr 12 2007 [  26976 00] HIT_CART.SDF 
+-r-xr-xr-x   1    0    0      25112 Apr 12 2007 [  27008 00] HIT_ELEC.SDF 
+-r-xr-xr-x   1    0    0      23160 Apr 12 2007 [  27024 00] HIT_MET.SDF 
+-r-xr-xr-x   1    0    0      22888 Apr 12 2007 [  27040 00] HIT_MET2.SDF 
+-r-xr-xr-x   1    0    0      19080 Apr 12 2007 [  27056 00] HIT_PLAS.SDF 
+-r-xr-xr-x   1    0    0      34984 Apr 12 2007 [  27072 00] HIT_ROCK.SDF 
+-r-xr-xr-x   1    0    0      14328 Apr 12 2007 [  27104 00] HIT_WOOD.SDF 
+-r-xr-xr-x   1    0    0      49656 Apr 12 2007 [  55968 00] IMPACTDEFORM.SDF 
+-r-xr-xr-x   1    0    0     104520 Apr 12 2007 [  56000 00] IMPACTELECTRIC.SDF 
+-r-xr-xr-x   1    0    0      44648 Apr 12 2007 [  56064 00] IMPACTEXPLOSION.SDF 
+-r-xr-xr-x   1    0    0      60360 Apr 12 2007 [  56096 00] IMPACTROCKET.SDF 
+-r-xr-xr-x   1    0    0       5960 Apr 12 2007 [  56128 00] LOCKON.SDF 
+-r-xr-xr-x   1    0    0      21272 Apr 12 2007 [  56144 00] MATTERGREN.SDF 
+-r-xr-xr-x   1    0    0      33672 Apr 12 2007 [  56160 00] MINIGUNIMPACT.SDF 
+-r-xr-xr-x   1    0    0      38584 Apr 12 2007 [  56192 00] MINIGUNS.SDF 
+-r-xr-xr-x   1    0    0      37672 Apr 12 2007 [  56224 00] MYSTICAL_ENERGYGLOW1.SDF 
+-r-xr-xr-x   1    0    0      34984 Apr 12 2007 [  27120 00] NRGBOOST.SDF 
+-r-xr-xr-x   1    0    0      21800 Apr 12 2007 [  27152 00] ORBCOLID.SDF 
+-r-xr-xr-x   1    0    0      47352 Apr 12 2007 [  27168 00] ORBFALL.SDF 
+-r-xr-xr-x   1    0    0      21800 Apr 12 2007 [  27200 00] ORBLAND.SDF 
+-r-xr-xr-x   1    0    0      59256 Apr 12 2007 [  27216 00] ORBROLL.SDF 
+-r-xr-xr-x   1    0    0      49448 Apr 12 2007 [  27248 00] OUTNRG.SDF 
+-r-xr-xr-x   1    0    0      27064 Apr 12 2007 [  27280 00] PCASH.SDF 
+-r-xr-xr-x   1    0    0      32360 Apr 12 2007 [  56256 00] REPEL.SDF 
+-r-xr-xr-x   1    0    0      25480 Apr 12 2007 [  56272 00] ROCKET.SDF 
+-r-xr-xr-x   1    0    0     115336 Apr 12 2007 [  56288 00] SHIELD.SDF 
+-r-xr-xr-x   1    0    0      23736 Apr 12 2007 [  27296 00] SP_GOVER.SDF 
+-r-xr-xr-x   1    0    0      27320 Apr 12 2007 [  27312 00] SP_LEVC.SDF 
+-r-xr-xr-x   1    0    0      22200 Apr 12 2007 [  27328 00] SP_NRGC.SDF 
+-r-xr-xr-x   1    0    0      19704 Apr 12 2007 [  27344 00] SP_NRGL.SDF 
+-r-xr-xr-x   1    0    0      25064 Apr 12 2007 [  27360 00] SP_TOUT.SDF 
+-r-xr-xr-x   1    0    0      96472 Apr 12 2007 [  56352 00] SUCTION.SDF 
+-r-xr-xr-x   1    0    0      17992 Apr 12 2007 [  56400 00] TARGETLOCKED.SDF 
+-r-xr-xr-x   1    0    0      55272 Apr 12 2007 [  27376 00] TELEPORT.SDF 
+-r-xr-xr-x   1    0    0      10072 Apr 12 2007 [  27408 00] TIMER.SDF 
+-r-xr-xr-x   1    0    0      21304 Apr 12 2007 [  56416 00] WEAPPICKUP.SDF 
+-r-xr-xr-x   1    0    0      36312 Apr 12 2007 [  56432 00] XORBBALLGOAL.SDF 
+-r-xr-xr-x   1    0    0      48312 Apr 12 2007 [  56464 00] XORBBALLLAUNCH.SDF 
+-r-xr-xr-x   1    0    0      81112 Apr 12 2007 [  56496 00] XORBBALLSTART.SDF 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/MENU/
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     36 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0       6568 Apr 12 2007 [  27424 00] AIRBRAKE.SDF 
+-r-xr-xr-x   1    0    0       7016 Apr 12 2007 [  27440 00] BONUSMAN.SDF 
+-r-xr-xr-x   1    0    0      31048 Apr 12 2007 [  27456 00] BUY.SDF 
+-r-xr-xr-x   1    0    0      13896 Apr 12 2007 [  27472 00] EXPLODE.SDF 
+-r-xr-xr-x   1    0    0       8568 Apr 12 2007 [  27488 00] GATE.SDF 
+-r-xr-xr-x   1    0    0       3896 Apr 12 2007 [  27504 00] HITBALL.SDF 
+-r-xr-xr-x   1    0    0       5368 Apr 12 2007 [  27520 00] HIT_BIGM.SDF 
+-r-xr-xr-x   1    0    0      13624 Apr 12 2007 [  27536 00] HIT_CART.SDF 
+-r-xr-xr-x   1    0    0       6296 Apr 12 2007 [  27552 00] HIT_ELEC.SDF 
+-r-xr-xr-x   1    0    0       5816 Apr 12 2007 [  27568 00] HIT_MET.SDF 
+-r-xr-xr-x   1    0    0       5752 Apr 12 2007 [  27584 00] HIT_MET2.SDF 
+-r-xr-xr-x   1    0    0       4792 Apr 12 2007 [  27600 00] HIT_PLAS.SDF 
+-r-xr-xr-x   1    0    0       8776 Apr 12 2007 [  27616 00] HIT_ROCK.SDF 
+-r-xr-xr-x   1    0    0       3608 Apr 12 2007 [  27632 00] HIT_WOOD.SDF 
+-r-xr-xr-x   1    0    0      19832 Apr 12 2007 [  27648 00] MACCEPT.SDF 
+-r-xr-xr-x   1    0    0      10408 Apr 12 2007 [  27664 00] MBACK.SDF 
+-r-xr-xr-x   1    0    0      35784 Apr 12 2007 [  27680 00] MMOVE.SDF 
+-r-xr-xr-x   1    0    0       4088 Apr 12 2007 [  27712 00] MTOGGLE.SDF 
+-r-xr-xr-x   1    0    0       8776 Apr 12 2007 [  27728 00] NRGBOOST.SDF 
+-r-xr-xr-x   1    0    0       3048 Apr 12 2007 [  27744 00] ORBCOLID.SDF 
+-r-xr-xr-x   1    0    0      11864 Apr 12 2007 [  27760 00] ORBFALL.SDF 
+-r-xr-xr-x   1    0    0       5480 Apr 12 2007 [  27776 00] ORBLAND.SDF 
+-r-xr-xr-x   1    0    0      14840 Apr 12 2007 [  27792 00] ORBROLL.SDF 
+-r-xr-xr-x   1    0    0      12392 Apr 12 2007 [  27808 00] OUTNRG.SDF 
+-r-xr-xr-x   1    0    0       6792 Apr 12 2007 [  27824 00] PCASH.SDF 
+-r-xr-xr-x   1    0    0       5960 Apr 12 2007 [  27840 00] SP_GOVER.SDF 
+-r-xr-xr-x   1    0    0       6856 Apr 12 2007 [  27856 00] SP_LEVC.SDF 
+-r-xr-xr-x   1    0    0       5576 Apr 12 2007 [  27872 00] SP_NRGC.SDF 
+-r-xr-xr-x   1    0    0       4952 Apr 12 2007 [  27888 00] SP_NRGL.SDF 
+-r-xr-xr-x   1    0    0       6296 Apr 12 2007 [  27904 00] SP_TOUT.SDF 
+-r-xr-xr-x   1    0    0      13848 Apr 12 2007 [  27920 00] TELEPORT.SDF 
+-r-xr-xr-x   1    0    0       2536 Apr 12 2007 [  27936 00] TIMER.SDF 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/MUSIC/
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     37 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0    2148252 Apr 12 2007 [  56544 00] BOWLING.AT3 
+-r-xr-xr-x   1    0    0     834884 Apr 12 2007 [  27952 00] CANYON.AT3 
+-r-xr-xr-x   1    0    0     356988 Apr 12 2007 [  28368 00] CUSTOMS.AT3 
+-r-xr-xr-x   1    0    0    2547940 Apr 12 2007 [  28544 00] ECOS.AT3 
+-r-xr-xr-x   1    0    0     102812 Apr 12 2007 [  29792 00] GOAL.AT3 
+-r-xr-xr-x   1    0    0    2053876 Apr 12 2007 [  29856 00] HEAVEN.AT3 
+-r-xr-xr-x   1    0    0    1990332 Apr 12 2007 [  30864 00] HELL.AT3 
+-r-xr-xr-x   1    0    0    1178548 Apr 12 2007 [  31840 00] INDUST.AT3 
+-r-xr-xr-x   1    0    0    1990332 Apr 12 2007 [  32416 00] LUCAJA.AT3 
+-r-xr-xr-x   1    0    0     673204 Apr 12 2007 [  33392 00] METROP.AT3 
+-r-xr-xr-x   1    0    0     658540 Apr 12 2007 [  33728 00] MYSTIC.AT3 
+-r-xr-xr-x   1    0    0     658540 Apr 12 2007 [  34064 00] SPACE.AT3 
+-r-xr-xr-x   1    0    0    2068164 Apr 12 2007 [  34400 00] TITLE.AT3 
+-r-xr-xr-x   1    0    0    1205996 Apr 12 2007 [  57600 00] XBALL.AT3 
+-r-xr-xr-x   1    0    0     705164 Apr 12 2007 [  58192 00] XFIGHT.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/LEVELS/CAREER/
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     38 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     30 02] .. 
+-r-xr-xr-x   1    0    0     444326 Dec 14 2006 [  53056 00] CAREER.3DF 
+
+Directory listing of /PSP_GAME/USRDIR/LEVELS/THEME01/
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     39 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     30 02] .. 
+-r-xr-xr-x   1    0    0     468795 Mar 17 2006 [  35424 00] THEME01.3DF 
+-r-xr-xr-x   1    0    0     624747 Oct  2 2007 [  35664 00] THEME01A.3DF 
+-r-xr-xr-x   1    0    0     618930 Oct  2 2007 [  35984 00] THEME01B.3DF 
+-r-xr-xr-x   1    0    0     654841 Oct  2 2007 [  36288 00] THEME01C.3DF 
+-r-xr-xr-x   1    0    0     674904 Oct  2 2007 [  36608 00] THEME01D.3DF 
+-r-xr-xr-x   1    0    0     652019 Oct  2 2007 [  36944 00] THEME01E.3DF 
+-r-xr-xr-x   1    0    0     645830 Oct  2 2007 [  37264 00] THEME01F.3DF 
+
+Directory listing of /PSP_GAME/USRDIR/LEVELS/THEME02/
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     40 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     30 02] .. 
+-r-xr-xr-x   1    0    0     555385 Mar 17 2006 [  37584 00] THEME02.3DF 
+-r-xr-xr-x   1    0    0     403035 Oct  2 2007 [  37856 00] THEME02A.3DF 
+-r-xr-xr-x   1    0    0     428579 Oct  2 2007 [  38064 00] THEME02B.3DF 
+-r-xr-xr-x   1    0    0     373890 Oct  2 2007 [  38288 00] THEME02C.3DF 
+-r-xr-xr-x   1    0    0     409362 Oct  2 2007 [  38480 00] THEME02D.3DF 
+-r-xr-xr-x   1    0    0     427528 Oct  2 2007 [  38688 00] THEME02E.3DF 
+-r-xr-xr-x   1    0    0     399612 Oct  2 2007 [  38912 00] THEME02F.3DF 
+
+Directory listing of /PSP_GAME/USRDIR/LEVELS/THEME03/
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     41 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     30 02] .. 
+-r-xr-xr-x   1    0    0     636808 Mar 17 2006 [  39120 00] THEME03.3DF 
+-r-xr-xr-x   1    0    0     562356 Oct  2 2007 [  39440 00] THEME03A.3DF 
+-r-xr-xr-x   1    0    0     612992 Oct  2 2007 [  39728 00] THEME03B.3DF 
+-r-xr-xr-x   1    0    0     597057 Oct  2 2007 [  40032 00] THEME03C.3DF 
+-r-xr-xr-x   1    0    0     561616 Oct  2 2007 [  40336 00] THEME03D.3DF 
+-r-xr-xr-x   1    0    0     524956 Oct  2 2007 [  40624 00] THEME03E.3DF 
+-r-xr-xr-x   1    0    0     650675 Oct  2 2007 [  40896 00] THEME03F.3DF 
+
+Directory listing of /PSP_GAME/USRDIR/LEVELS/THEME04/
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     42 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     30 02] .. 
+-r-xr-xr-x   1    0    0     559757 Mar 17 2006 [  41216 00] THEME04.3DF 
+-r-xr-xr-x   1    0    0     719128 Oct  2 2007 [  41504 00] THEME04A.3DF 
+-r-xr-xr-x   1    0    0     746202 Oct  2 2007 [  41856 00] THEME04B.3DF 
+-r-xr-xr-x   1    0    0     677898 Oct  2 2007 [  42224 00] THEME04C.3DF 
+-r-xr-xr-x   1    0    0     735512 Oct  2 2007 [  42560 00] THEME04D.3DF 
+-r-xr-xr-x   1    0    0     762040 Oct  2 2007 [  42928 00] THEME04E.3DF 
+-r-xr-xr-x   1    0    0     749469 Oct  2 2007 [  43312 00] THEME04F.3DF 
+
+Directory listing of /PSP_GAME/USRDIR/LEVELS/THEME05/
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     43 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     30 02] .. 
+-r-xr-xr-x   1    0    0     358473 Mar 17 2006 [  43680 00] THEME05.3DF 
+-r-xr-xr-x   1    0    0     568466 Oct 10 2007 [  43856 00] THEME05A.3DF 
+-r-xr-xr-x   1    0    0     441030 Oct 10 2007 [  44144 00] THEME05B.3DF 
+-r-xr-xr-x   1    0    0     405103 Oct 10 2007 [  44368 00] THEME05C.3DF 
+-r-xr-xr-x   1    0    0     520834 Oct 10 2007 [  44576 00] THEME05D.3DF 
+-r-xr-xr-x   1    0    0     326096 Oct 10 2007 [  44832 00] THEME05E.3DF 
+-r-xr-xr-x   1    0    0     503101 Oct 10 2007 [  44992 00] THEME05F.3DF 
+
+Directory listing of /PSP_GAME/USRDIR/LEVELS/THEME06/
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     44 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     30 02] .. 
+-r-xr-xr-x   1    0    0     335971 Mar 17 2006 [  45248 00] THEME06.3DF 
+-r-xr-xr-x   1    0    0     442114 Oct  2 2007 [  45424 00] THEME06A.3DF 
+-r-xr-xr-x   1    0    0     428517 Oct  2 2007 [  45648 00] THEME06B.3DF 
+-r-xr-xr-x   1    0    0     516325 Oct  2 2007 [  45872 00] THEME06C.3DF 
+-r-xr-xr-x   1    0    0     354957 Oct  2 2007 [  46128 00] THEME06D.3DF 
+-r-xr-xr-x   1    0    0     487107 Oct  2 2007 [  46304 00] THEME06E.3DF 
+-r-xr-xr-x   1    0    0     655362 Oct  2 2007 [  46544 00] THEME06F.3DF 
+
+Directory listing of /PSP_GAME/USRDIR/LEVELS/THEME07/
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     45 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     30 02] .. 
+-r-xr-xr-x   1    0    0     667894 Oct 11 2007 [  46880 00] THEME07A.3DF 
+-r-xr-xr-x   1    0    0     764213 Oct 11 2007 [  47216 00] THEME07B.3DF 
+-r-xr-xr-x   1    0    0     811265 Oct 11 2007 [  47600 00] THEME07C.3DF 
+-r-xr-xr-x   1    0    0     660929 Oct 11 2007 [  48000 00] THEME07D.3DF 
+-r-xr-xr-x   1    0    0     646435 Oct 11 2007 [  48336 00] THEME07E.3DF 
+-r-xr-xr-x   1    0    0     701564 Oct 11 2007 [  48656 00] THEME07F.3DF 
+
+Directory listing of /PSP_GAME/USRDIR/LEVELS/THEME08/
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     46 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     30 02] .. 
+-r-xr-xr-x   1    0    0     700515 Oct 11 2007 [  49008 00] THEME08A.3DF 
+-r-xr-xr-x   1    0    0     587517 Oct 11 2007 [  49360 00] THEME08B.3DF 
+-r-xr-xr-x   1    0    0     674390 Oct 11 2007 [  49648 00] THEME08C.3DF 
+-r-xr-xr-x   1    0    0     588446 Oct 11 2007 [  49984 00] THEME08D.3DF 
+-r-xr-xr-x   1    0    0     711486 Oct 11 2007 [  50272 00] THEME08E.3DF 
+-r-xr-xr-x   1    0    0     674993 Oct 11 2007 [  50624 00] THEME08F.3DF 
+
+Directory listing of /PSP_GAME/USRDIR/LEVELS/THEME09/
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     47 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     30 02] .. 
+-r-xr-xr-x   1    0    0      35065 Apr  4 2007 [  61248 00] BALLSTUFF.3DF 
+-r-xr-xr-x   1    0    0     807723 Apr  4 2007 [  50960 00] THEME09A.3DF 
+-r-xr-xr-x   1    0    0     853150 Apr  4 2007 [  51360 00] THEME09B.3DF 
+-r-xr-xr-x   1    0    0     398082 Aug  8 2006 [  51792 00] THEME09C.3DF 
+-r-xr-xr-x   1    0    0     421595 Aug  8 2006 [  52000 00] THEME09D.3DF 
+-r-xr-xr-x   1    0    0     343183 Aug  8 2006 [  52208 00] THEME09E.3DF 
+-r-xr-xr-x   1    0    0     503790 Aug  8 2006 [  52384 00] THEME09F.3DF 
+-r-xr-xr-x   1    0    0     327042 Mar 21 2007 [  61280 00] THEME9A.3DF 
+
+Directory listing of /PSP_GAME/USRDIR/LEVELS/THEME10/
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     48 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     30 02] .. 
+-r-xr-xr-x   1    0    0     798694 Aug 30 2007 [  58544 00] THEME10A.3DF 
+-r-xr-xr-x   1    0    0    1084410 Aug 30 2007 [  58944 00] THEME10B.3DF 
+-r-xr-xr-x   1    0    0     930892 Aug 30 2007 [  59488 00] THEME10C.3DF 
+-r-xr-xr-x   1    0    0    1123757 Aug 30 2007 [  59952 00] THEME10D.3DF 
+-r-xr-xr-x   1    0    0     608781 Aug 30 2007 [  60512 00] THEME10E.3DF 
+-r-xr-xr-x   1    0    0     865049 Aug 30 2007 [  60816 00] THEME10F.3DF 
+
+Directory listing of /PSP_GAME/USRDIR/LEVELS/THEME11/
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     49 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 23 2007 [     30 02] .. 
+-r-xr-xr-x   1    0    0     296539 Oct  2 2007 [  53328 00] THEME11A.3DF 
+-r-xr-xr-x   1    0    0     373951 Oct  2 2007 [  53488 00] THEME11B.3DF 
+-r-xr-xr-x   1    0    0     557543 Oct  2 2007 [  53680 00] THEME11C.3DF 
+-r-xr-xr-x   1    0    0     546408 Oct  2 2007 [  53968 00] THEME11D.3DF 
+-r-xr-xr-x   1    0    0     433319 Oct  2 2007 [  54240 00] THEME11E.3DF 
+-r-xr-xr-x   1    0    0     318282 Oct 10 2007 [  54464 00] THEME11F.3DF 
+-r-xr-xr-x   1    0    0     304839 Oct 10 2007 [  54624 00] THEME11G.3DF 
+-r-xr-xr-x   1    0    0     413177 Oct  2 2007 [  54784 00] THEME11H.3DF 
+-r-xr-xr-x   1    0    0     466922 Oct 11 2007 [  54992 00] THEME11I.3DF 
+-r-xr-xr-x   1    0    0     432456 Oct 11 2007 [  55232 00] THEME11J.3DF 
+-r-xr-xr-x   1    0    0     293138 Oct 11 2007 [  55456 00] THEME11K.3DF 
+-r-xr-xr-x   1    0    0     380559 Oct 11 2007 [  55600 00] THEME11L.3DF 
+=============================================================== 
+Generated on Tue 09/08/2022 at  5:38:33.14 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

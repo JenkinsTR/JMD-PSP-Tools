@@ -1,0 +1,12 @@
+1. Open PSP PS3 PKG Decrypter Extractor and use it to extract the package (CLICK EXTRACT PACKAGE). You will get a folder with the same name as the PKG File3.
+
+2. Open it and find EBOOT.BPB in CONTENT folder
+
+3. Extract NP Decryptor for PC to the same folder and run (or drag and drop the EBOOT onto npdpc.exe). Wait a little and you will see a decrypted ISO which you can use with your PSP.
+
+It's the ISO you want to run, not a .pkg
+
+Do NOT use npdpc.exe on PSOne Classics. Once you have the EBOOT extracted, just add the KEYS.BIN for the game to the CONTENT folder, rename the content folder to whatever you want (I usually use the game's SL**#### code) and copy it to your memory stick.
+
+
+Thanks to u/shane_solo for the guide!

@@ -1,0 +1,117 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Hakuouki - Yuugiroku  
+Title ID: ULJM-05663 
+Region: Japan  
+Languages:   
+Volume Creation Date: 2010-03-12 00:38:51 
+Volume Size: 366 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: 
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 187600
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Mar 12 2010 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 12 2010 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb  1 2010 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Feb  1 2010 [     31 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Feb  1 2010 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 12 2010 [     22 02] .. 
+-r-xr-xr-x   1    0    0      27703 Feb 12 2010 [  54560 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        604 Mar  7 2010 [  54576 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     144882 Feb 12 2010 [  54592 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0     441356 Feb 27 2010 [ 179088 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 Feb  1 2010 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Feb  1 2010 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Feb  1 2010 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb  1 2010 [     23 02] .. 
+-r-xr-xr-x   1    0    0    2564196 Mar 12 2010 [ 177824 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    2564544 Mar 12 2010 [    544 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0        880 Feb  1 2010 [     32 00] OPNSSMP.BIN 
+dr-xr-xr-x   1    0    0       2048 Feb  1 2010 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Feb  1 2010 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb  1 2010 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 Dec 19 2009 [     27 02] MODULE 
+dr-xr-xr-x   1    0    0       2048 Feb 13 2010 [     28 02] MOVIE 
+dr-xr-xr-x   1    0    0       2048 Feb 12 2010 [     29 02] SAVEDATA 
+dr-xr-xr-x   1    0    0       2048 Mar 11 2010 [     30 02] UNION 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Feb  1 2010 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb  1 2010 [     24 02] .. 
+-r-xr-xr-x   1    0    0    2564196 Mar 12 2010 [ 186336 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0   23372384 Feb  1 2010 [   5920 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5545568 Feb  1 2010 [   1824 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Feb  1 2010 [   1808 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/MODULE/
+dr-xr-xr-x   1    0    0       2048 Dec 19 2009 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb  1 2010 [     25 02] .. 
+-r-xr-xr-x   1    0    0      32128 Nov  6 2008 [  54672 00] LIBPSMFPLAYER.PRX 
+-r-xr-xr-x   1    0    0       6800 Nov  6 2008 [  54688 00] PSMF.PRX 
+
+Directory listing of /PSP_GAME/USRDIR/MOVIE/
+dr-xr-xr-x   1    0    0       2048 Feb 13 2010 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb  1 2010 [     25 02] .. 
+-r-xr-xr-x   1    0    0    1339392 Oct 21 2008 [  54704 00] DF.PMF 
+-r-xr-xr-x   1    0    0   14385152 Mar  2 2010 [ 179312 00] ED.PMF 
+-r-xr-xr-x   1    0    0    2156544 Oct 21 2008 [  55360 00] IF.PMF 
+-r-xr-xr-x   1    0    0    1771520 Oct 21 2008 [  56416 00] MATE.PMF 
+-r-xr-xr-x   1    0    0   21342208 Mar  1 2010 [  57296 00] OP.PMF 
+
+Directory listing of /PSP_GAME/USRDIR/SAVEDATA/
+dr-xr-xr-x   1    0    0       2048 Feb 12 2010 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb  1 2010 [     25 02] .. 
+-r-xr-xr-x   1    0    0      78932 Feb 12 2010 [  67728 00] SYSFILE.BIN 
+
+Directory listing of /PSP_GAME/USRDIR/UNION/
+dr-xr-xr-x   1    0    0       2048 Mar 11 2010 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb  1 2010 [     25 02] .. 
+-r-xr-xr-x   1    0    0   12609536 Mar  1 2010 [  67776 00] BACK.UNI 
+-r-xr-xr-x   1    0    0   64413696 Feb 27 2010 [  73936 00] BGM.UNI 
+-r-xr-xr-x   1    0    0   72208384 Feb 10 2010 [ 105392 00] CHARA.UNI 
+-r-xr-xr-x   1    0    0     415744 Feb 12 2010 [ 140656 00] ETC.UNI 
+-r-xr-xr-x   1    0    0     436224 Feb 15 2010 [ 140864 00] MEMORY.UNI 
+-r-xr-xr-x   1    0    0    7448576 Mar  5 2010 [ 141088 00] MG.UNI 
+-r-xr-xr-x   1    0    0    3121152 Mar 11 2010 [ 144736 00] SCRIPT.UNI 
+-r-xr-xr-x   1    0    0    1226752 Feb 11 2010 [ 146272 00] SOUND.UNI 
+-r-xr-xr-x   1    0    0      98304 Jan 20 2010 [ 146880 00] SUB.UNI 
+-r-xr-xr-x   1    0    0    1466368 Mar  2 2010 [ 146928 00] SYSTEM.UNI 
+-r-xr-xr-x   1    0    0   61794304 Feb 26 2010 [ 147648 00] V10.UNI 
+=============================================================== 
+Generated on Mon 22/08/2022 at 14:45:46.90 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

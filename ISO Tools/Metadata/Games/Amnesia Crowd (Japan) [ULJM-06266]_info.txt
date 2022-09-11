@@ -1,0 +1,120 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Amnesia Crowd  
+Title ID: ULJM-06266 
+Region: Japan  
+Languages:   
+Volume Creation Date: 2013-03-07 16:00:00 
+Volume Size: 1686 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: 
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 863232
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Mar  7 2013 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  7 2013 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Dec 28 2012 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Dec 28 2012 [     33 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Dec 28 2012 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar  7 2013 [     22 02] .. 
+-r-xr-xr-x   1    0    0      13804 Nov  2 2012 [  55840 00] ICON0.PNG 
+dr-xr-xr-x   1    0    0       2048 Dec 28 2012 [     24 02] INSDIR 
+-r-xr-xr-x   1    0    0        560 Mar  7 2013 [  55856 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      53888 Jan 29 2013 [  55872 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Dec 28 2012 [     25 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Dec 28 2012 [     26 02] USRDIR 
+
+Directory listing of /PSP_GAME/INSDIR/
+dr-xr-xr-x   1    0    0       2048 Dec 28 2012 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 28 2012 [     23 02] .. 
+-r-xr-xr-x   1    0    0      14092 Mar  7 2013 [  56384 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0  326919616 Mar  7 2013 [  56528 00] INSTALL.DNS 
+-r-xr-xr-x   1    0    0      53888 Mar  7 2013 [  56400 00] PIC1.PNG 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Dec 28 2012 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 28 2012 [     23 02] .. 
+-r-xr-xr-x   1    0    0    5146313 Mar  7 2013 [ 216160 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    5146656 Mar  7 2013 [    560 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0        880 Dec 28 2012 [     48 00] OPNSSMP.BIN 
+dr-xr-xr-x   1    0    0       2048 Dec 28 2012 [     27 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Dec 28 2012 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 28 2012 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 Dec 23 2012 [     28 02] MODULE 
+dr-xr-xr-x   1    0    0       2048 Dec 23 2012 [     29 02] SAVEDATA 
+-r-xr-xr-x   1    0    0 1320025624 Mar  7 2013 [ 218688 00] UMD.cpk 
+dr-xr-xr-x   1    0    0       2048 Dec 23 2012 [     30 02] adx2 
+dr-xr-xr-x   1    0    0       2048 Jan 26 2013 [     31 02] data 
+dr-xr-xr-x   1    0    0       2048 Oct 25 2012 [     32 02] debug 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Dec 28 2012 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 28 2012 [     25 02] .. 
+-r-xr-xr-x   1    0    0   26876352 Dec 28 2012 [   7200 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5718512 Dec 28 2012 [   3104 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Dec 28 2012 [   3088 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/MODULE/
+dr-xr-xr-x   1    0    0       2048 Dec 23 2012 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 28 2012 [     26 02] .. 
+-r-xr-xr-x   1    0    0      32128 Oct  1 2012 [  56368 00] libpsmfplayer.prx 
+-r-xr-xr-x   1    0    0       6800 Oct  1 2012 [  56432 00] psmf.prx 
+
+Directory listing of /PSP_GAME/USRDIR/SAVEDATA/
+dr-xr-xr-x   1    0    0       2048 Dec 23 2012 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 28 2012 [     26 02] .. 
+-r-xr-xr-x   1    0    0     135810 Oct  1 2012 [  56448 00] sysfile.bin 
+
+Directory listing of /PSP_GAME/USRDIR/adx2/
+dr-xr-xr-x   1    0    0       2048 Dec 23 2012 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 28 2012 [     26 02] .. 
+-r-xr-xr-x   1    0    0     507936 Feb 16 2013 [  55904 00] system_sound.acb 
+-r-xr-xr-x   1    0    0       3776 Feb 16 2013 [  56160 00] system_sound.acf 
+-r-xr-xr-x   1    0    0      25936 Feb  8 2013 [  56176 00] system_sound.awb 
+
+Directory listing of /PSP_GAME/USRDIR/data/
+dr-xr-xr-x   1    0    0       2048 Jan 26 2013 [     31 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 28 2012 [     26 02] .. 
+-r-xr-xr-x   1    0    0      13804 Nov  2 2012 [  56192 00] icon0.png 
+-r-xr-xr-x   1    0    0     131072 Oct  1 2012 [  56208 00] jis2ucs.bin 
+-r-xr-xr-x   1    0    0      53888 Jan 29 2013 [  56272 00] pic1.png 
+-r-xr-xr-x   1    0    0     131072 Oct  1 2012 [  56304 00] ucs2jis.bin 
+
+Directory listing of /PSP_GAME/USRDIR/debug/
+dr-xr-xr-x   1    0    0       2048 Oct 25 2012 [     32 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 28 2012 [     26 02] .. 
+=============================================================== 
+Generated on Thu 18/08/2022 at 21:02:19.95 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

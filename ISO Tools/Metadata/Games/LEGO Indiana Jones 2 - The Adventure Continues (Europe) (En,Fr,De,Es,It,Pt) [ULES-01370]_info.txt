@@ -1,0 +1,111 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: LEGO Indiana Jones 2 - The Adventure Continues   
+Title ID: ULES-01370 
+Region: Europe  
+Languages: En,Fr,De,Es,It,Pt  
+Volume Creation Date: 2009-09-26 20:17:55 
+Volume Size: 645 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: LUCASARTS
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 330416
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Sep 26 2009 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 26 2009 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 26 2009 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Sep 26 2009 [     29 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Sep 26 2009 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 26 2009 [     22 02] .. 
+-r-xr-xr-x   1    0    0      23274 Aug 26 2009 [  56544 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        472 Sep 21 2009 [  54912 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      98207 Aug 26 2009 [  56560 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0     143685 Sep  1 2009 [  56608 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0     233036 Aug 26 2009 [  56688 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 Sep 26 2009 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Sep 26 2009 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Sep 26 2009 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 26 2009 [     23 02] .. 
+-r-xr-xr-x   1    0    0    3281697 Sep 26 2009 [  54928 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    3282048 Sep 26 2009 [     32 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Sep 26 2009 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Sep 26 2009 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 26 2009 [     23 02] .. 
+-r-xr-xr-x   1    0    0     102600 Sep 26 2009 [  56816 00] customchar.bin 
+dr-xr-xr-x   1    0    0       2048 Sep 26 2009 [     27 02] cutscenes 
+-r-xr-xr-x   1    0    0  372508974 Sep 26 2009 [  56880 00] legoindy2psp.fib 
+dr-xr-xr-x   1    0    0       2048 Sep 26 2009 [     28 02] music 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Sep 26 2009 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 26 2009 [     24 02] .. 
+-r-xr-xr-x   1    0    0   23221936 Sep 26 2009 [   5760 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5546112 Sep 26 2009 [   1664 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Sep 26 2009 [   1648 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/cutscenes/
+dr-xr-xr-x   1    0    0       2048 Sep 26 2009 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 26 2009 [     25 02] .. 
+-r-xr-xr-x   1    0    0   28228234 Sep  8 2009 [ 275136 00] arkopeningsound.fmv 
+-r-xr-xr-x   1    0    0   10014289 Sep  8 2009 [ 288928 00] asylumoutrosound.fmv 
+-r-xr-xr-x   1    0    0   30512637 Sep  8 2009 [ 293824 00] hangar51outrosound.fmv 
+-r-xr-xr-x   1    0    0   13563585 Sep  8 2009 [ 308736 00] indianvillageoutrosound.fmv 
+-r-xr-xr-x   1    0    0   35669085 Sep 14 2009 [ 250320 00] indyintro.fmv 
+-r-xr-xr-x   1    0    0   23603655 Sep  8 2009 [ 238784 00] indyoutro.fmv 
+-r-xr-xr-x   1    0    0   16834650 Sep  8 2009 [ 315360 00] maproomintrosound.fmv 
+-r-xr-xr-x   1    0    0   15109139 Sep  8 2009 [ 267744 00] truckchase_introsound.fmv 
+
+Directory listing of /PSP_GAME/USRDIR/music/
+dr-xr-xr-x   1    0    0       2048 Sep 26 2009 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 26 2009 [     25 02] .. 
+-r-xr-xr-x   1    0    0     926444 Aug 26 2009 [ 323584 00] adventures_of_mutt.at3 
+-r-xr-xr-x   1    0    0    1545452 Aug 26 2009 [ 324048 00] ants.at3 
+-r-xr-xr-x   1    0    0    1848260 Aug 26 2009 [ 324816 00] call_of_the_crystal.at3 
+-r-xr-xr-x   1    0    0          0 Aug 26 2009 [ 325728 00] dummymusic.at3 
+-r-xr-xr-x   1    0    0     422012 Aug 26 2009 [ 325744 00] grave_robbers.at3 
+-r-xr-xr-x   1    0    0    1800644 Aug 26 2009 [ 325952 00] hidden_tresure.at3 
+-r-xr-xr-x   1    0    0     288092 Aug 26 2009 [ 326832 00] mexicanmusic.at3 
+-r-xr-xr-x   1    0    0     952484 Aug 26 2009 [ 326976 00] placeholder_nuke_town_act.at3 
+-r-xr-xr-x   1    0    0     753092 Aug 26 2009 [ 327456 00] placeholder_nuke_town_exp.at3 
+-r-xr-xr-x   1    0    0    1105004 Aug 26 2009 [ 327824 00] raidersmarch.at3 
+-r-xr-xr-x   1    0    0    1228508 Aug 26 2009 [ 328368 00] return.at3 
+-r-xr-xr-x   1    0    0     690596 Aug 26 2009 [ 328976 00] spell_of_skull_amb.at3 
+-r-xr-xr-x   1    0    0    1746332 Aug 26 2009 [ 329328 00] the_city_of_gold.at3 
+-r-xr-xr-x   1    0    0     455492 Aug 26 2009 [ 330192 00] whirlthrough_action.at3 
+=============================================================== 
+Generated on Tue 09/08/2022 at  5:37:43.63 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

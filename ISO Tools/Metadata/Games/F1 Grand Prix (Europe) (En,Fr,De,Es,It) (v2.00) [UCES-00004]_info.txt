@@ -1,0 +1,112 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: F1 Grand Prix   
+Title ID: UCES-00004 
+Region: Europe  
+Languages: En,Fr,De,Es,It  
+Volume Creation Date: 2005-11-02 13:57:04 
+Volume Size: 605 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: F1
+Volume set id: F1
+Publisher id: SCEE
+Data preparer id: TRAVELLERS TALES
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 309872
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Nov  2 2005 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov  2 2005 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov  2 2005 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Nov  2 2005 [     30 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Nov  2 2005 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov  2 2005 [     22 02] .. 
+-r-xr-xr-x   1    0    0      11869 Jun 26 2005 [  21728 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        472 Sep 13 2005 [  21744 00] PARAM.SFO 
+dr-xr-xr-x   1    0    0       2048 Nov  2 2005 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Nov  2 2005 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Nov  2 2005 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov  2 2005 [     23 02] .. 
+-r-xr-xr-x   1    0    0    2447117 Nov  2 2005 [  21760 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    2447456 Nov  2 2005 [     32 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Nov  2 2005 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Nov  2 2005 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov  2 2005 [     23 02] .. 
+-r-xr-xr-x   1    0    0  523450880 Oct  4 2005 [  23200 00] f1_psp.dat 
+dr-xr-xr-x   1    0    0       2048 Nov  2 2005 [     27 02] movie 
+dr-xr-xr-x   1    0    0       2048 Nov  2 2005 [     28 02] music 
+dr-xr-xr-x   1    0    0       2048 Nov  2 2005 [     29 02] psp152 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Nov  2 2005 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov  2 2005 [     24 02] .. 
+-r-xr-xr-x   1    0    0   13182464 Nov  2 2005 [   5344 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    3536480 Nov  2 2005 [   1248 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       1772 Nov  2 2005 [   1232 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/movie/
+dr-xr-xr-x   1    0    0       2048 Nov  2 2005 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov  2 2005 [     25 02] .. 
+-r-xr-xr-x   1    0    0   17270784 Sep  6 2005 [ 282976 00] f1_credits.pmf 
+-r-xr-xr-x   1    0    0    8531968 Sep  6 2005 [ 278800 00] intro.pmf 
+-r-xr-xr-x   1    0    0    1290240 Sep  6 2005 [ 291424 00] ttlogo.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/music/
+dr-xr-xr-x   1    0    0       2048 Nov  2 2005 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov  2 2005 [     25 02] .. 
+-r-xr-xr-x   1    0    0    2310216 Jun 15 2005 [ 308736 00] funk.at3 
+-r-xr-xr-x   1    0    0    7196808 Jun 29 2005 [ 302768 00] lucky.at3 
+-r-xr-xr-x   1    0    0    5009448 Jun 29 2005 [ 306288 00] qotsa.at3 
+-r-xr-xr-x   1    0    0   10978560 Jun 29 2005 [ 292064 00] quick.at3 
+-r-xr-xr-x   1    0    0    4102512 Jun 29 2005 [ 297440 00] secret.at3 
+-r-xr-xr-x   1    0    0    3670248 Jun 29 2005 [ 299456 00] stereoph.at3 
+-r-xr-xr-x   1    0    0    3071328 Jun 29 2005 [ 301264 00] suffrag.at3 
+
+Directory listing of /PSP_GAME/USRDIR/psp152/
+dr-xr-xr-x   1    0    0       2048 Nov  2 2005 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov  2 2005 [     25 02] .. 
+-r-xr-xr-x   1    0    0       3200 Jun 13 2005 [  22960 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0      10816 Jun 13 2005 [  23008 00] ifhandle.prx 
+-r-xr-xr-x   1    0    0      19940 Jun 13 2005 [  22976 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0      17216 Jun 13 2005 [  23024 00] memab.prx 
+-r-xr-xr-x   1    0    0      43068 Jun 13 2005 [  23168 00] mpeg.prx 
+-r-xr-xr-x   1    0    0       5808 Jun 13 2005 [  23152 00] mpegbase.prx 
+-r-xr-xr-x   1    0    0      60360 Jun 13 2005 [  23056 00] pspnet.prx 
+-r-xr-xr-x   1    0    0      42492 Jun 13 2005 [  23088 00] pspnet_adhoc.prx 
+-r-xr-xr-x   1    0    0      11360 Jun 13 2005 [  23040 00] pspnet_adhoc_auth.prx 
+-r-xr-xr-x   1    0    0      31996 Jun 13 2005 [  23120 00] pspnet_adhocctl.prx 
+-r-xr-xr-x   1    0    0       5904 Jun 13 2005 [  22992 00] sc_sascore.prx 
+-r-xr-xr-x   1    0    0       3808 Jun 13 2005 [  23136 00] videocodec.prx 
+=============================================================== 
+Generated on Tue 09/08/2022 at  5:37:19.12 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

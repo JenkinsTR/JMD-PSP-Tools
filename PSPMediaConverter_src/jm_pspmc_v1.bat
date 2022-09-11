@@ -185,7 +185,7 @@ ECHO(>%DBGMAC%
 REM Main program directories
 SET "JMTOOLS=%PFILESX86%\Jenkins Media\JM Tools"
 SET "DBTOOLS=%JMTOOLS%\3rdparty"
-SET "JMDEV=K:\GitHub\JM-Tools\app_src\PSPMediaConverter_src"
+SET "JMDEV=K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src"
 
 REM Most common redists
 SET "IM_MASTER=%JMDEV%\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64"
@@ -397,6 +397,9 @@ REM = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
 
 SET "OUTEXT=MP4"
 
+REM SKIP file picker
+REM GOTO PSPMC_VIDEO_MULTIFILES
+
 REM ------ FILES ------
 REM CALL our supported files SETs
 CALL :SUPPORTEDFILES_VIDEOS
@@ -485,6 +488,7 @@ CALL :RESET_COUNTS_PERCS
 SET /A NUMFILES=0
 
 FOR /F "usebackq tokens=* delims=" %%G IN ("%temp%\userselectedfiles.tmp") DO (
+REM FOR /F "usebackq tokens=* delims=" %%G IN ("K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\input\list.txt") DO (
 
 	REM CALL Our duration start subroutine
 	CALL :DURATION_START
@@ -572,6 +576,7 @@ FOR /F "usebackq tokens=* delims=" %%G IN ("%temp%\userselectedfiles.tmp") DO (
 	IF "!VFRATE2!"=="29.970" SET VFRATE=29.97
 	IF "!VFRATE2!"=="25.000" SET VFRATE=25
 	IF "!VFRATE2!"=="24.000" SET VFRATE=24
+	IF "!VFRATE2!"=="23.976" SET VFRATE=23.98
 	IF "!VFRATE2!"=="20.000" SET VFRATE=20
 	IF "!VFRATE2!"=="15.000" SET VFRATE=15
 	IF "!VFRATE2!"=="12.000" SET VFRATE=12
@@ -596,7 +601,10 @@ FOR /F "usebackq tokens=* delims=" %%G IN ("%temp%\userselectedfiles.tmp") DO (
 	)
 
 	SET FFOPTS1=-flags +bitexact -vcodec libx264 -profile:v baseline -level 3.0 -s 480x272
-	SET FFOPTS2=-b:v 256k -acodec aac -b:a 64k -ar 44100 -f psp -strict -2
+	REM Reduced to 160kbps video bitrate
+	REM SET FFOPTS2=-b:v 160K -acodec aac -b:a 64K -ar 44100 -f psp -strict -2
+	SET FFOPTS2=-b:v 256K -acodec aac -b:a 64K -ar 44100 -f psp -strict -2
+	REM SET FFOPTS2=-acodec aac -b:a 64K -ar 44100 -f psp -strict -2
 
 	::CFR
 	IF NOT "!VFR!"=="TRUE" "%FFMPEG%" -y -i "!FILE!" !FFOPTS1! -r !VFRATE! !FFOPTS2! "%CHOSENDIROUT%\PSP\VIDEO\!FILEN!_JMPSPMC.%OUTEXT%"

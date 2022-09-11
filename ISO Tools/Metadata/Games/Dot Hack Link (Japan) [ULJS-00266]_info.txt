@@ -1,0 +1,105 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Dot Hack Link  
+Title ID: ULJS-00266 
+Region: Japan  
+Languages:   
+Volume Creation Date: 2010-01-19 19:23:51 
+Volume Size: 1015 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: 
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 520080
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Jan 19 2010 [     29 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     22 02] .. 
+-r-xr-xr-x   1    0    0       6435 Sep 24 2009 [  79648 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        560 Jan 15 2010 [  79664 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     175663 Nov  5 2009 [  79680 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0     504008 Oct 13 2009 [  79776 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     23 02] .. 
+-r-xr-xr-x   1    0    0    6217020 Jan 19 2010 [  56336 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    6217360 Jan 19 2010 [    544 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0        752 Jan 19 2010 [     32 00] OPNSSMP.BIN 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     23 02] .. 
+-r-xr-xr-x   1    0    0       6435 Sep 24 2009 [  59376 00] ICON0.PNG 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     27 02] MODULES 
+-r-xr-xr-x   1    0    0     175663 Nov  5 2009 [  79552 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0  901200936 Jan 15 2010 [  80032 00] data.cpk 
+-r-xr-xr-x   1    0    0       8320 Dec 17 2009 [  59392 00] loaddata.cpk 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     28 02] movie 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     24 02] .. 
+-r-xr-xr-x   1    0    0   23372384 Jan 19 2010 [   7696 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5545568 Jan 19 2010 [   3600 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Jan 19 2010 [   3584 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/MODULES/
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     25 02] .. 
+-r-xr-xr-x   1    0    0      24224 May 18 2009 [  59408 00] libfont.prx 
+-r-xr-xr-x   1    0    0      19408 Dec 15 2009 [  59424 00] libsuppreacc.prx 
+
+Directory listing of /PSP_GAME/USRDIR/movie/
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     25 02] .. 
+-r-xr-xr-x   1    0    0    2707456 Jan 15 2009 [  59456 00] MV00.pmf 
+-r-xr-xr-x   1    0    0    1226752 Jan 15 2009 [  60784 00] MV01.pmf 
+-r-xr-xr-x   1    0    0     866304 Oct 27 2009 [  61392 00] MV02.pmf 
+-r-xr-xr-x   1    0    0    1267712 Oct 27 2009 [  61824 00] MV03.pmf 
+-r-xr-xr-x   1    0    0    1961984 Oct 27 2009 [  62448 00] MV04.pmf 
+-r-xr-xr-x   1    0    0    2605056 Oct 27 2009 [  63408 00] MV05.pmf 
+-r-xr-xr-x   1    0    0    1804288 Oct 27 2009 [  64688 00] MV06.pmf 
+-r-xr-xr-x   1    0    0    1009664 Oct  6 2009 [  65584 00] MV07.pmf 
+-r-xr-xr-x   1    0    0    5830656 Oct  6 2009 [  66080 00] MV08.pmf 
+-r-xr-xr-x   1    0    0    7000064 Oct 27 2009 [  68928 00] MV09.pmf 
+-r-xr-xr-x   1    0    0       6144 Dec 16 2009 [  59440 00] logo_b.pmf 
+-r-xr-xr-x   1    0    0   14714880 Dec  4 2009 [  72352 00] opening.pmf 
+=============================================================== 
+Generated on Sat 20/08/2022 at  2:13:57.57 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

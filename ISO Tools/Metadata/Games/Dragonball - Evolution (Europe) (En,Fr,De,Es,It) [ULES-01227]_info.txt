@@ -1,0 +1,101 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Dragonball - Evolution   
+Title ID: ULES-01227 
+Region: Europe  
+Languages: En,Fr,De,Es,It  
+Volume Creation Date: 2009-02-16 12:11:39 
+Volume Size: 409 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: 
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 209648
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Feb 16 2009 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 16 2009 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 16 2009 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Feb 16 2009 [     28 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Feb 16 2009 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 16 2009 [     22 02] .. 
+-r-xr-xr-x   1    0    0       6301 Dec  4 2008 [  54800 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        472 Feb 12 2009 [  54544 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      71080 Jan  9 2009 [  54560 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0      81760 Dec  4 2008 [  54608 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0     269380 Dec  5 2008 [  54656 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 Feb 16 2009 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Feb 16 2009 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Feb 16 2009 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 16 2009 [     23 02] .. 
+-r-xr-xr-x   1    0    0    2542717 Feb 16 2009 [  54816 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    2543056 Feb 16 2009 [     32 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Feb 16 2009 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Feb 16 2009 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 16 2009 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 16 2009 [     27 02] MODULE 
+-r-xr-xr-x   1    0    0   85803008 Feb 16 2009 [ 166224 00] data_btl_cmn.afs 
+-r-xr-xr-x   1    0    0    1509376 Feb 16 2009 [ 208128 00] data_btl_fr.afs 
+-r-xr-xr-x   1    0    0    1509376 Feb 16 2009 [ 208880 00] data_btl_ge.afs 
+-r-xr-xr-x   1    0    0    1509376 Feb 16 2009 [  56064 00] data_btl_it.afs 
+-r-xr-xr-x   1    0    0    1509376 Feb 16 2009 [  56816 00] data_btl_sp.afs 
+-r-xr-xr-x   1    0    0    1509376 Feb 16 2009 [  57568 00] data_btl_uk.afs 
+-r-xr-xr-x   1    0    0    7614464 Feb 16 2009 [  58320 00] data_btl_voice.afs 
+-r-xr-xr-x   1    0    0  178169856 Feb 16 2009 [  62048 00] data_sys_cmn.afs 
+-r-xr-xr-x   1    0    0    7000064 Feb 16 2009 [ 149056 00] data_sys_fr.afs 
+-r-xr-xr-x   1    0    0    6981632 Feb 16 2009 [ 152480 00] data_sys_ge.afs 
+-r-xr-xr-x   1    0    0    6959104 Feb 16 2009 [ 155904 00] data_sys_it.afs 
+-r-xr-xr-x   1    0    0    6952960 Feb 16 2009 [ 159312 00] data_sys_sp.afs 
+-r-xr-xr-x   1    0    0    7000064 Feb 16 2009 [ 162720 00] data_sys_uk.afs 
+-r-xr-xr-x   1    0    0         90 Oct 20 2008 [ 166144 00] fcache_fr.lst 
+-r-xr-xr-x   1    0    0         90 Oct 20 2008 [ 166160 00] fcache_ge.lst 
+-r-xr-xr-x   1    0    0         90 Oct 20 2008 [ 166176 00] fcache_it.lst 
+-r-xr-xr-x   1    0    0         90 Oct 20 2008 [ 166192 00] fcache_sp.lst 
+-r-xr-xr-x   1    0    0         90 Oct 20 2008 [ 166208 00] fcache_uk.lst 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Feb 16 2009 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 16 2009 [     24 02] .. 
+-r-xr-xr-x   1    0    0   21602544 Feb 16 2009 [   5392 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5476608 Feb 16 2009 [   1296 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Feb 16 2009 [   1280 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/MODULE/
+dr-xr-xr-x   1    0    0       2048 Feb 16 2009 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 16 2009 [     25 02] .. 
+-r-xr-xr-x   1    0    0      20736 Nov  6 2008 [ 209632 00] libfont.prx 
+=============================================================== 
+Generated on Tue 09/08/2022 at  5:37:14.61 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

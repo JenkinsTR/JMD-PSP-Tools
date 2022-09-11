@@ -1,0 +1,108 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Astonishia Story   
+Title ID: ULES-00363 
+Region: Europe  
+Languages:   
+Volume Creation Date: 2006-05-03 15:16:52 
+Volume Size: 110 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: ULES00363
+Volume set id: 1
+Publisher id: SONNORI
+Data preparer id: PARK CHAN KYU
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 56416
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 May  3 2006 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 May  3 2006 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jan  6 2006 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Jan  6 2006 [     31 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Jan  6 2006 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 May  3 2006 [     22 02] .. 
+-r-xr-xr-x   1    0    0      24498 Mar 21 2005 [  56000 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        472 May  3 2006 [  56016 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      49164 Mar 21 2005 [  56032 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0     196786 Mar 21 2005 [  55744 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0     289308 Mar 21 2005 [  55856 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 Jan  6 2006 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 May  1 2006 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Jan  6 2006 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  6 2006 [     23 02] .. 
+-r-xr-xr-x   1    0    0     710761 May  3 2006 [  56064 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0     711104 May  3 2006 [     32 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Jan  6 2006 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 May  1 2006 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  6 2006 [     23 02] .. 
+-r-xr-xr-x   1    0    0   49099499 Apr 22 2006 [  20880 00] asto.dat 
+dr-xr-xr-x   1    0    0       2048 May  1 2006 [     27 02] data 
+dr-xr-xr-x   1    0    0       2048 May  1 2006 [     28 02] modules 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Jan  6 2006 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  6 2006 [     24 02] .. 
+-r-xr-xr-x   1    0    0   14809632 Jan  6 2006 [   4496 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    3951712 Jan  6 2006 [    400 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       1772 Jan  6 2006 [    384 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/data/
+dr-xr-xr-x   1    0    0       2048 May  1 2006 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 May  1 2006 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 May  1 2006 [     29 02] font 
+dr-xr-xr-x   1    0    0       2048 May  1 2006 [     30 02] movie_psp 
+
+Directory listing of /PSP_GAME/USRDIR/modules/
+dr-xr-xr-x   1    0    0       2048 May  1 2006 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 May  1 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0       3264 Mar 21 2005 [  55648 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0      10128 Mar 21 2005 [  55664 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0      20976 Mar 21 2005 [  55680 00] mpeg.prx 
+-r-xr-xr-x   1    0    0       5136 Mar 21 2005 [  55696 00] mpegbase.prx 
+-r-xr-xr-x   1    0    0       6864 Mar 21 2005 [  55712 00] sc_sascore.prx 
+-r-xr-xr-x   1    0    0       3440 Mar 21 2005 [  55728 00] videocodec.prx 
+
+Directory listing of /PSP_GAME/USRDIR/data/font/
+dr-xr-xr-x   1    0    0       2048 May  1 2006 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 May  1 2006 [     27 02] .. 
+-r-xr-xr-x   1    0    0      98704 Apr 22 2006 [  44864 00] kor0.fnt 
+-r-xr-xr-x   1    0    0     109704 Apr 19 2005 [  44928 00] kor1.fnt 
+
+Directory listing of /PSP_GAME/USRDIR/data/movie_psp/
+dr-xr-xr-x   1    0    0       2048 May  1 2006 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 May  1 2006 [     27 02] .. 
+-r-xr-xr-x   1    0    0   11094016 Mar 21 2005 [  44992 00] opening.pmf 
+-r-xr-xr-x   1    0    0   10711040 Mar 21 2005 [  50416 00] staffroll.pmf 
+=============================================================== 
+Generated on Tue 09/08/2022 at  5:36:58.67 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

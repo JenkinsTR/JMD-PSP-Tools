@@ -1,0 +1,102 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Gladiator Begins   
+Title ID: ULES-01515 
+Region: Europe  
+Languages:   
+Volume Creation Date: 2011-02-04 15:33:48 
+Volume Size: 452 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: 
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 231792
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Feb  4 2011 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb  4 2011 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov 12 2010 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Nov 12 2010 [     29 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Nov 12 2010 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb  4 2011 [     22 02] .. 
+-r-xr-xr-x   1    0    0      28131 Feb  4 2011 [  54528 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        560 Feb  4 2011 [  54640 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     192428 Feb  4 2011 [  54544 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Nov 12 2010 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Feb  4 2011 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Nov 12 2010 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 12 2010 [     23 02] .. 
+-r-xr-xr-x   1    0    0    2512652 Feb  4 2011 [ 230560 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    2512992 Feb  4 2011 [    544 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0        880 Nov 12 2010 [     32 00] OPNSSMP.BIN 
+dr-xr-xr-x   1    0    0       2048 Nov 12 2010 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Feb  4 2011 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 12 2010 [     23 02] .. 
+-r-xr-xr-x   1    0    0  266456208 Feb  4 2011 [  54656 00] data.cpk 
+dr-xr-xr-x   1    0    0       2048 Feb  4 2011 [     27 02] module 
+dr-xr-xr-x   1    0    0       2048 Feb  4 2011 [     28 02] movie 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Nov 12 2010 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 12 2010 [     24 02] .. 
+-r-xr-xr-x   1    0    0   26091840 Nov 12 2010 [   5888 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5540576 Nov 12 2010 [   1792 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Nov 12 2010 [   1776 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/module/
+dr-xr-xr-x   1    0    0       2048 Feb  4 2011 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb  4 2011 [     25 02] .. 
+-r-xr-xr-x   1    0    0      20688 Feb  4 2011 [ 184768 00] libfont.prx 
+-r-xr-xr-x   1    0    0      26192 Feb  4 2011 [ 184784 00] libpsmfplayer.prx 
+-r-xr-xr-x   1    0    0       6832 Feb  4 2011 [ 184800 00] psmf.prx 
+
+Directory listing of /PSP_GAME/USRDIR/movie/
+dr-xr-xr-x   1    0    0       2048 Feb  4 2011 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb  4 2011 [     25 02] .. 
+-r-xr-xr-x   1    0    0   11038720 Jun  8 2010 [ 190560 00] ED_AQUILIA.pmf 
+-r-xr-xr-x   1    0    0   10975232 Apr 21 2010 [ 195952 00] ED_BROSIUS.pmf 
+-r-xr-xr-x   1    0    0   11063296 Apr 21 2010 [ 201312 00] ED_ELISAVETA.pmf 
+-r-xr-xr-x   1    0    0   11053056 Jun  8 2010 [ 206720 00] ED_EMPEROR.pmf 
+-r-xr-xr-x   1    0    0   10956800 Apr 21 2010 [ 212128 00] ED_LIBERATED.pmf 
+-r-xr-xr-x   1    0    0   10934272 Jun 11 2010 [ 217488 00] ED_POMPONIUS.pmf 
+-r-xr-xr-x   1    0    0    3112960 Apr 21 2010 [ 222832 00] ED_TIMEOVER.pmf 
+-r-xr-xr-x   1    0    0   11741184 Nov 17 2010 [ 184816 00] credit.pmf 
+-r-xr-xr-x   1    0    0   11851776 Jun  8 2010 [ 224352 00] gpsp_op.pmf 
+-r-xr-xr-x   1    0    0     458752 Nov 16 2010 [ 230144 00] logo_aq.pmf 
+-r-xr-xr-x   1    0    0     206848 Oct 17 2009 [ 230368 00] logo_cri.pmf 
+-r-xr-xr-x   1    0    0     153600 Sep 28 2009 [ 230480 00] logo_gs.pmf 
+=============================================================== 
+Generated on Tue 09/08/2022 at  5:37:27.01 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

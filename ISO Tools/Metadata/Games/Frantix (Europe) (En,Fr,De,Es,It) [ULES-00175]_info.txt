@@ -1,0 +1,639 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Frantix   
+Title ID: ULES-00175 
+Region: Europe  
+Languages: En,Fr,De,Es,It  
+Volume Creation Date: 2005-10-17 16:30:00 
+Volume Size: 384 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: 
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 197088
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Oct 17 2005 [     52 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     22 02] .. 
+-r-xr-xr-x   1    0    0      16177 May  5 2005 [  24832 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0      86016 Jun 21 2005 [  24848 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 Oct 14 2005 [  24816 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      29651 Sep  8 2005 [  24896 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0      83729 May  5 2005 [  24912 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0     353980 Jul  8 2005 [  24960 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     23 02] .. 
+-r-xr-xr-x   1    0    0    4351713 Oct 14 2005 [  22688 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    4352064 Oct 17 2005 [     64 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     27 02] Art 
+-r-xr-xr-x   1    0    0     169416 Aug 11 2005 [  25328 00] FeAdb.adb 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     28 02] Modules 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     29 02] Sound 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     30 02] Themes 
+-r-xr-xr-x   1    0    0     174150 Oct 17 2005 [  25232 00] strings.db 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     24 02] .. 
+-r-xr-xr-x   1    0    0   13182464 Oct 17 2005 [   6304 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    3536480 Oct 17 2005 [   2208 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       1772 Oct 17 2005 [   2192 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/Art/
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     31 02] Movies 
+
+Directory listing of /PSP_GAME/USRDIR/Modules/
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     25 02] .. 
+-r-xr-xr-x   1    0    0       3200 Jun 13 2005 [  25168 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0      43068 Jun 13 2005 [  25200 00] mpeg.prx 
+-r-xr-xr-x   1    0    0       5808 Jun 13 2005 [  25184 00] mpegbase.prx 
+-r-xr-xr-x   1    0    0       5904 Jun 13 2005 [  25136 00] sc_sascore.prx 
+-r-xr-xr-x   1    0    0       3808 Jun 13 2005 [  25152 00] videocodec.prx 
+
+Directory listing of /PSP_GAME/USRDIR/Sound/
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     32 02] CC 
+dr-xr-xr-x   1    0    0       4096 Oct 17 2005 [     33 02] Egypt 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     35 02] FE 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     36 02] Ruins2 
+dr-xr-xr-x   1    0    0       4096 Oct 17 2005 [     37 02] Ruins 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     39 02] Summit 
+dr-xr-xr-x   1    0    0       4096 Oct 17 2005 [     40 02] Zen 
+
+Directory listing of /PSP_GAME/USRDIR/Themes/
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     42 02] CC 
+dr-xr-xr-x   1    0    0       4096 Oct 17 2005 [     43 02] Egypt 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     45 02] FE 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     46 02] Ruins2 
+dr-xr-xr-x   1    0    0       4096 Oct 17 2005 [     47 02] Ruins 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     49 02] Summit 
+dr-xr-xr-x   1    0    0       4096 Oct 17 2005 [     50 02] Zen 
+
+Directory listing of /PSP_GAME/USRDIR/Art/Movies/
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     31 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     27 02] .. 
+-r-xr-xr-x   1    0    0   47822848 Jul 20 2005 [  30352 00] chub.pmf 
+-r-xr-xr-x   1    0    0    6123520 Jun 24 2005 [  27360 00] credits.pmf 
+-r-xr-xr-x   1    0    0     643072 Sep  8 2005 [  25808 00] kg.pmf 
+-r-xr-xr-x   1    0    0     413696 Sep  9 2005 [  26320 00] legal_en.pmf 
+-r-xr-xr-x   1    0    0     423936 Sep  9 2005 [  27152 00] legal_fr.pmf 
+-r-xr-xr-x   1    0    0     421888 Sep  9 2005 [  26944 00] legal_ge.pmf 
+-r-xr-xr-x   1    0    0     413696 Sep  9 2005 [  26736 00] legal_it.pmf 
+-r-xr-xr-x   1    0    0     419840 Sep  9 2005 [  26528 00] legal_sp.pmf 
+-r-xr-xr-x   1    0    0     757760 Jun 24 2005 [  25424 00] soe.pmf 
+-r-xr-xr-x   1    0    0     370688 Sep  8 2005 [  26128 00] ubi.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/Sound/CC/
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     32 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     29 02] .. 
+-r-xr-xr-x   1    0    0    1120128 Jun 30 2005 [ 186080 00] chubb_acm01.swag 
+-r-xr-xr-x   1    0    0     824960 Jun 30 2005 [ 186672 00] chubb_acm02.swag 
+-r-xr-xr-x   1    0    0     806528 Jun 30 2005 [ 187120 00] chubb_acm03.swag 
+-r-xr-xr-x   1    0    0     814336 Jun 30 2005 [ 187552 00] chubb_acm04.swag 
+-r-xr-xr-x   1    0    0     824960 Jun 30 2005 [ 187984 00] chubb_acm05.swag 
+-r-xr-xr-x   1    0    0    1116800 Jun 30 2005 [ 188432 00] chubb_acm06.swag 
+-r-xr-xr-x   1    0    0     806528 Jun 30 2005 [ 189024 00] chubb_acm07.swag 
+-r-xr-xr-x   1    0    0     806528 Jun 30 2005 [ 189440 00] chubb_acm08.swag 
+-r-xr-xr-x   1    0    0     814336 Jun 30 2005 [ 189872 00] chubb_acm09.swag 
+-r-xr-xr-x   1    0    0    1120128 Jun 30 2005 [ 190304 00] chubb_acm10.swag 
+-r-xr-xr-x   1    0    0    1059712 Jun 30 2005 [ 190896 00] chubb_acm11.swag 
+-r-xr-xr-x   1    0    0     912640 Jun 30 2005 [ 191456 00] chubb_acm12.swag 
+-r-xr-xr-x   1    0    0    1059712 Jun 30 2005 [ 194560 00] chubbs10_da.swag 
+-r-xr-xr-x   1    0    0     912640 Jun 30 2005 [ 195120 00] chubbs11_da.swag 
+-r-xr-xr-x   1    0    0     806528 Jun 30 2005 [ 195600 00] chubbs12_da.swag 
+-r-xr-xr-x   1    0    0    1033344 Jun 30 2005 [ 196032 00] chubbs13_da.swag 
+-r-xr-xr-x   1    0    0    1116800 Jun 30 2005 [ 184064 00] chubbs1_da.swag 
+-r-xr-xr-x   1    0    0     814336 Jun 30 2005 [ 184656 00] chubbs2_da.swag 
+-r-xr-xr-x   1    0    0    1033344 Jun 30 2005 [ 185088 00] chubbs3_da.swag 
+-r-xr-xr-x   1    0    0     824960 Jun 30 2005 [ 185632 00] chubbs4_da.swag 
+-r-xr-xr-x   1    0    0     912640 Jun 30 2005 [ 191936 00] chubbs5_da.swag 
+-r-xr-xr-x   1    0    0     814336 Jun 30 2005 [ 192416 00] chubbs6_da.swag 
+-r-xr-xr-x   1    0    0    1116800 Jun 30 2005 [ 192848 00] chubbs7_da.swag 
+-r-xr-xr-x   1    0    0    1033344 Jun 30 2005 [ 193424 00] chubbs8_da.swag 
+-r-xr-xr-x   1    0    0    1120128 Jun 30 2005 [ 193968 00] chubbs9_da.swag 
+
+Directory listing of /PSP_GAME/USRDIR/Sound/Egypt/
+dr-xr-xr-x   1    0    0       4096 Oct 17 2005 [     33 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     29 02] .. 
+-r-xr-xr-x   1    0    0    1018752 Jun 14 2005 [ 137568 00] egypt01acm.swag 
+-r-xr-xr-x   1    0    0     921728 Jun 14 2005 [ 138112 00] egypt02acm.swag 
+-r-xr-xr-x   1    0    0     930560 Jun 14 2005 [ 138608 00] egypt03acm.swag 
+-r-xr-xr-x   1    0    0    1001216 Jun 14 2005 [ 139104 00] egypt04acm.swag 
+-r-xr-xr-x   1    0    0    1075456 Jun 14 2005 [ 139632 00] egypt05acm.swag 
+-r-xr-xr-x   1    0    0    1099776 Jun 14 2005 [ 140208 00] egypt06acm.swag 
+-r-xr-xr-x   1    0    0     744576 Jun 14 2005 [ 140784 00] egypt07acm.swag 
+-r-xr-xr-x   1    0    0     444032 Jun 14 2005 [ 141200 00] egypt08acm.swag 
+-r-xr-xr-x   1    0    0     896128 Jun 14 2005 [ 141456 00] egypt09acm.swag 
+-r-xr-xr-x   1    0    0     921728 Jun 14 2005 [ 141936 00] egypt10acm.swag 
+-r-xr-xr-x   1    0    0     930688 Jun 14 2005 [ 142432 00] egypt11acm.swag 
+-r-xr-xr-x   1    0    0     887936 Jun 14 2005 [ 142928 00] egypt12acm.swag 
+-r-xr-xr-x   1    0    0    1120256 Jun 14 2005 [ 143440 00] egypt13acm.swag 
+-r-xr-xr-x   1    0    0     597504 Jun 14 2005 [ 144032 00] egypt14acm.swag 
+-r-xr-xr-x   1    0    0    1096320 Jun 14 2005 [ 144368 00] egypt15acm.swag 
+-r-xr-xr-x   1    0    0     916480 Jun 14 2005 [ 144944 00] egypt16acm.swag 
+-r-xr-xr-x   1    0    0    1075328 Jun 14 2005 [ 145424 00] egypt17acm.swag 
+-r-xr-xr-x   1    0    0     967808 Jun 14 2005 [ 145984 00] egypt18acm.swag 
+-r-xr-xr-x   1    0    0    1008128 Jun 14 2005 [ 146512 00] egypt19acm.swag 
+-r-xr-xr-x   1    0    0    1075328 Jun 14 2005 [ 147040 00] egypt20acm.swag 
+-r-xr-xr-x   1    0    0    1105024 Jun 14 2005 [ 147600 00] egypt21acm.swag 
+-r-xr-xr-x   1    0    0     780544 Jun 14 2005 [ 148176 00] egypt22acm.swag 
+-r-xr-xr-x   1    0    0     960128 Jun 14 2005 [ 149072 00] egypt_01_da.swag 
+-r-xr-xr-x   1    0    0    1120256 Jun 14 2005 [ 149584 00] egypt_02_da.swag 
+-r-xr-xr-x   1    0    0    1018752 Jun 14 2005 [ 150176 00] egypt_03_da.swag 
+-r-xr-xr-x   1    0    0     967808 Jun 14 2005 [ 150720 00] egypt_04_da.swag 
+-r-xr-xr-x   1    0    0    1036928 Jun 14 2005 [ 151232 00] egypt_05_da.swag 
+-r-xr-xr-x   1    0    0     509440 Jun 14 2005 [ 151760 00] egypt_06_da.swag 
+-r-xr-xr-x   1    0    0     541696 Jun 14 2005 [ 152048 00] egypt_07_da.swag 
+-r-xr-xr-x   1    0    0     672128 Jun 14 2005 [ 152352 00] egypt_08_da.swag 
+-r-xr-xr-x   1    0    0    1018752 Jun 14 2005 [ 152720 00] egypt_09_da.swag 
+-r-xr-xr-x   1    0    0     874624 Jun 14 2005 [ 153264 00] egypt_10_da.swag 
+-r-xr-xr-x   1    0    0     440064 Jun 14 2005 [ 153728 00] egypt_11_da.swag 
+-r-xr-xr-x   1    0    0    1075328 Jun 14 2005 [ 153984 00] egypt_12_da.swag 
+-r-xr-xr-x   1    0    0     967808 Jun 14 2005 [ 154544 00] egypt_13_da.swag 
+-r-xr-xr-x   1    0    0     921728 Jul 19 2005 [ 155056 00] egypt_14_da.swag 
+-r-xr-xr-x   1    0    0    1096320 Jun 14 2005 [ 155536 00] egypt_15_da.swag 
+-r-xr-xr-x   1    0    0    1105024 Jun 14 2005 [ 156112 00] egypt_16_da.swag 
+-r-xr-xr-x   1    0    0    1134208 Jun 14 2005 [ 156688 00] egypt_17_da.swag 
+-r-xr-xr-x   1    0    0    1052032 Jun 14 2005 [ 157280 00] egypt_18_da.swag 
+-r-xr-xr-x   1    0    0    1108992 Jun 14 2005 [ 157840 00] egypt_19_da.swag 
+-r-xr-xr-x   1    0    0    1075328 Jun 14 2005 [ 158400 00] egypt_20_da.swag 
+-r-xr-xr-x   1    0    0    1048448 Jun 14 2005 [ 158960 00] egypt_21_da.swag 
+-r-xr-xr-x   1    0    0     930688 Jun 14 2005 [ 159504 00] egypt_22_da.swag 
+-r-xr-xr-x   1    0    0    1008128 Jun 14 2005 [ 160000 00] egypt_23_da.swag 
+-r-xr-xr-x   1    0    0    1022336 Jun 14 2005 [ 160528 00] egypt_24_da.swag 
+-r-xr-xr-x   1    0    0    1096192 Jun 14 2005 [ 161072 00] egypt_25_da.swag 
+-r-xr-xr-x   1    0    0     780544 Jun 14 2005 [ 161648 00] egypt_26_da.swag 
+-r-xr-xr-x   1    0    0     806528 Jun 14 2005 [ 162064 00] egypt_27_da.swag 
+-r-xr-xr-x   1    0    0     916480 Jun 14 2005 [ 148592 00] egypttest.swag 
+
+Directory listing of /PSP_GAME/USRDIR/Sound/FE/
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     35 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     29 02] .. 
+-r-xr-xr-x   1    0    0    1108992 Jun 14 2005 [ 196544 00] fe.swag 
+
+Directory listing of /PSP_GAME/USRDIR/Sound/Ruins2/
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     36 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     29 02] .. 
+-r-xr-xr-x   1    0    0    1027072 Jun 14 2005 [  59168 00] allswitches.swag 
+-r-xr-xr-x   1    0    0     975616 Jun 14 2005 [  59712 00] appdisapp.swag 
+-r-xr-xr-x   1    0    0    1007232 Jun 14 2005 [  60224 00] bombintro.swag 
+-r-xr-xr-x   1    0    0     876672 Jun 14 2005 [  60752 00] catdragon180.swag 
+-r-xr-xr-x   1    0    0     876288 Jun 14 2005 [  61216 00] gemportals.swag 
+-r-xr-xr-x   1    0    0     806528 Jun 14 2005 [  61680 00] gemsexit.swag 
+-r-xr-xr-x   1    0    0    1129856 Jun 14 2005 [  62112 00] lava_block.swag 
+-r-xr-xr-x   1    0    0     883072 Jun 14 2005 [  62704 00] pickups.swag 
+-r-xr-xr-x   1    0    0    1033472 Jun 14 2005 [  63168 00] quicksandblocks.swag 
+-r-xr-xr-x   1    0    0     967808 Jun 14 2005 [  63712 00] simpledroplet.swag 
+-r-xr-xr-x   1    0    0     896128 Jun 14 2005 [  64224 00] simplefox.swag 
+-r-xr-xr-x   1    0    0    1008128 Jun 14 2005 [  64704 00] tollgates_gems.swag 
+-r-xr-xr-x   1    0    0    1010816 Jun 14 2005 [  65232 00] trailpass.swag 
+-r-xr-xr-x   1    0    0    1074944 Jun 14 2005 [  65760 00] traps.swag 
+-r-xr-xr-x   1    0    0     925184 Jun 14 2005 [  66320 00] watercrate.swag 
+
+Directory listing of /PSP_GAME/USRDIR/Sound/Ruins/
+dr-xr-xr-x   1    0    0       4096 Oct 17 2005 [     37 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     29 02] .. 
+-r-xr-xr-x   1    0    0    1010816 Jun 14 2005 [  72048 00] 3_level_house.swag 
+-r-xr-xr-x   1    0    0     744576 Jun 14 2005 [  72592 00] 4_room_house.swag 
+-r-xr-xr-x   1    0    0     876672 Jun 14 2005 [  72992 00] 4_room_house_II.swag 
+-r-xr-xr-x   1    0    0    1008128 Jun 14 2005 [  73472 00] 5_room_house.swag 
+-r-xr-xr-x   1    0    0     806784 Jun 14 2005 [  74000 00] 9_room_house.swag 
+-r-xr-xr-x   1    0    0    1134720 Jun 14 2005 [  82816 00] Easy_Quicksand.swag 
+-r-xr-xr-x   1    0    0    1099776 Jun 14 2005 [  93376 00] Quick_Sand.swag 
+-r-xr-xr-x   1    0    0    1093760 Jun 14 2005 [  74432 00] appear_base.swag 
+-r-xr-xr-x   1    0    0    1093760 Jun 14 2005 [  75008 00] base.swag 
+-r-xr-xr-x   1    0    0    1128960 Jun 14 2005 [  76160 00] bomb_and_missile.swag 
+-r-xr-xr-x   1    0    0    1100288 Jun 14 2005 [  76768 00] bomb_shelter.swag 
+-r-xr-xr-x   1    0    0    1093760 Jun 14 2005 [  75584 00] bombs_base.swag 
+-r-xr-xr-x   1    0    0    1093760 Jun 14 2005 [  77360 00] bridge.swag 
+-r-xr-xr-x   1    0    0     806784 Jun 14 2005 [  77936 00] bunny_crates.swag 
+-r-xr-xr-x   1    0    0     925184 Jun 14 2005 [  78368 00] bunny_quicksand.swag 
+-r-xr-xr-x   1    0    0     444032 Jun 14 2005 [  78864 00] cave.swag 
+-r-xr-xr-x   1    0    0    1007232 Jun 14 2005 [  79120 00] cave_II.swag 
+-r-xr-xr-x   1    0    0    1134720 Jun 15 2005 [  79648 00] crates_blocks.swag 
+-r-xr-xr-x   1    0    0    1134720 Jun 14 2005 [  80240 00] crossroad.swag 
+-r-xr-xr-x   1    0    0    1008128 Jun 14 2005 [  80832 00] doors.swag 
+-r-xr-xr-x   1    0    0     806784 Jun 14 2005 [  81360 00] doors_portal.swag 
+-r-xr-xr-x   1    0    0     960128 Jun 14 2005 [  81776 00] drone90.swag 
+-r-xr-xr-x   1    0    0    1001216 Jun 14 2005 [  82288 00] drone90_II.swag 
+-r-xr-xr-x   1    0    0    1121920 Jun 14 2005 [  83424 00] gauntlet.swag 
+-r-xr-xr-x   1    0    0    1008128 Jun 14 2005 [  84544 00] gem_crates.swag 
+-r-xr-xr-x   1    0    0    1007232 Jun 14 2005 [  84016 00] gems_water_blocks.swag 
+-r-xr-xr-x   1    0    0    1035904 Jun 14 2005 [  85056 00] generic.swag 
+-r-xr-xr-x   1    0    0     975616 Jun 14 2005 [  85600 00] generic_III.swag 
+-r-xr-xr-x   1    0    0     597504 Jun 14 2005 [  86112 00] haste_base.swag 
+-r-xr-xr-x   1    0    0    1108992 Jun 14 2005 [  86448 00] invincibility.swag 
+-r-xr-xr-x   1    0    0    1134720 Jun 14 2005 [  87584 00] lava_base.swag 
+-r-xr-xr-x   1    0    0    1022336 Jun 14 2005 [  88176 00] lava_quicksand_water.swag 
+-r-xr-xr-x   1    0    0    1064000 Jun 14 2005 [  87024 00] lavaliscious.swag 
+-r-xr-xr-x   1    0    0     916480 Jun 14 2005 [  89232 00] missile_II.swag 
+-r-xr-xr-x   1    0    0     959488 Jun 14 2005 [  88720 00] missiles.swag 
+-r-xr-xr-x   1    0    0     967808 Jun 14 2005 [  89712 00] passage.swag 
+-r-xr-xr-x   1    0    0     925184 Jun 14 2005 [  90224 00] passthruwalls.swag 
+-r-xr-xr-x   1    0    0    1033472 Jun 14 2005 [  90736 00] paths.swag 
+-r-xr-xr-x   1    0    0     896128 Jun 14 2005 [  91280 00] pixie_portal.swag 
+-r-xr-xr-x   1    0    0    1027072 Jun 14 2005 [  91760 00] plain.swag 
+-r-xr-xr-x   1    0    0     887936 Jun 14 2005 [  92304 00] portal_drones.swag 
+-r-xr-xr-x   1    0    0    1100288 Jun 14 2005 [  92800 00] quicksand_gems.swag 
+-r-xr-xr-x   1    0    0    1018752 Jun 14 2005 [  93952 00] strength_base.swag 
+-r-xr-xr-x   1    0    0    1008384 Jun 14 2005 [  94496 00] switch_water_pretty.swag 
+-r-xr-xr-x   1    0    0     876672 Jun 14 2005 [  95024 00] trap_base.swag 
+-r-xr-xr-x   1    0    0     959488 Jun 14 2005 [  95472 00] two_seekers.swag 
+-r-xr-xr-x   1    0    0     883072 Jun 14 2005 [  95984 00] unidrone_wallhugger.swag 
+-r-xr-xr-x   1    0    0    1035904 Jun 14 2005 [  96448 00] wallhugger_maze.swag 
+-r-xr-xr-x   1    0    0    1008256 Jun 14 2005 [  96992 00] walls.swag 
+-r-xr-xr-x   1    0    0    1075456 Jun 14 2005 [  97520 00] water_block.swag 
+-r-xr-xr-x   1    0    0     876288 Jun 14 2005 [  98672 00] water_block_II.swag 
+-r-xr-xr-x   1    0    0    1129856 Jun 14 2005 [  98080 00] water_block_base.swag 
+
+Directory listing of /PSP_GAME/USRDIR/Sound/Summit/
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     39 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     29 02] .. 
+-r-xr-xr-x   1    0    0    1010816 Jun 28 2005 [ 166976 00] sum_acm_01.swag 
+-r-xr-xr-x   1    0    0    1018752 Jun 28 2005 [ 167520 00] sum_acm_02.swag 
+-r-xr-xr-x   1    0    0    1008384 Jun 28 2005 [ 168064 00] sum_acm_03.swag 
+-r-xr-xr-x   1    0    0     967808 Jun 28 2005 [ 170768 00] sum_acm_04.swag 
+-r-xr-xr-x   1    0    0     930560 Jun 28 2005 [ 171280 00] sum_acm_05.swag 
+-r-xr-xr-x   1    0    0     597504 Jun 28 2005 [ 171792 00] sum_pvv_01.swag 
+-r-xr-xr-x   1    0    0     959488 Jun 28 2005 [ 172128 00] sum_pvv_02.swag 
+-r-xr-xr-x   1    0    0     921728 Jun 28 2005 [ 172640 00] sum_pvv_03.swag 
+-r-xr-xr-x   1    0    0    1008256 Jun 28 2005 [ 173136 00] sum_pvv_04.swag 
+-r-xr-xr-x   1    0    0     806784 Jun 28 2005 [ 173664 00] sum_pvv_05.swag 
+-r-xr-xr-x   1    0    0     916480 Jun 28 2005 [ 174096 00] sum_pvv_06.swag 
+-r-xr-xr-x   1    0    0    1129856 Jun 28 2005 [ 174576 00] sum_pvv_07.swag 
+-r-xr-xr-x   1    0    0     960128 Jun 28 2005 [ 175168 00] sum_pvv_08.swag 
+-r-xr-xr-x   1    0    0    1008256 Jun 28 2005 [ 175696 00] sum_pvv_09.swag 
+-r-xr-xr-x   1    0    0     975616 Jun 28 2005 [ 176240 00] sum_pvv_10.swag 
+-r-xr-xr-x   1    0    0    1075456 Jun 28 2005 [ 176752 00] sum_pvv_11.swag 
+-r-xr-xr-x   1    0    0    1052032 Jun 28 2005 [ 177312 00] sum_pvv_12.swag 
+-r-xr-xr-x   1    0    0    1075456 Jun 28 2005 [ 177888 00] sum_pvv_13.swag 
+-r-xr-xr-x   1    0    0    1036928 Jun 28 2005 [ 178448 00] sum_pvv_14.swag 
+-r-xr-xr-x   1    0    0     883072 Jun 28 2005 [ 178992 00] sum_pvv_15.swag 
+-r-xr-xr-x   1    0    0    1142400 Jun 28 2005 [ 179472 00] sum_pvv_16.swag 
+-r-xr-xr-x   1    0    0    1035904 Jun 28 2005 [ 168592 00] summit1_da.swag 
+-r-xr-xr-x   1    0    0     930688 Jun 28 2005 [ 169136 00] summit2_da.swag 
+-r-xr-xr-x   1    0    0    1027072 Jun 28 2005 [ 169632 00] summit3_da.swag 
+-r-xr-xr-x   1    0    0    1128960 Jun 28 2005 [ 170176 00] summit4_da.swag 
+
+Directory listing of /PSP_GAME/USRDIR/Sound/Zen/
+dr-xr-xr-x   1    0    0       4096 Oct 17 2005 [     40 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     29 02] .. 
+-r-xr-xr-x   1    0    0    1074944 Jun 14 2005 [ 104640 00] level01.swag 
+-r-xr-xr-x   1    0    0    1119872 Jun 14 2005 [ 105200 00] level01_da.swag 
+-r-xr-xr-x   1    0    0    1075456 Jun 14 2005 [ 106352 00] level02_da.swag 
+-r-xr-xr-x   1    0    0    1077888 Jun 14 2005 [ 105792 00] level02acm.swag 
+-r-xr-xr-x   1    0    0    1007744 Jun 14 2005 [ 107504 00] level03_da.swag 
+-r-xr-xr-x   1    0    0    1128960 Jun 14 2005 [ 106912 00] level03acm.swag 
+-r-xr-xr-x   1    0    0    1120256 Jun 14 2005 [ 108592 00] level04_da.swag 
+-r-xr-xr-x   1    0    0    1112064 Jun 14 2005 [ 108032 00] level04acm.swag 
+-r-xr-xr-x   1    0    0    1111680 Jun 14 2005 [ 109760 00] level05_da.swag 
+-r-xr-xr-x   1    0    0    1142400 Jun 14 2005 [ 109168 00] level05acm.swag 
+-r-xr-xr-x   1    0    0    1008384 Jun 14 2005 [ 110912 00] level06_da.swag 
+-r-xr-xr-x   1    0    0    1108864 Jun 14 2005 [ 110336 00] level06acm.swag 
+-r-xr-xr-x   1    0    0    1103872 Jun 14 2005 [ 111968 00] level07_da.swag 
+-r-xr-xr-x   1    0    0    1008128 Jun 14 2005 [ 111440 00] level07acm.swag 
+-r-xr-xr-x   1    0    0    1122432 Jun 14 2005 [ 113152 00] level08_da.swag 
+-r-xr-xr-x   1    0    0    1125376 Jun 14 2005 [ 112560 00] level08acm.swag 
+-r-xr-xr-x   1    0    0     998528 Jun 14 2005 [ 114272 00] level09_da.swag 
+-r-xr-xr-x   1    0    0     983168 Jun 14 2005 [ 113744 00] level09acm.swag 
+-r-xr-xr-x   1    0    0     957312 Jun 14 2005 [ 115392 00] level10_da.swag 
+-r-xr-xr-x   1    0    0    1133568 Jun 14 2005 [ 114800 00] level10acm.swag 
+-r-xr-xr-x   1    0    0    1109120 Jun 14 2005 [ 116400 00] level11_da.swag 
+-r-xr-xr-x   1    0    0     920320 Jun 14 2005 [ 115904 00] level11acm.swag 
+-r-xr-xr-x   1    0    0    1107968 Jun 14 2005 [ 117552 00] level12_da.swag 
+-r-xr-xr-x   1    0    0    1108992 Jun 14 2005 [ 116976 00] level12acm.swag 
+-r-xr-xr-x   1    0    0    1016448 Jun 14 2005 [ 118672 00] level13_da.swag 
+-r-xr-xr-x   1    0    0    1016448 Jun 14 2005 [ 118128 00] level13acm.swag 
+-r-xr-xr-x   1    0    0    1008768 Jun 14 2005 [ 119776 00] level14_da.swag 
+-r-xr-xr-x   1    0    0    1048832 Jun 14 2005 [ 119216 00] level14acm.swag 
+-r-xr-xr-x   1    0    0    1075200 Jun 14 2005 [ 120864 00] level15_da.swag 
+-r-xr-xr-x   1    0    0    1075200 Jun 14 2005 [ 120304 00] level15acm.swag 
+-r-xr-xr-x   1    0    0    1008256 Jun 14 2005 [ 122016 00] level16_da.swag 
+-r-xr-xr-x   1    0    0    1123712 Jun 14 2005 [ 121424 00] level16acm.swag 
+-r-xr-xr-x   1    0    0    1116288 Jun 14 2005 [ 122992 00] level17_da.swag 
+-r-xr-xr-x   1    0    0     806528 Jun 14 2005 [ 122560 00] level17acm.swag 
+-r-xr-xr-x   1    0    0    1108736 Jun 14 2005 [ 124144 00] level18_da.swag 
+-r-xr-xr-x   1    0    0    1075200 Jun 14 2005 [ 123584 00] level18acm.swag 
+-r-xr-xr-x   1    0    0    1009024 Jun 14 2005 [ 125312 00] level19_da.swag 
+-r-xr-xr-x   1    0    0    1121920 Jun 14 2005 [ 124720 00] level19acm.swag 
+-r-xr-xr-x   1    0    0    1108992 Jun 14 2005 [ 125840 00] level20_da.swag 
+-r-xr-xr-x   1    0    0    1008640 Jun 14 2005 [ 126416 00] level21_da.swag 
+-r-xr-xr-x   1    0    0    1101952 Jun 14 2005 [ 126944 00] level22_da.swag 
+-r-xr-xr-x   1    0    0    1058688 Jun 14 2005 [ 127520 00] level23_da.swag 
+-r-xr-xr-x   1    0    0    1008384 Jun 14 2005 [ 128080 00] level24_da.swag 
+-r-xr-xr-x   1    0    0    1058048 Jun 14 2005 [ 128608 00] level25_da.swag 
+-r-xr-xr-x   1    0    0    1108992 Jun 14 2005 [ 129168 00] level26_da.swag 
+-r-xr-xr-x   1    0    0     951808 Jun 14 2005 [ 129744 00] level27_da.swag 
+-r-xr-xr-x   1    0    0    1058688 Jun 14 2005 [ 130256 00] level28_da.swag 
+-r-xr-xr-x   1    0    0    1008640 Jun 14 2005 [ 130816 00] level29_da.swag 
+-r-xr-xr-x   1    0    0    1083264 Jun 14 2005 [ 131344 00] level30_da.swag 
+-r-xr-xr-x   1    0    0    1008256 Jun 14 2005 [ 131920 00] level31_da.swag 
+
+Directory listing of /PSP_GAME/USRDIR/Themes/CC/
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     42 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     30 02] .. 
+-r-xr-xr-x   1    0    0    8021362 Jul 19 2005 [ 180032 00] CC.atlas_psp_gob 
+-r-xr-xr-x   1    0    0     145642 Jul 19 2005 [ 183952 00] CC.atlas_theme_txt 
+-r-xr-xr-x   1    0    0      35848 Jul 19 2005 [ 186048 00] chubb_acm01.atlas_lvl 
+-r-xr-xr-x   1    0    0      37416 Jul 19 2005 [ 186640 00] chubb_acm02.atlas_lvl 
+-r-xr-xr-x   1    0    0      35784 Jul 19 2005 [ 187088 00] chubb_acm03.atlas_lvl 
+-r-xr-xr-x   1    0    0      34840 Jul 19 2005 [ 187520 00] chubb_acm04.atlas_lvl 
+-r-xr-xr-x   1    0    0      40776 Jul 19 2005 [ 187952 00] chubb_acm05.atlas_lvl 
+-r-xr-xr-x   1    0    0      39752 Jul 19 2005 [ 188400 00] chubb_acm06.atlas_lvl 
+-r-xr-xr-x   1    0    0      38056 Jul 19 2005 [ 188992 00] chubb_acm07.atlas_lvl 
+-r-xr-xr-x   1    0    0      32696 Jul 19 2005 [ 189424 00] chubb_acm08.atlas_lvl 
+-r-xr-xr-x   1    0    0      33976 Jul 19 2005 [ 189840 00] chubb_acm09.atlas_lvl 
+-r-xr-xr-x   1    0    0      35464 Jul 19 2005 [ 190272 00] chubb_acm10.atlas_lvl 
+-r-xr-xr-x   1    0    0      34536 Jul 19 2005 [ 190864 00] chubb_acm11.atlas_lvl 
+-r-xr-xr-x   1    0    0      38680 Jul 19 2005 [ 191424 00] chubb_acm12.atlas_lvl 
+-r-xr-xr-x   1    0    0      43208 Jul 19 2005 [ 194528 00] chubbs10_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      33608 Jul 19 2005 [ 195088 00] chubbs11_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      34600 Jul 19 2005 [ 195568 00] chubbs12_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      41064 Jul 19 2005 [ 196000 00] chubbs13_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      40968 Jul 19 2005 [ 184032 00] chubbs1_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      34280 Jul 19 2005 [ 184624 00] chubbs2_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      41128 Jul 19 2005 [ 185056 00] chubbs3_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      40328 Jul 19 2005 [ 185600 00] chubbs4_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      36744 Jul 19 2005 [ 191904 00] chubbs5_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      39528 Jul 19 2005 [ 192384 00] chubbs6_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      36040 Jul 19 2005 [ 192816 00] chubbs7_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      30616 Jul 19 2005 [ 193408 00] chubbs8_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      38136 Jul 19 2005 [ 193936 00] chubbs9_da.atlas_lvl 
+
+Directory listing of /PSP_GAME/USRDIR/Themes/Egypt/
+dr-xr-xr-x   1    0    0       4096 Oct 17 2005 [     43 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     30 02] .. 
+-r-xr-xr-x   1    0    0   10280746 Jul 15 2005 [ 132416 00] Egypt.atlas_psp_gob 
+-r-xr-xr-x   1    0    0     155554 Jul 15 2005 [ 137440 00] Egypt.atlas_theme_txt 
+-r-xr-xr-x   1    0    0      73272 Jul 15 2005 [ 137520 00] egypt01acm.atlas_lvl 
+-r-xr-xr-x   1    0    0      33656 Jul 15 2005 [ 138080 00] egypt02acm.atlas_lvl 
+-r-xr-xr-x   1    0    0      56216 Jul 15 2005 [ 138576 00] egypt03acm.atlas_lvl 
+-r-xr-xr-x   1    0    0      57880 Jul 15 2005 [ 139072 00] egypt04acm.atlas_lvl 
+-r-xr-xr-x   1    0    0      54840 Jul 15 2005 [ 139600 00] egypt05acm.atlas_lvl 
+-r-xr-xr-x   1    0    0      81128 Jul 15 2005 [ 140160 00] egypt06acm.atlas_lvl 
+-r-xr-xr-x   1    0    0      45464 Jul 15 2005 [ 140752 00] egypt07acm.atlas_lvl 
+-r-xr-xr-x   1    0    0      69256 Jul 15 2005 [ 141152 00] egypt08acm.atlas_lvl 
+-r-xr-xr-x   1    0    0      41416 Jul 15 2005 [ 141424 00] egypt09acm.atlas_lvl 
+-r-xr-xr-x   1    0    0      55576 Jul 15 2005 [ 141904 00] egypt10acm.atlas_lvl 
+-r-xr-xr-x   1    0    0      55208 Jul 15 2005 [ 142400 00] egypt11acm.atlas_lvl 
+-r-xr-xr-x   1    0    0      36184 Jul 15 2005 [ 142896 00] egypt12acm.atlas_lvl 
+-r-xr-xr-x   1    0    0     116376 Jul 15 2005 [ 143376 00] egypt13acm.atlas_lvl 
+-r-xr-xr-x   1    0    0      47992 Jul 15 2005 [ 144000 00] egypt14acm.atlas_lvl 
+-r-xr-xr-x   1    0    0      63336 Jul 15 2005 [ 144336 00] egypt15acm.atlas_lvl 
+-r-xr-xr-x   1    0    0      43496 Jul 15 2005 [ 144912 00] egypt16acm.atlas_lvl 
+-r-xr-xr-x   1    0    0      51400 Jul 15 2005 [ 145392 00] egypt17acm.atlas_lvl 
+-r-xr-xr-x   1    0    0      49304 Jul 15 2005 [ 145952 00] egypt18acm.atlas_lvl 
+-r-xr-xr-x   1    0    0      72600 Jul 15 2005 [ 146464 00] egypt19acm.atlas_lvl 
+-r-xr-xr-x   1    0    0      53544 Jul 15 2005 [ 147008 00] egypt20acm.atlas_lvl 
+-r-xr-xr-x   1    0    0      46456 Jul 15 2005 [ 147568 00] egypt21acm.atlas_lvl 
+-r-xr-xr-x   1    0    0      49960 Jul 15 2005 [ 148144 00] egypt22acm.atlas_lvl 
+-r-xr-xr-x   1    0    0      41064 Jul 15 2005 [ 149040 00] egypt_01_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      40664 Jul 15 2005 [ 149552 00] egypt_02_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      37496 Jul 15 2005 [ 150144 00] egypt_03_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      41496 Jul 15 2005 [ 150688 00] egypt_04_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      44152 Jul 15 2005 [ 151200 00] egypt_05_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      29368 Jul 15 2005 [ 151744 00] egypt_06_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      34472 Jul 15 2005 [ 152016 00] egypt_07_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      33512 Jul 15 2005 [ 152320 00] egypt_08_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      37640 Jul 15 2005 [ 152688 00] egypt_09_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      39048 Jul 15 2005 [ 153232 00] egypt_10_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      33384 Jul 15 2005 [ 153696 00] egypt_11_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      38888 Jul 15 2005 [ 153952 00] egypt_12_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      36872 Jul 15 2005 [ 154512 00] egypt_13_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      45064 Jul 15 2005 [ 155024 00] egypt_14_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      32392 Jul 15 2005 [ 155520 00] egypt_15_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      41336 Jul 15 2005 [ 156080 00] egypt_16_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      51640 Jul 15 2005 [ 156656 00] egypt_17_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      59672 Jul 15 2005 [ 157248 00] egypt_18_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      49928 Jul 15 2005 [ 157808 00] egypt_19_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      32424 Jul 15 2005 [ 158384 00] egypt_20_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      63512 Jul 15 2005 [ 158928 00] egypt_21_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      49720 Jul 15 2005 [ 159472 00] egypt_22_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      44568 Jul 15 2005 [ 159968 00] egypt_23_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      43384 Jul 15 2005 [ 160496 00] egypt_24_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      35912 Jul 15 2005 [ 161040 00] egypt_25_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      35240 Jul 15 2005 [ 161616 00] egypt_26_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      33256 Jul 15 2005 [ 162032 00] egypt_27_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      56024 Jul 15 2005 [ 148560 00] egypttest.atlas_lvl 
+
+Directory listing of /PSP_GAME/USRDIR/Themes/FE/
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     45 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     30 02] .. 
+-r-xr-xr-x   1    0    0    2074557 Jul 15 2005 [  53712 00] FE.atlas_psp_gob 
+-r-xr-xr-x   1    0    0       7189 Jul 15 2005 [  54736 00] FE.atlas_theme_txt 
+
+Directory listing of /PSP_GAME/USRDIR/Themes/Ruins2/
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     46 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     30 02] .. 
+-r-xr-xr-x   1    0    0    8808141 Jul 15 2005 [  54752 00] Ruins2.atlas_psp_gob 
+-r-xr-xr-x   1    0    0     143141 Jul 15 2005 [  59056 00] Ruins2.atlas_theme_txt 
+-r-xr-xr-x   1    0    0      47768 Jul 15 2005 [  59136 00] allswitches.atlas_lvl 
+-r-xr-xr-x   1    0    0      38024 Jul 15 2005 [  59680 00] appdisapp.atlas_lvl 
+-r-xr-xr-x   1    0    0      49496 Jul 15 2005 [  60192 00] bombintro.atlas_lvl 
+-r-xr-xr-x   1    0    0      44296 Jul 15 2005 [  60720 00] catdragon180.atlas_lvl 
+-r-xr-xr-x   1    0    0      52408 Jul 15 2005 [  61184 00] gemportals.atlas_lvl 
+-r-xr-xr-x   1    0    0      40008 Jul 15 2005 [  61648 00] gemsexit.atlas_lvl 
+-r-xr-xr-x   1    0    0      39208 Jul 15 2005 [  62080 00] lava_block.atlas_lvl 
+-r-xr-xr-x   1    0    0      45304 Jul 15 2005 [  62672 00] pickups.atlas_lvl 
+-r-xr-xr-x   1    0    0      43944 Jul 15 2005 [  63136 00] quicksandblocks.atlas_lvl 
+-r-xr-xr-x   1    0    0      43576 Jul 15 2005 [  63680 00] simpledroplet.atlas_lvl 
+-r-xr-xr-x   1    0    0      39416 Jul 15 2005 [  64192 00] simplefox.atlas_lvl 
+-r-xr-xr-x   1    0    0      37000 Jul 15 2005 [  64672 00] tollgates_gems.atlas_lvl 
+-r-xr-xr-x   1    0    0      37592 Jul 15 2005 [  65200 00] trailpass.atlas_lvl 
+-r-xr-xr-x   1    0    0      43928 Jul 15 2005 [  65728 00] traps.atlas_lvl 
+-r-xr-xr-x   1    0    0      46984 Jul 15 2005 [  66288 00] watercrate.atlas_lvl 
+
+Directory listing of /PSP_GAME/USRDIR/Themes/Ruins/
+dr-xr-xr-x   1    0    0       4096 Oct 17 2005 [     47 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     30 02] .. 
+-r-xr-xr-x   1    0    0      54632 Jul 15 2005 [  72016 00] 3_level_house.atlas_lvl 
+-r-xr-xr-x   1    0    0      84520 Jul 15 2005 [  72544 00] 4_room_house.atlas_lvl 
+-r-xr-xr-x   1    0    0      53448 Jul 15 2005 [  72960 00] 4_room_house_II.atlas_lvl 
+-r-xr-xr-x   1    0    0      73832 Jul 15 2005 [  73424 00] 5_room_house.atlas_lvl 
+-r-xr-xr-x   1    0    0      54792 Jul 15 2005 [  73968 00] 9_room_house.atlas_lvl 
+-r-xr-xr-x   1    0    0      37016 Jul 15 2005 [  82784 00] Easy_Quicksand.atlas_lvl 
+-r-xr-xr-x   1    0    0      56104 Jul 15 2005 [  93344 00] Quick_Sand.atlas_lvl 
+-r-xr-xr-x   1    0    0   10505509 Jul 15 2005 [  66784 00] Ruins.atlas_psp_gob 
+-r-xr-xr-x   1    0    0     173469 Jul 15 2005 [  71920 00] Ruins.atlas_theme_txt 
+-r-xr-xr-x   1    0    0      49560 Jul 15 2005 [  74400 00] appear_base.atlas_lvl 
+-r-xr-xr-x   1    0    0      47576 Jul 15 2005 [  74976 00] base.atlas_lvl 
+-r-xr-xr-x   1    0    0      48984 Jul 15 2005 [  76128 00] bomb_and_missile.atlas_lvl 
+-r-xr-xr-x   1    0    0      92872 Jul 15 2005 [  76720 00] bomb_shelter.atlas_lvl 
+-r-xr-xr-x   1    0    0      37896 Jul 15 2005 [  75552 00] bombs_base.atlas_lvl 
+-r-xr-xr-x   1    0    0      88536 Jul 15 2005 [  77312 00] bridge.atlas_lvl 
+-r-xr-xr-x   1    0    0      39064 Jul 15 2005 [  77904 00] bunny_crates.atlas_lvl 
+-r-xr-xr-x   1    0    0      60168 Jul 15 2005 [  78336 00] bunny_quicksand.atlas_lvl 
+-r-xr-xr-x   1    0    0      53064 Jul 15 2005 [  78832 00] cave.atlas_lvl 
+-r-xr-xr-x   1    0    0      45288 Jul 15 2005 [  79088 00] cave_II.atlas_lvl 
+-r-xr-xr-x   1    0    0      40760 Jul 15 2005 [  79616 00] crates_blocks.atlas_lvl 
+-r-xr-xr-x   1    0    0      54456 Jul 15 2005 [  80208 00] crossroad.atlas_lvl 
+-r-xr-xr-x   1    0    0      42152 Jul 15 2005 [  80800 00] doors.atlas_lvl 
+-r-xr-xr-x   1    0    0      48312 Jul 15 2005 [  81328 00] doors_portal.atlas_lvl 
+-r-xr-xr-x   1    0    0      26808 Jul 15 2005 [  81760 00] drone90.atlas_lvl 
+-r-xr-xr-x   1    0    0      42632 Jul 15 2005 [  82256 00] drone90_II.atlas_lvl 
+-r-xr-xr-x   1    0    0      93608 Jul 15 2005 [  83376 00] gauntlet.atlas_lvl 
+-r-xr-xr-x   1    0    0      51240 Jul 15 2005 [  84512 00] gem_crates.atlas_lvl 
+-r-xr-xr-x   1    0    0      55176 Jul 15 2005 [  83984 00] gems_water_blocks.atlas_lvl 
+-r-xr-xr-x   1    0    0      26360 Jul 15 2005 [  85040 00] generic.atlas_lvl 
+-r-xr-xr-x   1    0    0      35464 Jul 15 2005 [  85568 00] generic_III.atlas_lvl 
+-r-xr-xr-x   1    0    0      42392 Jul 15 2005 [  86080 00] haste_base.atlas_lvl 
+-r-xr-xr-x   1    0    0      50872 Jul 15 2005 [  86416 00] invincibility.atlas_lvl 
+-r-xr-xr-x   1    0    0      36456 Jul 15 2005 [  87552 00] lava_base.atlas_lvl 
+-r-xr-xr-x   1    0    0      45416 Jul 15 2005 [  88144 00] lava_quicksand_water.atlas_lvl 
+-r-xr-xr-x   1    0    0      61288 Jul 15 2005 [  86992 00] lavaliscious.atlas_lvl 
+-r-xr-xr-x   1    0    0      32856 Jul 15 2005 [  89200 00] missile_II.atlas_lvl 
+-r-xr-xr-x   1    0    0      55768 Jul 15 2005 [  88688 00] missiles.atlas_lvl 
+-r-xr-xr-x   1    0    0      51928 Jul 15 2005 [  89680 00] passage.atlas_lvl 
+-r-xr-xr-x   1    0    0      39224 Jul 15 2005 [  90192 00] passthruwalls.atlas_lvl 
+-r-xr-xr-x   1    0    0      88168 Jul 15 2005 [  90688 00] paths.atlas_lvl 
+-r-xr-xr-x   1    0    0      36104 Jul 15 2005 [  91248 00] pixie_portal.atlas_lvl 
+-r-xr-xr-x   1    0    0      34424 Jul 15 2005 [  91728 00] plain.atlas_lvl 
+-r-xr-xr-x   1    0    0      36648 Jul 15 2005 [  92272 00] portal_drones.atlas_lvl 
+-r-xr-xr-x   1    0    0      82424 Jul 15 2005 [  92752 00] quicksand_gems.atlas_lvl 
+-r-xr-xr-x   1    0    0      40904 Jul 15 2005 [  93920 00] strength_base.atlas_lvl 
+-r-xr-xr-x   1    0    0      36392 Jul 15 2005 [  94464 00] switch_water_pretty.atlas_lvl 
+-r-xr-xr-x   1    0    0      45736 Jul 15 2005 [  94992 00] trap_base.atlas_lvl 
+-r-xr-xr-x   1    0    0      27976 Jul 15 2005 [  95456 00] two_seekers.atlas_lvl 
+-r-xr-xr-x   1    0    0      48520 Jul 15 2005 [  95952 00] unidrone_wallhugger.atlas_lvl 
+-r-xr-xr-x   1    0    0      44536 Jul 15 2005 [  96416 00] wallhugger_maze.atlas_lvl 
+-r-xr-xr-x   1    0    0      42952 Jul 15 2005 [  96960 00] walls.atlas_lvl 
+-r-xr-xr-x   1    0    0      40024 Jul 15 2005 [  97488 00] water_block.atlas_lvl 
+-r-xr-xr-x   1    0    0      39704 Jul 15 2005 [  98640 00] water_block_II.atlas_lvl 
+-r-xr-xr-x   1    0    0      45192 Jul 15 2005 [  98048 00] water_block_base.atlas_lvl 
+
+Directory listing of /PSP_GAME/USRDIR/Themes/Summit/
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     49 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     30 02] .. 
+-r-xr-xr-x   1    0    0    9002195 Jul 15 2005 [ 162464 00] Summit.atlas_psp_gob 
+-r-xr-xr-x   1    0    0     145323 Jul 15 2005 [ 166864 00] Summit.atlas_theme_txt 
+-r-xr-xr-x   1    0    0      51112 Jul 15 2005 [ 166944 00] sum_acm_01.atlas_lvl 
+-r-xr-xr-x   1    0    0      65896 Jul 15 2005 [ 167472 00] sum_acm_02.atlas_lvl 
+-r-xr-xr-x   1    0    0      47176 Jul 15 2005 [ 168032 00] sum_acm_03.atlas_lvl 
+-r-xr-xr-x   1    0    0      50728 Jul 15 2005 [ 170736 00] sum_acm_04.atlas_lvl 
+-r-xr-xr-x   1    0    0      40072 Jul 15 2005 [ 171248 00] sum_acm_05.atlas_lvl 
+-r-xr-xr-x   1    0    0      75432 Jul 15 2005 [ 171744 00] sum_pvv_01.atlas_lvl 
+-r-xr-xr-x   1    0    0      59272 Jul 15 2005 [ 172096 00] sum_pvv_02.atlas_lvl 
+-r-xr-xr-x   1    0    0      54424 Jul 15 2005 [ 172608 00] sum_pvv_03.atlas_lvl 
+-r-xr-xr-x   1    0    0      57496 Jul 15 2005 [ 173104 00] sum_pvv_04.atlas_lvl 
+-r-xr-xr-x   1    0    0      40760 Jul 15 2005 [ 173632 00] sum_pvv_05.atlas_lvl 
+-r-xr-xr-x   1    0    0      43080 Jul 15 2005 [ 174064 00] sum_pvv_06.atlas_lvl 
+-r-xr-xr-x   1    0    0      50632 Jul 15 2005 [ 174544 00] sum_pvv_07.atlas_lvl 
+-r-xr-xr-x   1    0    0      37032 Jul 15 2005 [ 175136 00] sum_pvv_08.atlas_lvl 
+-r-xr-xr-x   1    0    0      92664 Jul 15 2005 [ 175648 00] sum_pvv_09.atlas_lvl 
+-r-xr-xr-x   1    0    0      66840 Jul 15 2005 [ 176192 00] sum_pvv_10.atlas_lvl 
+-r-xr-xr-x   1    0    0      41864 Jul 15 2005 [ 176720 00] sum_pvv_11.atlas_lvl 
+-r-xr-xr-x   1    0    0      36712 Jul 15 2005 [ 177280 00] sum_pvv_12.atlas_lvl 
+-r-xr-xr-x   1    0    0      87992 Jul 15 2005 [ 177840 00] sum_pvv_13.atlas_lvl 
+-r-xr-xr-x   1    0    0      40088 Jul 15 2005 [ 178416 00] sum_pvv_14.atlas_lvl 
+-r-xr-xr-x   1    0    0      58920 Jul 15 2005 [ 178960 00] sum_pvv_15.atlas_lvl 
+-r-xr-xr-x   1    0    0      86248 Jul 15 2005 [ 179424 00] sum_pvv_16.atlas_lvl 
+-r-xr-xr-x   1    0    0      38360 Jul 15 2005 [ 168560 00] summit1_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      43736 Jul 15 2005 [ 169104 00] summit2_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      53128 Jul 15 2005 [ 169600 00] summit3_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      59080 Jul 15 2005 [ 170144 00] summit4_da.atlas_lvl 
+
+Directory listing of /PSP_GAME/USRDIR/Themes/Zen/
+dr-xr-xr-x   1    0    0       4096 Oct 17 2005 [     50 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 17 2005 [     30 02] .. 
+-r-xr-xr-x   1    0    0   11075448 Jul 15 2005 [  99104 00] Zen.atlas_psp_gob 
+-r-xr-xr-x   1    0    0     170448 Jul 15 2005 [ 104512 00] Zen.atlas_theme_txt 
+-r-xr-xr-x   1    0    0      43992 Jul 15 2005 [ 104608 00] level01.atlas_lvl 
+-r-xr-xr-x   1    0    0      43368 Jul 15 2005 [ 105168 00] level01_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      59688 Jul 15 2005 [ 106320 00] level02_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      56536 Jul 15 2005 [ 105760 00] level02acm.atlas_lvl 
+-r-xr-xr-x   1    0    0      38312 Jul 15 2005 [ 107472 00] level03_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      50440 Jul 15 2005 [ 106880 00] level03acm.atlas_lvl 
+-r-xr-xr-x   1    0    0      31880 Jul 15 2005 [ 108576 00] level04_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      49496 Jul 15 2005 [ 108000 00] level04acm.atlas_lvl 
+-r-xr-xr-x   1    0    0      38568 Jul 15 2005 [ 109728 00] level05_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      31336 Jul 15 2005 [ 109152 00] level05acm.atlas_lvl 
+-r-xr-xr-x   1    0    0      38200 Jul 15 2005 [ 110880 00] level06_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      38088 Jul 15 2005 [ 110304 00] level06acm.atlas_lvl 
+-r-xr-xr-x   1    0    0      45048 Jul 15 2005 [ 111936 00] level07_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      38024 Jul 15 2005 [ 111408 00] level07acm.atlas_lvl 
+-r-xr-xr-x   1    0    0      38872 Jul 15 2005 [ 113120 00] level08_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      71448 Jul 15 2005 [ 112512 00] level08acm.atlas_lvl 
+-r-xr-xr-x   1    0    0      37512 Jul 15 2005 [ 114240 00] level09_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      64136 Jul 15 2005 [ 113712 00] level09acm.atlas_lvl 
+-r-xr-xr-x   1    0    0      35736 Jul 15 2005 [ 115360 00] level10_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      42568 Jul 15 2005 [ 114768 00] level10acm.atlas_lvl 
+-r-xr-xr-x   1    0    0      41016 Jul 15 2005 [ 116368 00] level11_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      45832 Jul 15 2005 [ 115872 00] level11acm.atlas_lvl 
+-r-xr-xr-x   1    0    0      39656 Jul 15 2005 [ 117520 00] level12_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      51304 Jul 15 2005 [ 116944 00] level12acm.atlas_lvl 
+-r-xr-xr-x   1    0    0      38760 Jul 15 2005 [ 118640 00] level13_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      43528 Jul 15 2005 [ 118096 00] level13acm.atlas_lvl 
+-r-xr-xr-x   1    0    0      39960 Jul 15 2005 [ 119744 00] level14_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      44488 Jul 15 2005 [ 119184 00] level14acm.atlas_lvl 
+-r-xr-xr-x   1    0    0      47064 Jul 15 2005 [ 120832 00] level15_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      48648 Jul 15 2005 [ 120272 00] level15acm.atlas_lvl 
+-r-xr-xr-x   1    0    0      38952 Jul 15 2005 [ 121984 00] level16_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      42216 Jul 15 2005 [ 121392 00] level16acm.atlas_lvl 
+-r-xr-xr-x   1    0    0      49560 Jul 15 2005 [ 122960 00] level17_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      73480 Jul 15 2005 [ 122512 00] level17acm.atlas_lvl 
+-r-xr-xr-x   1    0    0      49240 Jul 15 2005 [ 124112 00] level18_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      52184 Jul 15 2005 [ 123552 00] level18acm.atlas_lvl 
+-r-xr-xr-x   1    0    0      50008 Jul 15 2005 [ 125280 00] level19_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      34328 Jul 15 2005 [ 124688 00] level19acm.atlas_lvl 
+-r-xr-xr-x   1    0    0      40728 Jul 15 2005 [ 125808 00] level20_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      43656 Jul 15 2005 [ 126384 00] level21_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      39096 Jul 15 2005 [ 126912 00] level22_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      37192 Jul 15 2005 [ 127488 00] level23_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      34824 Jul 15 2005 [ 128048 00] level24_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      34312 Jul 15 2005 [ 128576 00] level25_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      35144 Jul 15 2005 [ 129136 00] level26_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      34584 Jul 15 2005 [ 129712 00] level27_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      40296 Jul 15 2005 [ 130224 00] level28_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      34344 Jul 15 2005 [ 130784 00] level29_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      36856 Jul 15 2005 [ 131312 00] level30_da.atlas_lvl 
+-r-xr-xr-x   1    0    0      34952 Jul 15 2005 [ 131888 00] level31_da.atlas_lvl 
+=============================================================== 
+Generated on Tue 09/08/2022 at  5:37:24.37 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

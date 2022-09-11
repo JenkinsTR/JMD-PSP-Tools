@@ -1,0 +1,178 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Gretzky NHL  
+Title ID: UCUS-98604 
+Region: USA  
+Languages:   
+Volume Creation Date: 2005-02-15 09:24:02 
+Volume Size: 146 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: GRETZKY2K5
+Volume set id: GRETZKY2K5
+Publisher id: 989SPORTS
+Data preparer id: PAGE44
+Application id: PSP GAME
+Copyright File id: SCEA INC
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 74816
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Feb 15 2005 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2005 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Dec 17 2004 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Dec 17 2004 [   2194 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Dec 17 2004 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2005 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Dec 17 2004 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2005 [     25 02] USRDIR 
+-r-xr-xr-x   1    0    0      20516 Jan  7 2005 [   2544 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        472 Feb 10 2005 [   2560 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      19762 Jan 21 2005 [   2576 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0     149913 Jan 21 2005 [   2592 00] PIC1.PNG 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Dec 17 2004 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 17 2004 [     23 02] .. 
+-r-xr-xr-x   1    0    0    4394304 Feb 15 2005 [     48 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0    4393965 Feb 15 2005 [   2672 00] BOOT.BIN 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2005 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 17 2004 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2005 [     26 02] data 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2005 [     27 02] kmodule 
+dr-xr-xr-x   1    0    0       4096 Feb 15 2005 [     28 02] module 
+
+Directory listing of /PSP_GAME/USRDIR/data/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2005 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2005 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2005 [     30 02] gamedata 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2005 [     31 02] movie 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2005 [     32 02] sound 
+
+Directory listing of /PSP_GAME/USRDIR/kmodule/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2005 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2005 [     25 02] .. 
+-r-xr-xr-x   1    0    0       3232 Dec  3 2004 [   2208 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0      10832 Dec  3 2004 [   2224 00] ifhandle.prx 
+-r-xr-xr-x   1    0    0     208896 Nov 10 2004 [   2240 00] kbooti.bin 
+-r-xr-xr-x   1    0    0      15216 Dec  3 2004 [   2352 00] memab.prx 
+-r-xr-xr-x   1    0    0       9552 Dec  3 2004 [   2368 00] mpegbase.prx 
+-r-xr-xr-x   1    0    0       2960 Nov 10 2004 [   2384 00] openpsid.prx 
+-r-xr-xr-x   1    0    0      10816 Dec  3 2004 [   2400 00] pspnet_adhoc_auth.prx 
+-r-xr-xr-x   1    0    0      85192 Dec  3 2004 [   2416 00] rinit.prx 
+-r-xr-xr-x   1    0    0       5920 Dec  3 2004 [   2464 00] sc_sascore.prx 
+-r-xr-xr-x   1    0    0      64320 Nov 10 2004 [   2480 00] usb.prx 
+-r-xr-xr-x   1    0    0      14528 Dec  3 2004 [   2512 00] usbpspcm.prx 
+-r-xr-xr-x   1    0    0       3808 Dec  3 2004 [   2528 00] videocodec.prx 
+-r-xr-xr-x   1    0    0       3088 Jan  5 2005 [  54320 00] cert_loader.prx 
+
+Directory listing of /PSP_GAME/USRDIR/module/
+dr-xr-xr-x   1    0    0       4096 Feb 15 2005 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2005 [     25 02] .. 
+-r-xr-xr-x   1    0    0       3808 Dec  3 2004 [  54336 00] videocodec.prx 
+-r-xr-xr-x   1    0    0       3232 Dec  3 2004 [  54352 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0       3088 Jan  5 2005 [  54368 00] cert_loader.prx 
+-r-xr-xr-x   1    0    0      10832 Dec  3 2004 [  54384 00] ifhandle.prx 
+-r-xr-xr-x   1    0    0     208896 Nov 10 2004 [  54400 00] kbooti.bin 
+-r-xr-xr-x   1    0    0       1488 Dec  3 2004 [  54512 00] libadler.prx 
+-r-xr-xr-x   1    0    0      19524 Dec  3 2004 [  54528 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0       2252 Dec  3 2004 [  54544 00] libbase64.prx 
+-r-xr-xr-x   1    0    0      43188 Dec  3 2004 [  54560 00] libfont.prx 
+-r-xr-xr-x   1    0    0      12192 Dec  3 2004 [  54592 00] libfpu.prx 
+-r-xr-xr-x   1    0    0      81148 Feb  7 2005 [  54608 00] libhttp.prx 
+-r-xr-xr-x   1    0    0       1816 Dec  3 2004 [  54656 00] libmt19937.prx 
+-r-xr-xr-x   1    0    0      20748 Nov 10 2004 [  54672 00] libnetcnf.prx 
+-r-xr-xr-x   1    0    0       5116 Dec  3 2004 [  54688 00] libparse_http.prx 
+-r-xr-xr-x   1    0    0      15488 Dec  3 2004 [  54704 00] libparse_uri.prx 
+-r-xr-xr-x   1    0    0       2924 Dec  3 2004 [  54720 00] libqpcode.prx 
+-r-xr-xr-x   1    0    0     258980 Jan  4 2005 [  54736 00] libssl.prx 
+-r-xr-xr-x   1    0    0      15216 Dec  3 2004 [  54864 00] memab.prx 
+-r-xr-xr-x   1    0    0      39624 Dec  3 2004 [  54880 00] mpeg.prx 
+-r-xr-xr-x   1    0    0       9552 Dec  3 2004 [  54912 00] mpegbase.prx 
+-r-xr-xr-x   1    0    0       2960 Nov 10 2004 [  54928 00] openpsid.prx 
+-r-xr-xr-x   1    0    0      60256 Dec  3 2004 [  54944 00] pspnet.prx 
+-r-xr-xr-x   1    0    0      40140 Dec  3 2004 [  54976 00] pspnet_adhoc.prx 
+-r-xr-xr-x   1    0    0      10816 Dec  3 2004 [  55008 00] pspnet_adhoc_auth.prx 
+-r-xr-xr-x   1    0    0      14316 Dec  3 2004 [  55024 00] pspnet_adhoc_download.prx 
+-r-xr-xr-x   1    0    0      19480 Dec  3 2004 [  55040 00] pspnet_adhoc_matching.prx 
+-r-xr-xr-x   1    0    0      36416 Dec  3 2004 [  55056 00] pspnet_adhocctl.prx 
+-r-xr-xr-x   1    0    0       4788 Dec  3 2004 [  55088 00] pspnet_ap_dialog_dummy.prx 
+-r-xr-xr-x   1    0    0      45196 Dec  3 2004 [  55104 00] pspnet_apctl.prx 
+-r-xr-xr-x   1    0    0     247248 Dec  3 2004 [  55136 00] pspnet_inet.prx 
+-r-xr-xr-x   1    0    0      12488 Dec  3 2004 [  55264 00] pspnet_resolver.prx 
+-r-xr-xr-x   1    0    0      85192 Dec  3 2004 [  55280 00] rinit.prx 
+-r-xr-xr-x   1    0    0       5920 Dec  3 2004 [  55328 00] sc_sascore.prx 
+-r-xr-xr-x   1    0    0      67824 Dec  3 2004 [  55344 00] scan.prx 
+-r-xr-xr-x   1    0    0      64004 Dec  3 2004 [  55392 00] show_macaddr.prx 
+-r-xr-xr-x   1    0    0      64320 Nov 10 2004 [  55424 00] usb.prx 
+-r-xr-xr-x   1    0    0      14528 Dec  3 2004 [  55456 00] usbpspcm.prx 
+
+Directory listing of /PSP_GAME/USRDIR/data/gamedata/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2005 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2005 [     26 02] .. 
+-r-xr-xr-x   1    0    0    2643968 Nov  3 2004 [   4832 00] trtex.p4d 
+-r-xr-xr-x   1    0    0   32600064 Feb  8 2005 [   6128 00] arenas.p4d 
+-r-xr-xr-x   1    0    0    1816576 Jan 18 2005 [  22048 00] coaches.p4d 
+-r-xr-xr-x   1    0    0     976896 Feb  7 2005 [  22944 00] com_team.p4d 
+-r-xr-xr-x   1    0    0    3364864 Feb  8 2005 [  23424 00] comarena.p4d 
+-r-xr-xr-x   1    0    0     679936 Jan 24 2005 [  25072 00] facetex.p4d 
+-r-xr-xr-x   1    0    0    2865152 Feb  9 2005 [  25408 00] fe.p4d 
+-r-xr-xr-x   1    0    0     120832 Feb  8 2005 [  26816 00] glob_psp.p4d 
+-r-xr-xr-x   1    0    0    1429504 Feb  8 2005 [  26880 00] global.p4d 
+-r-xr-xr-x   1    0    0    2652160 Feb  1 2005 [  27584 00] load.p4d 
+-r-xr-xr-x   1    0    0     192512 Jan 25 2005 [  28880 00] mcicons.p4d 
+-r-xr-xr-x   1    0    0    1595392 Feb  8 2005 [  28976 00] pspcut.p4d 
+-r-xr-xr-x   1    0    0    1271808 Feb  8 2005 [  29760 00] rosters.p4d 
+-r-xr-xr-x   1    0    0   14731264 Feb  8 2005 [  30384 00] schedule.p4d 
+-r-xr-xr-x   1    0    0    3921920 Jan 31 2005 [  37584 00] swapanim.p4d 
+-r-xr-xr-x   1    0    0   19216384 Feb  8 2005 [  39504 00] teams.p4d 
+-r-xr-xr-x   1    0    0     110592 Feb  8 2005 [  48896 00] toc.p4d 
+-r-xr-xr-x   1    0    0     382976 Nov  3 2004 [  48960 00] trophies.p4d 
+
+Directory listing of /PSP_GAME/USRDIR/data/movie/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2005 [     31 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2005 [     26 02] .. 
+-r-xr-xr-x   1    0    0    9226240 Feb  1 2005 [  49152 00] intro.pmf 
+-r-xr-xr-x   1    0    0     673792 Jan 28 2005 [  53664 00] p44logo.pmf 
+-r-xr-xr-x   1    0    0     647168 Jan  4 2005 [  54000 00] 989logo.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/data/sound/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2005 [     32 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2005 [     26 02] .. 
+-r-xr-xr-x   1    0    0    2052000 Jan 28 2005 [  55472 00] pa.skx 
+-r-xr-xr-x   1    0    0   14522936 Jan 28 2005 [  56480 00] chants.skx 
+-r-xr-xr-x   1    0    0     521136 Jan 31 2005 [  63584 00] crowd.bnk 
+-r-xr-xr-x   1    0    0     208120 Jan 31 2005 [  63840 00] femenu.bnk 
+-r-xr-xr-x   1    0    0   12311872 Jan 28 2005 [  63952 00] frontend.skx 
+-r-xr-xr-x   1    0    0       2752 Jan 28 2005 [  69968 00] gamemenu.bnk 
+-r-xr-xr-x   1    0    0    1928032 Jan 31 2005 [  69984 00] goalhorn.skx 
+-r-xr-xr-x   1    0    0    7419040 Jan 28 2005 [  70928 00] music.skx 
+-r-xr-xr-x   1    0    0     506384 Jan 31 2005 [  74560 00] onice.bnk 
+=============================================================== 
+Generated on Mon 22/08/2022 at 12:12:21.62 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

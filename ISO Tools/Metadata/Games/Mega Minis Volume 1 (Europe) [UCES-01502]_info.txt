@@ -1,0 +1,1145 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Mega Minis Volume 1   
+Title ID: UCES-01502 
+Region: Europe  
+Languages:   
+Volume Creation Date: 2011-01-19 11:30:36 
+Volume Size: 293 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: SCEE
+Volume set id: SCEE
+Publisher id: SCEE
+Data preparer id: SCEE
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 150512
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Jan 19 2011 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2011 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2011 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Jan 19 2011 [     97 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Jan 19 2011 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2011 [     22 02] .. 
+-r-xr-xr-x   1    0    0      10175 Dec  8 2010 [ 150304 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        560 Jan 18 2011 [ 150320 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     104478 Jan 13 2011 [ 150336 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2011 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2011 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Jan 19 2011 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2011 [     23 02] .. 
+-r-xr-xr-x   1    0    0     211701 Jan 19 2011 [ 150400 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0     212048 Jan 19 2011 [    624 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0        880 Jan 19 2011 [    112 00] OPNSSMP.BIN 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2011 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2011 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2011 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     27 02] Data 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2011 [     28 02] LAUNCHER 
+-r-xr-xr-x   1    0    0   78899200 Dec  4 2009 [ 111776 00] TADA.PAK 
+-r-xr-xr-x   1    0    0     826420 Sep 28 2009 [  53488 00] atlas.pak 
+-r-xr-xr-x   1    0    0    3280581 Sep 28 2009 [ 103664 00] data.pak 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Jan 19 2011 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2011 [     24 02] .. 
+-r-xr-xr-x   1    0    0   26115152 Jan 19 2011 [   4848 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5540576 Jan 19 2011 [    752 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Jan 19 2011 [    736 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/Data/
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2011 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     29 02] FontSYS 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     30 02] Loading 
+dr-xr-xr-x   1    0    0       6144 Dec  9 2010 [     31 02] MainMenu 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     34 02] Pic 
+dr-xr-xr-x   1    0    0       6144 Dec  9 2010 [     35 02] Play 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     38 02] Sound 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     39 02] Splash 
+
+Directory listing of /PSP_GAME/USRDIR/LAUNCHER/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2011 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2011 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2011 [     40 02] BIN 
+-r-xr-xr-x   1    0    0        762 Jan  4 2011 [ 111024 00] CONFIG.TXT 
+-r-xr-xr-x   1    0    0      91152 Jul 28 2010 [ 111040 00] FONT.FNT 
+-r-xr-xr-x   1    0    0      91152 Jul 28 2010 [ 111088 00] NAD2.FNT 
+dr-xr-xr-x   1    0    0       2048 Oct 25 2010 [     41 02] SOUNDS 
+dr-xr-xr-x   1    0    0       2048 Oct 27 2010 [     42 02] TEXTURES 
+
+Directory listing of /PSP_GAME/USRDIR/Data/FontSYS/
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     27 02] .. 
+-r-xr-xr-x   1    0    0      49282 Sep 28 2009 [  53904 00] font.bin 
+
+Directory listing of /PSP_GAME/USRDIR/Data/Loading/
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     27 02] .. 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     43 02] Anim 
+-r-xr-xr-x   1    0    0     131864 May 13 2008 [  54080 00] b.gim 
+-r-xr-xr-x   1    0    0     522444 Jul 10 2009 [  54160 00] bg.gim 
+-r-xr-xr-x   1    0    0       5332 Aug 27 2009 [  54432 00] load_0.gim 
+-r-xr-xr-x   1    0    0       7892 Aug 27 2009 [  54448 00] load_1.gim 
+-r-xr-xr-x   1    0    0       8408 Aug 27 2009 [  54464 00] load_3.gim 
+-r-xr-xr-x   1    0    0       6612 Aug 27 2009 [  54480 00] load_4.gim 
+-r-xr-xr-x   1    0    0      18644 Aug 27 2009 [  54416 00] loading.gim 
+
+Directory listing of /PSP_GAME/USRDIR/Data/MainMenu/
+dr-xr-xr-x   1    0    0       6144 Dec  9 2010 [     31 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     27 02] .. 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     44 02] Anim 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     45 02] Thumb 
+-r-xr-xr-x   1    0    0     522444 Jul 10 2009 [  56800 00] bg.gim 
+-r-xr-xr-x   1    0    0      66764 Jul 13 2009 [  57056 00] bg2.gim 
+-r-xr-xr-x   1    0    0     118988 Sep 29 2009 [  57104 00] bg3_0.gim 
+-r-xr-xr-x   1    0    0     118992 Sep 29 2009 [  57168 00] bg3_1.gim 
+-r-xr-xr-x   1    0    0     118996 Sep 29 2009 [  57232 00] bg3_3.gim 
+-r-xr-xr-x   1    0    0     118992 Sep 29 2009 [  57296 00] bg3_4.gim 
+-r-xr-xr-x   1    0    0      43724 Jul 13 2009 [  57360 00] bg4.gim 
+-r-xr-xr-x   1    0    0      24540 Sep 25 2009 [  57392 00] frame100.gim 
+-r-xr-xr-x   1    0    0      24540 Sep 25 2009 [  57408 00] frame101.gim 
+-r-xr-xr-x   1    0    0      24540 Sep 25 2009 [  57424 00] frame103.gim 
+-r-xr-xr-x   1    0    0      24540 Sep 25 2009 [  57440 00] frame104.gim 
+-r-xr-xr-x   1    0    0      25184 Sep 25 2009 [  57456 00] frame110.gim 
+-r-xr-xr-x   1    0    0      32864 Sep 25 2009 [  57472 00] frame111.gim 
+-r-xr-xr-x   1    0    0      32224 Sep 25 2009 [  57504 00] frame113.gim 
+-r-xr-xr-x   1    0    0      39264 Sep 25 2009 [  57520 00] frame114.gim 
+-r-xr-xr-x   1    0    0      13272 Jul 15 2009 [  57552 00] frame12.gim 
+-r-xr-xr-x   1    0    0     214228 Jul 15 2009 [  57568 00] frame13.gim 
+-r-xr-xr-x   1    0    0       8660 Jul 15 2009 [  57680 00] frame14.gim 
+-r-xr-xr-x   1    0    0       8656 Jul 15 2009 [  57696 00] frame15.gim 
+-r-xr-xr-x   1    0    0      15572 Jul 15 2009 [  57712 00] frame16.gim 
+-r-xr-xr-x   1    0    0       8664 Jul 15 2009 [  57728 00] frame17.gim 
+-r-xr-xr-x   1    0    0       8664 Jul 15 2009 [  57744 00] frame18.gim 
+-r-xr-xr-x   1    0    0      15580 Jul 15 2009 [  57760 00] frame19.gim 
+-r-xr-xr-x   1    0    0     235728 Oct  1 2009 [  57776 00] frame1_0.gim 
+-r-xr-xr-x   1    0    0     235728 Oct  1 2009 [  57904 00] frame1_1.gim 
+-r-xr-xr-x   1    0    0     235728 Oct  1 2009 [  58032 00] frame1_3.gim 
+-r-xr-xr-x   1    0    0     235728 Oct  1 2009 [  58160 00] frame1_4.gim 
+-r-xr-xr-x   1    0    0      56656 Jul 13 2009 [  58288 00] frame2.gim 
+-r-xr-xr-x   1    0    0      17872 Jul 17 2009 [  58320 00] frame20.gim 
+-r-xr-xr-x   1    0    0       9812 Jul 17 2009 [  58336 00] frame21.gim 
+-r-xr-xr-x   1    0    0       9816 Jul 17 2009 [  58352 00] frame22.gim 
+-r-xr-xr-x   1    0    0       9816 Jul 17 2009 [  58368 00] frame23.gim 
+-r-xr-xr-x   1    0    0       9816 Jul 17 2009 [  58384 00] frame24.gim 
+-r-xr-xr-x   1    0    0       9816 Jul 17 2009 [  58400 00] frame25.gim 
+-r-xr-xr-x   1    0    0       2520 Jul 17 2009 [  58416 00] frame26.gim 
+-r-xr-xr-x   1    0    0       2520 Jul 17 2009 [  58432 00] frame27.gim 
+-r-xr-xr-x   1    0    0       2520 Jul 17 2009 [  58448 00] frame28.gim 
+-r-xr-xr-x   1    0    0       2520 Jul 17 2009 [  58464 00] frame29.gim 
+-r-xr-xr-x   1    0    0      20688 Jul 13 2009 [  58480 00] frame3.gim 
+-r-xr-xr-x   1    0    0       2520 Jul 17 2009 [  58496 00] frame30.gim 
+-r-xr-xr-x   1    0    0       9816 Jul 17 2009 [  58512 00] frame31.gim 
+-r-xr-xr-x   1    0    0       2520 Jul 17 2009 [  58528 00] frame32.gim 
+-r-xr-xr-x   1    0    0      25180 Sep  7 2009 [  58544 00] frame330.gim 
+-r-xr-xr-x   1    0    0      30944 Jul 20 2009 [  58560 00] frame331.gim 
+-r-xr-xr-x   1    0    0      49504 Jul 20 2009 [  58576 00] frame333.gim 
+-r-xr-xr-x   1    0    0      30304 Jul 20 2009 [  58608 00] frame334.gim 
+-r-xr-xr-x   1    0    0      61648 Jul 21 2009 [  58624 00] frame34.gim 
+-r-xr-xr-x   1    0    0      29008 Jul 21 2009 [  58656 00] frame35.gim 
+-r-xr-xr-x   1    0    0       2516 Jul 21 2009 [  58672 00] frame36.gim 
+-r-xr-xr-x   1    0    0       1744 Jul 22 2009 [  58688 00] frame37.gim 
+-r-xr-xr-x   1    0    0       4820 Jul 22 2009 [  58704 00] frame38.gim 
+-r-xr-xr-x   1    0    0      30936 Jul 23 2009 [  58720 00] frame39.gim 
+-r-xr-xr-x   1    0    0      23248 Jul 14 2009 [  58736 00] frame4.gim 
+-r-xr-xr-x   1    0    0      23252 Aug  3 2009 [  58752 00] frame40.gim 
+-r-xr-xr-x   1    0    0      23256 Aug  3 2009 [  58768 00] frame41.gim 
+-r-xr-xr-x   1    0    0     107736 Aug 19 2009 [  58784 00] frame42.gim 
+-r-xr-xr-x   1    0    0       1236 Sep  4 2009 [  58848 00] frame43.gim 
+-r-xr-xr-x   1    0    0       1236 Sep  4 2009 [  58864 00] frame44.gim 
+-r-xr-xr-x   1    0    0      56528 Jul 14 2009 [  58880 00] frame5.gim 
+-r-xr-xr-x   1    0    0      15952 Jul 14 2009 [  58912 00] frame6.gim 
+-r-xr-xr-x   1    0    0      15576 Jul 20 2009 [  58928 00] frame7_0.gim 
+-r-xr-xr-x   1    0    0      15576 Jul 20 2009 [  58944 00] frame7_1.gim 
+-r-xr-xr-x   1    0    0      15576 Jul 20 2009 [  58960 00] frame7_3.gim 
+-r-xr-xr-x   1    0    0      15576 Jul 20 2009 [  58976 00] frame7_4.gim 
+-r-xr-xr-x   1    0    0      28380 Jul 20 2009 [  58992 00] frame8_0.gim 
+-r-xr-xr-x   1    0    0      30944 Jul 20 2009 [  59008 00] frame8_1.gim 
+-r-xr-xr-x   1    0    0      37984 Jul 20 2009 [  59024 00] frame8_3.gim 
+-r-xr-xr-x   1    0    0      36700 Sep 25 2009 [  59056 00] frame8_4.gim 
+-r-xr-xr-x   1    0    0      16856 Jul 20 2009 [  59088 00] frame9_0.gim 
+-r-xr-xr-x   1    0    0      16860 Jul 20 2009 [  59104 00] frame9_1.gim 
+-r-xr-xr-x   1    0    0      15580 Jul 20 2009 [  59120 00] frame9_3.gim 
+-r-xr-xr-x   1    0    0      19420 Jul 20 2009 [  59136 00] frame9_4.gim 
+
+Directory listing of /PSP_GAME/USRDIR/Data/Pic/
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     34 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     27 02] .. 
+dr-xr-xr-x   1    0    0       4096 Dec  9 2010 [     46 02] 1 
+dr-xr-xr-x   1    0    0       4096 Dec  9 2010 [     48 02] 2 
+dr-xr-xr-x   1    0    0       4096 Dec  9 2010 [     50 02] 3 
+dr-xr-xr-x   1    0    0       4096 Dec  9 2010 [     52 02] 4 
+dr-xr-xr-x   1    0    0       4096 Dec  9 2010 [     54 02] 5 
+dr-xr-xr-x   1    0    0       4096 Dec  9 2010 [     56 02] 6 
+
+Directory listing of /PSP_GAME/USRDIR/Data/Play/
+dr-xr-xr-x   1    0    0       6144 Dec  9 2010 [     35 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     27 02] .. 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     58 02] Anim 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     59 02] Count 
+-r-xr-xr-x   1    0    0      13260 Sep 30 2009 [  99856 00] GOver1_0.gim 
+-r-xr-xr-x   1    0    0      13264 Sep 30 2009 [  99872 00] GOver1_1.gim 
+-r-xr-xr-x   1    0    0      13264 Sep 30 2009 [  99888 00] GOver1_3.gim 
+-r-xr-xr-x   1    0    0      13264 Sep 30 2009 [  99904 00] GOver1_4.gim 
+-r-xr-xr-x   1    0    0      13260 Sep 30 2009 [  99920 00] GOver2_0.gim 
+-r-xr-xr-x   1    0    0      13264 Sep 30 2009 [  99936 00] GOver2_1.gim 
+-r-xr-xr-x   1    0    0      13264 Sep 30 2009 [  99952 00] GOver2_3.gim 
+-r-xr-xr-x   1    0    0      13264 Sep 30 2009 [  99968 00] GOver2_4.gim 
+-r-xr-xr-x   1    0    0       1744 Jun 30 2009 [ 100656 00] WNum0.gim 
+-r-xr-xr-x   1    0    0       1360 Jun 30 2009 [ 100672 00] WNum1.gim 
+-r-xr-xr-x   1    0    0       1744 Jun 30 2009 [ 100688 00] WNum2.gim 
+-r-xr-xr-x   1    0    0       1744 Jun 30 2009 [ 100704 00] WNum3.gim 
+-r-xr-xr-x   1    0    0       1744 Jun 30 2009 [ 100720 00] WNum4.gim 
+-r-xr-xr-x   1    0    0       1744 Jun 30 2009 [ 100736 00] WNum5.gim 
+-r-xr-xr-x   1    0    0       1744 Jun 30 2009 [ 100752 00] WNum6.gim 
+-r-xr-xr-x   1    0    0       1744 Jun 30 2009 [ 100768 00] WNum7.gim 
+-r-xr-xr-x   1    0    0       1744 Jun 30 2009 [ 100784 00] WNum8.gim 
+-r-xr-xr-x   1    0    0       1744 Jun 30 2009 [ 100800 00] WNum9.gim 
+-r-xr-xr-x   1    0    0       2132 Jun 30 2009 [ 100816 00] YNum0.gim 
+-r-xr-xr-x   1    0    0       1364 Jun 30 2009 [ 100832 00] YNum1.gim 
+-r-xr-xr-x   1    0    0       2132 Jun 30 2009 [ 100848 00] YNum2.gim 
+-r-xr-xr-x   1    0    0       2132 Jun 30 2009 [ 100864 00] YNum3.gim 
+-r-xr-xr-x   1    0    0       2132 Jun 30 2009 [ 100880 00] YNum4.gim 
+-r-xr-xr-x   1    0    0       2132 Jun 30 2009 [ 100896 00] YNum5.gim 
+-r-xr-xr-x   1    0    0       2132 Jun 30 2009 [ 100912 00] YNum6.gim 
+-r-xr-xr-x   1    0    0       2132 Jun 30 2009 [ 100928 00] YNum7.gim 
+-r-xr-xr-x   1    0    0       2132 Jun 30 2009 [ 100944 00] YNum8.gim 
+-r-xr-xr-x   1    0    0       2132 Jun 30 2009 [ 100960 00] YNum9.gim 
+-r-xr-xr-x   1    0    0       2124 Jul  3 2009 [  98048 00] circle0.gim 
+-r-xr-xr-x   1    0    0       3404 Jul  3 2009 [  98064 00] circle1.gim 
+-r-xr-xr-x   1    0    0       3660 Jul  3 2009 [  98080 00] circle2.gim 
+-r-xr-xr-x   1    0    0       5964 Jul  3 2009 [  98096 00] circle3.gim 
+-r-xr-xr-x   1    0    0       8268 Aug  6 2009 [  98112 00] circle4.gim 
+-r-xr-xr-x   1    0    0       8524 Jul  3 2009 [  98128 00] circle5.gim 
+-r-xr-xr-x   1    0    0      11852 Jul  3 2009 [  98144 00] circle6.gim 
+-r-xr-xr-x   1    0    0      38608 Jun 29 2009 [  98544 00] frame1.gim 
+-r-xr-xr-x   1    0    0     174292 Jul  8 2009 [  98576 00] frame10.gim 
+-r-xr-xr-x   1    0    0      82132 Jul 30 2009 [  98672 00] frame11.gim 
+-r-xr-xr-x   1    0    0      82132 Aug  7 2009 [  98720 00] frame12.gim 
+-r-xr-xr-x   1    0    0      24276 Aug  7 2009 [  98768 00] frame13.gim 
+-r-xr-xr-x   1    0    0      24276 Aug  7 2009 [  98784 00] frame14.gim 
+-r-xr-xr-x   1    0    0      51412 Aug 10 2009 [  98800 00] frame15.gim 
+-r-xr-xr-x   1    0    0      22100 Aug 18 2009 [  98832 00] frame16.gim 
+-r-xr-xr-x   1    0    0     214228 Jul 15 2009 [  98848 00] frame17.gim 
+-r-xr-xr-x   1    0    0       8660 Jul 15 2009 [  98960 00] frame18.gim 
+-r-xr-xr-x   1    0    0       8656 Jul 15 2009 [  98976 00] frame19.gim 
+-r-xr-xr-x   1    0    0       4048 Jun 29 2009 [  98992 00] frame2.gim 
+-r-xr-xr-x   1    0    0      15572 Jul 15 2009 [  99008 00] frame20.gim 
+-r-xr-xr-x   1    0    0       8664 Jul 15 2009 [  99024 00] frame21.gim 
+-r-xr-xr-x   1    0    0       8664 Jul 15 2009 [  99040 00] frame22.gim 
+-r-xr-xr-x   1    0    0      15580 Jul 15 2009 [  99056 00] frame23.gim 
+-r-xr-xr-x   1    0    0      17872 Jul 17 2009 [  99072 00] frame24.gim 
+-r-xr-xr-x   1    0    0      12496 Aug 18 2009 [  99088 00] frame25.gim 
+-r-xr-xr-x   1    0    0       2248 Aug 18 2009 [  99104 00] frame26.gim 
+-r-xr-xr-x   1    0    0       2248 Aug 18 2009 [  99120 00] frame27.gim 
+-r-xr-xr-x   1    0    0       3280 Aug 18 2009 [  99136 00] frame28.gim 
+-r-xr-xr-x   1    0    0       7372 Aug 18 2009 [  99152 00] frame29.gim 
+-r-xr-xr-x   1    0    0      15056 Jun 30 2009 [  99168 00] frame3.gim 
+-r-xr-xr-x   1    0    0       3272 Aug 18 2009 [  99184 00] frame30.gim 
+-r-xr-xr-x   1    0    0      12500 Aug 18 2009 [  99200 00] frame31.gim 
+-r-xr-xr-x   1    0    0     107736 Aug 19 2009 [  99216 00] frame32.gim 
+-r-xr-xr-x   1    0    0      92368 Jul  1 2009 [  99280 00] frame4.gim 
+-r-xr-xr-x   1    0    0       2384 Jun 29 2009 [  99328 00] frame5.gim 
+-r-xr-xr-x   1    0    0       6864 Jun 30 2009 [  99344 00] frame6.gim 
+-r-xr-xr-x   1    0    0       1232 Jul  1 2009 [  99360 00] frame7.gim 
+-r-xr-xr-x   1    0    0     461004 Jul  8 2009 [  99376 00] frame8.gim 
+-r-xr-xr-x   1    0    0     461008 Jul  8 2009 [  99616 00] frame9.gim 
+-r-xr-xr-x   1    0    0       2128 Aug 14 2009 [  99984 00] newR0.gim 
+-r-xr-xr-x   1    0    0       2512 Aug 14 2009 [ 100000 00] newR1.gim 
+-r-xr-xr-x   1    0    0       2132 Aug 14 2009 [ 100016 00] newR10.gim 
+-r-xr-xr-x   1    0    0       2132 Aug 14 2009 [ 100032 00] newR11.gim 
+-r-xr-xr-x   1    0    0       2132 Aug 14 2009 [ 100048 00] newR12.gim 
+-r-xr-xr-x   1    0    0       2132 Aug 14 2009 [ 100064 00] newR13.gim 
+-r-xr-xr-x   1    0    0       2132 Aug 14 2009 [ 100080 00] newR14.gim 
+-r-xr-xr-x   1    0    0       2132 Aug 14 2009 [ 100096 00] newR15.gim 
+-r-xr-xr-x   1    0    0       2132 Aug 14 2009 [ 100112 00] newR16.gim 
+-r-xr-xr-x   1    0    0       2132 Aug 14 2009 [ 100128 00] newR17.gim 
+-r-xr-xr-x   1    0    0       4304 Aug 14 2009 [ 100144 00] newR2.gim 
+-r-xr-xr-x   1    0    0       4304 Aug 14 2009 [ 100160 00] newR3.gim 
+-r-xr-xr-x   1    0    0       3664 Aug 14 2009 [ 100176 00] newR4.gim 
+-r-xr-xr-x   1    0    0       6736 Aug 14 2009 [ 100192 00] newR5.gim 
+-r-xr-xr-x   1    0    0       1872 Aug 14 2009 [ 100208 00] newR6.gim 
+-r-xr-xr-x   1    0    0       4048 Aug 14 2009 [ 100224 00] newR7.gim 
+-r-xr-xr-x   1    0    0       2128 Aug 14 2009 [ 100240 00] newR8.gim 
+-r-xr-xr-x   1    0    0       1232 Aug 14 2009 [ 100256 00] newR9.gim 
+-r-xr-xr-x   1    0    0      71632 Sep 25 2009 [ 100272 00] wellD_0.gim 
+-r-xr-xr-x   1    0    0      84312 Sep 25 2009 [ 100320 00] wellD_1.gim 
+-r-xr-xr-x   1    0    0      84312 Sep 25 2009 [ 100368 00] wellD_3.gim 
+-r-xr-xr-x   1    0    0      84312 Sep 25 2009 [ 100416 00] wellD_4.gim 
+-r-xr-xr-x   1    0    0      71632 Sep 25 2009 [ 100464 00] wellF_0.gim 
+-r-xr-xr-x   1    0    0      84312 Sep 25 2009 [ 100512 00] wellF_1.gim 
+-r-xr-xr-x   1    0    0      84312 Sep 25 2009 [ 100560 00] wellF_3.gim 
+-r-xr-xr-x   1    0    0      84312 Sep 25 2009 [ 100608 00] wellF_4.gim 
+
+Directory listing of /PSP_GAME/USRDIR/Data/Sound/
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     38 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     27 02] .. 
+-r-xr-xr-x   1    0    0    2376096 Aug 10 2009 [ 100976 00] Menu0.vag 
+-r-xr-xr-x   1    0    0       5552 Aug 10 2009 [ 102144 00] Menu1.vag 
+-r-xr-xr-x   1    0    0      37520 Aug 10 2009 [ 102160 00] Menu2.vag 
+-r-xr-xr-x   1    0    0       6432 Aug 14 2009 [ 102192 00] Menu3.vag 
+-r-xr-xr-x   1    0    0    2037312 Aug 24 2009 [ 102208 00] Play0.vag 
+-r-xr-xr-x   1    0    0       5552 Aug 10 2009 [ 103216 00] Play1.vag 
+-r-xr-xr-x   1    0    0      37520 Aug 10 2009 [ 103232 00] Play2.vag 
+-r-xr-xr-x   1    0    0      79488 Aug 10 2009 [ 103264 00] Play3.vag 
+-r-xr-xr-x   1    0    0      31328 Aug 20 2009 [ 103312 00] Play4.vag 
+-r-xr-xr-x   1    0    0       4640 Aug 24 2009 [ 103328 00] Play5.vag 
+-r-xr-xr-x   1    0    0      83264 Aug 24 2009 [ 103344 00] Play6.vag 
+-r-xr-xr-x   1    0    0      74000 Aug 24 2009 [ 103392 00] Play7.vag 
+-r-xr-xr-x   1    0    0      57856 Aug 24 2009 [ 103440 00] Play8.vag 
+
+Directory listing of /PSP_GAME/USRDIR/Data/Splash/
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     39 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     27 02] .. 
+-r-xr-xr-x   1    0    0     261332 Aug 11 2008 [ 103472 00] 1.gim 
+-r-xr-xr-x   1    0    0       8383 Oct 12 2009 [ 103600 00] hw_0.gim.gz 
+-r-xr-xr-x   1    0    0      10138 Oct 16 2009 [ 103616 00] hw_1.gim.gz 
+-r-xr-xr-x   1    0    0       9081 Oct 12 2009 [ 103632 00] hw_3.gim.gz 
+-r-xr-xr-x   1    0    0       8699 Oct 12 2009 [ 103648 00] hw_4.gim.gz 
+
+Directory listing of /PSP_GAME/USRDIR/LAUNCHER/BIN/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2011 [     40 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2011 [     28 02] .. 
+-r-xr-xr-x   1    0    0    4543120 Jan  7 2010 [ 105280 00] PF.BIN 
+-r-xr-xr-x   1    0    0     649272 Oct 16 2009 [ 107504 00] SD.BIN 
+-r-xr-xr-x   1    0    0    1655941 Sep 29 2009 [ 107824 00] YS.BIN 
+-r-xr-xr-x   1    0    0    4876172 Dec  9 2010 [ 108640 00] ZT.BIN 
+
+Directory listing of /PSP_GAME/USRDIR/LAUNCHER/SOUNDS/
+dr-xr-xr-x   1    0    0       2048 Oct 25 2010 [     41 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2011 [     28 02] .. 
+-r-xr-xr-x   1    0    0      10976 Sep  3 2010 [ 111136 00] SCROLL.VAG 
+-r-xr-xr-x   1    0    0      13680 Sep  3 2010 [ 111152 00] SELECT.VAG 
+
+Directory listing of /PSP_GAME/USRDIR/LAUNCHER/TEXTURES/
+dr-xr-xr-x   1    0    0       2048 Oct 27 2010 [     42 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2011 [     28 02] .. 
+-r-xr-xr-x   1    0    0       5488 Oct 27 2010 [ 111168 00] ARROW.DXT 
+-r-xr-xr-x   1    0    0       5488 Oct 27 2010 [ 111184 00] ARROW_GLOW.DXT 
+-r-xr-xr-x   1    0    0      65552 Oct 27 2010 [ 111200 00] BACKGROUND.DXT 
+-r-xr-xr-x   1    0    0      87408 Dec  9 2010 [ 111248 00] GLOW0.DXT 
+-r-xr-xr-x   1    0    0      87408 Dec  9 2010 [ 111296 00] GLOW1.DXT 
+-r-xr-xr-x   1    0    0      87408 Dec  9 2010 [ 111344 00] GLOW2.DXT 
+-r-xr-xr-x   1    0    0      87408 Dec  9 2010 [ 111392 00] GLOW3.DXT 
+-r-xr-xr-x   1    0    0      87408 Oct 27 2010 [ 111440 00] GLOW4.DXT 
+-r-xr-xr-x   1    0    0      87408 Dec  9 2010 [ 111488 00] ICON0.DXT 
+-r-xr-xr-x   1    0    0      87408 Dec  9 2010 [ 111536 00] ICON1.DXT 
+-r-xr-xr-x   1    0    0      87408 Dec  9 2010 [ 111584 00] ICON2.DXT 
+-r-xr-xr-x   1    0    0      87408 Dec  9 2010 [ 111632 00] ICON3.DXT 
+-r-xr-xr-x   1    0    0      87408 Oct 27 2010 [ 111680 00] ICON4.DXT 
+-r-xr-xr-x   1    0    0       5488 Oct 27 2010 [ 111728 00] SELECTCROSS.DXT 
+-r-xr-xr-x   1    0    0       5488 Oct 27 2010 [ 111744 00] SELECTCROSS_GLOW.DXT 
+-r-xr-xr-x   1    0    0      21872 Jan  4 2011 [ 111760 00] TITLE.DXT 
+
+Directory listing of /PSP_GAME/USRDIR/Data/Loading/Anim/
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     43 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     30 02] .. 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     60 02] 1 
+
+Directory listing of /PSP_GAME/USRDIR/Data/MainMenu/Anim/
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     44 02] . 
+dr-xr-xr-x   1    0    0       6144 Dec  9 2010 [     31 02] .. 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     61 02] 10 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     62 02] 11 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     63 02] 12 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     64 02] 13 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     65 02] 14 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     66 02] 15 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     67 02] 16 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     68 02] 17 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     69 02] 18 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     70 02] 19 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     71 02] 1 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     72 02] 20 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     73 02] 2 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     74 02] 3 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     75 02] 4 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     76 02] 5 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     77 02] 6 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     78 02] 7 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     79 02] 8 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     80 02] 9 
+
+Directory listing of /PSP_GAME/USRDIR/Data/MainMenu/Thumb/
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     45 02] . 
+dr-xr-xr-x   1    0    0       6144 Dec  9 2010 [     31 02] .. 
+-r-xr-xr-x   1    0    0     569368 Sep 30 2009 [  59152 00] 1.bin 
+-r-xr-xr-x   1    0    0     591185 Sep 30 2009 [  59440 00] 2.bin 
+-r-xr-xr-x   1    0    0     570851 Sep 30 2009 [  59744 00] 3.bin 
+-r-xr-xr-x   1    0    0     544574 Sep 30 2009 [  60032 00] 4.bin 
+-r-xr-xr-x   1    0    0     585594 Sep 30 2009 [  60304 00] 5.bin 
+-r-xr-xr-x   1    0    0     601571 Sep 30 2009 [  60592 00] 6.bin 
+-r-xr-xr-x   1    0    0       2124 Aug  4 2009 [  60896 00] lock.gim 
+
+Directory listing of /PSP_GAME/USRDIR/Data/Pic/1/
+dr-xr-xr-x   1    0    0       4096 Dec  9 2010 [     46 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     34 02] .. 
+-r-xr-xr-x   1    0    0     233700 Oct  6 2009 [  60912 00] 10120252.bin 
+-r-xr-xr-x   1    0    0     240054 Oct  6 2009 [  61040 00] 10162429.bin 
+-r-xr-xr-x   1    0    0     246248 Oct  6 2009 [  61168 00] 10339303.bin 
+-r-xr-xr-x   1    0    0     233818 Oct  6 2009 [  61296 00] 10411624.bin 
+-r-xr-xr-x   1    0    0     260273 Oct  6 2009 [  61424 00] 10587463.bin 
+-r-xr-xr-x   1    0    0     251640 Oct  6 2009 [  61552 00] 10764934.bin 
+-r-xr-xr-x   1    0    0     253579 Oct  6 2009 [  61680 00] 10777372.bin 
+-r-xr-xr-x   1    0    0     251028 Oct  6 2009 [  61808 00] 10884283.bin 
+-r-xr-xr-x   1    0    0     254472 Oct  6 2009 [  61936 00] 11063287.bin 
+-r-xr-xr-x   1    0    0     260258 Oct  6 2009 [  62064 00] 11145130.bin 
+-r-xr-xr-x   1    0    0     232193 Oct  6 2009 [  62192 00] 1203667.bin 
+-r-xr-xr-x   1    0    0     240580 Oct  6 2009 [  62320 00] 152411.bin 
+-r-xr-xr-x   1    0    0     226945 Oct  6 2009 [  62448 00] 1987034.bin 
+-r-xr-xr-x   1    0    0     251181 Oct  6 2009 [  62560 00] 20535.bin 
+-r-xr-xr-x   1    0    0     236314 Oct  6 2009 [  62688 00] 2186432.bin 
+-r-xr-xr-x   1    0    0     256130 Oct  6 2009 [  62816 00] 24800974.bin 
+-r-xr-xr-x   1    0    0     262377 Oct  6 2009 [  62944 00] 2502358.bin 
+-r-xr-xr-x   1    0    0     226018 Oct  6 2009 [  63088 00] 2604156.bin 
+-r-xr-xr-x   1    0    0     252901 Oct  6 2009 [  63200 00] 2742674.bin 
+-r-xr-xr-x   1    0    0     251135 Oct  6 2009 [  63328 00] 2836563.bin 
+-r-xr-xr-x   1    0    0     233185 Oct  6 2009 [  63456 00] 2872108.bin 
+-r-xr-xr-x   1    0    0     280407 Oct  6 2009 [  63584 00] 3122060.bin 
+-r-xr-xr-x   1    0    0     302041 Oct  6 2009 [  63728 00] 3263155.bin 
+-r-xr-xr-x   1    0    0     227387 Oct  6 2009 [  63888 00] 3494629.bin 
+-r-xr-xr-x   1    0    0     232313 Oct  6 2009 [  64000 00] 37281454.bin 
+-r-xr-xr-x   1    0    0     262569 Oct  6 2009 [  64128 00] 3870274.bin 
+-r-xr-xr-x   1    0    0     261884 Oct  6 2009 [  64272 00] 5660248.bin 
+-r-xr-xr-x   1    0    0     215481 Oct  6 2009 [  64400 00] 5745643.bin 
+-r-xr-xr-x   1    0    0     286840 Oct  6 2009 [  64512 00] 6009694.bin 
+-r-xr-xr-x   1    0    0     268557 Oct  6 2009 [  64656 00] 6933661.bin 
+-r-xr-xr-x   1    0    0     283550 Oct  6 2009 [  64800 00] 7107091.bin 
+-r-xr-xr-x   1    0    0     285786 Oct  6 2009 [  64944 00] 7440772.bin 
+-r-xr-xr-x   1    0    0     252986 Oct  6 2009 [  65088 00] 7829449.bin 
+-r-xr-xr-x   1    0    0     235696 Oct  6 2009 [  65216 00] 8166895.bin 
+-r-xr-xr-x   1    0    0     272926 Oct  6 2009 [  65344 00] 8593381.bin 
+-r-xr-xr-x   1    0    0     280778 Oct  6 2009 [  65488 00] 905511.bin 
+-r-xr-xr-x   1    0    0     227765 Oct  6 2009 [  65632 00] 942863.bin 
+-r-xr-xr-x   1    0    0     265291 Oct  6 2009 [  65744 00] 951662.bin 
+-r-xr-xr-x   1    0    0     281091 Oct  6 2009 [  65888 00] 95338.bin 
+-r-xr-xr-x   1    0    0     280064 Oct  6 2009 [  66032 00] 9635752.bin 
+
+Directory listing of /PSP_GAME/USRDIR/Data/Pic/2/
+dr-xr-xr-x   1    0    0       4096 Dec  9 2010 [     48 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     34 02] .. 
+-r-xr-xr-x   1    0    0     233773 Oct  6 2009 [  66176 00] 10209343.bin 
+-r-xr-xr-x   1    0    0     293661 Oct  6 2009 [  66304 00] 10717612.bin 
+-r-xr-xr-x   1    0    0     295528 Oct  6 2009 [  66448 00] 10960795.bin 
+-r-xr-xr-x   1    0    0     265489 Oct  6 2009 [  66608 00] 1156361.bin 
+-r-xr-xr-x   1    0    0     259334 Oct  6 2009 [  66752 00] 1165360.bin 
+-r-xr-xr-x   1    0    0     302508 Oct  6 2009 [  66880 00] 1318221.bin 
+-r-xr-xr-x   1    0    0     276450 Oct  6 2009 [  67040 00] 1423051.bin 
+-r-xr-xr-x   1    0    0     298972 Oct  6 2009 [  67184 00] 1519023.bin 
+-r-xr-xr-x   1    0    0     259104 Oct  6 2009 [  67344 00] 1557612.bin 
+-r-xr-xr-x   1    0    0     308581 Oct  6 2009 [  67472 00] 159040.bin 
+-r-xr-xr-x   1    0    0     299393 Oct  6 2009 [  67632 00] 1622987.bin 
+-r-xr-xr-x   1    0    0     276874 Oct  6 2009 [  67792 00] 2069545.bin 
+-r-xr-xr-x   1    0    0     276594 Oct  6 2009 [  67936 00] 215934.bin 
+-r-xr-xr-x   1    0    0     288346 Oct  6 2009 [  68080 00] 2259464.bin 
+-r-xr-xr-x   1    0    0     310863 Oct  6 2009 [  68224 00] 2333765.bin 
+-r-xr-xr-x   1    0    0     243855 Oct  6 2009 [  68384 00] 2681225.bin 
+-r-xr-xr-x   1    0    0     305448 Oct  6 2009 [  68512 00] 2723560.bin 
+-r-xr-xr-x   1    0    0     295015 Oct  6 2009 [  68672 00] 2796279.bin 
+-r-xr-xr-x   1    0    0     297342 Oct  6 2009 [  68832 00] 2853534.bin 
+-r-xr-xr-x   1    0    0     314887 Oct  6 2009 [  68992 00] 3093510.bin 
+-r-xr-xr-x   1    0    0     280871 Oct  6 2009 [  69152 00] 3483847.bin 
+-r-xr-xr-x   1    0    0     312284 Oct  6 2009 [  69296 00] 3492197.bin 
+-r-xr-xr-x   1    0    0     302470 Oct  6 2009 [  69456 00] 3502086.bin 
+-r-xr-xr-x   1    0    0     321184 Oct  6 2009 [  69616 00] 35170702.bin 
+-r-xr-xr-x   1    0    0     278717 Oct  6 2009 [  69776 00] 385122.bin 
+-r-xr-xr-x   1    0    0     292604 Oct  6 2009 [  69920 00] 4454422.bin 
+-r-xr-xr-x   1    0    0     323821 Oct  6 2009 [  70064 00] 4806130.bin 
+-r-xr-xr-x   1    0    0     281563 Oct  6 2009 [  70224 00] 492981.bin 
+-r-xr-xr-x   1    0    0     262703 Oct  6 2009 [  70368 00] 494569.bin 
+-r-xr-xr-x   1    0    0     332215 Oct  6 2009 [  70512 00] 498978.bin 
+-r-xr-xr-x   1    0    0     292772 Oct  6 2009 [  70688 00] 5429335.bin 
+-r-xr-xr-x   1    0    0     284410 Oct  6 2009 [  70832 00] 5637679.bin 
+-r-xr-xr-x   1    0    0     226921 Oct  6 2009 [  70976 00] 5902021.bin 
+-r-xr-xr-x   1    0    0     290369 Oct  6 2009 [  71088 00] 6099214.bin 
+-r-xr-xr-x   1    0    0     315940 Oct  6 2009 [  71232 00] 6988549.bin 
+-r-xr-xr-x   1    0    0     304239 Oct  6 2009 [  71392 00] 7313038.bin 
+-r-xr-xr-x   1    0    0     302046 Oct  6 2009 [  71552 00] 766858.bin 
+-r-xr-xr-x   1    0    0     253017 Oct  6 2009 [  71712 00] 766863.bin 
+-r-xr-xr-x   1    0    0     336586 Oct  6 2009 [  71840 00] 786923.bin 
+-r-xr-xr-x   1    0    0     312224 Oct  6 2009 [  72016 00] 8277019.bin 
+
+Directory listing of /PSP_GAME/USRDIR/Data/Pic/3/
+dr-xr-xr-x   1    0    0       4096 Dec  9 2010 [     50 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     34 02] .. 
+-r-xr-xr-x   1    0    0     150039 Oct  6 2009 [  72176 00] 10421191.bin 
+-r-xr-xr-x   1    0    0     270249 Oct  6 2009 [  72256 00] 10591264.bin 
+-r-xr-xr-x   1    0    0     189213 Oct  6 2009 [  72400 00] 10809991.bin 
+-r-xr-xr-x   1    0    0     258370 Oct  6 2009 [  72496 00] 1263835.bin 
+-r-xr-xr-x   1    0    0     281714 Oct  6 2009 [  72624 00] 1503842.bin 
+-r-xr-xr-x   1    0    0     294681 Oct  6 2009 [  72768 00] 1697229.bin 
+-r-xr-xr-x   1    0    0     305257 Oct  6 2009 [  72912 00] 182923.bin 
+-r-xr-xr-x   1    0    0     161577 Oct  6 2009 [  73072 00] 2173868.bin 
+-r-xr-xr-x   1    0    0     295561 Oct  6 2009 [  73152 00] 2349275.bin 
+-r-xr-xr-x   1    0    0     237805 Oct  6 2009 [  73312 00] 2419410.bin 
+-r-xr-xr-x   1    0    0     302426 Oct  6 2009 [  73440 00] 2528723.bin 
+-r-xr-xr-x   1    0    0     267195 Oct  6 2009 [  73600 00] 2835038.bin 
+-r-xr-xr-x   1    0    0     218455 Oct  6 2009 [  73744 00] 2840953.bin 
+-r-xr-xr-x   1    0    0     259681 Oct  6 2009 [  73856 00] 3468619.bin 
+-r-xr-xr-x   1    0    0     312991 Oct  6 2009 [  73984 00] 3561456.bin 
+-r-xr-xr-x   1    0    0     305913 Oct  6 2009 [  74144 00] 3596001.bin 
+-r-xr-xr-x   1    0    0     263802 Oct  6 2009 [  74304 00] 36590.bin 
+-r-xr-xr-x   1    0    0     274763 Oct  6 2009 [  74448 00] 3795757.bin 
+-r-xr-xr-x   1    0    0     316366 Oct  6 2009 [  74592 00] 44116.bin 
+-r-xr-xr-x   1    0    0     327601 Oct  6 2009 [  74752 00] 443864.bin 
+-r-xr-xr-x   1    0    0     298365 Oct  6 2009 [  74912 00] 447727.bin 
+-r-xr-xr-x   1    0    0     269007 Oct  6 2009 [  75072 00] 454594.bin 
+-r-xr-xr-x   1    0    0     299545 Oct  6 2009 [  75216 00] 4655257.bin 
+-r-xr-xr-x   1    0    0     250802 Oct  6 2009 [  75376 00] 4822231.bin 
+-r-xr-xr-x   1    0    0     264484 Oct  6 2009 [  75504 00] 4826410.bin 
+-r-xr-xr-x   1    0    0     299550 Oct  6 2009 [  75648 00] 487279.bin 
+-r-xr-xr-x   1    0    0     308565 Oct  6 2009 [  75808 00] 4882825.bin 
+-r-xr-xr-x   1    0    0     255086 Oct  6 2009 [  75968 00] 490190.bin 
+-r-xr-xr-x   1    0    0     288504 Oct  6 2009 [  76096 00] 5560453.bin 
+-r-xr-xr-x   1    0    0     298050 Oct  6 2009 [  76240 00] 5560456.bin 
+-r-xr-xr-x   1    0    0     311345 Oct  6 2009 [  76400 00] 5885317.bin 
+-r-xr-xr-x   1    0    0     211131 Oct  6 2009 [  76560 00] 64712.bin 
+-r-xr-xr-x   1    0    0     288819 Oct  6 2009 [  76672 00] 67350.bin 
+-r-xr-xr-x   1    0    0     302344 Oct  6 2009 [  76816 00] 6975587.bin 
+-r-xr-xr-x   1    0    0     115641 Oct  6 2009 [  76976 00] 7102570.bin 
+-r-xr-xr-x   1    0    0     289367 Oct  6 2009 [  77040 00] 722604.bin 
+-r-xr-xr-x   1    0    0     263616 Oct  6 2009 [  77184 00] 7266415.bin 
+-r-xr-xr-x   1    0    0     235157 Oct  6 2009 [  77328 00] 7421593.bin 
+-r-xr-xr-x   1    0    0     290716 Oct  6 2009 [  77456 00] 8484367.bin 
+-r-xr-xr-x   1    0    0     298277 Oct  6 2009 [  77600 00] 9895852.bin 
+
+Directory listing of /PSP_GAME/USRDIR/Data/Pic/4/
+dr-xr-xr-x   1    0    0       4096 Dec  9 2010 [     52 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     34 02] .. 
+-r-xr-xr-x   1    0    0     295312 Oct  6 2009 [  77760 00] 10053478.bin 
+-r-xr-xr-x   1    0    0     269072 Oct  6 2009 [  77920 00] 10525975.bin 
+-r-xr-xr-x   1    0    0     227448 Oct  6 2009 [  78064 00] 10672990.bin 
+-r-xr-xr-x   1    0    0     219302 Oct  6 2009 [  78176 00] 108709.bin 
+-r-xr-xr-x   1    0    0     276689 Oct  6 2009 [  78288 00] 11046172.bin 
+-r-xr-xr-x   1    0    0     221869 Oct  6 2009 [  78432 00] 1334758.bin 
+-r-xr-xr-x   1    0    0     271848 Oct  6 2009 [  78544 00] 150306.bin 
+-r-xr-xr-x   1    0    0     248995 Oct  6 2009 [  78688 00] 1526057.bin 
+-r-xr-xr-x   1    0    0     245529 Oct  6 2009 [  78816 00] 1561880.bin 
+-r-xr-xr-x   1    0    0     269601 Oct  6 2009 [  78944 00] 1672485.bin 
+-r-xr-xr-x   1    0    0     227294 Oct  6 2009 [  79088 00] 1764390.bin 
+-r-xr-xr-x   1    0    0     260095 Oct  6 2009 [  79200 00] 1817766.bin 
+-r-xr-xr-x   1    0    0     213619 Oct  6 2009 [  79328 00] 2000844.bin 
+-r-xr-xr-x   1    0    0     265294 Oct  6 2009 [  79440 00] 2161590.bin 
+-r-xr-xr-x   1    0    0     225261 Oct  6 2009 [  79584 00] 2306345.bin 
+-r-xr-xr-x   1    0    0     263683 Oct  6 2009 [  79696 00] 24368.bin 
+-r-xr-xr-x   1    0    0     284009 Oct  6 2009 [  79840 00] 2667995.bin 
+-r-xr-xr-x   1    0    0     262974 Oct  6 2009 [  79984 00] 2884228.bin 
+-r-xr-xr-x   1    0    0     234513 Oct  6 2009 [  80128 00] 3136956.bin 
+-r-xr-xr-x   1    0    0     268367 Oct  6 2009 [  80256 00] 3331615.bin 
+-r-xr-xr-x   1    0    0     287911 Oct  6 2009 [  80400 00] 3399617.bin 
+-r-xr-xr-x   1    0    0     262586 Oct  6 2009 [  80544 00] 3550217.bin 
+-r-xr-xr-x   1    0    0     279905 Oct  6 2009 [  80688 00] 36389740.bin 
+-r-xr-xr-x   1    0    0     288896 Oct  6 2009 [  80832 00] 36912484.bin 
+-r-xr-xr-x   1    0    0     293944 Oct  6 2009 [  80976 00] 36982321.bin 
+-r-xr-xr-x   1    0    0     295695 Oct  6 2009 [  81120 00] 37003126.bin 
+-r-xr-xr-x   1    0    0     267840 Oct  6 2009 [  81280 00] 37126411.bin 
+-r-xr-xr-x   1    0    0     264173 Oct  6 2009 [  81424 00] 4518454.bin 
+-r-xr-xr-x   1    0    0     280054 Oct  6 2009 [  81568 00] 5224657.bin 
+-r-xr-xr-x   1    0    0     101933 Oct  6 2009 [  81712 00] 5398624.bin 
+-r-xr-xr-x   1    0    0     253145 Oct  6 2009 [  81776 00] 6321103.bin 
+-r-xr-xr-x   1    0    0     270809 Oct  6 2009 [  81904 00] 6885538.bin 
+-r-xr-xr-x   1    0    0     268980 Oct  6 2009 [  82048 00] 7135051.bin 
+-r-xr-xr-x   1    0    0     307162 Oct  6 2009 [  82192 00] 7223206.bin 
+-r-xr-xr-x   1    0    0     265543 Oct  6 2009 [  82352 00] 7358407.bin 
+-r-xr-xr-x   1    0    0     270367 Oct  6 2009 [  82496 00] 7776193.bin 
+-r-xr-xr-x   1    0    0     233313 Oct  6 2009 [  82640 00] 8446039.bin 
+-r-xr-xr-x   1    0    0     221047 Oct  6 2009 [  82768 00] 8503279.bin 
+-r-xr-xr-x   1    0    0     244376 Oct  6 2009 [  82880 00] 8647738.bin 
+-r-xr-xr-x   1    0    0     285623 Oct  6 2009 [  83008 00] 8770738.bin 
+
+Directory listing of /PSP_GAME/USRDIR/Data/Pic/5/
+dr-xr-xr-x   1    0    0       4096 Dec  9 2010 [     54 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     34 02] .. 
+-r-xr-xr-x   1    0    0     271950 Oct  6 2009 [  83152 00] 10217644.bin 
+-r-xr-xr-x   1    0    0     288134 Oct  6 2009 [  83296 00] 10240924.bin 
+-r-xr-xr-x   1    0    0     271930 Oct  6 2009 [  83440 00] 10661497.bin 
+-r-xr-xr-x   1    0    0     272419 Oct  6 2009 [  83584 00] 10733782.bin 
+-r-xr-xr-x   1    0    0     277736 Oct  6 2009 [  83728 00] 10885693.bin 
+-r-xr-xr-x   1    0    0     296428 Oct  6 2009 [  83872 00] 10944910.bin 
+-r-xr-xr-x   1    0    0     279284 Oct  6 2009 [  84032 00] 115891.bin 
+-r-xr-xr-x   1    0    0     290337 Oct  6 2009 [  84176 00] 16657.bin 
+-r-xr-xr-x   1    0    0     292328 Oct  6 2009 [  84320 00] 187091.bin 
+-r-xr-xr-x   1    0    0     302566 Oct  6 2009 [  84464 00] 2197829.bin 
+-r-xr-xr-x   1    0    0     262910 Oct  6 2009 [  84624 00] 2452586.bin 
+-r-xr-xr-x   1    0    0     276266 Oct  6 2009 [  84768 00] 2504857.bin 
+-r-xr-xr-x   1    0    0     268467 Oct  6 2009 [  84912 00] 2667864.bin 
+-r-xr-xr-x   1    0    0     274152 Oct  6 2009 [  85056 00] 3202213.bin 
+-r-xr-xr-x   1    0    0     299126 Oct  6 2009 [  85200 00] 3430321.bin 
+-r-xr-xr-x   1    0    0     242798 Oct  6 2009 [  85360 00] 3542961.bin 
+-r-xr-xr-x   1    0    0     261945 Oct  6 2009 [  85488 00] 36557947.bin 
+-r-xr-xr-x   1    0    0     322050 Oct  6 2009 [  85616 00] 36881953.bin 
+-r-xr-xr-x   1    0    0     302265 Oct  6 2009 [  85776 00] 37136332.bin 
+-r-xr-xr-x   1    0    0     273670 Oct  6 2009 [  85936 00] 4010395.bin 
+-r-xr-xr-x   1    0    0     295826 Oct  6 2009 [  86080 00] 4937866.bin 
+-r-xr-xr-x   1    0    0     236620 Oct  6 2009 [  86240 00] 4980502.bin 
+-r-xr-xr-x   1    0    0     292532 Oct  6 2009 [  86368 00] 5299711.bin 
+-r-xr-xr-x   1    0    0     290084 Oct  6 2009 [  86512 00] 537778.bin 
+-r-xr-xr-x   1    0    0     293966 Oct  6 2009 [  86656 00] 544493.bin 
+-r-xr-xr-x   1    0    0     291639 Oct  6 2009 [  86800 00] 5469088.bin 
+-r-xr-xr-x   1    0    0     270886 Oct  6 2009 [  86944 00] 556406.bin 
+-r-xr-xr-x   1    0    0     281134 Oct  6 2009 [  87088 00] 6137128.bin 
+-r-xr-xr-x   1    0    0     279434 Oct  6 2009 [  87232 00] 6187120.bin 
+-r-xr-xr-x   1    0    0     261490 Oct  6 2009 [  87376 00] 664884.bin 
+-r-xr-xr-x   1    0    0     282748 Oct  6 2009 [  87504 00] 6947215.bin 
+-r-xr-xr-x   1    0    0     290238 Oct  6 2009 [  87648 00] 722902.bin 
+-r-xr-xr-x   1    0    0     335382 Oct  6 2009 [  87792 00] 7559635.bin 
+-r-xr-xr-x   1    0    0     205244 Oct  6 2009 [  87968 00] 7643287.bin 
+-r-xr-xr-x   1    0    0     245783 Oct  6 2009 [  88080 00] 76604.bin 
+-r-xr-xr-x   1    0    0     352392 Oct  6 2009 [  88208 00] 7938706.bin 
+-r-xr-xr-x   1    0    0     292472 Oct  6 2009 [  88384 00] 8517994.bin 
+-r-xr-xr-x   1    0    0     265767 Oct  6 2009 [  88528 00] 93379.bin 
+-r-xr-xr-x   1    0    0     292882 Oct  6 2009 [  88672 00] 9491425.bin 
+-r-xr-xr-x   1    0    0     274332 Oct  6 2009 [  88816 00] 9724333.bin 
+
+Directory listing of /PSP_GAME/USRDIR/Data/Pic/6/
+dr-xr-xr-x   1    0    0       4096 Dec  9 2010 [     56 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     34 02] .. 
+-r-xr-xr-x   1    0    0     540850 Oct  6 2009 [  88960 00] 10291564.bin 
+-r-xr-xr-x   1    0    0     261837 Oct  6 2009 [  89232 00] 10647583.bin 
+-r-xr-xr-x   1    0    0     296634 Oct  6 2009 [  89360 00] 10665460.bin 
+-r-xr-xr-x   1    0    0     311152 Oct  6 2009 [  89520 00] 10780639.bin 
+-r-xr-xr-x   1    0    0     239941 Oct  6 2009 [  89680 00] 10856665.bin 
+-r-xr-xr-x   1    0    0     279300 Oct  6 2009 [  89808 00] 1103914.bin 
+-r-xr-xr-x   1    0    0     288402 Oct  6 2009 [  89952 00] 11072020.bin 
+-r-xr-xr-x   1    0    0     286781 Oct  6 2009 [  90096 00] 11077576.bin 
+-r-xr-xr-x   1    0    0     285101 Oct  6 2009 [  90240 00] 11081170.bin 
+-r-xr-xr-x   1    0    0     301526 Oct  6 2009 [  90384 00] 1405549.bin 
+-r-xr-xr-x   1    0    0     329611 Oct  6 2009 [  90544 00] 1477400.bin 
+-r-xr-xr-x   1    0    0     296775 Oct  6 2009 [  90720 00] 1864830.bin 
+-r-xr-xr-x   1    0    0     280634 Oct  6 2009 [  90880 00] 1914757.bin 
+-r-xr-xr-x   1    0    0     328204 Oct  6 2009 [  91024 00] 2010998.bin 
+-r-xr-xr-x   1    0    0     308456 Oct  6 2009 [  91200 00] 2188712.bin 
+-r-xr-xr-x   1    0    0     268634 Oct  6 2009 [  91360 00] 224096.bin 
+-r-xr-xr-x   1    0    0     330449 Oct  6 2009 [  91504 00] 2421101.bin 
+-r-xr-xr-x   1    0    0     296426 Oct  6 2009 [  91680 00] 2745573.bin 
+-r-xr-xr-x   1    0    0     332011 Oct  6 2009 [  91840 00] 3075095.bin 
+-r-xr-xr-x   1    0    0     273616 Oct  6 2009 [  92016 00] 33297184.bin 
+-r-xr-xr-x   1    0    0     344986 Oct  6 2009 [  92160 00] 3336875.bin 
+-r-xr-xr-x   1    0    0     325628 Oct  6 2009 [  92336 00] 3466178.bin 
+-r-xr-xr-x   1    0    0     312284 Oct  6 2009 [  92496 00] 3478651.bin 
+-r-xr-xr-x   1    0    0     305001 Oct  6 2009 [  92656 00] 3521675.bin 
+-r-xr-xr-x   1    0    0     268195 Oct  6 2009 [  92816 00] 3530640.bin 
+-r-xr-xr-x   1    0    0     271316 Oct  6 2009 [  92960 00] 36757498.bin 
+-r-xr-xr-x   1    0    0     260432 Oct  6 2009 [  93104 00] 37165309.bin 
+-r-xr-xr-x   1    0    0     294957 Oct  6 2009 [  93232 00] 37282777.bin 
+-r-xr-xr-x   1    0    0     306653 Oct  6 2009 [  93392 00] 386291.bin 
+-r-xr-xr-x   1    0    0     309283 Oct  6 2009 [  93552 00] 5535784.bin 
+-r-xr-xr-x   1    0    0     294812 Oct  6 2009 [  93712 00] 5990566.bin 
+-r-xr-xr-x   1    0    0     258998 Oct  6 2009 [  93856 00] 6049192.bin 
+-r-xr-xr-x   1    0    0     295823 Oct  6 2009 [  93984 00] 6588412.bin 
+-r-xr-xr-x   1    0    0     278270 Oct  6 2009 [  94144 00] 6857743.bin 
+-r-xr-xr-x   1    0    0     286792 Oct  6 2009 [  94288 00] 8759803.bin 
+-r-xr-xr-x   1    0    0     280146 Oct  6 2009 [  94432 00] 8771053.bin 
+-r-xr-xr-x   1    0    0     285533 Oct  6 2009 [  94576 00] 8806459.bin 
+-r-xr-xr-x   1    0    0     240931 Oct  6 2009 [  94720 00] 9436735.bin 
+-r-xr-xr-x   1    0    0     275605 Oct  6 2009 [  94848 00] 9576388.bin 
+-r-xr-xr-x   1    0    0     254698 Oct  6 2009 [  94992 00] 9949843.bin 
+
+Directory listing of /PSP_GAME/USRDIR/Data/Play/Anim/
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     58 02] . 
+dr-xr-xr-x   1    0    0       6144 Dec  9 2010 [     35 02] .. 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     81 02] 10 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     82 02] 11 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     83 02] 12 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     84 02] 13 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     85 02] 14 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     86 02] 15 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     87 02] 16 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     88 02] 17 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     89 02] 1 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     90 02] 2 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     91 02] 3 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     92 02] 5 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     93 02] 6 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     94 02] 7 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     95 02] 8 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     96 02] 9 
+
+Directory listing of /PSP_GAME/USRDIR/Data/Play/Count/
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     59 02] . 
+dr-xr-xr-x   1    0    0       6144 Dec  9 2010 [     35 02] .. 
+-r-xr-xr-x   1    0    0     173276 Jul  8 2009 [  98160 00] 1.gim 
+-r-xr-xr-x   1    0    0     173276 Jul  8 2009 [  98256 00] 2.gim 
+-r-xr-xr-x   1    0    0     173276 Jul  8 2009 [  98352 00] 3.gim 
+-r-xr-xr-x   1    0    0     173272 Jul  8 2009 [  98448 00] 4.gim 
+
+Directory listing of /PSP_GAME/USRDIR/Data/Loading/Anim/1/
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     60 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     43 02] .. 
+-r-xr-xr-x   1    0    0       1752 Aug 27 2009 [  53936 00] 1.gim 
+-r-xr-xr-x   1    0    0       3672 Aug 27 2009 [  53952 00] 2.gim 
+-r-xr-xr-x   1    0    0       5976 Aug 27 2009 [  53968 00] 3.gim 
+-r-xr-xr-x   1    0    0       8280 Aug 27 2009 [  53984 00] 4.gim 
+-r-xr-xr-x   1    0    0       8280 Aug 27 2009 [  54000 00] 5.gim 
+-r-xr-xr-x   1    0    0       8280 Aug 27 2009 [  54016 00] 6.gim 
+-r-xr-xr-x   1    0    0       8280 Aug 27 2009 [  54032 00] 7.gim 
+-r-xr-xr-x   1    0    0        332 Jun 30 2009 [  54048 00] 8.gim 
+-r-xr-xr-x   1    0    0        105 Oct 16 2009 [  54064 00] sync.bin 
+
+Directory listing of /PSP_GAME/USRDIR/Data/MainMenu/Anim/10/
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     61 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     44 02] .. 
+-r-xr-xr-x   1    0    0       2524 Jul 22 2009 [  54768 00] 1.gim 
+-r-xr-xr-x   1    0    0       2524 Jul 22 2009 [  54784 00] 2.gim 
+-r-xr-xr-x   1    0    0       2524 Jul 22 2009 [  54800 00] 3.gim 
+-r-xr-xr-x   1    0    0       2524 Jul 22 2009 [  54816 00] 4.gim 
+-r-xr-xr-x   1    0    0       2524 Jul 22 2009 [  54832 00] 5.gim 
+-r-xr-xr-x   1    0    0       2524 Jul 22 2009 [  54848 00] 6.gim 
+-r-xr-xr-x   1    0    0       2524 Jul 22 2009 [  54864 00] 7.gim 
+-r-xr-xr-x   1    0    0         67 Jul 22 2009 [  54880 00] sync.bin 
+
+Directory listing of /PSP_GAME/USRDIR/Data/MainMenu/Anim/11/
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     62 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     44 02] .. 
+-r-xr-xr-x   1    0    0       4828 Jul 22 2009 [  54896 00] 1.gim 
+-r-xr-xr-x   1    0    0       4828 Jul 22 2009 [  54912 00] 2.gim 
+-r-xr-xr-x   1    0    0       4828 Jul 22 2009 [  54928 00] 3.gim 
+-r-xr-xr-x   1    0    0       4828 Jul 22 2009 [  54944 00] 4.gim 
+-r-xr-xr-x   1    0    0       4828 Jul 22 2009 [  54960 00] 5.gim 
+-r-xr-xr-x   1    0    0       4828 Jul 22 2009 [  54976 00] 6.gim 
+-r-xr-xr-x   1    0    0       4828 Jul 22 2009 [  54992 00] 7.gim 
+-r-xr-xr-x   1    0    0         67 Jul 22 2009 [  55008 00] sync.bin 
+
+Directory listing of /PSP_GAME/USRDIR/Data/MainMenu/Anim/12/
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     63 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     44 02] .. 
+-r-xr-xr-x   1    0    0      30944 Jul 23 2009 [  55024 00] 1.gim 
+-r-xr-xr-x   1    0    0      30944 Jul 23 2009 [  55040 00] 2.gim 
+-r-xr-xr-x   1    0    0      30944 Jul 23 2009 [  55056 00] 3.gim 
+-r-xr-xr-x   1    0    0      30944 Jul 23 2009 [  55072 00] 4.gim 
+-r-xr-xr-x   1    0    0      30944 Jul 23 2009 [  55088 00] 5.gim 
+-r-xr-xr-x   1    0    0      30944 Jul 23 2009 [  55104 00] 6.gim 
+-r-xr-xr-x   1    0    0         60 Jul 22 2009 [  55120 00] sync.bin 
+
+Directory listing of /PSP_GAME/USRDIR/Data/MainMenu/Anim/13/
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     64 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     44 02] .. 
+-r-xr-xr-x   1    0    0      30944 Jul 27 2009 [  55136 00] 1.gim 
+-r-xr-xr-x   1    0    0      30944 Jul 27 2009 [  55152 00] 2.gim 
+-r-xr-xr-x   1    0    0      30944 Jul 27 2009 [  55168 00] 3.gim 
+-r-xr-xr-x   1    0    0      30944 Jul 27 2009 [  55184 00] 4.gim 
+-r-xr-xr-x   1    0    0      30944 Jul 27 2009 [  55200 00] 5.gim 
+-r-xr-xr-x   1    0    0      30944 Jul 27 2009 [  55216 00] 6.gim 
+-r-xr-xr-x   1    0    0      30944 Jul 27 2009 [  55232 00] 7.gim 
+-r-xr-xr-x   1    0    0         67 Jul 22 2009 [  55248 00] sync.bin 
+
+Directory listing of /PSP_GAME/USRDIR/Data/MainMenu/Anim/14/
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     65 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     44 02] .. 
+-r-xr-xr-x   1    0    0      12752 Aug  3 2009 [  55264 00] 1.gim 
+-r-xr-xr-x   1    0    0         15 Aug  3 2009 [  55280 00] sync.bin 
+
+Directory listing of /PSP_GAME/USRDIR/Data/MainMenu/Anim/15/
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     66 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     44 02] .. 
+-r-xr-xr-x   1    0    0      12752 Aug  3 2009 [  55296 00] 1.gim 
+-r-xr-xr-x   1    0    0         17 Aug  3 2009 [  55312 00] sync.bin 
+
+Directory listing of /PSP_GAME/USRDIR/Data/MainMenu/Anim/16/
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     67 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     44 02] .. 
+-r-xr-xr-x   1    0    0      12752 Aug  3 2009 [  55328 00] 1.gim 
+-r-xr-xr-x   1    0    0        332 Jun 30 2009 [  55344 00] 10.gim 
+-r-xr-xr-x   1    0    0      12752 Aug  3 2009 [  55360 00] 2.gim 
+-r-xr-xr-x   1    0    0      12752 Aug  3 2009 [  55376 00] 3.gim 
+-r-xr-xr-x   1    0    0      12752 Aug  3 2009 [  55392 00] 4.gim 
+-r-xr-xr-x   1    0    0      12752 Aug  3 2009 [  55408 00] 5.gim 
+-r-xr-xr-x   1    0    0      12752 Aug  3 2009 [  55424 00] 6.gim 
+-r-xr-xr-x   1    0    0      12752 Aug  3 2009 [  55440 00] 7.gim 
+-r-xr-xr-x   1    0    0      12752 Aug  3 2009 [  55456 00] 8.gim 
+-r-xr-xr-x   1    0    0      12752 Aug  3 2009 [  55472 00] 9.gim 
+-r-xr-xr-x   1    0    0        113 Aug  3 2009 [  55488 00] sync.bin 
+
+Directory listing of /PSP_GAME/USRDIR/Data/MainMenu/Anim/17/
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     68 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     44 02] .. 
+-r-xr-xr-x   1    0    0      12752 Aug  3 2009 [  55504 00] 1.gim 
+-r-xr-xr-x   1    0    0        332 Jun 30 2009 [  55520 00] 10.gim 
+-r-xr-xr-x   1    0    0      12752 Aug  3 2009 [  55536 00] 2.gim 
+-r-xr-xr-x   1    0    0      12752 Aug  3 2009 [  55552 00] 3.gim 
+-r-xr-xr-x   1    0    0      12752 Aug  3 2009 [  55568 00] 4.gim 
+-r-xr-xr-x   1    0    0      12752 Aug  3 2009 [  55584 00] 5.gim 
+-r-xr-xr-x   1    0    0      12752 Aug  3 2009 [  55600 00] 6.gim 
+-r-xr-xr-x   1    0    0      12752 Aug  3 2009 [  55616 00] 7.gim 
+-r-xr-xr-x   1    0    0      12752 Aug  3 2009 [  55632 00] 8.gim 
+-r-xr-xr-x   1    0    0      12752 Aug  3 2009 [  55648 00] 9.gim 
+-r-xr-xr-x   1    0    0        131 Aug  3 2009 [  55664 00] sync.bin 
+
+Directory listing of /PSP_GAME/USRDIR/Data/MainMenu/Anim/18/
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     69 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     44 02] .. 
+-r-xr-xr-x   1    0    0      20692 Aug  3 2009 [  55680 00] 1.gim 
+-r-xr-xr-x   1    0    0         13 Aug  3 2009 [  55696 00] sync.bin 
+
+Directory listing of /PSP_GAME/USRDIR/Data/MainMenu/Anim/19/
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     70 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     44 02] .. 
+-r-xr-xr-x   1    0    0      20700 Aug  4 2009 [  55712 00] 1.gim 
+-r-xr-xr-x   1    0    0      20700 Aug  4 2009 [  55728 00] 2.gim 
+-r-xr-xr-x   1    0    0      20700 Aug  4 2009 [  55744 00] 3.gim 
+-r-xr-xr-x   1    0    0      20700 Aug  4 2009 [  55760 00] 4.gim 
+-r-xr-xr-x   1    0    0      20700 Aug  4 2009 [  55776 00] 5.gim 
+-r-xr-xr-x   1    0    0      20700 Aug  4 2009 [  55792 00] 6.gim 
+-r-xr-xr-x   1    0    0      20700 Aug  4 2009 [  55808 00] 7.gim 
+-r-xr-xr-x   1    0    0        332 Jun 30 2009 [  55824 00] 8.gim 
+-r-xr-xr-x   1    0    0         85 Aug  4 2009 [  55840 00] sync.bin 
+
+Directory listing of /PSP_GAME/USRDIR/Data/MainMenu/Anim/1/
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     71 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     44 02] .. 
+-r-xr-xr-x   1    0    0        332 Jun 30 2009 [  54496 00] 1.gim 
+-r-xr-xr-x   1    0    0       3792 Jul 13 2009 [  54512 00] 10.gim 
+-r-xr-xr-x   1    0    0       1232 Jul 13 2009 [  54528 00] 11.gim 
+-r-xr-xr-x   1    0    0       1232 Jul 13 2009 [  54544 00] 12.gim 
+-r-xr-xr-x   1    0    0       2128 Jul 13 2009 [  54560 00] 13.gim 
+-r-xr-xr-x   1    0    0       3792 Jul 13 2009 [  54576 00] 14.gim 
+-r-xr-xr-x   1    0    0       2512 Jul 13 2009 [  54592 00] 15.gim 
+-r-xr-xr-x   1    0    0       2128 Jul 13 2009 [  54608 00] 16.gim 
+-r-xr-xr-x   1    0    0       5328 Jul 13 2009 [  54624 00] 2.gim 
+-r-xr-xr-x   1    0    0      10960 Jul 13 2009 [  54640 00] 3.gim 
+-r-xr-xr-x   1    0    0      15568 Jul 13 2009 [  54656 00] 4.gim 
+-r-xr-xr-x   1    0    0      19792 Jul 13 2009 [  54672 00] 5.gim 
+-r-xr-xr-x   1    0    0      19792 Jul 13 2009 [  54688 00] 6.gim 
+-r-xr-xr-x   1    0    0      19792 Jul 13 2009 [  54704 00] 7.gim 
+-r-xr-xr-x   1    0    0      14544 Jul 13 2009 [  54720 00] 8.gim 
+-r-xr-xr-x   1    0    0       8656 Jul 13 2009 [  54736 00] 9.gim 
+-r-xr-xr-x   1    0    0        196 Jul 13 2009 [  54752 00] sync.bin 
+
+Directory listing of /PSP_GAME/USRDIR/Data/MainMenu/Anim/20/
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     72 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     44 02] .. 
+-r-xr-xr-x   1    0    0       4304 Aug 19 2009 [  55984 00] 1.gim 
+-r-xr-xr-x   1    0    0       4304 Aug 19 2009 [  56000 00] 2.gim 
+-r-xr-xr-x   1    0    0       4304 Aug 19 2009 [  56016 00] 3.gim 
+-r-xr-xr-x   1    0    0       4304 Aug 19 2009 [  56032 00] 4.gim 
+-r-xr-xr-x   1    0    0       4304 Aug 19 2009 [  56048 00] 5.gim 
+-r-xr-xr-x   1    0    0       4304 Aug 19 2009 [  56064 00] 6.gim 
+-r-xr-xr-x   1    0    0       4304 Aug 19 2009 [  56080 00] 7.gim 
+-r-xr-xr-x   1    0    0       4304 Aug 19 2009 [  56096 00] 8.gim 
+-r-xr-xr-x   1    0    0         85 Aug 19 2009 [  56112 00] sync.bin 
+
+Directory listing of /PSP_GAME/USRDIR/Data/MainMenu/Anim/2/
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     73 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     44 02] .. 
+-r-xr-xr-x   1    0    0        332 Jun 30 2009 [  55856 00] 1.gim 
+-r-xr-xr-x   1    0    0      20692 Jul 14 2009 [  55872 00] 2.gim 
+-r-xr-xr-x   1    0    0      20692 Jul 14 2009 [  55888 00] 3.gim 
+-r-xr-xr-x   1    0    0      20692 Jul 14 2009 [  55904 00] 4.gim 
+-r-xr-xr-x   1    0    0      20692 Jul 14 2009 [  55920 00] 5.gim 
+-r-xr-xr-x   1    0    0      20692 Jul 14 2009 [  55936 00] 6.gim 
+-r-xr-xr-x   1    0    0        332 Jun 30 2009 [  55952 00] 7.gim 
+-r-xr-xr-x   1    0    0         87 Jul 13 2009 [  55968 00] sync.bin 
+
+Directory listing of /PSP_GAME/USRDIR/Data/MainMenu/Anim/3/
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     74 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     44 02] .. 
+-r-xr-xr-x   1    0    0        724 Jul 13 2009 [  56128 00] 1.gim 
+-r-xr-xr-x   1    0    0        724 Jul 13 2009 [  56144 00] 2.gim 
+-r-xr-xr-x   1    0    0         32 Jul 13 2009 [  56160 00] sync.bin 
+
+Directory listing of /PSP_GAME/USRDIR/Data/MainMenu/Anim/4/
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     75 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     44 02] .. 
+-r-xr-xr-x   1    0    0        724 Jul 13 2009 [  56176 00] 1.gim 
+-r-xr-xr-x   1    0    0        724 Jul 13 2009 [  56192 00] 2.gim 
+-r-xr-xr-x   1    0    0         32 Jul 13 2009 [  56208 00] sync.bin 
+
+Directory listing of /PSP_GAME/USRDIR/Data/MainMenu/Anim/5/
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     76 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     44 02] .. 
+-r-xr-xr-x   1    0    0      20692 Jul 14 2009 [  56224 00] 1.gim 
+-r-xr-xr-x   1    0    0      20692 Jul 14 2009 [  56240 00] 2.gim 
+-r-xr-xr-x   1    0    0      20692 Jul 14 2009 [  56256 00] 3.gim 
+-r-xr-xr-x   1    0    0      20692 Jul 14 2009 [  56272 00] 4.gim 
+-r-xr-xr-x   1    0    0      20692 Jul 14 2009 [  56288 00] 5.gim 
+-r-xr-xr-x   1    0    0      20692 Jul 14 2009 [  56304 00] 6.gim 
+-r-xr-xr-x   1    0    0      20692 Jul 14 2009 [  56320 00] 7.gim 
+-r-xr-xr-x   1    0    0         96 Jul 14 2009 [  56336 00] sync.bin 
+
+Directory listing of /PSP_GAME/USRDIR/Data/MainMenu/Anim/6/
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     77 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     44 02] .. 
+-r-xr-xr-x   1    0    0      23252 Jul 14 2009 [  56352 00] 1.gim 
+-r-xr-xr-x   1    0    0      23252 Jul 14 2009 [  56368 00] 2.gim 
+-r-xr-xr-x   1    0    0      23252 Jul 14 2009 [  56384 00] 3.gim 
+-r-xr-xr-x   1    0    0      23252 Jul 14 2009 [  56400 00] 4.gim 
+-r-xr-xr-x   1    0    0      23252 Jul 14 2009 [  56416 00] 5.gim 
+-r-xr-xr-x   1    0    0      23252 Jul 14 2009 [  56432 00] 6.gim 
+-r-xr-xr-x   1    0    0         60 Jul 14 2009 [  56448 00] sync.bin 
+
+Directory listing of /PSP_GAME/USRDIR/Data/MainMenu/Anim/7/
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     78 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     44 02] .. 
+-r-xr-xr-x   1    0    0      23252 Jul 15 2009 [  56464 00] 1.gim 
+-r-xr-xr-x   1    0    0      23252 Jul 15 2009 [  56480 00] 2.gim 
+-r-xr-xr-x   1    0    0      23252 Jul 15 2009 [  56496 00] 3.gim 
+-r-xr-xr-x   1    0    0      23252 Jul 15 2009 [  56512 00] 4.gim 
+-r-xr-xr-x   1    0    0      23252 Jul 15 2009 [  56528 00] 5.gim 
+-r-xr-xr-x   1    0    0      23252 Jul 15 2009 [  56544 00] 6.gim 
+-r-xr-xr-x   1    0    0         59 Jul 15 2009 [  56560 00] sync.bin 
+
+Directory listing of /PSP_GAME/USRDIR/Data/MainMenu/Anim/8/
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     79 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     44 02] .. 
+-r-xr-xr-x   1    0    0       2524 Jul 22 2009 [  56576 00] 1.gim 
+-r-xr-xr-x   1    0    0       2524 Jul 22 2009 [  56592 00] 2.gim 
+-r-xr-xr-x   1    0    0       2524 Jul 22 2009 [  56608 00] 3.gim 
+-r-xr-xr-x   1    0    0       2524 Jul 22 2009 [  56624 00] 4.gim 
+-r-xr-xr-x   1    0    0       2524 Jul 22 2009 [  56640 00] 5.gim 
+-r-xr-xr-x   1    0    0       2524 Jul 22 2009 [  56656 00] 6.gim 
+-r-xr-xr-x   1    0    0         60 Jul 22 2009 [  56672 00] sync.bin 
+
+Directory listing of /PSP_GAME/USRDIR/Data/MainMenu/Anim/9/
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     80 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     44 02] .. 
+-r-xr-xr-x   1    0    0       4828 Jul 22 2009 [  56688 00] 1.gim 
+-r-xr-xr-x   1    0    0       4828 Jul 22 2009 [  56704 00] 2.gim 
+-r-xr-xr-x   1    0    0       4828 Jul 22 2009 [  56720 00] 3.gim 
+-r-xr-xr-x   1    0    0       4828 Jul 22 2009 [  56736 00] 4.gim 
+-r-xr-xr-x   1    0    0       4828 Jul 22 2009 [  56752 00] 5.gim 
+-r-xr-xr-x   1    0    0       4828 Jul 22 2009 [  56768 00] 6.gim 
+-r-xr-xr-x   1    0    0         60 Jul 22 2009 [  56784 00] sync.bin 
+
+Directory listing of /PSP_GAME/USRDIR/Data/Play/Anim/10/
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     81 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     58 02] .. 
+-r-xr-xr-x   1    0    0      33496 Jul 10 2009 [  95392 00] 1.gim 
+-r-xr-xr-x   1    0    0      33496 Jul 10 2009 [  95424 00] 2.gim 
+-r-xr-xr-x   1    0    0      33496 Jul 10 2009 [  95456 00] 3.gim 
+-r-xr-xr-x   1    0    0         43 Jul 13 2009 [  95488 00] sync.bin 
+
+Directory listing of /PSP_GAME/USRDIR/Data/Play/Anim/11/
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     82 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     58 02] .. 
+-r-xr-xr-x   1    0    0       2128 Jul 30 2009 [  95504 00] 1.gim 
+-r-xr-xr-x   1    0    0       2128 Jul 30 2009 [  95520 00] 10.gim 
+-r-xr-xr-x   1    0    0       2128 Jul 30 2009 [  95536 00] 11.gim 
+-r-xr-xr-x   1    0    0       2128 Jul 30 2009 [  95552 00] 12.gim 
+-r-xr-xr-x   1    0    0       2128 Jul 30 2009 [  95568 00] 2.gim 
+-r-xr-xr-x   1    0    0       2128 Jul 30 2009 [  95584 00] 3.gim 
+-r-xr-xr-x   1    0    0       2128 Jul 30 2009 [  95600 00] 4.gim 
+-r-xr-xr-x   1    0    0       2128 Jul 30 2009 [  95616 00] 5.gim 
+-r-xr-xr-x   1    0    0       2128 Jul 30 2009 [  95632 00] 6.gim 
+-r-xr-xr-x   1    0    0       2128 Jul 30 2009 [  95648 00] 7.gim 
+-r-xr-xr-x   1    0    0       2128 Jul 30 2009 [  95664 00] 8.gim 
+-r-xr-xr-x   1    0    0       2128 Jul 30 2009 [  95680 00] 9.gim 
+-r-xr-xr-x   1    0    0        163 Jul 30 2009 [  95696 00] sync.bin 
+
+Directory listing of /PSP_GAME/USRDIR/Data/Play/Anim/12/
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     83 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     58 02] .. 
+-r-xr-xr-x   1    0    0      24276 Aug  7 2009 [  95712 00] 1.gim 
+-r-xr-xr-x   1    0    0      24276 Aug  7 2009 [  95728 00] 2.gim 
+-r-xr-xr-x   1    0    0      24276 Aug  7 2009 [  95744 00] 3.gim 
+-r-xr-xr-x   1    0    0      24276 Aug  7 2009 [  95760 00] 4.gim 
+-r-xr-xr-x   1    0    0      24276 Aug  7 2009 [  95776 00] 5.gim 
+-r-xr-xr-x   1    0    0      24276 Aug  7 2009 [  95792 00] 6.gim 
+-r-xr-xr-x   1    0    0      24276 Aug  7 2009 [  95808 00] 7.gim 
+-r-xr-xr-x   1    0    0      24276 Aug  7 2009 [  95824 00] 8.gim 
+-r-xr-xr-x   1    0    0        108 Aug  7 2009 [  95840 00] sync.bin 
+
+Directory listing of /PSP_GAME/USRDIR/Data/Play/Anim/13/
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     84 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     58 02] .. 
+-r-xr-xr-x   1    0    0      12496 Aug 18 2009 [  95856 00] 1.gim 
+-r-xr-xr-x   1    0    0        332 Jun 30 2009 [  95872 00] 2.gim 
+-r-xr-xr-x   1    0    0         23 Aug 18 2009 [  95888 00] sync.bin 
+
+Directory listing of /PSP_GAME/USRDIR/Data/Play/Anim/14/
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     85 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     58 02] .. 
+-r-xr-xr-x   1    0    0       4304 Aug 19 2009 [  95904 00] 1.gim 
+-r-xr-xr-x   1    0    0       4304 Aug 19 2009 [  95920 00] 2.gim 
+-r-xr-xr-x   1    0    0       4304 Aug 19 2009 [  95936 00] 3.gim 
+-r-xr-xr-x   1    0    0       4304 Aug 19 2009 [  95952 00] 4.gim 
+-r-xr-xr-x   1    0    0       4304 Aug 19 2009 [  95968 00] 5.gim 
+-r-xr-xr-x   1    0    0       4304 Aug 19 2009 [  95984 00] 6.gim 
+-r-xr-xr-x   1    0    0       4304 Aug 19 2009 [  96000 00] 7.gim 
+-r-xr-xr-x   1    0    0       4304 Aug 19 2009 [  96016 00] 8.gim 
+-r-xr-xr-x   1    0    0         85 Aug 19 2009 [  96032 00] sync.bin 
+
+Directory listing of /PSP_GAME/USRDIR/Data/Play/Anim/15/
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     86 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     58 02] .. 
+-r-xr-xr-x   1    0    0       3792 Aug 23 2009 [  96048 00] 1.gim 
+-r-xr-xr-x   1    0    0       3792 Aug 23 2009 [  96064 00] 2.gim 
+-r-xr-xr-x   1    0    0         24 Aug 23 2009 [  96080 00] sync.bin 
+
+Directory listing of /PSP_GAME/USRDIR/Data/Play/Anim/16/
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     87 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     58 02] .. 
+-r-xr-xr-x   1    0    0      15576 Aug 23 2009 [  96096 00] 1.gim 
+-r-xr-xr-x   1    0    0      15576 Aug 23 2009 [  96112 00] 10.gim 
+-r-xr-xr-x   1    0    0      15576 Aug 23 2009 [  96128 00] 11.gim 
+-r-xr-xr-x   1    0    0      15576 Aug 23 2009 [  96144 00] 12.gim 
+-r-xr-xr-x   1    0    0      15576 Aug 23 2009 [  96160 00] 13.gim 
+-r-xr-xr-x   1    0    0      15576 Aug 23 2009 [  96176 00] 14.gim 
+-r-xr-xr-x   1    0    0      15576 Aug 23 2009 [  96192 00] 15.gim 
+-r-xr-xr-x   1    0    0      15576 Aug 23 2009 [  96208 00] 16.gim 
+-r-xr-xr-x   1    0    0      15576 Aug 23 2009 [  96224 00] 17.gim 
+-r-xr-xr-x   1    0    0        332 Jun 30 2009 [  96240 00] 18.gim 
+-r-xr-xr-x   1    0    0      15576 Aug 23 2009 [  96256 00] 2.gim 
+-r-xr-xr-x   1    0    0      15576 Aug 23 2009 [  96272 00] 3.gim 
+-r-xr-xr-x   1    0    0      15576 Aug 23 2009 [  96288 00] 4.gim 
+-r-xr-xr-x   1    0    0      15576 Aug 23 2009 [  96304 00] 5.gim 
+-r-xr-xr-x   1    0    0      15576 Aug 23 2009 [  96320 00] 6.gim 
+-r-xr-xr-x   1    0    0      15576 Aug 23 2009 [  96336 00] 7.gim 
+-r-xr-xr-x   1    0    0      15576 Aug 23 2009 [  96352 00] 8.gim 
+-r-xr-xr-x   1    0    0      15576 Aug 23 2009 [  96368 00] 9.gim 
+-r-xr-xr-x   1    0    0        167 Aug 24 2009 [  96384 00] sync.bin 
+
+Directory listing of /PSP_GAME/USRDIR/Data/Play/Anim/17/
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     88 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     58 02] .. 
+-r-xr-xr-x   1    0    0      15576 Aug 26 2009 [  96400 00] 1.gim 
+-r-xr-xr-x   1    0    0      15576 Aug 26 2009 [  96416 00] 10.gim 
+-r-xr-xr-x   1    0    0      15576 Aug 26 2009 [  96432 00] 2.gim 
+-r-xr-xr-x   1    0    0      15576 Aug 26 2009 [  96448 00] 3.gim 
+-r-xr-xr-x   1    0    0      15576 Aug 26 2009 [  96464 00] 4.gim 
+-r-xr-xr-x   1    0    0      15576 Aug 26 2009 [  96480 00] 5.gim 
+-r-xr-xr-x   1    0    0      15576 Aug 26 2009 [  96496 00] 6.gim 
+-r-xr-xr-x   1    0    0      15576 Aug 26 2009 [  96512 00] 7.gim 
+-r-xr-xr-x   1    0    0      15576 Aug 26 2009 [  96528 00] 8.gim 
+-r-xr-xr-x   1    0    0      15576 Aug 26 2009 [  96544 00] 9.gim 
+-r-xr-xr-x   1    0    0         95 Sep 10 2009 [  96560 00] sync.bin 
+
+Directory listing of /PSP_GAME/USRDIR/Data/Play/Anim/1/
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     89 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     58 02] .. 
+-r-xr-xr-x   1    0    0      10968 Jul  3 2009 [  95120 00] 1.gim 
+-r-xr-xr-x   1    0    0      10968 Jul  3 2009 [  95136 00] 10.gim 
+-r-xr-xr-x   1    0    0      10968 Jul  3 2009 [  95152 00] 11.gim 
+-r-xr-xr-x   1    0    0      10968 Jul  3 2009 [  95168 00] 12.gim 
+-r-xr-xr-x   1    0    0      10968 Jul  3 2009 [  95184 00] 13.gim 
+-r-xr-xr-x   1    0    0      10968 Jul  3 2009 [  95200 00] 14.gim 
+-r-xr-xr-x   1    0    0      10968 Jul  3 2009 [  95216 00] 15.gim 
+-r-xr-xr-x   1    0    0      10968 Jul  3 2009 [  95232 00] 16.gim 
+-r-xr-xr-x   1    0    0      10968 Jul  3 2009 [  95248 00] 2.gim 
+-r-xr-xr-x   1    0    0      10968 Jul  3 2009 [  95264 00] 3.gim 
+-r-xr-xr-x   1    0    0      10968 Jul  3 2009 [  95280 00] 4.gim 
+-r-xr-xr-x   1    0    0      10968 Jul  3 2009 [  95296 00] 5.gim 
+-r-xr-xr-x   1    0    0      10968 Jul  3 2009 [  95312 00] 6.gim 
+-r-xr-xr-x   1    0    0      10968 Jul  3 2009 [  95328 00] 7.gim 
+-r-xr-xr-x   1    0    0      10968 Jul  3 2009 [  95344 00] 8.gim 
+-r-xr-xr-x   1    0    0      10968 Jul  3 2009 [  95360 00] 9.gim 
+-r-xr-xr-x   1    0    0        197 Jul  3 2009 [  95376 00] sync.bin 
+
+Directory listing of /PSP_GAME/USRDIR/Data/Play/Anim/2/
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     90 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     58 02] .. 
+-r-xr-xr-x   1    0    0        332 Jun 30 2009 [  96576 00] 1.gim 
+-r-xr-xr-x   1    0    0       1236 Jun 30 2009 [  96592 00] 2.gim 
+-r-xr-xr-x   1    0    0         32 Jun 30 2009 [  96608 00] sync.bin 
+
+Directory listing of /PSP_GAME/USRDIR/Data/Play/Anim/3/
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     91 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     58 02] .. 
+-r-xr-xr-x   1    0    0        332 Jun 30 2009 [  96624 00] 1.gim 
+-r-xr-xr-x   1    0    0      24528 Jun 30 2009 [  96640 00] 2.gim 
+-r-xr-xr-x   1    0    0      24528 Jun 30 2009 [  96656 00] 3.gim 
+-r-xr-xr-x   1    0    0      24528 Jun 30 2009 [  96672 00] 4.gim 
+-r-xr-xr-x   1    0    0      24528 Jun 30 2009 [  96688 00] 5.gim 
+-r-xr-xr-x   1    0    0      24528 Jun 30 2009 [  96704 00] 6.gim 
+-r-xr-xr-x   1    0    0      24528 Jun 30 2009 [  96720 00] 7.gim 
+-r-xr-xr-x   1    0    0      24528 Jun 30 2009 [  96736 00] 8.gim 
+-r-xr-xr-x   1    0    0        109 Jun 30 2009 [  96752 00] sync.bin 
+
+Directory listing of /PSP_GAME/USRDIR/Data/Play/Anim/5/
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     92 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     58 02] .. 
+-r-xr-xr-x   1    0    0       7884 Jul  1 2009 [  96768 00] 1.gim 
+-r-xr-xr-x   1    0    0       7884 Jul  1 2009 [  96784 00] 10.gim 
+-r-xr-xr-x   1    0    0       7884 Jul  1 2009 [  96800 00] 11.gim 
+-r-xr-xr-x   1    0    0       7884 Jul  1 2009 [  96816 00] 12.gim 
+-r-xr-xr-x   1    0    0       7884 Jul  1 2009 [  96832 00] 13.gim 
+-r-xr-xr-x   1    0    0        332 Jun 30 2009 [  96848 00] 14.gim 
+-r-xr-xr-x   1    0    0       7884 Jul  1 2009 [  96864 00] 2.gim 
+-r-xr-xr-x   1    0    0       7884 Jul  1 2009 [  96880 00] 3.gim 
+-r-xr-xr-x   1    0    0       7884 Jul  1 2009 [  96896 00] 4.gim 
+-r-xr-xr-x   1    0    0       7884 Jul  1 2009 [  96912 00] 5.gim 
+-r-xr-xr-x   1    0    0       7884 Jul  1 2009 [  96928 00] 6.gim 
+-r-xr-xr-x   1    0    0       7884 Jul  1 2009 [  96944 00] 7.gim 
+-r-xr-xr-x   1    0    0       7884 Jul  1 2009 [  96960 00] 8.gim 
+-r-xr-xr-x   1    0    0       7884 Jul  1 2009 [  96976 00] 9.gim 
+-r-xr-xr-x   1    0    0        187 Jul  1 2009 [  96992 00] sync.bin 
+
+Directory listing of /PSP_GAME/USRDIR/Data/Play/Anim/6/
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     93 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     58 02] .. 
+-r-xr-xr-x   1    0    0       9808 Jul  8 2009 [  97008 00] 1.gim 
+-r-xr-xr-x   1    0    0      22608 Jul  8 2009 [  97024 00] 2.gim 
+-r-xr-xr-x   1    0    0      61136 Jul  8 2009 [  97040 00] 3.gim 
+-r-xr-xr-x   1    0    0     115408 Jul  8 2009 [  97072 00] 4.gim 
+-r-xr-xr-x   1    0    0     138448 Jul  8 2009 [  97136 00] 5.gim 
+-r-xr-xr-x   1    0    0         56 Sep 10 2009 [  97216 00] sync.bin 
+
+Directory listing of /PSP_GAME/USRDIR/Data/Play/Anim/7/
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     94 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     58 02] .. 
+-r-xr-xr-x   1    0    0      20688 Jul  8 2009 [  97232 00] 1.gim 
+-r-xr-xr-x   1    0    0      40528 Jul  8 2009 [  97248 00] 2.gim 
+-r-xr-xr-x   1    0    0     107728 Jul  8 2009 [  97280 00] 3.gim 
+-r-xr-xr-x   1    0    0     115408 Jul  8 2009 [  97344 00] 4.gim 
+-r-xr-xr-x   1    0    0     167632 Jul  8 2009 [  97408 00] 5.gim 
+-r-xr-xr-x   1    0    0     167632 Jul  8 2009 [  97504 00] 6.gim 
+-r-xr-xr-x   1    0    0         73 Sep 10 2009 [  97600 00] sync.bin 
+
+Directory listing of /PSP_GAME/USRDIR/Data/Play/Anim/8/
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     95 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     58 02] .. 
+-r-xr-xr-x   1    0    0        332 Jun 30 2009 [  97616 00] 1.gim 
+-r-xr-xr-x   1    0    0       9424 Jul 10 2009 [  97632 00] 10.gim 
+-r-xr-xr-x   1    0    0       8912 Jul 10 2009 [  97648 00] 11.gim 
+-r-xr-xr-x   1    0    0      14544 Jul 10 2009 [  97664 00] 12.gim 
+-r-xr-xr-x   1    0    0       9424 Jul 10 2009 [  97680 00] 13.gim 
+-r-xr-xr-x   1    0    0       9424 Jul 10 2009 [  97696 00] 2.gim 
+-r-xr-xr-x   1    0    0      13648 Jul 10 2009 [  97712 00] 3.gim 
+-r-xr-xr-x   1    0    0       9424 Jul 10 2009 [  97728 00] 4.gim 
+-r-xr-xr-x   1    0    0       8912 Jul 10 2009 [  97744 00] 5.gim 
+-r-xr-xr-x   1    0    0      14544 Jul 10 2009 [  97760 00] 6.gim 
+-r-xr-xr-x   1    0    0       9424 Jul 10 2009 [  97776 00] 7.gim 
+-r-xr-xr-x   1    0    0       9424 Jul 10 2009 [  97792 00] 8.gim 
+-r-xr-xr-x   1    0    0      13648 Jul 10 2009 [  97808 00] 9.gim 
+-r-xr-xr-x   1    0    0        165 Jul 13 2009 [  97824 00] sync.bin 
+
+Directory listing of /PSP_GAME/USRDIR/Data/Play/Anim/9/
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     96 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  9 2010 [     58 02] .. 
+-r-xr-xr-x   1    0    0     102616 Jul  9 2009 [  97840 00] 1.gim 
+-r-xr-xr-x   1    0    0     102616 Jul  9 2009 [  97904 00] 2.gim 
+-r-xr-xr-x   1    0    0     102612 Jul  9 2009 [  97968 00] 3.gim 
+-r-xr-xr-x   1    0    0         43 Jul 13 2009 [  98032 00] sync.bin 
+=============================================================== 
+Generated on Tue 09/08/2022 at  5:37:49.48 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

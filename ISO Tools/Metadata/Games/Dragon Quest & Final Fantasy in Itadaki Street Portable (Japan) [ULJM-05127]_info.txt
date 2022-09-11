@@ -1,0 +1,116 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Dragon Quest & Final Fantasy in Itadaki Street Portable  
+Title ID: ULJM-05127 
+Region: Japan  
+Languages:   
+Volume Creation Date: 2006-04-23 19:20:59 
+Volume Size: 294 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: 
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 150960
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Apr 23 2006 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 23 2006 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Mar 17 2006 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Mar 17 2006 [     31 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Mar 17 2006 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 23 2006 [     22 02] .. 
+-r-xr-xr-x   1    0    0      28992 Feb 16 2006 [  23680 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        472 Apr 21 2006 [  27008 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      28858 Mar 10 2006 [  26992 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0     281442 Mar 15 2006 [  26848 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Mar 17 2006 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Mar 17 2006 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Mar 17 2006 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 17 2006 [     23 02] .. 
+-r-xr-xr-x   1    0    0    6430978 Apr 23 2006 [  23696 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    6431328 Apr 23 2006 [     32 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Mar 17 2006 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Mar 17 2006 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 17 2006 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 Mar 28 2006 [     27 02] kmodule 
+dr-xr-xr-x   1    0    0       2048 Mar 31 2006 [     28 02] module 
+-r-xr-xr-x   1    0    0  253172066 Apr 23 2006 [  27328 00] pack.dat 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Mar 17 2006 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 17 2006 [     24 02] .. 
+-r-xr-xr-x   1    0    0   14809632 Mar 17 2006 [   7296 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    3951712 Mar 17 2006 [   3200 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       1772 Mar 17 2006 [   3184 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/kmodule/
+dr-xr-xr-x   1    0    0       2048 Mar 28 2006 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 17 2006 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Mar 31 2006 [     29 02] CVS 
+-r-xr-xr-x   1    0    0       3264 Dec  8 2005 [  27024 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0       5136 Dec  8 2005 [  27136 00] mpegbase.prx 
+-r-xr-xr-x   1    0    0       3440 Dec  8 2005 [  27152 00] videocodec.prx 
+
+Directory listing of /PSP_GAME/USRDIR/module/
+dr-xr-xr-x   1    0    0       2048 Mar 31 2006 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 17 2006 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Mar 31 2006 [     30 02] CVS 
+-r-xr-xr-x   1    0    0      10128 Dec  8 2005 [  27264 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0      23488 Dec  8 2005 [  27280 00] libfont.prx 
+-r-xr-xr-x   1    0    0      20976 Dec  8 2005 [  27296 00] mpeg.prx 
+-r-xr-xr-x   1    0    0       6320 Dec  8 2005 [  27312 00] psmf.prx 
+
+Directory listing of /PSP_GAME/USRDIR/kmodule/CVS/
+dr-xr-xr-x   1    0    0       2048 Mar 31 2006 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 28 2006 [     27 02] .. 
+-r-xr-xr-x   1    0    0         58 Mar 28 2006 [  27072 00] Entries.Extra.Old 
+-r-xr-xr-x   1    0    0         58 Mar 31 2006 [  27056 00] Entries.Extra 
+-r-xr-xr-x   1    0    0        154 Mar 28 2006 [  27088 00] Entries.Old 
+-r-xr-xr-x   1    0    0        154 Mar 31 2006 [  27040 00] Entries 
+-r-xr-xr-x   1    0    0         23 Mar 24 2006 [  27104 00] Repository 
+-r-xr-xr-x   1    0    0         40 Mar 24 2006 [  27120 00] Root 
+
+Directory listing of /PSP_GAME/USRDIR/module/CVS/
+dr-xr-xr-x   1    0    0       2048 Mar 31 2006 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 31 2006 [     28 02] .. 
+-r-xr-xr-x   1    0    0         68 Mar 31 2006 [  27200 00] Entries.Extra.Old 
+-r-xr-xr-x   1    0    0         68 Mar 31 2006 [  27184 00] Entries.Extra 
+-r-xr-xr-x   1    0    0        195 Mar 31 2006 [  27216 00] Entries.Old 
+-r-xr-xr-x   1    0    0        195 Mar 31 2006 [  27168 00] Entries 
+-r-xr-xr-x   1    0    0         22 Mar 24 2006 [  27232 00] Repository 
+-r-xr-xr-x   1    0    0         40 Mar 24 2006 [  27248 00] Root 
+=============================================================== 
+Generated on Sat 20/08/2022 at  2:53:04.00 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

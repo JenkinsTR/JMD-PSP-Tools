@@ -1,0 +1,891 @@
+=============================================================================== 
+Setting up our binary paths . . . 
+ 
+SET DBTOOLS as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty"  
+SET IM_MASTER as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64"  
+SET LAME as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\Lame\lame.exe"  
+SET FFMPEG as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ffmpeg-n5.1-latest-win64-gpl-5.1\bin\ffmpeg.exe"  
+SET HNDBRK as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\HandBrakeCLI-1.5.1-win-x86_64"  
+SET HBCLI as "HandBrakeCLI.exe"  
+SET HBMKV as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\HandBrakeCLI-1.5.1-win-x86_64\HandBrakeCLI.exe"  
+SET FNR as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\fnr.exe"  
+SET SZ as "C:\Program Files\7-Zip\7z.exe"  
+SET DDTBEXE as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\RVDWTools\DateTimeBox.exe"  
+SET DDDBEXE as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\RVDWTools\DropDownBox.exe"  
+SET DINBEXE as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\RVDWTools\InputBox.exe"  
+SET DMGBEXE as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\RVDWTools\MessageBox.exe"  
+SET DOFBEXE as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\RVDWTools\OpenFileBox.exe"  
+SET DODBEXE as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\RVDWTools\OpenFolderBox.exe"  
+SET DPRNEXE as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\RVDWTools\PrinterSelectBox.exe"  
+SET DSVFEXE as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\RVDWTools\SaveFileBox.exe"  
+SET OPTEXE as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\optipng.exe"  
+SET CSHEXE as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\pngcrush_1_7_87_w64.exe"  
+SET IM_COMPARE as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\compare.exe"  
+SET IM_COMPOSITE as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\composite.exe"  
+SET IM_CONJURE as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\conjure.exe"  
+SET IM_CONVERT as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\convert.exe"  
+SET IM_DCRAW as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\dcraw.exe"  
+SET IM_FFMPEG as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\ffmpeg.exe"  
+SET IM_HP2XX as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\hp2xx.exe"  
+SET IM_ID as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\identify.exe"  
+SET IM_IMDISP as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\IMDisplay.exe"  
+SET IM_MAGICK as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\magick.exe"  
+SET IM_MOGRIFY as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\mogrify.exe"  
+SET IM_MONTAGE as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\montage.exe"  
+SET IM_STREAM as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\stream.exe"  
+SET HSBT_WINP as C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\HSBT\winput.exe  
+SET HSBT_WPRO as C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\HSBT\Wprompt.exe  
+SET HSBT_WSEL as C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\HSBT\Wselect.exe  
+SET HSBT_FTO as C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\HSBT\FileToOpen.exe  
+SET HSBT_FTS as C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\HSBT\FileToSave.exe  
+SET HSBT_WBOX as C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\HSBT\Wbox.exe  
+SET HSBT_WBUS as C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\HSBT\Wbusy.exe  
+SET HSBT_WDIR as C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\HSBT\Wfolder.exe  
+SET HSBT_WDIR2 as C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\HSBT\Wfolder2.exe  
+SET MKVNOTICE_IMG as explorer "C:\Program Files (x86)\Jenkins Media\JM Tools\Readme\mkvnotice.jpg"  
+ 
+Done  
+ 
+SET JMT_VIDEO_DB as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\pspmc.database.files\pspmc.database.files.videos.csv"  
+SET JMT_AUDIO_DB as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\pspmc.database.files\pspmc.database.files.audio.csv"  
+SET JMT_IMAGE_DB as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\pspmc.database.files\pspmc.database.files.images.csv"  
+=============================================================================== 
+JMDigital PSP Media Converter [jm_pspmc_v1 - v1.0.0.1 (2022-08-05)]  
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved.  
+=============================================================================== 
+ 
+ 
+ 
+Replacing data... 
+ 
+ 
+Counting lines...  
+ 
+ 
+Running FOR loop on file 
+ 
+Number of lines in selection = 16 
+ 
+If we have 1 line, most likely only 1 file was selected 
+IF 16 EQ 1 GOTO PSPMC_VIDEO_SKIPFNR 
+ 
+We detected more than 1 line in "C:\Users\Jenkins\AppData\Local\Temp\userselectedfiles.tmp" 
+ 
+Continuing... 
+ 
+Replacing data... 
+ 
+Replacing data... 
+ 
+Jenkins, please select your output folder . . .  
+ 
+Your chosen output folder is:  
+H:\_PSP  
+ 
+FILE EXISTS AS P:\TV Series\Animation\American Dad\Season 02\S02E01 - Bullocks to Stan_q28.mkv 
+FILED SET AS P:\TV Series\Animation\American Dad\Season 02\ 
+FILEN SET AS S02E01 - Bullocks to Stan_q28 
+FILEX SET AS .mkv 
+FILEZ SET AS 64694469 
+ 
+Bytes:    64694469 
+KBytes:    63179 
+SET KBYTES AS 63179 
+MBytes:    62 
+SET MBYTES AS 62 
+ 
+Converting S02E01 - Bullocks to Stan_q28.mkv to S02E01 - Bullocks to Stan_q28_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 23.976  
+"VHEIGHT" = 540  
+"VWIDTH" = 720  
+"VDAR" = 1.333  
+"VDUR" = 1314815  
+OUTFILEZKB SET AS 54398140 
+ 
+Bytes:    54398140 
+KBytes:    53124 
+SET OUTKBYTES AS 53124 
+MBytes:    52 
+SET OUTMBYTES AS 52 
+ 
+INSIZEKB = 63179 
+OUTSIZEKB = 63179-53124 = 10055 
+OUTPERCKB = 10055*100 = 1005500 
+OUTPERCKB = 15/63179 = 15 
+ 
+You saved approx. 15%  
+FILENUM IS 2 out of 16 
+ 
+FILENUM1 = 200  
+ 
+TOTALPERC IS 12%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 2 out of 16 (12%) 
+Conversion took 38secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\American Dad\Season 02\S02E02 - A Smith in the Hand_q28.mkv 
+FILED SET AS P:\TV Series\Animation\American Dad\Season 02\ 
+FILEN SET AS S02E02 - A Smith in the Hand_q28 
+FILEX SET AS .mkv 
+FILEZ SET AS 67711292 
+ 
+Bytes:    67711292 
+KBytes:    66125 
+SET KBYTES AS 66125 
+MBytes:    65 
+SET MBYTES AS 65 
+ 
+Converting S02E02 - A Smith in the Hand_q28.mkv to S02E02 - A Smith in the Hand_q28_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 24.000  
+"VHEIGHT" = 540  
+"VWIDTH" = 720  
+"VDAR" = 1.333  
+"VDUR" = 1315292  
+OUTFILEZKB SET AS 53062472 
+ 
+Bytes:    53062472 
+KBytes:    51819 
+SET OUTKBYTES AS 51819 
+MBytes:    51 
+SET OUTMBYTES AS 51 
+ 
+INSIZEKB = 66125 
+OUTSIZEKB = 66125-51819 = 14306 
+OUTPERCKB = 14306*100 = 1430600 
+OUTPERCKB = 21/66125 = 21 
+ 
+You saved approx. 21%  
+FILENUM IS 4 out of 16 
+ 
+FILENUM1 = 400  
+ 
+TOTALPERC IS 25%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 4 out of 16 (25%) 
+Conversion took 39secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\American Dad\Season 02\S02E03 - All About Steve_q28.mkv 
+FILED SET AS P:\TV Series\Animation\American Dad\Season 02\ 
+FILEN SET AS S02E03 - All About Steve_q28 
+FILEX SET AS .mkv 
+FILEZ SET AS 75642471 
+ 
+Bytes:    75642471 
+KBytes:    73870 
+SET KBYTES AS 73870 
+MBytes:    73 
+SET MBYTES AS 73 
+ 
+Converting S02E03 - All About Steve_q28.mkv to S02E03 - All About Steve_q28_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 24.000  
+"VHEIGHT" = 540  
+"VWIDTH" = 720  
+"VDAR" = 1.333  
+"VDUR" = 1315000  
+OUTFILEZKB SET AS 54229059 
+ 
+Bytes:    54229059 
+KBytes:    52959 
+SET OUTKBYTES AS 52959 
+MBytes:    52 
+SET OUTMBYTES AS 52 
+ 
+INSIZEKB = 73870 
+OUTSIZEKB = 73870-52959 = 20911 
+OUTPERCKB = 20911*100 = 2091100 
+OUTPERCKB = 28/73870 = 28 
+ 
+You saved approx. 28%  
+FILENUM IS 6 out of 16 
+ 
+FILENUM1 = 600  
+ 
+TOTALPERC IS 37%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 6 out of 16 (37%) 
+Conversion took 39secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\American Dad\Season 02\S02E04 - Con Heir_q28.mkv 
+FILED SET AS P:\TV Series\Animation\American Dad\Season 02\ 
+FILEN SET AS S02E04 - Con Heir_q28 
+FILEX SET AS .mkv 
+FILEZ SET AS 62845674 
+ 
+Bytes:    62845674 
+KBytes:    61373 
+SET KBYTES AS 61373 
+MBytes:    60 
+SET MBYTES AS 60 
+ 
+Converting S02E04 - Con Heir_q28.mkv to S02E04 - Con Heir_q28_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 23.976  
+"VHEIGHT" = 540  
+"VWIDTH" = 720  
+"VDAR" = 1.333  
+"VDUR" = 1314731  
+OUTFILEZKB SET AS 53026762 
+ 
+Bytes:    53026762 
+KBytes:    51784 
+SET OUTKBYTES AS 51784 
+MBytes:    51 
+SET OUTMBYTES AS 51 
+ 
+INSIZEKB = 61373 
+OUTSIZEKB = 61373-51784 = 9589 
+OUTPERCKB = 9589*100 = 958900 
+OUTPERCKB = 15/61373 = 15 
+ 
+You saved approx. 15%  
+FILENUM IS 8 out of 16 
+ 
+FILENUM1 = 800  
+ 
+TOTALPERC IS 50%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 8 out of 16 (50%) 
+Conversion took 40secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\American Dad\Season 02\S02E05 - Stan of Arabia (Part 1)_q28.mkv 
+FILED SET AS P:\TV Series\Animation\American Dad\Season 02\ 
+FILEN SET AS S02E05 - Stan of Arabia (Part 1)_q28 
+FILEX SET AS .mkv 
+FILEZ SET AS 69587849 
+ 
+Bytes:    69587849 
+KBytes:    67957 
+SET KBYTES AS 67957 
+MBytes:    67 
+SET MBYTES AS 67 
+ 
+Converting S02E05 - Stan of Arabia (Part 1)_q28.mkv to S02E05 - Stan of Arabia (Part 1)_q28_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 24.327  
+"VHEIGHT" = 540  
+"VWIDTH" = 720  
+"VDAR" = 1.333  
+"VDUR" = 1315205  
+OUTFILEZKB SET AS 53711236 
+ 
+Bytes:    53711236 
+KBytes:    52453 
+SET OUTKBYTES AS 52453 
+MBytes:    52 
+SET OUTMBYTES AS 52 
+ 
+INSIZEKB = 67957 
+OUTSIZEKB = 67957-52453 = 15504 
+OUTPERCKB = 15504*100 = 1550400 
+OUTPERCKB = 22/67957 = 22 
+ 
+You saved approx. 22%  
+FILENUM IS 10 out of 16 
+ 
+FILENUM1 = 1000  
+ 
+TOTALPERC IS 62%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 10 out of 16 (62%) 
+Conversion took 39secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\American Dad\Season 02\S02E06 - Stan of Arabia (Part 2)_q28.mkv 
+FILED SET AS P:\TV Series\Animation\American Dad\Season 02\ 
+FILEN SET AS S02E06 - Stan of Arabia (Part 2)_q28 
+FILEX SET AS .mkv 
+FILEZ SET AS 76150489 
+ 
+Bytes:    76150489 
+KBytes:    74366 
+SET KBYTES AS 74366 
+MBytes:    73 
+SET MBYTES AS 73 
+ 
+Converting S02E06 - Stan of Arabia (Part 2)_q28.mkv to S02E06 - Stan of Arabia (Part 2)_q28_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 24.130  
+"VHEIGHT" = 540  
+"VWIDTH" = 720  
+"VDAR" = 1.333  
+"VDUR" = 1313552  
+OUTFILEZKB SET AS 53816886 
+ 
+Bytes:    53816886 
+KBytes:    52556 
+SET OUTKBYTES AS 52556 
+MBytes:    52 
+SET OUTMBYTES AS 52 
+ 
+INSIZEKB = 74366 
+OUTSIZEKB = 74366-52556 = 21810 
+OUTPERCKB = 21810*100 = 2181000 
+OUTPERCKB = 29/74366 = 29 
+ 
+You saved approx. 29%  
+FILENUM IS 12 out of 16 
+ 
+FILENUM1 = 1200  
+ 
+TOTALPERC IS 75%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 12 out of 16 (75%) 
+Conversion took 39secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\American Dad\Season 02\S02E07 - Stannie Get Your Gun_q28.mkv 
+FILED SET AS P:\TV Series\Animation\American Dad\Season 02\ 
+FILEN SET AS S02E07 - Stannie Get Your Gun_q28 
+FILEX SET AS .mkv 
+FILEZ SET AS 71588950 
+ 
+Bytes:    71588950 
+KBytes:    69912 
+SET KBYTES AS 69912 
+MBytes:    69 
+SET MBYTES AS 69 
+ 
+Converting S02E07 - Stannie Get Your Gun_q28.mkv to S02E07 - Stannie Get Your Gun_q28_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 29.970  
+"VHEIGHT" = 540  
+"VWIDTH" = 716  
+"VDAR" = 1.326  
+"VDUR" = 1312780  
+OUTFILEZKB SET AS 53256983 
+ 
+Bytes:    53256983 
+KBytes:    52009 
+SET OUTKBYTES AS 52009 
+MBytes:    51 
+SET OUTMBYTES AS 51 
+ 
+INSIZEKB = 69912 
+OUTSIZEKB = 69912-52009 = 17903 
+OUTPERCKB = 17903*100 = 1790300 
+OUTPERCKB = 25/69912 = 25 
+ 
+You saved approx. 25%  
+FILENUM IS 14 out of 16 
+ 
+FILENUM1 = 1400  
+ 
+TOTALPERC IS 87%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 14 out of 16 (87%) 
+Conversion took 41secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\American Dad\Season 02\S02E08 - Star Trek_q28.mkv 
+FILED SET AS P:\TV Series\Animation\American Dad\Season 02\ 
+FILEN SET AS S02E08 - Star Trek_q28 
+FILEX SET AS .mkv 
+FILEZ SET AS 65139018 
+ 
+Bytes:    65139018 
+KBytes:    63613 
+SET KBYTES AS 63613 
+MBytes:    63 
+SET MBYTES AS 63 
+ 
+Converting S02E08 - Star Trek_q28.mkv to S02E08 - Star Trek_q28_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 29.970  
+"VHEIGHT" = 540  
+"VWIDTH" = 716  
+"VDAR" = 1.326  
+"VDUR" = 1313447  
+OUTFILEZKB SET AS 53450782 
+ 
+Bytes:    53450782 
+KBytes:    52199 
+SET OUTKBYTES AS 52199 
+MBytes:    51 
+SET OUTMBYTES AS 51 
+ 
+INSIZEKB = 63613 
+OUTSIZEKB = 63613-52199 = 11414 
+OUTPERCKB = 11414*100 = 1141400 
+OUTPERCKB = 17/63613 = 17 
+ 
+You saved approx. 17%  
+FILENUM IS 16 out of 16 
+ 
+FILENUM1 = 1600  
+ 
+TOTALPERC IS 100%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 16 out of 16 (100%) 
+Conversion took 41secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\American Dad\Season 02\S02E09 - Not Particularly Desperate Housewives_q28.mkv 
+FILED SET AS P:\TV Series\Animation\American Dad\Season 02\ 
+FILEN SET AS S02E09 - Not Particularly Desperate Housewives_q28 
+FILEX SET AS .mkv 
+FILEZ SET AS 68205284 
+ 
+Bytes:    68205284 
+KBytes:    66607 
+SET KBYTES AS 66607 
+MBytes:    66 
+SET MBYTES AS 66 
+ 
+Converting S02E09 - Not Particularly Desperate Housewives_q28.mkv to S02E09 - Not Particularly Desperate Housewives_q28_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 29.970  
+"VHEIGHT" = 540  
+"VWIDTH" = 716  
+"VDAR" = 1.326  
+"VDUR" = 1313447  
+OUTFILEZKB SET AS 53358484 
+ 
+Bytes:    53358484 
+KBytes:    52108 
+SET OUTKBYTES AS 52108 
+MBytes:    51 
+SET OUTMBYTES AS 51 
+ 
+INSIZEKB = 66607 
+OUTSIZEKB = 66607-52108 = 14499 
+OUTPERCKB = 14499*100 = 1449900 
+OUTPERCKB = 21/66607 = 21 
+ 
+You saved approx. 21%  
+FILENUM IS 18 out of 16 
+ 
+FILENUM1 = 1800  
+ 
+TOTALPERC IS 112%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 18 out of 16 (112%) 
+Conversion took 41secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\American Dad\Season 02\S02E10 - Tears of a Clooney_q28.mkv 
+FILED SET AS P:\TV Series\Animation\American Dad\Season 02\ 
+FILEN SET AS S02E10 - Tears of a Clooney_q28 
+FILEX SET AS .mkv 
+FILEZ SET AS 70227281 
+ 
+Bytes:    70227281 
+KBytes:    68582 
+SET KBYTES AS 68582 
+MBytes:    67 
+SET MBYTES AS 67 
+ 
+Converting S02E10 - Tears of a Clooney_q28.mkv to S02E10 - Tears of a Clooney_q28_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 29.970  
+"VHEIGHT" = 540  
+"VWIDTH" = 716  
+"VDAR" = 1.326  
+"VDUR" = 1314448  
+OUTFILEZKB SET AS 53298715 
+ 
+Bytes:    53298715 
+KBytes:    52050 
+SET OUTKBYTES AS 52050 
+MBytes:    51 
+SET OUTMBYTES AS 51 
+ 
+INSIZEKB = 68582 
+OUTSIZEKB = 68582-52050 = 16532 
+OUTPERCKB = 16532*100 = 1653200 
+OUTPERCKB = 24/68582 = 24 
+ 
+You saved approx. 24%  
+FILENUM IS 20 out of 16 
+ 
+FILENUM1 = 2000  
+ 
+TOTALPERC IS 125%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 20 out of 16 (125%) 
+Conversion took 41secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\American Dad\Season 02\S02E17 - Rough Trade_q31.mkv 
+FILED SET AS P:\TV Series\Animation\American Dad\Season 02\ 
+FILEN SET AS S02E17 - Rough Trade_q31 
+FILEX SET AS .mkv 
+FILEZ SET AS 91277993 
+ 
+Bytes:    91277993 
+KBytes:    89139 
+SET KBYTES AS 89139 
+MBytes:    88 
+SET MBYTES AS 88 
+ 
+Converting S02E17 - Rough Trade_q31.mkv to S02E17 - Rough Trade_q31_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 29.970  
+"VHEIGHT" = 480  
+"VWIDTH" = 718  
+"VDAR" = 1.329  
+"VDUR" = 1312746  
+OUTFILEZKB SET AS 53103365 
+ 
+Bytes:    53103365 
+KBytes:    51859 
+SET OUTKBYTES AS 51859 
+MBytes:    51 
+SET OUTMBYTES AS 51 
+ 
+INSIZEKB = 89139 
+OUTSIZEKB = 89139-51859 = 37280 
+OUTPERCKB = 37280*100 = 3728000 
+OUTPERCKB = 41/89139 = 41 
+ 
+You saved approx. 41%  
+FILENUM IS 22 out of 16 
+ 
+FILENUM1 = 2200  
+ 
+TOTALPERC IS 137%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 22 out of 16 (137%) 
+Conversion took 43secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\American Dad\Season 02\S02E18 - Finances With Wolves_q31.mkv 
+FILED SET AS P:\TV Series\Animation\American Dad\Season 02\ 
+FILEN SET AS S02E18 - Finances With Wolves_q31 
+FILEX SET AS .mkv 
+FILEZ SET AS 97364491 
+ 
+Bytes:    97364491 
+KBytes:    95083 
+SET KBYTES AS 95083 
+MBytes:    93 
+SET MBYTES AS 93 
+ 
+Converting S02E18 - Finances With Wolves_q31.mkv to S02E18 - Finances With Wolves_q31_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 29.970  
+"VHEIGHT" = 480  
+"VWIDTH" = 718  
+"VDAR" = 1.329  
+"VDUR" = 1313080  
+OUTFILEZKB SET AS 53239747 
+ 
+Bytes:    53239747 
+KBytes:    51992 
+SET OUTKBYTES AS 51992 
+MBytes:    51 
+SET OUTMBYTES AS 51 
+ 
+INSIZEKB = 95083 
+OUTSIZEKB = 95083-51992 = 43091 
+OUTPERCKB = 43091*100 = 4309100 
+OUTPERCKB = 45/95083 = 45 
+ 
+You saved approx. 45%  
+FILENUM IS 24 out of 16 
+ 
+FILENUM1 = 2400  
+ 
+TOTALPERC IS 150%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 24 out of 16 (150%) 
+Conversion took 44secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\American Dad\Season 02\S02E19 - It's Good to be Queen_q31.mkv 
+FILED SET AS P:\TV Series\Animation\American Dad\Season 02\ 
+FILEN SET AS S02E19 - It's Good to be Queen_q31 
+FILEX SET AS .mkv 
+FILEZ SET AS 90703944 
+ 
+Bytes:    90703944 
+KBytes:    88579 
+SET KBYTES AS 88579 
+MBytes:    87 
+SET MBYTES AS 87 
+ 
+Converting S02E19 - It's Good to be Queen_q31.mkv to S02E19 - It's Good to be Queen_q31_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 29.970  
+"VHEIGHT" = 480  
+"VWIDTH" = 718  
+"VDAR" = 1.329  
+"VDUR" = 1314081  
+OUTFILEZKB SET AS 53389646 
+ 
+Bytes:    53389646 
+KBytes:    52139 
+SET OUTKBYTES AS 52139 
+MBytes:    51 
+SET OUTMBYTES AS 51 
+ 
+INSIZEKB = 88579 
+OUTSIZEKB = 88579-52139 = 36440 
+OUTPERCKB = 36440*100 = 3644000 
+OUTPERCKB = 41/88579 = 41 
+ 
+You saved approx. 41%  
+FILENUM IS 26 out of 16 
+ 
+FILENUM1 = 2600  
+ 
+TOTALPERC IS 162%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 26 out of 16 (162%) 
+Conversion took 42secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\American Dad\Season 02\S02E20 - Roger 'n Me_q31.mkv 
+FILED SET AS P:\TV Series\Animation\American Dad\Season 02\ 
+FILEN SET AS S02E20 - Roger 'n Me_q31 
+FILEX SET AS .mkv 
+FILEZ SET AS 93036585 
+ 
+Bytes:    93036585 
+KBytes:    90857 
+SET KBYTES AS 90857 
+MBytes:    89 
+SET MBYTES AS 89 
+ 
+Converting S02E20 - Roger 'n Me_q31.mkv to S02E20 - Roger 'n Me_q31_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 29.970  
+"VHEIGHT" = 480  
+"VWIDTH" = 716  
+"VDAR" = 1.325  
+"VDUR" = 1313413  
+OUTFILEZKB SET AS 52864684 
+ 
+Bytes:    52864684 
+KBytes:    51626 
+SET OUTKBYTES AS 51626 
+MBytes:    51 
+SET OUTMBYTES AS 51 
+ 
+INSIZEKB = 90857 
+OUTSIZEKB = 90857-51626 = 39231 
+OUTPERCKB = 39231*100 = 3923100 
+OUTPERCKB = 43/90857 = 43 
+ 
+You saved approx. 43%  
+FILENUM IS 28 out of 16 
+ 
+FILENUM1 = 2800  
+ 
+TOTALPERC IS 175%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 28 out of 16 (175%) 
+Conversion took 43secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\American Dad\Season 02\S02E21 - Helping Handis_q31.mkv 
+FILED SET AS P:\TV Series\Animation\American Dad\Season 02\ 
+FILEN SET AS S02E21 - Helping Handis_q31 
+FILEX SET AS .mkv 
+FILEZ SET AS 94242857 
+ 
+Bytes:    94242857 
+KBytes:    92035 
+SET KBYTES AS 92035 
+MBytes:    90 
+SET MBYTES AS 90 
+ 
+Converting S02E21 - Helping Handis_q31.mkv to S02E21 - Helping Handis_q31_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 29.970  
+"VHEIGHT" = 480  
+"VWIDTH" = 716  
+"VDAR" = 1.325  
+"VDUR" = 1312079  
+OUTFILEZKB SET AS 52900249 
+ 
+Bytes:    52900249 
+KBytes:    51661 
+SET OUTKBYTES AS 51661 
+MBytes:    51 
+SET OUTMBYTES AS 51 
+ 
+INSIZEKB = 92035 
+OUTSIZEKB = 92035-51661 = 40374 
+OUTPERCKB = 40374*100 = 4037400 
+OUTPERCKB = 43/92035 = 43 
+ 
+You saved approx. 43%  
+FILENUM IS 30 out of 16 
+ 
+FILENUM1 = 3000  
+ 
+TOTALPERC IS 187%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 30 out of 16 (187%) 
+Conversion took 43secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\American Dad\Season 02\S02E22 - With Friends Like Steve's_q31.mkv 
+FILED SET AS P:\TV Series\Animation\American Dad\Season 02\ 
+FILEN SET AS S02E22 - With Friends Like Steve's_q31 
+FILEX SET AS .mkv 
+FILEZ SET AS 97653665 
+ 
+Bytes:    97653665 
+KBytes:    95365 
+SET KBYTES AS 95365 
+MBytes:    94 
+SET MBYTES AS 94 
+ 
+Converting S02E22 - With Friends Like Steve's_q31.mkv to S02E22 - With Friends Like Steve's_q31_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 29.970  
+"VHEIGHT" = 480  
+"VWIDTH" = 716  
+"VDAR" = 1.325  
+"VDUR" = 1312746  
+OUTFILEZKB SET AS 53091723 
+ 
+Bytes:    53091723 
+KBytes:    51848 
+SET OUTKBYTES AS 51848 
+MBytes:    51 
+SET OUTMBYTES AS 51 
+ 
+INSIZEKB = 95365 
+OUTSIZEKB = 95365-51848 = 43517 
+OUTPERCKB = 43517*100 = 4351700 
+OUTPERCKB = 45/95365 = 45 
+ 
+You saved approx. 45%  
+FILENUM IS 32 out of 16 
+ 
+FILENUM1 = 3200  
+ 
+TOTALPERC IS 200%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 32 out of 16 (200%) 
+Conversion took 44secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+Finished all files, and finished all supported files. Moving to the end. 
+Renaming files back to their original extension  
+ 
+SET ReturnCode to 1  
+ 
+Jenkins opted to NOT Exit  
+ 

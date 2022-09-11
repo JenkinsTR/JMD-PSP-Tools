@@ -1,0 +1,1655 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Exit   
+Title ID: ULES-00285 
+Region: Europe  
+Languages: En,Fr,De,Es,It  
+Volume Creation Date: 2006-02-15 13:58:20 
+Volume Size: 128 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: EXIT
+Volume set id: 
+Publisher id: UBISOFT ENTERTAINMENT
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 66032
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Feb 15 2006 [    208 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     22 02] .. 
+-r-xr-xr-x   1    0    0       3273 Sep 11 2005 [  21744 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     102400 Sep 23 2005 [  21632 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 Feb 15 2006 [  21696 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      13458 Nov 22 2005 [  21712 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0       3650 Sep  2 2005 [  21728 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0     130260 Sep 28 2005 [  21568 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Nov 24 2005 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     23 02] .. 
+-r-xr-xr-x   1    0    0    1706316 Feb 15 2006 [  65184 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    1706656 Feb 15 2006 [    224 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Nov 24 2005 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     23 02] .. 
+-r-xr-xr-x   1    0    0    1706316 Feb 15 2006 [  21760 00] BROWSER.BIN 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     27 02] dat 
+dr-xr-xr-x   1    0    0       2048 Jan 11 2006 [     28 02] kmodule 
+dr-xr-xr-x   1    0    0       2048 Nov 24 2005 [     29 02] module 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     24 02] .. 
+-r-xr-xr-x   1    0    0   14809632 Feb 15 2006 [   5184 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    3951712 Feb 15 2006 [   1088 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       1772 Feb 15 2006 [   1072 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/dat/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 24 2005 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     30 02] chara 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     31 02] common 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     32 02] demo 
+dr-xr-xr-x   1    0    0       8192 Feb 15 2006 [     33 02] effect 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     37 02] map 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     38 02] menu 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     39 02] movable 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     40 02] movie 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     41 02] sound 
+
+Directory listing of /PSP_GAME/USRDIR/kmodule/
+dr-xr-xr-x   1    0    0       2048 Jan 11 2006 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 24 2005 [     25 02] .. 
+-r-xr-xr-x   1    0    0       3264 Dec  8 2005 [  65072 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0       5136 Dec  8 2005 [  65088 00] mpegbase.prx 
+-r-xr-xr-x   1    0    0       6864 Dec  8 2005 [  65104 00] sc_sascore.prx 
+-r-xr-xr-x   1    0    0       3440 Dec  8 2005 [  65120 00] videocodec.prx 
+
+Directory listing of /PSP_GAME/USRDIR/module/
+dr-xr-xr-x   1    0    0       2048 Nov 24 2005 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 24 2005 [     25 02] .. 
+-r-xr-xr-x   1    0    0      10128 Dec  8 2005 [  65136 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0      23488 Dec  8 2005 [  65152 00] libfont.prx 
+-r-xr-xr-x   1    0    0      20976 Dec  8 2005 [  65168 00] mpeg.prx 
+
+Directory listing of /PSP_GAME/USRDIR/dat/chara/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     27 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     42 02] adult 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     43 02] alien 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     44 02] big 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     45 02] common 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     46 02] item 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     47 02] kid 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     48 02] mister 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     49 02] patient 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     50 02] redcross 
+
+Directory listing of /PSP_GAME/USRDIR/dat/common/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     31 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     27 02] .. 
+-r-xr-xr-x   1    0    0       3273 Sep 21 2005 [  24784 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     102400 Sep 24 2005 [  24800 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0       1248 Oct 17 2005 [  24864 00] ICON2.PNG 
+-r-xr-xr-x   1    0    0      12689 Sep 24 2005 [  24880 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0       3650 Sep  6 2005 [  24896 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0     118604 Sep 28 2005 [  24912 00] SND0.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/dat/demo/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     32 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     27 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     51 02] corner 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     52 02] s01 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     53 02] s02 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     54 02] s03 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     55 02] s04 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     56 02] s05 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     57 02] s06 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     58 02] s07 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     59 02] s08 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     60 02] s09 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     61 02] s10 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     62 02] s11 
+
+Directory listing of /PSP_GAME/USRDIR/dat/effect/
+dr-xr-xr-x   1    0    0       8192 Feb 15 2006 [     33 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     27 02] .. 
+-r-xr-xr-x   1    0    0       8464 Sep 12 2005 [  32352 00] ef_balloon00.gim 
+-r-xr-xr-x   1    0    0      13568 Sep 12 2005 [  32368 00] ef_balloon01.gim 
+-r-xr-xr-x   1    0    0     133872 Aug 21 2005 [  32384 00] ef_balloon02.gim 
+-r-xr-xr-x   1    0    0     133872 Nov 25 2005 [  32464 00] ef_balloon02_en.gim 
+-r-xr-xr-x   1    0    0     133872 Nov 25 2005 [  32544 00] ef_balloon02_fr.gim 
+-r-xr-xr-x   1    0    0     133872 Dec  9 2005 [  32624 00] ef_balloon02_ge.gim 
+-r-xr-xr-x   1    0    0     133872 Nov 25 2005 [  32704 00] ef_balloon02_it.gim 
+-r-xr-xr-x   1    0    0     133872 Dec  9 2005 [  32784 00] ef_balloon02_sp.gim 
+-r-xr-xr-x   1    0    0      50272 Aug 23 2005 [  32864 00] ef_balloon03.gim 
+-r-xr-xr-x   1    0    0       7648 Sep 20 2005 [  32896 00] ef_beem_st.gim 
+-r-xr-xr-x   1    0    0       6752 Sep  9 2005 [  32912 00] ef_break00.gim 
+-r-xr-xr-x   1    0    0       6752 Sep  9 2005 [  32928 00] ef_break01.gim 
+-r-xr-xr-x   1    0    0       2384 Aug 30 2005 [  32944 00] ef_cold00.gim 
+-r-xr-xr-x   1    0    0      14104 Jul 20 2005 [  32960 00] ef_extinction00.gim 
+-r-xr-xr-x   1    0    0        784 Sep  6 2005 [  32976 00] ef_fbox.gim 
+-r-xr-xr-x   1    0    0       5232 Aug 30 2005 [  32992 00] ef_firelv01.gim 
+-r-xr-xr-x   1    0    0      17136 Aug 30 2005 [  33008 00] ef_firelv02.gim 
+-r-xr-xr-x   1    0    0      46992 Aug 30 2005 [  33024 00] ef_firelv03.gim 
+-r-xr-xr-x   1    0    0       5392 Aug 30 2005 [  33056 00] ef_ls00.gim 
+-r-xr-xr-x   1    0    0       3696 Aug 30 2005 [  33072 00] ef_lshit.gim 
+-r-xr-xr-x   1    0    0      18400 Aug 30 2005 [  33088 00] ef_mis_elec.gim 
+-r-xr-xr-x   1    0    0        784 Sep  2 2005 [  33104 00] ef_pulleyrope00.gim 
+-r-xr-xr-x   1    0    0       4560 Aug 30 2005 [  33120 00] ef_rcnozzle.gim 
+-r-xr-xr-x   1    0    0      83504 Sep 23 2005 [  33136 00] ef_readygo.gim 
+-r-xr-xr-x   1    0    0      82768 Nov 18 2005 [  33184 00] ef_readygo_en.gim 
+-r-xr-xr-x   1    0    0      88912 Nov 21 2005 [  33232 00] ef_readygo_fr.gim 
+-r-xr-xr-x   1    0    0      82768 Dec  9 2005 [  33280 00] ef_readygo_ge.gim 
+-r-xr-xr-x   1    0    0      87888 Dec  9 2005 [  33328 00] ef_readygo_it.gim 
+-r-xr-xr-x   1    0    0      82768 Nov 21 2005 [  33376 00] ef_readygo_sp.gim 
+-r-xr-xr-x   1    0    0       1296 Aug 30 2005 [  33424 00] ef_revival00.gim 
+-r-xr-xr-x   1    0    0        528 Aug 30 2005 [  33440 00] ef_ring00.gim 
+-r-xr-xr-x   1    0    0        528 Aug 30 2005 [  33456 00] ef_rose00.gim 
+-r-xr-xr-x   1    0    0       1168 Aug 30 2005 [  33472 00] ef_smoke05.gim 
+-r-xr-xr-x   1    0    0       4848 Aug 30 2005 [  33488 00] ef_smoke06.gim 
+-r-xr-xr-x   1    0    0      12912 Aug 30 2005 [  33504 00] ef_smoke07.gim 
+-r-xr-xr-x   1    0    0       3040 Jul 27 2005 [  33520 00] ef_spark01.gim 
+-r-xr-xr-x   1    0    0      33176 Jul 25 2005 [  33536 00] ef_sprinkler.gim 
+-r-xr-xr-x   1    0    0       3224 Jul 27 2005 [  33568 00] ef_sprinkler04.gim 
+-r-xr-xr-x   1    0    0      37168 Aug 30 2005 [  33584 00] ef_water00.gim 
+dr-xr-xr-x   1    0    0       4096 Feb 15 2006 [     63 02] esf 
+-r-xr-xr-x   1    0    0      12160 Sep 27 2005 [  34928 00] game_button.gim 
+-r-xr-xr-x   1    0    0      13136 Dec  9 2005 [  34944 00] game_button_en.gim 
+-r-xr-xr-x   1    0    0      13136 Dec  9 2005 [  34960 00] game_button_fr.gim 
+-r-xr-xr-x   1    0    0      15824 Dec  9 2005 [  34976 00] game_button_ge.gim 
+-r-xr-xr-x   1    0    0      15824 Dec  9 2005 [  34992 00] game_button_it.gim 
+-r-xr-xr-x   1    0    0      13136 Dec  9 2005 [  35008 00] game_button_sp.gim 
+-r-xr-xr-x   1    0    0      28656 Sep  5 2005 [  35024 00] game_loading.gim 
+-r-xr-xr-x   1    0    0      28624 Nov 18 2005 [  35040 00] game_loading_en.gim 
+-r-xr-xr-x   1    0    0      28624 Nov 18 2005 [  35056 00] game_loading_fr.gim 
+-r-xr-xr-x   1    0    0      28624 Nov 18 2005 [  35072 00] game_loading_ge.gim 
+-r-xr-xr-x   1    0    0      28624 Nov 18 2005 [  35088 00] game_loading_it.gim 
+-r-xr-xr-x   1    0    0      28624 Nov 18 2005 [  35104 00] game_loading_sp.gim 
+-r-xr-xr-x   1    0    0      27488 Sep 12 2005 [  35120 00] game_over.gim 
+-r-xr-xr-x   1    0    0      27360 Nov 18 2005 [  35136 00] game_over_en.gim 
+-r-xr-xr-x   1    0    0      27360 Nov 18 2005 [  35152 00] game_over_fr.gim 
+-r-xr-xr-x   1    0    0      27744 Nov 24 2005 [  35168 00] game_over_ge.gim 
+-r-xr-xr-x   1    0    0      27360 Nov 24 2005 [  35184 00] game_over_it.gim 
+-r-xr-xr-x   1    0    0      27360 Dec  9 2005 [  35200 00] game_over_sp.gim 
+-r-xr-xr-x   1    0    0      22784 Oct 21 2005 [  35216 00] game_pause.gim 
+-r-xr-xr-x   1    0    0      22464 Nov 18 2005 [  35232 00] game_pause_en.gim 
+-r-xr-xr-x   1    0    0      22464 Nov 18 2005 [  35248 00] game_pause_fr.gim 
+-r-xr-xr-x   1    0    0      22464 Nov 21 2005 [  35264 00] game_pause_ge.gim 
+-r-xr-xr-x   1    0    0      22464 Nov 18 2005 [  35280 00] game_pause_it.gim 
+-r-xr-xr-x   1    0    0      22464 Nov 21 2005 [  35296 00] game_pause_sp.gim 
+-r-xr-xr-x   1    0    0       7632 Aug 30 2005 [  35312 00] game_stc.gim 
+-r-xr-xr-x   1    0    0       9472 Nov 18 2005 [  35328 00] game_stc_en.gim 
+-r-xr-xr-x   1    0    0       8032 Nov 18 2005 [  35344 00] game_stc_fr.gim 
+-r-xr-xr-x   1    0    0       8752 Nov 18 2005 [  35360 00] game_stc_ge.gim 
+-r-xr-xr-x   1    0    0       8752 Nov 18 2005 [  35376 00] game_stc_it.gim 
+-r-xr-xr-x   1    0    0       8752 Nov 18 2005 [  35392 00] game_stc_sp.gim 
+-r-xr-xr-x   1    0    0       3580 Sep  5 2005 [  35408 00] ic_helpguide.gim 
+-r-xr-xr-x   1    0    0       3376 Nov 18 2005 [  35424 00] ic_helpguide_en.gim 
+-r-xr-xr-x   1    0    0       3376 Nov 18 2005 [  35440 00] ic_helpguide_fr.gim 
+-r-xr-xr-x   1    0    0       3376 Nov 18 2005 [  35456 00] ic_helpguide_ge.gim 
+-r-xr-xr-x   1    0    0       3376 Nov 18 2005 [  35472 00] ic_helpguide_it.gim 
+-r-xr-xr-x   1    0    0       3376 Nov 18 2005 [  35488 00] ic_helpguide_sp.gim 
+-r-xr-xr-x   1    0    0       8320 Sep  9 2005 [  35504 00] ic_item.gim 
+-r-xr-xr-x   1    0    0      23040 Oct  7 2005 [  35520 00] ic_notice.gim 
+-r-xr-xr-x   1    0    0      24080 Nov 18 2005 [  35536 00] ic_notice_en.gim 
+-r-xr-xr-x   1    0    0      72016 Nov 18 2005 [  35552 00] ic_notice_fr.gim 
+-r-xr-xr-x   1    0    0      27408 Dec  9 2005 [  35600 00] ic_notice_ge.gim 
+-r-xr-xr-x   1    0    0      27408 Nov 18 2005 [  35616 00] ic_notice_it.gim 
+-r-xr-xr-x   1    0    0      24080 Nov 18 2005 [  35632 00] ic_notice_sp.gim 
+-r-xr-xr-x   1    0    0       5584 Sep 12 2005 [  35648 00] ic_point.gim 
+-r-xr-xr-x   1    0    0      12512 Oct 20 2005 [  35664 00] ic_remainder.gim 
+-r-xr-xr-x   1    0    0      12544 Dec 21 2005 [  35680 00] ic_remainder_en.gim 
+-r-xr-xr-x   1    0    0      12544 Dec 21 2005 [  35696 00] ic_remainder_fr.gim 
+-r-xr-xr-x   1    0    0      12544 Dec 21 2005 [  35712 00] ic_remainder_ge.gim 
+-r-xr-xr-x   1    0    0      12544 Dec 21 2005 [  35728 00] ic_remainder_it.gim 
+-r-xr-xr-x   1    0    0      12544 Dec 21 2005 [  35744 00] ic_remainder_sp.gim 
+-r-xr-xr-x   1    0    0       7312 Sep 12 2005 [  35760 00] ic_time.gim 
+-r-xr-xr-x   1    0    0       6928 Nov 18 2005 [  35776 00] ic_time_en.gim 
+-r-xr-xr-x   1    0    0       6928 Nov 18 2005 [  35792 00] ic_time_fr.gim 
+-r-xr-xr-x   1    0    0       6928 Nov 18 2005 [  35808 00] ic_time_ge.gim 
+-r-xr-xr-x   1    0    0       6928 Nov 18 2005 [  35824 00] ic_time_it.gim 
+-r-xr-xr-x   1    0    0       6928 Nov 18 2005 [  35840 00] ic_time_sp.gim 
+-r-xr-xr-x   1    0    0       2516 Aug 10 2005 [  35856 00] ic_window00.gim 
+-r-xr-xr-x   1    0    0      29536 Sep 26 2005 [  35872 00] mapchar01.gim 
+-r-xr-xr-x   1    0    0      13952 Dec  9 2005 [  35888 00] mapchar02_en.gim 
+-r-xr-xr-x   1    0    0      13952 Dec  9 2005 [  35904 00] mapchar02_fr.gim 
+-r-xr-xr-x   1    0    0      13952 Jan 11 2006 [  35920 00] mapchar02_ge.gim 
+-r-xr-xr-x   1    0    0      13952 Dec  9 2005 [  35936 00] mapchar02_it.gim 
+-r-xr-xr-x   1    0    0      13952 Dec  9 2005 [  35952 00] mapchar02_sp.gim 
+-r-xr-xr-x   1    0    0      54208 Oct  4 2005 [  35968 00] menu_result.gim 
+-r-xr-xr-x   1    0    0      53504 Nov 18 2005 [  36000 00] menu_result_en.gim 
+-r-xr-xr-x   1    0    0      53888 Nov 25 2005 [  36032 00] menu_result_fr.gim 
+-r-xr-xr-x   1    0    0      53504 Nov 25 2005 [  36064 00] menu_result_ge.gim 
+-r-xr-xr-x   1    0    0      54528 Nov 25 2005 [  36096 00] menu_result_it.gim 
+-r-xr-xr-x   1    0    0      53504 Nov 25 2005 [  36128 00] menu_result_sp.gim 
+-r-xr-xr-x   1    0    0        464 Sep  2 2005 [  36160 00] rockon.gim 
+-r-xr-xr-x   1    0    0       1808 Oct  8 2005 [  36176 00] saving00.gim 
+-r-xr-xr-x   1    0    0       1776 Nov 18 2005 [  36192 00] saving00_en.gim 
+-r-xr-xr-x   1    0    0       1776 Nov 18 2005 [  36208 00] saving00_fr.gim 
+-r-xr-xr-x   1    0    0       2160 Nov 18 2005 [  36224 00] saving00_ge.gim 
+-r-xr-xr-x   1    0    0       1776 Nov 18 2005 [  36240 00] saving00_it.gim 
+-r-xr-xr-x   1    0    0       1776 Nov 18 2005 [  36256 00] saving00_sp.gim 
+-r-xr-xr-x   1    0    0     109152 Sep 28 2005 [  36272 00] stfont00.gim 
+-r-xr-xr-x   1    0    0     132112 Dec  9 2005 [  36336 00] stfont00_en.gim 
+-r-xr-xr-x   1    0    0     132112 Dec  9 2005 [  36416 00] stfont00_fr.gim 
+-r-xr-xr-x   1    0    0     132112 Dec  9 2005 [  36496 00] stfont00_ge.gim 
+-r-xr-xr-x   1    0    0     132112 Dec  9 2005 [  36576 00] stfont00_it.gim 
+-r-xr-xr-x   1    0    0     132112 Dec  9 2005 [  36656 00] stfont00_sp.gim 
+-r-xr-xr-x   1    0    0       8432 Sep 13 2005 [  36736 00] wipe.gim 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     37 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     27 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     65 02] common 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     66 02] s00 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     67 02] s01 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     68 02] s02 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     69 02] s03 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     70 02] s04 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     71 02] s05 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     72 02] s06 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     73 02] s07 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     74 02] s08 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     75 02] s09 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     76 02] s10 
+
+Directory listing of /PSP_GAME/USRDIR/dat/menu/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     38 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     27 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     77 02] loading 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     78 02] option 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     79 02] profile 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     80 02] stageselect 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     81 02] taito 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     82 02] tgs 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     83 02] title 
+
+Directory listing of /PSP_GAME/USRDIR/dat/movable/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     39 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     27 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     84 02] box 
+
+Directory listing of /PSP_GAME/USRDIR/dat/movie/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     40 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     27 02] .. 
+-r-xr-xr-x   1    0    0   18966528 Oct 24 2005 [  47424 00] exit_demo.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/dat/sound/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     41 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     27 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     85 02] bgm 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     86 02] se 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     87 02] vag 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     88 02] voice 
+
+Directory listing of /PSP_GAME/USRDIR/dat/chara/adult/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     42 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     30 02] .. 
+-r-xr-xr-x   1    0    0      15836 Aug 25 2005 [  22608 00] ad0.gmo 
+-r-xr-xr-x   1    0    0      94884 Oct  7 2005 [  22640 00] ad0_mot.gmo 
+-r-xr-xr-x   1    0    0      15060 Aug 25 2005 [  22624 00] ad0head.gmo 
+-r-xr-xr-x   1    0    0      17116 Sep 20 2005 [  22688 00] ad1.gmo 
+-r-xr-xr-x   1    0    0     227744 Oct  7 2005 [  22720 00] ad1_mot.gmo 
+-r-xr-xr-x   1    0    0      15756 Sep 20 2005 [  22704 00] ad1head.gmo 
+
+Directory listing of /PSP_GAME/USRDIR/dat/chara/alien/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     43 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     30 02] .. 
+-r-xr-xr-x   1    0    0      16540 Aug 30 2005 [  22832 00] ut0.gmo 
+-r-xr-xr-x   1    0    0      66432 Sep 23 2005 [  22848 00] ut0_mot.gmo 
+
+Directory listing of /PSP_GAME/USRDIR/dat/chara/big/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     44 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     30 02] .. 
+-r-xr-xr-x   1    0    0      16136 Aug 25 2005 [  22896 00] bi0.gmo 
+-r-xr-xr-x   1    0    0     240724 Oct  7 2005 [  22928 00] bi0_mot.gmo 
+-r-xr-xr-x   1    0    0      11544 Aug 25 2005 [  22912 00] bi0head.gmo 
+-r-xr-xr-x   1    0    0      17996 Aug 25 2005 [  23056 00] bi1.gmo 
+-r-xr-xr-x   1    0    0      15464 Aug 25 2005 [  23072 00] bi1head.gmo 
+
+Directory listing of /PSP_GAME/USRDIR/dat/chara/common/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     45 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     30 02] .. 
+-r-xr-xr-x   1    0    0    1431240 Oct  7 2005 [  23088 00] ha0_mot.gmo 
+
+Directory listing of /PSP_GAME/USRDIR/dat/chara/item/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     46 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     30 02] .. 
+-r-xr-xr-x   1    0    0       2788 Sep 12 2005 [  23792 00] item00d.gmo 
+-r-xr-xr-x   1    0    0       1408 Sep 12 2005 [  23808 00] item01d.gmo 
+-r-xr-xr-x   1    0    0       1552 Sep 12 2005 [  23824 00] item01e.gmo 
+-r-xr-xr-x   1    0    0       1408 Sep 12 2005 [  23840 00] item02d.gmo 
+-r-xr-xr-x   1    0    0       1552 Sep 12 2005 [  23856 00] item02e.gmo 
+-r-xr-xr-x   1    0    0       2212 Sep 12 2005 [  23872 00] item03d.gmo 
+-r-xr-xr-x   1    0    0       1036 Sep 12 2005 [  23888 00] item03e.gmo 
+-r-xr-xr-x   1    0    0       1804 Sep 12 2005 [  23904 00] item04d.gmo 
+-r-xr-xr-x   1    0    0       2572 Sep 12 2005 [  23920 00] item05d.gmo 
+-r-xr-xr-x   1    0    0       2188 Sep 12 2005 [  23936 00] item06d.gmo 
+-r-xr-xr-x   1    0    0       1648 Sep 12 2005 [  23952 00] item07d.gmo 
+-r-xr-xr-x   1    0    0       1576 Sep 12 2005 [  23968 00] item08dl.gmo 
+-r-xr-xr-x   1    0    0       1576 Sep 12 2005 [  23984 00] item08dr.gmo 
+-r-xr-xr-x   1    0    0       1204 Sep 12 2005 [  24000 00] item08el.gmo 
+-r-xr-xr-x   1    0    0       1204 Sep 12 2005 [  24016 00] item08er.gmo 
+
+Directory listing of /PSP_GAME/USRDIR/dat/chara/kid/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     47 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     30 02] .. 
+-r-xr-xr-x   1    0    0      15956 Sep 20 2005 [  24032 00] ki0.gmo 
+-r-xr-xr-x   1    0    0     503992 Oct  7 2005 [  24064 00] ki0_mot.gmo 
+-r-xr-xr-x   1    0    0      12880 Sep 20 2005 [  24048 00] ki0head.gmo 
+-r-xr-xr-x   1    0    0      15784 Sep 20 2005 [  24320 00] ki1.gmo 
+-r-xr-xr-x   1    0    0      17480 Sep 20 2005 [  24336 00] ki1head.gmo 
+
+Directory listing of /PSP_GAME/USRDIR/dat/chara/mister/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     48 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     30 02] .. 
+-r-xr-xr-x   1    0    0      15720 Aug 25 2005 [  24352 00] pc0.gmo 
+-r-xr-xr-x   1    0    0     530316 Oct  7 2005 [  24368 00] pc0_mot.gmo 
+
+Directory listing of /PSP_GAME/USRDIR/dat/chara/patient/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     49 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     30 02] .. 
+-r-xr-xr-x   1    0    0     174700 Oct  7 2005 [  24640 00] pa0_mot.gmo 
+
+Directory listing of /PSP_GAME/USRDIR/dat/chara/redcross/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     50 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     30 02] .. 
+-r-xr-xr-x   1    0    0      17224 Aug 25 2005 [  24736 00] rc0.gmo 
+-r-xr-xr-x   1    0    0       6832 Aug 23 2005 [  24752 00] rc0_mot.gmo 
+-r-xr-xr-x   1    0    0       6364 Jun 30 2005 [  24768 00] rocket.gmo 
+
+Directory listing of /PSP_GAME/USRDIR/dat/demo/corner/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     51 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0       4904 Aug 12 2005 [  24976 00] corner.gim 
+
+Directory listing of /PSP_GAME/USRDIR/dat/demo/s01/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     52 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0      97312 Sep 11 2005 [  24992 00] mes01.gim 
+-r-xr-xr-x   1    0    0      97072 Nov 18 2005 [  25040 00] mes01_en.gim 
+-r-xr-xr-x   1    0    0      97072 Nov 18 2005 [  25088 00] mes01_fr.gim 
+-r-xr-xr-x   1    0    0      97072 Nov 18 2005 [  25136 00] mes01_ge.gim 
+-r-xr-xr-x   1    0    0      97072 Nov 18 2005 [  25184 00] mes01_it.gim 
+-r-xr-xr-x   1    0    0      97072 Nov 18 2005 [  25232 00] mes01_sp.gim 
+-r-xr-xr-x   1    0    0     187616 Sep 11 2005 [  25280 00] s01.gim 
+-r-xr-xr-x   1    0    0       8704 Sep 20 2005 [  25376 00] situation01.esf 
+-r-xr-xr-x   1    0    0       8704 Nov 18 2005 [  25392 00] situation01_en.esf 
+-r-xr-xr-x   1    0    0       8704 Nov 18 2005 [  25408 00] situation01_fr.esf 
+-r-xr-xr-x   1    0    0       8704 Nov 18 2005 [  25424 00] situation01_ge.esf 
+-r-xr-xr-x   1    0    0       8704 Nov 18 2005 [  25440 00] situation01_it.esf 
+-r-xr-xr-x   1    0    0       8704 Nov 18 2005 [  25456 00] situation01_sp.esf 
+
+Directory listing of /PSP_GAME/USRDIR/dat/demo/s02/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     53 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0      97312 Sep 11 2005 [  25472 00] mes02.gim 
+-r-xr-xr-x   1    0    0      97072 Nov 18 2005 [  25520 00] mes02_en.gim 
+-r-xr-xr-x   1    0    0      97072 Nov 18 2005 [  25568 00] mes02_fr.gim 
+-r-xr-xr-x   1    0    0      97072 Nov 18 2005 [  25616 00] mes02_ge.gim 
+-r-xr-xr-x   1    0    0      97072 Nov 18 2005 [  25664 00] mes02_it.gim 
+-r-xr-xr-x   1    0    0      97072 Nov 18 2005 [  25712 00] mes02_sp.gim 
+-r-xr-xr-x   1    0    0     241504 Sep 11 2005 [  25760 00] s02.gim 
+-r-xr-xr-x   1    0    0       8560 Sep 20 2005 [  25888 00] situation02.esf 
+-r-xr-xr-x   1    0    0       8560 Nov 18 2005 [  25904 00] situation02_en.esf 
+-r-xr-xr-x   1    0    0       8560 Nov 18 2005 [  25920 00] situation02_fr.esf 
+-r-xr-xr-x   1    0    0       8560 Nov 18 2005 [  25936 00] situation02_ge.esf 
+-r-xr-xr-x   1    0    0       8560 Nov 18 2005 [  25952 00] situation02_it.esf 
+-r-xr-xr-x   1    0    0       8560 Nov 18 2005 [  25968 00] situation02_sp.esf 
+
+Directory listing of /PSP_GAME/USRDIR/dat/demo/s03/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     54 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     116752 Sep 11 2005 [  25984 00] mes03.gim 
+-r-xr-xr-x   1    0    0     116752 Nov 18 2005 [  26048 00] mes03_en.gim 
+-r-xr-xr-x   1    0    0     116752 Nov 18 2005 [  26112 00] mes03_fr.gim 
+-r-xr-xr-x   1    0    0     116752 Nov 18 2005 [  26176 00] mes03_ge.gim 
+-r-xr-xr-x   1    0    0     116752 Nov 18 2005 [  26240 00] mes03_it.gim 
+-r-xr-xr-x   1    0    0     116752 Nov 18 2005 [  26304 00] mes03_sp.gim 
+-r-xr-xr-x   1    0    0     320912 Sep 11 2005 [  26368 00] s03.gim 
+-r-xr-xr-x   1    0    0       9460 Sep 20 2005 [  26528 00] situation03.esf 
+-r-xr-xr-x   1    0    0       9460 Nov 18 2005 [  26544 00] situation03_en.esf 
+-r-xr-xr-x   1    0    0       9460 Nov 18 2005 [  26560 00] situation03_fr.esf 
+-r-xr-xr-x   1    0    0       9460 Nov 18 2005 [  26576 00] situation03_ge.esf 
+-r-xr-xr-x   1    0    0       9460 Nov 18 2005 [  26592 00] situation03_it.esf 
+-r-xr-xr-x   1    0    0       9460 Nov 18 2005 [  26608 00] situation03_sp.esf 
+
+Directory listing of /PSP_GAME/USRDIR/dat/demo/s04/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     55 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0      97312 Sep 11 2005 [  26624 00] mes04.gim 
+-r-xr-xr-x   1    0    0      97312 Nov 18 2005 [  26672 00] mes04_en.gim 
+-r-xr-xr-x   1    0    0      97312 Nov 18 2005 [  26720 00] mes04_fr.gim 
+-r-xr-xr-x   1    0    0      97312 Nov 18 2005 [  26768 00] mes04_ge.gim 
+-r-xr-xr-x   1    0    0      97312 Nov 18 2005 [  26816 00] mes04_it.gim 
+-r-xr-xr-x   1    0    0      97312 Nov 18 2005 [  26864 00] mes04_sp.gim 
+-r-xr-xr-x   1    0    0     292576 Sep 12 2005 [  26912 00] s04.gim 
+-r-xr-xr-x   1    0    0       9012 Sep 20 2005 [  27056 00] situation04.esf 
+-r-xr-xr-x   1    0    0       9012 Nov 18 2005 [  27072 00] situation04_en.esf 
+-r-xr-xr-x   1    0    0       9012 Nov 18 2005 [  27088 00] situation04_fr.esf 
+-r-xr-xr-x   1    0    0       9012 Nov 18 2005 [  27104 00] situation04_ge.esf 
+-r-xr-xr-x   1    0    0       9012 Nov 18 2005 [  27120 00] situation04_it.esf 
+-r-xr-xr-x   1    0    0       9012 Nov 18 2005 [  27136 00] situation04_sp.esf 
+
+Directory listing of /PSP_GAME/USRDIR/dat/demo/s05/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     56 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0      97312 Sep 11 2005 [  27152 00] mes05.gim 
+-r-xr-xr-x   1    0    0      97312 Nov 18 2005 [  27200 00] mes05_en.gim 
+-r-xr-xr-x   1    0    0      97312 Dec  9 2005 [  27248 00] mes05_fr.gim 
+-r-xr-xr-x   1    0    0      97312 Nov 18 2005 [  27296 00] mes05_ge.gim 
+-r-xr-xr-x   1    0    0      97312 Dec  9 2005 [  27344 00] mes05_it.gim 
+-r-xr-xr-x   1    0    0      97312 Nov 18 2005 [  27392 00] mes05_sp.gim 
+-r-xr-xr-x   1    0    0     301536 Sep 12 2005 [  27440 00] s05.gim 
+-r-xr-xr-x   1    0    0       9012 Sep 20 2005 [  27600 00] situation05.esf 
+-r-xr-xr-x   1    0    0       9012 Nov 18 2005 [  27616 00] situation05_eb.esf 
+-r-xr-xr-x   1    0    0       9012 Nov 18 2005 [  27632 00] situation05_en.esf 
+-r-xr-xr-x   1    0    0       9012 Nov 18 2005 [  27648 00] situation05_fr.esf 
+-r-xr-xr-x   1    0    0       9012 Nov 18 2005 [  27664 00] situation05_ge.esf 
+-r-xr-xr-x   1    0    0       9012 Nov 18 2005 [  27680 00] situation05_it.esf 
+-r-xr-xr-x   1    0    0       9012 Nov 18 2005 [  27696 00] situation05_sp.esf 
+
+Directory listing of /PSP_GAME/USRDIR/dat/demo/s06/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     57 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0      97072 Oct  4 2005 [  27712 00] mes06.gim 
+-r-xr-xr-x   1    0    0      97312 Nov 18 2005 [  27760 00] mes06_en.gim 
+-r-xr-xr-x   1    0    0      97312 Nov 18 2005 [  27808 00] mes06_fr.gim 
+-r-xr-xr-x   1    0    0      97312 Nov 18 2005 [  27856 00] mes06_ge.gim 
+-r-xr-xr-x   1    0    0      97312 Nov 18 2005 [  27904 00] mes06_it.gim 
+-r-xr-xr-x   1    0    0      97312 Nov 18 2005 [  27952 00] mes06_sp.gim 
+-r-xr-xr-x   1    0    0     242016 Sep 12 2005 [  28000 00] s06.gim 
+-r-xr-xr-x   1    0    0       9012 Sep 20 2005 [  28128 00] situation06.esf 
+-r-xr-xr-x   1    0    0       9012 Nov 18 2005 [  28144 00] situation06_en.esf 
+-r-xr-xr-x   1    0    0       9012 Nov 18 2005 [  28160 00] situation06_fr.esf 
+-r-xr-xr-x   1    0    0       9012 Nov 18 2005 [  28176 00] situation06_ge.esf 
+-r-xr-xr-x   1    0    0       9012 Nov 18 2005 [  28192 00] situation06_it.esf 
+-r-xr-xr-x   1    0    0       9012 Nov 18 2005 [  28208 00] situation06_iy.esf 
+-r-xr-xr-x   1    0    0       9012 Nov 18 2005 [  28224 00] situation06_sp.esf 
+
+Directory listing of /PSP_GAME/USRDIR/dat/demo/s07/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     58 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0      97312 Sep 11 2005 [  28240 00] mes07.gim 
+-r-xr-xr-x   1    0    0      97312 Nov 18 2005 [  28288 00] mes07_en.gim 
+-r-xr-xr-x   1    0    0      97312 Nov 18 2005 [  28336 00] mes07_fr.gim 
+-r-xr-xr-x   1    0    0      97312 Nov 18 2005 [  28384 00] mes07_ge.gim 
+-r-xr-xr-x   1    0    0      97312 Nov 18 2005 [  28432 00] mes07_it.gim 
+-r-xr-xr-x   1    0    0      97312 Nov 18 2005 [  28480 00] mes07_sp.gim 
+-r-xr-xr-x   1    0    0     243168 Sep 12 2005 [  28528 00] s07.gim 
+-r-xr-xr-x   1    0    0       9012 Sep 20 2005 [  28656 00] situation07.esf 
+-r-xr-xr-x   1    0    0       9012 Nov 18 2005 [  28672 00] situation07_en.esf 
+-r-xr-xr-x   1    0    0       9012 Nov 18 2005 [  28688 00] situation07_fr.esf 
+-r-xr-xr-x   1    0    0       9012 Nov 18 2005 [  28704 00] situation07_ge.esf 
+-r-xr-xr-x   1    0    0       9012 Nov 18 2005 [  28720 00] situation07_it.esf 
+-r-xr-xr-x   1    0    0       9012 Nov 18 2005 [  28736 00] situation07_sp.esf 
+
+Directory listing of /PSP_GAME/USRDIR/dat/demo/s08/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     59 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0      97312 Sep 27 2005 [  28752 00] mes08.gim 
+-r-xr-xr-x   1    0    0      97312 Nov 18 2005 [  28800 00] mes08_en.gim 
+-r-xr-xr-x   1    0    0      97312 Nov 18 2005 [  28848 00] mes08_fr.gim 
+-r-xr-xr-x   1    0    0      97312 Nov 18 2005 [  28896 00] mes08_ge.gim 
+-r-xr-xr-x   1    0    0      97312 Nov 18 2005 [  28944 00] mes08_it.gim 
+-r-xr-xr-x   1    0    0      97312 Nov 18 2005 [  28992 00] mes08_sp.gim 
+-r-xr-xr-x   1    0    0     292832 Sep 12 2005 [  29040 00] s08.gim 
+-r-xr-xr-x   1    0    0       8308 Sep 20 2005 [  29184 00] situation08.esf 
+-r-xr-xr-x   1    0    0       8308 Nov 18 2005 [  29200 00] situation08_en.esf 
+-r-xr-xr-x   1    0    0       8308 Nov 18 2005 [  29216 00] situation08_fr.esf 
+-r-xr-xr-x   1    0    0       8308 Nov 18 2005 [  29232 00] situation08_ge.esf 
+-r-xr-xr-x   1    0    0       8308 Nov 18 2005 [  29248 00] situation08_it.esf 
+-r-xr-xr-x   1    0    0       8308 Nov 18 2005 [  29264 00] situation08_sp.esf 
+
+Directory listing of /PSP_GAME/USRDIR/dat/demo/s09/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     60 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0      97312 Sep 11 2005 [  29280 00] mes09.gim 
+-r-xr-xr-x   1    0    0      97312 Nov 18 2005 [  29328 00] mes09_en.gim 
+-r-xr-xr-x   1    0    0      97312 Nov 18 2005 [  29376 00] mes09_fr.gim 
+-r-xr-xr-x   1    0    0      97312 Nov 18 2005 [  29424 00] mes09_ge.gim 
+-r-xr-xr-x   1    0    0      97312 Nov 18 2005 [  29472 00] mes09_it.gim 
+-r-xr-xr-x   1    0    0      97312 Nov 18 2005 [  29520 00] mes09_sp.gim 
+-r-xr-xr-x   1    0    0     266848 Sep 12 2005 [  29568 00] s09.gim 
+-r-xr-xr-x   1    0    0       9012 Sep 20 2005 [  29712 00] situation09.esf 
+-r-xr-xr-x   1    0    0       9012 Nov 18 2005 [  29728 00] situation09_en.esf 
+-r-xr-xr-x   1    0    0       9012 Nov 18 2005 [  29744 00] situation09_fr.esf 
+-r-xr-xr-x   1    0    0       9012 Nov 18 2005 [  29760 00] situation09_ge.esf 
+-r-xr-xr-x   1    0    0       9012 Nov 18 2005 [  29776 00] situation09_it.esf 
+-r-xr-xr-x   1    0    0       9012 Nov 18 2005 [  29792 00] situation09_sp.esf 
+
+Directory listing of /PSP_GAME/USRDIR/dat/demo/s10/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     61 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     116752 Sep 11 2005 [  29808 00] mes10.gim 
+-r-xr-xr-x   1    0    0     116752 Nov 18 2005 [  29872 00] mes10_en.gim 
+-r-xr-xr-x   1    0    0     116752 Nov 18 2005 [  29936 00] mes10_fr.gim 
+-r-xr-xr-x   1    0    0     116752 Nov 18 2005 [  30000 00] mes10_ge.gim 
+-r-xr-xr-x   1    0    0     116752 Nov 18 2005 [  30064 00] mes10_it.gim 
+-r-xr-xr-x   1    0    0     116752 Nov 18 2005 [  30128 00] mes10_sp.gim 
+-r-xr-xr-x   1    0    0     259344 Sep 12 2005 [  30192 00] s10.gim 
+-r-xr-xr-x   1    0    0       8756 Sep 20 2005 [  30320 00] situation10.esf 
+-r-xr-xr-x   1    0    0       8756 Nov 18 2005 [  30336 00] situation10_de.esf 
+-r-xr-xr-x   1    0    0       8756 Nov 18 2005 [  30352 00] situation10_en.esf 
+-r-xr-xr-x   1    0    0       8756 Nov 18 2005 [  30368 00] situation10_fr.esf 
+-r-xr-xr-x   1    0    0       8756 Nov 18 2005 [  30384 00] situation10_ge.esf 
+-r-xr-xr-x   1    0    0       8756 Nov 18 2005 [  30400 00] situation10_it.esf 
+-r-xr-xr-x   1    0    0       8756 Nov 18 2005 [  30416 00] situation10_sp.esf 
+
+Directory listing of /PSP_GAME/USRDIR/dat/demo/s11/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     62 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     32 02] .. 
+-r-xr-xr-x   1    0    0     136192 Sep 27 2005 [  30432 00] mes11.gim 
+-r-xr-xr-x   1    0    0     136192 Nov 18 2005 [  30512 00] mes11_en.gim 
+-r-xr-xr-x   1    0    0     136192 Dec 21 2005 [  30592 00] mes11_fr.gim 
+-r-xr-xr-x   1    0    0     136192 Nov 18 2005 [  30672 00] mes11_ge.gim 
+-r-xr-xr-x   1    0    0     136192 Nov 18 2005 [  30752 00] mes11_it.gim 
+-r-xr-xr-x   1    0    0     136192 Nov 18 2005 [  30832 00] mes11_sp.gim 
+-r-xr-xr-x   1    0    0     437056 Sep 26 2005 [  30912 00] s11.gim 
+-r-xr-xr-x   1    0    0     430720 Dec  9 2005 [  31136 00] s11_en.gim 
+-r-xr-xr-x   1    0    0     430720 Dec  9 2005 [  31360 00] s11_fr.gim 
+-r-xr-xr-x   1    0    0     430720 Dec  9 2005 [  31584 00] s11_ge.gim 
+-r-xr-xr-x   1    0    0     430720 Dec  9 2005 [  31808 00] s11_it.gim 
+-r-xr-xr-x   1    0    0     430720 Dec  9 2005 [  32032 00] s11_sp.gim 
+-r-xr-xr-x   1    0    0      13960 Sep 20 2005 [  32256 00] situation11.esf 
+-r-xr-xr-x   1    0    0      13960 Nov 18 2005 [  32272 00] situation11_en.esf 
+-r-xr-xr-x   1    0    0      13960 Nov 18 2005 [  32288 00] situation11_fr.esf 
+-r-xr-xr-x   1    0    0      13960 Nov 18 2005 [  32304 00] situation11_ge.esf 
+-r-xr-xr-x   1    0    0      13960 Nov 18 2005 [  32320 00] situation11_it.esf 
+-r-xr-xr-x   1    0    0      13960 Nov 18 2005 [  32336 00] situation11_sp.esf 
+
+Directory listing of /PSP_GAME/USRDIR/dat/effect/esf/
+dr-xr-xr-x   1    0    0       4096 Feb 15 2006 [     63 02] . 
+dr-xr-xr-x   1    0    0       8192 Feb 15 2006 [     33 02] .. 
+-r-xr-xr-x   1    0    0      43176 Oct 17 2005 [  33616 00] effballoon.esf 
+-r-xr-xr-x   1    0    0      43164 Nov 21 2005 [  33648 00] effballoon_dc.esf 
+-r-xr-xr-x   1    0    0      43164 Nov 21 2005 [  33680 00] effballoon_en.esf 
+-r-xr-xr-x   1    0    0      43164 Nov 21 2005 [  33712 00] effballoon_fr.esf 
+-r-xr-xr-x   1    0    0      43164 Nov 21 2005 [  33744 00] effballoon_it.esf 
+-r-xr-xr-x   1    0    0      43164 Nov 21 2005 [  33776 00] effballoon_sp.esf 
+-r-xr-xr-x   1    0    0      50440 Oct 17 2005 [  33808 00] effect.esf 
+-r-xr-xr-x   1    0    0      50440 Nov 18 2005 [  33840 00] effect_dc.esf 
+-r-xr-xr-x   1    0    0      50440 Nov 18 2005 [  33872 00] effect_en.esf 
+-r-xr-xr-x   1    0    0      50440 Nov 18 2005 [  33904 00] effect_fr.esf 
+-r-xr-xr-x   1    0    0      50440 Nov 18 2005 [  33936 00] effect_it.esf 
+-r-xr-xr-x   1    0    0      50440 Nov 18 2005 [  33968 00] effect_sp.esf 
+-r-xr-xr-x   1    0    0      49452 Nov 18 2005 [  34000 00] effic.esf 
+-r-xr-xr-x   1    0    0      50676 Dec  9 2005 [  34032 00] effic_dc.esf 
+-r-xr-xr-x   1    0    0      50476 Nov 18 2005 [  34064 00] effic_en.esf 
+-r-xr-xr-x   1    0    0      49716 Nov 18 2005 [  34096 00] effic_fr.esf 
+-r-xr-xr-x   1    0    0      49748 Nov 18 2005 [  34128 00] effic_it.esf 
+-r-xr-xr-x   1    0    0      49284 Nov 18 2005 [  34160 00] effic_sp.esf 
+-r-xr-xr-x   1    0    0       7084 Nov 21 2005 [  34192 00] gameover.esf 
+-r-xr-xr-x   1    0    0       7084 Nov 18 2005 [  34208 00] gameover_dc.esf 
+-r-xr-xr-x   1    0    0       7084 Nov 18 2005 [  34224 00] gameover_en.esf 
+-r-xr-xr-x   1    0    0       7084 Nov 18 2005 [  34240 00] gameover_fr.esf 
+-r-xr-xr-x   1    0    0       7084 Nov 18 2005 [  34256 00] gameover_it.esf 
+-r-xr-xr-x   1    0    0       7084 Nov 18 2005 [  34272 00] gameover_sp.esf 
+-r-xr-xr-x   1    0    0      33620 Sep 27 2005 [  34288 00] mapmenu.esf 
+-r-xr-xr-x   1    0    0      33492 Nov 18 2005 [  34320 00] mapmenu_en.esf 
+-r-xr-xr-x   1    0    0      48948 Oct 21 2005 [  34352 00] pausemenu.esf 
+-r-xr-xr-x   1    0    0      48036 Nov 21 2005 [  34384 00] pausemenu_dc.esf 
+-r-xr-xr-x   1    0    0      48036 Nov 18 2005 [  34416 00] pausemenu_en.esf 
+-r-xr-xr-x   1    0    0      48036 Nov 18 2005 [  34448 00] pausemenu_fr.esf 
+-r-xr-xr-x   1    0    0      48036 Nov 18 2005 [  34480 00] pausemenu_it.esf 
+-r-xr-xr-x   1    0    0      48036 Nov 18 2005 [  34512 00] pausemenu_sp.esf 
+-r-xr-xr-x   1    0    0      16716 Oct 28 2005 [  34544 00] resultmenu.esf 
+-r-xr-xr-x   1    0    0      16716 Nov 18 2005 [  34560 00] resultmenu_dc.esf 
+-r-xr-xr-x   1    0    0      16716 Dec  9 2005 [  34576 00] resultmenu_en.esf 
+-r-xr-xr-x   1    0    0      16716 Nov 18 2005 [  34592 00] resultmenu_fr.esf 
+-r-xr-xr-x   1    0    0      16716 Nov 18 2005 [  34608 00] resultmenu_it.esf 
+-r-xr-xr-x   1    0    0      16716 Nov 18 2005 [  34624 00] resultmenu_sp.esf 
+-r-xr-xr-x   1    0    0       8360 Oct 19 2005 [  34640 00] staff.esf 
+-r-xr-xr-x   1    0    0       8360 Nov 18 2005 [  34656 00] staff_dc.esf 
+-r-xr-xr-x   1    0    0       9192 Dec  9 2005 [  34672 00] staff_en.esf 
+-r-xr-xr-x   1    0    0       8360 Nov 18 2005 [  34688 00] staff_fr.esf 
+-r-xr-xr-x   1    0    0       8360 Nov 18 2005 [  34704 00] staff_ic.esf 
+-r-xr-xr-x   1    0    0       8360 Nov 18 2005 [  34720 00] staff_it.esf 
+-r-xr-xr-x   1    0    0       8360 Nov 18 2005 [  34736 00] staff_sp.esf 
+-r-xr-xr-x   1    0    0      37874 Feb  9 2006 [  34752 00] texts_dc.msg 
+-r-xr-xr-x   1    0    0      35571 Feb  9 2006 [  34784 00] texts_en.msg 
+-r-xr-xr-x   1    0    0      37930 Feb  9 2006 [  34816 00] texts_fr.msg 
+-r-xr-xr-x   1    0    0      38909 Feb  9 2006 [  34848 00] texts_it.msg 
+-r-xr-xr-x   1    0    0      31700 Dec  9 2005 [  34880 00] texts_jp.msg 
+-r-xr-xr-x   1    0    0      37891 Feb  9 2006 [  34896 00] texts_sp.msg 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/common/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     65 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     37 02] .. 
+-r-xr-xr-x   1    0    0     416752 Oct 20 2005 [  36752 00] comparts.bin 
+-r-xr-xr-x   1    0    0      12900 Oct 20 2005 [  36960 00] compartsinf.bin 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s00/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     66 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     37 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     89 02] 00 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     90 02] 01 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     91 02] 02 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     92 02] 03 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     93 02] 04 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     94 02] 05 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     95 02] 06 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     96 02] 07 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     97 02] 08 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     98 02] 09 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     99 02] 10 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    100 02] bg0 
+-r-xr-xr-x   1    0    0     851424 Oct 11 2005 [  37200 00] parts.bin 
+-r-xr-xr-x   1    0    0     120540 Sep 27 2005 [  37616 00] partsinf.bin 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s01/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     67 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     37 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    101 02] 01 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    102 02] 02 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    103 02] 03 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    104 02] 04 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    105 02] 05 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    106 02] 06 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    107 02] 07 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    108 02] 08 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    109 02] 09 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    110 02] 10 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    111 02] bg0 
+-r-xr-xr-x   1    0    0     721360 Oct 11 2005 [  37888 00] parts.bin 
+-r-xr-xr-x   1    0    0     108448 Sep 26 2005 [  38256 00] partsinf.bin 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s02/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     68 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     37 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    112 02] 01 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    113 02] 02 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    114 02] 03 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    115 02] 04 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    116 02] 05 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    117 02] 06 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    118 02] 07 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    119 02] 08 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    120 02] 09 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    121 02] 10 
+-r-xr-xr-x   1    0    0     721360 Oct 11 2005 [  38480 00] parts.bin 
+-r-xr-xr-x   1    0    0     108448 Sep 26 2005 [  38848 00] partsinf.bin 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s03/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     69 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     37 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    122 02] 01 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    123 02] 02 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    124 02] 03 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    125 02] 04 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    126 02] 05 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    127 02] 06 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    128 02] 07 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    129 02] 08 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    130 02] 09 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    131 02] 10 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    132 02] bg0 
+-r-xr-xr-x   1    0    0     592880 Oct 11 2005 [  39120 00] parts.bin 
+-r-xr-xr-x   1    0    0      93116 Sep 26 2005 [  39424 00] partsinf.bin 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s04/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     70 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     37 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    133 02] 01 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    134 02] 02 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    135 02] 03 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    136 02] 04 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    137 02] 05 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    138 02] 06 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    139 02] 07 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    140 02] 08 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    141 02] 09 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    142 02] 10 
+-r-xr-xr-x   1    0    0     464448 Nov 18 2005 [  39632 00] parts.bin 
+-r-xr-xr-x   1    0    0      59316 Sep 26 2005 [  39872 00] partsinf.bin 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s05/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     71 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     37 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    143 02] 01 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    144 02] 02 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    145 02] 03 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    146 02] 04 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    147 02] 05 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    148 02] 06 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    149 02] 07 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    150 02] 08 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    151 02] 09 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    152 02] 10 
+-r-xr-xr-x   1    0    0     534352 Oct 11 2005 [  40064 00] parts.bin 
+-r-xr-xr-x   1    0    0      68620 Sep 26 2005 [  40336 00] partsinf.bin 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s06/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     72 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     37 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    153 02] 01 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    154 02] 02 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    155 02] 03 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    156 02] 04 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    157 02] 05 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    158 02] 06 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    159 02] 07 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    160 02] 08 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    161 02] 09 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    162 02] 10 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    163 02] bg0 
+-r-xr-xr-x   1    0    0     741040 Nov 18 2005 [  40608 00] parts.bin 
+-r-xr-xr-x   1    0    0      95924 Sep 26 2005 [  40976 00] partsinf.bin 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s07/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     73 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     37 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    164 02] 01 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    165 02] 02 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    166 02] 03 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    167 02] 04 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    168 02] 05 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    169 02] 06 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    170 02] 07 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    171 02] 08 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    172 02] 09 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    173 02] 10 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    174 02] bg0 
+-r-xr-xr-x   1    0    0     495216 Oct 11 2005 [  41232 00] parts.bin 
+-r-xr-xr-x   1    0    0      66108 Sep 26 2005 [  41488 00] partsinf.bin 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s08/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     74 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     37 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    175 02] 01 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    176 02] 02 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    177 02] 03 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    178 02] 04 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    179 02] 05 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    180 02] 06 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    181 02] 07 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    182 02] 08 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    183 02] 09 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    184 02] 10 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    185 02] bg0 
+-r-xr-xr-x   1    0    0     565376 Oct 11 2005 [  41760 00] parts.bin 
+-r-xr-xr-x   1    0    0      62876 Sep 26 2005 [  42048 00] partsinf.bin 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s09/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     75 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     37 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    186 02] 01 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    187 02] 02 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    188 02] 03 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    189 02] 04 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    190 02] 05 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    191 02] 06 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    192 02] 07 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    193 02] 08 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    194 02] 09 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    195 02] 10 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    196 02] bg0 
+-r-xr-xr-x   1    0    0     496176 Oct 11 2005 [  42288 00] parts.bin 
+-r-xr-xr-x   1    0    0      51620 Sep 26 2005 [  42544 00] partsinf.bin 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s10/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     76 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     37 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    197 02] 01 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    198 02] 02 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    199 02] 03 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    200 02] 04 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    201 02] 05 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    202 02] 06 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    203 02] 07 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    204 02] 08 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    205 02] 09 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    206 02] 10 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    207 02] bg0 
+-r-xr-xr-x   1    0    0     603584 Oct  6 2005 [  42800 00] parts.bin 
+-r-xr-xr-x   1    0    0      57444 Sep 26 2005 [  43104 00] partsinf.bin 
+
+Directory listing of /PSP_GAME/USRDIR/dat/menu/loading/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     77 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     38 02] .. 
+-r-xr-xr-x   1    0    0        268 Oct  7 2005 [  43136 00] loading.esf 
+-r-xr-xr-x   1    0    0      65520 Oct  7 2005 [  43152 00] loading.gim 
+-r-xr-xr-x   1    0    0      65520 Nov 18 2005 [  43184 00] loading_en.gim 
+-r-xr-xr-x   1    0    0      65520 Nov 18 2005 [  43216 00] loading_fr.gim 
+-r-xr-xr-x   1    0    0      65520 Nov 18 2005 [  43248 00] loading_ge.gim 
+-r-xr-xr-x   1    0    0      65520 Nov 18 2005 [  43280 00] loading_it.gim 
+-r-xr-xr-x   1    0    0      65520 Nov 18 2005 [  43312 00] loading_sp.gim 
+
+Directory listing of /PSP_GAME/USRDIR/dat/menu/option/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     78 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     38 02] .. 
+-r-xr-xr-x   1    0    0      69120 Sep 22 2005 [  43344 00] menu_options.gim 
+-r-xr-xr-x   1    0    0      68128 Nov 18 2005 [  43392 00] menu_options_en.gim 
+-r-xr-xr-x   1    0    0      68128 Nov 18 2005 [  43440 00] menu_options_fr.gim 
+-r-xr-xr-x   1    0    0      68512 Dec  9 2005 [  43488 00] menu_options_ge.gim 
+-r-xr-xr-x   1    0    0      68128 Jan 24 2006 [  43536 00] menu_options_it.gim 
+-r-xr-xr-x   1    0    0      68128 Nov 18 2005 [  43584 00] menu_options_sp.gim 
+-r-xr-xr-x   1    0    0      29432 Oct 24 2005 [  43632 00] optionmenu.esf 
+-r-xr-xr-x   1    0    0      29432 Nov 18 2005 [  43648 00] optionmenu_dc.esf 
+-r-xr-xr-x   1    0    0      29432 Nov 18 2005 [  43664 00] optionmenu_en.esf 
+-r-xr-xr-x   1    0    0      29432 Nov 18 2005 [  43680 00] optionmenu_fr.esf 
+-r-xr-xr-x   1    0    0      29432 Nov 24 2005 [  43696 00] optionmenu_it.esf 
+-r-xr-xr-x   1    0    0      29432 Nov 18 2005 [  43712 00] optionmenu_sp.esf 
+
+Directory listing of /PSP_GAME/USRDIR/dat/menu/profile/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     79 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     38 02] .. 
+-r-xr-xr-x   1    0    0     167488 Oct 18 2005 [  43728 00] profile.gim 
+-r-xr-xr-x   1    0    0     171232 Feb  9 2006 [  43920 00] profile_en.gim 
+-r-xr-xr-x   1    0    0      34012 Dec 22 2005 [  44016 00] profile_english.msg 
+-r-xr-xr-x   1    0    0     171232 Feb  9 2006 [  44048 00] profile_fr.gim 
+-r-xr-xr-x   1    0    0      35072 Dec 22 2005 [  44144 00] profile_french.msg 
+-r-xr-xr-x   1    0    0     171232 Feb  9 2006 [  44176 00] profile_ge.gim 
+-r-xr-xr-x   1    0    0      35274 Dec 22 2005 [  44272 00] profile_german.msg 
+-r-xr-xr-x   1    0    0     171232 Feb  9 2006 [  44304 00] profile_it.gim 
+-r-xr-xr-x   1    0    0      35396 Dec 22 2005 [  44400 00] profile_italian.msg 
+-r-xr-xr-x   1    0    0      29507 Oct 27 2005 [  44432 00] profile_japanese.msg 
+-r-xr-xr-x   1    0    0     171232 Feb  9 2006 [  44448 00] profile_sp.gim 
+-r-xr-xr-x   1    0    0      36414 Dec 22 2005 [  44544 00] profile_spanish.msg 
+-r-xr-xr-x   1    0    0      16468 Oct 20 2005 [  43824 00] profilemenu.esf 
+-r-xr-xr-x   1    0    0      16168 Dec 21 2005 [  43840 00] profilemenu_dc.esf 
+-r-xr-xr-x   1    0    0      16168 Dec 21 2005 [  43856 00] profilemenu_en.esf 
+-r-xr-xr-x   1    0    0      16168 Dec 21 2005 [  43872 00] profilemenu_fr.esf 
+-r-xr-xr-x   1    0    0      16168 Dec 21 2005 [  43888 00] profilemenu_it.esf 
+-r-xr-xr-x   1    0    0      16168 Dec 21 2005 [  43904 00] profilemenu_sp.esf 
+
+Directory listing of /PSP_GAME/USRDIR/dat/menu/stageselect/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     80 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     38 02] .. 
+-r-xr-xr-x   1    0    0      34836 Oct  5 2005 [  44576 00] dlstageselect.esf 
+-r-xr-xr-x   1    0    0      34836 Nov 18 2005 [  44608 00] dlstageselect_dc.esf 
+-r-xr-xr-x   1    0    0      34836 Nov 18 2005 [  44640 00] dlstageselect_en.esf 
+-r-xr-xr-x   1    0    0      34836 Nov 18 2005 [  44672 00] dlstageselect_fr.esf 
+-r-xr-xr-x   1    0    0      34836 Nov 18 2005 [  44704 00] dlstageselect_it.esf 
+-r-xr-xr-x   1    0    0      34836 Nov 18 2005 [  44736 00] dlstageselect_sp.esf 
+-r-xr-xr-x   1    0    0     160592 Sep 22 2005 [  44768 00] menu_dlstage.gim 
+-r-xr-xr-x   1    0    0     160592 Dec  9 2005 [  44848 00] menu_dlstage_en.gim 
+-r-xr-xr-x   1    0    0     160592 Nov 24 2005 [  44928 00] menu_dlstage_fr.gim 
+-r-xr-xr-x   1    0    0     160592 Jan 11 2006 [  45008 00] menu_dlstage_ge.gim 
+-r-xr-xr-x   1    0    0     160592 Nov 24 2005 [  45088 00] menu_dlstage_it.gim 
+-r-xr-xr-x   1    0    0     160592 Nov 18 2005 [  45168 00] menu_dlstage_sp.gim 
+-r-xr-xr-x   1    0    0     196400 Sep 22 2005 [  45248 00] menu_sstage.gim 
+-r-xr-xr-x   1    0    0     196400 Nov 18 2005 [  45344 00] menu_sstage_en.gim 
+-r-xr-xr-x   1    0    0     196400 Nov 24 2005 [  45440 00] menu_sstage_fr.gim 
+-r-xr-xr-x   1    0    0     196400 Jan 11 2006 [  45536 00] menu_sstage_ge.gim 
+-r-xr-xr-x   1    0    0     196400 Nov 24 2005 [  45632 00] menu_sstage_it.gim 
+-r-xr-xr-x   1    0    0     196400 Nov 18 2005 [  45728 00] menu_sstage_sp.gim 
+-r-xr-xr-x   1    0    0      88548 Nov 18 2005 [  45824 00] stageselect.esf 
+-r-xr-xr-x   1    0    0      88548 Nov 18 2005 [  45872 00] stageselect_dc.esf 
+-r-xr-xr-x   1    0    0      88548 Nov 18 2005 [  45920 00] stageselect_en.esf 
+-r-xr-xr-x   1    0    0      88548 Nov 18 2005 [  45968 00] stageselect_fr.esf 
+-r-xr-xr-x   1    0    0      88548 Nov 18 2005 [  46016 00] stageselect_it.esf 
+-r-xr-xr-x   1    0    0      88548 Nov 18 2005 [  46064 00] stageselect_sp.esf 
+
+Directory listing of /PSP_GAME/USRDIR/dat/menu/taito/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     81 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     38 02] .. 
+-r-xr-xr-x   1    0    0      22876 Nov 18 2005 [  46112 00] legal_text.gim 
+-r-xr-xr-x   1    0    0      24992 Dec 18 2005 [  46128 00] legal_text_en.gim 
+-r-xr-xr-x   1    0    0      24992 Dec 13 2005 [  46144 00] legal_text_fr.gim 
+-r-xr-xr-x   1    0    0      24992 Dec 18 2005 [  46160 00] legal_text_ge.gim 
+-r-xr-xr-x   1    0    0      24992 Dec 13 2005 [  46176 00] legal_text_it.gim 
+-r-xr-xr-x   1    0    0      24992 Dec 13 2005 [  46192 00] legal_text_sp.gim 
+-r-xr-xr-x   1    0    0     131792 Nov 18 2005 [  46208 00] sig_ubi.gim 
+-r-xr-xr-x   1    0    0      11664 Sep  9 2005 [  46320 00] taito_sig.gim 
+-r-xr-xr-x   1    0    0       3592 Nov 18 2005 [  46288 00] taitomenu.esf 
+-r-xr-xr-x   1    0    0       4220 Dec 21 2005 [  46304 00] taitomenu_en.esf 
+
+Directory listing of /PSP_GAME/USRDIR/dat/menu/tgs/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     82 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     38 02] .. 
+-r-xr-xr-x   1    0    0     131792 Oct 20 2005 [  46336 00] share_end.gim 
+-r-xr-xr-x   1    0    0       9456 Oct 20 2005 [  46416 00] sig_cero.gim 
+-r-xr-xr-x   1    0    0      13040 Oct 21 2005 [  46432 00] sig_cp.gim 
+-r-xr-xr-x   1    0    0       1044 Sep  9 2005 [  46448 00] tgsmenu.esf 
+-r-xr-xr-x   1    0    0     131872 Sep  9 2005 [  46464 00] title_end01.gim 
+-r-xr-xr-x   1    0    0      18528 Oct 20 2005 [  46544 00] title_ntc00.gim 
+
+Directory listing of /PSP_GAME/USRDIR/dat/menu/title/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     83 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     38 02] .. 
+-r-xr-xr-x   1    0    0     202096 Oct 20 2005 [  46560 00] game_title.gim 
+-r-xr-xr-x   1    0    0     206032 Dec 21 2005 [  46672 00] game_title_en.gim 
+-r-xr-xr-x   1    0    0     206032 Dec 21 2005 [  46784 00] game_title_fr.gim 
+-r-xr-xr-x   1    0    0     206032 Dec 21 2005 [  46896 00] game_title_ge.gim 
+-r-xr-xr-x   1    0    0     206032 Dec 21 2005 [  47008 00] game_title_it.gim 
+-r-xr-xr-x   1    0    0     206032 Dec 21 2005 [  47120 00] game_title_sp.gim 
+-r-xr-xr-x   1    0    0      31968 Nov 18 2005 [  47232 00] titlemenu.esf 
+-r-xr-xr-x   1    0    0      32056 Dec 21 2005 [  47248 00] titlemenu_dc.esf 
+-r-xr-xr-x   1    0    0      32056 Dec 21 2005 [  47264 00] titlemenu_en.esf 
+-r-xr-xr-x   1    0    0      32056 Dec 21 2005 [  47280 00] titlemenu_fr.esf 
+-r-xr-xr-x   1    0    0      32068 Dec 21 2005 [  47296 00] titlemenu_it.esf 
+-r-xr-xr-x   1    0    0      32056 Dec 21 2005 [  47312 00] titlemenu_sp.esf 
+
+Directory listing of /PSP_GAME/USRDIR/dat/movable/box/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     84 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     39 02] .. 
+-r-xr-xr-x   1    0    0       1584 Sep  9 2005 [  47328 00] alienbox.gmo 
+-r-xr-xr-x   1    0    0       9616 Sep  9 2005 [  47344 00] alienchangebox.gmo 
+-r-xr-xr-x   1    0    0       2976 Sep 20 2005 [  47360 00] ironbox.gmo 
+-r-xr-xr-x   1    0    0       5072 Oct  4 2005 [  47376 00] stretcher.gmo 
+-r-xr-xr-x   1    0    0       2984 Sep 20 2005 [  47392 00] universebox.gmo 
+-r-xr-xr-x   1    0    0       1440 Aug 30 2005 [  47408 00] woodbox.gmo 
+
+Directory listing of /PSP_GAME/USRDIR/dat/sound/bgm/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     85 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     41 02] .. 
+-r-xr-xr-x   1    0    0      57776 Oct  3 2005 [  56688 00] allbgmend.at3 
+-r-xr-xr-x   1    0    0     150244 Oct  3 2005 [  56720 00] allbgmloop.at3 
+-r-xr-xr-x   1    0    0      61696 Sep 28 2005 [  56800 00] exitclear.at3 
+-r-xr-xr-x   1    0    0      96976 Sep 28 2005 [  56832 00] gameoverbgm.at3 
+-r-xr-xr-x   1    0    0     435284 Sep 28 2005 [  56880 00] optionbgm.at3 
+-r-xr-xr-x   1    0    0     543924 Sep 28 2005 [  57104 00] resultbgm.at3 
+-r-xr-xr-x   1    0    0     484004 Sep 28 2005 [  57376 00] selectbgm.at3 
+-r-xr-xr-x   1    0    0     464404 Oct  3 2005 [  57616 00] situationbgm.at3 
+-r-xr-xr-x   1    0    0     375364 Sep 28 2005 [  57856 00] staffbgm.at3 
+-r-xr-xr-x   1    0    0    1246164 Sep 28 2005 [  58048 00] stage1bgm.at3 
+-r-xr-xr-x   1    0    0    1143684 Sep 28 2005 [  58672 00] stage2bgm.at3 
+-r-xr-xr-x   1    0    0    1351444 Sep 28 2005 [  59232 00] stage3bgm.at3 
+-r-xr-xr-x   1    0    0     797604 Sep 28 2005 [  59904 00] stage4bgm.at3 
+-r-xr-xr-x   1    0    0    1437124 Oct  7 2005 [  60304 00] stage5bgm.at3 
+-r-xr-xr-x   1    0    0     888884 Sep 28 2005 [  61008 00] stage6bgm.at3 
+-r-xr-xr-x   1    0    0    1173924 Sep 28 2005 [  61456 00] stage7bgm.at3 
+-r-xr-xr-x   1    0    0    1374404 Sep 28 2005 [  62032 00] stage8bgm.at3 
+-r-xr-xr-x   1    0    0     982404 Sep 28 2005 [  62704 00] stage9bgm.at3 
+-r-xr-xr-x   1    0    0    1181764 Oct  7 2005 [  63184 00] stageAbgm.at3 
+-r-xr-xr-x   1    0    0     251044 Sep 28 2005 [  63776 00] titlebgm.at3 
+
+Directory listing of /PSP_GAME/USRDIR/dat/sound/se/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     86 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     41 02] .. 
+-r-xr-xr-x   1    0    0     131744 Oct  6 2005 [  63904 00] action.pbd 
+-r-xr-xr-x   1    0    0       4980 Oct  5 2005 [  63984 00] action.phd 
+-r-xr-xr-x   1    0    0      14736 Oct  5 2005 [  64000 00] gimmick.pbd 
+-r-xr-xr-x   1    0    0       1036 Sep 27 2005 [  64016 00] gimmick.phd 
+-r-xr-xr-x   1    0    0      76464 Oct  5 2005 [  64032 00] hanyo.pbd 
+-r-xr-xr-x   1    0    0       3124 Oct  5 2005 [  64080 00] hanyo.phd 
+-r-xr-xr-x   1    0    0      42816 Oct  5 2005 [  64096 00] item.pbd 
+-r-xr-xr-x   1    0    0       1848 Oct  5 2005 [  64128 00] item.phd 
+-r-xr-xr-x   1    0    0     150896 Oct  6 2005 [  64144 00] set.pbd 
+-r-xr-xr-x   1    0    0       3820 Oct  6 2005 [  64224 00] set.phd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/sound/vag/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     87 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     41 02] .. 
+-r-xr-xr-x   1    0    0      15024 Oct  6 2005 [  64240 00] CANCEL.vag 
+-r-xr-xr-x   1    0    0      20784 Oct  6 2005 [  64256 00] DECISION.vag 
+-r-xr-xr-x   1    0    0      19760 Oct  6 2005 [  64272 00] MAP.vag 
+-r-xr-xr-x   1    0    0      20272 Oct  6 2005 [  64288 00] POSE.vag 
+-r-xr-xr-x   1    0    0       4032 Oct  6 2005 [  64304 00] PURU.vag 
+-r-xr-xr-x   1    0    0      17840 Oct  6 2005 [  64320 00] SELECT.vag 
+-r-xr-xr-x   1    0    0      44368 Oct  6 2005 [  64336 00] START1.vag 
+-r-xr-xr-x   1    0    0      50384 Sep 12 2005 [  64368 00] START2.vag 
+-r-xr-xr-x   1    0    0      76016 Oct  6 2005 [  64400 00] TIMER_COUNTDOWN.vag 
+-r-xr-xr-x   1    0    0      42144 Oct  6 2005 [  64448 00] WARNING.vag 
+
+Directory listing of /PSP_GAME/USRDIR/dat/sound/voice/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     88 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     41 02] .. 
+-r-xr-xr-x   1    0    0      84096 Oct  5 2005 [  64480 00] adult_man.pbd 
+-r-xr-xr-x   1    0    0       2776 Oct  5 2005 [  64528 00] adult_man.phd 
+-r-xr-xr-x   1    0    0      99056 Oct  5 2005 [  64544 00] adult_woman.pbd 
+-r-xr-xr-x   1    0    0       2776 Oct  5 2005 [  64608 00] adult_woman.phd 
+-r-xr-xr-x   1    0    0     118672 Oct  5 2005 [  64624 00] big_man.pbd 
+-r-xr-xr-x   1    0    0       2892 Oct  5 2005 [  64688 00] big_man.phd 
+-r-xr-xr-x   1    0    0     123296 Oct  5 2005 [  64704 00] big_woman.pbd 
+-r-xr-xr-x   1    0    0       2892 Oct  5 2005 [  64768 00] big_woman.phd 
+-r-xr-xr-x   1    0    0      82112 Oct  5 2005 [  64784 00] kid_boy.pbd 
+-r-xr-xr-x   1    0    0       2660 Oct  5 2005 [  64832 00] kid_boy.phd 
+-r-xr-xr-x   1    0    0      93376 Oct  5 2005 [  64848 00] kid_girl.pbd 
+-r-xr-xr-x   1    0    0       2660 Oct  5 2005 [  64896 00] kid_girl.phd 
+-r-xr-xr-x   1    0    0     148192 Oct  5 2005 [  64912 00] mister.pbd 
+-r-xr-xr-x   1    0    0       3704 Oct  5 2005 [  64992 00] mister.phd 
+-r-xr-xr-x   1    0    0      18528 Oct  5 2005 [  65008 00] patient.pbd 
+-r-xr-xr-x   1    0    0       1152 Sep 27 2005 [  65024 00] patient.phd 
+-r-xr-xr-x   1    0    0      16816 Sep  8 2005 [  65040 00] red_cross.pbd 
+-r-xr-xr-x   1    0    0       1036 Sep 27 2005 [  65056 00] red_cross.phd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s00/00/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     89 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     66 02] .. 
+-r-xr-xr-x   1    0    0      12138 Oct  7 2005 [  36976 00] map00_00.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s00/01/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     90 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     66 02] .. 
+-r-xr-xr-x   1    0    0       4402 Sep 12 2005 [  36992 00] map00_01.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s00/02/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     91 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     66 02] .. 
+-r-xr-xr-x   1    0    0       1833 Jul 19 2005 [  37008 00] map00_02.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s00/03/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     92 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     66 02] .. 
+-r-xr-xr-x   1    0    0       2167 Jul 19 2005 [  37024 00] map00_03.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s00/04/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     93 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     66 02] .. 
+-r-xr-xr-x   1    0    0       2004 Oct  9 2005 [  37040 00] map00_04.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s00/05/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     94 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     66 02] .. 
+-r-xr-xr-x   1    0    0      20506 Dec 21 2005 [  37056 00] map00_05.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s00/06/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     95 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     66 02] .. 
+-r-xr-xr-x   1    0    0        632 Jul 20 2005 [  37072 00] map00_06.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s00/07/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     96 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     66 02] .. 
+-r-xr-xr-x   1    0    0        659 Jul 14 2005 [  37088 00] map00_07.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s00/08/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     97 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     66 02] .. 
+-r-xr-xr-x   1    0    0       2341 Sep  9 2005 [  37104 00] map00_08.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s00/09/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     98 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     66 02] .. 
+-r-xr-xr-x   1    0    0       2552 Oct  5 2005 [  37120 00] map00_09.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s00/10/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     99 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     66 02] .. 
+-r-xr-xr-x   1    0    0       2793 Oct  5 2005 [  37136 00] map00_10.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s00/bg0/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    100 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     66 02] .. 
+-r-xr-xr-x   1    0    0        692 Sep 27 2005 [  37152 00] bginf.bin 
+-r-xr-xr-x   1    0    0      24912 Oct  7 2005 [  37168 00] bgparts.bin 
+-r-xr-xr-x   1    0    0        876 Sep  1 2005 [  37184 00] bgpartsi.bin 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s01/01/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    101 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     67 02] .. 
+-r-xr-xr-x   1    0    0       3975 Sep 28 2005 [  37680 00] map01_01.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s01/02/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    102 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     67 02] .. 
+-r-xr-xr-x   1    0    0       3385 Oct  7 2005 [  37696 00] map01_02.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s01/03/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    103 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     67 02] .. 
+-r-xr-xr-x   1    0    0       3393 Sep 28 2005 [  37712 00] map01_03.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s01/04/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    104 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     67 02] .. 
+-r-xr-xr-x   1    0    0       3553 Sep 28 2005 [  37728 00] map01_04.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s01/05/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    105 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     67 02] .. 
+-r-xr-xr-x   1    0    0       3746 Sep 28 2005 [  37744 00] map01_05.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s01/06/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    106 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     67 02] .. 
+-r-xr-xr-x   1    0    0       3233 Oct 10 2005 [  37760 00] map01_06.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s01/07/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    107 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     67 02] .. 
+-r-xr-xr-x   1    0    0       3080 Oct  9 2005 [  37776 00] map01_07.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s01/08/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    108 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     67 02] .. 
+-r-xr-xr-x   1    0    0       3652 Sep 28 2005 [  37792 00] map01_08.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s01/09/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    109 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     67 02] .. 
+-r-xr-xr-x   1    0    0       3566 Oct  7 2005 [  37808 00] map01_09.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s01/10/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    110 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     67 02] .. 
+-r-xr-xr-x   1    0    0       3696 Sep 28 2005 [  37824 00] map01_10.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s01/bg0/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    111 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     67 02] .. 
+-r-xr-xr-x   1    0    0        384 Sep 12 2005 [  37840 00] bginf.bin 
+-r-xr-xr-x   1    0    0      24912 Oct  7 2005 [  37856 00] bgparts.bin 
+-r-xr-xr-x   1    0    0        876 Aug 31 2005 [  37872 00] bgpartsi.bin 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s02/01/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    112 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     68 02] .. 
+-r-xr-xr-x   1    0    0       3150 Oct 21 2005 [  38320 00] map02_01.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s02/02/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    113 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     68 02] .. 
+-r-xr-xr-x   1    0    0       3348 Oct 21 2005 [  38336 00] map02_02.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s02/03/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    114 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     68 02] .. 
+-r-xr-xr-x   1    0    0       3303 Oct 21 2005 [  38352 00] map02_03.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s02/04/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    115 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     68 02] .. 
+-r-xr-xr-x   1    0    0       2938 Oct 21 2005 [  38368 00] map02_04.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s02/05/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    116 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     68 02] .. 
+-r-xr-xr-x   1    0    0       3236 Oct  7 2005 [  38384 00] map02_05.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s02/06/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    117 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     68 02] .. 
+-r-xr-xr-x   1    0    0       2982 Sep 26 2005 [  38400 00] map02_06.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s02/07/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    118 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     68 02] .. 
+-r-xr-xr-x   1    0    0       4046 Oct  5 2005 [  38416 00] map02_07.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s02/08/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    119 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     68 02] .. 
+-r-xr-xr-x   1    0    0       3215 Oct  5 2005 [  38432 00] map02_08.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s02/09/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    120 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     68 02] .. 
+-r-xr-xr-x   1    0    0       3953 Oct  5 2005 [  38448 00] map02_09.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s02/10/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    121 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     68 02] .. 
+-r-xr-xr-x   1    0    0       3618 Oct  5 2005 [  38464 00] map02_10.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s03/01/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    122 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     69 02] .. 
+-r-xr-xr-x   1    0    0       4507 Oct  5 2005 [  38912 00] map03_01.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s03/02/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    123 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     69 02] .. 
+-r-xr-xr-x   1    0    0       3761 Oct  5 2005 [  38928 00] map03_02.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s03/03/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    124 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     69 02] .. 
+-r-xr-xr-x   1    0    0       4408 Oct  5 2005 [  38944 00] map03_03.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s03/04/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    125 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     69 02] .. 
+-r-xr-xr-x   1    0    0       4340 Sep 29 2005 [  38960 00] map03_04.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s03/05/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    126 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     69 02] .. 
+-r-xr-xr-x   1    0    0       4292 Oct  5 2005 [  38976 00] map03_05.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s03/06/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    127 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     69 02] .. 
+-r-xr-xr-x   1    0    0       5044 Oct  5 2005 [  38992 00] map03_06.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s03/07/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    128 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     69 02] .. 
+-r-xr-xr-x   1    0    0       4039 Sep 24 2005 [  39008 00] map03_07.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s03/08/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    129 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     69 02] .. 
+-r-xr-xr-x   1    0    0       4554 Oct  5 2005 [  39024 00] map03_08.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s03/09/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    130 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     69 02] .. 
+-r-xr-xr-x   1    0    0       4004 Oct  5 2005 [  39040 00] map03_09.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s03/10/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    131 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     69 02] .. 
+-r-xr-xr-x   1    0    0       4610 Oct  5 2005 [  39056 00] map03_10.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s03/bg0/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    132 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     69 02] .. 
+-r-xr-xr-x   1    0    0        196 Sep 26 2005 [  39072 00] bginf.bin 
+-r-xr-xr-x   1    0    0      27776 Sep 11 2005 [  39088 00] bgparts.bin 
+-r-xr-xr-x   1    0    0        564 Sep  5 2005 [  39104 00] bgpartsi.bin 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s04/01/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    133 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     70 02] .. 
+-r-xr-xr-x   1    0    0       3691 Sep 24 2005 [  39472 00] map04_01.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s04/02/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    134 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     70 02] .. 
+-r-xr-xr-x   1    0    0       3144 Oct 21 2005 [  39488 00] map04_02.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s04/03/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    135 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     70 02] .. 
+-r-xr-xr-x   1    0    0       2758 Sep 24 2005 [  39504 00] map04_03.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s04/04/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    136 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     70 02] .. 
+-r-xr-xr-x   1    0    0       3186 Oct  5 2005 [  39520 00] map04_04.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s04/05/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    137 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     70 02] .. 
+-r-xr-xr-x   1    0    0       3172 Oct  5 2005 [  39536 00] map04_05.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s04/06/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    138 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     70 02] .. 
+-r-xr-xr-x   1    0    0       3799 Oct  5 2005 [  39552 00] map04_06.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s04/07/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    139 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     70 02] .. 
+-r-xr-xr-x   1    0    0       4647 Oct  5 2005 [  39568 00] map04_07.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s04/08/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    140 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     70 02] .. 
+-r-xr-xr-x   1    0    0       5348 Oct  5 2005 [  39584 00] map04_08.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s04/09/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    141 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     70 02] .. 
+-r-xr-xr-x   1    0    0       3733 Oct  5 2005 [  39600 00] map04_09.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s04/10/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    142 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     70 02] .. 
+-r-xr-xr-x   1    0    0       4693 Oct  5 2005 [  39616 00] map04_10.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s05/01/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    143 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     71 02] .. 
+-r-xr-xr-x   1    0    0       3544 Oct  5 2005 [  39904 00] map05_01.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s05/02/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    144 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     71 02] .. 
+-r-xr-xr-x   1    0    0       3182 Sep 26 2005 [  39920 00] map05_02.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s05/03/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    145 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     71 02] .. 
+-r-xr-xr-x   1    0    0       3209 Oct  5 2005 [  39936 00] map05_03.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s05/04/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    146 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     71 02] .. 
+-r-xr-xr-x   1    0    0       3865 Oct  5 2005 [  39952 00] map05_04.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s05/05/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    147 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     71 02] .. 
+-r-xr-xr-x   1    0    0       4066 Oct  5 2005 [  39968 00] map05_05.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s05/06/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    148 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     71 02] .. 
+-r-xr-xr-x   1    0    0       3871 Oct  5 2005 [  39984 00] map05_06.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s05/07/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    149 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     71 02] .. 
+-r-xr-xr-x   1    0    0       2980 Oct 26 2005 [  40000 00] map05_07.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s05/08/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    150 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     71 02] .. 
+-r-xr-xr-x   1    0    0       5648 Oct  5 2005 [  40016 00] map05_08.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s05/09/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    151 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     71 02] .. 
+-r-xr-xr-x   1    0    0       5372 Oct  5 2005 [  40032 00] map05_09.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s05/10/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    152 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     71 02] .. 
+-r-xr-xr-x   1    0    0       3479 Sep 26 2005 [  40048 00] map05_10.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s06/01/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    153 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     72 02] .. 
+-r-xr-xr-x   1    0    0       3028 Sep 24 2005 [  40384 00] map06_01.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s06/02/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    154 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     72 02] .. 
+-r-xr-xr-x   1    0    0       3959 Oct  5 2005 [  40400 00] map06_02.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s06/03/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    155 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     72 02] .. 
+-r-xr-xr-x   1    0    0       3710 Oct  5 2005 [  40416 00] map06_03.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s06/04/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    156 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     72 02] .. 
+-r-xr-xr-x   1    0    0       4086 Oct 21 2005 [  40432 00] map06_04.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s06/05/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    157 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     72 02] .. 
+-r-xr-xr-x   1    0    0       4234 Sep 24 2005 [  40448 00] map06_05.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s06/06/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    158 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     72 02] .. 
+-r-xr-xr-x   1    0    0       4115 Oct  5 2005 [  40464 00] map06_06.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s06/07/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    159 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     72 02] .. 
+-r-xr-xr-x   1    0    0       4256 Oct  9 2005 [  40480 00] map06_07.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s06/08/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    160 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     72 02] .. 
+-r-xr-xr-x   1    0    0       4108 Oct 21 2005 [  40496 00] map06_08.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s06/09/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    161 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     72 02] .. 
+-r-xr-xr-x   1    0    0       4238 Oct  8 2005 [  40512 00] map06_09.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s06/10/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    162 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     72 02] .. 
+-r-xr-xr-x   1    0    0       3944 Oct  5 2005 [  40528 00] map06_10.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s06/bg0/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    163 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     72 02] .. 
+-r-xr-xr-x   1    0    0        188 Sep 26 2005 [  40544 00] bginf.bin 
+-r-xr-xr-x   1    0    0      36544 Sep 20 2005 [  40560 00] bgparts.bin 
+-r-xr-xr-x   1    0    0        508 Sep 11 2005 [  40592 00] bgpartsi.bin 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s07/01/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    164 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     73 02] .. 
+-r-xr-xr-x   1    0    0       3676 Sep 26 2005 [  41024 00] map07_01.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s07/02/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    165 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     73 02] .. 
+-r-xr-xr-x   1    0    0       3912 Oct  5 2005 [  41040 00] map07_02.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s07/03/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    166 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     73 02] .. 
+-r-xr-xr-x   1    0    0       4140 Oct  5 2005 [  41056 00] map07_03.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s07/04/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    167 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     73 02] .. 
+-r-xr-xr-x   1    0    0       4832 Oct 21 2005 [  41072 00] map07_04.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s07/05/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    168 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     73 02] .. 
+-r-xr-xr-x   1    0    0       4853 Oct  5 2005 [  41088 00] map07_05.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s07/06/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    169 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     73 02] .. 
+-r-xr-xr-x   1    0    0       2965 Sep 24 2005 [  41104 00] map07_06.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s07/07/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    170 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     73 02] .. 
+-r-xr-xr-x   1    0    0       5948 Sep 29 2005 [  41120 00] map07_07.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s07/08/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    171 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     73 02] .. 
+-r-xr-xr-x   1    0    0       4699 Oct 21 2005 [  41136 00] map07_08.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s07/09/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    172 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     73 02] .. 
+-r-xr-xr-x   1    0    0       3582 Oct  5 2005 [  41152 00] map07_09.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s07/10/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    173 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     73 02] .. 
+-r-xr-xr-x   1    0    0       4271 Oct 21 2005 [  41168 00] map07_10.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s07/bg0/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    174 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     73 02] .. 
+-r-xr-xr-x   1    0    0        304 Sep  5 2005 [  41184 00] bginf.bin 
+-r-xr-xr-x   1    0    0      31680 Sep 20 2005 [  41200 00] bgparts.bin 
+-r-xr-xr-x   1    0    0        728 Sep 20 2005 [  41216 00] bgpartsi.bin 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s08/01/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    175 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     74 02] .. 
+-r-xr-xr-x   1    0    0       3653 Oct  5 2005 [  41536 00] map08_01.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s08/02/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    176 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     74 02] .. 
+-r-xr-xr-x   1    0    0       3631 Oct  5 2005 [  41552 00] map08_02.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s08/03/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    177 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     74 02] .. 
+-r-xr-xr-x   1    0    0       4230 Oct  5 2005 [  41568 00] map08_03.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s08/04/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    178 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     74 02] .. 
+-r-xr-xr-x   1    0    0       3693 Oct  5 2005 [  41584 00] map08_04.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s08/05/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    179 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     74 02] .. 
+-r-xr-xr-x   1    0    0       4198 Oct 21 2005 [  41600 00] map08_05.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s08/06/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    180 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     74 02] .. 
+-r-xr-xr-x   1    0    0       3595 Oct  5 2005 [  41616 00] map08_06.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s08/07/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    181 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     74 02] .. 
+-r-xr-xr-x   1    0    0       3954 Oct  5 2005 [  41632 00] map08_07.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s08/08/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    182 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     74 02] .. 
+-r-xr-xr-x   1    0    0       3669 Oct  5 2005 [  41648 00] map08_08.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s08/09/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    183 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     74 02] .. 
+-r-xr-xr-x   1    0    0       4741 Oct  5 2005 [  41664 00] map08_09.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s08/10/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    184 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     74 02] .. 
+-r-xr-xr-x   1    0    0       4163 Oct  5 2005 [  41680 00] map08_10.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s08/bg0/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    185 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     74 02] .. 
+-r-xr-xr-x   1    0    0        232 Sep 26 2005 [  41696 00] bginf.bin 
+-r-xr-xr-x   1    0    0      53264 Sep 26 2005 [  41712 00] bgparts.bin 
+-r-xr-xr-x   1    0    0       1812 Sep  5 2005 [  41744 00] bgpartsi.bin 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s09/01/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    186 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     75 02] .. 
+-r-xr-xr-x   1    0    0       3893 Oct  7 2005 [  42080 00] map09_01.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s09/02/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    187 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     75 02] .. 
+-r-xr-xr-x   1    0    0       4123 Oct  7 2005 [  42096 00] map09_02.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s09/03/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    188 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     75 02] .. 
+-r-xr-xr-x   1    0    0       4710 Oct  7 2005 [  42112 00] map09_03.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s09/04/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    189 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     75 02] .. 
+-r-xr-xr-x   1    0    0       4207 Sep 26 2005 [  42128 00] map09_04.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s09/05/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    190 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     75 02] .. 
+-r-xr-xr-x   1    0    0       4679 Oct  7 2005 [  42144 00] map09_05.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s09/06/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    191 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     75 02] .. 
+-r-xr-xr-x   1    0    0       4462 Oct  9 2005 [  42160 00] map09_06.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s09/07/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    192 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     75 02] .. 
+-r-xr-xr-x   1    0    0       3059 Oct  9 2005 [  42176 00] map09_07.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s09/08/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    193 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     75 02] .. 
+-r-xr-xr-x   1    0    0       4420 Oct  5 2005 [  42192 00] map09_08.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s09/09/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    194 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     75 02] .. 
+-r-xr-xr-x   1    0    0       6902 Oct  7 2005 [  42208 00] map09_09.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s09/10/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    195 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     75 02] .. 
+-r-xr-xr-x   1    0    0       5739 Oct  5 2005 [  42224 00] map09_10.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s09/bg0/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    196 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     75 02] .. 
+-r-xr-xr-x   1    0    0        356 Sep 12 2005 [  42240 00] bginf.bin 
+-r-xr-xr-x   1    0    0      18208 Sep 11 2005 [  42256 00] bgparts.bin 
+-r-xr-xr-x   1    0    0       1076 Sep 11 2005 [  42272 00] bgpartsi.bin 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s10/01/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    197 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     76 02] .. 
+-r-xr-xr-x   1    0    0       3173 Oct  7 2005 [  42576 00] map10_01.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s10/02/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    198 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     76 02] .. 
+-r-xr-xr-x   1    0    0       3094 Sep 26 2005 [  42592 00] map10_02.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s10/03/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    199 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     76 02] .. 
+-r-xr-xr-x   1    0    0       3259 Sep 26 2005 [  42608 00] map10_03.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s10/04/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    200 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     76 02] .. 
+-r-xr-xr-x   1    0    0       7229 Oct  5 2005 [  42624 00] map10_04.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s10/05/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    201 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     76 02] .. 
+-r-xr-xr-x   1    0    0       3584 Oct  5 2005 [  42640 00] map10_05.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s10/06/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    202 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     76 02] .. 
+-r-xr-xr-x   1    0    0       3183 Sep 24 2005 [  42656 00] map10_06.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s10/07/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    203 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     76 02] .. 
+-r-xr-xr-x   1    0    0       3108 Oct  7 2005 [  42672 00] map10_07.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s10/08/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    204 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     76 02] .. 
+-r-xr-xr-x   1    0    0       3171 Sep 24 2005 [  42688 00] map10_08.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s10/09/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    205 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     76 02] .. 
+-r-xr-xr-x   1    0    0       8135 Sep 26 2005 [  42704 00] map10_09.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s10/10/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    206 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     76 02] .. 
+-r-xr-xr-x   1    0    0       6541 Oct  7 2005 [  42720 00] map10_10.mmd 
+
+Directory listing of /PSP_GAME/USRDIR/dat/map/s10/bg0/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [    207 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2006 [     76 02] .. 
+-r-xr-xr-x   1    0    0        236 Sep 26 2005 [  42736 00] bginf.bin 
+-r-xr-xr-x   1    0    0      48864 Sep 26 2005 [  42752 00] bgparts.bin 
+-r-xr-xr-x   1    0    0        760 Sep  8 2005 [  42784 00] bgpartsi.bin 
+=============================================================== 
+Generated on Tue 09/08/2022 at  5:37:17.90 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

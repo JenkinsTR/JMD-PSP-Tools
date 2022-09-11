@@ -1,0 +1,668 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Hot Pixel  
+Title ID: ULUS-10298 
+Region: USA  
+Languages:   
+Volume Creation Date: 2007-08-28 19:05:52 
+Volume Size: 321 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: 
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 164368
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Aug 28 2007 [     64 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     22 02] .. 
+-r-xr-xr-x   1    0    0      11023 Aug 28 2007 [  23216 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        472 Aug 28 2007 [  23232 00] PARAM.SFO 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     23 02] .. 
+-r-xr-xr-x   1    0    0    5378512 Aug 28 2007 [  23248 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    5378848 Aug 28 2007 [     80 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     23 02] .. 
+-r-xr-xr-x   1    0    0     832515 Aug 28 2007 [  25888 00] cognac.zip 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     27 02] data 
+-r-xr-xr-x   1    0    0       5495 Aug 28 2007 [ 164160 00] init.pyo 
+-r-xr-xr-x   1    0    0     390689 Aug 28 2007 [ 164176 00] tuning.zip 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     24 02] .. 
+-r-xr-xr-x   1    0    0   16327440 Aug 28 2007 [   6832 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5210608 Aug 28 2007 [   2736 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Aug 28 2007 [   2720 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/data/
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     25 02] .. 
+dr-xr-xr-x   1    0    0      16384 Aug 28 2007 [     28 02] fatfiles 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     36 02] fonts 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     37 02] module 
+-r-xr-xr-x   1    0    0     341483 Feb 20 2007 [  72192 00] parxdict.dic 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     38 02] parx 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     39 02] playbox 
+
+Directory listing of /PSP_GAME/USRDIR/data/fatfiles/
+dr-xr-xr-x   1    0    0      16384 Aug 28 2007 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0     255712 Aug 28 2007 [  26352 00] GAME0002.FAT 
+-r-xr-xr-x   1    0    0     407660 Aug 28 2007 [  26480 00] GAME0004.FAT 
+-r-xr-xr-x   1    0    0     593830 Aug 28 2007 [  26688 00] GAME0005.FAT 
+-r-xr-xr-x   1    0    0     446907 Aug 28 2007 [  26992 00] GAME0007.FAT 
+-r-xr-xr-x   1    0    0     359202 Aug 28 2007 [  27216 00] GAME0008.FAT 
+-r-xr-xr-x   1    0    0     413446 Aug 28 2007 [  27392 00] GAME0009.FAT 
+-r-xr-xr-x   1    0    0     363613 Aug 28 2007 [  27600 00] GAME0010.FAT 
+-r-xr-xr-x   1    0    0     354099 Aug 28 2007 [  27792 00] GAME0011.FAT 
+-r-xr-xr-x   1    0    0     859185 Aug 28 2007 [  27968 00] GAME0013.FAT 
+-r-xr-xr-x   1    0    0     701707 Aug 28 2007 [  28400 00] GAME0014.FAT 
+-r-xr-xr-x   1    0    0     272727 Aug 28 2007 [  28752 00] GAME0015.FAT 
+-r-xr-xr-x   1    0    0     345971 Aug 28 2007 [  28896 00] GAME0017.FAT 
+-r-xr-xr-x   1    0    0     264804 Aug 28 2007 [  29072 00] GAME0018.FAT 
+-r-xr-xr-x   1    0    0     431616 Aug 28 2007 [  29216 00] GAME0019.FAT 
+-r-xr-xr-x   1    0    0     483708 Aug 28 2007 [  29440 00] GAME0020.FAT 
+-r-xr-xr-x   1    0    0     881982 Aug 28 2007 [  29680 00] GAME0023.FAT 
+-r-xr-xr-x   1    0    0     284374 Aug 28 2007 [  30112 00] GAME0025.FAT 
+-r-xr-xr-x   1    0    0     429128 Aug 28 2007 [  30256 00] GAME0026.FAT 
+-r-xr-xr-x   1    0    0     474814 Aug 28 2007 [  30480 00] GAME0027.FAT 
+-r-xr-xr-x   1    0    0     376250 Aug 28 2007 [  30720 00] GAME0031.FAT 
+-r-xr-xr-x   1    0    0     550011 Aug 28 2007 [  30912 00] GAME0033.FAT 
+-r-xr-xr-x   1    0    0     455829 Aug 28 2007 [  31184 00] GAME0034.FAT 
+-r-xr-xr-x   1    0    0     463606 Aug 28 2007 [  31408 00] GAME0035.FAT 
+-r-xr-xr-x   1    0    0     391877 Aug 28 2007 [  31648 00] GAME0043.FAT 
+-r-xr-xr-x   1    0    0     390687 Aug 28 2007 [  31840 00] GAME0046.FAT 
+-r-xr-xr-x   1    0    0     665282 Aug 28 2007 [  32032 00] GAME0047.FAT 
+-r-xr-xr-x   1    0    0     221103 Aug 28 2007 [  32368 00] GAME0048.FAT 
+-r-xr-xr-x   1    0    0     350136 Aug 28 2007 [  32480 00] GAME0051.FAT 
+-r-xr-xr-x   1    0    0     334572 Aug 28 2007 [  32656 00] GAME0055.FAT 
+-r-xr-xr-x   1    0    0     438323 Aug 28 2007 [  32832 00] GAME0058.FAT 
+-r-xr-xr-x   1    0    0    1059216 Aug 28 2007 [  33056 00] GAME0059.FAT 
+-r-xr-xr-x   1    0    0     459580 Aug 28 2007 [  33584 00] GAME0060.FAT 
+-r-xr-xr-x   1    0    0     280345 Aug 28 2007 [  33824 00] GAME0061.FAT 
+-r-xr-xr-x   1    0    0     238071 Aug 28 2007 [  33968 00] GAME0063.FAT 
+-r-xr-xr-x   1    0    0     420140 Aug 28 2007 [  34096 00] GAME0065.FAT 
+-r-xr-xr-x   1    0    0     351808 Aug 28 2007 [  34304 00] GAME0067.FAT 
+-r-xr-xr-x   1    0    0     435064 Aug 28 2007 [  34480 00] GAME0070.FAT 
+-r-xr-xr-x   1    0    0     349327 Aug 28 2007 [  34704 00] GAME0074.FAT 
+-r-xr-xr-x   1    0    0     620076 Aug 28 2007 [  34880 00] GAME0083.FAT 
+-r-xr-xr-x   1    0    0     348384 Aug 28 2007 [  35184 00] GAME0092.FAT 
+-r-xr-xr-x   1    0    0     525391 Aug 28 2007 [  35360 00] GAME0097.FAT 
+-r-xr-xr-x   1    0    0     266609 Aug 28 2007 [  35632 00] GAME0101.FAT 
+-r-xr-xr-x   1    0    0     399056 Aug 28 2007 [  35776 00] GAME0104.FAT 
+-r-xr-xr-x   1    0    0     266329 Aug 28 2007 [  35984 00] GAME0106.FAT 
+-r-xr-xr-x   1    0    0    1320088 Aug 28 2007 [  36128 00] GAME0109.FAT 
+-r-xr-xr-x   1    0    0     222576 Aug 28 2007 [  36784 00] GAME0111.FAT 
+-r-xr-xr-x   1    0    0     233132 Aug 28 2007 [  36896 00] GAME0112.FAT 
+-r-xr-xr-x   1    0    0     274341 Aug 28 2007 [  37024 00] GAME0152.FAT 
+-r-xr-xr-x   1    0    0     356492 Aug 28 2007 [  37168 00] GAME0159.FAT 
+-r-xr-xr-x   1    0    0     279417 Aug 28 2007 [  37344 00] GAME0160.FAT 
+-r-xr-xr-x   1    0    0     324648 Aug 28 2007 [  37488 00] GAME0161.FAT 
+-r-xr-xr-x   1    0    0     339840 Aug 28 2007 [  37648 00] GAME0165.FAT 
+-r-xr-xr-x   1    0    0     405229 Aug 28 2007 [  37824 00] GAME0166.FAT 
+-r-xr-xr-x   1    0    0     411140 Aug 28 2007 [  38032 00] GAME0167.FAT 
+-r-xr-xr-x   1    0    0     360409 Aug 28 2007 [  38240 00] GAME0168.FAT 
+-r-xr-xr-x   1    0    0     472542 Aug 28 2007 [  38416 00] GAME0169.FAT 
+-r-xr-xr-x   1    0    0     305700 Aug 28 2007 [  38656 00] GAME0170.FAT 
+-r-xr-xr-x   1    0    0     238774 Aug 28 2007 [  38816 00] GAME0172.FAT 
+-r-xr-xr-x   1    0    0     280156 Aug 28 2007 [  38944 00] GAME0173.FAT 
+-r-xr-xr-x   1    0    0     435072 Aug 28 2007 [  39088 00] GAME0175.FAT 
+-r-xr-xr-x   1    0    0     526192 Aug 28 2007 [  39312 00] GAME0176.FAT 
+-r-xr-xr-x   1    0    0     860150 Aug 28 2007 [  39584 00] GAME0177.FAT 
+-r-xr-xr-x   1    0    0     389292 Aug 28 2007 [  40016 00] GAME0178.FAT 
+-r-xr-xr-x   1    0    0     355175 Aug 28 2007 [  40208 00] GAME0181.FAT 
+-r-xr-xr-x   1    0    0     285317 Aug 28 2007 [  40384 00] GAME0182.FAT 
+-r-xr-xr-x   1    0    0     271672 Aug 28 2007 [  40528 00] GAME0185.FAT 
+-r-xr-xr-x   1    0    0     303199 Aug 28 2007 [  40672 00] GAME0186.FAT 
+-r-xr-xr-x   1    0    0     352910 Aug 28 2007 [  40832 00] GAME0188.FAT 
+-r-xr-xr-x   1    0    0     319016 Aug 28 2007 [  41008 00] GAME0189.FAT 
+-r-xr-xr-x   1    0    0     338060 Aug 28 2007 [  41168 00] GAME0191.FAT 
+-r-xr-xr-x   1    0    0     284757 Aug 28 2007 [  41344 00] GAME0194.FAT 
+-r-xr-xr-x   1    0    0     298044 Aug 28 2007 [  41488 00] GAME0195.FAT 
+-r-xr-xr-x   1    0    0     271020 Aug 28 2007 [  41648 00] GAME0196.FAT 
+-r-xr-xr-x   1    0    0     349352 Aug 28 2007 [  41792 00] GAME0197.FAT 
+-r-xr-xr-x   1    0    0     374575 Aug 28 2007 [  41968 00] GAME0199.FAT 
+-r-xr-xr-x   1    0    0     539180 Aug 28 2007 [  42160 00] GAME0200.FAT 
+-r-xr-xr-x   1    0    0     497585 Aug 28 2007 [  42432 00] GAME0202.FAT 
+-r-xr-xr-x   1    0    0     358348 Aug 28 2007 [  42688 00] GAME0207.FAT 
+-r-xr-xr-x   1    0    0     279497 Aug 28 2007 [  42864 00] GAME0208.FAT 
+-r-xr-xr-x   1    0    0     269189 Aug 28 2007 [  43008 00] GAME0210.FAT 
+-r-xr-xr-x   1    0    0     328096 Aug 28 2007 [  43152 00] GAME0213.FAT 
+-r-xr-xr-x   1    0    0     378348 Aug 28 2007 [  43328 00] GAME0214.FAT 
+-r-xr-xr-x   1    0    0     395244 Aug 28 2007 [  43520 00] GAME0218.FAT 
+-r-xr-xr-x   1    0    0     294744 Aug 28 2007 [  43728 00] GAME0219.FAT 
+-r-xr-xr-x   1    0    0     376854 Aug 28 2007 [  43872 00] GAME0221.FAT 
+-r-xr-xr-x   1    0    0     377400 Aug 28 2007 [  44064 00] GAME0224.FAT 
+-r-xr-xr-x   1    0    0     235970 Aug 28 2007 [  44256 00] GAME0226.FAT 
+-r-xr-xr-x   1    0    0     270472 Aug 28 2007 [  44384 00] GAME0227.FAT 
+-r-xr-xr-x   1    0    0     256209 Aug 28 2007 [  44528 00] GAME0239.FAT 
+-r-xr-xr-x   1    0    0     276062 Aug 28 2007 [  44656 00] GAME0241.FAT 
+-r-xr-xr-x   1    0    0     815440 Aug 28 2007 [  44800 00] GAME0242.FAT 
+-r-xr-xr-x   1    0    0     397723 Aug 28 2007 [  45200 00] GAME0243.FAT 
+-r-xr-xr-x   1    0    0     423704 Aug 28 2007 [  45408 00] GAME0245.FAT 
+-r-xr-xr-x   1    0    0    1062213 Aug 28 2007 [  45616 00] GAME0246.FAT 
+-r-xr-xr-x   1    0    0     211490 Aug 28 2007 [  46144 00] GAME0248.FAT 
+-r-xr-xr-x   1    0    0     378426 Aug 28 2007 [  46256 00] GAME0259.FAT 
+-r-xr-xr-x   1    0    0     403767 Aug 28 2007 [  46448 00] GAME0263.FAT 
+-r-xr-xr-x   1    0    0     194384 Aug 28 2007 [  46656 00] GAME0265.FAT 
+-r-xr-xr-x   1    0    0     261178 Aug 28 2007 [  46752 00] GAME0273.FAT 
+-r-xr-xr-x   1    0    0     350347 Aug 28 2007 [  46880 00] GAME0274.FAT 
+-r-xr-xr-x   1    0    0     208396 Aug 28 2007 [  47056 00] GAME0278.FAT 
+-r-xr-xr-x   1    0    0     248872 Aug 28 2007 [  47168 00] GAME0279.FAT 
+-r-xr-xr-x   1    0    0     342389 Aug 28 2007 [  47296 00] GAME0301.FAT 
+-r-xr-xr-x   1    0    0     301769 Aug 28 2007 [  47472 00] GAME0306.FAT 
+-r-xr-xr-x   1    0    0     409504 Aug 28 2007 [  47632 00] GAME0401.FAT 
+-r-xr-xr-x   1    0    0     475342 Aug 28 2007 [  47840 00] GAME0406.FAT 
+-r-xr-xr-x   1    0    0     447920 Aug 28 2007 [  48080 00] GAME0412.FAT 
+-r-xr-xr-x   1    0    0     650268 Aug 28 2007 [  48304 00] GAME0414.FAT 
+-r-xr-xr-x   1    0    0    1145152 Aug 28 2007 [  48624 00] GAME0415.FAT 
+-r-xr-xr-x   1    0    0     346117 Aug 28 2007 [  49184 00] GAME0417.FAT 
+-r-xr-xr-x   1    0    0     228844 Aug 28 2007 [  49360 00] GAME0427.FAT 
+-r-xr-xr-x   1    0    0     357680 Aug 28 2007 [  49472 00] GAME0430.FAT 
+-r-xr-xr-x   1    0    0     398951 Aug 28 2007 [  49648 00] GAME0437.FAT 
+-r-xr-xr-x   1    0    0     702977 Aug 28 2007 [  49856 00] GAME0447.FAT 
+-r-xr-xr-x   1    0    0     271869 Aug 28 2007 [  50208 00] GAME0457.FAT 
+-r-xr-xr-x   1    0    0     384260 Aug 28 2007 [  50352 00] GAME0458.FAT 
+-r-xr-xr-x   1    0    0     266352 Aug 28 2007 [  50544 00] GAME0460.FAT 
+-r-xr-xr-x   1    0    0     828812 Aug 28 2007 [  50688 00] GAME0464.FAT 
+-r-xr-xr-x   1    0    0     333155 Aug 28 2007 [  51104 00] GAME0471.FAT 
+-r-xr-xr-x   1    0    0     461040 Aug 28 2007 [  51280 00] GAME0472.FAT 
+-r-xr-xr-x   1    0    0     312632 Aug 28 2007 [  51520 00] GAME0492.FAT 
+-r-xr-xr-x   1    0    0     323181 Aug 28 2007 [  51680 00] GAME0497.FAT 
+-r-xr-xr-x   1    0    0     265684 Aug 28 2007 [  51840 00] GAME0498.FAT 
+-r-xr-xr-x   1    0    0     261419 Aug 28 2007 [  51984 00] GAME0507.FAT 
+-r-xr-xr-x   1    0    0     271288 Aug 28 2007 [  52112 00] GAME0704.FAT 
+-r-xr-xr-x   1    0    0     266244 Aug 28 2007 [  52256 00] GAME0801.FAT 
+-r-xr-xr-x   1    0    0     376852 Aug 28 2007 [  52400 00] GAME0802.FAT 
+-r-xr-xr-x   1    0    0     466752 Aug 28 2007 [  52592 00] GAME0803.FAT 
+-r-xr-xr-x   1    0    0     408073 Aug 28 2007 [  52832 00] GAME0804.FAT 
+-r-xr-xr-x   1    0    0     304000 Aug 28 2007 [  53040 00] GAME0805.FAT 
+-r-xr-xr-x   1    0    0     578863 Aug 28 2007 [  53200 00] GAME0807.FAT 
+-r-xr-xr-x   1    0    0     283335 Aug 28 2007 [  53488 00] GAME0808.FAT 
+-r-xr-xr-x   1    0    0     224828 Aug 28 2007 [  53632 00] GAME0809.FAT 
+-r-xr-xr-x   1    0    0     903678 Aug 28 2007 [  53744 00] GAME0810.FAT 
+-r-xr-xr-x   1    0    0     373416 Aug 28 2007 [  54192 00] GAME0811.FAT 
+-r-xr-xr-x   1    0    0     356942 Aug 28 2007 [  54384 00] GAME0813.FAT 
+-r-xr-xr-x   1    0    0    1251864 Aug 28 2007 [  54560 00] GAME0815.FAT 
+-r-xr-xr-x   1    0    0     291505 Aug 28 2007 [  55184 00] GAME0822.FAT 
+-r-xr-xr-x   1    0    0     340416 Aug 28 2007 [  55328 00] GAME0823.FAT 
+-r-xr-xr-x   1    0    0     221956 Aug 28 2007 [  55504 00] GAME0825.FAT 
+-r-xr-xr-x   1    0    0     377248 Aug 28 2007 [  55616 00] GAME0826.FAT 
+-r-xr-xr-x   1    0    0     408931 Aug 28 2007 [  55808 00] GAME0827.FAT 
+-r-xr-xr-x   1    0    0     870850 Aug 28 2007 [  56016 00] GAME0828.FAT 
+-r-xr-xr-x   1    0    0     355228 Aug 28 2007 [  56448 00] GAME0829.FAT 
+-r-xr-xr-x   1    0    0     547832 Aug 28 2007 [  56624 00] GAME0830.FAT 
+-r-xr-xr-x   1    0    0     350312 Aug 28 2007 [  56896 00] GAME0831.FAT 
+-r-xr-xr-x   1    0    0     385957 Aug 28 2007 [  57072 00] GAME0832.FAT 
+-r-xr-xr-x   1    0    0     217558 Aug 28 2007 [  57264 00] GAME0833.FAT 
+-r-xr-xr-x   1    0    0     493168 Aug 28 2007 [  57376 00] GAME0834.FAT 
+-r-xr-xr-x   1    0    0     392094 Aug 28 2007 [  57632 00] GAME0836.FAT 
+-r-xr-xr-x   1    0    0     418240 Aug 28 2007 [  57824 00] GAME0837.FAT 
+-r-xr-xr-x   1    0    0     220553 Aug 28 2007 [  58032 00] GAME0838.FAT 
+-r-xr-xr-x   1    0    0     195292 Aug 28 2007 [  58144 00] GAME0839.FAT 
+-r-xr-xr-x   1    0    0     213639 Aug 28 2007 [  58240 00] GAME0841.FAT 
+-r-xr-xr-x   1    0    0     315731 Aug 28 2007 [  58352 00] GAME0842.FAT 
+-r-xr-xr-x   1    0    0     306668 Aug 28 2007 [  58512 00] GAME0843.FAT 
+-r-xr-xr-x   1    0    0     230708 Aug 28 2007 [  58672 00] GAME0844.FAT 
+-r-xr-xr-x   1    0    0     406104 Aug 28 2007 [  58800 00] GAME0845.FAT 
+-r-xr-xr-x   1    0    0     224912 Aug 28 2007 [  59008 00] GAME0846.FAT 
+-r-xr-xr-x   1    0    0     221945 Aug 28 2007 [  59120 00] GAME0847.FAT 
+-r-xr-xr-x   1    0    0     225768 Aug 28 2007 [  59232 00] GAME0848.FAT 
+-r-xr-xr-x   1    0    0     189776 Aug 28 2007 [  59344 00] GAME0849.FAT 
+-r-xr-xr-x   1    0    0     222687 Aug 28 2007 [  59440 00] GAME0850.FAT 
+-r-xr-xr-x   1    0    0     327472 Aug 28 2007 [  59552 00] GAME0899.FAT 
+-r-xr-xr-x   1    0    0     319652 Aug 28 2007 [  59712 00] GAME0902.FAT 
+-r-xr-xr-x   1    0    0     349086 Aug 28 2007 [  59872 00] GAME0990.FAT 
+-r-xr-xr-x   1    0    0     398723 Aug 28 2007 [  60048 00] GAME0991.FAT 
+-r-xr-xr-x   1    0    0     206321 Aug 28 2007 [  60256 00] GAME0992.FAT 
+-r-xr-xr-x   1    0    0     350844 Aug 28 2007 [  60368 00] GAME0993.FAT 
+-r-xr-xr-x   1    0    0     264557 Aug 28 2007 [  60544 00] GAME0994.FAT 
+-r-xr-xr-x   1    0    0     301845 Aug 28 2007 [  60688 00] GAME0995.FAT 
+-r-xr-xr-x   1    0    0     341608 Aug 28 2007 [  60848 00] GAME0996.FAT 
+-r-xr-xr-x   1    0    0     358450 Aug 28 2007 [  61024 00] GAME0997.FAT 
+-r-xr-xr-x   1    0    0     588096 Aug 28 2007 [  61200 00] GAME0998.FAT 
+-r-xr-xr-x   1    0    0     511888 Aug 28 2007 [  61488 00] GAME0999.FAT 
+-r-xr-xr-x   1    0    0      34628 Aug 28 2007 [  26304 00] deleteApp.FAT 
+-r-xr-xr-x   1    0    0       1016 Aug 28 2007 [  26336 00] disturber_RandomBitmap.FAT 
+-r-xr-xr-x   1    0    0      23351 Aug 28 2007 [  61744 00] icone_24_7_MUSIC.FAT 
+-r-xr-xr-x   1    0    0      21455 Aug 28 2007 [  61760 00] icone_ADMIRER.FAT 
+-r-xr-xr-x   1    0    0      20054 Aug 28 2007 [  61776 00] icone_AWARENESS.FAT 
+-r-xr-xr-x   1    0    0      16811 Aug 28 2007 [  61792 00] icone_CYBERDUDE.FAT 
+-r-xr-xr-x   1    0    0      26171 Aug 28 2007 [  61808 00] icone_KIDULT.FAT 
+-r-xr-xr-x   1    0    0      19814 Aug 28 2007 [  61824 00] icone_MENTAL_TUNING.FAT 
+-r-xr-xr-x   1    0    0      26621 Aug 28 2007 [  61840 00] icone_STATEMENT.FAT 
+-r-xr-xr-x   1    0    0      22318 Aug 28 2007 [  61856 00] icone_STREET_SWEAT.FAT 
+-r-xr-xr-x   1    0    0      24798 Aug 28 2007 [  61872 00] icone_STRUGGLE.FAT 
+-r-xr-xr-x   1    0    0      24604 Aug 28 2007 [  61888 00] icone_THE_UNDERGROUND.FAT 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     40 02] interscreens 
+-r-xr-xr-x   1    0    0      56864 Aug 28 2007 [  64736 00] loadSaveApp.FAT 
+-r-xr-xr-x   1    0    0      26132 Aug 28 2007 [  64768 00] menu_bonus.FAT 
+-r-xr-xr-x   1    0    0     444048 Aug 28 2007 [  64784 00] menu_buddyscreen.FAT 
+-r-xr-xr-x   1    0    0      16288 Aug 28 2007 [  65008 00] menu_cheat.FAT 
+-r-xr-xr-x   1    0    0      64828 Aug 28 2007 [  65024 00] menu_downloadedGallery.FAT 
+-r-xr-xr-x   1    0    0      91129 Aug 28 2007 [  65056 00] menu_gallery.FAT 
+-r-xr-xr-x   1    0    0      27420 Aug 28 2007 [  65104 00] menu_gameMode.FAT 
+-r-xr-xr-x   1    0    0      38676 Aug 28 2007 [  65120 00] menu_highscore.FAT 
+-r-xr-xr-x   1    0    0      76240 Aug 28 2007 [  65152 00] menu_mainMenu.FAT 
+-r-xr-xr-x   1    0    0      27832 Aug 28 2007 [  65200 00] menu_memorystick.FAT 
+-r-xr-xr-x   1    0    0      66436 Aug 28 2007 [  65216 00] menu_minigame.FAT 
+-r-xr-xr-x   1    0    0      44498 Aug 28 2007 [  65264 00] menu_music.FAT 
+-r-xr-xr-x   1    0    0      40232 Aug 28 2007 [  65296 00] menu_network.FAT 
+-r-xr-xr-x   1    0    0     124058 Aug 28 2007 [  65328 00] menu_networkplaylists.FAT 
+-r-xr-xr-x   1    0    0     139704 Aug 28 2007 [  65392 00] menu_options.FAT 
+-r-xr-xr-x   1    0    0      32476 Aug 28 2007 [  65472 00] menu_pauseMenu.FAT 
+-r-xr-xr-x   1    0    0     130126 Aug 28 2007 [  65488 00] menu_playlists.FAT 
+-r-xr-xr-x   1    0    0      22330 Aug 28 2007 [  65552 00] menu_sound.FAT 
+-r-xr-xr-x   1    0    0      60814 Aug 28 2007 [  65568 00] menu_story.FAT 
+-r-xr-xr-x   1    0    0      24132 Aug 28 2007 [  65600 00] menu_unlockmenu.FAT 
+-r-xr-xr-x   1    0    0      42619 Aug 28 2007 [  65616 00] menu_video.FAT 
+-r-xr-xr-x   1    0    0      29384 Aug 28 2007 [  65648 00] messageApp.FAT 
+-r-xr-xr-x   1    0    0     419873 Aug 28 2007 [  65664 00] playlist_PlaylistAce9.FAT 
+-r-xr-xr-x   1    0    0     419873 Aug 28 2007 [  65872 00] playlist_PlaylistBest6.FAT 
+-r-xr-xr-x   1    0    0     548097 Aug 28 2007 [  66080 00] playlist_PlaylistChapter11.FAT 
+-r-xr-xr-x   1    0    0     511465 Aug 28 2007 [  66352 00] playlist_PlaylistChapter12.FAT 
+-r-xr-xr-x   1    0    0     520597 Aug 28 2007 [  66608 00] playlist_PlaylistChapter13.FAT 
+-r-xr-xr-x   1    0    0     529441 Aug 28 2007 [  66864 00] playlist_PlaylistChapter14.FAT 
+-r-xr-xr-x   1    0    0     490973 Aug 28 2007 [  67136 00] playlist_PlaylistChapter15.FAT 
+-r-xr-xr-x   1    0    0     481185 Aug 28 2007 [  67376 00] playlist_PlaylistChapter16.FAT 
+-r-xr-xr-x   1    0    0     504417 Aug 28 2007 [  67616 00] playlist_PlaylistChapter17.FAT 
+-r-xr-xr-x   1    0    0     515597 Aug 28 2007 [  67872 00] playlist_PlaylistChapter18.FAT 
+-r-xr-xr-x   1    0    0     516265 Aug 28 2007 [  68128 00] playlist_PlaylistChapter19.FAT 
+-r-xr-xr-x   1    0    0     467789 Aug 28 2007 [  68384 00] playlist_PlaylistChapter20.FAT 
+-r-xr-xr-x   1    0    0     419873 Aug 28 2007 [  68624 00] playlist_PlaylistChief10.FAT 
+-r-xr-xr-x   1    0    0     419873 Aug 28 2007 [  68832 00] playlist_PlaylistFiltered2.FAT 
+-r-xr-xr-x   1    0    0     419873 Aug 28 2007 [  69040 00] playlist_PlaylistFiltered21.FAT 
+-r-xr-xr-x   1    0    0     419873 Aug 28 2007 [  69248 00] playlist_PlaylistFiltered22.FAT 
+-r-xr-xr-x   1    0    0     419873 Aug 28 2007 [  69456 00] playlist_PlaylistFiltered23.FAT 
+-r-xr-xr-x   1    0    0     419873 Aug 28 2007 [  69664 00] playlist_PlaylistFiltered24.FAT 
+-r-xr-xr-x   1    0    0     419873 Aug 28 2007 [  69872 00] playlist_PlaylistFiltered25.FAT 
+-r-xr-xr-x   1    0    0     419873 Aug 28 2007 [  70080 00] playlist_PlaylistFiltered26.FAT 
+-r-xr-xr-x   1    0    0     419873 Aug 28 2007 [  70288 00] playlist_PlaylistFiltered3.FAT 
+-r-xr-xr-x   1    0    0     419873 Aug 28 2007 [  70496 00] playlist_PlaylistFiltered4.FAT 
+-r-xr-xr-x   1    0    0     419873 Aug 28 2007 [  70704 00] playlist_PlaylistFiltered5.FAT 
+-r-xr-xr-x   1    0    0     419873 Aug 28 2007 [  70912 00] playlist_PlaylistFrequent0.FAT 
+-r-xr-xr-x   1    0    0     419873 Aug 28 2007 [  71120 00] playlist_PlaylistFresh7.FAT 
+-r-xr-xr-x   1    0    0     419873 Aug 28 2007 [  71328 00] playlist_PlaylistRare1.FAT 
+-r-xr-xr-x   1    0    0     419873 Aug 28 2007 [  71536 00] playlist_PlaylistTraining8.FAT 
+-r-xr-xr-x   1    0    0      31214 Aug 28 2007 [  71744 00] static_fonts.FAT 
+-r-xr-xr-x   1    0    0      12321 Aug 28 2007 [  71760 00] timer.FAT 
+-r-xr-xr-x   1    0    0      18754 Aug 28 2007 [  71776 00] unload_fonts.FAT 
+
+Directory listing of /PSP_GAME/USRDIR/data/fonts/
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     36 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0       3835 Dec  7 2006 [  71792 00] Arcade18.png 
+-r-xr-xr-x   1    0    0       3957 Dec  7 2006 [  71808 00] blutt20.png 
+-r-xr-xr-x   1    0    0        328 Dec  7 2006 [  71824 00] char..png 
+-r-xr-xr-x   1    0    0        403 Dec  7 2006 [  71840 00] char0.png 
+-r-xr-xr-x   1    0    0        449 Dec  7 2006 [  71856 00] char1.png 
+-r-xr-xr-x   1    0    0        449 Dec  7 2006 [  71872 00] char2.png 
+-r-xr-xr-x   1    0    0        391 Dec  7 2006 [  71888 00] char3.png 
+-r-xr-xr-x   1    0    0        442 Dec  7 2006 [  71904 00] char4.png 
+-r-xr-xr-x   1    0    0        419 Dec  7 2006 [  71920 00] char5.png 
+-r-xr-xr-x   1    0    0        435 Dec  7 2006 [  71936 00] char6.png 
+-r-xr-xr-x   1    0    0        422 Dec  7 2006 [  71952 00] char7.png 
+-r-xr-xr-x   1    0    0        462 Dec  7 2006 [  71968 00] char8.png 
+-r-xr-xr-x   1    0    0        406 Dec  7 2006 [  71984 00] char9.png 
+-r-xr-xr-x   1    0    0        493 Dec  7 2006 [  72000 00] digital14.png 
+-r-xr-xr-x   1    0    0       9698 Dec  7 2006 [  72016 00] junkpixels11.png 
+-r-xr-xr-x   1    0    0      18666 Dec  7 2006 [  72032 00] junkpixels12.png 
+-r-xr-xr-x   1    0    0      12607 Dec  7 2006 [  72048 00] junkpixels14.png 
+-r-xr-xr-x   1    0    0       9752 Dec  7 2006 [  72064 00] junkpixels14b.png 
+-r-xr-xr-x   1    0    0      22464 Dec  7 2006 [  72080 00] junkpixels21.png 
+-r-xr-xr-x   1    0    0       2645 Dec  7 2006 [  72096 00] lucida8.met 
+-r-xr-xr-x   1    0    0       1311 Dec  7 2006 [  72112 00] lucida8.png 
+-r-xr-xr-x   1    0    0       6762 Dec  7 2006 [  72128 00] tsa16.png 
+
+Directory listing of /PSP_GAME/USRDIR/data/module/
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     37 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0      10928 Dec  7 2006 [  72144 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0      20096 Dec  7 2006 [  72160 00] mpeg.prx 
+
+Directory listing of /PSP_GAME/USRDIR/data/parx/
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     38 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0       2863 Dec  7 2006 [  72176 00] cursor.png 
+
+Directory listing of /PSP_GAME/USRDIR/data/playbox/
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     39 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     27 02] .. 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     41 02] buddyscreens 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     42 02] common 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     43 02] cutscenes 
+dr-xr-xr-x   1    0    0       4096 Aug 28 2007 [     44 02] music 
+
+Directory listing of /PSP_GAME/USRDIR/data/fatfiles/interscreens/
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     40 02] . 
+dr-xr-xr-x   1    0    0      16384 Aug 28 2007 [     28 02] .. 
+-r-xr-xr-x   1    0    0     467789 Aug 28 2007 [  61904 00] 24_7_MUSIC.FAT 
+-r-xr-xr-x   1    0    0     504417 Aug 28 2007 [  62144 00] ADMIRER.FAT 
+-r-xr-xr-x   1    0    0     511465 Aug 28 2007 [  62400 00] AWARENESS.FAT 
+-r-xr-xr-x   1    0    0     520597 Aug 28 2007 [  62656 00] CYBERDUDE.FAT 
+-r-xr-xr-x   1    0    0     481185 Aug 28 2007 [  63120 00] KIDULT.FAT 
+-r-xr-xr-x   1    0    0     490973 Aug 28 2007 [  63360 00] MENTAL_TUNING.FAT 
+-r-xr-xr-x   1    0    0     515597 Aug 28 2007 [  63680 00] STATEMENT.FAT 
+-r-xr-xr-x   1    0    0     529441 Aug 28 2007 [  63936 00] STREET_SWEAT.FAT 
+-r-xr-xr-x   1    0    0     516265 Aug 28 2007 [  64208 00] STRUGGLE.FAT 
+-r-xr-xr-x   1    0    0     548097 Aug 28 2007 [  64464 00] THE_UNDERGROUND.FAT 
+-r-xr-xr-x   1    0    0     419873 Aug 28 2007 [  62912 00] genericInterscreen.FAT 
+-r-xr-xr-x   1    0    0     145863 Aug 28 2007 [  63600 00] networkInterscreen.FAT 
+
+Directory listing of /PSP_GAME/USRDIR/data/playbox/buddyscreens/
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     41 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     39 02] .. 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     46 02] 900 
+
+Directory listing of /PSP_GAME/USRDIR/data/playbox/common/
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     42 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     39 02] .. 
+dr-xr-xr-x   1    0    0       4096 Aug 28 2007 [     47 02] graphics 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     49 02] locales 
+dr-xr-xr-x   1    0    0       4096 Aug 28 2007 [     50 02] music 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     52 02] soundfx 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     53 02] videos 
+
+Directory listing of /PSP_GAME/USRDIR/data/playbox/cutscenes/
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     43 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     39 02] .. 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     54 02] 01 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     55 02] 02 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     56 02] 03 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     57 02] 04 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     58 02] 05 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     59 02] 06 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     60 02] 07 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     61 02] 08 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     62 02] 09 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     63 02] 10 
+
+Directory listing of /PSP_GAME/USRDIR/data/playbox/music/
+dr-xr-xr-x   1    0    0       4096 Aug 28 2007 [     44 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     39 02] .. 
+-r-xr-xr-x   1    0    0     161424 Dec  7 2006 [ 154400 00] agressivedriving1.at3 
+-r-xr-xr-x   1    0    0     406800 Dec  7 2006 [ 154480 00] agressivedriving8.at3 
+-r-xr-xr-x   1    0    0     126864 Dec  7 2006 [ 154688 00] americanrmx29.at3 
+-r-xr-xr-x   1    0    0     133008 Dec  7 2006 [ 154752 00] americanrmx51.at3 
+-r-xr-xr-x   1    0    0     133008 Dec  7 2006 [ 154832 00] americanrmx51a.at3 
+-r-xr-xr-x   1    0    0     123024 Dec  7 2006 [ 154912 00] americanrmx83.at3 
+-r-xr-xr-x   1    0    0      94224 Dec  7 2006 [ 154976 00] bizarrewestern1.at3 
+-r-xr-xr-x   1    0    0      99984 Dec  7 2006 [ 155024 00] bizarrewestern2.at3 
+-r-xr-xr-x   1    0    0      99984 Dec  7 2006 [ 155088 00] bizarrewestern3.at3 
+-r-xr-xr-x   1    0    0      95760 Dec  7 2006 [ 155152 00] event0150rmx.at3 
+-r-xr-xr-x   1    0    0     452496 Dec  7 2006 [ 155200 00] feelgood9.at3 
+-r-xr-xr-x   1    0    0     452496 Dec  7 2006 [ 155424 00] feelgood9A.at3 
+-r-xr-xr-x   1    0    0      66960 Dec  7 2006 [ 155648 00] feelrmx11.at3 
+-r-xr-xr-x   1    0    0     106512 Dec  7 2006 [ 155696 00] feelrmx12a.at3 
+-r-xr-xr-x   1    0    0     117648 Dec  7 2006 [ 155760 00] feelrmx13.at3 
+-r-xr-xr-x   1    0    0      45840 Dec  7 2006 [ 155824 00] kidfamily10rmx.at3 
+-r-xr-xr-x   1    0    0      56208 Dec  7 2006 [ 155856 00] kidfamily2rmx.at3 
+-r-xr-xr-x   1    0    0      53136 Dec  7 2006 [ 155888 00] kidfamily6rmx.at3 
+-r-xr-xr-x   1    0    0    1621392 Dec  7 2006 [ 155920 00] loopjeu.at3 
+-r-xr-xr-x   1    0    0     290244 Dec  7 2006 [ 156720 00] loopmenu.at3 
+-r-xr-xr-x   1    0    0    1588752 Dec  7 2006 [ 156864 00] looptheater.at3 
+-r-xr-xr-x   1    0    0      29844 Dec  7 2006 [ 157648 00] loopwin.at3 
+-r-xr-xr-x   1    0    0     953232 Dec  7 2006 [ 157664 00] magnetotheme1.at3 
+-r-xr-xr-x   1    0    0     130704 Dec  7 2006 [ 158144 00] rmxdrumscapes0156b.at3 
+-r-xr-xr-x   1    0    0     147600 Dec  7 2006 [ 158208 00] rmxdrumscapes0156c.at3 
+-r-xr-xr-x   1    0    0     146448 Dec  7 2006 [ 158288 00] rmxhiphoprap0113b.at3 
+-r-xr-xr-x   1    0    0    2715020 Dec  7 2006 [ 158368 00] sample1.at3 
+-r-xr-xr-x   1    0    0    1477392 Dec  7 2006 [ 159696 00] sample2.at3 
+-r-xr-xr-x   1    0    0    2481936 Dec  7 2006 [ 160432 00] xerak03.at3 
+-r-xr-xr-x   1    0    0    2594832 Dec  7 2006 [ 161648 00] xerak08.at3 
+-r-xr-xr-x   1    0    0    2512656 Dec  7 2006 [ 162928 00] xerak19.at3 
+
+Directory listing of /PSP_GAME/USRDIR/data/playbox/buddyscreens/900/
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     46 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0       1377 Dec  7 2006 [  72368 00] fountain.parx 
+-r-xr-xr-x   1    0    0        984 Dec  7 2006 [  72384 00] icecubes_event_freeze.parx 
+-r-xr-xr-x   1    0    0       1392 Dec  7 2006 [  72400 00] icecubes_event_shake.parx 
+
+Directory listing of /PSP_GAME/USRDIR/data/playbox/common/graphics/
+dr-xr-xr-x   1    0    0       4096 Aug 28 2007 [     47 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     42 02] .. 
+-r-xr-xr-x   1    0    0       5112 Dec  7 2006 [  72640 00] Menu_statistics.png 
+-r-xr-xr-x   1    0    0       7575 Dec  7 2006 [  72416 00] atari.png 
+-r-xr-xr-x   1    0    0        962 Dec  7 2006 [  72432 00] atariswarmwithgrid.parx 
+-r-xr-xr-x   1    0    0        962 Dec  7 2006 [  72448 00] atariswarmwithoutgrid.parx 
+-r-xr-xr-x   1    0    0      86427 Dec  7 2006 [  72464 00] chapter5_win.png 
+-r-xr-xr-x   1    0    0       9365 Dec  7 2006 [  72512 00] disturb_randomBmp_head.PNG 
+-r-xr-xr-x   1    0    0        856 Feb  7 2007 [  72528 00] disturb_randomBmp_looser.PNG 
+-r-xr-xr-x   1    0    0       5116 Dec  7 2006 [  72544 00] flame.png 
+-r-xr-xr-x   1    0    0       1556 Dec  7 2006 [  72560 00] in.parx 
+-r-xr-xr-x   1    0    0       8538 Feb  7 2007 [  72576 00] loading.png 
+-r-xr-xr-x   1    0    0       1221 Dec  7 2006 [  72592 00] menu.parx 
+-r-xr-xr-x   1    0    0       3153 Dec  7 2006 [  72624 00] menu_pixture.png 
+-r-xr-xr-x   1    0    0        961 Dec  7 2006 [  72608 00] menuboardbutton.png 
+-r-xr-xr-x   1    0    0        141 Dec  7 2006 [  72656 00] message_empty.png 
+-r-xr-xr-x   1    0    0       3061 Dec  7 2006 [  72672 00] message_lost.png 
+-r-xr-xr-x   1    0    0       3025 Dec  7 2006 [  72688 00] message_start.png 
+-r-xr-xr-x   1    0    0       3023 Dec  7 2006 [  72704 00] message_won.png 
+-r-xr-xr-x   1    0    0        601 Dec  7 2006 [  72720 00] mushroom.png 
+-r-xr-xr-x   1    0    0       1174 Dec  7 2006 [  72736 00] out.parx 
+-r-xr-xr-x   1    0    0       3597 Dec  7 2006 [  72752 00] parx.png 
+-r-xr-xr-x   1    0    0       3594 Dec  7 2006 [  72768 00] parxtest_lose.png 
+-r-xr-xr-x   1    0    0       3563 Dec  7 2006 [  72784 00] parxtest_win.png 
+-r-xr-xr-x   1    0    0        370 Dec  7 2006 [  72816 00] pause_abort.png 
+-r-xr-xr-x   1    0    0       4736 Dec  7 2006 [  72832 00] pause_set.png 
+-r-xr-xr-x   1    0    0       3291 Dec  7 2006 [  72800 00] pauseabort.png 
+-r-xr-xr-x   1    0    0       1426 Dec  7 2006 [  72864 00] picto_playlist_break_out.png 
+-r-xr-xr-x   1    0    0       4181 Dec  7 2006 [  72848 00] picto_playlist_breakout.png 
+-r-xr-xr-x   1    0    0       4643 Dec  7 2006 [  72880 00] picto_playlist_magneto.png 
+-r-xr-xr-x   1    0    0        907 Dec  7 2006 [  72896 00] picto_playlist_pxlart.png 
+-r-xr-xr-x   1    0    0        627 Dec  7 2006 [  72912 00] picto_playlist_retro.png 
+-r-xr-xr-x   1    0    0        227 Dec  7 2006 [  72928 00] progressbar_background.png 
+-r-xr-xr-x   1    0    0       2848 Dec  7 2006 [  72944 00] progressbar_foreground.png 
+-r-xr-xr-x   1    0    0        234 Dec  7 2006 [  72960 00] pxl_gold.png 
+-r-xr-xr-x   1    0    0       3336 Dec  7 2006 [  72976 00] resume.png 
+-r-xr-xr-x   1    0    0       2173 Dec  7 2006 [  72992 00] retry.parx 
+-r-xr-xr-x   1    0    0       3204 Dec  7 2006 [  73008 00] retry.png 
+-r-xr-xr-x   1    0    0       2809 Dec  7 2006 [  73024 00] singlepixel.png 
+-r-xr-xr-x   1    0    0      20421 Apr 23 2007 [  73040 00] splashscreen.png 
+-r-xr-xr-x   1    0    0       2180 Dec  7 2006 [  73056 00] start.parx 
+-r-xr-xr-x   1    0    0       3143 Dec  7 2006 [  73072 00] start.png 
+-r-xr-xr-x   1    0    0       3286 Dec  7 2006 [  73088 00] story.png 
+-r-xr-xr-x   1    0    0        263 Dec  7 2006 [  73104 00] tape.png 
+-r-xr-xr-x   1    0    0       3763 Dec  7 2006 [  73120 00] test_bg.png 
+-r-xr-xr-x   1    0    0       3701 Dec  7 2006 [  73136 00] test_image1.png 
+-r-xr-xr-x   1    0    0       3717 Dec  7 2006 [  73152 00] test_image2.png 
+-r-xr-xr-x   1    0    0       3721 Dec  7 2006 [  73168 00] test_image3.png 
+-r-xr-xr-x   1    0    0       3712 Dec  7 2006 [  73184 00] test_image4.png 
+-r-xr-xr-x   1    0    0       3712 Dec  7 2006 [  73200 00] test_image5.png 
+-r-xr-xr-x   1    0    0       3752 Dec  7 2006 [  73216 00] test_imagelose.png 
+-r-xr-xr-x   1    0    0       3731 Dec  7 2006 [  73232 00] test_imagewin.png 
+-r-xr-xr-x   1    0    0       3317 Dec  7 2006 [  73248 00] theater.png 
+-r-xr-xr-x   1    0    0       3128 Dec  7 2006 [  73264 00] theatermode.leftarrow.png 
+-r-xr-xr-x   1    0    0       3130 Dec  7 2006 [  73280 00] theatermode.rightarrow.png 
+-r-xr-xr-x   1    0    0       1679 Dec  7 2006 [  73296 00] theatermode_cursor.parx 
+-r-xr-xr-x   1    0    0       1679 Dec  7 2006 [  73312 00] theatermode_fixedfocus.parx 
+-r-xr-xr-x   1    0    0       3693 Dec  7 2006 [  73328 00] theatermode_mode.png 
+-r-xr-xr-x   1    0    0       3933 Dec  7 2006 [  73344 00] theatermode_play.png 
+-r-xr-xr-x   1    0    0       3960 Dec  7 2006 [  73360 00] theatermode_rank.png 
+-r-xr-xr-x   1    0    0        212 Dec  7 2006 [  73376 00] transition_mask.png 
+-r-xr-xr-x   1    0    0      33822 Dec  7 2006 [  73392 00] winchapter1.png 
+-r-xr-xr-x   1    0    0      21783 Dec  7 2006 [  73424 00] winchapter2.png 
+-r-xr-xr-x   1    0    0       3273 Dec  7 2006 [  73440 00] wip.png 
+
+Directory listing of /PSP_GAME/USRDIR/data/playbox/common/locales/
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     49 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     42 02] .. 
+-r-xr-xr-x   1    0    0      30840 Aug 23 2007 [  73456 00] english 
+-r-xr-xr-x   1    0    0      25224 Mar  8 2007 [  73472 00] french 
+-r-xr-xr-x   1    0    0      24929 Mar  8 2007 [  73488 00] german 
+-r-xr-xr-x   1    0    0      24927 Mar  8 2007 [  73504 00] italian 
+-r-xr-xr-x   1    0    0      24878 Mar  8 2007 [  73520 00] spanish 
+
+Directory listing of /PSP_GAME/USRDIR/data/playbox/common/music/
+dr-xr-xr-x   1    0    0       4096 Aug 28 2007 [     50 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     42 02] .. 
+-r-xr-xr-x   1    0    0     161424 Dec  7 2006 [  73536 00] agressivedriving1.at3 
+-r-xr-xr-x   1    0    0     406800 Dec  7 2006 [  73616 00] agressivedriving8.at3 
+-r-xr-xr-x   1    0    0     126864 Dec  7 2006 [  73824 00] americanrmx29.at3 
+-r-xr-xr-x   1    0    0     133008 Dec  7 2006 [  73888 00] americanrmx51.at3 
+-r-xr-xr-x   1    0    0     133008 Dec  7 2006 [  73968 00] americanrmx51a.at3 
+-r-xr-xr-x   1    0    0     123024 Dec  7 2006 [  74048 00] americanrmx83.at3 
+-r-xr-xr-x   1    0    0      94224 Dec  7 2006 [  74112 00] bizarrewestern1.at3 
+-r-xr-xr-x   1    0    0      99984 Dec  7 2006 [  74160 00] bizarrewestern2.at3 
+-r-xr-xr-x   1    0    0      99984 Dec  7 2006 [  74224 00] bizarrewestern3.at3 
+-r-xr-xr-x   1    0    0      95760 Dec  7 2006 [  74288 00] event0150rmx.at3 
+-r-xr-xr-x   1    0    0     452496 Dec  7 2006 [  74336 00] feelgood9.at3 
+-r-xr-xr-x   1    0    0     452496 Dec  7 2006 [  74560 00] feelgood9A.at3 
+-r-xr-xr-x   1    0    0      66960 Dec  7 2006 [  74784 00] feelrmx11.at3 
+-r-xr-xr-x   1    0    0     106512 Dec  7 2006 [  74832 00] feelrmx12a.at3 
+-r-xr-xr-x   1    0    0     117648 Dec  7 2006 [  74896 00] feelrmx13.at3 
+-r-xr-xr-x   1    0    0      45840 Dec  7 2006 [  74960 00] kidfamily10rmx.at3 
+-r-xr-xr-x   1    0    0      56208 Dec  7 2006 [  74992 00] kidfamily2rmx.at3 
+-r-xr-xr-x   1    0    0      53136 Dec  7 2006 [  75024 00] kidfamily6rmx.at3 
+-r-xr-xr-x   1    0    0    1621392 Dec  7 2006 [  75056 00] loopjeu.at3 
+-r-xr-xr-x   1    0    0     290244 Dec  7 2006 [  75856 00] loopmenu.at3 
+-r-xr-xr-x   1    0    0    1588752 Dec  7 2006 [  76000 00] looptheater.at3 
+-r-xr-xr-x   1    0    0      29844 Dec  7 2006 [  76784 00] loopwin.at3 
+-r-xr-xr-x   1    0    0     953232 Dec  7 2006 [  76800 00] magnetotheme1.at3 
+-r-xr-xr-x   1    0    0     130704 Dec  7 2006 [  77280 00] rmxdrumscapes0156b.at3 
+-r-xr-xr-x   1    0    0     147600 Dec  7 2006 [  77344 00] rmxdrumscapes0156c.at3 
+-r-xr-xr-x   1    0    0     146448 Dec  7 2006 [  77424 00] rmxhiphoprap0113b.at3 
+-r-xr-xr-x   1    0    0    2715020 Dec  7 2006 [  77504 00] sample1.at3 
+-r-xr-xr-x   1    0    0    1477392 Dec  7 2006 [  78832 00] sample2.at3 
+-r-xr-xr-x   1    0    0    2481936 Dec  7 2006 [  79568 00] xerak03.at3 
+-r-xr-xr-x   1    0    0    2594832 Dec  7 2006 [  80784 00] xerak08.at3 
+-r-xr-xr-x   1    0    0    2512656 Dec  7 2006 [  82064 00] xerak19.at3 
+
+Directory listing of /PSP_GAME/USRDIR/data/playbox/common/soundfx/
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     52 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     42 02] .. 
+-r-xr-xr-x   1    0    0      12672 Dec  7 2006 [  83296 00] 000_select2.vag 
+-r-xr-xr-x   1    0    0      14736 Dec  7 2006 [  83312 00] 000_select3.vag 
+
+Directory listing of /PSP_GAME/USRDIR/data/playbox/common/videos/
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     53 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     42 02] .. 
+-r-xr-xr-x   1    0    0    3397632 Dec  7 2006 [  83328 00] final.pmf 
+-r-xr-xr-x   1    0    0    7063552 Dec  7 2006 [  84992 00] or.pmf 
+-r-xr-xr-x   1    0    0    3782656 Dec  7 2006 [  88448 00] silver.pmf 
+-r-xr-xr-x   1    0    0    2496512 Dec  7 2006 [  90304 00] splash.pmf 
+-r-xr-xr-x   1    0    0    5060608 Dec  7 2006 [  91536 00] test.pmf 
+-r-xr-xr-x   1    0    0   12115968 Apr  6 2007 [  94016 00] tuto.pmf 
+-r-xr-xr-x   1    0    0   22306816 Apr 12 2007 [  99936 00] vid01.pmf 
+-r-xr-xr-x   1    0    0   24832000 Dec  7 2006 [ 110832 00] vid02.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/data/playbox/cutscenes/01/
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     54 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     43 02] .. 
+-r-xr-xr-x   1    0    0    1402880 Dec  7 2006 [ 122960 00] alone.pmf 
+-r-xr-xr-x   1    0    0     335872 Dec  7 2006 [ 123648 00] episode1.pmf 
+-r-xr-xr-x   1    0    0    1298432 Dec  7 2006 [ 123824 00] lose.pmf 
+-r-xr-xr-x   1    0    0   14184448 Apr  6 2007 [ 124464 00] underground.pmf 
+-r-xr-xr-x   1    0    0    1402880 Dec  7 2006 [ 131392 00] underground_alone.pmf 
+-r-xr-xr-x   1    0    0    1415168 Dec  7 2006 [ 132080 00] win.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/data/playbox/cutscenes/02/
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     55 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     43 02] .. 
+-r-xr-xr-x   1    0    0     892928 Dec  7 2006 [ 132784 00] awareness.pmf 
+-r-xr-xr-x   1    0    0     348160 Dec  7 2006 [ 133232 00] episode2.pmf 
+-r-xr-xr-x   1    0    0    1712128 Dec  7 2006 [ 133408 00] lose.pmf 
+-r-xr-xr-x   1    0    0    1665024 Dec  7 2006 [ 134256 00] win.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/data/playbox/cutscenes/03/
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     56 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     43 02] .. 
+-r-xr-xr-x   1    0    0     733184 Dec  7 2006 [ 135072 00] cyberdude.pmf 
+-r-xr-xr-x   1    0    0     348160 Dec  7 2006 [ 135440 00] episode3.pmf 
+-r-xr-xr-x   1    0    0    1361920 Dec  7 2006 [ 135616 00] lose.pmf 
+-r-xr-xr-x   1    0    0    1472512 Dec  7 2006 [ 136288 00] win.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/data/playbox/cutscenes/04/
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     57 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     43 02] .. 
+-r-xr-xr-x   1    0    0    1540096 Dec  7 2006 [ 137008 00] lose.pmf 
+-r-xr-xr-x   1    0    0    1216512 Aug 24 2007 [ 137760 00] streetsweat.pmf 
+-r-xr-xr-x   1    0    0    1347584 Dec  7 2006 [ 138368 00] win.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/data/playbox/cutscenes/05/
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     58 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     43 02] .. 
+-r-xr-xr-x   1    0    0    1249280 Dec  7 2006 [ 139040 00] lose.pmf 
+-r-xr-xr-x   1    0    0    1443840 Dec  7 2006 [ 139664 00] mentaltuning.pmf 
+-r-xr-xr-x   1    0    0    1499136 Dec  7 2006 [ 140384 00] win.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/data/playbox/cutscenes/06/
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     59 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     43 02] .. 
+-r-xr-xr-x   1    0    0     839680 Dec  7 2006 [ 141120 00] kidult.pmf 
+-r-xr-xr-x   1    0    0    1339392 Dec 13 2006 [ 141536 00] lose.pmf 
+-r-xr-xr-x   1    0    0    1632256 Dec  7 2006 [ 142192 00] win.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/data/playbox/cutscenes/07/
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     60 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     43 02] .. 
+-r-xr-xr-x   1    0    0     784384 Dec  7 2006 [ 142992 00] admirer.pmf 
+-r-xr-xr-x   1    0    0    1415168 Dec  7 2006 [ 143376 00] lose.pmf 
+-r-xr-xr-x   1    0    0    1441792 Dec  7 2006 [ 144080 00] win.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/data/playbox/cutscenes/08/
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     61 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     43 02] .. 
+-r-xr-xr-x   1    0    0    1687552 Dec  7 2006 [ 144784 00] lose.pmf 
+-r-xr-xr-x   1    0    0     927744 Dec  7 2006 [ 145616 00] statement.pmf 
+-r-xr-xr-x   1    0    0    1570816 Dec  7 2006 [ 146080 00] win.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/data/playbox/cutscenes/09/
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     62 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     43 02] .. 
+-r-xr-xr-x   1    0    0    1583104 Dec  7 2006 [ 146848 00] lose.pmf 
+-r-xr-xr-x   1    0    0     837632 Dec  7 2006 [ 147632 00] struggle.pmf 
+-r-xr-xr-x   1    0    0    1398784 Dec  7 2006 [ 148048 00] win.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/data/playbox/cutscenes/10/
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     63 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2007 [     43 02] .. 
+-r-xr-xr-x   1    0    0    1581056 Dec  7 2006 [ 148736 00] alone.pmf 
+-r-xr-xr-x   1    0    0    1329152 Dec  7 2006 [ 149520 00] lose.pmf 
+-r-xr-xr-x   1    0    0    2064384 Dec  7 2006 [ 150176 00] music.pmf 
+-r-xr-xr-x   1    0    0    4966400 Dec  7 2006 [ 151184 00] win.pmf 
+-r-xr-xr-x   1    0    0    1581056 Dec  7 2006 [ 153616 00] win_alone.pmf 
+=============================================================== 
+Generated on Mon 22/08/2022 at 18:22:35.87 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

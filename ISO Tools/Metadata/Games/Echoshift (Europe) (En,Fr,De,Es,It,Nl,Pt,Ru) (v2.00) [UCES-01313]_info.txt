@@ -1,0 +1,156 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Echoshift   
+Title ID: UCES-01313 
+Region: Europe  
+Languages: En,Fr,De,Es,It,Nl,Pt,Ru  
+Volume Creation Date: 2010-01-19 10:18:14 
+Volume Size: 295 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: 
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 151296
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Jan 19 2010 [     39 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     22 02] .. 
+-r-xr-xr-x   1    0    0      13931 Sep 29 2009 [  55232 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        560 Jan 19 2010 [  55296 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      30843 Nov  6 2009 [  55280 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0      52318 Nov  6 2009 [  55248 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     23 02] .. 
+-r-xr-xr-x   1    0    0    1939637 Nov 11 2009 [  54272 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    1939984 Jan 19 2010 [    560 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0        752 Jan 19 2010 [     48 00] OPNSSMP.BIN 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     23 02] .. 
+-r-xr-xr-x   1    0    0       7014 Jul  9 2009 [  87504 00] MATCONF.LUA 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     27 02] MODULE 
+-r-xr-xr-x   1    0    0   65895296 Jan 19 2010 [  55312 00] PACK.PCK 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     28 02] PACK 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     29 02] SOUND 
+-r-xr-xr-x   1    0    0       7638 Jul 10 2009 [  87488 00] STARTUP.LUA 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     24 02] .. 
+-r-xr-xr-x   1    0    0   23372384 Jan 19 2010 [   5632 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5545568 Jan 19 2010 [   1536 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Jan 19 2010 [   1520 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/MODULE/
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     25 02] .. 
+-r-xr-xr-x   1    0    0     131072 Jun 23 2009 [  87520 00] JIS2UCS.BIN 
+-r-xr-xr-x   1    0    0      19336 Jun 23 2009 [  87584 00] LIBSUPPREACC.PRX 
+-r-xr-xr-x   1    0    0     131072 Jun 23 2009 [  87600 00] UCS2JIS.BIN 
+
+Directory listing of /PSP_GAME/USRDIR/PACK/
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     30 02] LOCAL 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     25 02] .. 
+-r-xr-xr-x   1    0    0     895344 Jul  6 2009 [  87664 00] 01_PRIME_3.SGD 
+-r-xr-xr-x   1    0    0  124916096 Jul  6 2009 [  88112 00] BGM.SGB 
+-r-xr-xr-x   1    0    0      10416 Jul  6 2009 [ 149120 00] BGM.SGH 
+-r-xr-xr-x   1    0    0    1687584 Jul  6 2009 [ 149136 00] MENU.SGD 
+-r-xr-xr-x   1    0    0    2447856 Aug 10 2009 [ 149968 00] SE.SGD 
+
+Directory listing of /PSP_GAME/USRDIR/PACK/LOCAL/
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     28 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     31 02] EU_DU 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     32 02] EU_EN 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     33 02] EU_ES 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     34 02] EU_FR 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     35 02] EU_GE 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     36 02] EU_IT 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     37 02] EU_PO 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     38 02] EU_RU 
+
+Directory listing of /PSP_GAME/USRDIR/PACK/LOCAL/EU_DU/
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     31 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     30 02] .. 
+-r-xr-xr-x   1    0    0       4480 Oct 29 2009 [ 151168 00] SYSTEM_MESSAGE.RPM 
+
+Directory listing of /PSP_GAME/USRDIR/PACK/LOCAL/EU_EN/
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     32 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     30 02] .. 
+-r-xr-xr-x   1    0    0       4320 Oct 29 2009 [ 151184 00] SYSTEM_MESSAGE.RPM 
+
+Directory listing of /PSP_GAME/USRDIR/PACK/LOCAL/EU_ES/
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     33 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     30 02] .. 
+-r-xr-xr-x   1    0    0       4736 Oct 29 2009 [ 151200 00] SYSTEM_MESSAGE.RPM 
+
+Directory listing of /PSP_GAME/USRDIR/PACK/LOCAL/EU_FR/
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     34 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     30 02] .. 
+-r-xr-xr-x   1    0    0       5152 Nov  6 2009 [ 151216 00] SYSTEM_MESSAGE.RPM 
+
+Directory listing of /PSP_GAME/USRDIR/PACK/LOCAL/EU_GE/
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     35 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     30 02] .. 
+-r-xr-xr-x   1    0    0       5024 Oct 29 2009 [ 151232 00] SYSTEM_MESSAGE.RPM 
+
+Directory listing of /PSP_GAME/USRDIR/PACK/LOCAL/EU_IT/
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     36 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     30 02] .. 
+-r-xr-xr-x   1    0    0       4912 Nov  6 2009 [ 151248 00] SYSTEM_MESSAGE.RPM 
+
+Directory listing of /PSP_GAME/USRDIR/PACK/LOCAL/EU_PO/
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     37 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     30 02] .. 
+-r-xr-xr-x   1    0    0       4816 Nov 10 2009 [ 151264 00] SYSTEM_MESSAGE.RPM 
+
+Directory listing of /PSP_GAME/USRDIR/PACK/LOCAL/EU_RU/
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     38 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 19 2010 [     30 02] .. 
+-r-xr-xr-x   1    0    0       4736 Nov  6 2009 [ 151280 00] SYSTEM_MESSAGE.RPM 
+=============================================================== 
+Generated on Tue 09/08/2022 at  5:37:17.12 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

@@ -1,0 +1,401 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Dungeon Siege - Throne of Agony   
+Title ID: ULES-00569 
+Region: Europe  
+Languages: En,Fr,De,Es,It  
+Volume Creation Date: 2006-12-04 09:42:56 
+Volume Size: 860 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: DSP
+Volume set id: DSP
+Publisher id: 2K GAMES
+Data preparer id: SGANEM
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 440560
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Dec  4 2006 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  4 2006 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2006 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Jan  4 2006 [     39 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2006 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  4 2006 [     22 02] .. 
+-r-xr-xr-x   1    0    0      18349 Aug  8 2006 [ 180704 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        472 Dec  6 2006 [ 242384 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      59923 Aug 11 2006 [ 182288 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0      91157 Aug 11 2006 [ 182320 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0     224852 Aug  9 2006 [ 182176 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2006 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Jan 27 2006 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2006 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2006 [     23 02] .. 
+-r-xr-xr-x   1    0    0    2965521 Dec  6 2006 [ 180720 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    2965872 Dec  6 2006 [     48 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2006 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Jan 27 2006 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2006 [     23 02] .. 
+-r-xr-xr-x   1    0    0  324323328 Dec  6 2006 [  22000 00] dsp.wad 
+dr-xr-xr-x   1    0    0       2048 Oct 20 2006 [     27 02] modules 
+dr-xr-xr-x   1    0    0       8192 Oct 20 2006 [     28 02] movies 
+dr-xr-xr-x   1    0    0      14336 Oct 20 2006 [     32 02] streams 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2006 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2006 [     24 02] .. 
+-r-xr-xr-x   1    0    0   15456416 Jan  4 2006 [   5616 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5079424 Jan  4 2006 [   1520 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Jan  4 2006 [   1504 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/modules/
+dr-xr-xr-x   1    0    0       2048 Oct 20 2006 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 27 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0       3312 Oct 20 2006 [ 180368 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0       1088 Oct 20 2006 [ 180384 00] libadler.prx 
+-r-xr-xr-x   1    0    0      10928 Oct 20 2006 [ 180400 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0       1472 Oct 20 2006 [ 180416 00] libbase64.prx 
+-r-xr-xr-x   1    0    0       3520 Oct 20 2006 [ 180432 00] libccc.prx 
+-r-xr-xr-x   1    0    0       4416 Oct 20 2006 [ 180448 00] libdeflt.prx 
+-r-xr-xr-x   1    0    0      23456 Oct 20 2006 [ 180464 00] libfont.prx 
+-r-xr-xr-x   1    0    0       4192 Oct 20 2006 [ 180480 00] libfpu.prx 
+-r-xr-xr-x   1    0    0       2400 Oct 20 2006 [ 180496 00] libmd5.prx 
+-r-xr-xr-x   1    0    0       1312 Oct 20 2006 [ 180512 00] libmt19937.prx 
+-r-xr-xr-x   1    0    0       1952 Oct 20 2006 [ 180528 00] libqpcode.prx 
+-r-xr-xr-x   1    0    0       2576 Oct 20 2006 [ 180544 00] libsha1.prx 
+-r-xr-xr-x   1    0    0      20096 Oct 20 2006 [ 180560 00] mpeg.prx 
+-r-xr-xr-x   1    0    0       5392 Oct 20 2006 [ 180576 00] mpegbase.prx 
+-r-xr-xr-x   1    0    0       7440 Oct 20 2006 [ 180592 00] psmf.prx 
+-r-xr-xr-x   1    0    0       2448 Oct 20 2006 [ 180608 00] pspnet_ap_dialog_dummy.prx 
+-r-xr-xr-x   1    0    0       6832 Oct 20 2006 [ 180640 00] sc_sascore.prx 
+-r-xr-xr-x   1    0    0      31792 Oct 20 2006 [ 180624 00] scan.prx 
+-r-xr-xr-x   1    0    0      29520 Oct 20 2006 [ 180656 00] show_macaddr.prx 
+-r-xr-xr-x   1    0    0      15072 Oct 20 2006 [ 180672 00] usbpspcm.prx 
+-r-xr-xr-x   1    0    0       3504 Oct 20 2006 [ 180688 00] videocodec.prx 
+
+Directory listing of /PSP_GAME/USRDIR/movies/
+dr-xr-xr-x   1    0    0       8192 Oct 20 2006 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 27 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0     501760 Oct 20 2006 [ 413968 00] 2K_Intro.pmf 
+-r-xr-xr-x   1    0    0    3033088 Oct 20 2006 [ 414224 00] AW_Atonement.pmf 
+-r-xr-xr-x   1    0    0    3035136 Oct 20 2006 [ 415712 00] AW_Atonement_fr.pmf 
+-r-xr-xr-x   1    0    0    3031040 Oct 20 2006 [ 417200 00] AW_Atonement_gr.pmf 
+-r-xr-xr-x   1    0    0    3031040 Oct 20 2006 [ 418688 00] AW_Atonement_it.pmf 
+-r-xr-xr-x   1    0    0    3035136 Oct 20 2006 [ 420176 00] AW_Atonement_sp.pmf 
+-r-xr-xr-x   1    0    0    2435072 Oct 20 2006 [ 421664 00] AW_BreakThrone.pmf 
+-r-xr-xr-x   1    0    0    2433024 Oct 20 2006 [ 422864 00] AW_BreakThrone_fr.pmf 
+-r-xr-xr-x   1    0    0    2441216 Oct 20 2006 [ 424064 00] AW_BreakThrone_gr.pmf 
+-r-xr-xr-x   1    0    0    2435072 Oct 20 2006 [ 425264 00] AW_BreakThrone_it.pmf 
+-r-xr-xr-x   1    0    0    2439168 Oct 20 2006 [ 426464 00] AW_BreakThrone_sp.pmf 
+-r-xr-xr-x   1    0    0    6615040 Oct 20 2006 [ 427664 00] AW_KillMalith.pmf 
+-r-xr-xr-x   1    0    0    6545408 Oct 20 2006 [ 430896 00] AW_KillMalith_fr.pmf 
+-r-xr-xr-x   1    0    0    6617088 Oct 20 2006 [ 434096 00] AW_KillMalith_gr.pmf 
+-r-xr-xr-x   1    0    0    6615040 Oct 20 2006 [ 437328 00] AW_KillMalith_it.pmf 
+-r-xr-xr-x   1    0    0    6612992 Oct 20 2006 [ 242400 00] AW_KillMalith_sp.pmf 
+-r-xr-xr-x   1    0    0    2457600 Oct 20 2006 [ 245632 00] AW_SitThrone.pmf 
+-r-xr-xr-x   1    0    0    2455552 Oct 20 2006 [ 246832 00] AW_SitThrone_fr.pmf 
+-r-xr-xr-x   1    0    0    2453504 Oct 20 2006 [ 248032 00] AW_SitThrone_gr.pmf 
+-r-xr-xr-x   1    0    0    2453504 Oct 20 2006 [ 249232 00] AW_SitThrone_it.pmf 
+-r-xr-xr-x   1    0    0    2453504 Oct 20 2006 [ 250432 00] AW_SitThrone_sp.pmf 
+-r-xr-xr-x   1    0    0    2430976 Oct 20 2006 [ 251632 00] BM_BreakThrone.pmf 
+-r-xr-xr-x   1    0    0    2430976 Oct 20 2006 [ 252832 00] BM_BreakThrone_fr.pmf 
+-r-xr-xr-x   1    0    0    2428928 Oct 20 2006 [ 254032 00] BM_BreakThrone_gr.pmf 
+-r-xr-xr-x   1    0    0    2428928 Oct 20 2006 [ 255232 00] BM_BreakThrone_it.pmf 
+-r-xr-xr-x   1    0    0    2433024 Oct 20 2006 [ 256432 00] BM_BreakThrone_sp.pmf 
+-r-xr-xr-x   1    0    0    6068224 Oct 20 2006 [ 257632 00] BM_KillMalith.pmf 
+-r-xr-xr-x   1    0    0    6070272 Oct 20 2006 [ 260608 00] BM_KillMalith_fr.pmf 
+-r-xr-xr-x   1    0    0    6070272 Oct 20 2006 [ 263584 00] BM_KillMalith_gr.pmf 
+-r-xr-xr-x   1    0    0    6072320 Oct 20 2006 [ 266560 00] BM_KillMalith_it.pmf 
+-r-xr-xr-x   1    0    0    6066176 Oct 20 2006 [ 269536 00] BM_KillMalith_sp.pmf 
+-r-xr-xr-x   1    0    0    5660672 Oct 20 2006 [ 272512 00] BM_SeekerLost.pmf 
+-r-xr-xr-x   1    0    0    5658624 Oct 20 2006 [ 275280 00] BM_SeekerLost_fr.pmf 
+-r-xr-xr-x   1    0    0    5660672 Oct 20 2006 [ 278048 00] BM_SeekerLost_gr.pmf 
+-r-xr-xr-x   1    0    0    5658624 Oct 20 2006 [ 280816 00] BM_SeekerLost_it.pmf 
+-r-xr-xr-x   1    0    0    5666816 Oct 20 2006 [ 283584 00] BM_SeekerLost_sp.pmf 
+-r-xr-xr-x   1    0    0    1929216 Oct 20 2006 [ 286352 00] BM_SitThrone.pmf 
+-r-xr-xr-x   1    0    0    1927168 Oct 20 2006 [ 287296 00] BM_SitThrone_fr.pmf 
+-r-xr-xr-x   1    0    0    1923072 Oct 20 2006 [ 288240 00] BM_SitThrone_gr.pmf 
+-r-xr-xr-x   1    0    0    1929216 Oct 20 2006 [ 289184 00] BM_SitThrone_it.pmf 
+-r-xr-xr-x   1    0    0    1927168 Oct 20 2006 [ 290128 00] BM_SitThrone_sp.pmf 
+-r-xr-xr-x   1    0    0    3532800 Oct 20 2006 [ 291072 00] GM_AgallaReborn.pmf 
+-r-xr-xr-x   1    0    0    3532800 Oct 20 2006 [ 292800 00] GM_AgallaReborn_fr.pmf 
+-r-xr-xr-x   1    0    0    3532800 Oct 20 2006 [ 294528 00] GM_AgallaReborn_gr.pmf 
+-r-xr-xr-x   1    0    0    3532800 Oct 20 2006 [ 296256 00] GM_AgallaReborn_it.pmf 
+-r-xr-xr-x   1    0    0    3532800 Oct 20 2006 [ 297984 00] GM_AgallaReborn_sp.pmf 
+-r-xr-xr-x   1    0    0    1976320 Oct 20 2006 [ 299712 00] GM_AudienceMalith.pmf 
+-r-xr-xr-x   1    0    0    1892352 Oct 20 2006 [ 300688 00] GM_AudienceMalith_fr.pmf 
+-r-xr-xr-x   1    0    0    1892352 Oct 20 2006 [ 301616 00] GM_AudienceMalith_gr.pmf 
+-r-xr-xr-x   1    0    0    1890304 Oct 20 2006 [ 302544 00] GM_AudienceMalith_it.pmf 
+-r-xr-xr-x   1    0    0    1890304 Oct 20 2006 [ 303472 00] GM_AudienceMalith_sp.pmf 
+-r-xr-xr-x   1    0    0   12191744 Oct 20 2006 [ 304400 00] GM_Betrayal.pmf 
+-r-xr-xr-x   1    0    0   12189696 Oct 20 2006 [ 310368 00] GM_Betrayal_fr.pmf 
+-r-xr-xr-x   1    0    0   12191744 Oct 20 2006 [ 316320 00] GM_Betrayal_gr.pmf 
+-r-xr-xr-x   1    0    0   12189696 Oct 20 2006 [ 322288 00] GM_Betrayal_it.pmf 
+-r-xr-xr-x   1    0    0   12185600 Oct 20 2006 [ 328240 00] GM_Betrayal_sp.pmf 
+-r-xr-xr-x   1    0    0    6420480 Oct 20 2006 [ 334192 00] GM_BlackDruid.pmf 
+-r-xr-xr-x   1    0    0    6418432 Oct 20 2006 [ 337328 00] GM_BlackDruid_fr.pmf 
+-r-xr-xr-x   1    0    0    6412288 Oct 20 2006 [ 340464 00] GM_BlackDruid_gr.pmf 
+-r-xr-xr-x   1    0    0    6420480 Oct 20 2006 [ 343600 00] GM_BlackDruid_it.pmf 
+-r-xr-xr-x   1    0    0    6426624 Oct 20 2006 [ 346736 00] GM_BlackDruid_sp.pmf 
+-r-xr-xr-x   1    0    0   10782720 Oct 20 2006 [ 349888 00] GM_Credits.pmf 
+-r-xr-xr-x   1    0    0    3143680 Oct 20 2006 [ 355168 00] GM_Opening.pmf 
+-r-xr-xr-x   1    0    0    3135488 Oct 20 2006 [ 356704 00] GM_Opening_fr.pmf 
+-r-xr-xr-x   1    0    0    3145728 Oct 20 2006 [ 358240 00] GM_Opening_gr.pmf 
+-r-xr-xr-x   1    0    0    3137536 Oct 20 2006 [ 359776 00] GM_Opening_it.pmf 
+-r-xr-xr-x   1    0    0    3139584 Oct 20 2006 [ 361312 00] GM_Opening_sp.pmf 
+-r-xr-xr-x   1    0    0    2596864 Oct 20 2006 [ 362848 00] GM_SiegeDrahn.pmf 
+-r-xr-xr-x   1    0    0    2603008 Oct 20 2006 [ 364128 00] GM_SiegeDrahn_fr.pmf 
+-r-xr-xr-x   1    0    0    2600960 Oct 20 2006 [ 365408 00] GM_SiegeDrahn_gr.pmf 
+-r-xr-xr-x   1    0    0    2600960 Oct 20 2006 [ 366688 00] GM_SiegeDrahn_it.pmf 
+-r-xr-xr-x   1    0    0    2598912 Oct 20 2006 [ 367968 00] GM_SiegeDrahn_sp.pmf 
+-r-xr-xr-x   1    0    0    1888256 Oct 20 2006 [ 369248 00] GM_StormySeas.pmf 
+-r-xr-xr-x   1    0    0    1890304 Oct 20 2006 [ 370176 00] GM_StormySeas_fr.pmf 
+-r-xr-xr-x   1    0    0    1886208 Oct 20 2006 [ 371104 00] GM_StormySeas_gr.pmf 
+-r-xr-xr-x   1    0    0    1886208 Oct 20 2006 [ 372032 00] GM_StormySeas_it.pmf 
+-r-xr-xr-x   1    0    0    1888256 Oct 20 2006 [ 372960 00] GM_StormySeas_sp.pmf 
+-r-xr-xr-x   1    0    0     374784 Oct 20 2006 [ 373888 00] GPG_Intro.pmf 
+-r-xr-xr-x   1    0    0    5685248 Oct 20 2006 [ 374848 00] SS_BlindVisions.pmf 
+-r-xr-xr-x   1    0    0    5656576 Oct 20 2006 [ 377632 00] SS_BlindVisions_fr.pmf 
+-r-xr-xr-x   1    0    0    5648384 Oct 20 2006 [ 380400 00] SS_BlindVisions_gr.pmf 
+-r-xr-xr-x   1    0    0    5660672 Oct 20 2006 [ 383168 00] SS_BlindVisions_it.pmf 
+-r-xr-xr-x   1    0    0    5650432 Oct 20 2006 [ 385936 00] SS_BlindVisions_sp.pmf 
+-r-xr-xr-x   1    0    0    2435072 Oct 20 2006 [ 388704 00] SS_BreakThrone.pmf 
+-r-xr-xr-x   1    0    0    2430976 Oct 20 2006 [ 389904 00] SS_BreakThrone_fr.pmf 
+-r-xr-xr-x   1    0    0    2433024 Oct 20 2006 [ 391104 00] SS_BreakThrone_gr.pmf 
+-r-xr-xr-x   1    0    0    2430976 Oct 20 2006 [ 392304 00] SS_BreakThrone_it.pmf 
+-r-xr-xr-x   1    0    0    2435072 Oct 20 2006 [ 393504 00] SS_BreakThrone_sp.pmf 
+-r-xr-xr-x   1    0    0    5158912 Oct 20 2006 [ 394704 00] SS_KillMalith.pmf 
+-r-xr-xr-x   1    0    0    5152768 Oct 20 2006 [ 397232 00] SS_KillMalith_fr.pmf 
+-r-xr-xr-x   1    0    0    5156864 Oct 20 2006 [ 399760 00] SS_KillMalith_gr.pmf 
+-r-xr-xr-x   1    0    0    5156864 Oct 20 2006 [ 402288 00] SS_KillMalith_it.pmf 
+-r-xr-xr-x   1    0    0    5158912 Oct 20 2006 [ 404816 00] SS_KillMalith_sp.pmf 
+-r-xr-xr-x   1    0    0    2689024 Oct 20 2006 [ 407344 00] SS_SitThrone.pmf 
+-r-xr-xr-x   1    0    0    2689024 Oct 20 2006 [ 408672 00] SS_SitThrone_fr.pmf 
+-r-xr-xr-x   1    0    0    2684928 Oct 20 2006 [ 410000 00] SS_SitThrone_gr.pmf 
+-r-xr-xr-x   1    0    0    2691072 Oct 20 2006 [ 411312 00] SS_SitThrone_it.pmf 
+-r-xr-xr-x   1    0    0    2691072 Oct 20 2006 [ 412640 00] SS_SitThrone_sp.pmf 
+-r-xr-xr-x   1    0    0    1560576 Oct 20 2006 [ 374080 00] intro.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/streams/
+dr-xr-xr-x   1    0    0      14336 Oct 20 2006 [     32 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 27 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0      41084 Oct 20 2006 [ 182368 00] abbot_farns_vo_001_a.stm.psp 
+-r-xr-xr-x   1    0    0      38108 Oct 20 2006 [ 182400 00] abbot_farns_vo_004_a.stm.psp 
+-r-xr-xr-x   1    0    0      20252 Oct 20 2006 [ 182432 00] abbot_farns_vo_005_a.stm.psp 
+-r-xr-xr-x   1    0    0      60428 Oct 20 2006 [ 182448 00] abbot_farns_vo_006_a.stm.psp 
+-r-xr-xr-x   1    0    0      43316 Oct 20 2006 [ 182480 00] abbot_farns_vo_007_a.stm.psp 
+-r-xr-xr-x   1    0    0      22484 Oct 20 2006 [ 182512 00] aenadin_vo_001_a.stm.psp 
+-r-xr-xr-x   1    0    0      42572 Oct 20 2006 [ 182528 00] aenadin_vo_002.stm.psp 
+-r-xr-xr-x   1    0    0      20996 Oct 20 2006 [ 182560 00] aenadin_vo_003.stm.psp 
+-r-xr-xr-x   1    0    0      30668 Oct 20 2006 [ 182576 00] aenadin_vo_004_b.stm.psp 
+-r-xr-xr-x   1    0    0      15044 Oct 20 2006 [ 182592 00] aenadin_vo_005_ab.stm.psp 
+-r-xr-xr-x   1    0    0      13556 Oct 20 2006 [ 182608 00] aenadin_vo_006.stm.psp 
+-r-xr-xr-x   1    0    0      14300 Oct 20 2006 [ 182624 00] archer_vo_031.stm.psp 
+-r-xr-xr-x   1    0    0      30668 Oct 20 2006 [ 182640 00] arena_vo_001.stm.psp 
+-r-xr-xr-x   1    0    0      40340 Oct 20 2006 [ 182656 00] arena_vo_002.stm.psp 
+-r-xr-xr-x   1    0    0      50756 Oct 20 2006 [ 182688 00] arena_vo_003.stm.psp 
+-r-xr-xr-x   1    0    0      12812 Oct 20 2006 [ 182720 00] arena_vo_004.stm.psp 
+-r-xr-xr-x   1    0    0      30668 Oct 20 2006 [ 182736 00] arena_vo_005.stm.psp 
+-r-xr-xr-x   1    0    0      41084 Oct 20 2006 [ 182752 00] arena_vo_006_a.stm.psp 
+-r-xr-xr-x   1    0    0      37364 Oct 20 2006 [ 182784 00] baron_vo_001_c.stm.psp 
+-r-xr-xr-x   1    0    0      37364 Oct 20 2006 [ 182816 00] baron_vo_002_c.stm.psp 
+-r-xr-xr-x   1    0    0      21740 Oct 20 2006 [ 182848 00] baron_vo_003.stm.psp 
+-r-xr-xr-x   1    0    0      45548 Oct 20 2006 [ 182864 00] baron_vo_004_b.stm.psp 
+-r-xr-xr-x   1    0    0      88700 Oct 20 2006 [ 182896 00] baron_vo_005_a.stm.psp 
+-r-xr-xr-x   1    0    0      38852 Oct 20 2006 [ 182944 00] baron_vo_006.stm.psp 
+-r-xr-xr-x   1    0    0      61172 Oct 20 2006 [ 182976 00] baron_vo_007_a.stm.psp 
+-r-xr-xr-x   1    0    0      65636 Oct 20 2006 [ 183008 00] black_druid_vo_001_b.stm.psp 
+-r-xr-xr-x   1    0    0      44804 Oct 20 2006 [ 183056 00] black_druid_vo_002_c.stm.psp 
+-r-xr-xr-x   1    0    0      79028 Oct 20 2006 [ 183088 00] black_druid_vo_006.stm.psp 
+-r-xr-xr-x   1    0    0      29924 Oct 20 2006 [ 183136 00] black_druid_vo_008_a.stm.psp 
+-r-xr-xr-x   1    0    0      30668 Oct 20 2006 [ 183152 00] brooks_vo_002_a.stm.psp 
+-r-xr-xr-x   1    0    0      30668 Oct 20 2006 [ 183168 00] caydia_vo_001.stm.psp 
+-r-xr-xr-x   1    0    0      26948 Oct 20 2006 [ 183184 00] caydia_vo_002.stm.psp 
+-r-xr-xr-x   1    0    0      32156 Oct 20 2006 [ 183200 00] darian_vo_001_a.stm.psp 
+-r-xr-xr-x   1    0    0      10580 Oct 20 2006 [ 183216 00] delani_vo_001.stm.psp 
+-r-xr-xr-x   1    0    0      39596 Oct 20 2006 [ 183232 00] delani_vo_002_a.stm.psp 
+-r-xr-xr-x   1    0    0      26204 Oct 20 2006 [ 183264 00] delani_vo_003_a.stm.psp 
+-r-xr-xr-x   1    0    0      32156 Oct 20 2006 [ 183280 00] delani_vo_004_a.stm.psp 
+-r-xr-xr-x   1    0    0      16532 Oct 20 2006 [ 183296 00] delani_vo_005.stm.psp 
+-r-xr-xr-x   1    0    0      49268 Oct 20 2006 [ 183312 00] delani_vo_006.stm.psp 
+-r-xr-xr-x   1    0    0      23228 Oct 20 2006 [ 183344 00] elandir_vo_002.stm.psp 
+-r-xr-xr-x   1    0    0      35132 Oct 20 2006 [ 183360 00] elandir_vo_003.stm.psp 
+-r-xr-xr-x   1    0    0      55220 Oct 20 2006 [ 183392 00] elandir_vo_004_a.stm.psp 
+-r-xr-xr-x   1    0    0      47780 Oct 20 2006 [ 183424 00] elandir_vo_005.stm.psp 
+-r-xr-xr-x   1    0    0      44804 Oct 20 2006 [ 183456 00] elandir_vo_006_b.stm.psp 
+-r-xr-xr-x   1    0    0      23228 Oct 20 2006 [ 183488 00] eva_vo_002_a.stm.psp 
+-r-xr-xr-x   1    0    0      35876 Oct 20 2006 [ 183504 00] eva_vo_008.stm.psp 
+-r-xr-xr-x   1    0    0      13556 Oct 20 2006 [ 183536 00] eva_vo_012.stm.psp 
+-r-xr-xr-x   1    0    0      26204 Oct 20 2006 [ 183552 00] fader_gaul_vo_001_a.stm.psp 
+-r-xr-xr-x   1    0    0      35132 Oct 20 2006 [ 183568 00] fader_gaul_vo_002_b.stm.psp 
+-r-xr-xr-x   1    0    0      44804 Oct 20 2006 [ 183600 00] fader_gaul_vo_003_a.stm.psp 
+-r-xr-xr-x   1    0    0      36620 Oct 20 2006 [ 183632 00] fader_gaul_vo_004.stm.psp 
+-r-xr-xr-x   1    0    0      26948 Oct 20 2006 [ 183664 00] fader_gaul_vo_005_a.stm.psp 
+-r-xr-xr-x   1    0    0      26204 Oct 20 2006 [ 183680 00] fader_gaul_vo_006_a.stm.psp 
+-r-xr-xr-x   1    0    0      31412 Oct 20 2006 [ 183696 00] fedwyrr_vo_002.stm.psp 
+-r-xr-xr-x   1    0    0      67124 Oct 20 2006 [ 183712 00] fedwyrr_vo_005_c.stm.psp 
+-r-xr-xr-x   1    0    0      14300 Oct 20 2006 [ 183760 00] fedwyrr_vo_006_e.stm.psp 
+-r-xr-xr-x   1    0    0      73820 Oct 20 2006 [ 183776 00] gorelin_vo_001.stm.psp 
+-r-xr-xr-x   1    0    0      23972 Oct 20 2006 [ 183824 00] gorelin_vo_005_a.stm.psp 
+-r-xr-xr-x   1    0    0      20252 Oct 20 2006 [ 183840 00] gorelin_vo_006.stm.psp 
+-r-xr-xr-x   1    0    0      27692 Oct 20 2006 [ 183856 00] gorlac_vo_001.stm.psp 
+-r-xr-xr-x   1    0    0      38852 Oct 20 2006 [ 183872 00] gorlac_vo_003.stm.psp 
+-r-xr-xr-x   1    0    0      37364 Oct 20 2006 [ 183904 00] gorlac_vo_004.stm.psp 
+-r-xr-xr-x   1    0    0      17276 Oct 20 2006 [ 183936 00] gorlac_vo_005.stm.psp 
+-r-xr-xr-x   1    0    0      43316 Oct 20 2006 [ 183952 00] gorlac_vo_007.stm.psp 
+-r-xr-xr-x   1    0    0      57452 Oct 20 2006 [ 183984 00] grimsayer_vo_002_a.stm.psp 
+-r-xr-xr-x   1    0    0      63404 Oct 20 2006 [ 184016 00] grimsayer_vo_003.stm.psp 
+-r-xr-xr-x   1    0    0      62660 Oct 20 2006 [ 184048 00] grimsayer_vo_004.stm.psp 
+-r-xr-xr-x   1    0    0      66380 Oct 20 2006 [ 184080 00] grimsayer_vo_005.stm.psp 
+-r-xr-xr-x   1    0    0     152684 Oct 20 2006 [ 184128 00] guardian_vo_001.stm.psp 
+-r-xr-xr-x   1    0    0      92420 Oct 20 2006 [ 184208 00] guardian_vo_002.stm.psp 
+-r-xr-xr-x   1    0    0      92420 Oct 20 2006 [ 184256 00] guardian_vo_003.stm.psp 
+-r-xr-xr-x   1    0    0      90932 Oct 20 2006 [ 184304 00] guardian_vo_004.stm.psp 
+-r-xr-xr-x   1    0    0      89444 Oct 20 2006 [ 184352 00] guardian_vo_005.stm.psp 
+-r-xr-xr-x   1    0    0      88700 Oct 20 2006 [ 184400 00] guardian_vo_006.stm.psp 
+-r-xr-xr-x   1    0    0      54476 Oct 20 2006 [ 184448 00] guardian_vo_008.stm.psp 
+-r-xr-xr-x   1    0    0      21740 Oct 20 2006 [ 184480 00] guardian_vo_011.stm.psp 
+-r-xr-xr-x   1    0    0      12812 Oct 20 2006 [ 184496 00] havalon_vo_001_a.stm.psp 
+-r-xr-xr-x   1    0    0      37364 Oct 20 2006 [ 184512 00] havalon_vo_002.stm.psp 
+-r-xr-xr-x   1    0    0      20996 Oct 20 2006 [ 184544 00] havalon_vo_003_b.stm.psp 
+-r-xr-xr-x   1    0    0      29180 Oct 20 2006 [ 184560 00] havalon_vo_004.stm.psp 
+-r-xr-xr-x   1    0    0      18764 Oct 20 2006 [ 184576 00] havalon_vo_006.stm.psp 
+-r-xr-xr-x   1    0    0      41084 Oct 20 2006 [ 184592 00] hendrick_vo_001.stm.psp 
+-r-xr-xr-x   1    0    0      32156 Oct 20 2006 [ 184624 00] hendrick_vo_002.stm.psp 
+-r-xr-xr-x   1    0    0      44060 Oct 20 2006 [ 184640 00] hendrick_vo_004.stm.psp 
+-r-xr-xr-x   1    0    0      21740 Oct 20 2006 [ 184672 00] hendrick_vo_005.stm.psp 
+-r-xr-xr-x   1    0    0      34388 Oct 20 2006 [ 184688 00] hendrick_vo_006.stm.psp 
+-r-xr-xr-x   1    0    0      79772 Oct 20 2006 [ 184720 00] malith_vo_003_b.stm.psp 
+-r-xr-xr-x   1    0    0     180956 Oct 20 2006 [ 184768 00] malith_vo_006_b.stm.psp 
+-r-xr-xr-x   1    0    0    1108724 Oct 20 2006 [ 184864 00] music_mainmenu.stm.psp 
+-r-xr-xr-x   1    0    0       9836 Oct 20 2006 [ 185408 00] nadilla_vo_001.stm.psp 
+-r-xr-xr-x   1    0    0      21740 Oct 20 2006 [ 185424 00] nadilla_vo_003.stm.psp 
+-r-xr-xr-x   1    0    0      29924 Oct 20 2006 [ 185440 00] nadilla_vo_004.stm.psp 
+-r-xr-xr-x   1    0    0      27692 Oct 20 2006 [ 185456 00] nadilla_vo_007.stm.psp 
+-r-xr-xr-x   1    0    0      39596 Oct 20 2006 [ 185472 00] neeloc_vo_001.stm.psp 
+-r-xr-xr-x   1    0    0      64892 Oct 20 2006 [ 185504 00] neeloc_vo_003.stm.psp 
+-r-xr-xr-x   1    0    0      23228 Oct 20 2006 [ 185536 00] osis_vo_001.stm.psp 
+-r-xr-xr-x   1    0    0      45548 Oct 20 2006 [ 185552 00] osis_vo_009.stm.psp 
+-r-xr-xr-x   1    0    0      41828 Oct 20 2006 [ 185584 00] rolando_vo_001.stm.psp 
+-r-xr-xr-x   1    0    0      50012 Oct 20 2006 [ 185616 00] rolando_vo_002_a.stm.psp 
+-r-xr-xr-x   1    0    0      52988 Oct 20 2006 [ 185648 00] rolando_vo_003.stm.psp 
+-r-xr-xr-x   1    0    0     231548 Oct 20 2006 [ 185680 00] s_amb_ocean.stm.psp 
+-r-xr-xr-x   1    0    0    1910012 Oct 20 2006 [ 185808 00] s_mu_a3_desert.stm.psp 
+-r-xr-xr-x   1    0    0    1596044 Oct 20 2006 [ 186752 00] s_mu_a3_desert_02.stm.psp 
+-r-xr-xr-x   1    0    0    2112380 Oct 20 2006 [ 187536 00] s_mu_archmage_b01.stm.psp 
+-r-xr-xr-x   1    0    0     727796 Oct 20 2006 [ 188576 00] s_mu_arcticcaverns_01.stm.psp 
+-r-xr-xr-x   1    0    0     413084 Oct 20 2006 [ 188944 00] s_mu_battle.stm.psp 
+-r-xr-xr-x   1    0    0    3965684 Oct 20 2006 [ 189152 00] s_mu_besiegedtown_04.stm.psp 
+-r-xr-xr-x   1    0    0    2306564 Oct 20 2006 [ 191104 00] s_mu_castle_ext_01.stm.psp 
+-r-xr-xr-x   1    0    0    1954652 Oct 20 2006 [ 192240 00] s_mu_castle_ext_02.stm.psp 
+-r-xr-xr-x   1    0    0    1829660 Oct 20 2006 [ 193200 00] s_mu_castledungeon_03.stm.psp 
+-r-xr-xr-x   1    0    0     758300 Oct 20 2006 [ 194096 00] s_mu_castleehb_04.stm.psp 
+-r-xr-xr-x   1    0    0    1327460 Oct 20 2006 [ 194480 00] s_mu_cave_insect_01.stm.psp 
+-r-xr-xr-x   1    0    0    2287964 Oct 20 2006 [ 195136 00] s_mu_cave_rock_03.stm.psp 
+-r-xr-xr-x   1    0    0     694316 Oct 20 2006 [ 196256 00] s_mu_crypts_01.stm.psp 
+-r-xr-xr-x   1    0    0    2365340 Oct 20 2006 [ 196608 00] s_mu_desert_02.stm.psp 
+-r-xr-xr-x   1    0    0    1548428 Oct 20 2006 [ 197776 00] s_mu_desertcanyons_03.stm.psp 
+-r-xr-xr-x   1    0    0    1966556 Oct 20 2006 [ 198544 00] s_mu_dragon_battle_01.stm.psp 
+-r-xr-xr-x   1    0    0    1461380 Oct 20 2006 [ 199520 00] s_mu_dragon_battle_02.stm.psp 
+-r-xr-xr-x   1    0    0    1189820 Oct 20 2006 [ 200240 00] s_mu_drums_01.stm.psp 
+-r-xr-xr-x   1    0    0    1227020 Oct 20 2006 [ 200832 00] s_mu_dungeon_ice_01.stm.psp 
+-r-xr-xr-x   1    0    0    1804364 Oct 20 2006 [ 201440 00] s_mu_dungeon_stone_01.stm.psp 
+-r-xr-xr-x   1    0    0    1676396 Oct 20 2006 [ 202336 00] s_mu_dungeon_stone_02.stm.psp 
+-r-xr-xr-x   1    0    0    1632500 Oct 20 2006 [ 203168 00] s_mu_dungeon_stone_03.stm.psp 
+-r-xr-xr-x   1    0    0    1769396 Oct 20 2006 [ 203968 00] s_mu_dungeon_stone_04.stm.psp 
+-r-xr-xr-x   1    0    0    1918196 Oct 20 2006 [ 204832 00] s_mu_dwarvenmines_07.stm.psp 
+-r-xr-xr-x   1    0    0     889244 Oct 20 2006 [ 205776 00] s_mu_farmhouse_02.stm.psp 
+-r-xr-xr-x   1    0    0    2383196 Oct 20 2006 [ 206224 00] s_mu_forest_01.stm.psp 
+-r-xr-xr-x   1    0    0    1912988 Oct 20 2006 [ 207392 00] s_mu_forest_03.stm.psp 
+-r-xr-xr-x   1    0    0    1441292 Oct 20 2006 [ 208336 00] s_mu_forest_04.stm.psp 
+-r-xr-xr-x   1    0    0    3142076 Oct 20 2006 [ 209040 00] s_mu_forest_currupt_01.stm.psp 
+-r-xr-xr-x   1    0    0    2464292 Oct 20 2006 [ 210576 00] s_mu_forest_ench01.stm.psp 
+-r-xr-xr-x   1    0    0    2550596 Oct 20 2006 [ 211792 00] s_mu_forest_snow_01.stm.psp 
+-r-xr-xr-x   1    0    0    2055092 Oct 20 2006 [ 213040 00] s_mu_forest_snow_02.stm.psp 
+-r-xr-xr-x   1    0    0    2034260 Oct 20 2006 [ 214048 00] s_mu_forestelf_dest01.stm.psp 
+-r-xr-xr-x   1    0    0     497900 Oct 20 2006 [ 215056 00] s_mu_fortkroth_03.stm.psp 
+-r-xr-xr-x   1    0    0    1227020 Oct 20 2006 [ 215312 00] s_mu_frontend.stm.psp 
+-r-xr-xr-x   1    0    0     937604 Oct 20 2006 [ 215920 00] s_mu_furyden_02.stm.psp 
+-r-xr-xr-x   1    0    0    1546196 Oct 20 2006 [ 216384 00] s_mu_gom_battle.stm.psp 
+-r-xr-xr-x   1    0    0    1317788 Oct 20 2006 [ 217152 00] s_mu_hallofskulls_01.stm.psp 
+-r-xr-xr-x   1    0    0    2313260 Oct 20 2006 [ 217808 00] s_mu_jungle_01.stm.psp 
+-r-xr-xr-x   1    0    0    1793948 Oct 20 2006 [ 218944 00] s_mu_jungle_02.stm.psp 
+-r-xr-xr-x   1    0    0    1521644 Oct 20 2006 [ 219824 00] s_mu_jungle_03.stm.psp 
+-r-xr-xr-x   1    0    0    2151812 Oct 20 2006 [ 220576 00] s_mu_jungle_towers_01.stm.psp 
+-r-xr-xr-x   1    0    0    2427836 Oct 20 2006 [ 221632 00] s_mu_king_intro.stm.psp 
+-r-xr-xr-x   1    0    0    2397332 Oct 20 2006 [ 222832 00] s_mu_lavacaverns_02.stm.psp 
+-r-xr-xr-x   1    0    0    1140716 Oct 20 2006 [ 224016 00] s_mu_maintheme.stm.psp 
+-r-xr-xr-x   1    0    0    2060300 Oct 20 2006 [ 224576 00] s_mu_mines_morden_01.stm.psp 
+-r-xr-xr-x   1    0    0    1527596 Oct 20 2006 [ 225584 00] s_mu_misc_06.stm.psp 
+-r-xr-xr-x   1    0    0     887012 Oct 20 2006 [ 226336 00] s_mu_nonataya.stm.psp 
+-r-xr-xr-x   1    0    0    1151132 Oct 20 2006 [ 226784 00] s_mu_ruins_haunted_01.stm.psp 
+-r-xr-xr-x   1    0    0    2793884 Oct 20 2006 [ 227360 00] s_mu_ruins_mystic_01.stm.psp 
+-r-xr-xr-x   1    0    0    2023844 Oct 20 2006 [ 228736 00] s_mu_shambler_battle_01.stm.psp 
+-r-xr-xr-x   1    0    0    1485188 Oct 20 2006 [ 229728 00] s_mu_snake_battle_01.stm.psp 
+-r-xr-xr-x   1    0    0    2275316 Oct 20 2006 [ 230464 00] s_mu_templeruins_05.stm.psp 
+-r-xr-xr-x   1    0    0    1674908 Oct 20 2006 [ 231584 00] s_mu_town_desert_01.stm.psp 
+-r-xr-xr-x   1    0    0    2177108 Oct 20 2006 [ 232416 00] s_mu_town_dryad_01.stm.psp 
+-r-xr-xr-x   1    0    0    1973252 Oct 20 2006 [ 233488 00] s_mu_town_morden_01.stm.psp 
+-r-xr-xr-x   1    0    0    1072268 Oct 20 2006 [ 234464 00] s_mu_townelf01.stm.psp 
+-r-xr-xr-x   1    0    0    1973252 Oct 20 2006 [ 234992 00] s_mu_townelf02.stm.psp 
+-r-xr-xr-x   1    0    0    1072268 Oct 20 2006 [ 235968 00] s_mu_townelf_01.stm.psp 
+-r-xr-xr-x   1    0    0    1973252 Oct 20 2006 [ 236496 00] s_mu_townelf_02.stm.psp 
+-r-xr-xr-x   1    0    0    1985156 Oct 20 2006 [ 237472 00] s_mu_valdis_battle_01.stm.psp 
+-r-xr-xr-x   1    0    0    1206932 Oct 20 2006 [ 238448 00] s_mu_waterdungeon_02.stm.psp 
+-r-xr-xr-x   1    0    0    2264900 Oct 20 2006 [ 239040 00] s_mu_zaramoth_ext_01.stm.psp 
+-r-xr-xr-x   1    0    0    3194900 Oct 20 2006 [ 240160 00] s_mu_zaramoth_int_01.stm.psp 
+-r-xr-xr-x   1    0    0      83492 Oct 20 2006 [ 241728 00] scuttles_vo_001.stm.psp 
+-r-xr-xr-x   1    0    0      63404 Oct 20 2006 [ 241776 00] scuttles_vo_002.stm.psp 
+-r-xr-xr-x   1    0    0      23228 Oct 20 2006 [ 241808 00] scuttles_vo_004.stm.psp 
+-r-xr-xr-x   1    0    0      64892 Oct 20 2006 [ 241824 00] scuttles_vo_005.stm.psp 
+-r-xr-xr-x   1    0    0      73820 Oct 20 2006 [ 241856 00] shadowdawn_vo_001.stm.psp 
+-r-xr-xr-x   1    0    0      70100 Oct 20 2006 [ 241904 00] shadowdawn_vo_006.stm.psp 
+-r-xr-xr-x   1    0    0      17276 Oct 20 2006 [ 241952 00] shyan_vo_001.stm.psp 
+-r-xr-xr-x   1    0    0      15044 Oct 20 2006 [ 241968 00] shyan_vo_002.stm.psp 
+-r-xr-xr-x   1    0    0      19508 Oct 20 2006 [ 241984 00] shyan_vo_005.stm.psp 
+-r-xr-xr-x   1    0    0      21740 Oct 20 2006 [ 242000 00] taar_vo_008.stm.psp 
+-r-xr-xr-x   1    0    0      72332 Oct 20 2006 [ 242016 00] taar_vo_011.stm.psp 
+-r-xr-xr-x   1    0    0      15788 Oct 20 2006 [ 242064 00] taar_vo_014_a.stm.psp 
+-r-xr-xr-x   1    0    0      16532 Oct 20 2006 [ 242080 00] taar_vo_015.stm.psp 
+-r-xr-xr-x   1    0    0      65636 Oct 20 2006 [ 242096 00] taar_vo_016_a.stm.psp 
+-r-xr-xr-x   1    0    0      56708 Oct 20 2006 [ 242144 00] taar_vo_018_a.stm.psp 
+-r-xr-xr-x   1    0    0      32900 Oct 20 2006 [ 242176 00] taelin_vo_001_a.stm.psp 
+-r-xr-xr-x   1    0    0      32156 Oct 20 2006 [ 242208 00] taelin_vo_002.stm.psp 
+-r-xr-xr-x   1    0    0      12812 Oct 20 2006 [ 242224 00] teraham_vo_001.stm.psp 
+-r-xr-xr-x   1    0    0      32156 Oct 20 2006 [ 242240 00] teraham_vo_002.stm.psp 
+-r-xr-xr-x   1    0    0      26948 Oct 20 2006 [ 242256 00] teraham_vo_003.stm.psp 
+-r-xr-xr-x   1    0    0      37364 Oct 20 2006 [ 242272 00] teraham_vo_004.stm.psp 
+-r-xr-xr-x   1    0    0      23228 Oct 20 2006 [ 242304 00] teraham_vo_005.stm.psp 
+-r-xr-xr-x   1    0    0     105812 Oct 20 2006 [ 242320 00] umd_background.stm.psp 
+=============================================================== 
+Generated on Tue 09/08/2022 at  5:37:16.31 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

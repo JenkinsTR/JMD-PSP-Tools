@@ -1,0 +1,97 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Derby Time 2006  
+Title ID: UCJS-10027 
+Region: Japan  
+Languages:   
+Volume Creation Date: 2006-02-03 15:54:40 
+Volume Size: 216 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: DERBYTIME2006
+Volume set id: DERBYTIME2006
+Publisher id: SCEJ
+Data preparer id: SCEJ
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 111024
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Feb  3 2006 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb  3 2006 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov 21 2005 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Nov 21 2005 [     29 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Nov 21 2005 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb  3 2006 [     22 02] .. 
+-r-xr-xr-x   1    0    0      28731 Oct 14 2005 [  24304 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     208896 Nov 21 2005 [  24192 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 Feb  2 2006 [  24480 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      67889 Dec 12 2005 [  24320 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0     217648 Jul  6 2005 [  24368 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Nov 21 2005 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Dec 20 2005 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Nov 21 2005 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 21 2005 [     23 02] .. 
+-r-xr-xr-x   1    0    0    7479986 Feb  3 2006 [  24496 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    7480336 Feb  3 2006 [     32 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Nov 21 2005 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Dec 20 2005 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 21 2005 [     23 02] .. 
+-r-xr-xr-x   1    0    0  169279488 Feb  2 2006 [  28368 00] IMAGE.FPK 
+dr-xr-xr-x   1    0    0       2048 Dec 20 2005 [     27 02] frameerror 
+-r-xr-xr-x   1    0    0     156529 Jan 26 2006 [  28288 00] htmlviewer.prx 
+dr-xr-xr-x   1    0    0       2048 Dec 20 2005 [     28 02] module 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Nov 21 2005 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 21 2005 [     24 02] .. 
+-r-xr-xr-x   1    0    0   14809632 Nov 21 2005 [   7808 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    3951712 Nov 21 2005 [   3712 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       1772 Nov 21 2005 [   3696 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/frameerror/
+dr-xr-xr-x   1    0    0       2048 Dec 20 2005 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 20 2005 [     25 02] .. 
+-r-xr-xr-x   1    0    0        547 Nov 14 2005 [  28160 00] frameerror.html 
+-r-xr-xr-x   1    0    0       2140 Nov 14 2005 [  28176 00] pict_0_0_5_a.png 
+-r-xr-xr-x   1    0    0       1665 Nov 14 2005 [  28192 00] under_bg.png 
+
+Directory listing of /PSP_GAME/USRDIR/module/
+dr-xr-xr-x   1    0    0       2048 Dec 20 2005 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 20 2005 [     25 02] .. 
+-r-xr-xr-x   1    0    0       3312 Nov 14 2005 [  28208 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0      10128 Nov 14 2005 [  28224 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0       1472 Nov 14 2005 [  28240 00] libbase64.prx 
+-r-xr-xr-x   1    0    0      23296 Nov 14 2005 [  28256 00] libfont.prx 
+-r-xr-xr-x   1    0    0       6832 Nov 14 2005 [  28272 00] sc_sascore.prx 
+=============================================================== 
+Generated on Fri 19/08/2022 at 20:47:29.45 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

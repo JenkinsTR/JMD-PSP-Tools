@@ -1,0 +1,1796 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Spider-Man - Web of Shadows - Amazing Allies Edition   
+Title ID: ULES-01174 
+Region: Europe  
+Languages: En,Fr,De,Es,It  
+Volume Creation Date: 2008-10-03 10:30:30 
+Volume Size: 492 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: SPIDER_MAN
+Volume set id: SPIDER-MAN
+Publisher id: SCEA
+Data preparer id: AMAZE
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 252176
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     26 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     27 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Oct  3 2008 [    222 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     26 02] .. 
+-r-xr-xr-x   1    0    0      10178 Aug 18 2008 [  56496 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        472 Oct  3 2008 [  56512 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     170590 Aug 19 2008 [  56528 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0     294044 Aug  1 2008 [  56624 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     28 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     29 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     27 02] .. 
+-r-xr-xr-x   1    0    0    6138072 Oct  3 2008 [  56768 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    6138416 Oct  3 2008 [    224 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     30 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     27 02] .. 
+-r-xr-xr-x   1    0    0    4173852 Aug  8 2008 [  59776 00] animations.res 
+-r-xr-xr-x   1    0    0      51108 Sep 29 2008 [  61824 00] animlist.res 
+dr-xr-xr-x   1    0    0       4096 Oct  3 2008 [     31 02] characters 
+-r-xr-xr-x   1    0    0      41348 Jul 21 2008 [  67520 00] common_textures.res 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     33 02] conceptart 
+-r-xr-xr-x   1    0    0     166740 Aug 18 2008 [  72304 00] dialogicons.res 
+-r-xr-xr-x   1    0    0     464460 Aug 14 2008 [  72400 00] interface.res 
+-r-xr-xr-x   1    0    0       3008 Sep 29 2008 [  72640 00] levellist.res 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     34 02] levels 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     35 02] loc 
+-r-xr-xr-x   1    0    0    1024656 Sep 29 2008 [ 203184 00] lua.res 
+-r-xr-xr-x   1    0    0    1436056 Aug 22 2008 [ 203696 00] menumonkey.res 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     36 02] module 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     37 02] movies 
+-r-xr-xr-x   1    0    0     369424 Jul 29 2008 [ 209968 00] powerups_all.res 
+dr-xr-xr-x   1    0    0       8192 Oct  3 2008 [     38 02] powerups 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     42 02] savegame 
+-r-xr-xr-x   1    0    0     128432 Aug 12 2008 [ 210688 00] sounds.res 
+-r-xr-xr-x   1    0    0   84745084 Jul 28 2008 [ 210752 00] streams.res 
+-r-xr-xr-x   1    0    0      47232 Jul 21 2008 [ 252144 00] system.res 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     28 02] .. 
+-r-xr-xr-x   1    0    0   20544736 Oct  3 2008 [   7344 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5216752 Oct  3 2008 [   3248 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Oct  3 2008 [   3232 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/characters/
+dr-xr-xr-x   1    0    0       4096 Oct  3 2008 [     31 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     29 02] .. 
+-r-xr-xr-x   1    0    0     248280 Aug 11 2008 [  61856 00] aimtrooper_2.res 
+-r-xr-xr-x   1    0    0     248280 Aug 11 2008 [  61984 00] aimtrooper_3.res 
+-r-xr-xr-x   1    0    0     248280 Aug 11 2008 [  62112 00] aimtrooper_civ.res 
+-r-xr-xr-x   1    0    0     226484 Jul 21 2008 [  62240 00] blackcat.res 
+-r-xr-xr-x   1    0    0     142224 Jul 21 2008 [  62352 00] cheknkau.res 
+-r-xr-xr-x   1    0    0     117492 Jul 21 2008 [  62432 00] civilian_female.res 
+-r-xr-xr-x   1    0    0     119004 Jul 21 2008 [  62496 00] civilian_male.res 
+-r-xr-xr-x   1    0    0      74076 Jul 21 2008 [  62560 00] cube.res 
+-r-xr-xr-x   1    0    0      11676 Jul 21 2008 [  62608 00] diamond.res 
+-r-xr-xr-x   1    0    0      68464 Jul 21 2008 [  62624 00] galactus.res 
+-r-xr-xr-x   1    0    0     124588 Jul 21 2008 [  62672 00] hobgoblin.res 
+-r-xr-xr-x   1    0    0     113108 Aug 13 2008 [  62736 00] hypno_hustler.res 
+-r-xr-xr-x   1    0    0     101272 Aug 11 2008 [  62800 00] infected.res 
+-r-xr-xr-x   1    0    0      73816 Jul 21 2008 [  62864 00] jackal.res 
+-r-xr-xr-x   1    0    0      55988 Jul 21 2008 [  62912 00] jameson.res 
+-r-xr-xr-x   1    0    0     521208 Aug  4 2008 [  62944 00] jessica_drew.res 
+-r-xr-xr-x   1    0    0     100108 Jul 28 2008 [  63200 00] jessica_drew_pu.res 
+-r-xr-xr-x   1    0    0     150948 Jul 30 2008 [  63264 00] kraven.res 
+-r-xr-xr-x   1    0    0      88124 Aug 11 2008 [  63344 00] looter_1.res 
+-r-xr-xr-x   1    0    0      88124 Aug 11 2008 [  63392 00] looter_2.res 
+-r-xr-xr-x   1    0    0      55688 Jul 21 2008 [  63440 00] looter_3.res 
+-r-xr-xr-x   1    0    0     214728 Aug  4 2008 [  63472 00] lukecage.res 
+-r-xr-xr-x   1    0    0      70004 Jul 28 2008 [  63584 00] lukecage_pu.res 
+-r-xr-xr-x   1    0    0      55688 Jul 21 2008 [  63632 00] masteranims.res 
+-r-xr-xr-x   1    0    0      81928 Jul 21 2008 [  63664 00] moonknight.res 
+-r-xr-xr-x   1    0    0     115828 Jul 21 2008 [  63712 00] mysterio.res 
+-r-xr-xr-x   1    0    0      74388 Jul 21 2008 [  63776 00] nightcrawler.res 
+-r-xr-xr-x   1    0    0     121656 Jul 21 2008 [  63824 00] pedestrian_male.res 
+-r-xr-xr-x   1    0    0     122888 Jul 21 2008 [  63888 00] pedetrian_female.res 
+-r-xr-xr-x   1    0    0      31804 Jul 21 2008 [  63952 00] professor_x.res 
+-r-xr-xr-x   1    0    0     167988 Jul 31 2008 [  63968 00] rhino.res 
+-r-xr-xr-x   1    0    0      87356 Aug 11 2008 [  64064 00] robber_1.res 
+-r-xr-xr-x   1    0    0      87356 Aug 11 2008 [  64112 00] robber_2.res 
+-r-xr-xr-x   1    0    0      87356 Aug 11 2008 [  64160 00] robber_3.res 
+-r-xr-xr-x   1    0    0     487016 Aug  8 2008 [  64208 00] robots.res 
+-r-xr-xr-x   1    0    0      66564 Jul 22 2008 [  64448 00] shield_agent.res 
+-r-xr-xr-x   1    0    0      64256 Jul 21 2008 [  64496 00] shield_agent_female.res 
+-r-xr-xr-x   1    0    0     649528 Aug 15 2008 [  64528 00] shocker.res 
+-r-xr-xr-x   1    0    0      74020 Jul 28 2008 [  64848 00] shocker_pu.res 
+-r-xr-xr-x   1    0    0     832768 Aug  8 2008 [  64896 00] spiderman.res 
+-r-xr-xr-x   1    0    0      84044 Jul 21 2008 [  65312 00] stiltman.res 
+-r-xr-xr-x   1    0    0     115960 Jul 21 2008 [  65360 00] storm.res 
+-r-xr-xr-x   1    0    0     966380 Aug 11 2008 [  65424 00] symbiote_fly.res 
+-r-xr-xr-x   1    0    0     102200 Aug 11 2008 [  65904 00] symbiote_ground.res 
+-r-xr-xr-x   1    0    0     112504 Aug 11 2008 [  65968 00] thug_1.res 
+-r-xr-xr-x   1    0    0     108920 Aug 11 2008 [  66032 00] thug_2.res 
+-r-xr-xr-x   1    0    0      80100 Jul 21 2008 [  66096 00] thug_3.res 
+-r-xr-xr-x   1    0    0     904212 Aug 12 2008 [  66144 00] tinkerer.res 
+-r-xr-xr-x   1    0    0     390680 Aug  8 2008 [  66592 00] venom.res 
+-r-xr-xr-x   1    0    0     984684 Jul 31 2008 [  66784 00] venomcollective.res 
+-r-xr-xr-x   1    0    0     382396 Jul 21 2008 [  67280 00] venomcollective_base.res 
+-r-xr-xr-x   1    0    0      98196 Jul 21 2008 [  67472 00] wolverine.res 
+
+Directory listing of /PSP_GAME/USRDIR/conceptart/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     33 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     29 02] .. 
+-r-xr-xr-x   1    0    0    1049020 Aug  1 2008 [  67552 00] picture1.res 
+-r-xr-xr-x   1    0    0    1049020 Aug  1 2008 [  68080 00] picture2.res 
+-r-xr-xr-x   1    0    0    1049020 Aug  1 2008 [  68608 00] picture3.res 
+-r-xr-xr-x   1    0    0    1049020 Aug  1 2008 [  69136 00] picture4.res 
+-r-xr-xr-x   1    0    0    1049020 Aug  1 2008 [  69664 00] picture5.res 
+-r-xr-xr-x   1    0    0    1049020 Aug  1 2008 [  70192 00] picture6.res 
+-r-xr-xr-x   1    0    0    1049020 Aug  1 2008 [  70720 00] picture7.res 
+-r-xr-xr-x   1    0    0    1049020 Aug  1 2008 [  71248 00] picture8.res 
+-r-xr-xr-x   1    0    0    1049020 Aug  1 2008 [  71776 00] picture9.res 
+
+Directory listing of /PSP_GAME/USRDIR/levels/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     34 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     29 02] .. 
+-r-xr-xr-x   1    0    0     606520 Aug 17 2008 [  72656 00] legal.res 
+-r-xr-xr-x   1    0    0     606520 Aug 17 2008 [  72976 00] legal_us.res 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     43 02] legal_us 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     44 02] legal 
+-r-xr-xr-x   1    0    0    1803748 Aug 17 2008 [  73296 00] menu_background.res 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     45 02] menu_background 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     46 02] mission_00 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     47 02] mission_01 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     48 02] mission_02 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     49 02] mission_03 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     50 02] mission_04 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     51 02] mission_05 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     52 02] mission_06 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     53 02] mission_07 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     54 02] mission_08 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     55 02] mission_09 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     56 02] z_test_levels 
+
+Directory listing of /PSP_GAME/USRDIR/loc/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     35 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     29 02] .. 
+-r-xr-xr-x   1    0    0     744556 Sep 29 2008 [ 134944 00] eng.res 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     57 02] eng 
+-r-xr-xr-x   1    0    0     731884 Sep 29 2008 [ 147872 00] euk.res 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     58 02] euk 
+-r-xr-xr-x   1    0    0     788076 Sep 29 2008 [ 152160 00] fre.res 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     59 02] fre 
+-r-xr-xr-x   1    0    0     777836 Sep 29 2008 [ 164880 00] ger.res 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     60 02] ger 
+-r-xr-xr-x   1    0    0     765548 Sep 29 2008 [ 177744 00] ita.res 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     61 02] ita 
+-r-xr-xr-x   1    0    0     764268 Sep 29 2008 [ 190496 00] spa.res 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     62 02] spa 
+
+Directory listing of /PSP_GAME/USRDIR/module/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     36 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     29 02] .. 
+-r-xr-xr-x   1    0    0      23488 Sep 15 2008 [ 204400 00] libfont.prx 
+
+Directory listing of /PSP_GAME/USRDIR/movies/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     37 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     29 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     63 02] logos 
+
+Directory listing of /PSP_GAME/USRDIR/powerups/
+dr-xr-xr-x   1    0    0       8192 Oct  3 2008 [     38 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     29 02] .. 
+-r-xr-xr-x   1    0    0      11484 Aug  1 2008 [ 206704 00] addtohealthbar.res 
+-r-xr-xr-x   1    0    0      84916 Aug  6 2008 [ 206720 00] blackcloud.res 
+-r-xr-xr-x   1    0    0      45856 Aug  4 2008 [ 206768 00] damageincrease1.res 
+-r-xr-xr-x   1    0    0      45856 Aug  4 2008 [ 206800 00] damageincrease2.res 
+-r-xr-xr-x   1    0    0      45856 Aug  4 2008 [ 206832 00] damageincrease3.res 
+-r-xr-xr-x   1    0    0      45856 Aug  4 2008 [ 206864 00] damageincrease4.res 
+-r-xr-xr-x   1    0    0      45856 Aug  4 2008 [ 206896 00] damageincrease5.res 
+-r-xr-xr-x   1    0    0      43104 Aug  4 2008 [ 206928 00] damagereduction1.res 
+-r-xr-xr-x   1    0    0      43104 Aug  4 2008 [ 206960 00] damagereduction2.res 
+-r-xr-xr-x   1    0    0      43104 Aug  4 2008 [ 206992 00] damagereduction3.res 
+-r-xr-xr-x   1    0    0      43104 Aug  4 2008 [ 207024 00] damagereduction4.res 
+-r-xr-xr-x   1    0    0      43104 Aug  4 2008 [ 207056 00] damagereduction5.res 
+-r-xr-xr-x   1    0    0      19924 Jul 30 2008 [ 207088 00] hammerhands1.res 
+-r-xr-xr-x   1    0    0      10384 Jul 31 2008 [ 207104 00] hammerhands2.res 
+-r-xr-xr-x   1    0    0      10384 Jul 31 2008 [ 207120 00] hammerhands3.res 
+-r-xr-xr-x   1    0    0      25148 Aug  4 2008 [ 207136 00] healdamage1.res 
+-r-xr-xr-x   1    0    0      25148 Aug  4 2008 [ 207152 00] healdamage2.res 
+-r-xr-xr-x   1    0    0      25148 Aug  4 2008 [ 207168 00] healdamage3.res 
+-r-xr-xr-x   1    0    0      25148 Aug  4 2008 [ 207184 00] healdamage4.res 
+-r-xr-xr-x   1    0    0      25148 Aug  4 2008 [ 207200 00] healdamage5.res 
+-r-xr-xr-x   1    0    0      35096 Aug  4 2008 [ 207216 00] invincible.res 
+-r-xr-xr-x   1    0    0      35128 Aug  4 2008 [ 207248 00] knockbackimmunity1.res 
+-r-xr-xr-x   1    0    0      35128 Aug  4 2008 [ 207280 00] knockbackimmunity2.res 
+-r-xr-xr-x   1    0    0      35128 Aug  4 2008 [ 207312 00] knockbackimmunity3.res 
+-r-xr-xr-x   1    0    0      35128 Aug  4 2008 [ 207344 00] knockbackimmunity4.res 
+-r-xr-xr-x   1    0    0      35128 Aug  4 2008 [ 207376 00] knockbackimmunity5.res 
+-r-xr-xr-x   1    0    0      24652 Aug  7 2008 [ 207408 00] knockbackincrease.res 
+-r-xr-xr-x   1    0    0       9724 Jul 28 2008 [ 207424 00] poisonweb1.res 
+-r-xr-xr-x   1    0    0       1468 Jul 21 2008 [ 207440 00] poisonweb2.res 
+-r-xr-xr-x   1    0    0       1468 Jul 21 2008 [ 207456 00] poisonweb3.res 
+-r-xr-xr-x   1    0    0       1468 Jul 21 2008 [ 207472 00] poisonweb4.res 
+-r-xr-xr-x   1    0    0       1468 Jul 21 2008 [ 207488 00] poisonweb5.res 
+-r-xr-xr-x   1    0    0      35768 Aug  4 2008 [ 207504 00] rangeimmunity1.res 
+-r-xr-xr-x   1    0    0      35768 Aug  4 2008 [ 207536 00] rangeimmunity2.res 
+-r-xr-xr-x   1    0    0      35768 Aug  4 2008 [ 207568 00] rangeimmunity3.res 
+-r-xr-xr-x   1    0    0      35768 Aug  4 2008 [ 207600 00] rangeimmunity4.res 
+-r-xr-xr-x   1    0    0      35768 Aug  4 2008 [ 207632 00] rangeimmunity5.res 
+-r-xr-xr-x   1    0    0      33156 Jul 28 2008 [ 207664 00] regenerationspeed1.res 
+-r-xr-xr-x   1    0    0      33156 Jul 28 2008 [ 207696 00] regenerationspeed2.res 
+-r-xr-xr-x   1    0    0      33156 Jul 28 2008 [ 207728 00] regenerationspeed3.res 
+-r-xr-xr-x   1    0    0      33156 Jul 28 2008 [ 207760 00] regenerationspeed4.res 
+-r-xr-xr-x   1    0    0      33156 Jul 28 2008 [ 207792 00] regenerationspeed5.res 
+-r-xr-xr-x   1    0    0      74404 Aug  4 2008 [ 207824 00] spiderarmor1.res 
+-r-xr-xr-x   1    0    0      74436 Aug  4 2008 [ 207872 00] spiderarmor2.res 
+-r-xr-xr-x   1    0    0      74436 Aug  4 2008 [ 207920 00] spiderarmor3.res 
+-r-xr-xr-x   1    0    0      74436 Aug  4 2008 [ 207968 00] spiderarmor4.res 
+-r-xr-xr-x   1    0    0      74436 Aug  4 2008 [ 208016 00] spiderarmor5.res 
+-r-xr-xr-x   1    0    0      64244 Aug  6 2008 [ 208064 00] spideyflurry.res 
+-r-xr-xr-x   1    0    0      21888 Jul 28 2008 [ 208096 00] spikeshield1.res 
+-r-xr-xr-x   1    0    0      21888 Jul 28 2008 [ 208112 00] spikeshield2.res 
+-r-xr-xr-x   1    0    0      21888 Jul 28 2008 [ 208128 00] spikeshield3.res 
+-r-xr-xr-x   1    0    0      21888 Jul 28 2008 [ 208144 00] spikeshield4.res 
+-r-xr-xr-x   1    0    0      21888 Jul 28 2008 [ 208160 00] spikeshield5.res 
+-r-xr-xr-x   1    0    0     135068 Jul 28 2008 [ 208176 00] summon_bigwheel.res 
+-r-xr-xr-x   1    0    0      70060 Aug  4 2008 [ 208256 00] summon_blackcat.res 
+-r-xr-xr-x   1    0    0      15724 Jul 28 2008 [ 208304 00] summon_cheknkau.res 
+-r-xr-xr-x   1    0    0     155336 Jul 28 2008 [ 208320 00] summon_citizens.res 
+-r-xr-xr-x   1    0    0       1280 Jul 28 2008 [ 208400 00] summon_galactus.res 
+-r-xr-xr-x   1    0    0     119924 Aug 16 2008 [ 208416 00] summon_hobgoblin.res 
+-r-xr-xr-x   1    0    0      14544 Jul 28 2008 [ 208480 00] summon_hypnohustler.res 
+-r-xr-xr-x   1    0    0     117292 Aug  8 2008 [ 208496 00] summon_jessicadrew.res 
+-r-xr-xr-x   1    0    0      83804 Aug  4 2008 [ 208560 00] summon_lukecage.res 
+-r-xr-xr-x   1    0    0      98944 Aug 15 2008 [ 208608 00] summon_moonknight.res 
+-r-xr-xr-x   1    0    0      68588 Jul 28 2008 [ 208672 00] summon_mysterio.res 
+-r-xr-xr-x   1    0    0      52676 Jul 28 2008 [ 208720 00] summon_nightcrawler.res 
+-r-xr-xr-x   1    0    0     168008 Aug  4 2008 [ 208752 00] summon_professorx.res 
+-r-xr-xr-x   1    0    0      82496 Aug 10 2008 [ 208848 00] summon_sandman.res 
+-r-xr-xr-x   1    0    0      66460 Aug 13 2008 [ 208896 00] summon_shocker.res 
+-r-xr-xr-x   1    0    0       1280 Jul 28 2008 [ 208944 00] summon_stiltman.res 
+-r-xr-xr-x   1    0    0     159024 Aug  4 2008 [ 208960 00] summon_storm.res 
+-r-xr-xr-x   1    0    0       9476 Jul 28 2008 [ 209040 00] summon_wolverine.res 
+-r-xr-xr-x   1    0    0     112512 Aug 13 2008 [ 209056 00] summonichor.res 
+-r-xr-xr-x   1    0    0      84892 Jul 28 2008 [ 209120 00] symbiotecamouflage1.res 
+-r-xr-xr-x   1    0    0      84956 Aug  7 2008 [ 209168 00] symbiotecamouflage2.res 
+-r-xr-xr-x   1    0    0      84956 Aug  7 2008 [ 209216 00] symbiotecamouflage3.res 
+-r-xr-xr-x   1    0    0      55852 Aug  6 2008 [ 209264 00] symbioteswarm.res 
+-r-xr-xr-x   1    0    0      39012 Aug 13 2008 [ 209296 00] vampiricdrain1.res 
+-r-xr-xr-x   1    0    0      39076 Aug 13 2008 [ 209328 00] vampiricdrain2.res 
+-r-xr-xr-x   1    0    0      39076 Aug 13 2008 [ 209360 00] vampiricdrain3.res 
+-r-xr-xr-x   1    0    0      39076 Aug 13 2008 [ 209392 00] vampiricdrain4.res 
+-r-xr-xr-x   1    0    0      39076 Aug 13 2008 [ 209424 00] vampiricdrain5.res 
+-r-xr-xr-x   1    0    0      47936 Aug  4 2008 [ 209456 00] venomousattack1.res 
+-r-xr-xr-x   1    0    0      47936 Aug  4 2008 [ 209488 00] venomousattack2.res 
+-r-xr-xr-x   1    0    0      47936 Aug  4 2008 [ 209520 00] venomousattack3.res 
+-r-xr-xr-x   1    0    0      47936 Aug  4 2008 [ 209552 00] venomousattack4.res 
+-r-xr-xr-x   1    0    0      47936 Aug  4 2008 [ 209584 00] venomousattack5.res 
+-r-xr-xr-x   1    0    0     134452 Aug  2 2008 [ 209616 00] wallcrush.res 
+-r-xr-xr-x   1    0    0      33740 Aug 14 2008 [ 209696 00] webbullets1.res 
+-r-xr-xr-x   1    0    0      33900 Aug 14 2008 [ 209728 00] webbullets2.res 
+-r-xr-xr-x   1    0    0      33900 Aug 14 2008 [ 209760 00] webbullets3.res 
+-r-xr-xr-x   1    0    0      33900 Aug 14 2008 [ 209792 00] webbullets4.res 
+-r-xr-xr-x   1    0    0      33900 Aug 14 2008 [ 209824 00] webbullets5.res 
+-r-xr-xr-x   1    0    0      15208 Jul 28 2008 [ 209856 00] webcocoon1.res 
+-r-xr-xr-x   1    0    0       1468 Jul 21 2008 [ 209872 00] webcocoon2.res 
+-r-xr-xr-x   1    0    0       1468 Jul 21 2008 [ 209888 00] webcocoon3.res 
+-r-xr-xr-x   1    0    0       1468 Jul 21 2008 [ 209904 00] webcocoon4.res 
+-r-xr-xr-x   1    0    0       1468 Jul 21 2008 [ 209920 00] webcocoon5.res 
+-r-xr-xr-x   1    0    0      42680 Aug  6 2008 [ 209936 00] websplatter.res 
+
+Directory listing of /PSP_GAME/USRDIR/savegame/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     42 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     29 02] .. 
+-r-xr-xr-x   1    0    0      10178 Aug 18 2008 [ 210160 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     170590 Aug 19 2008 [ 210176 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0     294044 Aug  1 2008 [ 210272 00] SND0.AT3 
+-r-xr-xr-x   1    0    0      10178 Aug 18 2008 [ 210416 00] icon0.png 
+-r-xr-xr-x   1    0    0       9225 Aug 18 2008 [ 210432 00] iconempty.png 
+-r-xr-xr-x   1    0    0     170590 Aug 19 2008 [ 210448 00] pic1.png 
+-r-xr-xr-x   1    0    0     294044 Aug  1 2008 [ 210544 00] snd0.at3 
+
+Directory listing of /PSP_GAME/USRDIR/levels/legal_us/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     43 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     34 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     64 02] script 
+
+Directory listing of /PSP_GAME/USRDIR/levels/legal/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     44 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     34 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     65 02] script 
+
+Directory listing of /PSP_GAME/USRDIR/levels/menu_background/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     45 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     34 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     66 02] script 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_00/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     46 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     34 02] .. 
+-r-xr-xr-x   1    0    0    5392960 Aug 17 2008 [  74208 00] 01_rooftops.res 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     67 02] 01_rooftops 
+-r-xr-xr-x   1    0    0    2552728 Aug 17 2008 [  77248 00] 02_venom.res 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     68 02] 02_venom 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_01/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     47 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     34 02] .. 
+-r-xr-xr-x   1    0    0    4780916 Aug 18 2008 [  78832 00] 01_fifthavenue.res 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     69 02] 01_fifthavenue 
+-r-xr-xr-x   1    0    0    6028744 Aug 17 2008 [  81408 00] 01_hotel.res 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     70 02] 01_hotel 
+-r-xr-xr-x   1    0    0    3353808 Aug 17 2008 [  84736 00] 02_townhouse.res 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     71 02] 02_townhouse 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_02/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     48 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     34 02] .. 
+-r-xr-xr-x   1    0    0    4975796 Sep 29 2008 [  86656 00] 01_subway.res 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     72 02] 01_subway 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_03/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     49 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     34 02] .. 
+-r-xr-xr-x   1    0    0    4720132 Aug 20 2008 [  89456 00] 01_base.res 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     73 02] 01_base 
+-r-xr-xr-x   1    0    0    4051884 Aug 20 2008 [  92096 00] 02_vault.res 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     74 02] 02_vault 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_04/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     50 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     34 02] .. 
+-r-xr-xr-x   1    0    0    4175052 Aug 17 2008 [  94512 00] 01_harlem.res 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     75 02] 01_harlem 
+-r-xr-xr-x   1    0    0    4364328 Aug 17 2008 [  96992 00] 02_harlem.res 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     76 02] 02_harlem 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_05/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     51 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     34 02] .. 
+-r-xr-xr-x   1    0    0    6034864 Aug 18 2008 [  99616 00] 01_warehouse.res 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     77 02] 01_warehouse 
+-r-xr-xr-x   1    0    0    4992824 Aug 18 2008 [ 103264 00] 02_lair.res 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     78 02] 02_lair 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_06/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     52 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     34 02] .. 
+-r-xr-xr-x   1    0    0    4781088 Aug 18 2008 [ 106016 00] 01_helicarrier.res 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     79 02] 01_helicarrier 
+-r-xr-xr-x   1    0    0    4693160 Aug 18 2008 [ 109792 00] 02_helicarrier.res 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     80 02] 02_helicarrier 
+-r-xr-xr-x   1    0    0    2559008 Aug 17 2008 [ 113536 00] 03_lab_12.res 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     81 02] 03_lab_12 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_07/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     53 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     34 02] .. 
+-r-xr-xr-x   1    0    0    3417696 Aug 22 2008 [ 115584 00] 01_hellskitchen.res 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     82 02] 01_hellskitchen 
+-r-xr-xr-x   1    0    0    5084632 Aug 22 2008 [ 117952 00] 02_roof_n_apartments.res 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     83 02] 02_roof_n_apartments 
+-r-xr-xr-x   1    0    0    4471128 Aug 22 2008 [ 120816 00] 03_library_boss.res 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     84 02] 03_library_boss 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_08/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     54 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     34 02] .. 
+-r-xr-xr-x   1    0    0    4793692 Aug 20 2008 [ 123360 00] 01_tower.res 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     85 02] 01_tower 
+-r-xr-xr-x   1    0    0    3480620 Aug 17 2008 [ 126048 00] 02_roof.res 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     86 02] 02_roof 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_09/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     55 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     34 02] .. 
+-r-xr-xr-x   1    0    0    5598196 Aug 20 2008 [ 128080 00] 01_centralpark.res 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     87 02] 01_centralpark 
+-r-xr-xr-x   1    0    0    3188872 Aug 17 2008 [ 131344 00] 02_collective.res 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     88 02] 02_collective 
+
+Directory listing of /PSP_GAME/USRDIR/levels/z_test_levels/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     56 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     34 02] .. 
+-r-xr-xr-x   1    0    0    3496548 Aug  4 2008 [ 133216 00] test_enemies.res 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     89 02] test_enemies 
+
+Directory listing of /PSP_GAME/USRDIR/loc/eng/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     57 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     35 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     90 02] characters 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     91 02] levels 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     92 02] movies 
+
+Directory listing of /PSP_GAME/USRDIR/loc/euk/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     58 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     35 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     93 02] movies 
+
+Directory listing of /PSP_GAME/USRDIR/loc/fre/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     59 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     35 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     94 02] characters 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     95 02] levels 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     96 02] movies 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ger/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     60 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     35 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     97 02] characters 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     98 02] levels 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     99 02] movies 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ita/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     61 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     35 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    100 02] characters 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    101 02] levels 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    102 02] movies 
+
+Directory listing of /PSP_GAME/USRDIR/loc/spa/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     62 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     35 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    103 02] characters 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    104 02] levels 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    105 02] movies 
+
+Directory listing of /PSP_GAME/USRDIR/movies/logos/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     63 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     37 02] .. 
+-r-xr-xr-x   1    0    0    1486848 Jun 15 2008 [ 204416 00] activision.pmf 
+-r-xr-xr-x   1    0    0     983040 Jul 31 2008 [ 205152 00] adrenium.pmf 
+-r-xr-xr-x   1    0    0    2177024 Aug 15 2008 [ 205632 00] marvel.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/levels/legal_us/script/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     64 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     43 02] .. 
+-r-xr-xr-x   1    0    0        504 Aug  8 2008 [  73280 00] default.res 
+
+Directory listing of /PSP_GAME/USRDIR/levels/legal/script/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     65 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     44 02] .. 
+-r-xr-xr-x   1    0    0        504 Aug  8 2008 [  72960 00] default.res 
+
+Directory listing of /PSP_GAME/USRDIR/levels/menu_background/script/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     66 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     45 02] .. 
+-r-xr-xr-x   1    0    0       2040 Aug  8 2008 [  74192 00] default.res 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_00/01_rooftops/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     67 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     46 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    106 02] script 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    107 02] soundevents 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_00/02_venom/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     68 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     46 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    108 02] script 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    109 02] soundevents 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_01/01_fifthavenue/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     69 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     47 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    110 02] script 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    111 02] soundevents 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_01/01_hotel/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     70 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     47 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    112 02] script 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    113 02] soundevents 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_01/02_townhouse/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     71 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     47 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    114 02] script 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    115 02] soundevents 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_02/01_subway/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     72 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     48 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    116 02] script 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    117 02] soundevents 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_03/01_base/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     73 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     49 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    118 02] script 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    119 02] soundevents 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_03/02_vault/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     74 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     49 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    120 02] script 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    121 02] soundevents 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_04/01_harlem/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     75 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     50 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    122 02] script 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    123 02] soundevents 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_04/02_harlem/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     76 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     50 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    124 02] script 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    125 02] soundevents 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_05/01_warehouse/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     77 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     51 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    126 02] script 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    127 02] soundevents 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_05/02_lair/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     78 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     51 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    128 02] script 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    129 02] soundevents 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_06/01_helicarrier/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     79 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     52 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    130 02] script 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    131 02] soundevents 
+-r-xr-xr-x   1    0    0    2106596 Aug  2 2008 [ 108704 00] whitebox.res 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    132 02] whitebox 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_06/02_helicarrier/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     80 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     52 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    133 02] script 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    134 02] soundevents 
+-r-xr-xr-x   1    0    0    2302652 Aug  2 2008 [ 112368 00] whitebox.res 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    135 02] whitebox 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_06/03_lab_12/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     81 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     52 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    136 02] script 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    137 02] soundevents 
+-r-xr-xr-x   1    0    0    1141696 Aug  2 2008 [ 115008 00] whitebox.res 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    138 02] whitebox 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_07/01_hellskitchen/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     82 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     53 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    139 02] script 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    140 02] soundevents 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_07/02_roof_n_apartments/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     83 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     53 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    141 02] script 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    142 02] soundevents 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_07/03_library_boss/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     84 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     53 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    143 02] script 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    144 02] soundevents 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_08/01_tower/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     85 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     54 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    145 02] script 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    146 02] soundevents 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_08/02_roof/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     86 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     54 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    147 02] script 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    148 02] soundevents 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_09/01_centralpark/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     87 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     55 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    149 02] script 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    150 02] soundevents 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_09/02_collective/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     88 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     55 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    151 02] script 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    152 02] soundevents 
+
+Directory listing of /PSP_GAME/USRDIR/levels/z_test_levels/test_enemies/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     89 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     56 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    153 02] script 
+
+Directory listing of /PSP_GAME/USRDIR/loc/eng/characters/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     90 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     57 02] .. 
+-r-xr-xr-x   1    0    0      50532 Aug 11 2008 [ 135312 00] blackcat.res 
+-r-xr-xr-x   1    0    0      48152 Aug 11 2008 [ 135344 00] infected.res 
+-r-xr-xr-x   1    0    0      35256 Aug 11 2008 [ 135376 00] jackal.res 
+-r-xr-xr-x   1    0    0      34168 Aug 11 2008 [ 135408 00] kraven.res 
+-r-xr-xr-x   1    0    0      33892 Aug 11 2008 [ 135440 00] lukecage.res 
+dr-xr-xr-x   1    0    0       6144 Oct  3 2008 [    154 02] powerups 
+-r-xr-xr-x   1    0    0      35864 Aug 11 2008 [ 136784 00] rhino.res 
+-r-xr-xr-x   1    0    0      58184 Aug 11 2008 [ 136816 00] shocker.res 
+-r-xr-xr-x   1    0    0      80776 Aug 11 2008 [ 136848 00] spiderman.res 
+-r-xr-xr-x   1    0    0      94888 Aug 11 2008 [ 136896 00] venom.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/eng/levels/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     91 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     57 02] .. 
+-r-xr-xr-x   1    0    0     263212 Sep 29 2008 [ 136944 00] legal.res 
+-r-xr-xr-x   1    0    0     263212 Sep 29 2008 [ 137088 00] legal_us.res 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    157 02] mission_00 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    158 02] mission_01 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    159 02] mission_02 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    160 02] mission_03 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    161 02] mission_04 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    162 02] mission_05 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    163 02] mission_06 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    164 02] mission_07 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    165 02] mission_08 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    166 02] mission_09 
+
+Directory listing of /PSP_GAME/USRDIR/loc/eng/movies/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     92 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     57 02] .. 
+-r-xr-xr-x   1    0    0    7997440 Sep 20 2007 [ 143952 00] puppetshow_2.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/loc/euk/movies/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     93 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     58 02] .. 
+-r-xr-xr-x   1    0    0    7997440 Sep 20 2007 [ 148240 00] puppetshow_2.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/loc/fre/characters/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     94 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     59 02] .. 
+-r-xr-xr-x   1    0    0      50532 Aug 11 2008 [ 152560 00] blackcat.res 
+-r-xr-xr-x   1    0    0      48152 Aug 11 2008 [ 152592 00] infected.res 
+-r-xr-xr-x   1    0    0      35256 Aug 11 2008 [ 152624 00] jackal.res 
+-r-xr-xr-x   1    0    0      34168 Aug 11 2008 [ 152656 00] kraven.res 
+-r-xr-xr-x   1    0    0      33892 Aug 11 2008 [ 152688 00] lukecage.res 
+dr-xr-xr-x   1    0    0       6144 Oct  3 2008 [    167 02] powerups 
+-r-xr-xr-x   1    0    0      35864 Aug 11 2008 [ 154016 00] rhino.res 
+-r-xr-xr-x   1    0    0      58184 Aug 11 2008 [ 154048 00] shocker.res 
+-r-xr-xr-x   1    0    0      80776 Aug 11 2008 [ 154080 00] spiderman.res 
+-r-xr-xr-x   1    0    0      94888 Aug 11 2008 [ 154128 00] venom.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/fre/levels/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     95 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     59 02] .. 
+-r-xr-xr-x   1    0    0     263212 Sep 29 2008 [ 154176 00] legal.res 
+-r-xr-xr-x   1    0    0     263212 Sep 29 2008 [ 154320 00] legal_us.res 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    170 02] mission_00 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    171 02] mission_01 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    172 02] mission_02 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    173 02] mission_03 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    174 02] mission_04 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    175 02] mission_05 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    176 02] mission_06 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    177 02] mission_07 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    178 02] mission_08 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    179 02] mission_09 
+
+Directory listing of /PSP_GAME/USRDIR/loc/fre/movies/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     96 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     59 02] .. 
+-r-xr-xr-x   1    0    0    7997440 Sep 20 2007 [ 160960 00] puppetshow_2.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ger/characters/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     97 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     60 02] .. 
+-r-xr-xr-x   1    0    0      50532 Aug 11 2008 [ 165264 00] blackcat.res 
+-r-xr-xr-x   1    0    0      48152 Aug 11 2008 [ 165296 00] infected.res 
+-r-xr-xr-x   1    0    0      35256 Aug 11 2008 [ 165328 00] jackal.res 
+-r-xr-xr-x   1    0    0      34168 Aug 11 2008 [ 165360 00] kraven.res 
+-r-xr-xr-x   1    0    0      33892 Aug 11 2008 [ 165392 00] lukecage.res 
+dr-xr-xr-x   1    0    0       6144 Oct  3 2008 [    180 02] powerups 
+-r-xr-xr-x   1    0    0      35864 Aug 11 2008 [ 166672 00] rhino.res 
+-r-xr-xr-x   1    0    0      58184 Aug 11 2008 [ 166704 00] shocker.res 
+-r-xr-xr-x   1    0    0      80776 Aug 11 2008 [ 166736 00] spiderman.res 
+-r-xr-xr-x   1    0    0      94888 Aug 11 2008 [ 166784 00] venom.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ger/levels/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     98 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     60 02] .. 
+-r-xr-xr-x   1    0    0     263212 Sep 29 2008 [ 166832 00] legal.res 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    183 02] mission_00 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    184 02] mission_01 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    185 02] mission_02 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    186 02] mission_03 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    187 02] mission_04 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    188 02] mission_05 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    189 02] mission_06 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    190 02] mission_07 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    191 02] mission_08 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    192 02] mission_09 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ger/movies/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     99 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     60 02] .. 
+-r-xr-xr-x   1    0    0    7997440 Sep 20 2007 [ 173824 00] puppetshow_2.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ita/characters/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    100 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     61 02] .. 
+-r-xr-xr-x   1    0    0      50532 Aug 11 2008 [ 178128 00] blackcat.res 
+-r-xr-xr-x   1    0    0      48152 Aug 11 2008 [ 178160 00] infected.res 
+-r-xr-xr-x   1    0    0      35256 Aug 11 2008 [ 178192 00] jackal.res 
+-r-xr-xr-x   1    0    0      34168 Aug 11 2008 [ 178224 00] kraven.res 
+-r-xr-xr-x   1    0    0      33892 Aug 11 2008 [ 178256 00] lukecage.res 
+dr-xr-xr-x   1    0    0       6144 Oct  3 2008 [    193 02] powerups 
+-r-xr-xr-x   1    0    0      35864 Aug 11 2008 [ 179536 00] rhino.res 
+-r-xr-xr-x   1    0    0      58184 Aug 11 2008 [ 179568 00] shocker.res 
+-r-xr-xr-x   1    0    0      80776 Aug 11 2008 [ 179600 00] spiderman.res 
+-r-xr-xr-x   1    0    0      94888 Aug 11 2008 [ 179648 00] venom.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ita/levels/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    101 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     61 02] .. 
+-r-xr-xr-x   1    0    0     263212 Sep 29 2008 [ 179696 00] legal.res 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    196 02] mission_00 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    197 02] mission_01 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    198 02] mission_02 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    199 02] mission_03 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    200 02] mission_04 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    201 02] mission_05 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    202 02] mission_06 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    203 02] mission_07 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    204 02] mission_08 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    205 02] mission_09 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ita/movies/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    102 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     61 02] .. 
+-r-xr-xr-x   1    0    0    7997440 Sep 20 2007 [ 186576 00] puppetshow_2.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/loc/spa/characters/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    103 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     62 02] .. 
+-r-xr-xr-x   1    0    0      50532 Aug 11 2008 [ 190880 00] blackcat.res 
+-r-xr-xr-x   1    0    0      48152 Aug 11 2008 [ 190912 00] infected.res 
+-r-xr-xr-x   1    0    0      35256 Aug 11 2008 [ 190944 00] jackal.res 
+-r-xr-xr-x   1    0    0      34168 Aug 11 2008 [ 190976 00] kraven.res 
+-r-xr-xr-x   1    0    0      33892 Aug 11 2008 [ 191008 00] lukecage.res 
+dr-xr-xr-x   1    0    0       6144 Oct  3 2008 [    206 02] powerups 
+-r-xr-xr-x   1    0    0      35864 Aug 11 2008 [ 192304 00] rhino.res 
+-r-xr-xr-x   1    0    0      58184 Aug 11 2008 [ 192336 00] shocker.res 
+-r-xr-xr-x   1    0    0      80776 Aug 11 2008 [ 192368 00] spiderman.res 
+-r-xr-xr-x   1    0    0      94888 Aug 11 2008 [ 192416 00] venom.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/spa/levels/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    104 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     62 02] .. 
+-r-xr-xr-x   1    0    0     263212 Sep 29 2008 [ 192464 00] legal.res 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    209 02] mission_00 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    210 02] mission_01 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    211 02] mission_02 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    212 02] mission_03 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    213 02] mission_04 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    214 02] mission_05 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    215 02] mission_06 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    216 02] mission_07 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    217 02] mission_08 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    218 02] mission_09 
+
+Directory listing of /PSP_GAME/USRDIR/loc/spa/movies/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    105 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     62 02] .. 
+-r-xr-xr-x   1    0    0    7997440 Sep 20 2007 [ 199264 00] puppetshow_2.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_00/01_rooftops/script/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    106 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     67 02] .. 
+-r-xr-xr-x   1    0    0     215416 Aug 21 2008 [  76848 00] default.res 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_00/01_rooftops/soundevents/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    107 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     67 02] .. 
+-r-xr-xr-x   1    0    0     555696 Aug 17 2008 [  76960 00] amb_sfx.fsb 
+-r-xr-xr-x   1    0    0       7621 Aug 17 2008 [  77232 00] mission_00.fev 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_00/02_venom/script/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    108 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     68 02] .. 
+-r-xr-xr-x   1    0    0      82072 Aug  8 2008 [  78496 00] default.res 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_00/02_venom/soundevents/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    109 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     68 02] .. 
+-r-xr-xr-x   1    0    0     555696 Aug 17 2008 [  78544 00] amb_sfx.fsb 
+-r-xr-xr-x   1    0    0       7337 Aug 17 2008 [  78816 00] mission_00.fev 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_01/01_fifthavenue/script/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    110 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     69 02] .. 
+-r-xr-xr-x   1    0    0     147160 Aug 17 2008 [  81168 00] default.res 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_01/01_fifthavenue/soundevents/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    111 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     69 02] .. 
+-r-xr-xr-x   1    0    0     265408 Aug 18 2008 [  81248 00] amb_sfx.fsb 
+-r-xr-xr-x   1    0    0       6816 Aug 18 2008 [  81392 00] mission_01.fev 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_01/01_hotel/script/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    112 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     70 02] .. 
+-r-xr-xr-x   1    0    0     237496 Sep 29 2008 [  84352 00] default.res 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_01/01_hotel/soundevents/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    113 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     70 02] .. 
+-r-xr-xr-x   1    0    0     469296 Aug 17 2008 [  84480 00] amb_sfx.fsb 
+-r-xr-xr-x   1    0    0       5840 Aug 17 2008 [  84720 00] mission_01.fev 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_01/02_townhouse/script/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    114 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     71 02] .. 
+-r-xr-xr-x   1    0    0      87224 Aug 22 2008 [  86384 00] default.res 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_01/02_townhouse/soundevents/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    115 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     71 02] .. 
+-r-xr-xr-x   1    0    0     424176 Aug 17 2008 [  86432 00] amb_sfx.fsb 
+-r-xr-xr-x   1    0    0       5443 Aug 17 2008 [  86640 00] mission_01_townhouse.fev 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_02/01_subway/script/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    116 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     72 02] .. 
+-r-xr-xr-x   1    0    0     308952 Sep 29 2008 [  89088 00] default.res 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_02/01_subway/soundevents/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    117 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     72 02] .. 
+-r-xr-xr-x   1    0    0     365744 Sep 29 2008 [  89248 00] amb_sfx.fsb 
+-r-xr-xr-x   1    0    0       4650 Sep 29 2008 [  89440 00] mission_02_subway.fev 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_03/01_base/script/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    118 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     73 02] .. 
+-r-xr-xr-x   1    0    0     183576 Aug 13 2008 [  91776 00] default.res 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_03/01_base/soundevents/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    119 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     73 02] .. 
+-r-xr-xr-x   1    0    0     411568 Aug 20 2008 [  91872 00] amb_sfx.fsb 
+-r-xr-xr-x   1    0    0       5061 Aug 20 2008 [  92080 00] mission_03_base.fev 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_03/02_vault/script/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    120 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     74 02] .. 
+-r-xr-xr-x   1    0    0     212184 Aug 18 2008 [  94080 00] default.res 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_03/02_vault/soundevents/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    121 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     74 02] .. 
+-r-xr-xr-x   1    0    0     569024 Aug 20 2008 [  94192 00] amb_sfx.fsb 
+-r-xr-xr-x   1    0    0       4683 Jul 28 2008 [  94480 00] mission_03_base.fev 
+-r-xr-xr-x   1    0    0       5174 Aug 20 2008 [  94496 00] mission_03_vault.fev 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_04/01_harlem/script/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    122 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     75 02] .. 
+-r-xr-xr-x   1    0    0     254136 Aug 18 2008 [  96560 00] default.res 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_04/01_harlem/soundevents/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    123 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     75 02] .. 
+-r-xr-xr-x   1    0    0     562848 Aug 17 2008 [  96688 00] amb_sfx.fsb 
+-r-xr-xr-x   1    0    0       8827 Aug 17 2008 [  96976 00] mission_04_harlem.fev 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_04/02_harlem/script/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    124 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     76 02] .. 
+-r-xr-xr-x   1    0    0     329400 Aug 20 2008 [  99136 00] default.res 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_04/02_harlem/soundevents/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    125 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     76 02] .. 
+-r-xr-xr-x   1    0    0     562848 Aug 17 2008 [  99312 00] amb_sfx.fsb 
+-r-xr-xr-x   1    0    0       8827 Aug 17 2008 [  99600 00] mission_04_harlem.fev 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_05/01_warehouse/script/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    126 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     77 02] .. 
+-r-xr-xr-x   1    0    0     253016 Sep 29 2008 [ 102576 00] default.res 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_05/01_warehouse/soundevents/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    127 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     77 02] .. 
+-r-xr-xr-x   1    0    0    1084064 Aug 18 2008 [ 102704 00] amb_sfx.fsb 
+-r-xr-xr-x   1    0    0      10245 Aug 18 2008 [ 103248 00] mission_05_warehouse.fev 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_05/02_lair/script/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    128 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     78 02] .. 
+-r-xr-xr-x   1    0    0     148280 Aug 13 2008 [ 105712 00] default.res 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_05/02_lair/soundevents/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    129 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     78 02] .. 
+-r-xr-xr-x   1    0    0     413904 Aug 18 2008 [ 105792 00] amb_sfx.fsb 
+-r-xr-xr-x   1    0    0       6252 Aug 18 2008 [ 106000 00] mission_05_lair.fev 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_06/01_helicarrier/script/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    130 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     79 02] .. 
+-r-xr-xr-x   1    0    0     348408 Sep 29 2008 [ 108352 00] default.res 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_06/01_helicarrier/soundevents/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    131 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     79 02] .. 
+-r-xr-xr-x   1    0    0     321200 Aug 18 2008 [ 108528 00] amb_sfx.fsb 
+-r-xr-xr-x   1    0    0       5035 Aug 18 2008 [ 108688 00] mission_06_helicarrier.fev 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_06/01_helicarrier/whitebox/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    132 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     79 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    219 02] script 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_06/02_helicarrier/script/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    133 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     80 02] .. 
+-r-xr-xr-x   1    0    0     157016 Aug 14 2008 [ 112096 00] default.res 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_06/02_helicarrier/soundevents/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    134 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     80 02] .. 
+-r-xr-xr-x   1    0    0     321200 Aug 18 2008 [ 112176 00] amb_sfx.fsb 
+-r-xr-xr-x   1    0    0       5228 Jul 21 2008 [ 112336 00] mission_06_helicarrier.fev 
+-r-xr-xr-x   1    0    0       5038 Aug 18 2008 [ 112352 00] mission_06_helicarrier_02.fev 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_06/02_helicarrier/whitebox/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    135 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     80 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    220 02] script 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_06/03_lab_12/script/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    136 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     81 02] .. 
+-r-xr-xr-x   1    0    0      49112 Aug 12 2008 [ 114800 00] default.res 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_06/03_lab_12/soundevents/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    137 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     81 02] .. 
+-r-xr-xr-x   1    0    0     321200 Aug 17 2008 [ 114832 00] amb_sfx.fsb 
+-r-xr-xr-x   1    0    0       5035 Aug 17 2008 [ 114992 00] mission_06_helicarrier.fev 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_06/03_lab_12/whitebox/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    138 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     81 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    221 02] script 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_07/01_hellskitchen/script/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    139 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     82 02] .. 
+-r-xr-xr-x   1    0    0     502232 Sep 29 2008 [ 117264 00] default.res 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_07/01_hellskitchen/soundevents/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    140 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     82 02] .. 
+-r-xr-xr-x   1    0    0     839616 Aug 22 2008 [ 117520 00] amb_sfx.fsb 
+-r-xr-xr-x   1    0    0       9923 Aug 22 2008 [ 117936 00] mission_07_hells_kitchen.fev 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_07/02_roof_n_apartments/script/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    141 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     83 02] .. 
+-r-xr-xr-x   1    0    0     286648 Aug 12 2008 [ 120448 00] default.res 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_07/02_roof_n_apartments/soundevents/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    142 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     83 02] .. 
+-r-xr-xr-x   1    0    0     393936 Aug 22 2008 [ 120592 00] amb_sfx.fsb 
+-r-xr-xr-x   1    0    0       8622 Aug 22 2008 [ 120800 00] mission_07_roof.fev 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_07/03_library_boss/script/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    143 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     84 02] .. 
+-r-xr-xr-x   1    0    0     238520 Aug 12 2008 [ 123008 00] default.res 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_07/03_library_boss/soundevents/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    144 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     84 02] .. 
+-r-xr-xr-x   1    0    0     393936 Aug 22 2008 [ 123136 00] amb_sfx.fsb 
+-r-xr-xr-x   1    0    0       8625 Aug 22 2008 [ 123344 00] mission_07_library.fev 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_08/01_tower/script/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    145 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     85 02] .. 
+-r-xr-xr-x   1    0    0     133880 Aug 20 2008 [ 125712 00] default.res 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_08/01_tower/soundevents/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    146 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     85 02] .. 
+-r-xr-xr-x   1    0    0     483760 Aug 20 2008 [ 125792 00] amb_sfx.fsb 
+-r-xr-xr-x   1    0    0       8643 Aug 20 2008 [ 126032 00] mission_08_tower.fev 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_08/02_roof/script/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    147 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     86 02] .. 
+-r-xr-xr-x   1    0    0     123512 Aug 14 2008 [ 127760 00] default.res 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_08/02_roof/soundevents/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    148 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     86 02] .. 
+-r-xr-xr-x   1    0    0     460976 Aug 14 2008 [ 127824 00] amb_sfx.fsb 
+-r-xr-xr-x   1    0    0      12161 Aug 14 2008 [ 128064 00] mission_08_tower.fev 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_09/01_centralpark/script/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    149 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     87 02] .. 
+-r-xr-xr-x   1    0    0     406904 Sep 29 2008 [ 130816 00] default.res 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_09/01_centralpark/soundevents/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    150 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     87 02] .. 
+-r-xr-xr-x   1    0    0     617728 Aug 20 2008 [ 131024 00] amb_sfx.fsb 
+-r-xr-xr-x   1    0    0      10559 Aug 20 2008 [ 131328 00] mission_09_centralpark.fev 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_09/02_collective/script/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    151 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     88 02] .. 
+-r-xr-xr-x   1    0    0      77208 Aug 17 2008 [ 132912 00] default.res 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_09/02_collective/soundevents/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    152 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     88 02] .. 
+-r-xr-xr-x   1    0    0     470768 Aug 17 2008 [ 132960 00] amb_sfx.fsb 
+-r-xr-xr-x   1    0    0      10316 Aug 17 2008 [ 133200 00] mission_09_centralpark.fev 
+
+Directory listing of /PSP_GAME/USRDIR/levels/z_test_levels/test_enemies/script/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    153 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     89 02] .. 
+-r-xr-xr-x   1    0    0      25432 Jul 21 2008 [ 134928 00] default.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/eng/characters/powerups/
+dr-xr-xr-x   1    0    0       6144 Oct  3 2008 [    154 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     90 02] .. 
+-r-xr-xr-x   1    0    0       6844 Aug 11 2008 [ 135472 00] blackcloud.res 
+-r-xr-xr-x   1    0    0      33532 Aug 11 2008 [ 135488 00] damageincrease1.res 
+-r-xr-xr-x   1    0    0      33532 Aug 11 2008 [ 135520 00] damageincrease2.res 
+-r-xr-xr-x   1    0    0      33532 Aug 11 2008 [ 135552 00] damageincrease3.res 
+-r-xr-xr-x   1    0    0      14236 Aug 11 2008 [ 135584 00] damageincrease4.res 
+-r-xr-xr-x   1    0    0      14236 Aug 11 2008 [ 135600 00] damageincrease5.res 
+-r-xr-xr-x   1    0    0      16540 Aug 11 2008 [ 135616 00] damagereduction1.res 
+-r-xr-xr-x   1    0    0      16540 Aug 11 2008 [ 135632 00] damagereduction2.res 
+-r-xr-xr-x   1    0    0      19580 Aug 11 2008 [ 135648 00] damagereduction3.res 
+-r-xr-xr-x   1    0    0      16540 Aug 11 2008 [ 135664 00] damagereduction4.res 
+-r-xr-xr-x   1    0    0      19580 Aug 11 2008 [ 135680 00] damagereduction5.res 
+-r-xr-xr-x   1    0    0       9980 Aug 11 2008 [ 135696 00] hammerhands1.res 
+-r-xr-xr-x   1    0    0       9980 Aug 11 2008 [ 135712 00] hammerhands2.res 
+-r-xr-xr-x   1    0    0       9980 Aug 11 2008 [ 135728 00] hammerhands3.res 
+-r-xr-xr-x   1    0    0      14300 Aug 11 2008 [ 135744 00] healdamage1.res 
+-r-xr-xr-x   1    0    0      21084 Aug 11 2008 [ 135760 00] healdamage2.res 
+-r-xr-xr-x   1    0    0      15132 Aug 11 2008 [ 135776 00] healdamage3.res 
+-r-xr-xr-x   1    0    0       9916 Aug 11 2008 [ 135792 00] healdamage4.res 
+-r-xr-xr-x   1    0    0       9916 Aug 11 2008 [ 135808 00] healdamage5.res 
+-r-xr-xr-x   1    0    0       9628 Aug 11 2008 [ 135824 00] invincible.res 
+-r-xr-xr-x   1    0    0      16604 Aug 11 2008 [ 135840 00] knockbackimmunity1.res 
+-r-xr-xr-x   1    0    0      16604 Aug 11 2008 [ 135856 00] knockbackimmunity2.res 
+-r-xr-xr-x   1    0    0      22364 Aug 11 2008 [ 135872 00] knockbackimmunity3.res 
+-r-xr-xr-x   1    0    0      16604 Aug 11 2008 [ 135888 00] knockbackimmunity4.res 
+-r-xr-xr-x   1    0    0      22364 Aug 11 2008 [ 135904 00] knockbackimmunity5.res 
+-r-xr-xr-x   1    0    0       9020 Aug 11 2008 [ 135920 00] poisonweb1.res 
+-r-xr-xr-x   1    0    0       9020 Aug 11 2008 [ 135936 00] poisonweb2.res 
+-r-xr-xr-x   1    0    0       9020 Aug 11 2008 [ 135952 00] poisonweb3.res 
+-r-xr-xr-x   1    0    0       9020 Aug 11 2008 [ 135968 00] poisonweb4.res 
+-r-xr-xr-x   1    0    0       9020 Aug 11 2008 [ 135984 00] poisonweb5.res 
+-r-xr-xr-x   1    0    0      21116 Aug 11 2008 [ 136000 00] rangeimmunity1.res 
+-r-xr-xr-x   1    0    0      29212 Aug 11 2008 [ 136016 00] rangeimmunity2.res 
+-r-xr-xr-x   1    0    0      21116 Aug 11 2008 [ 136032 00] rangeimmunity3.res 
+-r-xr-xr-x   1    0    0      29212 Aug 11 2008 [ 136048 00] rangeimmunity4.res 
+-r-xr-xr-x   1    0    0      29212 Aug 11 2008 [ 136064 00] rangeimmunity5.res 
+-r-xr-xr-x   1    0    0      16412 Aug 11 2008 [ 136080 00] regenerationspeed1.res 
+-r-xr-xr-x   1    0    0      16284 Aug 11 2008 [ 136096 00] regenerationspeed2.res 
+-r-xr-xr-x   1    0    0      16284 Aug 11 2008 [ 136112 00] regenerationspeed3.res 
+-r-xr-xr-x   1    0    0      16412 Aug 11 2008 [ 136128 00] regenerationspeed4.res 
+-r-xr-xr-x   1    0    0      16284 Aug 11 2008 [ 136144 00] regenerationspeed5.res 
+-r-xr-xr-x   1    0    0      15516 Aug 11 2008 [ 136160 00] spiderarmor1.res 
+-r-xr-xr-x   1    0    0      12508 Aug 11 2008 [ 136176 00] spiderarmor2.res 
+-r-xr-xr-x   1    0    0      12508 Aug 11 2008 [ 136192 00] spiderarmor3.res 
+-r-xr-xr-x   1    0    0      15516 Aug 11 2008 [ 136208 00] spiderarmor4.res 
+-r-xr-xr-x   1    0    0      12508 Aug 11 2008 [ 136224 00] spiderarmor5.res 
+-r-xr-xr-x   1    0    0      15932 Aug 11 2008 [ 136240 00] spikeshield1.res 
+-r-xr-xr-x   1    0    0      15932 Aug 11 2008 [ 136256 00] spikeshield2.res 
+-r-xr-xr-x   1    0    0      11356 Aug 11 2008 [ 136272 00] spikeshield3.res 
+-r-xr-xr-x   1    0    0      15932 Aug 11 2008 [ 136288 00] spikeshield4.res 
+-r-xr-xr-x   1    0    0      11356 Aug 11 2008 [ 136304 00] spikeshield5.res 
+-r-xr-xr-x   1    0    0      17884 Aug 11 2008 [ 136320 00] summon_bigwheel.res 
+-r-xr-xr-x   1    0    0      16060 Aug 11 2008 [ 136336 00] summon_blackcat.res 
+-r-xr-xr-x   1    0    0      25756 Sep 29 2008 [ 136352 00] summon_cheknkau.res 
+-r-xr-xr-x   1    0    0      10364 Aug 11 2008 [ 136368 00] summon_citizens.res 
+-r-xr-xr-x   1    0    0      34684 Aug 11 2008 [ 136384 00] summon_galactus.res 
+-r-xr-xr-x   1    0    0      35740 Aug 11 2008 [ 136416 00] summon_hobgoblin.res 
+-r-xr-xr-x   1    0    0      23132 Aug 11 2008 [ 136448 00] summon_hypnohustler.res 
+-r-xr-xr-x   1    0    0      15996 Aug 11 2008 [ 136464 00] summon_jessicadrew.res 
+-r-xr-xr-x   1    0    0      10108 Aug 11 2008 [ 136480 00] summon_lukecage.res 
+-r-xr-xr-x   1    0    0      16860 Aug 11 2008 [ 136496 00] summon_moonknight.res 
+-r-xr-xr-x   1    0    0      25052 Aug 11 2008 [ 136512 00] summon_mysterio.res 
+-r-xr-xr-x   1    0    0      14012 Aug 11 2008 [ 136528 00] summon_nightcrawler.res 
+-r-xr-xr-x   1    0    0      36444 Aug 11 2008 [ 136544 00] summon_professorx.res 
+-r-xr-xr-x   1    0    0      35548 Aug 11 2008 [ 136576 00] summon_sandman.res 
+-r-xr-xr-x   1    0    0      21212 Aug 11 2008 [ 136608 00] summon_shocker.res 
+-r-xr-xr-x   1    0    0      15036 Aug 11 2008 [ 136624 00] summon_stiltman.res 
+-r-xr-xr-x   1    0    0      27740 Aug 11 2008 [ 136640 00] summon_storm.res 
+-r-xr-xr-x   1    0    0      12412 Aug 11 2008 [ 136656 00] summon_wolverine.res 
+-r-xr-xr-x   1    0    0      14204 Aug 11 2008 [ 136672 00] summonichor.res 
+-r-xr-xr-x   1    0    0       7644 Aug 11 2008 [ 136688 00] webcocoon1.res 
+-r-xr-xr-x   1    0    0       7644 Aug 11 2008 [ 136704 00] webcocoon2.res 
+-r-xr-xr-x   1    0    0      21916 Aug 11 2008 [ 136720 00] webcocoon3.res 
+-r-xr-xr-x   1    0    0       7644 Aug 11 2008 [ 136736 00] webcocoon4.res 
+-r-xr-xr-x   1    0    0       7644 Aug 11 2008 [ 136752 00] webcocoon5.res 
+-r-xr-xr-x   1    0    0       8508 Aug 11 2008 [ 136768 00] websplatter.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/eng/levels/mission_00/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    157 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     91 02] .. 
+-r-xr-xr-x   1    0    0     774488 Aug 11 2008 [ 137232 00] 01_rooftops.res 
+-r-xr-xr-x   1    0    0     539964 Aug 11 2008 [ 137616 00] 02_venom.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/eng/levels/mission_01/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    158 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     91 02] .. 
+-r-xr-xr-x   1    0    0     308228 Aug 11 2008 [ 137888 00] 01_fifthavenue.res 
+-r-xr-xr-x   1    0    0     219236 Aug 11 2008 [ 138048 00] 01_hotel.res 
+-r-xr-xr-x   1    0    0     537788 Aug 11 2008 [ 138160 00] 02_townhouse.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/eng/levels/mission_02/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    159 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     91 02] .. 
+-r-xr-xr-x   1    0    0    1134840 Aug 11 2008 [ 138432 00] 01_subway.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/eng/levels/mission_03/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    160 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     91 02] .. 
+-r-xr-xr-x   1    0    0    1209344 Aug 11 2008 [ 138992 00] 01_base.res 
+-r-xr-xr-x   1    0    0    1292992 Aug 11 2008 [ 139584 00] 02_vault.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/eng/levels/mission_04/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    161 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     91 02] .. 
+-r-xr-xr-x   1    0    0     606740 Aug 11 2008 [ 140224 00] 01_harlem.res 
+-r-xr-xr-x   1    0    0     958668 Aug 11 2008 [ 140528 00] 02_harlem.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/eng/levels/mission_05/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    162 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     91 02] .. 
+-r-xr-xr-x   1    0    0     426728 Aug 11 2008 [ 141008 00] 01_warehouse.res 
+-r-xr-xr-x   1    0    0     549188 Aug 11 2008 [ 141232 00] 02_lair.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/eng/levels/mission_06/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    163 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     91 02] .. 
+-r-xr-xr-x   1    0    0     348952 Aug 11 2008 [ 141504 00] 01_helicarrier.res 
+-r-xr-xr-x   1    0    0     309712 Aug 11 2008 [ 141680 00] 02_helicarrier.res 
+-r-xr-xr-x   1    0    0     536176 Aug 11 2008 [ 141840 00] 03_lab_12.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/eng/levels/mission_07/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    164 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     91 02] .. 
+-r-xr-xr-x   1    0    0     506528 Aug 11 2008 [ 142112 00] 01_hellskitchen.res 
+-r-xr-xr-x   1    0    0     318364 Aug 11 2008 [ 142368 00] 02_roof_n_apartments.res 
+-r-xr-xr-x   1    0    0     672032 Aug 11 2008 [ 142528 00] 03_library_boss.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/eng/levels/mission_08/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    165 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     91 02] .. 
+-r-xr-xr-x   1    0    0     262836 Aug 11 2008 [ 142864 00] 01_tower.res 
+-r-xr-xr-x   1    0    0     841108 Aug 11 2008 [ 143008 00] 02_roof.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/eng/levels/mission_09/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    166 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     91 02] .. 
+-r-xr-xr-x   1    0    0     615188 Aug 11 2008 [ 143424 00] 01_centralpark.res 
+-r-xr-xr-x   1    0    0     428832 Aug 11 2008 [ 143728 00] 02_collective.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/fre/characters/powerups/
+dr-xr-xr-x   1    0    0       6144 Oct  3 2008 [    167 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     94 02] .. 
+-r-xr-xr-x   1    0    0       5308 Aug 11 2008 [ 152720 00] blackcloud.res 
+-r-xr-xr-x   1    0    0      34204 Aug 11 2008 [ 152736 00] damageincrease1.res 
+-r-xr-xr-x   1    0    0      34204 Aug 11 2008 [ 152768 00] damageincrease2.res 
+-r-xr-xr-x   1    0    0      34204 Aug 11 2008 [ 152800 00] damageincrease3.res 
+-r-xr-xr-x   1    0    0      15740 Aug 11 2008 [ 152832 00] damageincrease4.res 
+-r-xr-xr-x   1    0    0      15740 Aug 11 2008 [ 152848 00] damageincrease5.res 
+-r-xr-xr-x   1    0    0      17436 Aug 11 2008 [ 152864 00] damagereduction1.res 
+-r-xr-xr-x   1    0    0      47904 Aug 11 2008 [ 152880 00] damagereduction2.res 
+-r-xr-xr-x   1    0    0      15196 Aug 11 2008 [ 152912 00] damagereduction3.res 
+-r-xr-xr-x   1    0    0      17436 Aug 11 2008 [ 152928 00] damagereduction4.res 
+-r-xr-xr-x   1    0    0      15196 Aug 11 2008 [ 152944 00] damagereduction5.res 
+-r-xr-xr-x   1    0    0       8988 Aug 11 2008 [ 152960 00] hammerhands1.res 
+-r-xr-xr-x   1    0    0       8988 Aug 11 2008 [ 152976 00] hammerhands2.res 
+-r-xr-xr-x   1    0    0       8988 Aug 11 2008 [ 152992 00] hammerhands3.res 
+-r-xr-xr-x   1    0    0      13340 Aug 11 2008 [ 153008 00] healdamage1.res 
+-r-xr-xr-x   1    0    0      15068 Aug 11 2008 [ 153024 00] healdamage2.res 
+-r-xr-xr-x   1    0    0      13340 Aug 11 2008 [ 153040 00] healdamage3.res 
+-r-xr-xr-x   1    0    0       7868 Aug 11 2008 [ 153056 00] healdamage4.res 
+-r-xr-xr-x   1    0    0       7868 Aug 11 2008 [ 153072 00] healdamage5.res 
+-r-xr-xr-x   1    0    0      10044 Aug 11 2008 [ 153088 00] invincible.res 
+-r-xr-xr-x   1    0    0      13628 Aug 11 2008 [ 153104 00] knockbackimmunity1.res 
+-r-xr-xr-x   1    0    0      13628 Aug 11 2008 [ 153120 00] knockbackimmunity2.res 
+-r-xr-xr-x   1    0    0      20860 Aug 11 2008 [ 153136 00] knockbackimmunity3.res 
+-r-xr-xr-x   1    0    0      13628 Aug 11 2008 [ 153152 00] knockbackimmunity4.res 
+-r-xr-xr-x   1    0    0      20860 Aug 11 2008 [ 153168 00] knockbackimmunity5.res 
+-r-xr-xr-x   1    0    0       8636 Aug 11 2008 [ 153184 00] poisonweb1.res 
+-r-xr-xr-x   1    0    0       8636 Aug 11 2008 [ 153200 00] poisonweb2.res 
+-r-xr-xr-x   1    0    0       8636 Aug 11 2008 [ 153216 00] poisonweb3.res 
+-r-xr-xr-x   1    0    0       8636 Aug 11 2008 [ 153232 00] poisonweb4.res 
+-r-xr-xr-x   1    0    0       8636 Aug 11 2008 [ 153248 00] poisonweb5.res 
+-r-xr-xr-x   1    0    0      20412 Aug 11 2008 [ 153264 00] rangeimmunity1.res 
+-r-xr-xr-x   1    0    0      23260 Aug 11 2008 [ 153280 00] rangeimmunity2.res 
+-r-xr-xr-x   1    0    0      20412 Aug 11 2008 [ 153296 00] rangeimmunity3.res 
+-r-xr-xr-x   1    0    0      23260 Aug 11 2008 [ 153312 00] rangeimmunity4.res 
+-r-xr-xr-x   1    0    0      23260 Aug 11 2008 [ 153328 00] rangeimmunity5.res 
+-r-xr-xr-x   1    0    0      11548 Aug 11 2008 [ 153344 00] regenerationspeed1.res 
+-r-xr-xr-x   1    0    0      11836 Aug 11 2008 [ 153360 00] regenerationspeed2.res 
+-r-xr-xr-x   1    0    0      11836 Aug 11 2008 [ 153376 00] regenerationspeed3.res 
+-r-xr-xr-x   1    0    0      11548 Aug 11 2008 [ 153392 00] regenerationspeed4.res 
+-r-xr-xr-x   1    0    0      11836 Aug 11 2008 [ 153408 00] regenerationspeed5.res 
+-r-xr-xr-x   1    0    0      14780 Aug 11 2008 [ 153424 00] spiderarmor1.res 
+-r-xr-xr-x   1    0    0      10396 Aug 11 2008 [ 153440 00] spiderarmor2.res 
+-r-xr-xr-x   1    0    0      10396 Aug 11 2008 [ 153456 00] spiderarmor3.res 
+-r-xr-xr-x   1    0    0      14780 Aug 11 2008 [ 153472 00] spiderarmor4.res 
+-r-xr-xr-x   1    0    0      10396 Aug 11 2008 [ 153488 00] spiderarmor5.res 
+-r-xr-xr-x   1    0    0      16028 Aug 11 2008 [ 153504 00] spikeshield1.res 
+-r-xr-xr-x   1    0    0      16028 Aug 11 2008 [ 153520 00] spikeshield2.res 
+-r-xr-xr-x   1    0    0       8668 Aug 11 2008 [ 153536 00] spikeshield3.res 
+-r-xr-xr-x   1    0    0      16028 Aug 11 2008 [ 153552 00] spikeshield4.res 
+-r-xr-xr-x   1    0    0       8668 Aug 11 2008 [ 153568 00] spikeshield5.res 
+-r-xr-xr-x   1    0    0      18556 Aug 11 2008 [ 153584 00] summon_bigwheel.res 
+-r-xr-xr-x   1    0    0      24252 Aug 11 2008 [ 153600 00] summon_blackcat.res 
+-r-xr-xr-x   1    0    0      24156 Aug 11 2008 [ 153616 00] summon_cheknkau.res 
+-r-xr-xr-x   1    0    0      11484 Aug 11 2008 [ 153632 00] summon_citizens.res 
+-r-xr-xr-x   1    0    0      30684 Aug 11 2008 [ 153648 00] summon_galactus.res 
+-r-xr-xr-x   1    0    0      27484 Aug 11 2008 [ 153664 00] summon_hobgoblin.res 
+-r-xr-xr-x   1    0    0      25116 Aug 11 2008 [ 153680 00] summon_hypnohustler.res 
+-r-xr-xr-x   1    0    0      16348 Aug 11 2008 [ 153696 00] summon_jessicadrew.res 
+-r-xr-xr-x   1    0    0      11644 Aug 11 2008 [ 153712 00] summon_lukecage.res 
+-r-xr-xr-x   1    0    0      17404 Aug 11 2008 [ 153728 00] summon_moonknight.res 
+-r-xr-xr-x   1    0    0      24732 Aug 11 2008 [ 153744 00] summon_mysterio.res 
+-r-xr-xr-x   1    0    0      13660 Aug 11 2008 [ 153760 00] summon_nightcrawler.res 
+-r-xr-xr-x   1    0    0      33148 Aug 11 2008 [ 153776 00] summon_professorx.res 
+-r-xr-xr-x   1    0    0      33308 Aug 11 2008 [ 153808 00] summon_sandman.res 
+-r-xr-xr-x   1    0    0      16188 Aug 11 2008 [ 153840 00] summon_shocker.res 
+-r-xr-xr-x   1    0    0      12892 Aug 11 2008 [ 153856 00] summon_stiltman.res 
+-r-xr-xr-x   1    0    0      30620 Aug 11 2008 [ 153872 00] summon_storm.res 
+-r-xr-xr-x   1    0    0      11420 Aug 11 2008 [ 153888 00] summon_wolverine.res 
+-r-xr-xr-x   1    0    0      15708 Aug 11 2008 [ 153904 00] summonichor.res 
+-r-xr-xr-x   1    0    0       6812 Aug 11 2008 [ 153920 00] webcocoon1.res 
+-r-xr-xr-x   1    0    0       6812 Aug 11 2008 [ 153936 00] webcocoon2.res 
+-r-xr-xr-x   1    0    0      21468 Aug 11 2008 [ 153952 00] webcocoon3.res 
+-r-xr-xr-x   1    0    0       6812 Aug 11 2008 [ 153968 00] webcocoon4.res 
+-r-xr-xr-x   1    0    0       6812 Aug 11 2008 [ 153984 00] webcocoon5.res 
+-r-xr-xr-x   1    0    0       6332 Aug 11 2008 [ 154000 00] websplatter.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/fre/levels/mission_00/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    170 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     95 02] .. 
+-r-xr-xr-x   1    0    0     767576 Aug 11 2008 [ 154464 00] 01_rooftops.res 
+-r-xr-xr-x   1    0    0     521884 Aug 11 2008 [ 154848 00] 02_venom.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/fre/levels/mission_01/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    171 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     95 02] .. 
+-r-xr-xr-x   1    0    0     303940 Aug 11 2008 [ 155104 00] 01_fifthavenue.res 
+-r-xr-xr-x   1    0    0     220548 Aug 11 2008 [ 155264 00] 01_hotel.res 
+-r-xr-xr-x   1    0    0     514556 Aug 11 2008 [ 155376 00] 02_townhouse.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/fre/levels/mission_02/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    172 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     95 02] .. 
+-r-xr-xr-x   1    0    0    1084056 Aug 11 2008 [ 155632 00] 01_subway.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/fre/levels/mission_03/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    173 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     95 02] .. 
+-r-xr-xr-x   1    0    0    1153344 Aug 11 2008 [ 156176 00] 01_base.res 
+-r-xr-xr-x   1    0    0    1236992 Aug 11 2008 [ 156752 00] 02_vault.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/fre/levels/mission_04/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    174 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     95 02] .. 
+-r-xr-xr-x   1    0    0     585140 Aug 11 2008 [ 157360 00] 01_harlem.res 
+-r-xr-xr-x   1    0    0     933004 Aug 11 2008 [ 157648 00] 02_harlem.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/fre/levels/mission_05/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    175 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     95 02] .. 
+-r-xr-xr-x   1    0    0     419432 Aug 11 2008 [ 158112 00] 01_warehouse.res 
+-r-xr-xr-x   1    0    0     531044 Aug 11 2008 [ 158320 00] 02_lair.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/fre/levels/mission_06/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    176 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     95 02] .. 
+-r-xr-xr-x   1    0    0     336792 Aug 11 2008 [ 158592 00] 01_helicarrier.res 
+-r-xr-xr-x   1    0    0     302448 Aug 11 2008 [ 158768 00] 02_helicarrier.res 
+-r-xr-xr-x   1    0    0     501584 Aug 11 2008 [ 158928 00] 03_lab_12.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/fre/levels/mission_07/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    177 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     95 02] .. 
+-r-xr-xr-x   1    0    0     487808 Aug 11 2008 [ 159184 00] 01_hellskitchen.res 
+-r-xr-xr-x   1    0    0     310876 Aug 11 2008 [ 159424 00] 02_roof_n_apartments.res 
+-r-xr-xr-x   1    0    0     663424 Aug 11 2008 [ 159584 00] 03_library_boss.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/fre/levels/mission_08/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    178 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     95 02] .. 
+-r-xr-xr-x   1    0    0     266356 Aug 11 2008 [ 159920 00] 01_tower.res 
+-r-xr-xr-x   1    0    0     791988 Aug 11 2008 [ 160064 00] 02_roof.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/fre/levels/mission_09/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    179 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     95 02] .. 
+-r-xr-xr-x   1    0    0     584084 Aug 11 2008 [ 160464 00] 01_centralpark.res 
+-r-xr-xr-x   1    0    0     416544 Aug 11 2008 [ 160752 00] 02_collective.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ger/characters/powerups/
+dr-xr-xr-x   1    0    0       6144 Oct  3 2008 [    180 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     97 02] .. 
+-r-xr-xr-x   1    0    0       8764 Aug 11 2008 [ 165424 00] blackcloud.res 
+-r-xr-xr-x   1    0    0      32412 Aug 11 2008 [ 165440 00] damageincrease1.res 
+-r-xr-xr-x   1    0    0      32412 Aug 11 2008 [ 165456 00] damageincrease2.res 
+-r-xr-xr-x   1    0    0      32412 Aug 11 2008 [ 165472 00] damageincrease3.res 
+-r-xr-xr-x   1    0    0      18268 Aug 11 2008 [ 165488 00] damageincrease4.res 
+-r-xr-xr-x   1    0    0      18268 Aug 12 2008 [ 165504 00] damageincrease5.res 
+-r-xr-xr-x   1    0    0      17660 Aug 12 2008 [ 165520 00] damagereduction1.res 
+-r-xr-xr-x   1    0    0      46784 Aug 12 2008 [ 165536 00] damagereduction2.res 
+-r-xr-xr-x   1    0    0      22460 Aug 12 2008 [ 165568 00] damagereduction3.res 
+-r-xr-xr-x   1    0    0      17660 Aug 12 2008 [ 165584 00] damagereduction4.res 
+-r-xr-xr-x   1    0    0      22460 Aug 12 2008 [ 165600 00] damagereduction5.res 
+-r-xr-xr-x   1    0    0      10332 Aug 12 2008 [ 165616 00] hammerhands1.res 
+-r-xr-xr-x   1    0    0      10332 Aug 12 2008 [ 165632 00] hammerhands2.res 
+-r-xr-xr-x   1    0    0      10332 Aug 12 2008 [ 165648 00] hammerhands3.res 
+-r-xr-xr-x   1    0    0      17628 Aug 12 2008 [ 165664 00] healdamage1.res 
+-r-xr-xr-x   1    0    0      23612 Aug 12 2008 [ 165680 00] healdamage2.res 
+-r-xr-xr-x   1    0    0      15804 Aug 12 2008 [ 165696 00] healdamage3.res 
+-r-xr-xr-x   1    0    0       9948 Aug 12 2008 [ 165712 00] healdamage4.res 
+-r-xr-xr-x   1    0    0       9948 Aug 12 2008 [ 165728 00] healdamage5.res 
+-r-xr-xr-x   1    0    0      12572 Aug 12 2008 [ 165744 00] invincible.res 
+-r-xr-xr-x   1    0    0      15036 Aug 12 2008 [ 165760 00] knockbackimmunity1.res 
+-r-xr-xr-x   1    0    0      15036 Aug 12 2008 [ 165776 00] knockbackimmunity2.res 
+-r-xr-xr-x   1    0    0      22748 Aug 12 2008 [ 165792 00] knockbackimmunity3.res 
+-r-xr-xr-x   1    0    0      15036 Aug 12 2008 [ 165808 00] knockbackimmunity4.res 
+-r-xr-xr-x   1    0    0      22748 Aug 12 2008 [ 165824 00] knockbackimmunity5.res 
+-r-xr-xr-x   1    0    0       9052 Aug 12 2008 [ 165840 00] poisonweb1.res 
+-r-xr-xr-x   1    0    0       9052 Aug 12 2008 [ 165856 00] poisonweb2.res 
+-r-xr-xr-x   1    0    0       9052 Aug 12 2008 [ 165872 00] poisonweb3.res 
+-r-xr-xr-x   1    0    0       9052 Aug 12 2008 [ 165888 00] poisonweb4.res 
+-r-xr-xr-x   1    0    0       9052 Aug 12 2008 [ 165904 00] poisonweb5.res 
+-r-xr-xr-x   1    0    0      24572 Aug 12 2008 [ 165920 00] rangeimmunity1.res 
+-r-xr-xr-x   1    0    0      31196 Aug 12 2008 [ 165936 00] rangeimmunity2.res 
+-r-xr-xr-x   1    0    0      24572 Aug 12 2008 [ 165952 00] rangeimmunity3.res 
+-r-xr-xr-x   1    0    0      31196 Aug 12 2008 [ 165968 00] rangeimmunity4.res 
+-r-xr-xr-x   1    0    0      31196 Aug 12 2008 [ 165984 00] rangeimmunity5.res 
+-r-xr-xr-x   1    0    0      19708 Aug 12 2008 [ 166000 00] regenerationspeed1.res 
+-r-xr-xr-x   1    0    0      17884 Aug 12 2008 [ 166016 00] regenerationspeed2.res 
+-r-xr-xr-x   1    0    0      17884 Aug 12 2008 [ 166032 00] regenerationspeed3.res 
+-r-xr-xr-x   1    0    0      19708 Aug 12 2008 [ 166048 00] regenerationspeed4.res 
+-r-xr-xr-x   1    0    0      17884 Aug 12 2008 [ 166064 00] regenerationspeed5.res 
+-r-xr-xr-x   1    0    0      17052 Aug 12 2008 [ 166080 00] spiderarmor1.res 
+-r-xr-xr-x   1    0    0      19644 Aug 12 2008 [ 166096 00] spiderarmor2.res 
+-r-xr-xr-x   1    0    0      19644 Aug 12 2008 [ 166112 00] spiderarmor3.res 
+-r-xr-xr-x   1    0    0      17052 Aug 12 2008 [ 166128 00] spiderarmor4.res 
+-r-xr-xr-x   1    0    0      19644 Aug 12 2008 [ 166144 00] spiderarmor5.res 
+-r-xr-xr-x   1    0    0      20028 Aug 12 2008 [ 166160 00] spikeshield1.res 
+-r-xr-xr-x   1    0    0      20028 Aug 12 2008 [ 166176 00] spikeshield2.res 
+-r-xr-xr-x   1    0    0      14140 Aug 12 2008 [ 166192 00] spikeshield3.res 
+-r-xr-xr-x   1    0    0      20028 Aug 12 2008 [ 166208 00] spikeshield4.res 
+-r-xr-xr-x   1    0    0      14140 Aug 12 2008 [ 166224 00] spikeshield5.res 
+-r-xr-xr-x   1    0    0      22652 Aug 12 2008 [ 166240 00] summon_bigwheel.res 
+-r-xr-xr-x   1    0    0      20988 Aug 12 2008 [ 166256 00] summon_blackcat.res 
+-r-xr-xr-x   1    0    0      31036 Aug 12 2008 [ 166272 00] summon_cheknkau.res 
+-r-xr-xr-x   1    0    0      10364 Aug 12 2008 [ 166288 00] summon_citizens.res 
+-r-xr-xr-x   1    0    0      29340 Aug 12 2008 [ 166304 00] summon_galactus.res 
+-r-xr-xr-x   1    0    0      31804 Aug 12 2008 [ 166320 00] summon_hobgoblin.res 
+-r-xr-xr-x   1    0    0      24028 Aug 12 2008 [ 166336 00] summon_hypnohustler.res 
+-r-xr-xr-x   1    0    0      17660 Aug 12 2008 [ 166352 00] summon_jessicadrew.res 
+-r-xr-xr-x   1    0    0      12124 Aug 12 2008 [ 166368 00] summon_lukecage.res 
+-r-xr-xr-x   1    0    0      17660 Aug 12 2008 [ 166384 00] summon_moonknight.res 
+-r-xr-xr-x   1    0    0      20188 Aug 12 2008 [ 166400 00] summon_mysterio.res 
+-r-xr-xr-x   1    0    0      16892 Aug 12 2008 [ 166416 00] summon_nightcrawler.res 
+-r-xr-xr-x   1    0    0      39132 Aug 12 2008 [ 166432 00] summon_professorx.res 
+-r-xr-xr-x   1    0    0      36380 Aug 12 2008 [ 166464 00] summon_sandman.res 
+-r-xr-xr-x   1    0    0      20604 Aug 12 2008 [ 166496 00] summon_shocker.res 
+-r-xr-xr-x   1    0    0      17180 Aug 12 2008 [ 166512 00] summon_stiltman.res 
+-r-xr-xr-x   1    0    0      29116 Aug 12 2008 [ 166528 00] summon_storm.res 
+-r-xr-xr-x   1    0    0      14844 Aug 12 2008 [ 166544 00] summon_wolverine.res 
+-r-xr-xr-x   1    0    0      18236 Aug 12 2008 [ 166560 00] summonichor.res 
+-r-xr-xr-x   1    0    0       7996 Aug 12 2008 [ 166576 00] webcocoon1.res 
+-r-xr-xr-x   1    0    0       7996 Aug 12 2008 [ 166592 00] webcocoon2.res 
+-r-xr-xr-x   1    0    0      19996 Aug 12 2008 [ 166608 00] webcocoon3.res 
+-r-xr-xr-x   1    0    0       7996 Aug 12 2008 [ 166624 00] webcocoon4.res 
+-r-xr-xr-x   1    0    0       7996 Aug 12 2008 [ 166640 00] webcocoon5.res 
+-r-xr-xr-x   1    0    0       8860 Aug 12 2008 [ 166656 00] websplatter.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ger/levels/mission_00/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    183 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     98 02] .. 
+-r-xr-xr-x   1    0    0     819192 Aug 11 2008 [ 166976 00] 01_rooftops.res 
+-r-xr-xr-x   1    0    0     536444 Aug 11 2008 [ 167376 00] 02_venom.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ger/levels/mission_01/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    184 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     98 02] .. 
+-r-xr-xr-x   1    0    0     316580 Aug 11 2008 [ 167648 00] 01_fifthavenue.res 
+-r-xr-xr-x   1    0    0     246148 Aug 11 2008 [ 167808 00] 01_hotel.res 
+-r-xr-xr-x   1    0    0     525020 Aug 11 2008 [ 167936 00] 02_townhouse.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ger/levels/mission_02/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    185 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     98 02] .. 
+-r-xr-xr-x   1    0    0    1142392 Aug 11 2008 [ 168208 00] 01_subway.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ger/levels/mission_03/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    186 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     98 02] .. 
+-r-xr-xr-x   1    0    0    1226624 Aug 11 2008 [ 168768 00] 01_base.res 
+-r-xr-xr-x   1    0    0    1310272 Aug 11 2008 [ 169376 00] 02_vault.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ger/levels/mission_04/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    187 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     98 02] .. 
+-r-xr-xr-x   1    0    0     619060 Aug 11 2008 [ 170016 00] 01_harlem.res 
+-r-xr-xr-x   1    0    0     989868 Aug 11 2008 [ 170320 00] 02_harlem.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ger/levels/mission_05/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    188 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     98 02] .. 
+-r-xr-xr-x   1    0    0     425960 Aug 11 2008 [ 170816 00] 01_warehouse.res 
+-r-xr-xr-x   1    0    0     565348 Aug 11 2008 [ 171024 00] 02_lair.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ger/levels/mission_06/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    189 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     98 02] .. 
+-r-xr-xr-x   1    0    0     354104 Aug 11 2008 [ 171312 00] 01_helicarrier.res 
+-r-xr-xr-x   1    0    0     320048 Aug 11 2008 [ 171488 00] 02_helicarrier.res 
+-r-xr-xr-x   1    0    0     552752 Aug 11 2008 [ 171648 00] 03_lab_12.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ger/levels/mission_07/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    190 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     98 02] .. 
+-r-xr-xr-x   1    0    0     539744 Aug 11 2008 [ 171920 00] 01_hellskitchen.res 
+-r-xr-xr-x   1    0    0     337244 Aug 11 2008 [ 172192 00] 02_roof_n_apartments.res 
+-r-xr-xr-x   1    0    0     687520 Aug 11 2008 [ 172368 00] 03_library_boss.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ger/levels/mission_08/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    191 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     98 02] .. 
+-r-xr-xr-x   1    0    0     272404 Aug 11 2008 [ 172704 00] 01_tower.res 
+-r-xr-xr-x   1    0    0     823636 Aug 11 2008 [ 172848 00] 02_roof.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ger/levels/mission_09/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    192 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [     98 02] .. 
+-r-xr-xr-x   1    0    0     647668 Aug 11 2008 [ 173264 00] 01_centralpark.res 
+-r-xr-xr-x   1    0    0     481504 Aug 11 2008 [ 173584 00] 02_collective.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ita/characters/powerups/
+dr-xr-xr-x   1    0    0       6144 Oct  3 2008 [    193 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    100 02] .. 
+-r-xr-xr-x   1    0    0       9116 Aug 12 2008 [ 178288 00] blackcloud.res 
+-r-xr-xr-x   1    0    0      32156 Aug 12 2008 [ 178304 00] damageincrease1.res 
+-r-xr-xr-x   1    0    0      32156 Aug 12 2008 [ 178320 00] damageincrease2.res 
+-r-xr-xr-x   1    0    0      32156 Aug 12 2008 [ 178336 00] damageincrease3.res 
+-r-xr-xr-x   1    0    0      13628 Aug 12 2008 [ 178352 00] damageincrease4.res 
+-r-xr-xr-x   1    0    0      13628 Aug 12 2008 [ 178368 00] damageincrease5.res 
+-r-xr-xr-x   1    0    0      15676 Aug 12 2008 [ 178384 00] damagereduction1.res 
+-r-xr-xr-x   1    0    0      45536 Aug 12 2008 [ 178400 00] damagereduction2.res 
+-r-xr-xr-x   1    0    0      20956 Aug 12 2008 [ 178432 00] damagereduction3.res 
+-r-xr-xr-x   1    0    0      15676 Aug 12 2008 [ 178448 00] damagereduction4.res 
+-r-xr-xr-x   1    0    0      20956 Aug 12 2008 [ 178464 00] damagereduction5.res 
+-r-xr-xr-x   1    0    0      11388 Aug 12 2008 [ 178480 00] hammerhands1.res 
+-r-xr-xr-x   1    0    0      11388 Aug 12 2008 [ 178496 00] hammerhands2.res 
+-r-xr-xr-x   1    0    0      11388 Aug 12 2008 [ 178512 00] hammerhands3.res 
+-r-xr-xr-x   1    0    0      14684 Aug 12 2008 [ 178528 00] healdamage1.res 
+-r-xr-xr-x   1    0    0      21756 Aug 12 2008 [ 178544 00] healdamage2.res 
+-r-xr-xr-x   1    0    0      16828 Aug 12 2008 [ 178560 00] healdamage3.res 
+-r-xr-xr-x   1    0    0      10396 Aug 12 2008 [ 178576 00] healdamage4.res 
+-r-xr-xr-x   1    0    0      10396 Aug 12 2008 [ 178592 00] healdamage5.res 
+-r-xr-xr-x   1    0    0      11516 Aug 12 2008 [ 178608 00] invincible.res 
+-r-xr-xr-x   1    0    0      14940 Aug 12 2008 [ 178624 00] knockbackimmunity1.res 
+-r-xr-xr-x   1    0    0      14940 Aug 12 2008 [ 178640 00] knockbackimmunity2.res 
+-r-xr-xr-x   1    0    0      21468 Aug 12 2008 [ 178656 00] knockbackimmunity3.res 
+-r-xr-xr-x   1    0    0      14940 Aug 12 2008 [ 178672 00] knockbackimmunity4.res 
+-r-xr-xr-x   1    0    0      21468 Aug 12 2008 [ 178688 00] knockbackimmunity5.res 
+-r-xr-xr-x   1    0    0       8860 Aug 12 2008 [ 178704 00] poisonweb1.res 
+-r-xr-xr-x   1    0    0       8860 Aug 12 2008 [ 178720 00] poisonweb2.res 
+-r-xr-xr-x   1    0    0       8860 Aug 12 2008 [ 178736 00] poisonweb3.res 
+-r-xr-xr-x   1    0    0       8860 Aug 12 2008 [ 178752 00] poisonweb4.res 
+-r-xr-xr-x   1    0    0       8860 Aug 12 2008 [ 178768 00] poisonweb5.res 
+-r-xr-xr-x   1    0    0      22396 Aug 12 2008 [ 178784 00] rangeimmunity1.res 
+-r-xr-xr-x   1    0    0      29148 Aug 12 2008 [ 178800 00] rangeimmunity2.res 
+-r-xr-xr-x   1    0    0      22396 Aug 12 2008 [ 178816 00] rangeimmunity3.res 
+-r-xr-xr-x   1    0    0      29148 Aug 12 2008 [ 178832 00] rangeimmunity4.res 
+-r-xr-xr-x   1    0    0      29148 Aug 12 2008 [ 178848 00] rangeimmunity5.res 
+-r-xr-xr-x   1    0    0      16732 Aug 12 2008 [ 178864 00] regenerationspeed1.res 
+-r-xr-xr-x   1    0    0      15708 Aug 12 2008 [ 178880 00] regenerationspeed2.res 
+-r-xr-xr-x   1    0    0      15708 Aug 12 2008 [ 178896 00] regenerationspeed3.res 
+-r-xr-xr-x   1    0    0      16732 Aug 12 2008 [ 178912 00] regenerationspeed4.res 
+-r-xr-xr-x   1    0    0      15708 Aug 12 2008 [ 178928 00] regenerationspeed5.res 
+-r-xr-xr-x   1    0    0      16828 Aug 12 2008 [ 178944 00] spiderarmor1.res 
+-r-xr-xr-x   1    0    0      13660 Aug 12 2008 [ 178960 00] spiderarmor2.res 
+-r-xr-xr-x   1    0    0      13660 Aug 12 2008 [ 178976 00] spiderarmor3.res 
+-r-xr-xr-x   1    0    0      16828 Aug 12 2008 [ 178992 00] spiderarmor4.res 
+-r-xr-xr-x   1    0    0      13660 Aug 12 2008 [ 179008 00] spiderarmor5.res 
+-r-xr-xr-x   1    0    0      14940 Aug 12 2008 [ 179024 00] spikeshield1.res 
+-r-xr-xr-x   1    0    0      14940 Aug 12 2008 [ 179040 00] spikeshield2.res 
+-r-xr-xr-x   1    0    0      12412 Aug 12 2008 [ 179056 00] spikeshield3.res 
+-r-xr-xr-x   1    0    0      14940 Aug 12 2008 [ 179072 00] spikeshield4.res 
+-r-xr-xr-x   1    0    0      12412 Aug 12 2008 [ 179088 00] spikeshield5.res 
+-r-xr-xr-x   1    0    0      17244 Aug 12 2008 [ 179104 00] summon_bigwheel.res 
+-r-xr-xr-x   1    0    0      21884 Aug 12 2008 [ 179120 00] summon_blackcat.res 
+-r-xr-xr-x   1    0    0      25180 Aug 12 2008 [ 179136 00] summon_cheknkau.res 
+-r-xr-xr-x   1    0    0      12092 Aug 12 2008 [ 179152 00] summon_citizens.res 
+-r-xr-xr-x   1    0    0      30076 Aug 12 2008 [ 179168 00] summon_galactus.res 
+-r-xr-xr-x   1    0    0      35196 Aug 12 2008 [ 179184 00] summon_hobgoblin.res 
+-r-xr-xr-x   1    0    0      21820 Aug 12 2008 [ 179216 00] summon_hypnohustler.res 
+-r-xr-xr-x   1    0    0      17052 Aug 12 2008 [ 179232 00] summon_jessicadrew.res 
+-r-xr-xr-x   1    0    0      12668 Aug 12 2008 [ 179248 00] summon_lukecage.res 
+-r-xr-xr-x   1    0    0      16476 Aug 12 2008 [ 179264 00] summon_moonknight.res 
+-r-xr-xr-x   1    0    0      24220 Aug 12 2008 [ 179280 00] summon_mysterio.res 
+-r-xr-xr-x   1    0    0      15388 Aug 12 2008 [ 179296 00] summon_nightcrawler.res 
+-r-xr-xr-x   1    0    0      35740 Aug 12 2008 [ 179312 00] summon_professorx.res 
+-r-xr-xr-x   1    0    0      32700 Aug 12 2008 [ 179344 00] summon_sandman.res 
+-r-xr-xr-x   1    0    0      21436 Aug 12 2008 [ 179360 00] summon_shocker.res 
+-r-xr-xr-x   1    0    0      16860 Aug 12 2008 [ 179376 00] summon_stiltman.res 
+-r-xr-xr-x   1    0    0      23196 Aug 12 2008 [ 179392 00] summon_storm.res 
+-r-xr-xr-x   1    0    0      13724 Aug 12 2008 [ 179408 00] summon_wolverine.res 
+-r-xr-xr-x   1    0    0      13596 Aug 12 2008 [ 179424 00] summonichor.res 
+-r-xr-xr-x   1    0    0       8700 Aug 12 2008 [ 179440 00] webcocoon1.res 
+-r-xr-xr-x   1    0    0       8700 Aug 12 2008 [ 179456 00] webcocoon2.res 
+-r-xr-xr-x   1    0    0      23068 Aug 12 2008 [ 179472 00] webcocoon3.res 
+-r-xr-xr-x   1    0    0       8700 Aug 12 2008 [ 179488 00] webcocoon4.res 
+-r-xr-xr-x   1    0    0       8700 Aug 12 2008 [ 179504 00] webcocoon5.res 
+-r-xr-xr-x   1    0    0       9916 Aug 12 2008 [ 179520 00] websplatter.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ita/levels/mission_00/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    196 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    101 02] .. 
+-r-xr-xr-x   1    0    0     798776 Aug 11 2008 [ 179840 00] 01_rooftops.res 
+-r-xr-xr-x   1    0    0     536700 Aug 11 2008 [ 180240 00] 02_venom.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ita/levels/mission_01/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    197 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    101 02] .. 
+-r-xr-xr-x   1    0    0     307172 Aug 11 2008 [ 180512 00] 01_fifthavenue.res 
+-r-xr-xr-x   1    0    0     233764 Aug 11 2008 [ 180672 00] 01_hotel.res 
+-r-xr-xr-x   1    0    0     529532 Aug 11 2008 [ 180800 00] 02_townhouse.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ita/levels/mission_02/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    198 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    101 02] .. 
+-r-xr-xr-x   1    0    0    1119128 Aug 11 2008 [ 181072 00] 01_subway.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ita/levels/mission_03/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    199 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    101 02] .. 
+-r-xr-xr-x   1    0    0    1192800 Aug 11 2008 [ 181632 00] 01_base.res 
+-r-xr-xr-x   1    0    0    1276448 Aug 11 2008 [ 182224 00] 02_vault.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ita/levels/mission_04/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    200 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    101 02] .. 
+-r-xr-xr-x   1    0    0     617972 Aug 11 2008 [ 182848 00] 01_harlem.res 
+-r-xr-xr-x   1    0    0     973740 Aug 11 2008 [ 183152 00] 02_harlem.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ita/levels/mission_05/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    201 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    101 02] .. 
+-r-xr-xr-x   1    0    0     426120 Aug 11 2008 [ 183632 00] 01_warehouse.res 
+-r-xr-xr-x   1    0    0     526148 Aug 11 2008 [ 183856 00] 02_lair.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ita/levels/mission_06/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    202 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    101 02] .. 
+-r-xr-xr-x   1    0    0     348824 Aug 11 2008 [ 184128 00] 01_helicarrier.res 
+-r-xr-xr-x   1    0    0     306320 Aug 11 2008 [ 184304 00] 02_helicarrier.res 
+-r-xr-xr-x   1    0    0     531248 Aug 11 2008 [ 184464 00] 03_lab_12.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ita/levels/mission_07/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    203 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    101 02] .. 
+-r-xr-xr-x   1    0    0     507040 Aug 11 2008 [ 184736 00] 01_hellskitchen.res 
+-r-xr-xr-x   1    0    0     331068 Aug 11 2008 [ 184992 00] 02_roof_n_apartments.res 
+-r-xr-xr-x   1    0    0     674336 Aug 11 2008 [ 185168 00] 03_library_boss.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ita/levels/mission_08/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    204 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    101 02] .. 
+-r-xr-xr-x   1    0    0     269556 Aug 11 2008 [ 185504 00] 01_tower.res 
+-r-xr-xr-x   1    0    0     808052 Aug 11 2008 [ 185648 00] 02_roof.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ita/levels/mission_09/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    205 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    101 02] .. 
+-r-xr-xr-x   1    0    0     643828 Aug 11 2008 [ 186048 00] 01_centralpark.res 
+-r-xr-xr-x   1    0    0     406816 Aug 11 2008 [ 186368 00] 02_collective.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/spa/characters/powerups/
+dr-xr-xr-x   1    0    0       6144 Oct  3 2008 [    206 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    103 02] .. 
+-r-xr-xr-x   1    0    0       7548 Aug 12 2008 [ 191040 00] blackcloud.res 
+-r-xr-xr-x   1    0    0      32636 Aug 12 2008 [ 191056 00] damageincrease1.res 
+-r-xr-xr-x   1    0    0      32636 Aug 12 2008 [ 191072 00] damageincrease2.res 
+-r-xr-xr-x   1    0    0      32636 Aug 12 2008 [ 191088 00] damageincrease3.res 
+-r-xr-xr-x   1    0    0      16412 Aug 12 2008 [ 191104 00] damageincrease4.res 
+-r-xr-xr-x   1    0    0      16412 Aug 12 2008 [ 191120 00] damageincrease5.res 
+-r-xr-xr-x   1    0    0      16540 Aug 12 2008 [ 191136 00] damagereduction1.res 
+-r-xr-xr-x   1    0    0      43232 Aug 12 2008 [ 191152 00] damagereduction2.res 
+-r-xr-xr-x   1    0    0      20188 Aug 12 2008 [ 191184 00] damagereduction3.res 
+-r-xr-xr-x   1    0    0      16540 Aug 12 2008 [ 191200 00] damagereduction4.res 
+-r-xr-xr-x   1    0    0      20188 Aug 12 2008 [ 191216 00] damagereduction5.res 
+-r-xr-xr-x   1    0    0      11324 Aug 12 2008 [ 191232 00] hammerhands1.res 
+-r-xr-xr-x   1    0    0      11324 Aug 12 2008 [ 191248 00] hammerhands2.res 
+-r-xr-xr-x   1    0    0      11324 Aug 12 2008 [ 191264 00] hammerhands3.res 
+-r-xr-xr-x   1    0    0      13660 Aug 12 2008 [ 191280 00] healdamage1.res 
+-r-xr-xr-x   1    0    0      22172 Aug 12 2008 [ 191296 00] healdamage2.res 
+-r-xr-xr-x   1    0    0      17468 Aug 12 2008 [ 191312 00] healdamage3.res 
+-r-xr-xr-x   1    0    0      10492 Aug 12 2008 [ 191328 00] healdamage4.res 
+-r-xr-xr-x   1    0    0      10492 Aug 12 2008 [ 191344 00] healdamage5.res 
+-r-xr-xr-x   1    0    0      11932 Aug 12 2008 [ 191360 00] invincible.res 
+-r-xr-xr-x   1    0    0      15484 Aug 12 2008 [ 191376 00] knockbackimmunity1.res 
+-r-xr-xr-x   1    0    0      15484 Aug 12 2008 [ 191392 00] knockbackimmunity2.res 
+-r-xr-xr-x   1    0    0      21916 Aug 12 2008 [ 191408 00] knockbackimmunity3.res 
+-r-xr-xr-x   1    0    0      15484 Aug 12 2008 [ 191424 00] knockbackimmunity4.res 
+-r-xr-xr-x   1    0    0      21916 Aug 12 2008 [ 191440 00] knockbackimmunity5.res 
+-r-xr-xr-x   1    0    0      10332 Aug 12 2008 [ 191456 00] poisonweb1.res 
+-r-xr-xr-x   1    0    0      10332 Aug 12 2008 [ 191472 00] poisonweb2.res 
+-r-xr-xr-x   1    0    0      10332 Aug 12 2008 [ 191488 00] poisonweb3.res 
+-r-xr-xr-x   1    0    0      10332 Aug 12 2008 [ 191504 00] poisonweb4.res 
+-r-xr-xr-x   1    0    0      10332 Aug 12 2008 [ 191520 00] poisonweb5.res 
+-r-xr-xr-x   1    0    0      23708 Aug 12 2008 [ 191536 00] rangeimmunity1.res 
+-r-xr-xr-x   1    0    0      31708 Aug 12 2008 [ 191552 00] rangeimmunity2.res 
+-r-xr-xr-x   1    0    0      23708 Aug 12 2008 [ 191568 00] rangeimmunity3.res 
+-r-xr-xr-x   1    0    0      31708 Aug 12 2008 [ 191584 00] rangeimmunity4.res 
+-r-xr-xr-x   1    0    0      31708 Aug 12 2008 [ 191600 00] rangeimmunity5.res 
+-r-xr-xr-x   1    0    0      13916 Aug 12 2008 [ 191616 00] regenerationspeed1.res 
+-r-xr-xr-x   1    0    0      13148 Aug 12 2008 [ 191632 00] regenerationspeed2.res 
+-r-xr-xr-x   1    0    0      13148 Aug 12 2008 [ 191648 00] regenerationspeed3.res 
+-r-xr-xr-x   1    0    0      13916 Aug 12 2008 [ 191664 00] regenerationspeed4.res 
+-r-xr-xr-x   1    0    0      13148 Aug 12 2008 [ 191680 00] regenerationspeed5.res 
+-r-xr-xr-x   1    0    0      14428 Aug 12 2008 [ 191696 00] spiderarmor1.res 
+-r-xr-xr-x   1    0    0      12668 Aug 12 2008 [ 191712 00] spiderarmor2.res 
+-r-xr-xr-x   1    0    0      12668 Aug 12 2008 [ 191728 00] spiderarmor3.res 
+-r-xr-xr-x   1    0    0      14428 Aug 12 2008 [ 191744 00] spiderarmor4.res 
+-r-xr-xr-x   1    0    0      12668 Aug 12 2008 [ 191760 00] spiderarmor5.res 
+-r-xr-xr-x   1    0    0      17436 Aug 12 2008 [ 191776 00] spikeshield1.res 
+-r-xr-xr-x   1    0    0      17436 Aug 12 2008 [ 191792 00] spikeshield2.res 
+-r-xr-xr-x   1    0    0      11452 Aug 12 2008 [ 191808 00] spikeshield3.res 
+-r-xr-xr-x   1    0    0      17436 Aug 12 2008 [ 191824 00] spikeshield4.res 
+-r-xr-xr-x   1    0    0      11452 Aug 12 2008 [ 191840 00] spikeshield5.res 
+-r-xr-xr-x   1    0    0      18684 Aug 12 2008 [ 191856 00] summon_bigwheel.res 
+-r-xr-xr-x   1    0    0      21756 Aug 12 2008 [ 191872 00] summon_blackcat.res 
+-r-xr-xr-x   1    0    0      27100 Aug 12 2008 [ 191888 00] summon_cheknkau.res 
+-r-xr-xr-x   1    0    0       9052 Aug 12 2008 [ 191904 00] summon_citizens.res 
+-r-xr-xr-x   1    0    0      26908 Aug 12 2008 [ 191920 00] summon_galactus.res 
+-r-xr-xr-x   1    0    0      35868 Aug 12 2008 [ 191936 00] summon_hobgoblin.res 
+-r-xr-xr-x   1    0    0      23036 Aug 12 2008 [ 191968 00] summon_hypnohustler.res 
+-r-xr-xr-x   1    0    0      16700 Aug 12 2008 [ 191984 00] summon_jessicadrew.res 
+-r-xr-xr-x   1    0    0      10588 Aug 12 2008 [ 192000 00] summon_lukecage.res 
+-r-xr-xr-x   1    0    0      17404 Aug 12 2008 [ 192016 00] summon_moonknight.res 
+-r-xr-xr-x   1    0    0      23452 Aug 12 2008 [ 192032 00] summon_mysterio.res 
+-r-xr-xr-x   1    0    0      11292 Aug 12 2008 [ 192048 00] summon_nightcrawler.res 
+-r-xr-xr-x   1    0    0      37660 Aug 12 2008 [ 192064 00] summon_professorx.res 
+-r-xr-xr-x   1    0    0      36284 Aug 12 2008 [ 192096 00] summon_sandman.res 
+-r-xr-xr-x   1    0    0      16444 Aug 12 2008 [ 192128 00] summon_shocker.res 
+-r-xr-xr-x   1    0    0      13532 Aug 12 2008 [ 192144 00] summon_stiltman.res 
+-r-xr-xr-x   1    0    0      29052 Aug 12 2008 [ 192160 00] summon_storm.res 
+-r-xr-xr-x   1    0    0      13148 Aug 12 2008 [ 192176 00] summon_wolverine.res 
+-r-xr-xr-x   1    0    0      16380 Aug 12 2008 [ 192192 00] summonichor.res 
+-r-xr-xr-x   1    0    0       8892 Aug 12 2008 [ 192208 00] webcocoon1.res 
+-r-xr-xr-x   1    0    0       8892 Aug 12 2008 [ 192224 00] webcocoon2.res 
+-r-xr-xr-x   1    0    0      24028 Aug 12 2008 [ 192240 00] webcocoon3.res 
+-r-xr-xr-x   1    0    0       8892 Aug 12 2008 [ 192256 00] webcocoon4.res 
+-r-xr-xr-x   1    0    0       8892 Aug 12 2008 [ 192272 00] webcocoon5.res 
+-r-xr-xr-x   1    0    0       8924 Aug 12 2008 [ 192288 00] websplatter.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/spa/levels/mission_00/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    209 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    104 02] .. 
+-r-xr-xr-x   1    0    0     787160 Aug 11 2008 [ 192608 00] 01_rooftops.res 
+-r-xr-xr-x   1    0    0     535932 Aug 11 2008 [ 193008 00] 02_venom.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/spa/levels/mission_01/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    210 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    104 02] .. 
+-r-xr-xr-x   1    0    0     315204 Aug 11 2008 [ 193280 00] 01_fifthavenue.res 
+-r-xr-xr-x   1    0    0     226628 Aug 11 2008 [ 193440 00] 01_hotel.res 
+-r-xr-xr-x   1    0    0     536124 Aug 11 2008 [ 193552 00] 02_townhouse.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/spa/levels/mission_02/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    211 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    104 02] .. 
+-r-xr-xr-x   1    0    0    1130680 Aug 11 2008 [ 193824 00] 01_subway.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/spa/levels/mission_03/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    212 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    104 02] .. 
+-r-xr-xr-x   1    0    0    1185792 Aug 11 2008 [ 194384 00] 01_base.res 
+-r-xr-xr-x   1    0    0    1269440 Aug 11 2008 [ 194976 00] 02_vault.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/spa/levels/mission_04/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    213 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    104 02] .. 
+-r-xr-xr-x   1    0    0     610036 Aug 11 2008 [ 195600 00] 01_harlem.res 
+-r-xr-xr-x   1    0    0     964108 Aug 11 2008 [ 195904 00] 02_harlem.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/spa/levels/mission_05/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    214 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    104 02] .. 
+-r-xr-xr-x   1    0    0     418472 Aug 11 2008 [ 196384 00] 01_warehouse.res 
+-r-xr-xr-x   1    0    0     541764 Aug 11 2008 [ 196592 00] 02_lair.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/spa/levels/mission_06/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    215 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    104 02] .. 
+-r-xr-xr-x   1    0    0     345944 Aug 11 2008 [ 196864 00] 01_helicarrier.res 
+-r-xr-xr-x   1    0    0     312208 Aug 11 2008 [ 197040 00] 02_helicarrier.res 
+-r-xr-xr-x   1    0    0     519280 Aug 11 2008 [ 197200 00] 03_lab_12.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/spa/levels/mission_07/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    216 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    104 02] .. 
+-r-xr-xr-x   1    0    0     512320 Aug 11 2008 [ 197456 00] 01_hellskitchen.res 
+-r-xr-xr-x   1    0    0     309820 Aug 11 2008 [ 197712 00] 02_roof_n_apartments.res 
+-r-xr-xr-x   1    0    0     647968 Aug 11 2008 [ 197872 00] 03_library_boss.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/spa/levels/mission_08/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    217 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    104 02] .. 
+-r-xr-xr-x   1    0    0     266036 Aug 11 2008 [ 198192 00] 01_tower.res 
+-r-xr-xr-x   1    0    0     795700 Aug 11 2008 [ 198336 00] 02_roof.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/spa/levels/mission_09/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    218 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    104 02] .. 
+-r-xr-xr-x   1    0    0     622036 Aug 11 2008 [ 198736 00] 01_centralpark.res 
+-r-xr-xr-x   1    0    0     429536 Aug 11 2008 [ 199040 00] 02_collective.res 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_06/01_helicarrier/whitebox/script/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    219 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    132 02] .. 
+-r-xr-xr-x   1    0    0      80344 Jul 21 2008 [ 109744 00] default.res 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_06/02_helicarrier/whitebox/script/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    220 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    135 02] .. 
+-r-xr-xr-x   1    0    0      33528 Jul 21 2008 [ 113504 00] default.res 
+
+Directory listing of /PSP_GAME/USRDIR/levels/mission_06/03_lab_12/whitebox/script/
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    221 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  3 2008 [    138 02] .. 
+-r-xr-xr-x   1    0    0      23896 Jul 21 2008 [ 115568 00] default.res 
+=============================================================== 
+Generated on Tue 09/08/2022 at  5:38:31.92 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

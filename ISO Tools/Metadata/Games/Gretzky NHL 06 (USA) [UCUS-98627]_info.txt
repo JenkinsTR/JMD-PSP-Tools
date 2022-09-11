@@ -1,0 +1,215 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Gretzky NHL 06  
+Title ID: UCUS-98627 
+Region: USA  
+Languages:   
+Volume Creation Date: 2005-09-14 10:24:56 
+Volume Size: 834 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: GRETZKYNHL06
+Volume set id: GRETZKYNHL06
+Publisher id: SCEA
+Data preparer id: PAGE44
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 427168
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Sep 14 2005 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 14 2005 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2005 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Apr  1 2005 [     37 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Apr  1 2005 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 14 2005 [     22 02] .. 
+-r-xr-xr-x   1    0    0      20516 Mar 10 2005 [ 427088 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        472 Sep 14 2005 [ 427104 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      63623 May 31 2005 [ 427120 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0     185189 May 31 2005 [ 426992 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2005 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Jun 27 2005 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Apr  1 2005 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2005 [     23 02] .. 
+-r-xr-xr-x   1    0    0    4747173 Sep 14 2005 [ 424672 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    4747520 Sep 14 2005 [     48 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2005 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Jun 27 2005 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2005 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 27 2005 [     27 02] browser 
+dr-xr-xr-x   1    0    0       2048 Sep 14 2005 [     28 02] data 
+dr-xr-xr-x   1    0    0       2048 Jun 27 2005 [     29 02] kmodule 
+dr-xr-xr-x   1    0    0       4096 Jun 27 2005 [     30 02] module 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Apr  1 2005 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr  1 2005 [     24 02] .. 
+-r-xr-xr-x   1    0    0   13182464 Apr  1 2005 [   6480 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    3536480 Apr  1 2005 [   2384 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       1772 Apr  1 2005 [   2368 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/browser/
+dr-xr-xr-x   1    0    0       2048 Jun 27 2005 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 27 2005 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 27 2005 [     32 02] data 
+-r-xr-xr-x   1    0    0    2461246 Mar 10 2005 [  23312 00] hsbrowser.prx 
+
+Directory listing of /PSP_GAME/USRDIR/data/
+dr-xr-xr-x   1    0    0       2048 Sep 14 2005 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 27 2005 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 27 2005 [     33 02] gamedata 
+-r-xr-xr-x   1    0    0      12048 Sep 14 2005 [ 427152 00] gretzky2006.bfl 
+dr-xr-xr-x   1    0    0       2048 Jun 27 2005 [     34 02] movie 
+dr-xr-xr-x   1    0    0       2048 Jun 27 2005 [     35 02] sound 
+
+Directory listing of /PSP_GAME/USRDIR/kmodule/
+dr-xr-xr-x   1    0    0       2048 Jun 27 2005 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 27 2005 [     25 02] .. 
+-r-xr-xr-x   1    0    0       3200 Jun 13 2005 [ 423184 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0       3088 Jun 13 2005 [ 423200 00] cert_loader.prx 
+-r-xr-xr-x   1    0    0      10816 Jun 13 2005 [ 423216 00] ifhandle.prx 
+-r-xr-xr-x   1    0    0     229376 Jun 13 2005 [ 423232 00] kbooti.bin 
+-r-xr-xr-x   1    0    0      17216 Jun 13 2005 [ 423344 00] memab.prx 
+-r-xr-xr-x   1    0    0       5808 Jun 13 2005 [ 423360 00] mpegbase.prx 
+-r-xr-xr-x   1    0    0       2960 Mar 10 2005 [ 423376 00] openpsid.prx 
+-r-xr-xr-x   1    0    0      11360 Jun 13 2005 [ 423392 00] pspnet_adhoc_auth.prx 
+-r-xr-xr-x   1    0    0      31104 Apr  3 2005 [ 423408 00] rinit.prx 
+-r-xr-xr-x   1    0    0       5904 Jun 13 2005 [ 423424 00] sc_sascore.prx 
+-r-xr-xr-x   1    0    0      64320 Mar 10 2005 [ 423440 00] usb.prx 
+-r-xr-xr-x   1    0    0      14560 Jun 15 2005 [ 423472 00] usbpspcm.prx 
+-r-xr-xr-x   1    0    0       3808 Jun 13 2005 [ 423488 00] videocodec.prx 
+
+Directory listing of /PSP_GAME/USRDIR/module/
+dr-xr-xr-x   1    0    0       4096 Jun 27 2005 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 27 2005 [     25 02] .. 
+-r-xr-xr-x   1    0    0       3200 Jun 13 2005 [ 423504 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0       3088 Jun 13 2005 [ 423520 00] cert_loader.prx 
+-r-xr-xr-x   1    0    0      10816 Jun 13 2005 [ 423536 00] ifhandle.prx 
+-r-xr-xr-x   1    0    0     229376 Jun 13 2005 [ 423552 00] kbooti.bin 
+-r-xr-xr-x   1    0    0       1488 Jun 13 2005 [ 423664 00] libadler.prx 
+-r-xr-xr-x   1    0    0      19940 Jun 13 2005 [ 423680 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0       2252 Jun 13 2005 [ 423696 00] libbase64.prx 
+-r-xr-xr-x   1    0    0       6056 Jun 13 2005 [ 423712 00] libccc.prx 
+-r-xr-xr-x   1    0    0       6348 Jun 13 2005 [ 423728 00] libdeflt.prx 
+-r-xr-xr-x   1    0    0      40696 Jun 13 2005 [ 423744 00] libfont.prx 
+-r-xr-xr-x   1    0    0       6644 Jun 13 2005 [ 423776 00] libfpu.prx 
+-r-xr-xr-x   1    0    0      87032 Jun 13 2005 [ 423792 00] libhttp.prx 
+-r-xr-xr-x   1    0    0       3248 Jun 13 2005 [ 423840 00] libmd5.prx 
+-r-xr-xr-x   1    0    0       1816 Jun 13 2005 [ 423856 00] libmt19937.prx 
+-r-xr-xr-x   1    0    0      20748 Mar 10 2005 [ 423872 00] libnetcnf.prx 
+-r-xr-xr-x   1    0    0       5180 Jun 13 2005 [ 423888 00] libparse_http.prx 
+-r-xr-xr-x   1    0    0      15584 Jun 13 2005 [ 423904 00] libparse_uri.prx 
+-r-xr-xr-x   1    0    0       2924 Jun 13 2005 [ 423920 00] libqpcode.prx 
+-r-xr-xr-x   1    0    0       3912 Jun 13 2005 [ 423936 00] libsha1.prx 
+-r-xr-xr-x   1    0    0     259788 Jun 13 2005 [ 423952 00] libssl.prx 
+-r-xr-xr-x   1    0    0      17216 Jun 13 2005 [ 424080 00] memab.prx 
+-r-xr-xr-x   1    0    0      43068 Jun 13 2005 [ 424096 00] mpeg.prx 
+-r-xr-xr-x   1    0    0       5808 Jun 13 2005 [ 424128 00] mpegbase.prx 
+-r-xr-xr-x   1    0    0       2960 Mar 10 2005 [ 424144 00] openpsid.prx 
+-r-xr-xr-x   1    0    0       9740 Jun 13 2005 [ 424160 00] psmf.prx 
+-r-xr-xr-x   1    0    0      60360 Jun 13 2005 [ 424176 00] pspnet.prx 
+-r-xr-xr-x   1    0    0      42492 Jun 13 2005 [ 424208 00] pspnet_adhoc.prx 
+-r-xr-xr-x   1    0    0      11360 Jun 13 2005 [ 424256 00] pspnet_adhoc_auth.prx 
+-r-xr-xr-x   1    0    0      15828 Jun 13 2005 [ 424272 00] pspnet_adhoc_download.prx 
+-r-xr-xr-x   1    0    0      19688 Jun 13 2005 [ 424288 00] pspnet_adhoc_matching.prx 
+-r-xr-xr-x   1    0    0      31996 Jun 13 2005 [ 424240 00] pspnet_adhocctl.prx 
+-r-xr-xr-x   1    0    0       4820 Jun 13 2005 [ 424336 00] pspnet_ap_dialog_dummy.prx 
+-r-xr-xr-x   1    0    0      44412 Jun 13 2005 [ 424304 00] pspnet_apctl.prx 
+-r-xr-xr-x   1    0    0     239968 Jun 13 2005 [ 424352 00] pspnet_inet.prx 
+-r-xr-xr-x   1    0    0      12400 Jun 13 2005 [ 424480 00] pspnet_resolver.prx 
+-r-xr-xr-x   1    0    0      31104 Apr  3 2005 [ 424496 00] rinit.prx 
+-r-xr-xr-x   1    0    0       5904 Jun 13 2005 [ 424560 00] sc_sascore.prx 
+-r-xr-xr-x   1    0    0      67400 Jun 13 2005 [ 424512 00] scan.prx 
+-r-xr-xr-x   1    0    0      63532 Jun 13 2005 [ 424576 00] show_macaddr.prx 
+-r-xr-xr-x   1    0    0      64320 Mar 10 2005 [ 424608 00] usb.prx 
+-r-xr-xr-x   1    0    0      14560 Jun 15 2005 [ 424640 00] usbpspcm.prx 
+-r-xr-xr-x   1    0    0       3808 Jun 13 2005 [ 424656 00] videocodec.prx 
+
+Directory listing of /PSP_GAME/USRDIR/browser/data/
+dr-xr-xr-x   1    0    0       2048 Jun 27 2005 [     32 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 27 2005 [     27 02] .. 
+-r-xr-xr-x   1    0    0      55057 Mar 10 2005 [  22864 00] fonts.pak 
+-r-xr-xr-x   1    0    0       1548 Mar 10 2005 [  22896 00] hsbrowser.cfg 
+-r-xr-xr-x   1    0    0      16098 Mar 10 2005 [  22912 00] models.pak 
+-r-xr-xr-x   1    0    0       1889 Mar 10 2005 [  22928 00] resource.ini 
+-r-xr-xr-x   1    0    0       8621 Mar 10 2005 [  22944 00] scripts.pak 
+-r-xr-xr-x   1    0    0      70261 Mar 10 2005 [  22960 00] sfx.pak 
+-r-xr-xr-x   1    0    0       2268 Mar 10 2005 [  23008 00] strings.pak 
+-r-xr-xr-x   1    0    0      55923 Mar 10 2005 [  23280 00] textures.pak 
+dr-xr-xr-x   1    0    0       2048 Jun 27 2005 [     36 02] tex 
+
+Directory listing of /PSP_GAME/USRDIR/data/gamedata/
+dr-xr-xr-x   1    0    0       2048 Jun 27 2005 [     33 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 14 2005 [     28 02] .. 
+-r-xr-xr-x   1    0    0    1198080 Jul 18 2005 [  24528 00] ai.p4d 
+-r-xr-xr-x   1    0    0   34975744 Aug 31 2005 [  25120 00] arenas.p4d 
+-r-xr-xr-x   1    0    0    2234368 Aug 10 2005 [  42208 00] coaches.p4d 
+-r-xr-xr-x   1    0    0     811008 Aug 29 2005 [  49008 00] com_team.p4d 
+-r-xr-xr-x   1    0    0   11659264 Aug 31 2005 [  43312 00] comarena.p4d 
+-r-xr-xr-x   1    0    0     536576 Aug 29 2005 [  49408 00] facetex.p4d 
+-r-xr-xr-x   1    0    0    3811328 Aug 31 2005 [  49680 00] fe.p4d 
+-r-xr-xr-x   1    0    0     360448 Aug 31 2005 [  52736 00] glob_psp.p4d 
+-r-xr-xr-x   1    0    0    2418688 Aug 31 2005 [  51552 00] global.p4d 
+-r-xr-xr-x   1    0    0    2387968 Aug 10 2005 [  52912 00] load.p4d 
+-r-xr-xr-x   1    0    0     227328 Aug 31 2005 [  54080 00] mcicons.p4d 
+-r-xr-xr-x   1    0    0    1603584 Apr 12 2005 [  54192 00] pspcut.p4d 
+-r-xr-xr-x   1    0    0    2136064 Aug 31 2005 [  54976 00] rosters.p4d 
+-r-xr-xr-x   1    0    0   18401280 Aug 31 2005 [  56032 00] schedule.p4d 
+-r-xr-xr-x   1    0    0   12697600 Aug 16 2005 [ 138512 00] swapanim.p4d 
+-r-xr-xr-x   1    0    0   16142336 Aug 25 2005 [  65024 00] teams.p4d 
+-r-xr-xr-x   1    0    0     120832 Aug 31 2005 [  72912 00] toc.p4d 
+-r-xr-xr-x   1    0    0     382976 Jul 11 2005 [  72976 00] trophies.p4d 
+-r-xr-xr-x   1    0    0    2643968 Mar 10 2005 [  73168 00] trtex.p4d 
+
+Directory listing of /PSP_GAME/USRDIR/data/movie/
+dr-xr-xr-x   1    0    0       2048 Jun 27 2005 [     34 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 14 2005 [     28 02] .. 
+-r-xr-xr-x   1    0    0    7583744 Aug  5 2005 [  74464 00] intro.pmf 
+-r-xr-xr-x   1    0    0     673792 Mar 10 2005 [  78176 00] p44logo.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/data/sound/
+dr-xr-xr-x   1    0    0       2048 Jun 27 2005 [     35 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 14 2005 [     28 02] .. 
+-r-xr-xr-x   1    0    0   14522936 Mar 10 2005 [  78512 00] chants.skx 
+-r-xr-xr-x   1    0    0    5599456 Aug 20 2005 [  85616 00] frontend.skx 
+-r-xr-xr-x   1    0    0    1928032 Aug 31 2005 [ 127536 00] goalhorn.skx 
+-r-xr-xr-x   1    0    0   14319712 Aug 20 2005 [ 128480 00] music.skx 
+-r-xr-xr-x   1    0    0    6172128 Aug 20 2005 [ 135488 00] pa.skx 
+-r-xr-xr-x   1    0    0  570269384 Aug 18 2005 [ 144720 00] pxp.skx 
+-r-xr-xr-x   1    0    0   80219104 Jul 16 2005 [  88352 00] yells.skx 
+
+Directory listing of /PSP_GAME/USRDIR/browser/data/tex/
+dr-xr-xr-x   1    0    0       2048 Jun 27 2005 [     36 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 27 2005 [     32 02] .. 
+-r-xr-xr-x   1    0    0     522444 Mar 10 2005 [  23024 00] loading.gim 
+=============================================================== 
+Generated on Mon 22/08/2022 at 12:15:19.61 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

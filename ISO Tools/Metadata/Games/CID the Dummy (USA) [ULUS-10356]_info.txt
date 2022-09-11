@@ -1,0 +1,77 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: CID the Dummy  
+Title ID: ULUS-10356 
+Region: USA  
+Languages:   
+Volume Creation Date: 2008-11-13 16:21:39 
+Volume Size: 500 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: ULUS10356
+Volume set id: ULUS10356
+Publisher id: OXYGEN INTERACTIVE
+Data preparer id: TWELVE INTERACTIVE
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 256096
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Nov 13 2008 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2008 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 May 15 2008 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 May 15 2008 [     27 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 May 15 2008 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 13 2008 [     22 02] .. 
+-r-xr-xr-x   1    0    0      24268 Nov  6 2007 [  55184 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        472 Oct 30 2008 [  55168 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      46597 Jan 23 2008 [  55200 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0     134729 May  7 2007 [  55232 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 May 15 2008 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 May 15 2008 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 May 15 2008 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 May 15 2008 [     23 02] .. 
+-r-xr-xr-x   1    0    0    3806852 Sep 22 2008 [  55312 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    3807200 Nov 13 2008 [     32 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 May 15 2008 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 May 15 2008 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 May 15 2008 [     23 02] .. 
+-r-xr-xr-x   1    0    0  407359488 Nov 13 2008 [  57184 00] DATA.PAK 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 May 15 2008 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 May 15 2008 [     24 02] .. 
+-r-xr-xr-x   1    0    0   21602064 May 15 2008 [   6016 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5476608 May 15 2008 [   1920 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 May 15 2008 [   1904 00] PARAM.SFO 
+=============================================================== 
+Generated on Fri 19/08/2022 at  9:29:42.20 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

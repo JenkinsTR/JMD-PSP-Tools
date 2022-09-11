@@ -1,0 +1,719 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Jitsuroku Oniyome Nikki - Shiuchi ni Taeru Otto no Rifujin Taiken Adventure  
+Title ID: ULJM-05100 
+Region: Japan  
+Languages:   
+Volume Creation Date: 2006-01-18 11:04:51 
+Volume Size: 144 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: ONIYOME
+Volume set id: ONIYOME
+Publisher id: AQ INTERACTIVE
+Data preparer id: ZENER NET WORKS
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 73920
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Jan 18 2006 [     52 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     22 02] .. 
+-r-xr-xr-x   1    0    0      16239 Nov 18 2005 [  73136 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0      83968 Nov 17 2005 [  73152 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 Jan 18 2006 [  73200 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      22068 Nov 29 2005 [  73216 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0     124307 Nov 18 2005 [  73232 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     23 02] .. 
+-r-xr-xr-x   1    0    0    1253216 Jan 18 2006 [  73296 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    1253552 Jan 18 2006 [     64 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     27 02] bgm 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     28 02] gra 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     29 02] module 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     30 02] movie 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     31 02] pack 
+dr-xr-xr-x   1    0    0       6144 Jan 18 2006 [     32 02] script 
+dr-xr-xr-x   1    0    0       8192 Jan 18 2006 [     35 02] sound 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     24 02] .. 
+-r-xr-xr-x   1    0    0   14809632 Jan 18 2006 [   4800 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    3951712 Jan 18 2006 [    704 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       1772 Jan 18 2006 [    688 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/bgm/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0      76816 Nov 26 2005 [  21184 00] bm_bonusEnd.at3 
+-r-xr-xr-x   1    0    0    3088004 Nov 14 2005 [  21232 00] bm_dispute.at3 
+-r-xr-xr-x   1    0    0    1602816 Nov 25 2005 [  22752 00] bm_ending.at3 
+-r-xr-xr-x   1    0    0    4400084 Nov 14 2005 [  23536 00] bm_fresh.at3 
+-r-xr-xr-x   1    0    0    4218084 Nov 14 2005 [  25696 00] bm_joy.at3 
+-r-xr-xr-x   1    0    0    2138244 Nov 21 2005 [  27760 00] bm_menu.at3 
+-r-xr-xr-x   1    0    0    2316324 Nov 25 2005 [  28816 00] bm_menu2.at3 
+-r-xr-xr-x   1    0    0    2702164 Nov 25 2005 [  29952 00] bm_menu3.at3 
+-r-xr-xr-x   1    0    0    2241844 Nov 25 2005 [  31280 00] bm_menu4.at3 
+-r-xr-xr-x   1    0    0    2187524 Nov 21 2005 [  32384 00] bm_nightmoon.at3 
+-r-xr-xr-x   1    0    0     368576 Nov 21 2005 [  33456 00] bm_opening.at3 
+-r-xr-xr-x   1    0    0     545604 Nov 26 2005 [  33648 00] bm_slotBonus1.at3 
+-r-xr-xr-x   1    0    0     357444 Nov 26 2005 [  33920 00] bm_slotBonus2.at3 
+-r-xr-xr-x   1    0    0    1782084 Dec  7 2005 [  34096 00] bm_slotFever.at3 
+-r-xr-xr-x   1    0    0     845204 Nov 26 2005 [  34976 00] bm_slotNormal.at3 
+-r-xr-xr-x   1    0    0    1489204 Nov 21 2005 [  35392 00] bm_southern.at3 
+-r-xr-xr-x   1    0    0    4750084 Nov  4 2005 [  36128 00] bm_threat.at3 
+-r-xr-xr-x   1    0    0    3088004 Nov  4 2005 [  38448 00] bm_tortoise.at3 
+-r-xr-xr-x   1    0    0    1346404 Nov 21 2005 [  39968 00] bm_whitetower.at3 
+
+Directory listing of /PSP_GAME/USRDIR/gra/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0      16239 Nov 18 2005 [  53728 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0      83968 Nov 17 2005 [  53744 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0      17245 Nov 18 2005 [  53792 00] ICON_BLOG.PNG 
+-r-xr-xr-x   1    0    0      20243 Nov 18 2005 [  53808 00] ICON_NEW.PNG 
+-r-xr-xr-x   1    0    0      22068 Nov 29 2005 [  53824 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0     124307 Nov 18 2005 [  53840 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       6144 Jan 18 2006 [     39 02] album 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     42 02] bg 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     43 02] hen 
+
+Directory listing of /PSP_GAME/USRDIR/module/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0       3312 Oct 19 2005 [  53904 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0      10128 Oct 27 2005 [  53920 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0      23296 Oct 27 2005 [  53936 00] libfont.prx 
+-r-xr-xr-x   1    0    0      23088 Oct 27 2005 [  53952 00] mpeg.prx 
+-r-xr-xr-x   1    0    0       5392 Oct 19 2005 [  53968 00] mpegbase.prx 
+-r-xr-xr-x   1    0    0      14768 Nov 21 2005 [  53984 00] pspnet_adhoc_transfer.prx 
+-r-xr-xr-x   1    0    0       2448 Oct 27 2005 [  54000 00] pspnet_ap_dialog_dummy.prx 
+-r-xr-xr-x   1    0    0       6832 Oct 19 2005 [  54016 00] sc_sascore.prx 
+-r-xr-xr-x   1    0    0       3504 Oct 19 2005 [  54032 00] videocodec.prx 
+
+Directory listing of /PSP_GAME/USRDIR/movie/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0    3051520 Nov 30 2005 [  54048 00] demo01.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/pack/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     31 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0    2297341 Jan 18 2006 [  55552 00] av.dat 
+-r-xr-xr-x   1    0    0    3790378 Jan 18 2006 [  56688 00] edit.dat 
+-r-xr-xr-x   1    0    0     740166 Jan 18 2006 [  58544 00] itempic.dat 
+-r-xr-xr-x   1    0    0     263598 Jan 18 2006 [  58912 00] logo.dat 
+-r-xr-xr-x   1    0    0     310808 Jan 18 2006 [  59056 00] mdalbum.dat 
+-r-xr-xr-x   1    0    0    1618943 Jan 18 2006 [  59216 00] mdchapter.dat 
+-r-xr-xr-x   1    0    0     507243 Jan 18 2006 [  60016 00] mdeditmenu.dat 
+-r-xr-xr-x   1    0    0     368230 Jan 18 2006 [  60272 00] mdextra.dat 
+-r-xr-xr-x   1    0    0    1462884 Jan 18 2006 [  60464 00] mdflow.dat 
+-r-xr-xr-x   1    0    0    1035815 Jan 18 2006 [  61184 00] mdmenu.dat 
+-r-xr-xr-x   1    0    0    1261532 Jan 18 2006 [  61696 00] mdnetmenu.dat 
+-r-xr-xr-x   1    0    0    1584398 Jan 18 2006 [  62320 00] mdquots.dat 
+-r-xr-xr-x   1    0    0     406417 Jan 18 2006 [  63104 00] mdshop.dat 
+-r-xr-xr-x   1    0    0     546544 Jan 18 2006 [  63312 00] mdtitle.dat 
+-r-xr-xr-x   1    0    0    1654824 Jan 18 2006 [  63584 00] mduserinfo.dat 
+-r-xr-xr-x   1    0    0    1149170 Jan 18 2006 [  64400 00] se.dat 
+-r-xr-xr-x   1    0    0     510264 Jan 18 2006 [  64976 00] slotscenea.dat 
+-r-xr-xr-x   1    0    0    3738213 Jan 18 2006 [  65232 00] slotsceneb.dat 
+-r-xr-xr-x   1    0    0    1061384 Jan 18 2006 [  67072 00] sr.dat 
+-r-xr-xr-x   1    0    0    1639986 Jan 18 2006 [  67600 00] static.dat 
+-r-xr-xr-x   1    0    0     857310 Jan 18 2006 [  68416 00] thumbnail.dat 
+-r-xr-xr-x   1    0    0    2051325 Jan 18 2006 [  68848 00] webpic.dat 
+-r-xr-xr-x   1    0    0     246779 Jan 18 2006 [  69856 00] wv.dat 
+
+Directory listing of /PSP_GAME/USRDIR/script/
+dr-xr-xr-x   1    0    0       6144 Jan 18 2006 [     32 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0       8469 Dec 14 2005 [  69984 00] albumtips.tip 
+-r-xr-xr-x   1    0    0       3546 Dec  7 2005 [  70000 00] behavior01.wrp 
+-r-xr-xr-x   1    0    0       5626 Dec 14 2005 [  70016 00] behavior02.wrp 
+-r-xr-xr-x   1    0    0       4788 Dec  7 2005 [  70032 00] behavior03.wrp 
+-r-xr-xr-x   1    0    0       5502 Dec 14 2005 [  70048 00] behavior04.wrp 
+-r-xr-xr-x   1    0    0       6814 Dec  7 2005 [  70064 00] behavior05.wrp 
+-r-xr-xr-x   1    0    0       6132 Dec  7 2005 [  70080 00] daughter01.wrp 
+-r-xr-xr-x   1    0    0       7988 Dec  7 2005 [  70096 00] daughter02.wrp 
+-r-xr-xr-x   1    0    0       4924 Dec 13 2005 [  70112 00] daughter03.wrp 
+-r-xr-xr-x   1    0    0      10404 Dec  7 2005 [  70128 00] daughter04.wrp 
+-r-xr-xr-x   1    0    0       7128 Dec 13 2005 [  70144 00] daughter05.wrp 
+-r-xr-xr-x   1    0    0       6728 Dec 14 2005 [  70160 00] daughter06.wrp 
+-r-xr-xr-x   1    0    0       2612 Dec  7 2005 [  70176 00] daughter07.wrp 
+-r-xr-xr-x   1    0    0       2316 Dec 13 2005 [  70192 00] daughter08.wrp 
+-r-xr-xr-x   1    0    0       3448 Dec  7 2005 [  70208 00] daughter09.wrp 
+-r-xr-xr-x   1    0    0       2244 Dec  2 2005 [  70224 00] daughter10.wrp 
+-r-xr-xr-x   1    0    0       9658 Dec 19 2005 [  70240 00] friends01.wrp 
+-r-xr-xr-x   1    0    0       9712 Dec 13 2005 [  70256 00] friends02.wrp 
+-r-xr-xr-x   1    0    0       6248 Dec 14 2005 [  70272 00] friends03.wrp 
+-r-xr-xr-x   1    0    0       7794 Dec  7 2005 [  70288 00] friends04.wrp 
+-r-xr-xr-x   1    0    0       5472 Dec  7 2005 [  70304 00] friends05.wrp 
+-r-xr-xr-x   1    0    0      11148 Dec  5 2005 [  70320 00] friends06.wrp 
+-r-xr-xr-x   1    0    0      11476 Dec 14 2005 [  70336 00] friends07.wrp 
+-r-xr-xr-x   1    0    0      11732 Dec 19 2005 [  70352 00] honeymoon01.wrp 
+-r-xr-xr-x   1    0    0      10314 Dec 13 2005 [  70368 00] honeymoon02.wrp 
+-r-xr-xr-x   1    0    0       6688 Dec  7 2005 [  70384 00] honeymoon03.wrp 
+-r-xr-xr-x   1    0    0      12276 Dec 19 2005 [  70400 00] honeymoon04.wrp 
+-r-xr-xr-x   1    0    0       5730 Dec  7 2005 [  70416 00] meal01.wrp 
+-r-xr-xr-x   1    0    0       3608 Dec  6 2005 [  70432 00] meal02.wrp 
+-r-xr-xr-x   1    0    0       6070 Dec  7 2005 [  70448 00] meal03.wrp 
+-r-xr-xr-x   1    0    0       4082 Dec  8 2005 [  70464 00] meal04.wrp 
+-r-xr-xr-x   1    0    0       5692 Dec  6 2005 [  70480 00] meal05.wrp 
+-r-xr-xr-x   1    0    0       7258 Dec  6 2005 [  70496 00] meal06.wrp 
+-r-xr-xr-x   1    0    0       9456 Dec 13 2005 [  70512 00] meal07.wrp 
+-r-xr-xr-x   1    0    0       5034 Dec  8 2005 [  70528 00] meal08.wrp 
+-r-xr-xr-x   1    0    0       9694 Dec  7 2005 [  70544 00] meal09.wrp 
+-r-xr-xr-x   1    0    0       4832 Dec  6 2005 [  70560 00] meal10.wrp 
+-r-xr-xr-x   1    0    0       6458 Dec  7 2005 [  70576 00] outrageousI01.wrp 
+-r-xr-xr-x   1    0    0       7586 Dec  6 2005 [  70592 00] outrageousI02.wrp 
+-r-xr-xr-x   1    0    0       6848 Dec  7 2005 [  70608 00] outrageousI03.wrp 
+-r-xr-xr-x   1    0    0       6406 Dec  7 2005 [  70624 00] outrageousI04.wrp 
+-r-xr-xr-x   1    0    0       7542 Dec  7 2005 [  70640 00] outrageousI05.wrp 
+-r-xr-xr-x   1    0    0       5246 Dec  7 2005 [  70656 00] outrageousI06.wrp 
+-r-xr-xr-x   1    0    0       7140 Dec 13 2005 [  70672 00] outrageousI07.wrp 
+-r-xr-xr-x   1    0    0       7414 Dec  7 2005 [  70688 00] outrageousI08.wrp 
+-r-xr-xr-x   1    0    0       7538 Dec  7 2005 [  70704 00] outrageousI09.wrp 
+-r-xr-xr-x   1    0    0       6526 Dec 14 2005 [  70720 00] outrageousI10.wrp 
+-r-xr-xr-x   1    0    0       7800 Dec 14 2005 [  70736 00] outrageousI11.wrp 
+-r-xr-xr-x   1    0    0       8160 Dec  7 2005 [  70752 00] outrageousI12.wrp 
+-r-xr-xr-x   1    0    0       4766 Dec  7 2005 [  70768 00] outrageousI13.wrp 
+-r-xr-xr-x   1    0    0       6194 Dec  6 2005 [  70784 00] outrageousII01.wrp 
+-r-xr-xr-x   1    0    0       8558 Dec  7 2005 [  70800 00] outrageousII02.wrp 
+-r-xr-xr-x   1    0    0       5850 Dec  6 2005 [  70816 00] outrageousII03.wrp 
+-r-xr-xr-x   1    0    0       5728 Dec  7 2005 [  70832 00] outrageousII04.wrp 
+-r-xr-xr-x   1    0    0       7480 Dec  8 2005 [  70848 00] outrageousII05.wrp 
+-r-xr-xr-x   1    0    0       5828 Dec  7 2005 [  70864 00] outrageousII06.wrp 
+-r-xr-xr-x   1    0    0       9320 Dec 13 2005 [  70880 00] outrageousII07.wrp 
+-r-xr-xr-x   1    0    0       5172 Dec  2 2005 [  70896 00] outrageousII08.wrp 
+-r-xr-xr-x   1    0    0       6216 Dec 12 2005 [  70912 00] outrageousII09.wrp 
+-r-xr-xr-x   1    0    0       6670 Dec  6 2005 [  70928 00] outrageousII10.wrp 
+-r-xr-xr-x   1    0    0      25419 Dec 15 2005 [  70944 00] quots.qot 
+-r-xr-xr-x   1    0    0      13356 Dec 14 2005 [  70960 00] remembrance01.wrp 
+-r-xr-xr-x   1    0    0       6578 Dec  7 2005 [  70976 00] remembrance02.wrp 
+-r-xr-xr-x   1    0    0       5420 Dec 12 2005 [  70992 00] remembrance03.wrp 
+-r-xr-xr-x   1    0    0      10378 Dec  7 2005 [  71008 00] revenge01.wrp 
+-r-xr-xr-x   1    0    0      10190 Dec 14 2005 [  71024 00] revenge02.wrp 
+-r-xr-xr-x   1    0    0       2538 Dec  8 2005 [  71040 00] revenge03.wrp 
+-r-xr-xr-x   1    0    0       7826 Dec 13 2005 [  71056 00] revenge04.wrp 
+
+Directory listing of /PSP_GAME/USRDIR/sound/
+dr-xr-xr-x   1    0    0       8192 Jan 18 2006 [     35 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0       2544 Nov 28 2005 [  71744 00] se_DQAttack.vag 
+-r-xr-xr-x   1    0    0       2320 Nov 28 2005 [  71760 00] se_DQDamage.vag 
+-r-xr-xr-x   1    0    0       2784 Nov 28 2005 [  71776 00] se_DQDodge.vag 
+-r-xr-xr-x   1    0    0      12128 Nov  4 2005 [  71072 00] se_ambulance_loop.vag 
+-r-xr-xr-x   1    0    0       2400 Nov  4 2005 [  71088 00] se_attention.vag 
+-r-xr-xr-x   1    0    0       9360 Nov  4 2005 [  71104 00] se_baffle.vag 
+-r-xr-xr-x   1    0    0      17200 Nov 26 2005 [  71120 00] se_baloonFly.vag 
+-r-xr-xr-x   1    0    0      21680 Nov 28 2005 [  71136 00] se_barbecue_loop.vag 
+-r-xr-xr-x   1    0    0      10352 Nov  4 2005 [  71152 00] se_bathroom.vag 
+-r-xr-xr-x   1    0    0       7952 Nov  4 2005 [  71168 00] se_birdFlyaway.vag 
+-r-xr-xr-x   1    0    0      15344 Nov  4 2005 [  71184 00] se_bird_loop.vag 
+-r-xr-xr-x   1    0    0       2976 Nov  4 2005 [  71200 00] se_bookFall.vag 
+-r-xr-xr-x   1    0    0       4480 Nov  4 2005 [  71216 00] se_bookOpen.vag 
+-r-xr-xr-x   1    0    0       4688 Nov  4 2005 [  71232 00] se_boxAppear.vag 
+-r-xr-xr-x   1    0    0       5888 Nov 28 2005 [  71248 00] se_breakPatience.vag 
+-r-xr-xr-x   1    0    0      27520 Nov 28 2005 [  71264 00] se_bullettrain.vag 
+-r-xr-xr-x   1    0    0      14928 Nov 28 2005 [  71280 00] se_call2_loop.vag 
+-r-xr-xr-x   1    0    0       9104 Nov  4 2005 [  71296 00] se_callLineCut_loop.vag 
+-r-xr-xr-x   1    0    0      18352 Nov  4 2005 [  71312 00] se_call_loop.vag 
+-r-xr-xr-x   1    0    0       6576 Nov  4 2005 [  71328 00] se_camera.vag 
+-r-xr-xr-x   1    0    0       1744 Nov  4 2005 [  71344 00] se_cancel.vag 
+-r-xr-xr-x   1    0    0       4272 Nov  4 2005 [  71360 00] se_cancel2.vag 
+-r-xr-xr-x   1    0    0       1104 Nov  4 2005 [  71376 00] se_cancel3.vag 
+-r-xr-xr-x   1    0    0       3344 Nov  4 2005 [  71392 00] se_carDoorClose.vag 
+-r-xr-xr-x   1    0    0       5504 Nov  4 2005 [  71408 00] se_carDoorOpen.vag 
+-r-xr-xr-x   1    0    0      10608 Nov  4 2005 [  71424 00] se_carStop.vag 
+-r-xr-xr-x   1    0    0        784 Nov  4 2005 [  71440 00] se_cellularrhangup.vag 
+-r-xr-xr-x   1    0    0      51568 Nov  9 2005 [  71456 00] se_cellularring_loop.vag 
+-r-xr-xr-x   1    0    0       9200 Nov  4 2005 [  71488 00] se_clock_loop.vag 
+-r-xr-xr-x   1    0    0       7792 Nov  4 2005 [  71504 00] se_clothespin.vag 
+-r-xr-xr-x   1    0    0       9184 Nov  4 2005 [  71520 00] se_cough_men.vag 
+-r-xr-xr-x   1    0    0       8400 Nov  4 2005 [  71536 00] se_cricket_loop.vag 
+-r-xr-xr-x   1    0    0        320 Nov  4 2005 [  71552 00] se_cursor.vag 
+-r-xr-xr-x   1    0    0       1296 Nov  4 2005 [  71568 00] se_cursor2.vag 
+-r-xr-xr-x   1    0    0        992 Nov  4 2005 [  71584 00] se_cursor3.vag 
+-r-xr-xr-x   1    0    0      50448 Dec  2 2005 [  71600 00] se_darkBreath_loop.vag 
+-r-xr-xr-x   1    0    0      28576 Nov  4 2005 [  71632 00] se_daughterYell.vag 
+-r-xr-xr-x   1    0    0       1232 Nov  4 2005 [  71648 00] se_decide.vag 
+-r-xr-xr-x   1    0    0       8192 Nov  4 2005 [  71664 00] se_decide2.vag 
+-r-xr-xr-x   1    0    0       4432 Nov  4 2005 [  71680 00] se_decide3.vag 
+-r-xr-xr-x   1    0    0       2432 Nov  4 2005 [  71696 00] se_desert.vag 
+-r-xr-xr-x   1    0    0       8096 Nov  4 2005 [  71712 00] se_doorChain.vag 
+-r-xr-xr-x   1    0    0       6128 Nov  4 2005 [  71728 00] se_dooropen.vag 
+-r-xr-xr-x   1    0    0       2272 Nov  4 2005 [  71792 00] se_error.vag 
+-r-xr-xr-x   1    0    0       6048 Nov 26 2005 [  71808 00] se_exclamation.vag 
+-r-xr-xr-x   1    0    0       4272 Nov  4 2005 [  71824 00] se_fall.vag 
+-r-xr-xr-x   1    0    0      22032 Nov  9 2005 [  71840 00] se_fanfare.vag 
+-r-xr-xr-x   1    0    0       7568 Nov  4 2005 [  71856 00] se_fastforward_loop.vag 
+-r-xr-xr-x   1    0    0       4992 Nov  4 2005 [  71872 00] se_flash.vag 
+-r-xr-xr-x   1    0    0      19040 Nov  4 2005 [  71888 00] se_flight.vag 
+-r-xr-xr-x   1    0    0      16000 Nov 28 2005 [  71904 00] se_footstep2.vag 
+-r-xr-xr-x   1    0    0      10048 Nov 26 2005 [  71920 00] se_footstep3.vag 
+-r-xr-xr-x   1    0    0      22000 Nov  4 2005 [  71936 00] se_footstep_loop.vag 
+-r-xr-xr-x   1    0    0      13072 Nov 28 2005 [  71952 00] se_fumble.vag 
+-r-xr-xr-x   1    0    0       9264 Nov  4 2005 [  71968 00] se_gamestart.vag 
+-r-xr-xr-x   1    0    0       5040 Nov  4 2005 [  71984 00] se_givewad.vag 
+-r-xr-xr-x   1    0    0      12576 Nov  4 2005 [  72016 00] se_grin_lady.vag 
+-r-xr-xr-x   1    0    0      12576 Nov  4 2005 [  72032 00] se_grin_men.vag 
+-r-xr-xr-x   1    0    0       5792 Nov  4 2005 [  72000 00] se_grindSesame_loop.vag 
+-r-xr-xr-x   1    0    0      12224 Nov 30 2005 [  72048 00] se_heartbeat_loop.vag 
+-r-xr-xr-x   1    0    0       2304 Nov  4 2005 [  72064 00] se_hit.vag 
+-r-xr-xr-x   1    0    0       5808 Nov  4 2005 [  72080 00] se_hitfloor.vag 
+-r-xr-xr-x   1    0    0      10224 Nov  4 2005 [  72096 00] se_hungry.vag 
+-r-xr-xr-x   1    0    0      12512 Nov  4 2005 [  72112 00] se_impactWord.vag 
+-r-xr-xr-x   1    0    0       8000 Nov  4 2005 [  72128 00] se_inTheCar_loop.vag 
+-r-xr-xr-x   1    0    0       9280 Nov  7 2005 [  72144 00] se_itemBuy.vag 
+-r-xr-xr-x   1    0    0      12736 Nov  7 2005 [  72160 00] se_itemUnlock.vag 
+-r-xr-xr-x   1    0    0      12736 Nov  9 2005 [  72176 00] se_jowes.vag 
+-r-xr-xr-x   1    0    0      18080 Nov  4 2005 [  72192 00] se_keyboardBreak_loop.vag 
+-r-xr-xr-x   1    0    0      16240 Nov  4 2005 [  72208 00] se_keyboardTouch_loop.vag 
+-r-xr-xr-x   1    0    0       3040 Nov 28 2005 [  72224 00] se_knock.vag 
+-r-xr-xr-x   1    0    0       2800 Nov  4 2005 [  72240 00] se_lineDraw.vag 
+-r-xr-xr-x   1    0    0       7168 Nov  4 2005 [  72256 00] se_medalGet.vag 
+-r-xr-xr-x   1    0    0      12880 Nov  4 2005 [  72272 00] se_medalGet2.vag 
+-r-xr-xr-x   1    0    0      20720 Nov  4 2005 [  72288 00] se_medalGet3.vag 
+-r-xr-xr-x   1    0    0       1168 Nov 21 2005 [  72304 00] se_medalIn.vag 
+-r-xr-xr-x   1    0    0       1584 Nov  4 2005 [  72320 00] se_menu_close.vag 
+-r-xr-xr-x   1    0    0       1968 Nov  4 2005 [  72336 00] se_menu_open.vag 
+-r-xr-xr-x   1    0    0       8000 Nov 26 2005 [  72352 00] se_modeChange.vag 
+-r-xr-xr-x   1    0    0       9360 Nov  4 2005 [  72368 00] se_mugyu.vag 
+-r-xr-xr-x   1    0    0       9888 Nov 28 2005 [  72384 00] se_note_loop.vag 
+-r-xr-xr-x   1    0    0      15952 Nov 21 2005 [  72400 00] se_paybackBell.vag 
+-r-xr-xr-x   1    0    0       7376 Nov 21 2005 [  72416 00] se_paybackCherry.vag 
+-r-xr-xr-x   1    0    0      22768 Nov 21 2005 [  72432 00] se_paybackMelon.vag 
+-r-xr-xr-x   1    0    0       4976 Nov 26 2005 [  72448 00] se_question.vag 
+-r-xr-xr-x   1    0    0      20688 Nov 28 2005 [  72464 00] se_rain_loop.vag 
+-r-xr-xr-x   1    0    0       1472 Dec  8 2005 [  72480 00] se_reelStop.vag 
+-r-xr-xr-x   1    0    0       9280 Nov  4 2005 [  72496 00] se_registeropen.vag 
+-r-xr-xr-x   1    0    0       9024 Nov  4 2005 [  72512 00] se_registertype.vag 
+-r-xr-xr-x   1    0    0       1712 Nov 21 2005 [  72528 00] se_replayHit.vag 
+-r-xr-xr-x   1    0    0       2992 Nov  4 2005 [  72544 00] se_ring.vag 
+-r-xr-xr-x   1    0    0      23808 Nov  4 2005 [  72560 00] se_rings_loop.vag 
+-r-xr-xr-x   1    0    0       9072 Nov  4 2005 [  72576 00] se_rock.vag 
+-r-xr-xr-x   1    0    0       2528 Nov 21 2005 [  72592 00] se_rollReel1.vag 
+-r-xr-xr-x   1    0    0       3312 Nov 21 2005 [  72608 00] se_rollReel2.vag 
+-r-xr-xr-x   1    0    0       6816 Nov 21 2005 [  72624 00] se_rollReel3.vag 
+-r-xr-xr-x   1    0    0       5696 Nov  4 2005 [  72640 00] se_shojiclose.vag 
+-r-xr-xr-x   1    0    0      63504 Nov 28 2005 [  72656 00] se_slotFanfare.vag 
+-r-xr-xr-x   1    0    0      30656 Dec  1 2005 [  72688 00] se_slotFireworks.vag 
+-r-xr-xr-x   1    0    0      11872 Nov  4 2005 [  72704 00] se_slot_loop.vag 
+-r-xr-xr-x   1    0    0       2960 Nov  4 2005 [  72720 00] se_sneeze_men.vag 
+-r-xr-xr-x   1    0    0      26208 Nov  4 2005 [  72736 00] se_snore_loop.vag 
+-r-xr-xr-x   1    0    0      12736 Nov  4 2005 [  72752 00] se_sparkle.vag 
+-r-xr-xr-x   1    0    0       4640 Nov  4 2005 [  72768 00] se_spit.vag 
+-r-xr-xr-x   1    0    0      13168 Nov  4 2005 [  72784 00] se_splash.vag 
+-r-xr-xr-x   1    0    0      22240 Nov  4 2005 [  72800 00] se_stadium.vag 
+-r-xr-xr-x   1    0    0      15984 Oct 10 2005 [  72816 00] se_sukiyaki.vag 
+-r-xr-xr-x   1    0    0      17728 Nov 28 2005 [  72832 00] se_sukiyaki_loop.vag 
+-r-xr-xr-x   1    0    0       8272 Dec  1 2005 [  72848 00] se_surprise.vag 
+-r-xr-xr-x   1    0    0     140208 Oct 11 2005 [  72864 00] se_test.vag 
+-r-xr-xr-x   1    0    0       3200 Nov  4 2005 [  72944 00] se_thump.vag 
+-r-xr-xr-x   1    0    0      18992 Nov  4 2005 [  72960 00] se_townCar.vag 
+-r-xr-xr-x   1    0    0      17856 Nov  4 2005 [  72976 00] se_town_loop.vag 
+-r-xr-xr-x   1    0    0      12896 Nov  4 2005 [  72992 00] se_upStair_loop.vag 
+-r-xr-xr-x   1    0    0       7360 Nov  4 2005 [  73008 00] se_videoRec.vag 
+-r-xr-xr-x   1    0    0      33136 Nov 28 2005 [  73024 00] se_videotapeBreak_loop.vag 
+-r-xr-xr-x   1    0    0       5312 Nov  4 2005 [  73056 00] se_videotapeInsert.vag 
+-r-xr-xr-x   1    0    0       3152 Nov 21 2005 [  73072 00] se_wait.vag 
+-r-xr-xr-x   1    0    0       3552 Nov  4 2005 [  73088 00] se_wakeUp.vag 
+-r-xr-xr-x   1    0    0      15168 Nov  4 2005 [  73104 00] se_wind.vag 
+-r-xr-xr-x   1    0    0      14848 Nov  4 2005 [  73120 00] se_wiper_loop.vag 
+
+Directory listing of /PSP_GAME/USRDIR/gra/album/
+dr-xr-xr-x   1    0    0       6144 Jan 18 2006 [     39 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     28 02] .. 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  40640 00] web001.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  40656 00] web002.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  40672 00] web003.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  40688 00] web004.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  40704 00] web005.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  40720 00] web006.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  40736 00] web007.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  40752 00] web008.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  40768 00] web009.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  40784 00] web010.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  40800 00] web011.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  40816 00] web012.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  40832 00] web013.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  40848 00] web014.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  40864 00] web015.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  40880 00] web016.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  40896 00] web017.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  40912 00] web018.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  40928 00] web019.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  40944 00] web020.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  40960 00] web021.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  40976 00] web022.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  40992 00] web023.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  41008 00] web024.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  41024 00] web025.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  41040 00] web026.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  41056 00] web027.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  41072 00] web028.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  41088 00] web029.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  41104 00] web030.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  41120 00] web031.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  41136 00] web032.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  41152 00] web033.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  41168 00] web034.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  41184 00] web035.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  41200 00] web036.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  41216 00] web037.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  41232 00] web038.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  41248 00] web039.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  41264 00] web040.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  41280 00] web041.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  41296 00] web042.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  41312 00] web043.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  41328 00] web044.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  41344 00] web045.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  41360 00] web046.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  41376 00] web047.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  41392 00] web048.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  41408 00] web049.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  41424 00] web050.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  41440 00] web051.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  41456 00] web052.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  41472 00] web053.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  41488 00] web054.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  41504 00] web055.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  41520 00] web056.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  41536 00] web057.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  41552 00] web058.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  41568 00] web059.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  41584 00] web060.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  41600 00] web061.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  41616 00] web062.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  41632 00] web063.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  41648 00] web064.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  41664 00] web065.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  41680 00] web066.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  41696 00] web067.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  41712 00] web068.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  41728 00] web069.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  41744 00] web070.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  41760 00] web071.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  41776 00] web072.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  41792 00] web073.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  41808 00] web074.gim 
+-r-xr-xr-x   1    0    0      27344 Dec  6 2005 [  41824 00] web075.gim 
+
+Directory listing of /PSP_GAME/USRDIR/gra/bg/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     42 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     28 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     44 02] back 
+dr-xr-xr-x   1    0    0       6144 Jan 18 2006 [     45 02] common 
+dr-xr-xr-x   1    0    0       8192 Jan 18 2006 [     48 02] sam 
+
+Directory listing of /PSP_GAME/USRDIR/gra/hen/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     43 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     28 02] .. 
+-r-xr-xr-x   1    0    0       3792 Oct 18 2005 [  53568 00] hen_title01.gim 
+-r-xr-xr-x   1    0    0       5712 Oct 18 2005 [  53584 00] hen_title02.gim 
+-r-xr-xr-x   1    0    0       5712 Oct 18 2005 [  53600 00] hen_title03.gim 
+-r-xr-xr-x   1    0    0       5712 Oct 18 2005 [  53616 00] hen_title04.gim 
+-r-xr-xr-x   1    0    0       5712 Oct 18 2005 [  53632 00] hen_title05.gim 
+-r-xr-xr-x   1    0    0       3792 Oct 18 2005 [  53648 00] hen_title06.gim 
+-r-xr-xr-x   1    0    0       5712 Oct 18 2005 [  53664 00] hen_title07.gim 
+-r-xr-xr-x   1    0    0       5712 Oct 18 2005 [  53680 00] hen_title08.gim 
+-r-xr-xr-x   1    0    0       8400 Oct 12 2005 [  53696 00] hen_title09.gim 
+-r-xr-xr-x   1    0    0       8400 Oct 12 2005 [  53712 00] hen_title10.gim 
+
+Directory listing of /PSP_GAME/USRDIR/gra/bg/back/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     44 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     42 02] .. 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  41840 00] bg_back01.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  41920 00] bg_back02.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  42000 00] bg_back03.gim 
+-r-xr-xr-x   1    0    0     131792 Dec  8 2005 [  42080 00] bg_back04.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  42160 00] bg_back05.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  42240 00] bg_back06.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  42320 00] bg_back07.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  42400 00] bg_back08.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  42480 00] bg_back09.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  42560 00] bg_back10.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  42640 00] bg_back11.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  42720 00] bg_back12.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  42800 00] bg_back13.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  42880 00] bg_back14.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  42960 00] bg_back15.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  43040 00] bg_back16.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  43120 00] bg_back17.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  43200 00] bg_back18.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  43280 00] bg_back19.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  43360 00] bg_back20.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  43440 00] bg_back21.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  43520 00] bg_back22.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  43600 00] bg_back23.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  43680 00] bg_back24.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  43760 00] bg_back25.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  43840 00] bg_back26.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  43920 00] bg_back27.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  44000 00] bg_back28.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  44080 00] bg_back29.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  44160 00] bg_back30.gim 
+
+Directory listing of /PSP_GAME/USRDIR/gra/bg/common/
+dr-xr-xr-x   1    0    0       6144 Jan 18 2006 [     45 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     42 02] .. 
+-r-xr-xr-x   1    0    0     131792 Nov  9 2005 [  44240 00] bg_airport.gim 
+-r-xr-xr-x   1    0    0     131792 Nov  9 2005 [  44320 00] bg_ayatoribridge.gim 
+-r-xr-xr-x   1    0    0     131792 Nov 14 2005 [  44400 00] bg_bathroom.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  44480 00] bg_bedenter.gim 
+-r-xr-xr-x   1    0    0     131792 Nov 14 2005 [  44560 00] bg_bedroom.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  44640 00] bg_black.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  44720 00] bg_blue.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  44800 00] bg_burgershop.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  44880 00] bg_burgershop_night.gim 
+-r-xr-xr-x   1    0    0     131792 Nov 14 2005 [  44960 00] bg_cafe.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  45040 00] bg_cakeshop.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  45120 00] bg_cakeshop_night.gim 
+-r-xr-xr-x   1    0    0     131792 Nov  9 2005 [  45200 00] bg_childroom.gim 
+-r-xr-xr-x   1    0    0     131792 Nov 14 2005 [  45280 00] bg_cloudy.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  45360 00] bg_cloudy_night.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  45440 00] bg_company.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  45520 00] bg_company_night.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  45600 00] bg_conveni.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  45680 00] bg_conveni_night.gim 
+-r-xr-xr-x   1    0    0     131792 Nov 28 2005 [  45760 00] bg_diamondcity.gim 
+-r-xr-xr-x   1    0    0     131792 Dec  7 2005 [  45840 00] bg_door.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  45920 00] bg_dragstore.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  46000 00] bg_dragstore_night.gim 
+-r-xr-xr-x   1    0    0     131792 Nov 28 2005 [  46080 00] bg_dummy_1.gim 
+-r-xr-xr-x   1    0    0     131792 Nov 28 2005 [  46160 00] bg_dummy_2.gim 
+-r-xr-xr-x   1    0    0     131792 Nov 28 2005 [  46240 00] bg_dummy_3.gim 
+-r-xr-xr-x   1    0    0     131792 Nov  9 2005 [  46320 00] bg_dummy_4.gim 
+-r-xr-xr-x   1    0    0     131792 Nov  9 2005 [  46400 00] bg_dummy_5.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  46480 00] bg_elshop.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  46560 00] bg_elshop_night.gim 
+-r-xr-xr-x   1    0    0     131792 Nov 14 2005 [  46640 00] bg_entrance.gim 
+-r-xr-xr-x   1    0    0     131792 Nov  9 2005 [  46720 00] bg_farm.gim 
+-r-xr-xr-x   1    0    0     131792 Nov 14 2005 [  46800 00] bg_fine.gim 
+-r-xr-xr-x   1    0    0     131792 Nov 14 2005 [  46880 00] bg_fine_night.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 21 2005 [  46960 00] bg_fine_night2.gim 
+-r-xr-xr-x   1    0    0     131792 Nov  9 2005 [  47040 00] bg_golf.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  47120 00] bg_gray.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  47200 00] bg_green.gim 
+-r-xr-xr-x   1    0    0     131792 Jan  4 2006 [  47280 00] bg_hospital.gim 
+-r-xr-xr-x   1    0    0     131792 Jan  4 2006 [  47360 00] bg_hospital_night.gim 
+-r-xr-xr-x   1    0    0     131792 Nov  9 2005 [  47440 00] bg_hotellobby.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 27 2005 [  47520 00] bg_hotelroom.gim 
+-r-xr-xr-x   1    0    0     131792 Nov 14 2005 [  47600 00] bg_incar.gim 
+-r-xr-xr-x   1    0    0     131792 Dec  5 2005 [  47680 00] bg_incar_night.gim 
+-r-xr-xr-x   1    0    0     131792 Nov 14 2005 [  47760 00] bg_incompany.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  47840 00] bg_incompany_night.gim 
+-r-xr-xr-x   1    0    0     131792 Nov 14 2005 [  47920 00] bg_intrain.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  48000 00] bg_intrain_night.gim 
+-r-xr-xr-x   1    0    0     131792 Nov 28 2005 [  48080 00] bg_kitchen.gim 
+-r-xr-xr-x   1    0    0     131792 Nov  9 2005 [  48160 00] bg_korogibridge.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  48240 00] bg_kotatsu.gim 
+-r-xr-xr-x   1    0    0     131792 Nov 15 2005 [  48320 00] bg_living.gim 
+-r-xr-xr-x   1    0    0     131792 Nov 14 2005 [  48400 00] bg_mountain.gim 
+-r-xr-xr-x   1    0    0     131792 Nov 14 2005 [  48480 00] bg_mountain_night.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  48560 00] bg_orange.gim 
+-r-xr-xr-x   1    0    0     131792 Nov 14 2005 [  48640 00] bg_pachinco.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  48720 00] bg_pachinco_night.gim 
+-r-xr-xr-x   1    0    0     131792 Nov  9 2005 [  48800 00] bg_park.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  48880 00] bg_parking.gim 
+-r-xr-xr-x   1    0    0     131792 Nov  9 2005 [  48960 00] bg_plank.gim 
+-r-xr-xr-x   1    0    0     131792 Nov  9 2005 [  49040 00] bg_porkrestaurant.gim 
+-r-xr-xr-x   1    0    0     131792 Nov 14 2005 [  49120 00] bg_pub.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  49200 00] bg_pub_night.gim 
+-r-xr-xr-x   1    0    0     131792 Nov 14 2005 [  49280 00] bg_rainy.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  49360 00] bg_rainy_night.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  49440 00] bg_red.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  49520 00] bg_resident.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  49600 00] bg_resident_night.gim 
+-r-xr-xr-x   1    0    0     131792 Nov 14 2005 [  49680 00] bg_restaurant.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  49760 00] bg_restaurant_night.gim 
+-r-xr-xr-x   1    0    0     131792 Nov 14 2005 [  49840 00] bg_river.gim 
+-r-xr-xr-x   1    0    0     131792 Nov 14 2005 [  49920 00] bg_river_night.gim 
+-r-xr-xr-x   1    0    0     131792 Nov 14 2005 [  50000 00] bg_road.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 21 2005 [  50080 00] bg_road_night.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 27 2005 [  50160 00] bg_rurikou.gim 
+-r-xr-xr-x   1    0    0     131792 Nov  9 2005 [  50240 00] bg_rurikouroom.gim 
+-r-xr-xr-x   1    0    0     131792 Nov 14 2005 [  50320 00] bg_sea.gim 
+-r-xr-xr-x   1    0    0     131792 Nov 14 2005 [  50400 00] bg_sea_night.gim 
+-r-xr-xr-x   1    0    0     131792 Nov 28 2005 [  50480 00] bg_shop1.gim 
+-r-xr-xr-x   1    0    0     131792 Nov 14 2005 [  50560 00] bg_shop2.gim 
+-r-xr-xr-x   1    0    0     131792 Nov 14 2005 [  50640 00] bg_shoptown.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  50720 00] bg_shoptown_night.gim 
+-r-xr-xr-x   1    0    0     131792 Nov  9 2005 [  50800 00] bg_souvenirshop.gim 
+-r-xr-xr-x   1    0    0     131792 Nov 14 2005 [  50880 00] bg_station.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  50960 00] bg_station_night.gim 
+-r-xr-xr-x   1    0    0     131792 Nov  9 2005 [  51040 00] bg_statue.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  51120 00] bg_super.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  51200 00] bg_super_night.gim 
+-r-xr-xr-x   1    0    0     131792 Nov 15 2005 [  51280 00] bg_table.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  51360 00] bg_white.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  51440 00] bg_woods.gim 
+-r-xr-xr-x   1    0    0     131792 Oct 12 2005 [  51520 00] bg_woods_night.gim 
+
+Directory listing of /PSP_GAME/USRDIR/gra/bg/sam/
+dr-xr-xr-x   1    0    0       8192 Jan 18 2006 [     48 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2006 [     42 02] .. 
+-r-xr-xr-x   1    0    0      10448 Nov  9 2005 [  51600 00] sam_airport.gim 
+-r-xr-xr-x   1    0    0      10448 Nov  9 2005 [  51616 00] sam_ayatoribridge.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  51632 00] sam_back01.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  51648 00] sam_back02.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  51664 00] sam_back03.gim 
+-r-xr-xr-x   1    0    0      10448 Dec  8 2005 [  51680 00] sam_back04.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  51696 00] sam_back05.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  51712 00] sam_back06.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  51728 00] sam_back07.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  51744 00] sam_back08.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  51760 00] sam_back09.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  51776 00] sam_back10.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  51792 00] sam_back11.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  51808 00] sam_back12.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  51824 00] sam_back13.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  51840 00] sam_back14.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  51856 00] sam_back15.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  51872 00] sam_back16.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  51888 00] sam_back17.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  51904 00] sam_back18.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  51920 00] sam_back19.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  51936 00] sam_back20.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  51952 00] sam_back21.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  51968 00] sam_back22.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  51984 00] sam_back23.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  52000 00] sam_back24.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  52016 00] sam_back25.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  52032 00] sam_back26.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  52048 00] sam_back27.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  52064 00] sam_back28.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  52080 00] sam_back29.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  52096 00] sam_back30.gim 
+-r-xr-xr-x   1    0    0      10448 Nov 14 2005 [  52112 00] sam_bathroom.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  52128 00] sam_bedenter.gim 
+-r-xr-xr-x   1    0    0      10448 Nov 14 2005 [  52144 00] sam_bedroom.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 31 2005 [  52160 00] sam_black.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 31 2005 [  52176 00] sam_blue.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  52192 00] sam_burgershop.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  52208 00] sam_burgershop_night.gim 
+-r-xr-xr-x   1    0    0      10448 Nov 14 2005 [  52224 00] sam_cafe.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  52240 00] sam_cakeshop.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  52256 00] sam_cakeshop_night.gim 
+-r-xr-xr-x   1    0    0      10448 Nov  9 2005 [  52272 00] sam_childroom.gim 
+-r-xr-xr-x   1    0    0      10448 Nov 14 2005 [  52288 00] sam_cloudy.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  52304 00] sam_cloudy_night.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  52320 00] sam_company.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  52336 00] sam_company_night.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  52352 00] sam_continue.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  52368 00] sam_conveni.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  52384 00] sam_conveni_night.gim 
+-r-xr-xr-x   1    0    0      10448 Nov 28 2005 [  52400 00] sam_diamondcity.gim 
+-r-xr-xr-x   1    0    0      10448 Dec  7 2005 [  52416 00] sam_door.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  52432 00] sam_dragstore.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  52448 00] sam_dragstore_night.gim 
+-r-xr-xr-x   1    0    0      10448 Nov 28 2005 [  52464 00] sam_dummy_1.gim 
+-r-xr-xr-x   1    0    0      10448 Nov 28 2005 [  52480 00] sam_dummy_2.gim 
+-r-xr-xr-x   1    0    0      10448 Nov 28 2005 [  52496 00] sam_dummy_3.gim 
+-r-xr-xr-x   1    0    0      10448 Nov  9 2005 [  52512 00] sam_dummy_4.gim 
+-r-xr-xr-x   1    0    0      10448 Nov  9 2005 [  52528 00] sam_dummy_5.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  52544 00] sam_elshop.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  52560 00] sam_elshop_night.gim 
+-r-xr-xr-x   1    0    0      10448 Nov 14 2005 [  52576 00] sam_entrance.gim 
+-r-xr-xr-x   1    0    0      10448 Nov  9 2005 [  52592 00] sam_farm.gim 
+-r-xr-xr-x   1    0    0      10448 Nov 14 2005 [  52608 00] sam_fine.gim 
+-r-xr-xr-x   1    0    0      10448 Nov 14 2005 [  52624 00] sam_fine_night.gim 
+-r-xr-xr-x   1    0    0      10448 Nov 14 2005 [  52640 00] sam_fine_night2.gim 
+-r-xr-xr-x   1    0    0      10448 Nov  9 2005 [  52656 00] sam_golf.gim 
+-r-xr-xr-x   1    0    0      10448 Nov 14 2005 [  52672 00] sam_gray.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 31 2005 [  52688 00] sam_green.gim 
+-r-xr-xr-x   1    0    0      10448 Jan  4 2006 [  52704 00] sam_hospital.gim 
+-r-xr-xr-x   1    0    0      10448 Jan  4 2006 [  52720 00] sam_hospital_night.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  52736 00] sam_hotellobby.gim 
+-r-xr-xr-x   1    0    0      10448 Nov  9 2005 [  52752 00] sam_hotelroom.gim 
+-r-xr-xr-x   1    0    0      10448 Nov 14 2005 [  52768 00] sam_incar.gim 
+-r-xr-xr-x   1    0    0      10448 Dec  5 2005 [  52784 00] sam_incar_night.gim 
+-r-xr-xr-x   1    0    0      10448 Nov 14 2005 [  52800 00] sam_incompany.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  52816 00] sam_incompany_night.gim 
+-r-xr-xr-x   1    0    0      10448 Nov 14 2005 [  52832 00] sam_intrain.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  52848 00] sam_intrain_night.gim 
+-r-xr-xr-x   1    0    0      10448 Nov 28 2005 [  52864 00] sam_kitchen.gim 
+-r-xr-xr-x   1    0    0      10448 Nov  9 2005 [  52880 00] sam_korogibridge.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  52896 00] sam_kotatsu.gim 
+-r-xr-xr-x   1    0    0      10448 Nov 15 2005 [  52912 00] sam_living.gim 
+-r-xr-xr-x   1    0    0      10448 Nov 14 2005 [  52928 00] sam_mountain.gim 
+-r-xr-xr-x   1    0    0      10448 Nov 14 2005 [  52944 00] sam_mountain_night.gim 
+-r-xr-xr-x   1    0    0      10448 Nov 14 2005 [  52960 00] sam_orange.gim 
+-r-xr-xr-x   1    0    0      10448 Nov 14 2005 [  52976 00] sam_pachinco.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  52992 00] sam_pachinco_night.gim 
+-r-xr-xr-x   1    0    0      10448 Nov  9 2005 [  53008 00] sam_park.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  53024 00] sam_parking.gim 
+-r-xr-xr-x   1    0    0      10448 Nov  9 2005 [  53040 00] sam_plank.gim 
+-r-xr-xr-x   1    0    0      10448 Nov  9 2005 [  53056 00] sam_porkrestaurant.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  53072 00] sam_pub.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  53088 00] sam_pub_night.gim 
+-r-xr-xr-x   1    0    0      10448 Nov 14 2005 [  53104 00] sam_rainy.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  53120 00] sam_rainy_night.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 31 2005 [  53136 00] sam_red.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  53152 00] sam_resident.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  53168 00] sam_resident_night.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  53184 00] sam_restaurant.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  53200 00] sam_restaurant_night.gim 
+-r-xr-xr-x   1    0    0      10448 Nov 14 2005 [  53216 00] sam_river.gim 
+-r-xr-xr-x   1    0    0      10448 Nov 14 2005 [  53232 00] sam_river_night.gim 
+-r-xr-xr-x   1    0    0      10448 Nov 14 2005 [  53248 00] sam_road.gim 
+-r-xr-xr-x   1    0    0      10448 Nov  9 2005 [  53264 00] sam_road_night.gim 
+-r-xr-xr-x   1    0    0      10448 Nov  9 2005 [  53280 00] sam_rurikou.gim 
+-r-xr-xr-x   1    0    0      10448 Nov  9 2005 [  53296 00] sam_rurikouroom.gim 
+-r-xr-xr-x   1    0    0      10448 Nov 14 2005 [  53312 00] sam_sea.gim 
+-r-xr-xr-x   1    0    0      10448 Nov 14 2005 [  53328 00] sam_sea_night.gim 
+-r-xr-xr-x   1    0    0      10448 Nov 28 2005 [  53344 00] sam_shop1.gim 
+-r-xr-xr-x   1    0    0      10448 Nov 14 2005 [  53360 00] sam_shop2.gim 
+-r-xr-xr-x   1    0    0      10448 Nov 14 2005 [  53376 00] sam_shoptown.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  53392 00] sam_shoptown_night.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  53408 00] sam_souvenirshop.gim 
+-r-xr-xr-x   1    0    0      10448 Nov 14 2005 [  53424 00] sam_station.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  53440 00] sam_station_night.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  53456 00] sam_statue.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  53472 00] sam_super.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  53488 00] sam_super_night.gim 
+-r-xr-xr-x   1    0    0      10448 Nov 15 2005 [  53504 00] sam_table.gim 
+-r-xr-xr-x   1    0    0      10448 Nov 14 2005 [  53520 00] sam_white.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  53536 00] sam_woods.gim 
+-r-xr-xr-x   1    0    0      10448 Oct 12 2005 [  53552 00] sam_woods_night.gim 
+=============================================================== 
+Generated on Tue 23/08/2022 at 19:42:43.16 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

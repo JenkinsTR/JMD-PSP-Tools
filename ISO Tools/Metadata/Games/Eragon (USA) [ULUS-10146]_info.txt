@@ -1,0 +1,1523 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Eragon  
+Title ID: ULUS-10146 
+Region: USA  
+Languages:   
+Volume Creation Date: 2006-09-19 10:49:05 
+Volume Size: 237 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: 
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 121488
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     26 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     27 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Sep 19 2006 [    192 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     26 02] .. 
+-r-xr-xr-x   1    0    0      31514 May 29 2006 [  22672 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     493568 May 11 2006 [  22688 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 Sep 19 2006 [  22944 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     260589 Jun 17 2006 [  22960 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     28 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     29 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     27 02] .. 
+-r-xr-xr-x   1    0    0    3998285 Sep 19 2006 [  23088 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    3998624 Sep 19 2006 [    208 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     30 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     27 02] .. 
+-r-xr-xr-x   1    0    0        786 Sep 14 2006 [  99392 00] .sconsign 
+-r-xr-xr-x   1    0    0      56632 Jun 27 2006 [  99408 00] animlist.res 
+dr-xr-xr-x   1    0    0       6144 Sep 19 2006 [     31 02] characters 
+-r-xr-xr-x   1    0    0    1739180 Jun 30 2006 [  99440 00] fx.res 
+-r-xr-xr-x   1    0    0    1365448 Jul 21 2006 [ 100304 00] interface.res 
+-r-xr-xr-x   1    0    0       2396 May 20 2006 [ 100976 00] levellist.res 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     34 02] levels 
+dr-xr-xr-x   1    0    0       2048 Aug 25 2006 [     35 02] loc 
+-r-xr-xr-x   1    0    0     822432 Aug  1 2006 [ 100992 00] lua.res 
+-r-xr-xr-x   1    0    0     257724 Jul 14 2006 [ 101408 00] menu1.res 
+-r-xr-xr-x   1    0    0    2609920 Jun  6 2006 [ 101536 00] menu2.res 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     36 02] module 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     37 02] movies 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     38 02] music_mp 
+-r-xr-xr-x   1    0    0      10892 Jun 19 2006 [ 102816 00] permlua.res 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     39 02] savegame 
+-r-xr-xr-x   1    0    0        460 Aug 25 2006 [ 102832 00] sku.res 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     40 02] sku 
+-r-xr-xr-x   1    0    0     225392 Jun 24 2006 [ 102848 00] sounds.res 
+-r-xr-xr-x   1    0    0   33376428 Jun 30 2006 [ 102960 00] streams.res 
+-r-xr-xr-x   1    0    0     129836 May 22 2006 [ 119264 00] system.res 
+-r-xr-xr-x   1    0    0    4392976 Sep 19 2006 [ 119328 00] upload.dat 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     28 02] .. 
+-r-xr-xr-x   1    0    0   15027936 Sep 19 2006 [   6288 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5089088 Sep 19 2006 [   2192 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Sep 19 2006 [   2176 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/characters/
+dr-xr-xr-x   1    0    0       6144 Sep 19 2006 [     31 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0       4014 Jul  3 2006 [  25056 00] .sconsign 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     41 02] accessories 
+-r-xr-xr-x   1    0    0     225916 May 25 2006 [  25984 00] ajihad.res 
+-r-xr-xr-x   1    0    0     268068 Jun 19 2006 [  26096 00] arya.res 
+-r-xr-xr-x   1    0    0     594908 Jun 27 2006 [  26240 00] arya_casual.res 
+-r-xr-xr-x   1    0    0     104872 May 25 2006 [  26544 00] arya_farthen.res 
+-r-xr-xr-x   1    0    0     132956 May 25 2006 [  26608 00] arya_gilead.res 
+-r-xr-xr-x   1    0    0     138956 Jun  5 2006 [  26688 00] baconboar.res 
+-r-xr-xr-x   1    0    0      80696 Jun  5 2006 [  26768 00] ballista.res 
+-r-xr-xr-x   1    0    0     138248 Jun  5 2006 [  26816 00] boar.res 
+-r-xr-xr-x   1    0    0      89908 Jun 19 2006 [  26896 00] boat_daret.res 
+-r-xr-xr-x   1    0    0     134752 Jun  5 2006 [  26944 00] boat_daret_covered.res 
+-r-xr-xr-x   1    0    0     250764 Jun 19 2006 [  27024 00] brom.res 
+-r-xr-xr-x   1    0    0     102048 May 25 2006 [  27152 00] brom_gilead.res 
+-r-xr-xr-x   1    0    0     212828 Jul  3 2006 [  27216 00] brom_rider.res 
+-r-xr-xr-x   1    0    0     196128 Jun 24 2006 [  27328 00] catapult.res 
+-r-xr-xr-x   1    0    0     224608 Jun 27 2006 [  27424 00] cs_eragon.res 
+-r-xr-xr-x   1    0    0      92208 Jun 18 2006 [  27536 00] cs_kull.res 
+-r-xr-xr-x   1    0    0      96272 Jun 15 2006 [  27584 00] cs_urgal.res 
+-r-xr-xr-x   1    0    0     150216 Jun 15 2006 [  27632 00] damsel_evil.res 
+-r-xr-xr-x   1    0    0     139248 Jun 15 2006 [  27712 00] damsel_good.res 
+-r-xr-xr-x   1    0    0     110788 Jun 11 2006 [  27792 00] deer.res 
+-r-xr-xr-x   1    0    0      87392 Jun  1 2006 [  27856 00] dove.res 
+-r-xr-xr-x   1    0    0     384252 Jun 19 2006 [  27904 00] durza.res 
+-r-xr-xr-x   1    0    0     283412 Jun 19 2006 [  28400 00] durza_gilead.res 
+-r-xr-xr-x   1    0    0     870016 Jun 19 2006 [  28544 00] durza_ground.res 
+-r-xr-xr-x   1    0    0     158092 May 25 2006 [  28976 00] durza_ss.res 
+-r-xr-xr-x   1    0    0     602868 May 25 2006 [  28096 00] durzas_beast.res 
+-r-xr-xr-x   1    0    0     245900 May 25 2006 [  29056 00] dwarf.res 
+-r-xr-xr-x   1    0    0     177072 May 25 2006 [  29184 00] eagle.res 
+-r-xr-xr-x   1    0    0     343432 Jun 19 2006 [  29280 00] eragon.res 
+-r-xr-xr-x   1    0    0     443836 Jun 27 2006 [  29456 00] eragon_solo.res 
+-r-xr-xr-x   1    0    0      55884 May 25 2006 [  29680 00] fish.res 
+-r-xr-xr-x   1    0    0     171136 Jun 16 2006 [  29712 00] flak_catapult.res 
+-r-xr-xr-x   1    0    0     324884 Jun  8 2006 [  30192 00] foresworn_dragon.res 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     42 02] foresworn_dragon 
+-r-xr-xr-x   1    0    0     134552 Jun 27 2006 [  30688 00] foresworn_rider.res 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     43 02] foresworn_rider 
+-r-xr-xr-x   1    0    0     181480 Jun 19 2006 [  30768 00] galbatorix.res 
+-r-xr-xr-x   1    0    0     118192 May 25 2006 [  30864 00] galbatorix_rider.res 
+-r-xr-xr-x   1    0    0     143348 Jun  8 2006 [  30928 00] goat.res 
+-r-xr-xr-x   1    0    0      62740 Jun  5 2006 [  31008 00] goose.res 
+-r-xr-xr-x   1    0    0     149172 Jun 19 2006 [  31040 00] horse.res 
+-r-xr-xr-x   1    0    0     141584 Jun  5 2006 [  31120 00] horse_brom.res 
+-r-xr-xr-x   1    0    0     141376 Jun  5 2006 [  31200 00] horse_eragon.res 
+-r-xr-xr-x   1    0    0     186156 May 25 2006 [  31280 00] kings_soldier.res 
+-r-xr-xr-x   1    0    0     213700 Jun 27 2006 [  31376 00] murtagh.res 
+-r-xr-xr-x   1    0    0     149916 Jun  8 2006 [  31488 00] racing_vulture.res 
+-r-xr-xr-x   1    0    0     102088 May 25 2006 [  31568 00] raven.res 
+-r-xr-xr-x   1    0    0     326072 Jun 30 2006 [  31632 00] razac1.res 
+-r-xr-xr-x   1    0    0      71948 Jun  8 2006 [  31792 00] razac2.res 
+-r-xr-xr-x   1    0    0     833208 Jun 19 2006 [  31840 00] saphira.res 
+-r-xr-xr-x   1    0    0     635872 Jun 10 2006 [  32640 00] shurtugal_dragon.res 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     44 02] shurtugal_dragon 
+-r-xr-xr-x   1    0    0     341804 Jun  9 2006 [  33312 00] shurtugal_rider.res 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     45 02] shurtugal_rider 
+-r-xr-xr-x   1    0    0      60912 May 25 2006 [  33488 00] stag.res 
+-r-xr-xr-x   1    0    0      18220 May 25 2006 [  33520 00] steel_net_gilead.res 
+-r-xr-xr-x   1    0    0     158624 Jun 28 2006 [  33536 00] trebuchet.res 
+-r-xr-xr-x   1    0    0     240348 Jun 19 2006 [  33616 00] urgal.res 
+-r-xr-xr-x   1    0    0     271740 Jun 18 2006 [  33744 00] urgal2.res 
+-r-xr-xr-x   1    0    0      73280 Jun 12 2006 [  33888 00] varden_fighter.res 
+-r-xr-xr-x   1    0    0     117536 Jun 19 2006 [  33936 00] villager.res 
+-r-xr-xr-x   1    0    0     119492 Jun  5 2006 [  34000 00] villager_f.res 
+-r-xr-xr-x   1    0    0     124596 Jun  5 2006 [  34064 00] vulture.res 
+-r-xr-xr-x   1    0    0     110384 Jun 19 2006 [  34128 00] wagon.res 
+-r-xr-xr-x   1    0    0      87352 Jun 27 2006 [  34192 00] wagon_armored.res 
+-r-xr-xr-x   1    0    0     170100 Jun  5 2006 [  34240 00] wagon_covered.res 
+-r-xr-xr-x   1    0    0     123648 Jun  5 2006 [  34336 00] wagon_supply.res 
+-r-xr-xr-x   1    0    0     164892 Jun  5 2006 [  34400 00] wagon_urgal.res 
+-r-xr-xr-x   1    0    0     206656 Jun 27 2006 [  34496 00] wolf.res 
+-r-xr-xr-x   1    0    0     487408 Jun 18 2006 [  34608 00] young_saphira.res 
+
+Directory listing of /PSP_GAME/USRDIR/levels/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     34 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0        217 Jul  6 2006 [  34848 00] .sconsign 
+-r-xr-xr-x   1    0    0     367884 May 15 2006 [  34864 00] basic_level.res 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     46 02] beor 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     47 02] daret 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     48 02] farthendur 
+-r-xr-xr-x   1    0    0      84288 Jul  6 2006 [  42352 00] frontend.res 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     49 02] gilead 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     50 02] palancar 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     51 02] plains 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     52 02] test 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     53 02] whitebox 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     54 02] xcutscenes 
+
+Directory listing of /PSP_GAME/USRDIR/loc/
+dr-xr-xr-x   1    0    0       2048 Aug 25 2006 [     35 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0     179360 Jul 24 2006 [  66176 00] dut.res 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     55 02] dut 
+-r-xr-xr-x   1    0    0     179360 Jul 24 2006 [  68768 00] eng.res 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     56 02] eng 
+-r-xr-xr-x   1    0    0     179360 Jul 24 2006 [  71360 00] fre.res 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     57 02] fre 
+-r-xr-xr-x   1    0    0     179360 Jul 24 2006 [  73952 00] ger.res 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     58 02] ger 
+-r-xr-xr-x   1    0    0     179360 Jul 24 2006 [  76544 00] ita.res 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     59 02] ita 
+-r-xr-xr-x   1    0    0     179360 Jul 24 2006 [  79136 00] jpn.res 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     60 02] jpn 
+-r-xr-xr-x   1    0    0     179360 Jul 24 2006 [  81728 00] kor.res 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     61 02] kor 
+-r-xr-xr-x   1    0    0     179360 Jul 24 2006 [  84320 00] por.res 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     62 02] por 
+-r-xr-xr-x   1    0    0     179360 Jul 24 2006 [  86912 00] rus.res 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     63 02] rus 
+-r-xr-xr-x   1    0    0     179360 Jul 24 2006 [  89504 00] sim.res 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     64 02] sim 
+-r-xr-xr-x   1    0    0     179360 Jul 24 2006 [  92096 00] spa.res 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     65 02] spa 
+-r-xr-xr-x   1    0    0     179360 Jul 24 2006 [  94688 00] tra.res 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     66 02] tra 
+
+Directory listing of /PSP_GAME/USRDIR/module/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     36 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0         98 Jul 20 2006 [  94784 00] .sconsign 
+-r-xr-xr-x   1    0    0      23456 Apr 26 2006 [  94800 00] libfont.prx 
+
+Directory listing of /PSP_GAME/USRDIR/movies/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     37 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     29 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     67 02] logos 
+
+Directory listing of /PSP_GAME/USRDIR/music_mp/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     38 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0        604 Jun 18 2006 [  97456 00] .sconsign 
+-r-xr-xr-x   1    0    0     288896 Jun 11 2006 [  97472 00] mp_butchersquest.res 
+-r-xr-xr-x   1    0    0     313472 Jun 11 2006 [  97616 00] mp_deathmatch.res 
+-r-xr-xr-x   1    0    0     313440 Jun 11 2006 [  97776 00] mp_doves.res 
+-r-xr-xr-x   1    0    0     411892 Jun 11 2006 [  97936 00] mp_lastdragonrider.res 
+-r-xr-xr-x   1    0    0     342112 Jun 18 2006 [  98144 00] mp_maidens.res 
+-r-xr-xr-x   1    0    0     313472 Jun 15 2006 [  98320 00] mp_pillageburn.res 
+-r-xr-xr-x   1    0    0     481492 Jun 14 2006 [  98480 00] mp_ruler.res 
+-r-xr-xr-x   1    0    0     489684 Jun 14 2006 [  98720 00] mp_supremacy.res 
+-r-xr-xr-x   1    0    0     301152 Jun 11 2006 [  98960 00] mp_totems.res 
+
+Directory listing of /PSP_GAME/USRDIR/savegame/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     39 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0        210 May 29 2006 [  99120 00] .sconsign 
+-r-xr-xr-x   1    0    0      28885 Apr  3 2006 [  99136 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0      23174 Apr  3 2006 [  99152 00] ICONEMPTY.PNG 
+-r-xr-xr-x   1    0    0     260559 May 29 2006 [  99168 00] PIC1.PNG 
+
+Directory listing of /PSP_GAME/USRDIR/sku/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     40 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     29 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     68 02] efigs 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     69 02] rus 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     70 02] us 
+
+Directory listing of /PSP_GAME/USRDIR/characters/accessories/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     41 02] . 
+dr-xr-xr-x   1    0    0       6144 Sep 19 2006 [     31 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     71 02] foresworn_dragon 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     72 02] foresworn_rider 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     73 02] shurtugal_dragon 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     74 02] shurtugal_rider 
+
+Directory listing of /PSP_GAME/USRDIR/characters/foresworn_dragon/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     42 02] . 
+dr-xr-xr-x   1    0    0       6144 Sep 19 2006 [     31 02] .. 
+-r-xr-xr-x   1    0    0        618 May 19 2006 [  29808 00] .sconsign 
+-r-xr-xr-x   1    0    0      44464 May 19 2006 [  29824 00] armor_bone.res 
+-r-xr-xr-x   1    0    0      44464 May 19 2006 [  29856 00] armor_chainmail.res 
+-r-xr-xr-x   1    0    0      44464 May 19 2006 [  29888 00] armor_galbatorix.res 
+-r-xr-xr-x   1    0    0      44464 May 19 2006 [  29920 00] armor_jewel.res 
+-r-xr-xr-x   1    0    0      44464 May 19 2006 [  29952 00] armor_leather.res 
+-r-xr-xr-x   1    0    0      44464 May 19 2006 [  29984 00] armor_pelt.res 
+-r-xr-xr-x   1    0    0      44464 May 19 2006 [  30016 00] armor_stone.res 
+-r-xr-xr-x   1    0    0      44464 May 19 2006 [  30048 00] armor_wood.res 
+-r-xr-xr-x   1    0    0      44464 May 19 2006 [  30080 00] forsworn.res 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     75 02] fx 
+
+Directory listing of /PSP_GAME/USRDIR/characters/foresworn_rider/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     43 02] . 
+dr-xr-xr-x   1    0    0       6144 Sep 19 2006 [     31 02] .. 
+-r-xr-xr-x   1    0    0        556 May 19 2006 [  30352 00] .sconsign 
+-r-xr-xr-x   1    0    0      44464 May 19 2006 [  30368 00] armor_bone.res 
+-r-xr-xr-x   1    0    0      44464 May 19 2006 [  30400 00] armor_chainmail.res 
+-r-xr-xr-x   1    0    0      44464 May 19 2006 [  30432 00] armor_jewel.res 
+-r-xr-xr-x   1    0    0      44464 May 19 2006 [  30464 00] armor_leather.res 
+-r-xr-xr-x   1    0    0      44464 May 19 2006 [  30496 00] armor_pelt.res 
+-r-xr-xr-x   1    0    0      44464 May 19 2006 [  30528 00] armor_stone.res 
+-r-xr-xr-x   1    0    0      44464 May 19 2006 [  30560 00] armor_wood.res 
+-r-xr-xr-x   1    0    0      44464 May 19 2006 [  30592 00] foresworn_rider.res 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     76 02] fx 
+
+Directory listing of /PSP_GAME/USRDIR/characters/shurtugal_dragon/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     44 02] . 
+dr-xr-xr-x   1    0    0       6144 Sep 19 2006 [     31 02] .. 
+-r-xr-xr-x   1    0    0        613 May 19 2006 [  32256 00] .sconsign 
+-r-xr-xr-x   1    0    0      44464 May 15 2006 [  32272 00] armor_bone.res 
+-r-xr-xr-x   1    0    0      44464 May 19 2006 [  32304 00] armor_brom.res 
+-r-xr-xr-x   1    0    0      44464 May 15 2006 [  32336 00] armor_chainmail.res 
+-r-xr-xr-x   1    0    0      44464 May 15 2006 [  32368 00] armor_jewel.res 
+-r-xr-xr-x   1    0    0      44464 May 15 2006 [  32400 00] armor_leather.res 
+-r-xr-xr-x   1    0    0      44464 May 15 2006 [  32432 00] armor_pelt.res 
+-r-xr-xr-x   1    0    0      44464 May 15 2006 [  32464 00] armor_stone.res 
+-r-xr-xr-x   1    0    0      44464 May 15 2006 [  32496 00] armor_wood.res 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     77 02] fx 
+-r-xr-xr-x   1    0    0      44464 May 19 2006 [  32608 00] shurtugal.res 
+
+Directory listing of /PSP_GAME/USRDIR/characters/shurtugal_rider/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     45 02] . 
+dr-xr-xr-x   1    0    0       6144 Sep 19 2006 [     31 02] .. 
+-r-xr-xr-x   1    0    0        550 May 19 2006 [  32960 00] .sconsign 
+-r-xr-xr-x   1    0    0      44464 May 19 2006 [  32976 00] armor_bone.res 
+-r-xr-xr-x   1    0    0      44464 May 19 2006 [  33008 00] armor_chainmail.res 
+-r-xr-xr-x   1    0    0      44464 May 19 2006 [  33040 00] armor_jewel.res 
+-r-xr-xr-x   1    0    0      44464 May 19 2006 [  33072 00] armor_leather.res 
+-r-xr-xr-x   1    0    0      44464 May 19 2006 [  33104 00] armor_pelt.res 
+-r-xr-xr-x   1    0    0      44464 May 19 2006 [  33136 00] armor_stone.res 
+-r-xr-xr-x   1    0    0      44464 May 19 2006 [  33168 00] armor_wood.res 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     78 02] fx 
+-r-xr-xr-x   1    0    0      44464 May 19 2006 [  33280 00] shurtugal.res 
+
+Directory listing of /PSP_GAME/USRDIR/levels/beor/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     46 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     34 02] .. 
+-r-xr-xr-x   1    0    0        159 Aug 25 2006 [  35056 00] .sconsign 
+-r-xr-xr-x   1    0    0    2577612 Aug 25 2006 [  35072 00] beor_arena.res 
+-r-xr-xr-x   1    0    0    2070236 Jul 19 2006 [  36336 00] beor_story.res 
+
+Directory listing of /PSP_GAME/USRDIR/levels/daret/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     47 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     34 02] .. 
+-r-xr-xr-x   1    0    0        161 Aug  1 2006 [  37360 00] .sconsign 
+-r-xr-xr-x   1    0    0    1538396 Jun 26 2006 [  37376 00] daret_arena.res 
+-r-xr-xr-x   1    0    0    1916140 Aug  1 2006 [  38128 00] daret_story.res 
+
+Directory listing of /PSP_GAME/USRDIR/levels/farthendur/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     48 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     34 02] .. 
+-r-xr-xr-x   1    0    0        308 Jul 27 2006 [  39072 00] .sconsign 
+-r-xr-xr-x   1    0    0    1721752 Jul  3 2006 [  39088 00] farthendur_arena.res 
+-r-xr-xr-x   1    0    0    2033984 Jul 20 2006 [  39936 00] farthendur_story1.res 
+-r-xr-xr-x   1    0    0    2096880 Jul 26 2006 [  40944 00] farthendur_story2.res 
+-r-xr-xr-x   1    0    0     779216 Jul 19 2006 [  41968 00] farthendur_story3.res 
+
+Directory listing of /PSP_GAME/USRDIR/levels/gilead/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     49 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     34 02] .. 
+-r-xr-xr-x   1    0    0        228 Jul 25 2006 [  42400 00] .sconsign 
+-r-xr-xr-x   1    0    0    1690744 Jul 24 2006 [  42416 00] gilead_arena.res 
+-r-xr-xr-x   1    0    0    2606008 Jul 13 2006 [  43248 00] gilead_story1.res 
+-r-xr-xr-x   1    0    0    2293528 Jul 11 2006 [  44528 00] gilead_story2.res 
+
+Directory listing of /PSP_GAME/USRDIR/levels/palancar/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     50 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     34 02] .. 
+-r-xr-xr-x   1    0    0        306 Jul 20 2006 [  45648 00] .sconsign 
+-r-xr-xr-x   1    0    0    1551356 Jun 27 2006 [  45664 00] palancar_arena.res 
+-r-xr-xr-x   1    0    0    1140840 Jun 27 2006 [  46432 00] palancar_arena_tut.res 
+-r-xr-xr-x   1    0    0    1005960 Jun 27 2006 [  46992 00] palancar_arena_tut2.res 
+-r-xr-xr-x   1    0    0    1926092 Jul 19 2006 [  47488 00] palancar_story.res 
+
+Directory listing of /PSP_GAME/USRDIR/levels/plains/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     51 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     34 02] .. 
+-r-xr-xr-x   1    0    0        287 Jun 30 2006 [  48432 00] .sconsign 
+-r-xr-xr-x   1    0    0    2000844 Jun 19 2006 [  48448 00] plains_arena.res 
+-r-xr-xr-x   1    0    0    2009612 Jun 30 2006 [  49440 00] plains_story1.res 
+-r-xr-xr-x   1    0    0    1626276 May 20 2006 [  50432 00] plains_story2.res 
+
+Directory listing of /PSP_GAME/USRDIR/levels/test/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     52 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     34 02] .. 
+-r-xr-xr-x   1    0    0       2092 May 21 2006 [  51232 00] .sconsign 
+-r-xr-xr-x   1    0    0      55984 May 16 2006 [  51248 00] animpreview.res 
+-r-xr-xr-x   1    0    0     454484 May 15 2006 [  51280 00] cloudtest.res 
+-r-xr-xr-x   1    0    0     295272 May 18 2006 [  51504 00] dragonsight1.res 
+-r-xr-xr-x   1    0    0     452108 May 15 2006 [  51664 00] framerate1.res 
+-r-xr-xr-x   1    0    0    1581124 May 15 2006 [  51888 00] framerate2.res 
+-r-xr-xr-x   1    0    0    6140004 May 15 2006 [  52672 00] framerate3.res 
+-r-xr-xr-x   1    0    0    3531300 May 15 2006 [  55680 00] framerate4.res 
+-r-xr-xr-x   1    0    0    1537404 May 16 2006 [  57472 00] gilead_test.res 
+-r-xr-xr-x   1    0    0     124768 May 15 2006 [  57408 00] gileadarenatest.res 
+-r-xr-xr-x   1    0    0    2870576 May 16 2006 [  58224 00] navmesh.res 
+-r-xr-xr-x   1    0    0      21960 May 15 2006 [  59632 00] riverbasin1.res 
+-r-xr-xr-x   1    0    0      35624 May 15 2006 [  59648 00] riverbasin2.res 
+-r-xr-xr-x   1    0    0      79300 May 15 2006 [  59680 00] riverbasin3.res 
+-r-xr-xr-x   1    0    0     116392 May 15 2006 [  59728 00] sequencertest.res 
+-r-xr-xr-x   1    0    0     329088 May 18 2006 [  59792 00] stresstest.res 
+-r-xr-xr-x   1    0    0     819192 May 16 2006 [  59968 00] tubetest.res 
+-r-xr-xr-x   1    0    0      77580 May 15 2006 [  60368 00] wiringtest.res 
+-r-xr-xr-x   1    0    0     303188 May 18 2006 [  60416 00] wiringtest2.res 
+-r-xr-xr-x   1    0    0      77548 May 15 2006 [  60576 00] xtian.res 
+
+Directory listing of /PSP_GAME/USRDIR/levels/whitebox/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     53 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     34 02] .. 
+-r-xr-xr-x   1    0    0        364 May 21 2006 [  60624 00] .sconsign 
+-r-xr-xr-x   1    0    0     479244 May 15 2006 [  60640 00] beor.res 
+-r-xr-xr-x   1    0    0     450624 May 15 2006 [  60880 00] daret.res 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     79 02] palancar 
+-r-xr-xr-x   1    0    0     250920 May 18 2006 [  61184 00] the_plains.res 
+
+Directory listing of /PSP_GAME/USRDIR/levels/xcutscenes/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     54 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     34 02] .. 
+-r-xr-xr-x   1    0    0        257 Jul 27 2006 [  61312 00] .sconsign 
+-r-xr-xr-x   1    0    0    1729104 Jun 30 2006 [  61328 00] 1100.res 
+-r-xr-xr-x   1    0    0    1121472 Jun 30 2006 [  62176 00] 2120.res 
+-r-xr-xr-x   1    0    0     295968 Jun 30 2006 [  62736 00] 4100.res 
+-r-xr-xr-x   1    0    0    1582080 Jul 27 2006 [  62896 00] 6420.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/dut/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     55 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 25 2006 [     35 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     80 02] characters 
+-r-xr-xr-x   1    0    0       4284 Jul 25 2006 [  64256 00] gameshare.res 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     81 02] levels 
+
+Directory listing of /PSP_GAME/USRDIR/loc/eng/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     56 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 25 2006 [     35 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     82 02] characters 
+-r-xr-xr-x   1    0    0       4284 Jul 25 2006 [  66848 00] gameshare.res 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     83 02] levels 
+
+Directory listing of /PSP_GAME/USRDIR/loc/fre/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     57 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 25 2006 [     35 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     84 02] characters 
+-r-xr-xr-x   1    0    0       4284 Jul 25 2006 [  69440 00] gameshare.res 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     85 02] levels 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ger/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     58 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 25 2006 [     35 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     86 02] characters 
+-r-xr-xr-x   1    0    0       4284 Jul 25 2006 [  72032 00] gameshare.res 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     87 02] levels 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ita/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     59 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 25 2006 [     35 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     88 02] characters 
+-r-xr-xr-x   1    0    0       4284 Jul 25 2006 [  74624 00] gameshare.res 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     89 02] levels 
+
+Directory listing of /PSP_GAME/USRDIR/loc/jpn/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     60 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 25 2006 [     35 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     90 02] characters 
+-r-xr-xr-x   1    0    0       4284 Jul 25 2006 [  77216 00] gameshare.res 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     91 02] levels 
+
+Directory listing of /PSP_GAME/USRDIR/loc/kor/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     61 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 25 2006 [     35 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     92 02] characters 
+-r-xr-xr-x   1    0    0       4284 Jul 25 2006 [  79808 00] gameshare.res 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     93 02] levels 
+
+Directory listing of /PSP_GAME/USRDIR/loc/por/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     62 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 25 2006 [     35 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     94 02] characters 
+-r-xr-xr-x   1    0    0       4284 Jul 25 2006 [  82400 00] gameshare.res 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     95 02] levels 
+
+Directory listing of /PSP_GAME/USRDIR/loc/rus/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     63 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 25 2006 [     35 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     96 02] characters 
+-r-xr-xr-x   1    0    0       4284 Jul 25 2006 [  84992 00] gameshare.res 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     97 02] levels 
+
+Directory listing of /PSP_GAME/USRDIR/loc/sim/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     64 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 25 2006 [     35 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     98 02] characters 
+-r-xr-xr-x   1    0    0       4284 Jul 25 2006 [  87584 00] gameshare.res 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     99 02] levels 
+
+Directory listing of /PSP_GAME/USRDIR/loc/spa/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     65 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 25 2006 [     35 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    100 02] characters 
+-r-xr-xr-x   1    0    0       4284 Jul 25 2006 [  90176 00] gameshare.res 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    101 02] levels 
+
+Directory listing of /PSP_GAME/USRDIR/loc/tra/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     66 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 25 2006 [     35 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    102 02] characters 
+-r-xr-xr-x   1    0    0       4284 Jul 25 2006 [  92768 00] gameshare.res 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    103 02] levels 
+
+Directory listing of /PSP_GAME/USRDIR/movies/logos/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     67 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     37 02] .. 
+-r-xr-xr-x   1    0    0        216 May 19 2006 [  94816 00] .sconsign 
+-r-xr-xr-x   1    0    0    1249280 May 15 2006 [  94832 00] amaze.pmf 
+-r-xr-xr-x   1    0    0    3358720 Apr 21 2006 [  95456 00] fox.pmf 
+-r-xr-xr-x   1    0    0     704512 May 19 2006 [  97104 00] sierra.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/sku/efigs/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     68 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     40 02] .. 
+-r-xr-xr-x   1    0    0         88 Aug 25 2006 [  99296 00] .sconsign 
+-r-xr-xr-x   1    0    0        460 Aug 25 2006 [  99312 00] sku.res 
+
+Directory listing of /PSP_GAME/USRDIR/sku/rus/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     69 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     40 02] .. 
+-r-xr-xr-x   1    0    0         88 Aug 25 2006 [  99328 00] .sconsign 
+-r-xr-xr-x   1    0    0        460 Aug 25 2006 [  99344 00] sku.res 
+
+Directory listing of /PSP_GAME/USRDIR/sku/us/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     70 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     40 02] .. 
+-r-xr-xr-x   1    0    0         88 Aug 25 2006 [  99360 00] .sconsign 
+-r-xr-xr-x   1    0    0        460 Aug 25 2006 [  99376 00] sku.res 
+
+Directory listing of /PSP_GAME/USRDIR/characters/accessories/foresworn_dragon/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     71 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     41 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    104 02] fx 
+
+Directory listing of /PSP_GAME/USRDIR/characters/accessories/foresworn_rider/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     72 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     41 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    105 02] fx 
+
+Directory listing of /PSP_GAME/USRDIR/characters/accessories/shurtugal_dragon/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     73 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     41 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    106 02] fx 
+
+Directory listing of /PSP_GAME/USRDIR/characters/accessories/shurtugal_rider/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     74 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     41 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    107 02] fx 
+
+Directory listing of /PSP_GAME/USRDIR/characters/foresworn_dragon/fx/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     75 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     42 02] .. 
+-r-xr-xr-x   1    0    0        280 Jun  8 2006 [  30112 00] .sconsign 
+-r-xr-xr-x   1    0    0       3504 May 19 2006 [  30128 00] blood.res 
+-r-xr-xr-x   1    0    0       3504 May 19 2006 [  30144 00] contrail_wing.res 
+-r-xr-xr-x   1    0    0      44464 May 19 2006 [  30160 00] saddle_tx.res 
+
+Directory listing of /PSP_GAME/USRDIR/characters/foresworn_rider/fx/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     76 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     43 02] .. 
+-r-xr-xr-x   1    0    0        227 May 19 2006 [  30624 00] .sconsign 
+-r-xr-xr-x   1    0    0       3504 May 18 2006 [  30640 00] fx_sword_swipe.res 
+-r-xr-xr-x   1    0    0      11696 May 19 2006 [  30656 00] quiver_tx.res 
+-r-xr-xr-x   1    0    0      11696 May 19 2006 [  30672 00] sword_tx.res 
+
+Directory listing of /PSP_GAME/USRDIR/characters/shurtugal_dragon/fx/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     77 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     44 02] .. 
+-r-xr-xr-x   1    0    0        280 Jun  8 2006 [  32528 00] .sconsign 
+-r-xr-xr-x   1    0    0       3504 May 19 2006 [  32544 00] blood.res 
+-r-xr-xr-x   1    0    0       3504 May 15 2006 [  32560 00] contrail_wing.res 
+-r-xr-xr-x   1    0    0      44464 May 19 2006 [  32576 00] saddle_tx.res 
+
+Directory listing of /PSP_GAME/USRDIR/characters/shurtugal_rider/fx/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     78 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     45 02] .. 
+-r-xr-xr-x   1    0    0        292 May 19 2006 [  33200 00] .sconsign 
+-r-xr-xr-x   1    0    0       2224 May 19 2006 [  33216 00] contrail_blu.res 
+-r-xr-xr-x   1    0    0       3504 May 17 2006 [  33232 00] fx_sword_swipe.res 
+-r-xr-xr-x   1    0    0      11696 May 19 2006 [  33248 00] quiver_tx.res 
+-r-xr-xr-x   1    0    0      11696 May 19 2006 [  33264 00] sword_tx.res 
+
+Directory listing of /PSP_GAME/USRDIR/levels/whitebox/palancar/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     79 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     53 02] .. 
+-r-xr-xr-x   1    0    0        162 May 21 2006 [  61104 00] .sconsign 
+-r-xr-xr-x   1    0    0     121720 May 15 2006 [  61120 00] palancar_story.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/dut/characters/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     80 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     55 02] .. 
+-r-xr-xr-x   1    0    0     122992 Jun  6 2006 [  63680 00] ajihad.res 
+-r-xr-xr-x   1    0    0      43792 Jun  6 2006 [  63744 00] arya.res 
+-r-xr-xr-x   1    0    0      81936 Jun  6 2006 [  63776 00] brom.res 
+-r-xr-xr-x   1    0    0      41296 Jun  8 2006 [  63824 00] cs_eragon.res 
+-r-xr-xr-x   1    0    0      27312 Jun 15 2006 [  63856 00] damsel_evil.res 
+-r-xr-xr-x   1    0    0      27312 Jun 15 2006 [  63872 00] damsel_good.res 
+-r-xr-xr-x   1    0    0      78128 Jun  6 2006 [  63888 00] durza.res 
+-r-xr-xr-x   1    0    0      24464 Jun  8 2006 [  63936 00] durza_gilead.res 
+-r-xr-xr-x   1    0    0      18928 Jun  8 2006 [  63952 00] durza_ground.res 
+-r-xr-xr-x   1    0    0     102672 Jun  6 2006 [  63968 00] eragon.res 
+-r-xr-xr-x   1    0    0     127888 Jun  6 2006 [  64032 00] galbatorix_rider.res 
+-r-xr-xr-x   1    0    0     132848 Jun  6 2006 [  64096 00] kings_soldier.res 
+-r-xr-xr-x   1    0    0     132080 Jun  6 2006 [  64176 00] murtagh.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/dut/levels/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     81 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     55 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    108 02] beor 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    109 02] daret 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    110 02] farthendur 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    111 02] gilead 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    112 02] palencar 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    113 02] plains 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    114 02] xcutscenes 
+
+Directory listing of /PSP_GAME/USRDIR/loc/eng/characters/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     82 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     56 02] .. 
+-r-xr-xr-x   1    0    0     122992 Jun  6 2006 [  66272 00] ajihad.res 
+-r-xr-xr-x   1    0    0      43792 Jun  6 2006 [  66336 00] arya.res 
+-r-xr-xr-x   1    0    0      81936 Jun  6 2006 [  66368 00] brom.res 
+-r-xr-xr-x   1    0    0      41296 Jun  8 2006 [  66416 00] cs_eragon.res 
+-r-xr-xr-x   1    0    0      27312 Jun 15 2006 [  66448 00] damsel_evil.res 
+-r-xr-xr-x   1    0    0      27312 Jun 15 2006 [  66464 00] damsel_good.res 
+-r-xr-xr-x   1    0    0      78128 Jun  6 2006 [  66480 00] durza.res 
+-r-xr-xr-x   1    0    0      24464 Jun  8 2006 [  66528 00] durza_gilead.res 
+-r-xr-xr-x   1    0    0      18928 Jun  8 2006 [  66544 00] durza_ground.res 
+-r-xr-xr-x   1    0    0     102672 Jun  6 2006 [  66560 00] eragon.res 
+-r-xr-xr-x   1    0    0     127888 Jun  6 2006 [  66624 00] galbatorix_rider.res 
+-r-xr-xr-x   1    0    0     132848 Jun  6 2006 [  66688 00] kings_soldier.res 
+-r-xr-xr-x   1    0    0     132080 Jun  6 2006 [  66768 00] murtagh.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/eng/levels/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     83 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     56 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    115 02] beor 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    116 02] daret 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    117 02] farthendur 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    118 02] gilead 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    119 02] palencar 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    120 02] plains 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    121 02] xcutscenes 
+
+Directory listing of /PSP_GAME/USRDIR/loc/fre/characters/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     84 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     57 02] .. 
+-r-xr-xr-x   1    0    0     122992 Jun  6 2006 [  68864 00] ajihad.res 
+-r-xr-xr-x   1    0    0      43792 Jun  6 2006 [  68928 00] arya.res 
+-r-xr-xr-x   1    0    0      81936 Jun  6 2006 [  68960 00] brom.res 
+-r-xr-xr-x   1    0    0      41296 Jun  8 2006 [  69008 00] cs_eragon.res 
+-r-xr-xr-x   1    0    0      27312 Jun 15 2006 [  69040 00] damsel_evil.res 
+-r-xr-xr-x   1    0    0      27312 Jun 15 2006 [  69056 00] damsel_good.res 
+-r-xr-xr-x   1    0    0      78128 Jun  6 2006 [  69072 00] durza.res 
+-r-xr-xr-x   1    0    0      24464 Jun  8 2006 [  69120 00] durza_gilead.res 
+-r-xr-xr-x   1    0    0      18928 Jun  8 2006 [  69136 00] durza_ground.res 
+-r-xr-xr-x   1    0    0     102672 Jun  6 2006 [  69152 00] eragon.res 
+-r-xr-xr-x   1    0    0     127888 Jun  6 2006 [  69216 00] galbatorix_rider.res 
+-r-xr-xr-x   1    0    0     132848 Jun  6 2006 [  69280 00] kings_soldier.res 
+-r-xr-xr-x   1    0    0     132080 Jun  6 2006 [  69360 00] murtagh.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/fre/levels/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     85 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     57 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    122 02] beor 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    123 02] daret 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    124 02] farthendur 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    125 02] gilead 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    126 02] palencar 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    127 02] plains 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    128 02] xcutscenes 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ger/characters/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     86 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     58 02] .. 
+-r-xr-xr-x   1    0    0     122992 Jun  6 2006 [  71456 00] ajihad.res 
+-r-xr-xr-x   1    0    0      43792 Jun  6 2006 [  71520 00] arya.res 
+-r-xr-xr-x   1    0    0      81936 Jun  6 2006 [  71552 00] brom.res 
+-r-xr-xr-x   1    0    0      41296 Jun  8 2006 [  71600 00] cs_eragon.res 
+-r-xr-xr-x   1    0    0      27312 Jun 15 2006 [  71632 00] damsel_evil.res 
+-r-xr-xr-x   1    0    0      27312 Jun 15 2006 [  71648 00] damsel_good.res 
+-r-xr-xr-x   1    0    0      78128 Jun  6 2006 [  71664 00] durza.res 
+-r-xr-xr-x   1    0    0      24464 Jun  8 2006 [  71712 00] durza_gilead.res 
+-r-xr-xr-x   1    0    0      18928 Jun  8 2006 [  71728 00] durza_ground.res 
+-r-xr-xr-x   1    0    0     102672 Jun  6 2006 [  71744 00] eragon.res 
+-r-xr-xr-x   1    0    0     127888 Jun  6 2006 [  71808 00] galbatorix_rider.res 
+-r-xr-xr-x   1    0    0     132848 Jun  6 2006 [  71872 00] kings_soldier.res 
+-r-xr-xr-x   1    0    0     132080 Jun  6 2006 [  71952 00] murtagh.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ger/levels/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     87 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     58 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    129 02] beor 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    130 02] daret 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    131 02] farthendur 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    132 02] gilead 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    133 02] palencar 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    134 02] plains 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    135 02] xcutscenes 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ita/characters/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     88 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     59 02] .. 
+-r-xr-xr-x   1    0    0     122992 Jun  6 2006 [  74048 00] ajihad.res 
+-r-xr-xr-x   1    0    0      43792 Jun  6 2006 [  74112 00] arya.res 
+-r-xr-xr-x   1    0    0      81936 Jun  6 2006 [  74144 00] brom.res 
+-r-xr-xr-x   1    0    0      41296 Jun  8 2006 [  74192 00] cs_eragon.res 
+-r-xr-xr-x   1    0    0      27312 Jun 15 2006 [  74224 00] damsel_evil.res 
+-r-xr-xr-x   1    0    0      27312 Jun 15 2006 [  74240 00] damsel_good.res 
+-r-xr-xr-x   1    0    0      78128 Jun  6 2006 [  74256 00] durza.res 
+-r-xr-xr-x   1    0    0      24464 Jun  8 2006 [  74304 00] durza_gilead.res 
+-r-xr-xr-x   1    0    0      18928 Jun  8 2006 [  74320 00] durza_ground.res 
+-r-xr-xr-x   1    0    0     102672 Jun  6 2006 [  74336 00] eragon.res 
+-r-xr-xr-x   1    0    0     127888 Jun  6 2006 [  74400 00] galbatorix_rider.res 
+-r-xr-xr-x   1    0    0     132848 Jun  6 2006 [  74464 00] kings_soldier.res 
+-r-xr-xr-x   1    0    0     132080 Jun  6 2006 [  74544 00] murtagh.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ita/levels/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     89 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     59 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    136 02] beor 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    137 02] daret 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    138 02] farthendur 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    139 02] gilead 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    140 02] palencar 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    141 02] plains 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    142 02] xcutscenes 
+
+Directory listing of /PSP_GAME/USRDIR/loc/jpn/characters/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     90 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     60 02] .. 
+-r-xr-xr-x   1    0    0     122992 Jun  6 2006 [  76640 00] ajihad.res 
+-r-xr-xr-x   1    0    0      43792 Jun  6 2006 [  76704 00] arya.res 
+-r-xr-xr-x   1    0    0      81936 Jun  6 2006 [  76736 00] brom.res 
+-r-xr-xr-x   1    0    0      41296 Jun  8 2006 [  76784 00] cs_eragon.res 
+-r-xr-xr-x   1    0    0      27312 Jun 15 2006 [  76816 00] damsel_evil.res 
+-r-xr-xr-x   1    0    0      27312 Jun 15 2006 [  76832 00] damsel_good.res 
+-r-xr-xr-x   1    0    0      78128 Jun  6 2006 [  76848 00] durza.res 
+-r-xr-xr-x   1    0    0      24464 Jun  8 2006 [  76896 00] durza_gilead.res 
+-r-xr-xr-x   1    0    0      18928 Jun  8 2006 [  76912 00] durza_ground.res 
+-r-xr-xr-x   1    0    0     102672 Jun  6 2006 [  76928 00] eragon.res 
+-r-xr-xr-x   1    0    0     127888 Jun  6 2006 [  76992 00] galbatorix_rider.res 
+-r-xr-xr-x   1    0    0     132848 Jun  6 2006 [  77056 00] kings_soldier.res 
+-r-xr-xr-x   1    0    0     132080 Jun  6 2006 [  77136 00] murtagh.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/jpn/levels/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     91 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     60 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    143 02] beor 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    144 02] daret 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    145 02] farthendur 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    146 02] gilead 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    147 02] palencar 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    148 02] plains 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    149 02] xcutscenes 
+
+Directory listing of /PSP_GAME/USRDIR/loc/kor/characters/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     92 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     61 02] .. 
+-r-xr-xr-x   1    0    0     122992 Jun  6 2006 [  79232 00] ajihad.res 
+-r-xr-xr-x   1    0    0      43792 Jun  6 2006 [  79296 00] arya.res 
+-r-xr-xr-x   1    0    0      81936 Jun  6 2006 [  79328 00] brom.res 
+-r-xr-xr-x   1    0    0      41296 Jun  8 2006 [  79376 00] cs_eragon.res 
+-r-xr-xr-x   1    0    0      27312 Jun 15 2006 [  79408 00] damsel_evil.res 
+-r-xr-xr-x   1    0    0      27312 Jun 15 2006 [  79424 00] damsel_good.res 
+-r-xr-xr-x   1    0    0      78128 Jun  6 2006 [  79440 00] durza.res 
+-r-xr-xr-x   1    0    0      24464 Jun  8 2006 [  79488 00] durza_gilead.res 
+-r-xr-xr-x   1    0    0      18928 Jun  8 2006 [  79504 00] durza_ground.res 
+-r-xr-xr-x   1    0    0     102672 Jun  6 2006 [  79520 00] eragon.res 
+-r-xr-xr-x   1    0    0     127888 Jun  6 2006 [  79584 00] galbatorix_rider.res 
+-r-xr-xr-x   1    0    0     132848 Jun  6 2006 [  79648 00] kings_soldier.res 
+-r-xr-xr-x   1    0    0     132080 Jun  6 2006 [  79728 00] murtagh.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/kor/levels/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     93 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     61 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    150 02] beor 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    151 02] daret 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    152 02] farthendur 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    153 02] gilead 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    154 02] palencar 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    155 02] plains 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    156 02] xcutscenes 
+
+Directory listing of /PSP_GAME/USRDIR/loc/por/characters/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     94 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     62 02] .. 
+-r-xr-xr-x   1    0    0     122992 Jun  6 2006 [  81824 00] ajihad.res 
+-r-xr-xr-x   1    0    0      43792 Jun  6 2006 [  81888 00] arya.res 
+-r-xr-xr-x   1    0    0      81936 Jun  6 2006 [  81920 00] brom.res 
+-r-xr-xr-x   1    0    0      41296 Jun  8 2006 [  81968 00] cs_eragon.res 
+-r-xr-xr-x   1    0    0      27312 Jun 15 2006 [  82000 00] damsel_evil.res 
+-r-xr-xr-x   1    0    0      27312 Jun 15 2006 [  82016 00] damsel_good.res 
+-r-xr-xr-x   1    0    0      78128 Jun  6 2006 [  82032 00] durza.res 
+-r-xr-xr-x   1    0    0      24464 Jun  8 2006 [  82080 00] durza_gilead.res 
+-r-xr-xr-x   1    0    0      18928 Jun  8 2006 [  82096 00] durza_ground.res 
+-r-xr-xr-x   1    0    0     102672 Jun  6 2006 [  82112 00] eragon.res 
+-r-xr-xr-x   1    0    0     127888 Jun  6 2006 [  82176 00] galbatorix_rider.res 
+-r-xr-xr-x   1    0    0     132848 Jun  6 2006 [  82240 00] kings_soldier.res 
+-r-xr-xr-x   1    0    0     132080 Jun  6 2006 [  82320 00] murtagh.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/por/levels/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     95 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     62 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    157 02] beor 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    158 02] daret 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    159 02] farthendur 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    160 02] gilead 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    161 02] palencar 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    162 02] plains 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    163 02] xcutscenes 
+
+Directory listing of /PSP_GAME/USRDIR/loc/rus/characters/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     96 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     63 02] .. 
+-r-xr-xr-x   1    0    0     122992 Jun  6 2006 [  84416 00] ajihad.res 
+-r-xr-xr-x   1    0    0      43792 Jun  6 2006 [  84480 00] arya.res 
+-r-xr-xr-x   1    0    0      81936 Jun  6 2006 [  84512 00] brom.res 
+-r-xr-xr-x   1    0    0      41296 Jun  8 2006 [  84560 00] cs_eragon.res 
+-r-xr-xr-x   1    0    0      27312 Jun 15 2006 [  84592 00] damsel_evil.res 
+-r-xr-xr-x   1    0    0      27312 Jun 15 2006 [  84608 00] damsel_good.res 
+-r-xr-xr-x   1    0    0      78128 Jun  6 2006 [  84624 00] durza.res 
+-r-xr-xr-x   1    0    0      24464 Jun  8 2006 [  84672 00] durza_gilead.res 
+-r-xr-xr-x   1    0    0      18928 Jun  8 2006 [  84688 00] durza_ground.res 
+-r-xr-xr-x   1    0    0     102672 Jun  6 2006 [  84704 00] eragon.res 
+-r-xr-xr-x   1    0    0     127888 Jun  6 2006 [  84768 00] galbatorix_rider.res 
+-r-xr-xr-x   1    0    0     132848 Jun  6 2006 [  84832 00] kings_soldier.res 
+-r-xr-xr-x   1    0    0     132080 Jun  6 2006 [  84912 00] murtagh.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/rus/levels/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     97 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     63 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    164 02] beor 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    165 02] daret 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    166 02] farthendur 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    167 02] gilead 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    168 02] palencar 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    169 02] plains 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    170 02] xcutscenes 
+
+Directory listing of /PSP_GAME/USRDIR/loc/sim/characters/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     98 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     64 02] .. 
+-r-xr-xr-x   1    0    0     122992 Jun  6 2006 [  87008 00] ajihad.res 
+-r-xr-xr-x   1    0    0      43792 Jun  6 2006 [  87072 00] arya.res 
+-r-xr-xr-x   1    0    0      81936 Jun  6 2006 [  87104 00] brom.res 
+-r-xr-xr-x   1    0    0      41296 Jun  8 2006 [  87152 00] cs_eragon.res 
+-r-xr-xr-x   1    0    0      27312 Jun 15 2006 [  87184 00] damsel_evil.res 
+-r-xr-xr-x   1    0    0      27312 Jun 15 2006 [  87200 00] damsel_good.res 
+-r-xr-xr-x   1    0    0      78128 Jun  6 2006 [  87216 00] durza.res 
+-r-xr-xr-x   1    0    0      24464 Jun  8 2006 [  87264 00] durza_gilead.res 
+-r-xr-xr-x   1    0    0      18928 Jun  8 2006 [  87280 00] durza_ground.res 
+-r-xr-xr-x   1    0    0     102672 Jun  6 2006 [  87296 00] eragon.res 
+-r-xr-xr-x   1    0    0     127888 Jun  6 2006 [  87360 00] galbatorix_rider.res 
+-r-xr-xr-x   1    0    0     132848 Jun  6 2006 [  87424 00] kings_soldier.res 
+-r-xr-xr-x   1    0    0     132080 Jun  6 2006 [  87504 00] murtagh.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/sim/levels/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     99 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     64 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    171 02] beor 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    172 02] daret 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    173 02] farthendur 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    174 02] gilead 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    175 02] palencar 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    176 02] plains 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    177 02] xcutscenes 
+
+Directory listing of /PSP_GAME/USRDIR/loc/spa/characters/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    100 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     65 02] .. 
+-r-xr-xr-x   1    0    0     122992 Jun  6 2006 [  89600 00] ajihad.res 
+-r-xr-xr-x   1    0    0      43792 Jun  6 2006 [  89664 00] arya.res 
+-r-xr-xr-x   1    0    0      81936 Jun  6 2006 [  89696 00] brom.res 
+-r-xr-xr-x   1    0    0      41296 Jun  8 2006 [  89744 00] cs_eragon.res 
+-r-xr-xr-x   1    0    0      27312 Jun 15 2006 [  89776 00] damsel_evil.res 
+-r-xr-xr-x   1    0    0      27312 Jun 15 2006 [  89792 00] damsel_good.res 
+-r-xr-xr-x   1    0    0      78128 Jun  6 2006 [  89808 00] durza.res 
+-r-xr-xr-x   1    0    0      24464 Jun  8 2006 [  89856 00] durza_gilead.res 
+-r-xr-xr-x   1    0    0      18928 Jun  8 2006 [  89872 00] durza_ground.res 
+-r-xr-xr-x   1    0    0     102672 Jun  6 2006 [  89888 00] eragon.res 
+-r-xr-xr-x   1    0    0     127888 Jun  6 2006 [  89952 00] galbatorix_rider.res 
+-r-xr-xr-x   1    0    0     132848 Jun  6 2006 [  90016 00] kings_soldier.res 
+-r-xr-xr-x   1    0    0     132080 Jun  6 2006 [  90096 00] murtagh.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/spa/levels/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    101 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     65 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    178 02] beor 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    179 02] daret 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    180 02] farthendur 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    181 02] gilead 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    182 02] palencar 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    183 02] plains 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    184 02] xcutscenes 
+
+Directory listing of /PSP_GAME/USRDIR/loc/tra/characters/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    102 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     66 02] .. 
+-r-xr-xr-x   1    0    0     122992 Jun  6 2006 [  92192 00] ajihad.res 
+-r-xr-xr-x   1    0    0      43792 Jun  6 2006 [  92256 00] arya.res 
+-r-xr-xr-x   1    0    0      81936 Jun  6 2006 [  92288 00] brom.res 
+-r-xr-xr-x   1    0    0      41296 Jun  8 2006 [  92336 00] cs_eragon.res 
+-r-xr-xr-x   1    0    0      27312 Jun 15 2006 [  92368 00] damsel_evil.res 
+-r-xr-xr-x   1    0    0      27312 Jun 15 2006 [  92384 00] damsel_good.res 
+-r-xr-xr-x   1    0    0      78128 Jun  6 2006 [  92400 00] durza.res 
+-r-xr-xr-x   1    0    0      24464 Jun  8 2006 [  92448 00] durza_gilead.res 
+-r-xr-xr-x   1    0    0      18928 Jun  8 2006 [  92464 00] durza_ground.res 
+-r-xr-xr-x   1    0    0     102672 Jun  6 2006 [  92480 00] eragon.res 
+-r-xr-xr-x   1    0    0     127888 Jun  6 2006 [  92544 00] galbatorix_rider.res 
+-r-xr-xr-x   1    0    0     132848 Jun  6 2006 [  92608 00] kings_soldier.res 
+-r-xr-xr-x   1    0    0     132080 Jun  6 2006 [  92688 00] murtagh.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/tra/levels/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    103 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     66 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    185 02] beor 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    186 02] daret 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    187 02] farthendur 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    188 02] gilead 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    189 02] palencar 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    190 02] plains 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    191 02] xcutscenes 
+
+Directory listing of /PSP_GAME/USRDIR/characters/accessories/foresworn_dragon/fx/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    104 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     71 02] .. 
+-r-xr-xr-x   1    0    0       1101 Jun  9 2006 [  25072 00] .sconsign 
+-r-xr-xr-x   1    0    0     158736 Jun  6 2006 [  25088 00] fx_armor_bone.res 
+-r-xr-xr-x   1    0    0      16980 May 25 2006 [  25168 00] fx_armor_bone_helmet.res 
+-r-xr-xr-x   1    0    0      18284 May 25 2006 [  25184 00] fx_armor_bone_tail.res 
+-r-xr-xr-x   1    0    0      14228 May 25 2006 [  25200 00] fx_armor_chainmail_helmet.res 
+-r-xr-xr-x   1    0    0      16204 May 25 2006 [  25216 00] fx_armor_chainmail_tail.res 
+-r-xr-xr-x   1    0    0      15764 May 25 2006 [  25232 00] fx_armor_jewel_helmet.res 
+-r-xr-xr-x   1    0    0      28560 May 25 2006 [  25248 00] fx_armor_jewel_tail.res 
+-r-xr-xr-x   1    0    0      15220 May 25 2006 [  25264 00] fx_armor_leather_helmet.res 
+-r-xr-xr-x   1    0    0      15912 May 25 2006 [  25280 00] fx_armor_leather_tail.res 
+-r-xr-xr-x   1    0    0      15156 May 25 2006 [  25296 00] fx_armor_pelt_helmet.res 
+-r-xr-xr-x   1    0    0      19276 May 25 2006 [  25312 00] fx_armor_pelt_tail.res 
+-r-xr-xr-x   1    0    0      16212 May 25 2006 [  25328 00] fx_armor_stone_helmet.res 
+-r-xr-xr-x   1    0    0      18056 May 25 2006 [  25344 00] fx_armor_stone_tail.res 
+-r-xr-xr-x   1    0    0      16148 May 25 2006 [  25360 00] fx_armor_wood_helmet.res 
+-r-xr-xr-x   1    0    0      17356 May 25 2006 [  25376 00] fx_armor_wood_tail.res 
+
+Directory listing of /PSP_GAME/USRDIR/characters/accessories/foresworn_rider/fx/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    105 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     72 02] .. 
+-r-xr-xr-x   1    0    0        495 May 25 2006 [  25392 00] .sconsign 
+-r-xr-xr-x   1    0    0      16980 May 25 2006 [  25408 00] fx_armor_bone.res 
+-r-xr-xr-x   1    0    0      14548 May 25 2006 [  25424 00] fx_armor_chainmail.res 
+-r-xr-xr-x   1    0    0      16084 May 25 2006 [  25440 00] fx_armor_jewel.res 
+-r-xr-xr-x   1    0    0      15796 May 25 2006 [  25456 00] fx_armor_leather.res 
+-r-xr-xr-x   1    0    0      14836 May 25 2006 [  25472 00] fx_armor_pelt.res 
+-r-xr-xr-x   1    0    0      15828 May 25 2006 [  25488 00] fx_armor_stone.res 
+-r-xr-xr-x   1    0    0      16372 May 25 2006 [  25504 00] fx_armor_wood.res 
+
+Directory listing of /PSP_GAME/USRDIR/characters/accessories/shurtugal_dragon/fx/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    106 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     73 02] .. 
+-r-xr-xr-x   1    0    0       1101 Jun  9 2006 [  25520 00] .sconsign 
+-r-xr-xr-x   1    0    0     169276 Jun  6 2006 [  25536 00] fx_armor_bone.res 
+-r-xr-xr-x   1    0    0      15988 May 25 2006 [  25632 00] fx_armor_bone_helmet.res 
+-r-xr-xr-x   1    0    0      16780 May 25 2006 [  25648 00] fx_armor_bone_tail.res 
+-r-xr-xr-x   1    0    0      15540 May 25 2006 [  25664 00] fx_armor_chainmail_helmet.res 
+-r-xr-xr-x   1    0    0      22348 May 25 2006 [  25680 00] fx_armor_chainmail_tail.res 
+-r-xr-xr-x   1    0    0      16628 May 25 2006 [  25696 00] fx_armor_jewel_helmet.res 
+-r-xr-xr-x   1    0    0      22956 May 25 2006 [  25712 00] fx_armor_jewel_tail.res 
+-r-xr-xr-x   1    0    0      15348 May 25 2006 [  25728 00] fx_armor_leather_helmet.res 
+-r-xr-xr-x   1    0    0      15468 May 25 2006 [  25744 00] fx_armor_leather_tail.res 
+-r-xr-xr-x   1    0    0      14164 May 25 2006 [  25760 00] fx_armor_pelt_helmet.res 
+-r-xr-xr-x   1    0    0      19276 May 25 2006 [  25776 00] fx_armor_pelt_tail.res 
+-r-xr-xr-x   1    0    0      15828 May 25 2006 [  25792 00] fx_armor_stone_helmet.res 
+-r-xr-xr-x   1    0    0      23496 May 25 2006 [  25808 00] fx_armor_stone_tail.res 
+-r-xr-xr-x   1    0    0      15988 May 25 2006 [  25824 00] fx_armor_wood_helmet.res 
+-r-xr-xr-x   1    0    0      20240 May 25 2006 [  25840 00] fx_armor_wood_tail.res 
+
+Directory listing of /PSP_GAME/USRDIR/characters/accessories/shurtugal_rider/fx/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    107 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     74 02] .. 
+-r-xr-xr-x   1    0    0        495 May 25 2006 [  25856 00] .sconsign 
+-r-xr-xr-x   1    0    0      16436 May 25 2006 [  25872 00] fx_armor_bone.res 
+-r-xr-xr-x   1    0    0      15796 May 25 2006 [  25888 00] fx_armor_chainmail.res 
+-r-xr-xr-x   1    0    0      17620 May 25 2006 [  25904 00] fx_armor_jewel.res 
+-r-xr-xr-x   1    0    0      15604 May 25 2006 [  25920 00] fx_armor_leather.res 
+-r-xr-xr-x   1    0    0      14548 May 25 2006 [  25936 00] fx_armor_pelt.res 
+-r-xr-xr-x   1    0    0      15860 May 25 2006 [  25952 00] fx_armor_stone.res 
+-r-xr-xr-x   1    0    0      18420 May 25 2006 [  25968 00] fx_armor_wood.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/dut/levels/beor/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    108 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     81 02] .. 
+-r-xr-xr-x   1    0    0     254960 Jun 15 2006 [  64272 00] beor_story.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/dut/levels/daret/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    109 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     81 02] .. 
+-r-xr-xr-x   1    0    0     269200 Jun 13 2006 [  64400 00] daret_story.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/dut/levels/farthendur/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    110 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     81 02] .. 
+-r-xr-xr-x   1    0    0      70352 Jun 18 2006 [  64544 00] farthendur_story1.res 
+-r-xr-xr-x   1    0    0     126160 Jun 24 2006 [  64592 00] farthendur_story2.res 
+-r-xr-xr-x   1    0    0     196720 Jun 27 2006 [  64656 00] farthendur_story3.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/dut/levels/gilead/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    111 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     81 02] .. 
+-r-xr-xr-x   1    0    0     131568 Jun  6 2006 [  64768 00] gilead_story1.res 
+-r-xr-xr-x   1    0    0     200272 Jun 16 2006 [  64848 00] gilead_story2.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/dut/levels/palencar/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    112 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     81 02] .. 
+-r-xr-xr-x   1    0    0     106448 Jun  6 2006 [  64960 00] palencar_story2.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/dut/levels/plains/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    113 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     81 02] .. 
+-r-xr-xr-x   1    0    0     391504 Jun 19 2006 [  65024 00] plains_story1.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/dut/levels/xcutscenes/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    114 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     81 02] .. 
+-r-xr-xr-x   1    0    0     433456 Jun 16 2006 [  65216 00] 1100.res 
+-r-xr-xr-x   1    0    0     352688 Jul 11 2006 [  65440 00] 2120.res 
+-r-xr-xr-x   1    0    0     130128 Jun 18 2006 [  65616 00] 4100.res 
+-r-xr-xr-x   1    0    0     425872 Jun  6 2006 [  65680 00] 4230.res 
+-r-xr-xr-x   1    0    0      33488 Jun  6 2006 [  65888 00] 5100.res 
+-r-xr-xr-x   1    0    0     136464 Jun  6 2006 [  65920 00] 5250.res 
+-r-xr-xr-x   1    0    0     321264 Jun  6 2006 [  66000 00] 6100.res 
+-r-xr-xr-x   1    0    0      19312 Jun  6 2006 [  66160 00] 6420.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/eng/levels/beor/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    115 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     83 02] .. 
+-r-xr-xr-x   1    0    0     254960 Jun 15 2006 [  66864 00] beor_story.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/eng/levels/daret/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    116 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     83 02] .. 
+-r-xr-xr-x   1    0    0     269200 Jun 13 2006 [  66992 00] daret_story.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/eng/levels/farthendur/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    117 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     83 02] .. 
+-r-xr-xr-x   1    0    0      70352 Jun 18 2006 [  67136 00] farthendur_story1.res 
+-r-xr-xr-x   1    0    0     126160 Jun 24 2006 [  67184 00] farthendur_story2.res 
+-r-xr-xr-x   1    0    0     196720 Jun 27 2006 [  67248 00] farthendur_story3.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/eng/levels/gilead/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    118 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     83 02] .. 
+-r-xr-xr-x   1    0    0     131568 Jun  6 2006 [  67360 00] gilead_story1.res 
+-r-xr-xr-x   1    0    0     200272 Jun 16 2006 [  67440 00] gilead_story2.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/eng/levels/palencar/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    119 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     83 02] .. 
+-r-xr-xr-x   1    0    0     106448 Jun  6 2006 [  67552 00] palencar_story2.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/eng/levels/plains/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    120 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     83 02] .. 
+-r-xr-xr-x   1    0    0     391504 Jun 19 2006 [  67616 00] plains_story1.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/eng/levels/xcutscenes/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    121 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     83 02] .. 
+-r-xr-xr-x   1    0    0     433456 Jun 16 2006 [  67808 00] 1100.res 
+-r-xr-xr-x   1    0    0     352688 Jul 11 2006 [  68032 00] 2120.res 
+-r-xr-xr-x   1    0    0     130128 Jun 18 2006 [  68208 00] 4100.res 
+-r-xr-xr-x   1    0    0     425872 Jun  6 2006 [  68272 00] 4230.res 
+-r-xr-xr-x   1    0    0      33488 Jun  6 2006 [  68480 00] 5100.res 
+-r-xr-xr-x   1    0    0     136464 Jun  6 2006 [  68512 00] 5250.res 
+-r-xr-xr-x   1    0    0     321264 Jun  6 2006 [  68592 00] 6100.res 
+-r-xr-xr-x   1    0    0      19312 Jun  6 2006 [  68752 00] 6420.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/fre/levels/beor/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    122 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     85 02] .. 
+-r-xr-xr-x   1    0    0     254960 Jun 15 2006 [  69456 00] beor_story.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/fre/levels/daret/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    123 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     85 02] .. 
+-r-xr-xr-x   1    0    0     269200 Jun 13 2006 [  69584 00] daret_story.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/fre/levels/farthendur/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    124 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     85 02] .. 
+-r-xr-xr-x   1    0    0      70352 Jun 18 2006 [  69728 00] farthendur_story1.res 
+-r-xr-xr-x   1    0    0     126160 Jun 24 2006 [  69776 00] farthendur_story2.res 
+-r-xr-xr-x   1    0    0     196720 Jun 27 2006 [  69840 00] farthendur_story3.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/fre/levels/gilead/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    125 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     85 02] .. 
+-r-xr-xr-x   1    0    0     131568 Jun  6 2006 [  69952 00] gilead_story1.res 
+-r-xr-xr-x   1    0    0     200272 Jun 16 2006 [  70032 00] gilead_story2.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/fre/levels/palencar/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    126 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     85 02] .. 
+-r-xr-xr-x   1    0    0     106448 Jun  6 2006 [  70144 00] palencar_story2.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/fre/levels/plains/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    127 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     85 02] .. 
+-r-xr-xr-x   1    0    0     391504 Jun 19 2006 [  70208 00] plains_story1.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/fre/levels/xcutscenes/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    128 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     85 02] .. 
+-r-xr-xr-x   1    0    0     433456 Jun 16 2006 [  70400 00] 1100.res 
+-r-xr-xr-x   1    0    0     352688 Jul 11 2006 [  70624 00] 2120.res 
+-r-xr-xr-x   1    0    0     130128 Jun 18 2006 [  70800 00] 4100.res 
+-r-xr-xr-x   1    0    0     425872 Jun  6 2006 [  70864 00] 4230.res 
+-r-xr-xr-x   1    0    0      33488 Jun  6 2006 [  71072 00] 5100.res 
+-r-xr-xr-x   1    0    0     136464 Jun  6 2006 [  71104 00] 5250.res 
+-r-xr-xr-x   1    0    0     321264 Jun  6 2006 [  71184 00] 6100.res 
+-r-xr-xr-x   1    0    0      19312 Jun  6 2006 [  71344 00] 6420.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ger/levels/beor/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    129 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     87 02] .. 
+-r-xr-xr-x   1    0    0     254960 Jun 15 2006 [  72048 00] beor_story.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ger/levels/daret/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    130 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     87 02] .. 
+-r-xr-xr-x   1    0    0     269200 Jun 13 2006 [  72176 00] daret_story.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ger/levels/farthendur/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    131 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     87 02] .. 
+-r-xr-xr-x   1    0    0      70352 Jun 18 2006 [  72320 00] farthendur_story1.res 
+-r-xr-xr-x   1    0    0     126160 Jun 24 2006 [  72368 00] farthendur_story2.res 
+-r-xr-xr-x   1    0    0     196720 Jun 27 2006 [  72432 00] farthendur_story3.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ger/levels/gilead/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    132 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     87 02] .. 
+-r-xr-xr-x   1    0    0     131568 Jun  6 2006 [  72544 00] gilead_story1.res 
+-r-xr-xr-x   1    0    0     200272 Jun 16 2006 [  72624 00] gilead_story2.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ger/levels/palencar/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    133 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     87 02] .. 
+-r-xr-xr-x   1    0    0     106448 Jun  6 2006 [  72736 00] palencar_story2.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ger/levels/plains/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    134 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     87 02] .. 
+-r-xr-xr-x   1    0    0     391504 Jun 19 2006 [  72800 00] plains_story1.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ger/levels/xcutscenes/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    135 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     87 02] .. 
+-r-xr-xr-x   1    0    0     433456 Jun 16 2006 [  72992 00] 1100.res 
+-r-xr-xr-x   1    0    0     352688 Jul 11 2006 [  73216 00] 2120.res 
+-r-xr-xr-x   1    0    0     130128 Jun 18 2006 [  73392 00] 4100.res 
+-r-xr-xr-x   1    0    0     425872 Jun  6 2006 [  73456 00] 4230.res 
+-r-xr-xr-x   1    0    0      33488 Jun  6 2006 [  73664 00] 5100.res 
+-r-xr-xr-x   1    0    0     136464 Jun  6 2006 [  73696 00] 5250.res 
+-r-xr-xr-x   1    0    0     321264 Jun  6 2006 [  73776 00] 6100.res 
+-r-xr-xr-x   1    0    0      19312 Jun  6 2006 [  73936 00] 6420.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ita/levels/beor/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    136 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     89 02] .. 
+-r-xr-xr-x   1    0    0     254960 Jun 15 2006 [  74640 00] beor_story.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ita/levels/daret/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    137 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     89 02] .. 
+-r-xr-xr-x   1    0    0     269200 Jun 13 2006 [  74768 00] daret_story.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ita/levels/farthendur/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    138 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     89 02] .. 
+-r-xr-xr-x   1    0    0      70352 Jun 18 2006 [  74912 00] farthendur_story1.res 
+-r-xr-xr-x   1    0    0     126160 Jun 24 2006 [  74960 00] farthendur_story2.res 
+-r-xr-xr-x   1    0    0     196720 Jun 27 2006 [  75024 00] farthendur_story3.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ita/levels/gilead/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    139 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     89 02] .. 
+-r-xr-xr-x   1    0    0     131568 Jun  6 2006 [  75136 00] gilead_story1.res 
+-r-xr-xr-x   1    0    0     200272 Jun 16 2006 [  75216 00] gilead_story2.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ita/levels/palencar/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    140 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     89 02] .. 
+-r-xr-xr-x   1    0    0     106448 Jun  6 2006 [  75328 00] palencar_story2.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ita/levels/plains/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    141 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     89 02] .. 
+-r-xr-xr-x   1    0    0     391504 Jun 19 2006 [  75392 00] plains_story1.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ita/levels/xcutscenes/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    142 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     89 02] .. 
+-r-xr-xr-x   1    0    0     433456 Jun 16 2006 [  75584 00] 1100.res 
+-r-xr-xr-x   1    0    0     352688 Jul 11 2006 [  75808 00] 2120.res 
+-r-xr-xr-x   1    0    0     130128 Jun 18 2006 [  75984 00] 4100.res 
+-r-xr-xr-x   1    0    0     425872 Jun  6 2006 [  76048 00] 4230.res 
+-r-xr-xr-x   1    0    0      33488 Jun  6 2006 [  76256 00] 5100.res 
+-r-xr-xr-x   1    0    0     136464 Jun  6 2006 [  76288 00] 5250.res 
+-r-xr-xr-x   1    0    0     321264 Jun  6 2006 [  76368 00] 6100.res 
+-r-xr-xr-x   1    0    0      19312 Jun  6 2006 [  76528 00] 6420.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/jpn/levels/beor/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    143 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     91 02] .. 
+-r-xr-xr-x   1    0    0     254960 Jun 15 2006 [  77232 00] beor_story.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/jpn/levels/daret/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    144 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     91 02] .. 
+-r-xr-xr-x   1    0    0     269200 Jun 13 2006 [  77360 00] daret_story.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/jpn/levels/farthendur/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    145 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     91 02] .. 
+-r-xr-xr-x   1    0    0      70352 Jun 18 2006 [  77504 00] farthendur_story1.res 
+-r-xr-xr-x   1    0    0     126160 Jun 24 2006 [  77552 00] farthendur_story2.res 
+-r-xr-xr-x   1    0    0     196720 Jun 27 2006 [  77616 00] farthendur_story3.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/jpn/levels/gilead/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    146 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     91 02] .. 
+-r-xr-xr-x   1    0    0     131568 Jun  6 2006 [  77728 00] gilead_story1.res 
+-r-xr-xr-x   1    0    0     200272 Jun 16 2006 [  77808 00] gilead_story2.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/jpn/levels/palencar/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    147 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     91 02] .. 
+-r-xr-xr-x   1    0    0     106448 Jun  6 2006 [  77920 00] palencar_story2.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/jpn/levels/plains/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    148 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     91 02] .. 
+-r-xr-xr-x   1    0    0     391504 Jun 19 2006 [  77984 00] plains_story1.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/jpn/levels/xcutscenes/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    149 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     91 02] .. 
+-r-xr-xr-x   1    0    0     433456 Jun 16 2006 [  78176 00] 1100.res 
+-r-xr-xr-x   1    0    0     352688 Jul 11 2006 [  78400 00] 2120.res 
+-r-xr-xr-x   1    0    0     130128 Jun 18 2006 [  78576 00] 4100.res 
+-r-xr-xr-x   1    0    0     425872 Jun  6 2006 [  78640 00] 4230.res 
+-r-xr-xr-x   1    0    0      33488 Jun  6 2006 [  78848 00] 5100.res 
+-r-xr-xr-x   1    0    0     136464 Jun  6 2006 [  78880 00] 5250.res 
+-r-xr-xr-x   1    0    0     321264 Jun  6 2006 [  78960 00] 6100.res 
+-r-xr-xr-x   1    0    0      19312 Jun  6 2006 [  79120 00] 6420.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/kor/levels/beor/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    150 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     93 02] .. 
+-r-xr-xr-x   1    0    0     254960 Jun 15 2006 [  79824 00] beor_story.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/kor/levels/daret/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    151 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     93 02] .. 
+-r-xr-xr-x   1    0    0     269200 Jun 13 2006 [  79952 00] daret_story.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/kor/levels/farthendur/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    152 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     93 02] .. 
+-r-xr-xr-x   1    0    0      70352 Jun 18 2006 [  80096 00] farthendur_story1.res 
+-r-xr-xr-x   1    0    0     126160 Jun 24 2006 [  80144 00] farthendur_story2.res 
+-r-xr-xr-x   1    0    0     196720 Jun 27 2006 [  80208 00] farthendur_story3.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/kor/levels/gilead/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    153 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     93 02] .. 
+-r-xr-xr-x   1    0    0     131568 Jun  6 2006 [  80320 00] gilead_story1.res 
+-r-xr-xr-x   1    0    0     200272 Jun 16 2006 [  80400 00] gilead_story2.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/kor/levels/palencar/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    154 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     93 02] .. 
+-r-xr-xr-x   1    0    0     106448 Jun  6 2006 [  80512 00] palencar_story2.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/kor/levels/plains/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    155 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     93 02] .. 
+-r-xr-xr-x   1    0    0     391504 Jun 19 2006 [  80576 00] plains_story1.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/kor/levels/xcutscenes/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    156 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     93 02] .. 
+-r-xr-xr-x   1    0    0     433456 Jun 16 2006 [  80768 00] 1100.res 
+-r-xr-xr-x   1    0    0     352688 Jul 11 2006 [  80992 00] 2120.res 
+-r-xr-xr-x   1    0    0     130128 Jun 18 2006 [  81168 00] 4100.res 
+-r-xr-xr-x   1    0    0     425872 Jun  6 2006 [  81232 00] 4230.res 
+-r-xr-xr-x   1    0    0      33488 Jun  6 2006 [  81440 00] 5100.res 
+-r-xr-xr-x   1    0    0     136464 Jun  6 2006 [  81472 00] 5250.res 
+-r-xr-xr-x   1    0    0     321264 Jun  6 2006 [  81552 00] 6100.res 
+-r-xr-xr-x   1    0    0      19312 Jun  6 2006 [  81712 00] 6420.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/por/levels/beor/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    157 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     95 02] .. 
+-r-xr-xr-x   1    0    0     254960 Jun 15 2006 [  82416 00] beor_story.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/por/levels/daret/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    158 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     95 02] .. 
+-r-xr-xr-x   1    0    0     269200 Jun 13 2006 [  82544 00] daret_story.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/por/levels/farthendur/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    159 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     95 02] .. 
+-r-xr-xr-x   1    0    0      70352 Jun 18 2006 [  82688 00] farthendur_story1.res 
+-r-xr-xr-x   1    0    0     126160 Jun 24 2006 [  82736 00] farthendur_story2.res 
+-r-xr-xr-x   1    0    0     196720 Jun 27 2006 [  82800 00] farthendur_story3.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/por/levels/gilead/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    160 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     95 02] .. 
+-r-xr-xr-x   1    0    0     131568 Jun  6 2006 [  82912 00] gilead_story1.res 
+-r-xr-xr-x   1    0    0     200272 Jun 16 2006 [  82992 00] gilead_story2.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/por/levels/palencar/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    161 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     95 02] .. 
+-r-xr-xr-x   1    0    0     106448 Jun  6 2006 [  83104 00] palencar_story2.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/por/levels/plains/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    162 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     95 02] .. 
+-r-xr-xr-x   1    0    0     391504 Jun 19 2006 [  83168 00] plains_story1.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/por/levels/xcutscenes/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    163 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     95 02] .. 
+-r-xr-xr-x   1    0    0     433456 Jun 16 2006 [  83360 00] 1100.res 
+-r-xr-xr-x   1    0    0     352688 Jul 11 2006 [  83584 00] 2120.res 
+-r-xr-xr-x   1    0    0     130128 Jun 18 2006 [  83760 00] 4100.res 
+-r-xr-xr-x   1    0    0     425872 Jun  6 2006 [  83824 00] 4230.res 
+-r-xr-xr-x   1    0    0      33488 Jun  6 2006 [  84032 00] 5100.res 
+-r-xr-xr-x   1    0    0     136464 Jun  6 2006 [  84064 00] 5250.res 
+-r-xr-xr-x   1    0    0     321264 Jun  6 2006 [  84144 00] 6100.res 
+-r-xr-xr-x   1    0    0      19312 Jun  6 2006 [  84304 00] 6420.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/rus/levels/beor/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    164 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     97 02] .. 
+-r-xr-xr-x   1    0    0     254960 Jun 15 2006 [  85008 00] beor_story.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/rus/levels/daret/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    165 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     97 02] .. 
+-r-xr-xr-x   1    0    0     269200 Jun 13 2006 [  85136 00] daret_story.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/rus/levels/farthendur/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    166 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     97 02] .. 
+-r-xr-xr-x   1    0    0      70352 Jun 18 2006 [  85280 00] farthendur_story1.res 
+-r-xr-xr-x   1    0    0     126160 Jun 24 2006 [  85328 00] farthendur_story2.res 
+-r-xr-xr-x   1    0    0     196720 Jun 27 2006 [  85392 00] farthendur_story3.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/rus/levels/gilead/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    167 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     97 02] .. 
+-r-xr-xr-x   1    0    0     131568 Jun  6 2006 [  85504 00] gilead_story1.res 
+-r-xr-xr-x   1    0    0     200272 Jun 16 2006 [  85584 00] gilead_story2.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/rus/levels/palencar/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    168 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     97 02] .. 
+-r-xr-xr-x   1    0    0     106448 Jun  6 2006 [  85696 00] palencar_story2.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/rus/levels/plains/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    169 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     97 02] .. 
+-r-xr-xr-x   1    0    0     391504 Jun 19 2006 [  85760 00] plains_story1.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/rus/levels/xcutscenes/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    170 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     97 02] .. 
+-r-xr-xr-x   1    0    0     433456 Jun 16 2006 [  85952 00] 1100.res 
+-r-xr-xr-x   1    0    0     352688 Jul 11 2006 [  86176 00] 2120.res 
+-r-xr-xr-x   1    0    0     130128 Jun 18 2006 [  86352 00] 4100.res 
+-r-xr-xr-x   1    0    0     425872 Jun  6 2006 [  86416 00] 4230.res 
+-r-xr-xr-x   1    0    0      33488 Jun  6 2006 [  86624 00] 5100.res 
+-r-xr-xr-x   1    0    0     136464 Jun  6 2006 [  86656 00] 5250.res 
+-r-xr-xr-x   1    0    0     321264 Jun  6 2006 [  86736 00] 6100.res 
+-r-xr-xr-x   1    0    0      19312 Jun  6 2006 [  86896 00] 6420.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/sim/levels/beor/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    171 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     99 02] .. 
+-r-xr-xr-x   1    0    0     254960 Jun 15 2006 [  87600 00] beor_story.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/sim/levels/daret/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    172 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     99 02] .. 
+-r-xr-xr-x   1    0    0     269200 Jun 13 2006 [  87728 00] daret_story.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/sim/levels/farthendur/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    173 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     99 02] .. 
+-r-xr-xr-x   1    0    0      70352 Jun 18 2006 [  87872 00] farthendur_story1.res 
+-r-xr-xr-x   1    0    0     126160 Jun 24 2006 [  87920 00] farthendur_story2.res 
+-r-xr-xr-x   1    0    0     196720 Jun 27 2006 [  87984 00] farthendur_story3.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/sim/levels/gilead/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    174 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     99 02] .. 
+-r-xr-xr-x   1    0    0     131568 Jun  6 2006 [  88096 00] gilead_story1.res 
+-r-xr-xr-x   1    0    0     200272 Jun 16 2006 [  88176 00] gilead_story2.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/sim/levels/palencar/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    175 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     99 02] .. 
+-r-xr-xr-x   1    0    0     106448 Jun  6 2006 [  88288 00] palencar_story2.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/sim/levels/plains/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    176 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     99 02] .. 
+-r-xr-xr-x   1    0    0     391504 Jun 19 2006 [  88352 00] plains_story1.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/sim/levels/xcutscenes/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    177 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [     99 02] .. 
+-r-xr-xr-x   1    0    0     433456 Jun 16 2006 [  88544 00] 1100.res 
+-r-xr-xr-x   1    0    0     352688 Jul 11 2006 [  88768 00] 2120.res 
+-r-xr-xr-x   1    0    0     130128 Jun 18 2006 [  88944 00] 4100.res 
+-r-xr-xr-x   1    0    0     425872 Jun  6 2006 [  89008 00] 4230.res 
+-r-xr-xr-x   1    0    0      33488 Jun  6 2006 [  89216 00] 5100.res 
+-r-xr-xr-x   1    0    0     136464 Jun  6 2006 [  89248 00] 5250.res 
+-r-xr-xr-x   1    0    0     321264 Jun  6 2006 [  89328 00] 6100.res 
+-r-xr-xr-x   1    0    0      19312 Jun  6 2006 [  89488 00] 6420.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/spa/levels/beor/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    178 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    101 02] .. 
+-r-xr-xr-x   1    0    0     254960 Jun 15 2006 [  90192 00] beor_story.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/spa/levels/daret/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    179 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    101 02] .. 
+-r-xr-xr-x   1    0    0     269200 Jun 13 2006 [  90320 00] daret_story.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/spa/levels/farthendur/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    180 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    101 02] .. 
+-r-xr-xr-x   1    0    0      70352 Jun 18 2006 [  90464 00] farthendur_story1.res 
+-r-xr-xr-x   1    0    0     126160 Jun 24 2006 [  90512 00] farthendur_story2.res 
+-r-xr-xr-x   1    0    0     196720 Jun 27 2006 [  90576 00] farthendur_story3.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/spa/levels/gilead/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    181 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    101 02] .. 
+-r-xr-xr-x   1    0    0     131568 Jun  6 2006 [  90688 00] gilead_story1.res 
+-r-xr-xr-x   1    0    0     200272 Jun 16 2006 [  90768 00] gilead_story2.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/spa/levels/palencar/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    182 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    101 02] .. 
+-r-xr-xr-x   1    0    0     106448 Jun  6 2006 [  90880 00] palencar_story2.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/spa/levels/plains/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    183 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    101 02] .. 
+-r-xr-xr-x   1    0    0     391504 Jun 19 2006 [  90944 00] plains_story1.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/spa/levels/xcutscenes/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    184 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    101 02] .. 
+-r-xr-xr-x   1    0    0     433456 Jun 16 2006 [  91136 00] 1100.res 
+-r-xr-xr-x   1    0    0     352688 Jul 11 2006 [  91360 00] 2120.res 
+-r-xr-xr-x   1    0    0     130128 Jun 18 2006 [  91536 00] 4100.res 
+-r-xr-xr-x   1    0    0     425872 Jun  6 2006 [  91600 00] 4230.res 
+-r-xr-xr-x   1    0    0      33488 Jun  6 2006 [  91808 00] 5100.res 
+-r-xr-xr-x   1    0    0     136464 Jun  6 2006 [  91840 00] 5250.res 
+-r-xr-xr-x   1    0    0     321264 Jun  6 2006 [  91920 00] 6100.res 
+-r-xr-xr-x   1    0    0      19312 Jun  6 2006 [  92080 00] 6420.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/tra/levels/beor/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    185 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    103 02] .. 
+-r-xr-xr-x   1    0    0     254960 Jun 15 2006 [  92784 00] beor_story.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/tra/levels/daret/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    186 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    103 02] .. 
+-r-xr-xr-x   1    0    0     269200 Jun 13 2006 [  92912 00] daret_story.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/tra/levels/farthendur/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    187 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    103 02] .. 
+-r-xr-xr-x   1    0    0      70352 Jun 18 2006 [  93056 00] farthendur_story1.res 
+-r-xr-xr-x   1    0    0     126160 Jun 24 2006 [  93104 00] farthendur_story2.res 
+-r-xr-xr-x   1    0    0     196720 Jun 27 2006 [  93168 00] farthendur_story3.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/tra/levels/gilead/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    188 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    103 02] .. 
+-r-xr-xr-x   1    0    0     131568 Jun  6 2006 [  93280 00] gilead_story1.res 
+-r-xr-xr-x   1    0    0     200272 Jun 16 2006 [  93360 00] gilead_story2.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/tra/levels/palencar/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    189 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    103 02] .. 
+-r-xr-xr-x   1    0    0     106448 Jun  6 2006 [  93472 00] palencar_story2.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/tra/levels/plains/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    190 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    103 02] .. 
+-r-xr-xr-x   1    0    0     391504 Jun 19 2006 [  93536 00] plains_story1.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/tra/levels/xcutscenes/
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    191 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 19 2006 [    103 02] .. 
+-r-xr-xr-x   1    0    0     433456 Jun 16 2006 [  93728 00] 1100.res 
+-r-xr-xr-x   1    0    0     352688 Jul 11 2006 [  93952 00] 2120.res 
+-r-xr-xr-x   1    0    0     130128 Jun 18 2006 [  94128 00] 4100.res 
+-r-xr-xr-x   1    0    0     425872 Jun  6 2006 [  94192 00] 4230.res 
+-r-xr-xr-x   1    0    0      33488 Jun  6 2006 [  94400 00] 5100.res 
+-r-xr-xr-x   1    0    0     136464 Jun  6 2006 [  94432 00] 5250.res 
+-r-xr-xr-x   1    0    0     321264 Jun  6 2006 [  94512 00] 6100.res 
+-r-xr-xr-x   1    0    0      19312 Jun  6 2006 [  94672 00] 6420.res 
+=============================================================== 
+Generated on Sat 20/08/2022 at 11:16:27.27 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

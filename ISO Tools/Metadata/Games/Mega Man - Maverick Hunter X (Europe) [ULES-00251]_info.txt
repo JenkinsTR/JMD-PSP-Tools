@@ -1,0 +1,101 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Mega Man - Maverick Hunter X   
+Title ID: ULES-00251 
+Region: Europe  
+Languages:   
+Volume Creation Date: 2005-12-01 11:39:14 
+Volume Size: 448 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: MEGAMANMAVERICKHUNTERX
+Volume set id: MEGAMANMAVERICKHUNTERX
+Publisher id: CAPCOM CO.,LTD.
+Data preparer id: CAPCOM CO.,LTD.
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 229744
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Dec  1 2005 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  1 2005 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov  8 2005 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Nov  8 2005 [     29 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Nov  8 2005 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  1 2005 [     22 02] .. 
+-r-xr-xr-x   1    0    0      24429 Oct 20 2005 [  22800 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     309248 Oct 21 2005 [  22928 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 Nov 30 2005 [  21664 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      23861 Oct 31 2005 [  23088 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0     208773 Nov 30 2005 [  23104 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0     198480 Oct 21 2005 [  22816 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 Nov  8 2005 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Dec  1 2005 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Nov  8 2005 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov  8 2005 [     23 02] .. 
+-r-xr-xr-x   1    0    0    2293508 Nov 20 2005 [  21680 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    2293856 Dec  1 2005 [     32 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Nov  8 2005 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Dec  1 2005 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov  8 2005 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov 30 2005 [     27 02] module_a 
+dr-xr-xr-x   1    0    0       2048 Nov 30 2005 [     28 02] module 
+-r-xr-xr-x   1    0    0  409649152 Dec  1 2005 [  29712 00] rockx_pack.dat 
+-r-xr-xr-x   1    0    0        552 Dec  1 2005 [  29696 00] rockx_pack.loc 
+-r-xr-xr-x   1    0    0    5133616 Dec  1 2005 [  27184 00] share_MP.dat 
+-r-xr-xr-x   1    0    0    6793216 Nov 30 2005 [  23856 00] trial_rockman_pack.dat 
+-r-xr-xr-x   1    0    0         72 Nov 30 2005 [  23840 00] trial_rockman_pack.loc 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Nov  8 2005 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov  8 2005 [     24 02] .. 
+-r-xr-xr-x   1    0    0   13885040 Nov  8 2005 [   5280 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    3970656 Nov  8 2005 [   1184 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       1772 Nov  8 2005 [   1168 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/module_a/
+dr-xr-xr-x   1    0    0       2048 Nov 30 2005 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  1 2005 [     25 02] .. 
+-r-xr-xr-x   1    0    0    1035268 Nov 10 2005 [  23328 00] rockmana.prx 
+
+Directory listing of /PSP_GAME/USRDIR/module/
+dr-xr-xr-x   1    0    0       2048 Nov 30 2005 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec  1 2005 [     25 02] .. 
+-r-xr-xr-x   1    0    0       3312 Oct 19 2005 [  23232 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0      10128 Oct 27 2005 [  23248 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0      23088 Oct 27 2005 [  23296 00] mpeg.prx 
+-r-xr-xr-x   1    0    0       5392 Oct 19 2005 [  23280 00] mpegbase.prx 
+-r-xr-xr-x   1    0    0       6208 Oct 27 2005 [  23312 00] psmf.prx 
+-r-xr-xr-x   1    0    0       6832 Oct 19 2005 [  23216 00] sc_sascore.prx 
+-r-xr-xr-x   1    0    0       3504 Oct 19 2005 [  23264 00] videocodec.prx 
+=============================================================== 
+Generated on Tue 09/08/2022 at  5:37:49.20 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

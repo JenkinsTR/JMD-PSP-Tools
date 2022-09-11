@@ -1,0 +1,361 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Bomberman  
+Title ID: ULUS-10121 
+Region: USA  
+Languages:   
+Volume Creation Date: 2006-06-12 13:27:47 
+Volume Size: 104 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: 
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 53712
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Jun 12 2006 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 12 2006 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 18 2006 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Feb 18 2006 [     38 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Feb 18 2006 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 12 2006 [     22 02] .. 
+-r-xr-xr-x   1    0    0       6732 Feb 23 2006 [  22336 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     108544 Jun 27 2005 [  22352 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 May 16 2006 [  22320 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      14923 May 29 2006 [  22416 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0      55556 Feb 23 2006 [  22432 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Feb 18 2006 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 May 19 2006 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Feb 18 2006 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 18 2006 [     23 02] .. 
+-r-xr-xr-x   1    0    0    3633452 Jun 12 2006 [  22464 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    3633792 Jun 12 2006 [     48 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Feb 18 2006 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 May 19 2006 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 18 2006 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 May 19 2006 [     27 02] bomberman 
+dr-xr-xr-x   1    0    0       2048 Feb 18 2006 [     28 02] kmodule 
+dr-xr-xr-x   1    0    0       2048 Feb 18 2006 [     29 02] module 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Feb 18 2006 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 18 2006 [     24 02] .. 
+-r-xr-xr-x   1    0    0   14809632 Feb 18 2006 [   5936 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    3951712 Feb 18 2006 [   1840 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       1772 Feb 18 2006 [   1824 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/bomberman/
+dr-xr-xr-x   1    0    0       2048 May 19 2006 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 May 19 2006 [     25 02] .. 
+dr-xr-xr-x   1    0    0      16384 Apr  4 2006 [     30 02] dataUS 
+-r-xr-xr-x   1    0    0    7724144 May 31 2006 [  49488 00] usbomberman.dat 
+
+Directory listing of /PSP_GAME/USRDIR/kmodule/
+dr-xr-xr-x   1    0    0       2048 Feb 18 2006 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 May 19 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0       3264 Dec  8 2005 [  53264 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0       5136 Dec  8 2005 [  53280 00] mpegbase.prx 
+-r-xr-xr-x   1    0    0       6864 Dec  8 2005 [  53296 00] sc_sascore.prx 
+-r-xr-xr-x   1    0    0       3888 Dec  8 2005 [  53312 00] usbacc.prx 
+-r-xr-xr-x   1    0    0       6704 Dec  8 2005 [  53328 00] usbmic.prx 
+-r-xr-xr-x   1    0    0      14928 Dec  8 2005 [  53344 00] usbpspcm.prx 
+-r-xr-xr-x   1    0    0       3440 Dec  8 2005 [  53360 00] videocodec.prx 
+
+Directory listing of /PSP_GAME/USRDIR/module/
+dr-xr-xr-x   1    0    0       2048 Feb 18 2006 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 May 19 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0       1088 Dec  8 2005 [  53376 00] libadler.prx 
+-r-xr-xr-x   1    0    0      10128 Dec  8 2005 [  53392 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0       1472 Dec  8 2005 [  53408 00] libbase64.prx 
+-r-xr-xr-x   1    0    0       3520 Dec  8 2005 [  53424 00] libccc.prx 
+-r-xr-xr-x   1    0    0       4416 Dec  8 2005 [  53440 00] libdeflt.prx 
+-r-xr-xr-x   1    0    0      23488 Dec  8 2005 [  53456 00] libfont.prx 
+-r-xr-xr-x   1    0    0       3696 Dec  8 2005 [  53472 00] libfpu.prx 
+-r-xr-xr-x   1    0    0       2384 Dec  8 2005 [  53488 00] libmd5.prx 
+-r-xr-xr-x   1    0    0       1296 Dec  8 2005 [  53504 00] libmt19937.prx 
+-r-xr-xr-x   1    0    0      35632 Dec  8 2005 [  53520 00] libpsmfplayer.prx 
+-r-xr-xr-x   1    0    0       1936 Dec  8 2005 [  53552 00] libqpcode.prx 
+-r-xr-xr-x   1    0    0       2576 Dec  8 2005 [  53568 00] libsha1.prx 
+-r-xr-xr-x   1    0    0       2912 Dec  8 2005 [  53584 00] libsha224.prx 
+-r-xr-xr-x   1    0    0       2912 Dec  8 2005 [  53600 00] libsha256.prx 
+-r-xr-xr-x   1    0    0       4592 Dec  8 2005 [  53616 00] libsha512.prx 
+-r-xr-xr-x   1    0    0      20976 Dec  8 2005 [  53632 00] mpeg.prx 
+-r-xr-xr-x   1    0    0       6320 Dec  8 2005 [  53648 00] psmf.prx 
+-r-xr-xr-x   1    0    0       2448 Dec  8 2005 [  53664 00] pspnet_ap_dialog_dummy.prx 
+-r-xr-xr-x   1    0    0      31824 Dec  8 2005 [  53680 00] scan.prx 
+-r-xr-xr-x   1    0    0      29536 Dec  8 2005 [  53696 00] show_macaddr.prx 
+
+Directory listing of /PSP_GAME/USRDIR/bomberman/dataUS/
+dr-xr-xr-x   1    0    0      16384 Apr  4 2006 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 May 19 2006 [     27 02] .. 
+-r-xr-xr-x   1    0    0     215232 May 31 2006 [  37568 00] ItemSetting.arc 
+-r-xr-xr-x   1    0    0     252985 May 31 2006 [  26656 00] battle_stage.arc 
+-r-xr-xr-x   1    0    0     114267 May 31 2006 [  26784 00] battle_stage_sh.arc 
+-r-xr-xr-x   1    0    0      33217 May 31 2006 [  24240 00] battleentrance.arc 
+-r-xr-xr-x   1    0    0      67486 May 31 2006 [  24272 00] battlemenu.arc 
+-r-xr-xr-x   1    0    0      18584 May 31 2006 [  24320 00] battleroom.arc 
+-r-xr-xr-x   1    0    0    1597184 May 31 2006 [  24336 00] battlesound.arc 
+-r-xr-xr-x   1    0    0    2372416 May 31 2006 [  25120 00] battlesound2.arc 
+-r-xr-xr-x   1    0    0     750656 May 31 2006 [  26288 00] battlesoundsh.arc 
+-r-xr-xr-x   1    0    0     186304 May 31 2006 [  26848 00] bmp001.arc 
+-r-xr-xr-x   1    0    0     168128 May 31 2006 [  26944 00] bmp002.arc 
+-r-xr-xr-x   1    0    0     139008 May 31 2006 [  27040 00] bmp003.arc 
+-r-xr-xr-x   1    0    0     201152 May 31 2006 [  27120 00] bmp004.arc 
+-r-xr-xr-x   1    0    0     171776 May 31 2006 [  27232 00] bmp005.arc 
+-r-xr-xr-x   1    0    0     147392 May 31 2006 [  27328 00] bmp006.arc 
+-r-xr-xr-x   1    0    0     180992 May 31 2006 [  27408 00] bmp007.arc 
+-r-xr-xr-x   1    0    0     174272 May 31 2006 [  27504 00] bmp008.arc 
+-r-xr-xr-x   1    0    0     195840 May 31 2006 [  27600 00] bmp009.arc 
+-r-xr-xr-x   1    0    0     181824 May 31 2006 [  27696 00] bmp010.arc 
+-r-xr-xr-x   1    0    0     375040 May 31 2006 [  27792 00] bmp011.arc 
+-r-xr-xr-x   1    0    0     345920 May 31 2006 [  27984 00] bmp012.arc 
+-r-xr-xr-x   1    0    0     339200 May 31 2006 [  28160 00] bmp013.arc 
+-r-xr-xr-x   1    0    0     350144 May 31 2006 [  28336 00] bmp014.arc 
+-r-xr-xr-x   1    0    0     168128 May 31 2006 [  28512 00] bmp015.arc 
+-r-xr-xr-x   1    0    0     183808 May 31 2006 [  28608 00] bmp016.arc 
+-r-xr-xr-x   1    0    0     350144 May 31 2006 [  28704 00] bmp017.arc 
+-r-xr-xr-x   1    0    0     195840 May 31 2006 [  28880 00] bmp018.arc 
+-r-xr-xr-x   1    0    0      20800 May 31 2006 [  28976 00] bmp019.arc 
+-r-xr-xr-x   1    0    0      20800 May 31 2006 [  28992 00] bmp020.arc 
+-r-xr-xr-x   1    0    0      20800 May 31 2006 [  29008 00] bmp021.arc 
+-r-xr-xr-x   1    0    0      20800 May 31 2006 [  29024 00] bmp022.arc 
+-r-xr-xr-x   1    0    0      20800 Mar 24 2006 [  29040 00] bmp023.arc 
+-r-xr-xr-x   1    0    0      26944 May 31 2006 [  29056 00] bmp024.arc 
+-r-xr-xr-x   1    0    0     238976 May 31 2006 [  29072 00] bmp025.arc 
+-r-xr-xr-x   1    0    0     137344 May 31 2006 [  29200 00] bmp026.arc 
+-r-xr-xr-x   1    0    0     312896 May 31 2006 [  29280 00] bmp027.arc 
+-r-xr-xr-x   1    0    0     367744 May 31 2006 [  29440 00] bmp028.arc 
+-r-xr-xr-x   1    0    0     843776 May 31 2006 [  29632 00] bmp029.arc 
+-r-xr-xr-x   1    0    0     431040 May 31 2006 [  30048 00] bmp030.arc 
+-r-xr-xr-x   1    0    0     351232 May 31 2006 [  30272 00] bmp031.arc 
+-r-xr-xr-x   1    0    0     388224 May 31 2006 [  30448 00] bmp032.arc 
+-r-xr-xr-x   1    0    0     961344 May 31 2006 [  30640 00] bmp033.arc 
+-r-xr-xr-x   1    0    0     384320 May 31 2006 [  31120 00] bmp034.arc 
+-r-xr-xr-x   1    0    0     426304 May 31 2006 [  31312 00] bmp035.arc 
+-r-xr-xr-x   1    0    0     436928 May 31 2006 [  31536 00] bmp036.arc 
+-r-xr-xr-x   1    0    0    1280000 May 31 2006 [  31760 00] bmp037.arc 
+-r-xr-xr-x   1    0    0     877376 May 31 2006 [  32400 00] bmp038.arc 
+-r-xr-xr-x   1    0    0     320192 May 31 2006 [  32832 00] bmp039.arc 
+-r-xr-xr-x   1    0    0     137324 May 31 2006 [  32992 00] boss01.arc 
+-r-xr-xr-x   1    0    0     194633 May 31 2006 [  33072 00] boss02.arc 
+-r-xr-xr-x   1    0    0     191970 May 31 2006 [  33168 00] boss03.arc 
+-r-xr-xr-x   1    0    0     617172 May 31 2006 [  33264 00] boss04.arc 
+-r-xr-xr-x   1    0    0     192150 May 31 2006 [  33568 00] boss05.arc 
+-r-xr-xr-x   1    0    0     441822 May 31 2006 [  33664 00] boss06.arc 
+-r-xr-xr-x   1    0    0     204477 May 31 2006 [  33888 00] boss07.arc 
+-r-xr-xr-x   1    0    0     823022 May 31 2006 [  34000 00] boss08.arc 
+-r-xr-xr-x   1    0    0    1113216 May 31 2006 [  34416 00] boss09.arc 
+-r-xr-xr-x   1    0    0     743014 May 31 2006 [  34960 00] boss10.arc 
+-r-xr-xr-x   1    0    0     255368 May 31 2006 [  35328 00] charene.arc 
+-r-xr-xr-x   1    0    0     839447 May 31 2006 [  35456 00] charman.arc 
+-r-xr-xr-x   1    0    0     616984 May 31 2006 [  35872 00] charmanhigh.arc 
+-r-xr-xr-x   1    0    0      31845 May 31 2006 [  36176 00] clientroom.arc 
+-r-xr-xr-x   1    0    0      30790 May 31 2006 [  36192 00] clientroom2.arc 
+-r-xr-xr-x   1    0    0     769818 May 31 2006 [  36208 00] endroll.arc 
+-r-xr-xr-x   1    0    0     330922 May 31 2006 [  36592 00] game.arc 
+-r-xr-xr-x   1    0    0     165905 May 31 2006 [  36768 00] game1.arc 
+-r-xr-xr-x   1    0    0     456838 May 31 2006 [  36864 00] game1sh.arc 
+-r-xr-xr-x   1    0    0     210747 May 31 2006 [  37088 00] gameover.arc 
+-r-xr-xr-x   1    0    0      13148 May 31 2006 [  37200 00] gimmick01.arc 
+-r-xr-xr-x   1    0    0      88653 May 31 2006 [  37216 00] gimmick02.arc 
+-r-xr-xr-x   1    0    0     201692 May 31 2006 [  37264 00] gimmick03.arc 
+-r-xr-xr-x   1    0    0     168637 May 31 2006 [  37376 00] gimmick04.arc 
+-r-xr-xr-x   1    0    0     167925 May 31 2006 [  37472 00] hbom_credit.arc 
+-r-xr-xr-x   1    0    0       6672 May 31 2006 [  37680 00] loading.arc 
+-r-xr-xr-x   1    0    0      75847 May 31 2006 [  37696 00] maniacamera.arc 
+-r-xr-xr-x   1    0    0      19790 May 31 2006 [  37744 00] maniahandy.arc 
+-r-xr-xr-x   1    0    0      28206 May 31 2006 [  37760 00] maniaitem.arc 
+-r-xr-xr-x   1    0    0      21959 May 31 2006 [  37776 00] maniaset.arc 
+-r-xr-xr-x   1    0    0      21777 May 31 2006 [  37792 00] maniaspecial.arc 
+-r-xr-xr-x   1    0    0     185229 May 31 2006 [  37808 00] map.arc 
+-r-xr-xr-x   1    0    0      44286 May 31 2006 [  37904 00] map_badend.arc 
+-r-xr-xr-x   1    0    0      10563 May 31 2006 [  37936 00] map_disp8.arc 
+-r-xr-xr-x   1    0    0      24729 May 31 2006 [  37952 00] map_goodend.arc 
+-r-xr-xr-x   1    0    0      93400 May 31 2006 [  37968 00] map_op.arc 
+-r-xr-xr-x   1    0    0      24262 May 31 2006 [  38016 00] memberset.arc 
+-r-xr-xr-x   1    0    0      46807 May 31 2006 [  38128 00] menuItemSetting.arc 
+-r-xr-xr-x   1    0    0     110092 May 31 2006 [  38032 00] menudirect.arc 
+-r-xr-xr-x   1    0    0      38659 May 31 2006 [  38096 00] menufont.arc 
+-r-xr-xr-x   1    0    0      24182 May 31 2006 [  38160 00] menuresult.arc 
+-r-xr-xr-x   1    0    0    2532864 May 31 2006 [  38176 00] menusound.arc 
+-r-xr-xr-x   1    0    0     612480 May 31 2006 [  39424 00] menusoundsh.arc 
+-r-xr-xr-x   1    0    0       2645 May 31 2006 [  39728 00] messWindow.arc 
+-r-xr-xr-x   1    0    0     737024 May 31 2006 [  39744 00] newbattlesound.arc 
+-r-xr-xr-x   1    0    0     487406 May 31 2006 [  40112 00] newcharene.arc 
+-r-xr-xr-x   1    0    0     123691 May 31 2006 [  40352 00] newcharene1.arc 
+-r-xr-xr-x   1    0    0      84104 May 31 2006 [  40416 00] newcharene10.arc 
+-r-xr-xr-x   1    0    0      62270 May 31 2006 [  40464 00] newcharene2.arc 
+-r-xr-xr-x   1    0    0      78669 May 31 2006 [  40496 00] newcharene3.arc 
+-r-xr-xr-x   1    0    0     138720 May 31 2006 [  40544 00] newcharene4.arc 
+-r-xr-xr-x   1    0    0      80939 May 31 2006 [  40624 00] newcharene5.arc 
+-r-xr-xr-x   1    0    0     117445 May 31 2006 [  40672 00] newcharene6.arc 
+-r-xr-xr-x   1    0    0      73970 May 31 2006 [  40736 00] newcharene7.arc 
+-r-xr-xr-x   1    0    0      72306 May 31 2006 [  40784 00] newcharene8.arc 
+-r-xr-xr-x   1    0    0      90179 May 31 2006 [  40832 00] newcharene9.arc 
+-r-xr-xr-x   1    0    0      17337 May 31 2006 [  40880 00] newgame1.arc 
+-r-xr-xr-x   1    0    0      52413 May 31 2006 [  40896 00] newstage01_01.arc 
+-r-xr-xr-x   1    0    0      63404 May 31 2006 [  40928 00] newstage01_02.arc 
+-r-xr-xr-x   1    0    0      54119 May 31 2006 [  40960 00] newstage01_03.arc 
+-r-xr-xr-x   1    0    0      49763 May 31 2006 [  40992 00] newstage01_04.arc 
+-r-xr-xr-x   1    0    0      48770 May 31 2006 [  41024 00] newstage01_05.arc 
+-r-xr-xr-x   1    0    0      53218 May 31 2006 [  41056 00] newstage01_06.arc 
+-r-xr-xr-x   1    0    0      54829 May 31 2006 [  41088 00] newstage01_07.arc 
+-r-xr-xr-x   1    0    0      63622 May 31 2006 [  41120 00] newstage01_08.arc 
+-r-xr-xr-x   1    0    0      52071 May 31 2006 [  41152 00] newstage01_09.arc 
+-r-xr-xr-x   1    0    0      53013 May 31 2006 [  41184 00] newstage01_bo.arc 
+-r-xr-xr-x   1    0    0     114942 May 31 2006 [  41216 00] newstage02_01.arc 
+-r-xr-xr-x   1    0    0      95568 May 31 2006 [  41280 00] newstage02_02.arc 
+-r-xr-xr-x   1    0    0     121184 May 31 2006 [  41328 00] newstage02_03.arc 
+-r-xr-xr-x   1    0    0     125766 May 31 2006 [  41392 00] newstage02_04.arc 
+-r-xr-xr-x   1    0    0     107862 May 31 2006 [  41456 00] newstage02_05.arc 
+-r-xr-xr-x   1    0    0     129846 May 31 2006 [  41520 00] newstage02_06.arc 
+-r-xr-xr-x   1    0    0     125126 May 31 2006 [  41584 00] newstage02_07.arc 
+-r-xr-xr-x   1    0    0     129006 May 31 2006 [  41648 00] newstage02_08.arc 
+-r-xr-xr-x   1    0    0     127223 May 31 2006 [  41712 00] newstage02_09.arc 
+-r-xr-xr-x   1    0    0      52146 May 31 2006 [  41776 00] newstage02_10.arc 
+-r-xr-xr-x   1    0    0      97572 May 31 2006 [  41808 00] newstage02_bo.arc 
+-r-xr-xr-x   1    0    0      66258 May 31 2006 [  41856 00] newstage03_01.arc 
+-r-xr-xr-x   1    0    0     106432 May 31 2006 [  41904 00] newstage03_02.arc 
+-r-xr-xr-x   1    0    0     110801 May 31 2006 [  41968 00] newstage03_03.arc 
+-r-xr-xr-x   1    0    0     118241 May 31 2006 [  42032 00] newstage03_04.arc 
+-r-xr-xr-x   1    0    0     102972 May 31 2006 [  42096 00] newstage03_05.arc 
+-r-xr-xr-x   1    0    0      92603 May 31 2006 [  42160 00] newstage03_06.arc 
+-r-xr-xr-x   1    0    0     146877 May 31 2006 [  42208 00] newstage03_07.arc 
+-r-xr-xr-x   1    0    0     120962 May 31 2006 [  42288 00] newstage03_08.arc 
+-r-xr-xr-x   1    0    0     120147 May 31 2006 [  42352 00] newstage03_09.arc 
+-r-xr-xr-x   1    0    0      75249 May 31 2006 [  42416 00] newstage03_10.arc 
+-r-xr-xr-x   1    0    0      74637 May 31 2006 [  42464 00] newstage03_bo.arc 
+-r-xr-xr-x   1    0    0      80992 May 31 2006 [  42512 00] newstage04_01.arc 
+-r-xr-xr-x   1    0    0     105715 May 31 2006 [  42560 00] newstage04_02.arc 
+-r-xr-xr-x   1    0    0     103686 May 31 2006 [  42624 00] newstage04_03.arc 
+-r-xr-xr-x   1    0    0      86750 May 31 2006 [  42688 00] newstage04_04.arc 
+-r-xr-xr-x   1    0    0      63602 May 31 2006 [  42736 00] newstage04_05.arc 
+-r-xr-xr-x   1    0    0      98845 May 31 2006 [  42768 00] newstage04_06.arc 
+-r-xr-xr-x   1    0    0     135481 May 31 2006 [  42832 00] newstage04_07.arc 
+-r-xr-xr-x   1    0    0      87586 May 31 2006 [  42912 00] newstage04_08.arc 
+-r-xr-xr-x   1    0    0      99512 May 31 2006 [  42960 00] newstage04_09.arc 
+-r-xr-xr-x   1    0    0      62230 May 31 2006 [  43024 00] newstage04_10.arc 
+-r-xr-xr-x   1    0    0      82091 May 31 2006 [  43056 00] newstage04_bo.arc 
+-r-xr-xr-x   1    0    0      96495 May 31 2006 [  43104 00] newstage05_01.arc 
+-r-xr-xr-x   1    0    0     115203 May 31 2006 [  43152 00] newstage05_02.arc 
+-r-xr-xr-x   1    0    0     148615 May 31 2006 [  43216 00] newstage05_03.arc 
+-r-xr-xr-x   1    0    0     118620 May 31 2006 [  43296 00] newstage05_04.arc 
+-r-xr-xr-x   1    0    0      98167 May 31 2006 [  43360 00] newstage05_05.arc 
+-r-xr-xr-x   1    0    0     119319 May 31 2006 [  43408 00] newstage05_06.arc 
+-r-xr-xr-x   1    0    0     104050 May 31 2006 [  43472 00] newstage05_07.arc 
+-r-xr-xr-x   1    0    0     125520 May 31 2006 [  43536 00] newstage05_08.arc 
+-r-xr-xr-x   1    0    0     125288 May 31 2006 [  43600 00] newstage05_09.arc 
+-r-xr-xr-x   1    0    0      48148 May 31 2006 [  43664 00] newstage05_10.arc 
+-r-xr-xr-x   1    0    0     106829 May 31 2006 [  43696 00] newstage05_bo.arc 
+-r-xr-xr-x   1    0    0      75721 May 31 2006 [  43760 00] newstage06_01.arc 
+-r-xr-xr-x   1    0    0      88585 May 31 2006 [  43808 00] newstage06_02.arc 
+-r-xr-xr-x   1    0    0      71273 May 31 2006 [  43856 00] newstage06_03.arc 
+-r-xr-xr-x   1    0    0      79653 May 31 2006 [  43904 00] newstage06_04.arc 
+-r-xr-xr-x   1    0    0      75678 May 31 2006 [  43952 00] newstage06_05.arc 
+-r-xr-xr-x   1    0    0      88118 May 31 2006 [  44000 00] newstage06_06.arc 
+-r-xr-xr-x   1    0    0      88075 May 31 2006 [  44048 00] newstage06_07.arc 
+-r-xr-xr-x   1    0    0      90450 May 31 2006 [  44096 00] newstage06_08.arc 
+-r-xr-xr-x   1    0    0      67357 May 31 2006 [  44144 00] newstage06_09.arc 
+-r-xr-xr-x   1    0    0      68630 May 31 2006 [  44192 00] newstage06_10.arc 
+-r-xr-xr-x   1    0    0      67561 May 31 2006 [  44240 00] newstage06_bo.arc 
+-r-xr-xr-x   1    0    0     126150 May 31 2006 [  44288 00] newstage07_01.arc 
+-r-xr-xr-x   1    0    0     112733 May 31 2006 [  44352 00] newstage07_02.arc 
+-r-xr-xr-x   1    0    0     101340 May 31 2006 [  44416 00] newstage07_03.arc 
+-r-xr-xr-x   1    0    0     127405 May 31 2006 [  44480 00] newstage07_04.arc 
+-r-xr-xr-x   1    0    0      99279 May 31 2006 [  44544 00] newstage07_05.arc 
+-r-xr-xr-x   1    0    0     105999 May 31 2006 [  44608 00] newstage07_06.arc 
+-r-xr-xr-x   1    0    0     121970 May 31 2006 [  44672 00] newstage07_07.arc 
+-r-xr-xr-x   1    0    0     140570 May 31 2006 [  44736 00] newstage07_08.arc 
+-r-xr-xr-x   1    0    0     108417 May 31 2006 [  44816 00] newstage07_09.arc 
+-r-xr-xr-x   1    0    0      66970 May 31 2006 [  44880 00] newstage07_10.arc 
+-r-xr-xr-x   1    0    0      92629 May 31 2006 [  44928 00] newstage07_bo.arc 
+-r-xr-xr-x   1    0    0     293203 May 31 2006 [  44976 00] newstage08_01.arc 
+-r-xr-xr-x   1    0    0     292772 May 31 2006 [  45120 00] newstage08_02.arc 
+-r-xr-xr-x   1    0    0     313638 May 31 2006 [  45264 00] newstage08_03.arc 
+-r-xr-xr-x   1    0    0     280585 May 31 2006 [  45424 00] newstage08_04.arc 
+-r-xr-xr-x   1    0    0     272035 May 31 2006 [  45568 00] newstage08_05.arc 
+-r-xr-xr-x   1    0    0     290045 May 31 2006 [  45712 00] newstage08_06.arc 
+-r-xr-xr-x   1    0    0     301350 May 31 2006 [  45856 00] newstage08_07.arc 
+-r-xr-xr-x   1    0    0     294886 May 31 2006 [  46016 00] newstage08_08.arc 
+-r-xr-xr-x   1    0    0     285755 May 31 2006 [  46160 00] newstage08_09.arc 
+-r-xr-xr-x   1    0    0      82076 May 31 2006 [  46304 00] newstage08_10.arc 
+-r-xr-xr-x   1    0    0      98561 May 31 2006 [  46352 00] newstage08_bo.arc 
+-r-xr-xr-x   1    0    0      90868 May 31 2006 [  46416 00] newstage09_01.arc 
+-r-xr-xr-x   1    0    0     120472 May 31 2006 [  46464 00] newstage09_02.arc 
+-r-xr-xr-x   1    0    0     107808 May 31 2006 [  46528 00] newstage09_03.arc 
+-r-xr-xr-x   1    0    0      97345 May 31 2006 [  46592 00] newstage09_04.arc 
+-r-xr-xr-x   1    0    0      78769 May 31 2006 [  46640 00] newstage09_05.arc 
+-r-xr-xr-x   1    0    0     109899 May 31 2006 [  46688 00] newstage09_06.arc 
+-r-xr-xr-x   1    0    0      98638 May 31 2006 [  46752 00] newstage09_07.arc 
+-r-xr-xr-x   1    0    0      99107 May 31 2006 [  46816 00] newstage09_08.arc 
+-r-xr-xr-x   1    0    0     116677 May 31 2006 [  46880 00] newstage09_09.arc 
+-r-xr-xr-x   1    0    0      61240 May 31 2006 [  46944 00] newstage09_10.arc 
+-r-xr-xr-x   1    0    0      70213 May 31 2006 [  46976 00] newstage09_bo.arc 
+-r-xr-xr-x   1    0    0     111589 May 31 2006 [  47024 00] newstage10_01.arc 
+-r-xr-xr-x   1    0    0     126351 May 31 2006 [  47088 00] newstage10_02.arc 
+-r-xr-xr-x   1    0    0     142145 May 31 2006 [  47152 00] newstage10_03.arc 
+-r-xr-xr-x   1    0    0     139688 May 31 2006 [  47232 00] newstage10_04.arc 
+-r-xr-xr-x   1    0    0     105653 May 31 2006 [  47312 00] newstage10_05.arc 
+-r-xr-xr-x   1    0    0     126149 May 31 2006 [  47376 00] newstage10_06.arc 
+-r-xr-xr-x   1    0    0     147436 May 31 2006 [  47440 00] newstage10_07.arc 
+-r-xr-xr-x   1    0    0     143600 May 31 2006 [  47520 00] newstage10_08.arc 
+-r-xr-xr-x   1    0    0     133668 May 31 2006 [  47600 00] newstage10_09.arc 
+-r-xr-xr-x   1    0    0     103139 May 31 2006 [  47680 00] newstage10_10.arc 
+-r-xr-xr-x   1    0    0     110713 May 31 2006 [  47744 00] newstage10_bo.arc 
+-r-xr-xr-x   1    0    0      38117 May 31 2006 [  47808 00] oped.arc 
+-r-xr-xr-x   1    0    0      51751 May 31 2006 [  47840 00] option.arc 
+-r-xr-xr-x   1    0    0      29733 May 31 2006 [  47872 00] ruleset.arc 
+-r-xr-xr-x   1    0    0     167831 May 31 2006 [  47888 00] stage01.arc 
+-r-xr-xr-x   1    0    0     227445 May 31 2006 [  47984 00] stage01_2.arc 
+-r-xr-xr-x   1    0    0     125651 May 31 2006 [  48096 00] stage01_3.arc 
+-r-xr-xr-x   1    0    0     234747 May 31 2006 [  48160 00] stage01_4.arc 
+-r-xr-xr-x   1    0    0     304557 May 31 2006 [  48288 00] stage01_5.arc 
+-r-xr-xr-x   1    0    0     285297 May 31 2006 [  48448 00] stage02.arc 
+-r-xr-xr-x   1    0    0     176653 May 31 2006 [  48592 00] stage02_1.arc 
+-r-xr-xr-x   1    0    0     234864 May 31 2006 [  48688 00] stage02_2.arc 
+-r-xr-xr-x   1    0    0     215633 May 31 2006 [  48816 00] stage02_21.arc 
+-r-xr-xr-x   1    0    0     350616 May 31 2006 [  48928 00] stage02_3.arc 
+-r-xr-xr-x   1    0    0      87778 May 31 2006 [  49104 00] stage02_4.arc 
+-r-xr-xr-x   1    0    0     321000 May 31 2006 [  49152 00] stagesh.arc 
+-r-xr-xr-x   1    0    0      73154 May 31 2006 [  49312 00] test.arc 
+-r-xr-xr-x   1    0    0      28385 May 31 2006 [  49360 00] world02gimmick.arc 
+-r-xr-xr-x   1    0    0      47232 May 31 2006 [  49376 00] world06gimmick.arc 
+-r-xr-xr-x   1    0    0      17601 May 31 2006 [  49408 00] world07gimmick.arc 
+-r-xr-xr-x   1    0    0      54139 May 31 2006 [  49424 00] world08gimmick.arc 
+-r-xr-xr-x   1    0    0      10268 May 31 2006 [  49456 00] world09gimmick.arc 
+-r-xr-xr-x   1    0    0      17290 May 31 2006 [  49472 00] world10gimmick.arc 
+=============================================================== 
+Generated on Fri 19/08/2022 at  5:24:38.55 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

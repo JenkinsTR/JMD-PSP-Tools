@@ -1,0 +1,826 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Arthur and the Minimoys   
+Title ID: ULES-00669 
+Region: Europe  
+Languages: De,It  
+Volume Creation Date: 2007-01-04 18:06:56 
+Volume Size: 1426 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: ATARI
+Volume set id: ATARI
+Publisher id: ATARI
+Data preparer id: ATARI
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 730544
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov 10 2006 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Nov 10 2006 [     94 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Nov 10 2006 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     22 02] .. 
+-r-xr-xr-x   1    0    0      21276 Sep 12 2006 [  25632 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     159744 Sep 13 2006 [  25552 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 Nov 20 2006 [  25648 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     225526 Sep 12 2006 [  25664 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0     235540 Sep 14 2006 [  25776 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 Nov 10 2006 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Nov 10 2006 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Nov 10 2006 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 10 2006 [     23 02] .. 
+-r-xr-xr-x   1    0    0    5076876 Dec 19 2006 [  23072 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    5077216 Jan  4 2007 [     96 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Nov 10 2006 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Nov 10 2006 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 10 2006 [     23 02] .. 
+-r-xr-xr-x   1    0    0     417272 Nov 23 2006 [ 729808 00] 00GLOC.KPP 
+-r-xr-xr-x   1    0    0     375166 Nov 23 2006 [ 730016 00] 01GLOC.KPP 
+-r-xr-xr-x   1    0    0     636570 Nov 23 2006 [ 730208 00] GAME.KPP 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     27 02] Icons 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     28 02] LVL000 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     29 02] LVL001 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     30 02] LVL002 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     31 02] LVL003 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     32 02] LVL004 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     33 02] LVL005 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     34 02] LVL006 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     35 02] LVL009 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     36 02] LVL010 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     37 02] LVL012 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     38 02] LVL013 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     39 02] LVL014 
+dr-xr-xr-x   1    0    0       2048 Nov 10 2006 [     40 02] MODULE 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     41 02] MOVIE 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     42 02] MUSIC 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Nov 10 2006 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 10 2006 [     24 02] .. 
+-r-xr-xr-x   1    0    0   15456416 Nov 10 2006 [   6688 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5079424 Nov 10 2006 [   2592 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Nov 10 2006 [   2576 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/Icons/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 10 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0      21728 Apr 27 2006 [ 121792 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     170697 Apr 27 2006 [ 121808 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0     389364 Jul 27 2006 [ 121904 00] SND0.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/LVL000/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 10 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0     782181 Nov 23 2006 [  99392 00] 00LLOC00.KPP 
+-r-xr-xr-x   1    0    0     782307 Nov 23 2006 [  99776 00] 01LLOC00.KPP 
+-r-xr-xr-x   1    0    0    3421140 Nov 22 2006 [ 100160 00] LVL00.KPP 
+
+Directory listing of /PSP_GAME/USRDIR/LVL001/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 10 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0     781192 Nov 23 2006 [ 101840 00] 00LLOC01.KPP 
+-r-xr-xr-x   1    0    0     781318 Nov 23 2006 [ 102224 00] 01LLOC01.KPP 
+-r-xr-xr-x   1    0    0    6797703 Nov 21 2006 [ 102608 00] LVL01.KPP 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     43 02] SPEECH 
+-r-xr-xr-x   1    0    0     421544 Nov 21 2006 [ 119104 00] STR01_00.KPP 
+-r-xr-xr-x   1    0    0    1316790 Nov 21 2006 [ 119312 00] STR01_01.KPP 
+-r-xr-xr-x   1    0    0    1729542 Nov 21 2006 [ 119968 00] STR01_02.KPP 
+-r-xr-xr-x   1    0    0     874150 Nov 21 2006 [ 120816 00] STR01_03.KPP 
+-r-xr-xr-x   1    0    0    1093831 Nov 21 2006 [ 121248 00] STR01_04.KPP 
+
+Directory listing of /PSP_GAME/USRDIR/LVL002/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 10 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0     791225 Nov 23 2006 [  25904 00] 00LLOC02.KPP 
+-r-xr-xr-x   1    0    0     791351 Nov 23 2006 [  26304 00] 01LLOC02.KPP 
+-r-xr-xr-x   1    0    0   10400915 Nov 21 2006 [  26704 00] LVL02.KPP 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     44 02] SPEECH 
+-r-xr-xr-x   1    0    0    2376462 Nov 21 2006 [  88832 00] STR02_00.KPP 
+-r-xr-xr-x   1    0    0    2741266 Nov 21 2006 [  90000 00] STR02_01.KPP 
+-r-xr-xr-x   1    0    0    2205940 Nov 21 2006 [  91344 00] STR02_02.KPP 
+-r-xr-xr-x   1    0    0    1977612 Nov 21 2006 [  92432 00] STR02_03.KPP 
+-r-xr-xr-x   1    0    0    2938314 Nov 21 2006 [  93408 00] STR02_04.KPP 
+-r-xr-xr-x   1    0    0    2429762 Nov 21 2006 [  94848 00] STR02_05.KPP 
+-r-xr-xr-x   1    0    0    2186485 Nov 21 2006 [  96048 00] STR02_06.KPP 
+-r-xr-xr-x   1    0    0    2263028 Nov 21 2006 [  97120 00] STR02_07.KPP 
+-r-xr-xr-x   1    0    0    2339016 Nov 21 2006 [  98240 00] STR02_08.KPP 
+
+Directory listing of /PSP_GAME/USRDIR/LVL003/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     31 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 10 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0     782232 Nov 23 2006 [ 122096 00] 00LLOC03.KPP 
+-r-xr-xr-x   1    0    0     782358 Nov 23 2006 [ 122480 00] 01LLOC03.KPP 
+-r-xr-xr-x   1    0    0    9647236 Nov 21 2006 [ 122864 00] LVL03.KPP 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     45 02] SPEECH 
+-r-xr-xr-x   1    0    0    1756637 Nov 21 2006 [ 151968 00] STR03_00.KPP 
+-r-xr-xr-x   1    0    0    1166683 Nov 21 2006 [ 152832 00] STR03_01.KPP 
+-r-xr-xr-x   1    0    0    1539780 Nov 21 2006 [ 153408 00] STR03_02.KPP 
+-r-xr-xr-x   1    0    0    1902361 Nov 21 2006 [ 154160 00] STR03_03.KPP 
+-r-xr-xr-x   1    0    0    1553899 Nov 21 2006 [ 155104 00] STR03_04.KPP 
+-r-xr-xr-x   1    0    0     782667 Nov 21 2006 [ 155872 00] STR03_05.KPP 
+-r-xr-xr-x   1    0    0    1112044 Nov 21 2006 [ 156256 00] STR03_06.KPP 
+-r-xr-xr-x   1    0    0    1709033 Nov 21 2006 [ 156800 00] STR03_07.KPP 
+-r-xr-xr-x   1    0    0    2175369 Nov 21 2006 [ 157648 00] STR03_08.KPP 
+
+Directory listing of /PSP_GAME/USRDIR/LVL004/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     32 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 10 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0     779205 Nov 23 2006 [ 158720 00] 00LLOC04.KPP 
+-r-xr-xr-x   1    0    0     779331 Nov 23 2006 [ 159104 00] 01LLOC04.KPP 
+-r-xr-xr-x   1    0    0    6550617 Nov 21 2006 [ 159488 00] LVL04.KPP 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     46 02] SPEECH 
+-r-xr-xr-x   1    0    0    2080739 Nov 21 2006 [ 173024 00] STR04_00.KPP 
+-r-xr-xr-x   1    0    0       3069 Nov 21 2006 [ 174048 00] STR04_01.KPP 
+-r-xr-xr-x   1    0    0       2828 Nov 21 2006 [ 174064 00] STR04_02.KPP 
+-r-xr-xr-x   1    0    0       2828 Nov 21 2006 [ 174080 00] STR04_03.KPP 
+-r-xr-xr-x   1    0    0    1113332 Nov 21 2006 [ 174096 00] STR04_04.KPP 
+-r-xr-xr-x   1    0    0    2233216 Nov 21 2006 [ 174640 00] STR04_05.KPP 
+-r-xr-xr-x   1    0    0       2828 Nov 21 2006 [ 175744 00] STR04_06.KPP 
+-r-xr-xr-x   1    0    0       2828 Nov 21 2006 [ 175760 00] STR04_07.KPP 
+-r-xr-xr-x   1    0    0    2104705 Nov 21 2006 [ 175776 00] STR04_08.KPP 
+-r-xr-xr-x   1    0    0    1317695 Nov 21 2006 [ 176816 00] STR04_09.KPP 
+
+Directory listing of /PSP_GAME/USRDIR/LVL005/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     33 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 10 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0     785983 Nov 23 2006 [ 177472 00] 00LLOC05.KPP 
+-r-xr-xr-x   1    0    0     786109 Nov 23 2006 [ 177856 00] 01LLOC05.KPP 
+-r-xr-xr-x   1    0    0    8756062 Nov 21 2006 [ 178240 00] LVL05.KPP 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     47 02] SPEECH 
+-r-xr-xr-x   1    0    0    2423509 Nov 21 2006 [ 220208 00] STR05_00.KPP 
+-r-xr-xr-x   1    0    0    1970072 Nov 21 2006 [ 221392 00] STR05_01.KPP 
+-r-xr-xr-x   1    0    0    2320532 Nov 21 2006 [ 222368 00] STR05_02.KPP 
+-r-xr-xr-x   1    0    0     992303 Nov 21 2006 [ 223504 00] STR05_03.KPP 
+-r-xr-xr-x   1    0    0    1990637 Nov 21 2006 [ 224000 00] STR05_04.KPP 
+-r-xr-xr-x   1    0    0     938120 Nov 21 2006 [ 224976 00] STR05_05.KPP 
+-r-xr-xr-x   1    0    0     730498 Nov 21 2006 [ 225440 00] STR05_06.KPP 
+-r-xr-xr-x   1    0    0       3155 Nov 21 2006 [ 225808 00] STR05_07.KPP 
+-r-xr-xr-x   1    0    0       3155 Nov 21 2006 [ 225824 00] STR05_08.KPP 
+-r-xr-xr-x   1    0    0       3155 Nov 21 2006 [ 225840 00] STR05_09.KPP 
+-r-xr-xr-x   1    0    0       3155 Nov 21 2006 [ 225856 00] STR05_10.KPP 
+
+Directory listing of /PSP_GAME/USRDIR/LVL006/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     34 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 10 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0     787988 Nov 23 2006 [ 225872 00] 00LLOC06.KPP 
+-r-xr-xr-x   1    0    0     788114 Nov 23 2006 [ 226272 00] 01LLOC06.KPP 
+-r-xr-xr-x   1    0    0    9605813 Nov 22 2006 [ 226672 00] LVL06.KPP 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     48 02] SPEECH 
+-r-xr-xr-x   1    0    0    2455423 Nov 22 2006 [ 275696 00] STR06_00.KPP 
+-r-xr-xr-x   1    0    0    3001543 Nov 22 2006 [ 276896 00] STR06_01.KPP 
+-r-xr-xr-x   1    0    0    1436679 Nov 22 2006 [ 278368 00] STR06_02.KPP 
+-r-xr-xr-x   1    0    0    2823438 Nov 22 2006 [ 279072 00] STR06_03.KPP 
+-r-xr-xr-x   1    0    0    1716437 Nov 22 2006 [ 280464 00] STR06_04.KPP 
+-r-xr-xr-x   1    0    0    2359565 Nov 22 2006 [ 281312 00] STR06_05.KPP 
+-r-xr-xr-x   1    0    0    2732464 Nov 22 2006 [ 282480 00] STR06_06.KPP 
+-r-xr-xr-x   1    0    0    1966669 Nov 22 2006 [ 283824 00] STR06_07.KPP 
+-r-xr-xr-x   1    0    0    2024211 Nov 22 2006 [ 284800 00] STR06_08.KPP 
+-r-xr-xr-x   1    0    0       2987 Nov 22 2006 [ 285792 00] STR06_09.KPP 
+-r-xr-xr-x   1    0    0    1428003 Nov 22 2006 [ 285808 00] STR06_10.KPP 
+
+Directory listing of /PSP_GAME/USRDIR/LVL009/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     35 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 10 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0     782192 Nov 23 2006 [ 286512 00] 00LLOC09.KPP 
+-r-xr-xr-x   1    0    0     782318 Nov 23 2006 [ 286896 00] 01LLOC09.KPP 
+-r-xr-xr-x   1    0    0    6150782 Nov 22 2006 [ 287280 00] LVL09.KPP 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     49 02] SPEECH 
+-r-xr-xr-x   1    0    0    4558146 Nov 22 2006 [ 316176 00] STR09_00.KPP 
+-r-xr-xr-x   1    0    0    2415269 Nov 22 2006 [ 318416 00] STR09_01.KPP 
+-r-xr-xr-x   1    0    0       3151 Nov 22 2006 [ 319600 00] STR09_02.KPP 
+
+Directory listing of /PSP_GAME/USRDIR/LVL010/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     36 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 10 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0     783605 Nov 23 2006 [ 319616 00] 00LLOC10.KPP 
+-r-xr-xr-x   1    0    0     783731 Nov 23 2006 [ 320000 00] 01LLOC10.KPP 
+-r-xr-xr-x   1    0    0    7428739 Nov 22 2006 [ 320384 00] LVL10.KPP 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     50 02] SPEECH 
+-r-xr-xr-x   1    0    0    1875646 Nov 22 2006 [ 355728 00] STR10_00.KPP 
+-r-xr-xr-x   1    0    0    3232323 Nov 22 2006 [ 356656 00] STR10_01.KPP 
+-r-xr-xr-x   1    0    0    1675188 Nov 22 2006 [ 358240 00] STR10_02.KPP 
+-r-xr-xr-x   1    0    0    1651253 Nov 22 2006 [ 359072 00] STR10_03.KPP 
+-r-xr-xr-x   1    0    0       3135 Nov 22 2006 [ 359888 00] STR10_04.KPP 
+-r-xr-xr-x   1    0    0       3135 Nov 22 2006 [ 359904 00] STR10_05.KPP 
+-r-xr-xr-x   1    0    0       3135 Nov 22 2006 [ 359920 00] STR10_06.KPP 
+-r-xr-xr-x   1    0    0       3649 Nov 22 2006 [ 359936 00] STR10_07.KPP 
+-r-xr-xr-x   1    0    0       3135 Nov 22 2006 [ 359952 00] STR10_08.KPP 
+
+Directory listing of /PSP_GAME/USRDIR/LVL012/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     37 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 10 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0     781349 Nov 23 2006 [ 359968 00] 00LLOC12.KPP 
+-r-xr-xr-x   1    0    0     781475 Nov 23 2006 [ 360352 00] 01LLOC12.KPP 
+-r-xr-xr-x   1    0    0    6315247 Nov 21 2006 [ 360736 00] LVL12.KPP 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     51 02] SPEECH 
+-r-xr-xr-x   1    0    0       2735 Nov 21 2006 [ 386752 00] STR12_00.KPP 
+-r-xr-xr-x   1    0    0    3233656 Nov 21 2006 [ 386768 00] STR12_01.KPP 
+-r-xr-xr-x   1    0    0       2735 Nov 21 2006 [ 388352 00] STR12_02.KPP 
+-r-xr-xr-x   1    0    0       2735 Nov 21 2006 [ 388368 00] STR12_03.KPP 
+-r-xr-xr-x   1    0    0       2735 Nov 21 2006 [ 388384 00] STR12_04.KPP 
+
+Directory listing of /PSP_GAME/USRDIR/LVL013/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     38 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 10 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0     781867 Nov 23 2006 [ 388400 00] 00LLOC13.KPP 
+-r-xr-xr-x   1    0    0     781993 Nov 23 2006 [ 388784 00] 01LLOC13.KPP 
+-r-xr-xr-x   1    0    0    6852092 Nov 21 2006 [ 389168 00] LVL13.KPP 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     52 02] SPEECH 
+-r-xr-xr-x   1    0    0    1220375 Nov 21 2006 [ 413024 00] STR13_00.KPP 
+-r-xr-xr-x   1    0    0    3197676 Nov 21 2006 [ 413632 00] STR13_01.KPP 
+-r-xr-xr-x   1    0    0    2524433 Nov 21 2006 [ 415200 00] STR13_02.KPP 
+-r-xr-xr-x   1    0    0    1360121 Nov 21 2006 [ 416448 00] STR13_03.KPP 
+-r-xr-xr-x   1    0    0    1909436 Nov 21 2006 [ 417120 00] STR13_04.KPP 
+-r-xr-xr-x   1    0    0       2795 Nov 21 2006 [ 418064 00] STR13_05.KPP 
+
+Directory listing of /PSP_GAME/USRDIR/LVL014/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     39 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 10 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0     777645 Nov 23 2006 [ 418080 00] 00LLOC14.KPP 
+-r-xr-xr-x   1    0    0     777771 Nov 23 2006 [ 418464 00] 01LLOC14.KPP 
+-r-xr-xr-x   1    0    0    8052574 Nov 21 2006 [ 418848 00] LVL14.KPP 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     53 02] SPEECH 
+-r-xr-xr-x   1    0    0    1338924 Nov 21 2006 [ 426816 00] STR14_00.KPP 
+-r-xr-xr-x   1    0    0     463664 Nov 21 2006 [ 427472 00] STR14_01.KPP 
+
+Directory listing of /PSP_GAME/USRDIR/MODULE/
+dr-xr-xr-x   1    0    0       2048 Nov 10 2006 [     40 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 10 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0       6864 Dec  8 2005 [ 730528 00] sc_sascore.prx 
+
+Directory listing of /PSP_GAME/USRDIR/MOVIE/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     41 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 10 2006 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     54 02] 00 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     55 02] 01 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     56 02] 02 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     57 02] 03 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     58 02] 04 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     59 02] 05 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     60 02] 06 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     61 02] 07 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     62 02] 08 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     63 02] 09 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     64 02] 10 
+
+Directory listing of /PSP_GAME/USRDIR/MUSIC/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     42 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 10 2006 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     65 02] 00 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     66 02] 01 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     67 02] 02 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     68 02] 03 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     69 02] 04 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     70 02] 05 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     71 02] 06 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     72 02] 07 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     73 02] 08 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     74 02] 09 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     75 02] 10 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     76 02] 11 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     77 02] 12 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     78 02] 13 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     79 02] 14 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     80 02] 15 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     81 02] 16 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     82 02] 17 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     83 02] 18 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     84 02] 19 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     85 02] 20 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     86 02] 21 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     87 02] 22 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     88 02] 23 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     89 02] 24 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     90 02] 25 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     91 02] 26 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     92 02] 27 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     93 02] 28 
+
+Directory listing of /PSP_GAME/USRDIR/LVL001/SPEECH/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     43 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     29 02] .. 
+-r-xr-xr-x   1    0    0   14182400 Nov 23 2006 [ 105936 00] 0_PSP0.RWS 
+-r-xr-xr-x   1    0    0   12761088 Nov 23 2006 [ 112864 00] 1_PSP0.RWS 
+
+Directory listing of /PSP_GAME/USRDIR/LVL002/SPEECH/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     44 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     30 02] .. 
+-r-xr-xr-x   1    0    0   60035072 Nov 23 2006 [  31792 00] 0_PSP0.RWS 
+-r-xr-xr-x   1    0    0   56725504 Nov 23 2006 [  61120 00] 1_PSP0.RWS 
+
+Directory listing of /PSP_GAME/USRDIR/LVL003/SPEECH/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     45 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     31 02] .. 
+-r-xr-xr-x   1    0    0   25571328 Nov 23 2006 [ 127584 00] 0_PSP0.RWS 
+-r-xr-xr-x   1    0    0   24326144 Nov 23 2006 [ 140080 00] 1_PSP0.RWS 
+
+Directory listing of /PSP_GAME/USRDIR/LVL004/SPEECH/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     46 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     32 02] .. 
+-r-xr-xr-x   1    0    0   10977280 Nov 23 2006 [ 162688 00] 0_PSP0.RWS 
+-r-xr-xr-x   1    0    0   10166272 Nov 23 2006 [ 168048 00] 1_PSP0.RWS 
+
+Directory listing of /PSP_GAME/USRDIR/LVL005/SPEECH/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     47 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     33 02] .. 
+-r-xr-xr-x   1    0    0   39362560 Nov 23 2006 [ 182528 00] 0_PSP0.RWS 
+-r-xr-xr-x   1    0    0   37765120 Nov 23 2006 [ 201760 00] 1_PSP0.RWS 
+
+Directory listing of /PSP_GAME/USRDIR/LVL006/SPEECH/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     48 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     34 02] .. 
+-r-xr-xr-x   1    0    0   46641152 Nov 23 2006 [ 231376 00] 0_PSP0.RWS 
+-r-xr-xr-x   1    0    0   44085248 Nov 23 2006 [ 254160 00] 1_PSP0.RWS 
+
+Directory listing of /PSP_GAME/USRDIR/LVL009/SPEECH/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     49 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     35 02] .. 
+-r-xr-xr-x   1    0    0   27273216 Nov 23 2006 [ 290288 00] 0_PSP0.RWS 
+-r-xr-xr-x   1    0    0   25720832 Nov 23 2006 [ 303616 00] 1_PSP0.RWS 
+
+Directory listing of /PSP_GAME/USRDIR/LVL010/SPEECH/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     50 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     36 02] .. 
+-r-xr-xr-x   1    0    0   33378304 Nov 23 2006 [ 324016 00] 0_PSP0.RWS 
+-r-xr-xr-x   1    0    0   31555584 Nov 23 2006 [ 340320 00] 1_PSP0.RWS 
+
+Directory listing of /PSP_GAME/USRDIR/LVL012/SPEECH/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     51 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     37 02] .. 
+-r-xr-xr-x   1    0    0   24002560 Nov 23 2006 [ 363824 00] 0_PSP0.RWS 
+-r-xr-xr-x   1    0    0   22925312 Nov 23 2006 [ 375552 00] 1_PSP0.RWS 
+
+Directory listing of /PSP_GAME/USRDIR/LVL013/SPEECH/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     52 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     38 02] .. 
+-r-xr-xr-x   1    0    0   22112256 Nov 23 2006 [ 392528 00] 0_PSP0.RWS 
+-r-xr-xr-x   1    0    0   19826688 Nov 23 2006 [ 403328 00] 1_PSP0.RWS 
+
+Directory listing of /PSP_GAME/USRDIR/LVL014/SPEECH/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     53 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     39 02] .. 
+-r-xr-xr-x   1    0    0    4222976 Nov 23 2006 [ 422784 00] 0_PSP0.RWS 
+-r-xr-xr-x   1    0    0    4009984 Nov 23 2006 [ 424848 00] 1_PSP0.RWS 
+
+Directory listing of /PSP_GAME/USRDIR/MOVIE/00/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     54 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0   73600480 Oct 20 2006 [ 427712 00] PSP_000.VID 
+-r-xr-xr-x   1    0    0     120300 Sep 12 2006 [ 463664 00] PSP_001.VID 
+-r-xr-xr-x   1    0    0    1811740 Nov 23 2006 [ 463728 00] PSP_002.VID 
+-r-xr-xr-x   1    0    0    3215352 Nov 23 2006 [ 464624 00] PSP_003.VID 
+-r-xr-xr-x   1    0    0    2175992 Nov 23 2006 [ 466208 00] PSP_004.VID 
+-r-xr-xr-x   1    0    0    3440448 Nov 23 2006 [ 467280 00] PSP_005.VID 
+-r-xr-xr-x   1    0    0    6044912 Nov 23 2006 [ 468960 00] PSP_006.VID 
+-r-xr-xr-x   1    0    0    7693300 Nov 23 2006 [ 471920 00] PSP_007.VID 
+-r-xr-xr-x   1    0    0    3209560 Nov 23 2006 [ 475680 00] PSP_008.VID 
+-r-xr-xr-x   1    0    0    8200456 Nov 23 2006 [ 477248 00] PSP_009.VID 
+
+Directory listing of /PSP_GAME/USRDIR/MOVIE/01/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     55 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0    1466708 Nov 23 2006 [ 481264 00] PSP_010.VID 
+-r-xr-xr-x   1    0    0     120284 Sep 12 2006 [ 481984 00] PSP_011.VID 
+-r-xr-xr-x   1    0    0    3684560 Nov 23 2006 [ 482048 00] PSP_012.VID 
+-r-xr-xr-x   1    0    0     601124 Sep 13 2006 [ 483856 00] PSP_013.VID 
+-r-xr-xr-x   1    0    0    1634060 Nov 23 2006 [ 484160 00] PSP_014.VID 
+-r-xr-xr-x   1    0    0    2840976 Nov 23 2006 [ 484960 00] PSP_015.VID 
+-r-xr-xr-x   1    0    0     966832 Sep 14 2006 [ 486352 00] PSP_016.VID 
+-r-xr-xr-x   1    0    0    1650460 Nov 23 2006 [ 486832 00] PSP_017.VID 
+-r-xr-xr-x   1    0    0     953940 Sep 14 2006 [ 487648 00] PSP_018.VID 
+-r-xr-xr-x   1    0    0   10711908 Oct 13 2006 [ 488128 00] PSP_019.VID 
+
+Directory listing of /PSP_GAME/USRDIR/MOVIE/02/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     56 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0     120288 Sep 12 2006 [ 493360 00] PSP_020.VID 
+-r-xr-xr-x   1    0    0    3982540 Sep 14 2006 [ 493424 00] PSP_021.VID 
+-r-xr-xr-x   1    0    0     217184 Nov 23 2006 [ 495376 00] PSP_022.VID 
+-r-xr-xr-x   1    0    0    2687332 Nov 23 2006 [ 495488 00] PSP_023.VID 
+-r-xr-xr-x   1    0    0    5508236 Nov 23 2006 [ 496816 00] PSP_024.VID 
+-r-xr-xr-x   1    0    0    1340080 Nov 23 2006 [ 499520 00] PSP_025.VID 
+-r-xr-xr-x   1    0    0    4559620 Nov 23 2006 [ 500176 00] PSP_026.VID 
+-r-xr-xr-x   1    0    0    6782604 Nov 23 2006 [ 502416 00] PSP_027.VID 
+-r-xr-xr-x   1    0    0    5098140 Nov 23 2006 [ 505728 00] PSP_028.VID 
+-r-xr-xr-x   1    0    0    3469160 Nov 23 2006 [ 508224 00] PSP_029.VID 
+
+Directory listing of /PSP_GAME/USRDIR/MOVIE/03/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     57 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0    4113588 Nov 23 2006 [ 509920 00] PSP_030.VID 
+-r-xr-xr-x   1    0    0    4404656 Nov 23 2006 [ 511936 00] PSP_031.VID 
+-r-xr-xr-x   1    0    0    5712208 Nov 23 2006 [ 514096 00] PSP_032.VID 
+-r-xr-xr-x   1    0    0    5253372 Nov 23 2006 [ 516896 00] PSP_033.VID 
+-r-xr-xr-x   1    0    0    7096116 Nov 23 2006 [ 519472 00] PSP_034.VID 
+-r-xr-xr-x   1    0    0    5167716 Nov 23 2006 [ 522944 00] PSP_035.VID 
+-r-xr-xr-x   1    0    0    5032072 Nov 23 2006 [ 525472 00] PSP_036.VID 
+-r-xr-xr-x   1    0    0    4910800 Nov 23 2006 [ 527936 00] PSP_037.VID 
+-r-xr-xr-x   1    0    0     120284 Sep 13 2006 [ 530336 00] PSP_038.VID 
+-r-xr-xr-x   1    0    0    3100836 Sep 14 2006 [ 530400 00] PSP_039.VID 
+
+Directory listing of /PSP_GAME/USRDIR/MOVIE/04/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     58 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0    2373532 Nov 23 2006 [ 531920 00] PSP_040.VID 
+-r-xr-xr-x   1    0    0     120924 Sep 13 2006 [ 533088 00] PSP_041.VID 
+-r-xr-xr-x   1    0    0    4063040 Nov 23 2006 [ 533152 00] PSP_042.VID 
+-r-xr-xr-x   1    0    0    6379588 Nov 23 2006 [ 535136 00] PSP_043.VID 
+-r-xr-xr-x   1    0    0    2627820 Nov 23 2006 [ 538256 00] PSP_044.VID 
+-r-xr-xr-x   1    0    0    3813104 Sep 14 2006 [ 539552 00] PSP_045.VID 
+-r-xr-xr-x   1    0    0    5655320 Nov 23 2006 [ 541424 00] PSP_046.VID 
+-r-xr-xr-x   1    0    0    2859840 Nov 23 2006 [ 544192 00] PSP_047.VID 
+-r-xr-xr-x   1    0    0    2408504 Nov 23 2006 [ 545600 00] PSP_048.VID 
+-r-xr-xr-x   1    0    0    2405144 Nov 23 2006 [ 546784 00] PSP_049.VID 
+
+Directory listing of /PSP_GAME/USRDIR/MOVIE/05/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     59 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0    2296368 Nov 23 2006 [ 547968 00] PSP_050.VID 
+-r-xr-xr-x   1    0    0    1259820 Nov 23 2006 [ 549104 00] PSP_051.VID 
+-r-xr-xr-x   1    0    0    3433900 Nov 23 2006 [ 549728 00] PSP_052.VID 
+-r-xr-xr-x   1    0    0    5358448 Nov 23 2006 [ 551408 00] PSP_053.VID 
+-r-xr-xr-x   1    0    0    4263256 Nov 23 2006 [ 554032 00] PSP_054.VID 
+-r-xr-xr-x   1    0    0     977820 Sep 14 2006 [ 556128 00] PSP_055.VID 
+-r-xr-xr-x   1    0    0    9378820 Nov 23 2006 [ 556608 00] PSP_056.VID 
+-r-xr-xr-x   1    0    0    4220596 Nov 23 2006 [ 561200 00] PSP_057.VID 
+-r-xr-xr-x   1    0    0     976280 Sep 14 2006 [ 563264 00] PSP_058.VID 
+-r-xr-xr-x   1    0    0    1922284 Nov 23 2006 [ 563744 00] PSP_059.VID 
+
+Directory listing of /PSP_GAME/USRDIR/MOVIE/06/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     60 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0     962872 Sep 14 2006 [ 564688 00] PSP_060.VID 
+-r-xr-xr-x   1    0    0     968000 Sep 14 2006 [ 565168 00] PSP_061.VID 
+-r-xr-xr-x   1    0    0     961556 Sep 14 2006 [ 565648 00] PSP_062.VID 
+-r-xr-xr-x   1    0    0     972992 Sep 14 2006 [ 566128 00] PSP_063.VID 
+-r-xr-xr-x   1    0    0   14386924 Nov 23 2006 [ 566608 00] PSP_064.VID 
+-r-xr-xr-x   1    0    0    2895184 Nov 23 2006 [ 573648 00] PSP_065.VID 
+-r-xr-xr-x   1    0    0    2211348 Nov 23 2006 [ 575072 00] PSP_066.VID 
+-r-xr-xr-x   1    0    0    3081816 Nov 23 2006 [ 576160 00] PSP_067.VID 
+-r-xr-xr-x   1    0    0    8530812 Nov 23 2006 [ 577680 00] PSP_068.VID 
+-r-xr-xr-x   1    0    0    1320484 Nov 23 2006 [ 581856 00] PSP_069.VID 
+
+Directory listing of /PSP_GAME/USRDIR/MOVIE/07/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     61 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0    2874268 Nov 23 2006 [ 582512 00] PSP_070.VID 
+-r-xr-xr-x   1    0    0    2159872 Nov 23 2006 [ 583920 00] PSP_071.VID 
+-r-xr-xr-x   1    0    0    4334772 Nov 23 2006 [ 584976 00] PSP_072.VID 
+-r-xr-xr-x   1    0    0   17627312 Oct 24 2006 [ 587104 00] PSP_073.VID 
+-r-xr-xr-x   1    0    0     927836 Nov 23 2006 [ 595712 00] PSP_074.VID 
+-r-xr-xr-x   1    0    0    7009880 Nov 23 2006 [ 596176 00] PSP_075.VID 
+-r-xr-xr-x   1    0    0    1302348 Oct 13 2006 [ 599600 00] PSP_076.VID 
+-r-xr-xr-x   1    0    0   17924884 Nov  2 2006 [ 600240 00] PSP_077.VID 
+-r-xr-xr-x   1    0    0    1418848 Nov 23 2006 [ 609008 00] PSP_078.VID 
+-r-xr-xr-x   1    0    0    2865000 Nov 23 2006 [ 609712 00] PSP_079.VID 
+
+Directory listing of /PSP_GAME/USRDIR/MOVIE/08/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     62 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0     120308 Sep 13 2006 [ 611120 00] PSP_080.VID 
+-r-xr-xr-x   1    0    0      80480 Nov 14 2006 [ 611184 00] PSP_081.VID 
+-r-xr-xr-x   1    0    0    1932008 Nov 23 2006 [ 611232 00] PSP_082.VID 
+-r-xr-xr-x   1    0    0    2641880 Nov 23 2006 [ 612176 00] PSP_083.VID 
+-r-xr-xr-x   1    0    0    4141340 Nov 23 2006 [ 613472 00] PSP_084.VID 
+-r-xr-xr-x   1    0    0     313496 Nov 23 2006 [ 615504 00] PSP_085.VID 
+-r-xr-xr-x   1    0    0    2889760 Nov 23 2006 [ 615664 00] PSP_086.VID 
+-r-xr-xr-x   1    0    0    2302644 Nov 23 2006 [ 617088 00] PSP_087.VID 
+-r-xr-xr-x   1    0    0    2490276 Nov 23 2006 [ 618224 00] PSP_088.VID 
+-r-xr-xr-x   1    0    0    3737204 Nov 23 2006 [ 619440 00] PSP_089.VID 
+
+Directory listing of /PSP_GAME/USRDIR/MOVIE/09/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     63 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0   10433096 Nov 23 2006 [ 621280 00] PSP_090.VID 
+-r-xr-xr-x   1    0    0    1663396 Nov 23 2006 [ 626384 00] PSP_091.VID 
+-r-xr-xr-x   1    0    0    2842328 Sep 14 2006 [ 627200 00] PSP_092.VID 
+-r-xr-xr-x   1    0    0     120308 Sep 14 2006 [ 628592 00] PSP_093.VID 
+-r-xr-xr-x   1    0    0    2521596 Nov 23 2006 [ 628656 00] PSP_094.VID 
+-r-xr-xr-x   1    0    0    3408444 Nov 23 2006 [ 629888 00] PSP_095.VID 
+-r-xr-xr-x   1    0    0    3741492 Nov 23 2006 [ 631568 00] PSP_096.VID 
+-r-xr-xr-x   1    0    0    4110380 Nov 23 2006 [ 633408 00] PSP_097.VID 
+-r-xr-xr-x   1    0    0    4120840 Nov 23 2006 [ 635424 00] PSP_098.VID 
+-r-xr-xr-x   1    0    0    5561200 Nov 23 2006 [ 637440 00] PSP_099.VID 
+
+Directory listing of /PSP_GAME/USRDIR/MOVIE/10/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     64 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0    5825596 Nov 23 2006 [ 640160 00] PSP_100.VID 
+-r-xr-xr-x   1    0    0    4002156 Nov 23 2006 [ 643008 00] PSP_101.VID 
+-r-xr-xr-x   1    0    0    5349636 Nov 23 2006 [ 644976 00] PSP_102.VID 
+-r-xr-xr-x   1    0    0    4250260 Nov 23 2006 [ 647600 00] PSP_103.VID 
+-r-xr-xr-x   1    0    0     859244 Nov 23 2006 [ 649680 00] PSP_104.VID 
+
+Directory listing of /PSP_GAME/USRDIR/MUSIC/00/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     65 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     42 02] .. 
+-r-xr-xr-x   1    0    0     686080 Oct 31 2006 [ 650112 00] PSP_000.RWS 
+-r-xr-xr-x   1    0    0     686080 Oct 31 2006 [ 650448 00] PSP_001.RWS 
+-r-xr-xr-x   1    0    0     677888 Oct 31 2006 [ 650784 00] PSP_002.RWS 
+-r-xr-xr-x   1    0    0     620544 Oct 31 2006 [ 651120 00] PSP_003.RWS 
+-r-xr-xr-x   1    0    0     563200 Oct 31 2006 [ 651424 00] PSP_004.RWS 
+-r-xr-xr-x   1    0    0     772096 Oct 31 2006 [ 651712 00] PSP_005.RWS 
+-r-xr-xr-x   1    0    0     243712 Oct 31 2006 [ 652096 00] PSP_006.RWS 
+-r-xr-xr-x   1    0    0     292864 Oct 31 2006 [ 652224 00] PSP_007.RWS 
+-r-xr-xr-x   1    0    0     202752 Oct 31 2006 [ 652368 00] PSP_008.RWS 
+-r-xr-xr-x   1    0    0     374784 Oct 31 2006 [ 652480 00] PSP_009.RWS 
+
+Directory listing of /PSP_GAME/USRDIR/MUSIC/01/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     66 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     42 02] .. 
+-r-xr-xr-x   1    0    0    2103296 Oct 31 2006 [ 652672 00] PSP_010.RWS 
+
+Directory listing of /PSP_GAME/USRDIR/MUSIC/02/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     67 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     42 02] .. 
+-r-xr-xr-x   1    0    0     329728 Oct 31 2006 [ 653712 00] PSP_022.RWS 
+-r-xr-xr-x   1    0    0     456704 Oct 31 2006 [ 653888 00] PSP_023.RWS 
+-r-xr-xr-x   1    0    0     174080 Oct 31 2006 [ 654112 00] PSP_025.RWS 
+-r-xr-xr-x   1    0    0     174080 Oct 31 2006 [ 654208 00] PSP_026.RWS 
+-r-xr-xr-x   1    0    0     235520 Oct 31 2006 [ 654304 00] PSP_027.RWS 
+-r-xr-xr-x   1    0    0     382976 Oct 31 2006 [ 654432 00] PSP_028.RWS 
+-r-xr-xr-x   1    0    0     333824 Oct 31 2006 [ 654624 00] PSP_029.RWS 
+
+Directory listing of /PSP_GAME/USRDIR/MUSIC/03/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     68 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     42 02] .. 
+-r-xr-xr-x   1    0    0     112640 Oct 31 2006 [ 654800 00] PSP_030.RWS 
+-r-xr-xr-x   1    0    0     169984 Oct 31 2006 [ 654864 00] PSP_031.RWS 
+-r-xr-xr-x   1    0    0     456704 Oct 31 2006 [ 654960 00] PSP_032.RWS 
+-r-xr-xr-x   1    0    0     231424 Oct 31 2006 [ 655184 00] PSP_033.RWS 
+-r-xr-xr-x   1    0    0     591872 Oct 31 2006 [ 655312 00] PSP_034.RWS 
+-r-xr-xr-x   1    0    0     161792 Oct 31 2006 [ 655616 00] PSP_035.RWS 
+-r-xr-xr-x   1    0    0      79872 Oct 31 2006 [ 655696 00] PSP_036.RWS 
+-r-xr-xr-x   1    0    0     710656 Oct 31 2006 [ 655744 00] PSP_037.RWS 
+-r-xr-xr-x   1    0    0     305152 Oct 31 2006 [ 656096 00] PSP_038.RWS 
+-r-xr-xr-x   1    0    0     329728 Oct 31 2006 [ 656256 00] PSP_039.RWS 
+
+Directory listing of /PSP_GAME/USRDIR/MUSIC/04/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     69 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     42 02] .. 
+-r-xr-xr-x   1    0    0      63488 Oct 31 2006 [ 656432 00] PSP_040.RWS 
+-r-xr-xr-x   1    0    0     124928 Oct 31 2006 [ 656464 00] PSP_042.RWS 
+-r-xr-xr-x   1    0    0     120832 Oct 31 2006 [ 656528 00] PSP_043.RWS 
+-r-xr-xr-x   1    0    0      83968 Oct 31 2006 [ 656592 00] PSP_044.RWS 
+-r-xr-xr-x   1    0    0     112640 Oct 31 2006 [ 656640 00] PSP_045.RWS 
+-r-xr-xr-x   1    0    0     145408 Oct 31 2006 [ 656704 00] PSP_046.RWS 
+-r-xr-xr-x   1    0    0     251904 Oct 31 2006 [ 656784 00] PSP_047.RWS 
+-r-xr-xr-x   1    0    0     116736 Oct 31 2006 [ 656912 00] PSP_048.RWS 
+-r-xr-xr-x   1    0    0     133120 Oct 31 2006 [ 656976 00] PSP_049.RWS 
+
+Directory listing of /PSP_GAME/USRDIR/MUSIC/05/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     70 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     42 02] .. 
+-r-xr-xr-x   1    0    0     972800 Oct 31 2006 [ 657056 00] PSP_051.RWS 
+-r-xr-xr-x   1    0    0     575488 Oct 31 2006 [ 657536 00] PSP_052.RWS 
+-r-xr-xr-x   1    0    0     407552 Oct 31 2006 [ 657824 00] PSP_053.RWS 
+-r-xr-xr-x   1    0    0    1095680 Oct 31 2006 [ 658032 00] PSP_056.RWS 
+-r-xr-xr-x   1    0    0    1574912 Oct 31 2006 [ 658576 00] PSP_058.RWS 
+-r-xr-xr-x   1    0    0    1701888 Oct 31 2006 [ 659360 00] PSP_059.RWS 
+
+Directory listing of /PSP_GAME/USRDIR/MUSIC/06/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     71 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     42 02] .. 
+-r-xr-xr-x   1    0    0    1280000 Oct 31 2006 [ 660192 00] PSP_060.RWS 
+-r-xr-xr-x   1    0    0    1366016 Oct 31 2006 [ 660832 00] PSP_061.RWS 
+-r-xr-xr-x   1    0    0    1697792 Oct 31 2006 [ 661504 00] PSP_062.RWS 
+-r-xr-xr-x   1    0    0    2467840 Oct 31 2006 [ 662336 00] PSP_063.RWS 
+-r-xr-xr-x   1    0    0    2463744 Oct 31 2006 [ 663552 00] PSP_064.RWS 
+-r-xr-xr-x   1    0    0    2467840 Oct 31 2006 [ 664768 00] PSP_066.RWS 
+-r-xr-xr-x   1    0    0    1640448 Oct 31 2006 [ 665984 00] PSP_067.RWS 
+-r-xr-xr-x   1    0    0    1603584 Oct 31 2006 [ 666800 00] PSP_068.RWS 
+-r-xr-xr-x   1    0    0    1935360 Oct 31 2006 [ 667584 00] PSP_069.RWS 
+
+Directory listing of /PSP_GAME/USRDIR/MUSIC/07/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     72 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     42 02] .. 
+-r-xr-xr-x   1    0    0    1853440 Oct 31 2006 [ 668544 00] PSP_070.RWS 
+-r-xr-xr-x   1    0    0    1062912 Oct 31 2006 [ 669456 00] PSP_071.RWS 
+-r-xr-xr-x   1    0    0    1370112 Oct 31 2006 [ 669984 00] PSP_072.RWS 
+-r-xr-xr-x   1    0    0    1042432 Oct 31 2006 [ 670656 00] PSP_074.RWS 
+-r-xr-xr-x   1    0    0    1808384 Oct 31 2006 [ 671168 00] PSP_075.RWS 
+-r-xr-xr-x   1    0    0    1763328 Oct 31 2006 [ 672064 00] PSP_076.RWS 
+-r-xr-xr-x   1    0    0    1267712 Oct 31 2006 [ 672928 00] PSP_077.RWS 
+-r-xr-xr-x   1    0    0    1267712 Oct 31 2006 [ 673552 00] PSP_078.RWS 
+-r-xr-xr-x   1    0    0    1267712 Oct 31 2006 [ 674176 00] PSP_079.RWS 
+
+Directory listing of /PSP_GAME/USRDIR/MUSIC/08/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     73 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     42 02] .. 
+-r-xr-xr-x   1    0    0     219136 Oct 31 2006 [ 674800 00] PSP_082.RWS 
+-r-xr-xr-x   1    0    0     264192 Oct 31 2006 [ 674912 00] PSP_083.RWS 
+-r-xr-xr-x   1    0    0    1816576 Oct 31 2006 [ 675056 00] PSP_086.RWS 
+-r-xr-xr-x   1    0    0    1767424 Oct 31 2006 [ 675952 00] PSP_087.RWS 
+-r-xr-xr-x   1    0    0     382976 Oct 31 2006 [ 676816 00] PSP_088.RWS 
+-r-xr-xr-x   1    0    0     382976 Oct 31 2006 [ 677008 00] PSP_089.RWS 
+
+Directory listing of /PSP_GAME/USRDIR/MUSIC/09/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     74 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     42 02] .. 
+-r-xr-xr-x   1    0    0     694272 Oct 31 2006 [ 677200 00] PSP_090.RWS 
+-r-xr-xr-x   1    0    0     571392 Oct 31 2006 [ 677552 00] PSP_091.RWS 
+-r-xr-xr-x   1    0    0    1767424 Oct 31 2006 [ 677840 00] PSP_092.RWS 
+-r-xr-xr-x   1    0    0     694272 Oct 31 2006 [ 678704 00] PSP_093.RWS 
+-r-xr-xr-x   1    0    0    2889728 Oct 31 2006 [ 679056 00] PSP_094.RWS 
+-r-xr-xr-x   1    0    0    1021952 Oct 31 2006 [ 680480 00] PSP_096.RWS 
+-r-xr-xr-x   1    0    0     591872 Oct 31 2006 [ 680992 00] PSP_097.RWS 
+-r-xr-xr-x   1    0    0     591872 Oct 31 2006 [ 681296 00] PSP_098.RWS 
+-r-xr-xr-x   1    0    0    1853440 Oct 31 2006 [ 681600 00] PSP_099.RWS 
+
+Directory listing of /PSP_GAME/USRDIR/MUSIC/10/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     75 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     42 02] .. 
+-r-xr-xr-x   1    0    0     145408 Oct 31 2006 [ 682512 00] PSP_101.RWS 
+-r-xr-xr-x   1    0    0    1284096 Oct 31 2006 [ 682592 00] PSP_102.RWS 
+-r-xr-xr-x   1    0    0    2066432 Oct 31 2006 [ 683232 00] PSP_103.RWS 
+-r-xr-xr-x   1    0    0     854016 Oct 31 2006 [ 684256 00] PSP_104.RWS 
+-r-xr-xr-x   1    0    0     710656 Oct 31 2006 [ 684688 00] PSP_105.RWS 
+-r-xr-xr-x   1    0    0     321536 Oct 31 2006 [ 685040 00] PSP_108.RWS 
+-r-xr-xr-x   1    0    0     321536 Oct 31 2006 [ 685200 00] PSP_109.RWS 
+
+Directory listing of /PSP_GAME/USRDIR/MUSIC/11/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     76 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     42 02] .. 
+-r-xr-xr-x   1    0    0      38912 Oct 31 2006 [ 685360 00] PSP_110.RWS 
+-r-xr-xr-x   1    0    0      83968 Oct 31 2006 [ 685392 00] PSP_115.RWS 
+-r-xr-xr-x   1    0    0    2983936 Oct 31 2006 [ 685440 00] PSP_116.RWS 
+-r-xr-xr-x   1    0    0     366592 Oct 31 2006 [ 686912 00] PSP_117.RWS 
+-r-xr-xr-x   1    0    0     784384 Oct 31 2006 [ 687104 00] PSP_118.RWS 
+-r-xr-xr-x   1    0    0     374784 Oct 31 2006 [ 687488 00] PSP_119.RWS 
+
+Directory listing of /PSP_GAME/USRDIR/MUSIC/12/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     77 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     42 02] .. 
+-r-xr-xr-x   1    0    0    1456128 Oct 31 2006 [ 687680 00] PSP_120.RWS 
+-r-xr-xr-x   1    0    0    2836480 Oct 31 2006 [ 688400 00] PSP_121.RWS 
+-r-xr-xr-x   1    0    0     374784 Oct 31 2006 [ 689792 00] PSP_122.RWS 
+-r-xr-xr-x   1    0    0    1591296 Oct 31 2006 [ 689984 00] PSP_124.RWS 
+-r-xr-xr-x   1    0    0    2197504 Oct 31 2006 [ 690768 00] PSP_125.RWS 
+-r-xr-xr-x   1    0    0    1308672 Oct 31 2006 [ 691856 00] PSP_126.RWS 
+-r-xr-xr-x   1    0    0     698368 Oct 31 2006 [ 692496 00] PSP_127.RWS 
+-r-xr-xr-x   1    0    0    1026048 Oct 31 2006 [ 692848 00] PSP_128.RWS 
+-r-xr-xr-x   1    0    0    1591296 Oct 31 2006 [ 693360 00] PSP_129.RWS 
+
+Directory listing of /PSP_GAME/USRDIR/MUSIC/13/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     78 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     42 02] .. 
+-r-xr-xr-x   1    0    0    1591296 Oct 31 2006 [ 694144 00] PSP_130.RWS 
+-r-xr-xr-x   1    0    0     706560 Oct 31 2006 [ 694928 00] PSP_135.RWS 
+-r-xr-xr-x   1    0    0    1140736 Oct 31 2006 [ 695280 00] PSP_136.RWS 
+-r-xr-xr-x   1    0    0     706560 Oct 31 2006 [ 695840 00] PSP_137.RWS 
+-r-xr-xr-x   1    0    0     739328 Oct 31 2006 [ 696192 00] PSP_138.RWS 
+-r-xr-xr-x   1    0    0     841728 Oct 31 2006 [ 696560 00] PSP_139.RWS 
+
+Directory listing of /PSP_GAME/USRDIR/MUSIC/14/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     79 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     42 02] .. 
+-r-xr-xr-x   1    0    0    1423360 Oct 31 2006 [ 696976 00] PSP_140.RWS 
+-r-xr-xr-x   1    0    0    1120256 Oct 31 2006 [ 697680 00] PSP_141.RWS 
+-r-xr-xr-x   1    0    0    3028992 Oct 31 2006 [ 698240 00] PSP_142.RWS 
+-r-xr-xr-x   1    0    0     727040 Oct 31 2006 [ 699728 00] PSP_144.RWS 
+-r-xr-xr-x   1    0    0     727040 Oct 31 2006 [ 700096 00] PSP_145.RWS 
+-r-xr-xr-x   1    0    0     727040 Oct 31 2006 [ 700464 00] PSP_146.RWS 
+-r-xr-xr-x   1    0    0    2308096 Oct 31 2006 [ 700832 00] PSP_147.RWS 
+-r-xr-xr-x   1    0    0    2308096 Oct 31 2006 [ 701968 00] PSP_148.RWS 
+-r-xr-xr-x   1    0    0    1312768 Oct 31 2006 [ 703104 00] PSP_149.RWS 
+
+Directory listing of /PSP_GAME/USRDIR/MUSIC/15/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     80 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     42 02] .. 
+-r-xr-xr-x   1    0    0    1312768 Oct 31 2006 [ 703760 00] PSP_150.RWS 
+-r-xr-xr-x   1    0    0    1312768 Oct 31 2006 [ 704416 00] PSP_151.RWS 
+-r-xr-xr-x   1    0    0    1214464 Oct 31 2006 [ 705072 00] PSP_152.RWS 
+-r-xr-xr-x   1    0    0     579584 Oct 31 2006 [ 705680 00] PSP_153.RWS 
+-r-xr-xr-x   1    0    0    1312768 Oct 31 2006 [ 705968 00] PSP_154.RWS 
+
+Directory listing of /PSP_GAME/USRDIR/MUSIC/16/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     81 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     42 02] .. 
+-r-xr-xr-x   1    0    0     862208 Oct 31 2006 [ 706624 00] PSP_162.RWS 
+
+Directory listing of /PSP_GAME/USRDIR/MUSIC/17/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     82 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     42 02] .. 
+-r-xr-xr-x   1    0    0     849920 Oct 31 2006 [ 707056 00] PSP_173.RWS 
+-r-xr-xr-x   1    0    0     280576 Oct 31 2006 [ 707472 00] PSP_174.RWS 
+-r-xr-xr-x   1    0    0    1939456 Oct 31 2006 [ 707616 00] PSP_175.RWS 
+-r-xr-xr-x   1    0    0    1456128 Oct 31 2006 [ 708576 00] PSP_176.RWS 
+-r-xr-xr-x   1    0    0     280576 Oct 31 2006 [ 709296 00] PSP_177.RWS 
+
+Directory listing of /PSP_GAME/USRDIR/MUSIC/18/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     83 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     42 02] .. 
+-r-xr-xr-x   1    0    0     800768 Oct 31 2006 [ 709440 00] PSP_182.RWS 
+-r-xr-xr-x   1    0    0    1398784 Oct 31 2006 [ 709840 00] PSP_183.RWS 
+-r-xr-xr-x   1    0    0     104448 Oct 31 2006 [ 710528 00] PSP_184.RWS 
+-r-xr-xr-x   1    0    0    1603584 Oct 31 2006 [ 710592 00] PSP_186.RWS 
+
+Directory listing of /PSP_GAME/USRDIR/MUSIC/19/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     84 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     42 02] .. 
+-r-xr-xr-x   1    0    0     497664 Oct 31 2006 [ 711376 00] PSP_196.RWS 
+-r-xr-xr-x   1    0    0     296960 Oct 31 2006 [ 711632 00] PSP_198.RWS 
+-r-xr-xr-x   1    0    0    1259520 Oct 31 2006 [ 711792 00] PSP_199.RWS 
+
+Directory listing of /PSP_GAME/USRDIR/MUSIC/20/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     85 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     42 02] .. 
+-r-xr-xr-x   1    0    0     198656 Oct 31 2006 [ 712416 00] PSP_201.RWS 
+-r-xr-xr-x   1    0    0     481280 Oct 31 2006 [ 712528 00] PSP_207.RWS 
+-r-xr-xr-x   1    0    0    1918976 Oct 31 2006 [ 712768 00] PSP_208.RWS 
+
+Directory listing of /PSP_GAME/USRDIR/MUSIC/21/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     86 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     42 02] .. 
+-r-xr-xr-x   1    0    0    1869824 Oct 31 2006 [ 713712 00] PSP_210.RWS 
+-r-xr-xr-x   1    0    0    1918976 Oct 31 2006 [ 714640 00] PSP_211.RWS 
+-r-xr-xr-x   1    0    0    2205696 Oct 31 2006 [ 715584 00] PSP_212.RWS 
+-r-xr-xr-x   1    0    0     210944 Oct 31 2006 [ 716672 00] PSP_213.RWS 
+-r-xr-xr-x   1    0    0     210944 Oct 31 2006 [ 716784 00] PSP_214.RWS 
+-r-xr-xr-x   1    0    0    1062912 Oct 31 2006 [ 716896 00] PSP_218.RWS 
+
+Directory listing of /PSP_GAME/USRDIR/MUSIC/22/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     87 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     42 02] .. 
+-r-xr-xr-x   1    0    0     759808 Oct 31 2006 [ 717424 00] PSP_223.RWS 
+-r-xr-xr-x   1    0    0    1832960 Oct 31 2006 [ 717808 00] PSP_224.RWS 
+-r-xr-xr-x   1    0    0    2365440 Oct 31 2006 [ 718704 00] PSP_225.RWS 
+-r-xr-xr-x   1    0    0    2365440 Oct 31 2006 [ 719872 00] PSP_226.RWS 
+-r-xr-xr-x   1    0    0      67584 Oct 31 2006 [ 721040 00] PSP_227.RWS 
+
+Directory listing of /PSP_GAME/USRDIR/MUSIC/23/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     88 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     42 02] .. 
+-r-xr-xr-x   1    0    0     112640 Oct 31 2006 [ 721088 00] PSP_233.RWS 
+
+Directory listing of /PSP_GAME/USRDIR/MUSIC/24/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     89 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     42 02] .. 
+-r-xr-xr-x   1    0    0    2308096 Oct 31 2006 [ 721152 00] PSP_243.RWS 
+-r-xr-xr-x   1    0    0    1153024 Oct 31 2006 [ 722288 00] PSP_247.RWS 
+-r-xr-xr-x   1    0    0     694272 Oct 31 2006 [ 722864 00] PSP_248.RWS 
+
+Directory listing of /PSP_GAME/USRDIR/MUSIC/25/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     90 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     42 02] .. 
+-r-xr-xr-x   1    0    0    1013760 Oct 31 2006 [ 723216 00] PSP_250.RWS 
+
+Directory listing of /PSP_GAME/USRDIR/MUSIC/26/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     91 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     42 02] .. 
+-r-xr-xr-x   1    0    0    1398784 Oct 31 2006 [ 723712 00] PSP_260.RWS 
+-r-xr-xr-x   1    0    0    1333248 Oct 31 2006 [ 724400 00] PSP_261.RWS 
+-r-xr-xr-x   1    0    0    1333248 Oct 31 2006 [ 725056 00] PSP_263.RWS 
+-r-xr-xr-x   1    0    0    1337344 Oct 31 2006 [ 725712 00] PSP_264.RWS 
+-r-xr-xr-x   1    0    0      92160 Oct 31 2006 [ 726368 00] PSP_267.RWS 
+
+Directory listing of /PSP_GAME/USRDIR/MUSIC/27/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     92 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     42 02] .. 
+-r-xr-xr-x   1    0    0     870400 Oct 31 2006 [ 726416 00] PSP_271.RWS 
+
+Directory listing of /PSP_GAME/USRDIR/MUSIC/28/
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     93 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan  4 2007 [     42 02] .. 
+-r-xr-xr-x   1    0    0    1767424 Oct 31 2006 [ 726848 00] PSP_281.RWS 
+-r-xr-xr-x   1    0    0     112640 Oct 31 2006 [ 727712 00] PSP_282.RWS 
+-r-xr-xr-x   1    0    0     256000 Oct 31 2006 [ 727776 00] PSP_283.RWS 
+-r-xr-xr-x   1    0    0     120832 Oct 31 2006 [ 727904 00] PSP_284.RWS 
+-r-xr-xr-x   1    0    0     129024 Oct 31 2006 [ 727968 00] PSP_285.RWS 
+-r-xr-xr-x   1    0    0     342016 Oct 31 2006 [ 728032 00] PSP_286.RWS 
+-r-xr-xr-x   1    0    0    1619968 Oct 31 2006 [ 728208 00] PSP_287.RWS 
+-r-xr-xr-x   1    0    0    1619968 Oct 31 2006 [ 729008 00] PSP_288.RWS 
+=============================================================== 
+Generated on Tue 09/08/2022 at  5:36:57.89 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

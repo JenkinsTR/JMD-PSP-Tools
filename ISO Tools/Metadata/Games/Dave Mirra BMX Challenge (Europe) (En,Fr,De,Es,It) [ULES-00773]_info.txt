@@ -1,0 +1,121 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Dave Mirra BMX Challenge   
+Title ID: ULES-00773 
+Region: Europe  
+Languages: En,Fr,De,Es,It  
+Volume Creation Date: 2007-03-30 16:22:34 
+Volume Size: 687 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: MIRRA
+Volume set id: RC
+Publisher id: 
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 352112
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Mar 30 2007 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 30 2007 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2006 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Feb 21 2006 [     31 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Feb 21 2006 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 30 2007 [     22 02] .. 
+-r-xr-xr-x   1    0    0       4402 Jan  8 2007 [ 260017 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        472 Mar 30 2007 [ 260020 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      34097 Jan  8 2007 [ 260000 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2006 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2006 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Feb 21 2006 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2006 [     23 02] .. 
+-r-xr-xr-x   1    0    0    3340841 Mar 30 2007 [ 260021 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    3341184 Mar 30 2007 [     32 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2006 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Feb 21 2006 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2006 [     23 02] .. 
+-r-xr-xr-x   1    0    0    1254022 Mar 30 2007 [ 270496 00] ANIM.PAK 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2006 [     27 02] Audio 
+-r-xr-xr-x   1    0    0  148543986 Mar 30 2007 [ 271337 00] DATA.PAK 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2006 [     28 02] MOVIES 
+-r-xr-xr-x   1    0    0      27502 Mar 30 2007 [ 271109 00] PART.PAK 
+-r-xr-xr-x   1    0    0     235496 Mar 30 2007 [ 271222 00] PERMTEX.PAK 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2006 [     29 02] PRX 
+-r-xr-xr-x   1    0    0     202674 Mar 30 2007 [ 271123 00] SHELL.PAK 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Feb 21 2006 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2006 [     24 02] .. 
+-r-xr-xr-x   1    0    0   16833136 Feb 21 2006 [   5762 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5213248 Feb 21 2006 [   1666 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Feb 21 2006 [   1664 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/Audio/
+dr-xr-xr-x   1    0    0       2048 Feb 21 2006 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2006 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2006 [     30 02] Streams 
+
+Directory listing of /PSP_GAME/USRDIR/MOVIES/
+dr-xr-xr-x   1    0    0       2048 Feb 21 2006 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0   15239168 Jan  8 2007 [ 263055 00] bmxdemo.pmf 
+-r-xr-xr-x   1    0    0     495616 Jan  8 2007 [ 262221 00] crave.pmf 
+-r-xr-xr-x   1    0    0    1021952 Jan  8 2007 [ 261722 00] lfplogo.pmf 
+-r-xr-xr-x   1    0    0    1212416 Jan  8 2007 [ 262463 00] oxygen.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/PRX/
+dr-xr-xr-x   1    0    0       2048 Feb 21 2006 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0       7440 Aug 17 2006 [ 261684 00] PSMF.PRX 
+-r-xr-xr-x   1    0    0       2448 Aug 17 2006 [ 261688 00] PSPNET_AP_DIALOG_DUMMY.PRX 
+-r-xr-xr-x   1    0    0       1088 Aug 17 2006 [ 261706 00] libadler.prx 
+-r-xr-xr-x   1    0    0       1472 Aug 17 2006 [ 261653 00] libbase64.prx 
+-r-xr-xr-x   1    0    0       3520 Aug 17 2006 [ 261654 00] libccc.prx 
+-r-xr-xr-x   1    0    0       4416 Aug 17 2006 [ 261656 00] libdeflt.prx 
+-r-xr-xr-x   1    0    0      23456 Aug 17 2006 [ 261659 00] libfont.prx 
+-r-xr-xr-x   1    0    0       4192 Aug 17 2006 [ 261671 00] libfpu.prx 
+-r-xr-xr-x   1    0    0       2400 Aug 17 2006 [ 261674 00] libmd5.prx 
+-r-xr-xr-x   1    0    0       1312 Aug 17 2006 [ 261676 00] libmt19937.prx 
+-r-xr-xr-x   1    0    0       1952 Aug 17 2006 [ 261677 00] libqpcode.prx 
+-r-xr-xr-x   1    0    0       2576 Aug 17 2006 [ 261678 00] libsha1.prx 
+-r-xr-xr-x   1    0    0       2928 Aug 17 2006 [ 261680 00] libsha224.prx 
+-r-xr-xr-x   1    0    0       2928 Aug 17 2006 [ 261682 00] libsha256.prx 
+-r-xr-xr-x   1    0    0      31792 Aug 17 2006 [ 261690 00] scan.prx 
+-r-xr-xr-x   1    0    0      29520 Aug 17 2006 [ 261707 00] show_macaddr.prx 
+
+Directory listing of /PSP_GAME/USRDIR/Audio/Streams/
+dr-xr-xr-x   1    0    0       2048 Feb 21 2006 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2006 [     27 02] .. 
+-r-xr-xr-x   1    0    0   16873594 Jan  8 2007 [ 343869 00] STREAM_PSP.PAK 
+=============================================================== 
+Generated on Tue 09/08/2022 at  5:37:09.50 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

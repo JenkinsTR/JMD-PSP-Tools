@@ -1,0 +1,620 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: TMNT   
+Title ID: ULES-00759 
+Region: Europe  
+Languages: En,Fr,De,Es,It  
+Volume Creation Date: 2007-01-18 13:42:45 
+Volume Size: 1097 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: UBISOFT
+Volume set id: UBISOFT
+Publisher id: UBISOFT
+Data preparer id: UBISOFT
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 562144
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Jan 18 2007 [     78 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     22 02] .. 
+-r-xr-xr-x   1    0    0      22453 Jan  4 2007 [  22608 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     444416 Jan  4 2007 [  22624 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 Jan 18 2007 [  22592 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     172966 Jan  4 2007 [  22848 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     23 02] .. 
+-r-xr-xr-x   1    0    0    4111632 Jan 18 2007 [  22944 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    4111968 Jan 18 2007 [     80 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     27 02] 3d 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     28 02] settings 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     29 02] sound 
+dr-xr-xr-x   1    0    0      10240 Jan 18 2007 [     30 02] video 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     24 02] .. 
+-r-xr-xr-x   1    0    0   16681232 Jan 18 2007 [   6208 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5227056 Jan 18 2007 [   2112 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Jan 18 2007 [   2096 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/3d/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     35 02] level 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     36 02] localization 
+
+Directory listing of /PSP_GAME/USRDIR/settings/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     25 02] .. 
+-r-xr-xr-x   1    0    0       2840 Jan  4 2007 [  24960 00] linear.ini 
+-r-xr-xr-x   1    0    0       6209 Jan  4 2007 [  24976 00] networksettings.xml 
+
+Directory listing of /PSP_GAME/USRDIR/sound/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     25 02] .. 
+-r-xr-xr-x   1    0    0   59965440 Jan  5 2007 [ 266832 00] maps.sm5 
+-r-xr-xr-x   1    0    0       4096 Jan  5 2007 [ 296112 00] shellpsp_fp.sp5 
+-r-xr-xr-x   1    0    0  459823104 Jan  4 2007 [ 296128 00] stream.ss5 
+
+Directory listing of /PSP_GAME/USRDIR/video/
+dr-xr-xr-x   1    0    0      10240 Jan 18 2007 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     25 02] .. 
+-r-xr-xr-x   1    0    0   20385792 Jan  8 2007 [ 520656 00] credits.pmf 
+-r-xr-xr-x   1    0    0         89 Jan  4 2007 [ 530624 00] end.english 
+-r-xr-xr-x   1    0    0         83 Jan  4 2007 [ 530640 00] end.french 
+-r-xr-xr-x   1    0    0         98 Jan  4 2007 [ 530656 00] end.german 
+-r-xr-xr-x   1    0    0        106 Jan  4 2007 [ 530672 00] end.italian 
+-r-xr-xr-x   1    0    0    4179968 Jan  4 2007 [ 530688 00] end.pmf 
+-r-xr-xr-x   1    0    0         96 Jan  4 2007 [ 532736 00] end.spanish 
+-r-xr-xr-x   1    0    0    2924544 Jan  4 2007 [ 532752 00] extra01.pmf 
+-r-xr-xr-x   1    0    0    3244032 Jan  4 2007 [ 534192 00] extra02.pmf 
+-r-xr-xr-x   1    0    0    4608000 Jan  4 2007 [ 535776 00] extra03.pmf 
+-r-xr-xr-x   1    0    0    1144832 Jan  4 2007 [ 538032 00] extra04.pmf 
+-r-xr-xr-x   1    0    0    1116160 Jan  4 2007 [ 538592 00] extra05.pmf 
+-r-xr-xr-x   1    0    0    2203648 Jan  4 2007 [ 539152 00] extra06.pmf 
+-r-xr-xr-x   1    0    0    2301952 Jan 10 2007 [ 540240 00] logo.pmf 
+-r-xr-xr-x   1    0    0        109 Jan  4 2007 [ 541376 00] v01_01.english 
+-r-xr-xr-x   1    0    0        110 Jan  4 2007 [ 541392 00] v01_01.french 
+-r-xr-xr-x   1    0    0         94 Jan  4 2007 [ 541408 00] v01_01.german 
+-r-xr-xr-x   1    0    0        120 Jan  4 2007 [ 541424 00] v01_01.italian 
+-r-xr-xr-x   1    0    0    2977792 Jan  4 2007 [ 541440 00] v01_01.pmf 
+-r-xr-xr-x   1    0    0        118 Jan  4 2007 [ 542896 00] v01_01.spanish 
+-r-xr-xr-x   1    0    0        308 Jan  4 2007 [ 542912 00] v01_02.english 
+-r-xr-xr-x   1    0    0        290 Jan  4 2007 [ 542928 00] v01_02.french 
+-r-xr-xr-x   1    0    0        321 Jan  4 2007 [ 542944 00] v01_02.german 
+-r-xr-xr-x   1    0    0        337 Jan  4 2007 [ 542960 00] v01_02.italian 
+-r-xr-xr-x   1    0    0    2766848 Jan  4 2007 [ 542976 00] v01_02.pmf 
+-r-xr-xr-x   1    0    0        318 Jan  4 2007 [ 544336 00] v01_02.spanish 
+-r-xr-xr-x   1    0    0        171 Jan  4 2007 [ 544352 00] v02_01.english 
+-r-xr-xr-x   1    0    0        177 Jan  4 2007 [ 544368 00] v02_01.french 
+-r-xr-xr-x   1    0    0        185 Jan  4 2007 [ 544384 00] v02_01.german 
+-r-xr-xr-x   1    0    0        169 Jan  4 2007 [ 544400 00] v02_01.italian 
+-r-xr-xr-x   1    0    0    1021952 Jan  4 2007 [ 544416 00] v02_01.pmf 
+-r-xr-xr-x   1    0    0        166 Jan  4 2007 [ 544928 00] v02_01.spanish 
+-r-xr-xr-x   1    0    0        142 Jan  4 2007 [ 544944 00] v02_02.english 
+-r-xr-xr-x   1    0    0        161 Jan  4 2007 [ 544960 00] v02_02.french 
+-r-xr-xr-x   1    0    0        151 Jan  4 2007 [ 544976 00] v02_02.german 
+-r-xr-xr-x   1    0    0        153 Jan  4 2007 [ 544992 00] v02_02.italian 
+-r-xr-xr-x   1    0    0    1798144 Jan  4 2007 [ 545008 00] v02_02.pmf 
+-r-xr-xr-x   1    0    0        150 Jan  4 2007 [ 545888 00] v02_02.spanish 
+-r-xr-xr-x   1    0    0         96 Jan  4 2007 [ 545904 00] v03_01.english 
+-r-xr-xr-x   1    0    0        106 Jan  4 2007 [ 545920 00] v03_01.french 
+-r-xr-xr-x   1    0    0        118 Jan  4 2007 [ 545936 00] v03_01.german 
+-r-xr-xr-x   1    0    0         97 Jan  4 2007 [ 545952 00] v03_01.italian 
+-r-xr-xr-x   1    0    0    2312192 Jan  4 2007 [ 545968 00] v03_01.pmf 
+-r-xr-xr-x   1    0    0         93 Jan  4 2007 [ 547104 00] v03_01.spanish 
+-r-xr-xr-x   1    0    0         99 Jan  4 2007 [ 547120 00] v04_01.english 
+-r-xr-xr-x   1    0    0        105 Jan  4 2007 [ 547136 00] v04_01.french 
+-r-xr-xr-x   1    0    0         98 Jan  4 2007 [ 547152 00] v04_01.german 
+-r-xr-xr-x   1    0    0        102 Jan  4 2007 [ 547168 00] v04_01.italian 
+-r-xr-xr-x   1    0    0     907264 Jan  4 2007 [ 547184 00] v04_01.pmf 
+-r-xr-xr-x   1    0    0        109 Jan  4 2007 [ 547632 00] v04_01.spanish 
+-r-xr-xr-x   1    0    0        103 Jan  4 2007 [ 547648 00] v04_02.english 
+-r-xr-xr-x   1    0    0        118 Jan  4 2007 [ 547664 00] v04_02.french 
+-r-xr-xr-x   1    0    0         95 Jan  4 2007 [ 547680 00] v04_02.german 
+-r-xr-xr-x   1    0    0        122 Jan  4 2007 [ 547696 00] v04_02.italian 
+-r-xr-xr-x   1    0    0     915456 Jan  4 2007 [ 547712 00] v04_02.pmf 
+-r-xr-xr-x   1    0    0        110 Jan  4 2007 [ 548160 00] v04_02.spanish 
+-r-xr-xr-x   1    0    0        118 Jan  4 2007 [ 548176 00] v06_01.english 
+-r-xr-xr-x   1    0    0        118 Jan  4 2007 [ 548192 00] v06_01.french 
+-r-xr-xr-x   1    0    0        133 Jan  4 2007 [ 548208 00] v06_01.german 
+-r-xr-xr-x   1    0    0        117 Jan  4 2007 [ 548224 00] v06_01.italian 
+-r-xr-xr-x   1    0    0     888832 Jan  4 2007 [ 548240 00] v06_01.pmf 
+-r-xr-xr-x   1    0    0        126 Jan  4 2007 [ 548688 00] v06_01.spanish 
+-r-xr-xr-x   1    0    0         85 Jan  4 2007 [ 548704 00] v07_01.english 
+-r-xr-xr-x   1    0    0         91 Jan  4 2007 [ 548720 00] v07_01.french 
+-r-xr-xr-x   1    0    0         99 Jan  4 2007 [ 548736 00] v07_01.german 
+-r-xr-xr-x   1    0    0         86 Jan  4 2007 [ 548752 00] v07_01.italian 
+-r-xr-xr-x   1    0    0     655360 Jan  4 2007 [ 548768 00] v07_01.pmf 
+-r-xr-xr-x   1    0    0         86 Jan  4 2007 [ 549088 00] v07_01.spanish 
+-r-xr-xr-x   1    0    0        345 Jan  4 2007 [ 549104 00] v08_01.english 
+-r-xr-xr-x   1    0    0        374 Jan  4 2007 [ 549120 00] v08_01.french 
+-r-xr-xr-x   1    0    0        398 Jan  4 2007 [ 549136 00] v08_01.german 
+-r-xr-xr-x   1    0    0        385 Jan  4 2007 [ 549152 00] v08_01.italian 
+-r-xr-xr-x   1    0    0    5992448 Jan  4 2007 [ 549168 00] v08_01.pmf 
+-r-xr-xr-x   1    0    0        376 Jan  4 2007 [ 552096 00] v08_01.spanish 
+-r-xr-xr-x   1    0    0        193 Jan  4 2007 [ 552112 00] v08_02.english 
+-r-xr-xr-x   1    0    0        199 Jan  4 2007 [ 552128 00] v08_02.french 
+-r-xr-xr-x   1    0    0        198 Jan  4 2007 [ 552144 00] v08_02.german 
+-r-xr-xr-x   1    0    0        199 Jan  4 2007 [ 552160 00] v08_02.italian 
+-r-xr-xr-x   1    0    0    1769472 Jan  4 2007 [ 552176 00] v08_02.pmf 
+-r-xr-xr-x   1    0    0        204 Jan  4 2007 [ 553040 00] v08_02.spanish 
+-r-xr-xr-x   1    0    0        107 Jan  4 2007 [ 553056 00] v09_01.english 
+-r-xr-xr-x   1    0    0        127 Jan  4 2007 [ 553072 00] v09_01.french 
+-r-xr-xr-x   1    0    0        121 Jan  4 2007 [ 553088 00] v09_01.german 
+-r-xr-xr-x   1    0    0         96 Jan  4 2007 [ 553104 00] v09_01.italian 
+-r-xr-xr-x   1    0    0     980992 Jan  4 2007 [ 553120 00] v09_01.pmf 
+-r-xr-xr-x   1    0    0        115 Jan  4 2007 [ 553600 00] v09_01.spanish 
+-r-xr-xr-x   1    0    0         78 Jan  4 2007 [ 553616 00] v09_02.english 
+-r-xr-xr-x   1    0    0         86 Jan  4 2007 [ 553632 00] v09_02.french 
+-r-xr-xr-x   1    0    0         78 Jan  4 2007 [ 553648 00] v09_02.german 
+-r-xr-xr-x   1    0    0         77 Jan  4 2007 [ 553664 00] v09_02.italian 
+-r-xr-xr-x   1    0    0     933888 Jan  4 2007 [ 553680 00] v09_02.pmf 
+-r-xr-xr-x   1    0    0         75 Jan  4 2007 [ 554144 00] v09_02.spanish 
+-r-xr-xr-x   1    0    0        113 Jan  4 2007 [ 554160 00] v10_01.english 
+-r-xr-xr-x   1    0    0        123 Jan  4 2007 [ 554176 00] v10_01.french 
+-r-xr-xr-x   1    0    0        126 Jan  4 2007 [ 554192 00] v10_01.german 
+-r-xr-xr-x   1    0    0        131 Jan  4 2007 [ 554208 00] v10_01.italian 
+-r-xr-xr-x   1    0    0    2232320 Jan  4 2007 [ 554224 00] v10_01.pmf 
+-r-xr-xr-x   1    0    0        121 Jan  4 2007 [ 555328 00] v10_01.spanish 
+-r-xr-xr-x   1    0    0        101 Jan  4 2007 [ 555344 00] v11_01.english 
+-r-xr-xr-x   1    0    0        116 Jan  4 2007 [ 555360 00] v11_01.french 
+-r-xr-xr-x   1    0    0        127 Jan  4 2007 [ 555376 00] v11_01.german 
+-r-xr-xr-x   1    0    0        107 Jan  4 2007 [ 555392 00] v11_01.italian 
+-r-xr-xr-x   1    0    0     876544 Jan  4 2007 [ 555408 00] v11_01.pmf 
+-r-xr-xr-x   1    0    0        125 Jan  4 2007 [ 555840 00] v11_01.spanish 
+-r-xr-xr-x   1    0    0        266 Jan  4 2007 [ 555856 00] v13_01.english 
+-r-xr-xr-x   1    0    0        260 Jan  4 2007 [ 555872 00] v13_01.french 
+-r-xr-xr-x   1    0    0        295 Jan  4 2007 [ 555888 00] v13_01.german 
+-r-xr-xr-x   1    0    0        286 Jan  4 2007 [ 555904 00] v13_01.italian 
+-r-xr-xr-x   1    0    0    8341504 Jan  4 2007 [ 555920 00] v13_01.pmf 
+-r-xr-xr-x   1    0    0        265 Jan  4 2007 [ 560000 00] v13_01.spanish 
+-r-xr-xr-x   1    0    0        113 Jan  4 2007 [ 560016 00] v13_02.english 
+-r-xr-xr-x   1    0    0        115 Jan  4 2007 [ 560032 00] v13_02.french 
+-r-xr-xr-x   1    0    0        134 Jan  4 2007 [ 560048 00] v13_02.german 
+-r-xr-xr-x   1    0    0        134 Jan  4 2007 [ 560064 00] v13_02.italian 
+-r-xr-xr-x   1    0    0    1290240 Jan  4 2007 [ 560080 00] v13_02.pmf 
+-r-xr-xr-x   1    0    0        128 Jan  4 2007 [ 560720 00] v13_02.spanish 
+-r-xr-xr-x   1    0    0         87 Jan  4 2007 [ 560736 00] v13_mid.english 
+-r-xr-xr-x   1    0    0         88 Jan  4 2007 [ 560752 00] v13_mid.french 
+-r-xr-xr-x   1    0    0         90 Jan  4 2007 [ 560768 00] v13_mid.german 
+-r-xr-xr-x   1    0    0         88 Jan  4 2007 [ 560784 00] v13_mid.italian 
+-r-xr-xr-x   1    0    0     821248 Jan  4 2007 [ 560800 00] v13_mid.pmf 
+-r-xr-xr-x   1    0    0         89 Jan  4 2007 [ 561216 00] v13_mid.spanish 
+-r-xr-xr-x   1    0    0        124 Jan  4 2007 [ 561232 00] v14_01.english 
+-r-xr-xr-x   1    0    0        148 Jan  4 2007 [ 561248 00] v14_01.french 
+-r-xr-xr-x   1    0    0        128 Jan  4 2007 [ 561264 00] v14_01.german 
+-r-xr-xr-x   1    0    0        138 Jan  4 2007 [ 561280 00] v14_01.italian 
+-r-xr-xr-x   1    0    0     868352 Jan  4 2007 [ 561296 00] v14_01.pmf 
+-r-xr-xr-x   1    0    0        141 Jan  4 2007 [ 561728 00] v14_01.spanish 
+-r-xr-xr-x   1    0    0        116 Jan  4 2007 [ 561744 00] v15_01.english 
+-r-xr-xr-x   1    0    0        106 Jan  4 2007 [ 561760 00] v15_01.french 
+-r-xr-xr-x   1    0    0        139 Jan  4 2007 [ 561776 00] v15_01.german 
+-r-xr-xr-x   1    0    0        106 Jan  4 2007 [ 561792 00] v15_01.italian 
+-r-xr-xr-x   1    0    0     641024 Jan  4 2007 [ 561808 00] v15_01.pmf 
+-r-xr-xr-x   1    0    0        132 Jan  4 2007 [ 562128 00] v15_01.spanish 
+
+Directory listing of /PSP_GAME/USRDIR/3d/level/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     35 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     27 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     37 02] mission 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     38 02] multiplayer 
+
+Directory listing of /PSP_GAME/USRDIR/3d/localization/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     36 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     27 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     39 02] pc 
+
+Directory listing of /PSP_GAME/USRDIR/3d/level/mission/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     37 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     35 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     40 02] m02_boss 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     41 02] m02b 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     42 02] m02 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     43 02] m03_boss 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     44 02] m03b2 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     45 02] m03b_boss 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     46 02] m03b 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     47 02] m03 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     48 02] m04_boss 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     49 02] m04b 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     50 02] m04 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     51 02] m06_boss 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     52 02] m06a 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     53 02] m06b 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     54 02] m08b_boss 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     55 02] m08b 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     56 02] m08 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     57 02] m09_boss 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     58 02] m09a 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     59 02] m09b1_boss 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     60 02] m09b1 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     61 02] m09b2_boss 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     62 02] m09b2 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     63 02] m09b3_boss 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     64 02] m09b3 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     65 02] m10a 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     66 02] m10b 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     67 02] m15_boss 
+
+Directory listing of /PSP_GAME/USRDIR/3d/level/multiplayer/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     38 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     35 02] .. 
+-r-xr-xr-x   1    0    0    2747890 Jan 18 2007 [ 233312 00] mp011.lin.ozzy 
+-r-xr-xr-x   1    0    0    2748983 Jan 18 2007 [ 234656 00] mp012.lin.ozzy 
+-r-xr-xr-x   1    0    0    2748887 Jan 18 2007 [ 236000 00] mp013.lin.ozzy 
+-r-xr-xr-x   1    0    0    2748788 Jan 18 2007 [ 237344 00] mp014.lin.ozzy 
+-r-xr-xr-x   1    0    0    2748749 Jan 18 2007 [ 238688 00] mp015.lin.ozzy 
+-r-xr-xr-x   1    0    0    3124668 Jan 18 2007 [ 240032 00] mp021.lin.ozzy 
+-r-xr-xr-x   1    0    0    3124381 Jan 18 2007 [ 241568 00] mp022.lin.ozzy 
+-r-xr-xr-x   1    0    0    3124524 Jan 18 2007 [ 243104 00] mp023.lin.ozzy 
+-r-xr-xr-x   1    0    0    3123717 Jan 18 2007 [ 244640 00] mp024.lin.ozzy 
+-r-xr-xr-x   1    0    0    3123666 Jan 18 2007 [ 246176 00] mp025.lin.ozzy 
+-r-xr-xr-x   1    0    0    2716350 Jan 18 2007 [ 247712 00] mp041.lin.ozzy 
+-r-xr-xr-x   1    0    0    2717519 Jan 18 2007 [ 249040 00] mp042.lin.ozzy 
+-r-xr-xr-x   1    0    0    2717496 Jan 18 2007 [ 250368 00] mp043.lin.ozzy 
+-r-xr-xr-x   1    0    0    2717025 Jan 18 2007 [ 251696 00] mp044.lin.ozzy 
+-r-xr-xr-x   1    0    0    2717234 Jan 18 2007 [ 253024 00] mp045.lin.ozzy 
+-r-xr-xr-x   1    0    0    2670144 Jan 18 2007 [ 254352 00] mp071.lin.ozzy 
+-r-xr-xr-x   1    0    0    2669239 Jan 18 2007 [ 255664 00] mp072.lin.ozzy 
+-r-xr-xr-x   1    0    0    2669608 Jan 18 2007 [ 256976 00] mp073.lin.ozzy 
+-r-xr-xr-x   1    0    0    2668673 Jan 18 2007 [ 258288 00] mp074.lin.ozzy 
+-r-xr-xr-x   1    0    0    2668717 Jan 18 2007 [ 259600 00] mp075.lin.ozzy 
+
+Directory listing of /PSP_GAME/USRDIR/3d/localization/pc/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     39 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     36 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     68 02] eng 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     69 02] fre 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     70 02] ger 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     71 02] ita 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     72 02] spa 
+
+Directory listing of /PSP_GAME/USRDIR/3d/level/mission/m02_boss/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     40 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     37 02] .. 
+-r-xr-xr-x   1    0    0    2285152 Jan 18 2007 [  42192 00] m02foot_lieutenant1.lin.ozzy 
+-r-xr-xr-x   1    0    0    2284838 Jan 18 2007 [  43312 00] m02foot_lieutenant2.lin.ozzy 
+-r-xr-xr-x   1    0    0    2285448 Jan 18 2007 [  44432 00] m02foot_lieutenant3.lin.ozzy 
+-r-xr-xr-x   1    0    0    2284296 Jan 18 2007 [  45552 00] m02foot_lieutenant4.lin.ozzy 
+-r-xr-xr-x   1    0    0    2284133 Jan 18 2007 [  46672 00] m02foot_lieutenant5.lin.ozzy 
+
+Directory listing of /PSP_GAME/USRDIR/3d/level/mission/m02b/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     41 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     37 02] .. 
+-r-xr-xr-x   1    0    0    2904608 Jan 18 2007 [  35072 00] m02b1.lin.ozzy 
+-r-xr-xr-x   1    0    0    2904468 Jan 18 2007 [  36496 00] m02b2.lin.ozzy 
+-r-xr-xr-x   1    0    0    2904596 Jan 18 2007 [  37920 00] m02b3.lin.ozzy 
+-r-xr-xr-x   1    0    0    2904389 Jan 18 2007 [  39344 00] m02b4.lin.ozzy 
+-r-xr-xr-x   1    0    0    2904379 Jan 18 2007 [  40768 00] m02b5.lin.ozzy 
+
+Directory listing of /PSP_GAME/USRDIR/3d/level/mission/m02/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     42 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     37 02] .. 
+-r-xr-xr-x   1    0    0    4115993 Jan 18 2007 [  24992 00] mission021.lin.ozzy 
+-r-xr-xr-x   1    0    0    4115886 Jan 18 2007 [  27008 00] mission022.lin.ozzy 
+-r-xr-xr-x   1    0    0    4115913 Jan 18 2007 [  29024 00] mission023.lin.ozzy 
+-r-xr-xr-x   1    0    0    4115907 Jan 18 2007 [  31040 00] mission024.lin.ozzy 
+-r-xr-xr-x   1    0    0    4115893 Jan 18 2007 [  33056 00] mission025.lin.ozzy 
+
+Directory listing of /PSP_GAME/USRDIR/3d/level/mission/m03_boss/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     43 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     37 02] .. 
+-r-xr-xr-x   1    0    0    2473658 Jan 18 2007 [  70832 00] m03foot_lieutenant1.lin.ozzy 
+-r-xr-xr-x   1    0    0    2474030 Jan 18 2007 [  72048 00] m03foot_lieutenant2.lin.ozzy 
+-r-xr-xr-x   1    0    0    2473763 Jan 18 2007 [  73264 00] m03foot_lieutenant3.lin.ozzy 
+-r-xr-xr-x   1    0    0    2473423 Jan 18 2007 [  74480 00] m03foot_lieutenant4.lin.ozzy 
+-r-xr-xr-x   1    0    0    2473363 Jan 18 2007 [  75696 00] m03foot_lieutenant5.lin.ozzy 
+
+Directory listing of /PSP_GAME/USRDIR/3d/level/mission/m03b2/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     44 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     37 02] .. 
+-r-xr-xr-x   1    0    0    1977284 Jan 18 2007 [  61392 00] m03b21.lin.ozzy 
+-r-xr-xr-x   1    0    0    1978535 Jan 18 2007 [  62368 00] m03b22.lin.ozzy 
+-r-xr-xr-x   1    0    0    1978683 Jan 18 2007 [  63344 00] m03b23.lin.ozzy 
+-r-xr-xr-x   1    0    0    1978115 Jan 18 2007 [  64320 00] m03b24.lin.ozzy 
+-r-xr-xr-x   1    0    0    1978250 Jan 18 2007 [  65296 00] m03b25.lin.ozzy 
+
+Directory listing of /PSP_GAME/USRDIR/3d/level/mission/m03b_boss/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     45 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     37 02] .. 
+-r-xr-xr-x   1    0    0    1865904 Jan 18 2007 [  66272 00] m03b_boss_gato1.lin.ozzy 
+-r-xr-xr-x   1    0    0    1865874 Jan 18 2007 [  67184 00] m03b_boss_gato2.lin.ozzy 
+-r-xr-xr-x   1    0    0    1866095 Jan 18 2007 [  68096 00] m03b_boss_gato3.lin.ozzy 
+-r-xr-xr-x   1    0    0    1865080 Jan 18 2007 [  69008 00] m03b_boss_gato4.lin.ozzy 
+-r-xr-xr-x   1    0    0    1864968 Jan 18 2007 [  69920 00] m03b_boss_gato5.lin.ozzy 
+
+Directory listing of /PSP_GAME/USRDIR/3d/level/mission/m03b/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     46 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     37 02] .. 
+-r-xr-xr-x   1    0    0    2332434 Jan 18 2007 [  55632 00] m03b1.lin.ozzy 
+-r-xr-xr-x   1    0    0    2332156 Jan 18 2007 [  56784 00] m03b2.lin.ozzy 
+-r-xr-xr-x   1    0    0    2332418 Jan 18 2007 [  57936 00] m03b3.lin.ozzy 
+-r-xr-xr-x   1    0    0    2331757 Jan 18 2007 [  59088 00] m03b4.lin.ozzy 
+-r-xr-xr-x   1    0    0    2331720 Jan 18 2007 [  60240 00] m03b5.lin.ozzy 
+
+Directory listing of /PSP_GAME/USRDIR/3d/level/mission/m03/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     47 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     37 02] .. 
+-r-xr-xr-x   1    0    0    3187729 Jan 18 2007 [  47792 00] m031.lin.ozzy 
+-r-xr-xr-x   1    0    0    3187861 Jan 18 2007 [  49360 00] m032.lin.ozzy 
+-r-xr-xr-x   1    0    0    3188717 Jan 18 2007 [  50928 00] m033.lin.ozzy 
+-r-xr-xr-x   1    0    0    3186995 Jan 18 2007 [  52496 00] m034.lin.ozzy 
+-r-xr-xr-x   1    0    0    3186588 Jan 18 2007 [  54064 00] m035.lin.ozzy 
+
+Directory listing of /PSP_GAME/USRDIR/3d/level/mission/m04_boss/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     48 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     37 02] .. 
+-r-xr-xr-x   1    0    0    2538778 Jan 18 2007 [  94912 00] m04_boss_mono1.lin.ozzy 
+-r-xr-xr-x   1    0    0    2539405 Jan 18 2007 [  96160 00] m04_boss_mono2.lin.ozzy 
+-r-xr-xr-x   1    0    0    2539199 Jan 18 2007 [  97408 00] m04_boss_mono3.lin.ozzy 
+-r-xr-xr-x   1    0    0    2538741 Jan 18 2007 [  98656 00] m04_boss_mono4.lin.ozzy 
+-r-xr-xr-x   1    0    0    2538621 Jan 18 2007 [  99904 00] m04_boss_mono5.lin.ozzy 
+
+Directory listing of /PSP_GAME/USRDIR/3d/level/mission/m04b/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     49 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     37 02] .. 
+-r-xr-xr-x   1    0    0    2995383 Jan 18 2007 [  87552 00] mission04b1.lin.ozzy 
+-r-xr-xr-x   1    0    0    2996473 Jan 18 2007 [  89024 00] mission04b2.lin.ozzy 
+-r-xr-xr-x   1    0    0    2996596 Jan 18 2007 [  90496 00] mission04b3.lin.ozzy 
+-r-xr-xr-x   1    0    0    2996331 Jan 18 2007 [  91968 00] mission04b4.lin.ozzy 
+-r-xr-xr-x   1    0    0    2996522 Jan 18 2007 [  93440 00] mission04b5.lin.ozzy 
+
+Directory listing of /PSP_GAME/USRDIR/3d/level/mission/m04/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     50 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     37 02] .. 
+-r-xr-xr-x   1    0    0    4333051 Jan 18 2007 [  76912 00] m041.lin.ozzy 
+-r-xr-xr-x   1    0    0    4333884 Jan 18 2007 [  79040 00] m042.lin.ozzy 
+-r-xr-xr-x   1    0    0    4334223 Jan 18 2007 [  81168 00] m043.lin.ozzy 
+-r-xr-xr-x   1    0    0    4333552 Jan 18 2007 [  83296 00] m044.lin.ozzy 
+-r-xr-xr-x   1    0    0    4333414 Jan 18 2007 [  85424 00] m045.lin.ozzy 
+
+Directory listing of /PSP_GAME/USRDIR/3d/level/mission/m06_boss/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     51 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     37 02] .. 
+-r-xr-xr-x   1    0    0    2596714 Jan 18 2007 [ 116592 00] m06_boss_serpiente1.lin.ozzy 
+-r-xr-xr-x   1    0    0    2597820 Jan 18 2007 [ 117872 00] m06_boss_serpiente2.lin.ozzy 
+-r-xr-xr-x   1    0    0    2597574 Jan 18 2007 [ 119152 00] m06_boss_serpiente3.lin.ozzy 
+-r-xr-xr-x   1    0    0    2597134 Jan 18 2007 [ 120432 00] m06_boss_serpiente4.lin.ozzy 
+-r-xr-xr-x   1    0    0    2596875 Jan 18 2007 [ 121712 00] m06_boss_serpiente5.lin.ozzy 
+
+Directory listing of /PSP_GAME/USRDIR/3d/level/mission/m06a/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     52 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     37 02] .. 
+-r-xr-xr-x   1    0    0    3090395 Jan 18 2007 [ 101152 00] m06a1.lin.ozzy 
+-r-xr-xr-x   1    0    0    3090911 Jan 18 2007 [ 102672 00] m06a2.lin.ozzy 
+-r-xr-xr-x   1    0    0    3091405 Jan 18 2007 [ 104192 00] m06a3.lin.ozzy 
+-r-xr-xr-x   1    0    0    3090486 Jan 18 2007 [ 105712 00] m06a4.lin.ozzy 
+-r-xr-xr-x   1    0    0    3090321 Jan 18 2007 [ 107232 00] m06a5.lin.ozzy 
+
+Directory listing of /PSP_GAME/USRDIR/3d/level/mission/m06b/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     53 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     37 02] .. 
+-r-xr-xr-x   1    0    0    3196774 Jan 18 2007 [ 108752 00] m06b1.lin.ozzy 
+-r-xr-xr-x   1    0    0    3197735 Jan 18 2007 [ 110320 00] m06b2.lin.ozzy 
+-r-xr-xr-x   1    0    0    3197666 Jan 18 2007 [ 111888 00] m06b3.lin.ozzy 
+-r-xr-xr-x   1    0    0    3197401 Jan 18 2007 [ 113456 00] m06b4.lin.ozzy 
+-r-xr-xr-x   1    0    0    3197317 Jan 18 2007 [ 115024 00] m06b5.lin.ozzy 
+
+Directory listing of /PSP_GAME/USRDIR/3d/level/mission/m08b_boss/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     54 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     37 02] .. 
+-r-xr-xr-x   1    0    0    2458221 Jan 18 2007 [ 140432 00] m08b_boss_bigfoot1.lin.ozzy 
+-r-xr-xr-x   1    0    0    2458908 Jan 18 2007 [ 141648 00] m08b_boss_bigfoot2.lin.ozzy 
+-r-xr-xr-x   1    0    0    2458736 Jan 18 2007 [ 142864 00] m08b_boss_bigfoot3.lin.ozzy 
+-r-xr-xr-x   1    0    0    2459101 Jan 18 2007 [ 144080 00] m08b_boss_bigfoot4.lin.ozzy 
+-r-xr-xr-x   1    0    0    2459293 Jan 18 2007 [ 145296 00] m08b_boss_bigfoot5.lin.ozzy 
+
+Directory listing of /PSP_GAME/USRDIR/3d/level/mission/m08b/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     55 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     37 02] .. 
+-r-xr-xr-x   1    0    0    4003604 Jan 18 2007 [ 130592 00] m08b1.lin.ozzy 
+-r-xr-xr-x   1    0    0    4004420 Jan 18 2007 [ 132560 00] m08b2.lin.ozzy 
+-r-xr-xr-x   1    0    0    4004531 Jan 18 2007 [ 134528 00] m08b3.lin.ozzy 
+-r-xr-xr-x   1    0    0    4004184 Jan 18 2007 [ 136496 00] m08b4.lin.ozzy 
+-r-xr-xr-x   1    0    0    4004244 Jan 18 2007 [ 138464 00] m08b5.lin.ozzy 
+
+Directory listing of /PSP_GAME/USRDIR/3d/level/mission/m08/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     56 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     37 02] .. 
+-r-xr-xr-x   1    0    0    3103382 Jan 18 2007 [ 122992 00] m081.lin.ozzy 
+-r-xr-xr-x   1    0    0    3104109 Jan 18 2007 [ 124512 00] m082.lin.ozzy 
+-r-xr-xr-x   1    0    0    3103979 Jan 18 2007 [ 126032 00] m083.lin.ozzy 
+-r-xr-xr-x   1    0    0    3104246 Jan 18 2007 [ 127552 00] m084.lin.ozzy 
+-r-xr-xr-x   1    0    0    3104373 Jan 18 2007 [ 129072 00] m085.lin.ozzy 
+
+Directory listing of /PSP_GAME/USRDIR/3d/level/mission/m09_boss/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     57 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     37 02] .. 
+-r-xr-xr-x   1    0    0    2369379 Jan 18 2007 [ 201232 00] m09_boss_karai1.lin.ozzy 
+-r-xr-xr-x   1    0    0    2370048 Jan 18 2007 [ 202400 00] m09_boss_karai2.lin.ozzy 
+-r-xr-xr-x   1    0    0    2370372 Jan 18 2007 [ 203568 00] m09_boss_karai3.lin.ozzy 
+-r-xr-xr-x   1    0    0    2369352 Jan 18 2007 [ 204736 00] m09_boss_karai4.lin.ozzy 
+-r-xr-xr-x   1    0    0    2369337 Jan 18 2007 [ 205904 00] m09_boss_karai5.lin.ozzy 
+
+Directory listing of /PSP_GAME/USRDIR/3d/level/mission/m09a/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     58 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     37 02] .. 
+-r-xr-xr-x   1    0    0    3253233 Jan 18 2007 [ 146512 00] l09a_ds1.lin.ozzy 
+-r-xr-xr-x   1    0    0    3253633 Jan 18 2007 [ 148112 00] l09a_ds2.lin.ozzy 
+-r-xr-xr-x   1    0    0    3253047 Jan 18 2007 [ 149712 00] l09a_ds3.lin.ozzy 
+-r-xr-xr-x   1    0    0    3253768 Jan 18 2007 [ 151312 00] l09a_ds4.lin.ozzy 
+-r-xr-xr-x   1    0    0    3253751 Jan 18 2007 [ 152912 00] l09a_ds5.lin.ozzy 
+
+Directory listing of /PSP_GAME/USRDIR/3d/level/mission/m09b1_boss/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     59 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     37 02] .. 
+-r-xr-xr-x   1    0    0    2595742 Jan 18 2007 [ 163312 00] m09b1_boss_gato1.lin.ozzy 
+-r-xr-xr-x   1    0    0    2596805 Jan 18 2007 [ 164592 00] m09b1_boss_gato2.lin.ozzy 
+-r-xr-xr-x   1    0    0    2596812 Jan 18 2007 [ 165872 00] m09b1_boss_gato3.lin.ozzy 
+-r-xr-xr-x   1    0    0    2596004 Jan 18 2007 [ 167152 00] m09b1_boss_gato4.lin.ozzy 
+-r-xr-xr-x   1    0    0    2595952 Jan 18 2007 [ 168432 00] m09b1_boss_gato5.lin.ozzy 
+
+Directory listing of /PSP_GAME/USRDIR/3d/level/mission/m09b1/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     60 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     37 02] .. 
+-r-xr-xr-x   1    0    0    3590801 Jan 18 2007 [ 154512 00] m09b_11.lin.ozzy 
+-r-xr-xr-x   1    0    0    3591116 Jan 18 2007 [ 156272 00] m09b_12.lin.ozzy 
+-r-xr-xr-x   1    0    0    3590783 Jan 18 2007 [ 158032 00] m09b_13.lin.ozzy 
+-r-xr-xr-x   1    0    0    3590626 Jan 18 2007 [ 159792 00] m09b_14.lin.ozzy 
+-r-xr-xr-x   1    0    0    3590637 Jan 18 2007 [ 161552 00] m09b_15.lin.ozzy 
+
+Directory listing of /PSP_GAME/USRDIR/3d/level/mission/m09b2_boss/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     61 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     37 02] .. 
+-r-xr-xr-x   1    0    0    2646845 Jan 18 2007 [ 178352 00] m09b2_boss_mono1.lin.ozzy 
+-r-xr-xr-x   1    0    0    2646958 Jan 18 2007 [ 179648 00] m09b2_boss_mono2.lin.ozzy 
+-r-xr-xr-x   1    0    0    2647200 Jan 18 2007 [ 180944 00] m09b2_boss_mono3.lin.ozzy 
+-r-xr-xr-x   1    0    0    2646005 Jan 18 2007 [ 182240 00] m09b2_boss_mono4.lin.ozzy 
+-r-xr-xr-x   1    0    0    2645746 Jan 18 2007 [ 183536 00] m09b2_boss_mono5.lin.ozzy 
+
+Directory listing of /PSP_GAME/USRDIR/3d/level/mission/m09b2/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     62 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     37 02] .. 
+-r-xr-xr-x   1    0    0    3536471 Jan 18 2007 [ 169712 00] m09b_21.lin.ozzy 
+-r-xr-xr-x   1    0    0    3536841 Jan 18 2007 [ 171440 00] m09b_22.lin.ozzy 
+-r-xr-xr-x   1    0    0    3537537 Jan 18 2007 [ 173168 00] m09b_23.lin.ozzy 
+-r-xr-xr-x   1    0    0    3536143 Jan 18 2007 [ 174896 00] m09b_24.lin.ozzy 
+-r-xr-xr-x   1    0    0    3536375 Jan 18 2007 [ 176624 00] m09b_25.lin.ozzy 
+
+Directory listing of /PSP_GAME/USRDIR/3d/level/mission/m09b3_boss/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     63 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     37 02] .. 
+-r-xr-xr-x   1    0    0    2756069 Jan 18 2007 [ 194432 00] m09b3_boss_serpiente1.lin.ozzy 
+-r-xr-xr-x   1    0    0    2756874 Jan 18 2007 [ 195792 00] m09b3_boss_serpiente2.lin.ozzy 
+-r-xr-xr-x   1    0    0    2757114 Jan 18 2007 [ 197152 00] m09b3_boss_serpiente3.lin.ozzy 
+-r-xr-xr-x   1    0    0    2755938 Jan 18 2007 [ 198512 00] m09b3_boss_serpiente4.lin.ozzy 
+-r-xr-xr-x   1    0    0    2755822 Jan 18 2007 [ 199872 00] m09b3_boss_serpiente5.lin.ozzy 
+
+Directory listing of /PSP_GAME/USRDIR/3d/level/mission/m09b3/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     64 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     37 02] .. 
+-r-xr-xr-x   1    0    0    3915651 Jan 18 2007 [ 184832 00] m09b_31.lin.ozzy 
+-r-xr-xr-x   1    0    0    3916087 Jan 18 2007 [ 186752 00] m09b_32.lin.ozzy 
+-r-xr-xr-x   1    0    0    3916759 Jan 18 2007 [ 188672 00] m09b_33.lin.ozzy 
+-r-xr-xr-x   1    0    0    3915596 Jan 18 2007 [ 190592 00] m09b_34.lin.ozzy 
+-r-xr-xr-x   1    0    0    3915487 Jan 18 2007 [ 192512 00] m09b_35.lin.ozzy 
+
+Directory listing of /PSP_GAME/USRDIR/3d/level/mission/m10a/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     65 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     37 02] .. 
+-r-xr-xr-x   1    0    0    2668139 Jan 18 2007 [ 207072 00] l10a2_ds1.lin.ozzy 
+-r-xr-xr-x   1    0    0    2669120 Jan 18 2007 [ 208384 00] l10a2_ds2.lin.ozzy 
+-r-xr-xr-x   1    0    0    2668890 Jan 18 2007 [ 209696 00] l10a2_ds3.lin.ozzy 
+-r-xr-xr-x   1    0    0    2668901 Jan 18 2007 [ 211008 00] l10a2_ds4.lin.ozzy 
+-r-xr-xr-x   1    0    0    2669127 Jan 18 2007 [ 212320 00] l10a2_ds5.lin.ozzy 
+-r-xr-xr-x   1    0    0    2770005 Jan 18 2007 [ 213632 00] l10a_ds1.lin.ozzy 
+-r-xr-xr-x   1    0    0    2770895 Jan 18 2007 [ 214992 00] l10a_ds2.lin.ozzy 
+-r-xr-xr-x   1    0    0    2771541 Jan 18 2007 [ 216352 00] l10a_ds3.lin.ozzy 
+-r-xr-xr-x   1    0    0    2770174 Jan 18 2007 [ 217712 00] l10a_ds4.lin.ozzy 
+-r-xr-xr-x   1    0    0    2770135 Jan 18 2007 [ 219072 00] l10a_ds5.lin.ozzy 
+
+Directory listing of /PSP_GAME/USRDIR/3d/level/mission/m10b/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     66 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     37 02] .. 
+-r-xr-xr-x   1    0    0    2622912 Jan 18 2007 [ 220432 00] m10b_ds1.lin.ozzy 
+-r-xr-xr-x   1    0    0    2624205 Jan 18 2007 [ 221728 00] m10b_ds2.lin.ozzy 
+-r-xr-xr-x   1    0    0    2623936 Jan 18 2007 [ 223024 00] m10b_ds3.lin.ozzy 
+-r-xr-xr-x   1    0    0    2623782 Jan 18 2007 [ 224320 00] m10b_ds4.lin.ozzy 
+-r-xr-xr-x   1    0    0    2623795 Jan 18 2007 [ 225616 00] m10b_ds5.lin.ozzy 
+
+Directory listing of /PSP_GAME/USRDIR/3d/level/mission/m15_boss/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     67 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     37 02] .. 
+-r-xr-xr-x   1    0    0    2611302 Jan 18 2007 [ 226912 00] m15_boss_aguila1.lin.ozzy 
+-r-xr-xr-x   1    0    0    2612291 Jan 18 2007 [ 228192 00] m15_boss_aguila2.lin.ozzy 
+-r-xr-xr-x   1    0    0    2612528 Jan 18 2007 [ 229472 00] m15_boss_aguila3.lin.ozzy 
+-r-xr-xr-x   1    0    0    2611327 Jan 18 2007 [ 230752 00] m15_boss_aguila4.lin.ozzy 
+-r-xr-xr-x   1    0    0    2611100 Jan 18 2007 [ 232032 00] m15_boss_aguila5.lin.ozzy 
+
+Directory listing of /PSP_GAME/USRDIR/3d/localization/pc/eng/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     68 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     39 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     73 02] magma 
+
+Directory listing of /PSP_GAME/USRDIR/3d/localization/pc/fre/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     69 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     39 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     74 02] magma 
+
+Directory listing of /PSP_GAME/USRDIR/3d/localization/pc/ger/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     70 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     39 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     75 02] magma 
+
+Directory listing of /PSP_GAME/USRDIR/3d/localization/pc/ita/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     71 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     39 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     76 02] magma 
+
+Directory listing of /PSP_GAME/USRDIR/3d/localization/pc/spa/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     72 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     39 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     77 02] magma 
+
+Directory listing of /PSP_GAME/USRDIR/3d/localization/pc/eng/magma/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     73 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     68 02] .. 
+-r-xr-xr-x   1    0    0    2403558 Jan 18 2007 [ 260912 00] mainmenu.lin.ozzy 
+
+Directory listing of /PSP_GAME/USRDIR/3d/localization/pc/fre/magma/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     74 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     69 02] .. 
+-r-xr-xr-x   1    0    0    2401042 Jan 18 2007 [ 262096 00] mainmenu.lin.ozzy 
+
+Directory listing of /PSP_GAME/USRDIR/3d/localization/pc/ger/magma/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     75 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     70 02] .. 
+-r-xr-xr-x   1    0    0    2400916 Jan 18 2007 [ 263280 00] mainmenu.lin.ozzy 
+
+Directory listing of /PSP_GAME/USRDIR/3d/localization/pc/ita/magma/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     76 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     71 02] .. 
+-r-xr-xr-x   1    0    0    2400984 Jan 18 2007 [ 264464 00] mainmenu.lin.ozzy 
+
+Directory listing of /PSP_GAME/USRDIR/3d/localization/pc/spa/magma/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     77 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2007 [     72 02] .. 
+-r-xr-xr-x   1    0    0    2401011 Jan 18 2007 [ 265648 00] mainmenu.lin.ozzy 
+=============================================================== 
+Generated on Tue 09/08/2022 at  5:38:45.66 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

@@ -1,0 +1,519 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Daxter  
+Title ID: UCUS-98654 
+Region: USA  
+Languages: Demo  
+Volume Creation Date: 2005-12-14 05:39:10 
+Volume Size: 177 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 1
+Volume set id: 1
+Publisher id: SCEA
+Data preparer id: RADS
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 91104
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Dec 14 2005 [     56 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     22 02] .. 
+-r-xr-xr-x   1    0    0      22398 Nov 29 2005 [  24576 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     208896 Mar 18 2005 [  24688 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 Dec 14 2005 [  24560 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     173863 Dec  2 2005 [  24592 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0     249744 Mar 18 2005 [  24800 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     23 02] .. 
+-r-xr-xr-x   1    0    0    4063893 Dec 14 2005 [  22560 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    4064240 Dec 14 2005 [     64 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     27 02] data 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     28 02] dialogs 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     29 02] module 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     30 02] movies 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     31 02] music 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     24 02] .. 
+-r-xr-xr-x   1    0    0   13885040 Dec 14 2005 [   6176 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    3970656 Dec 14 2005 [   2080 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       1772 Dec 14 2005 [   2064 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/data/
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     25 02] .. 
+dr-xr-xr-x   1    0    0       4096 Dec 14 2005 [     32 02] English 
+dr-xr-xr-x   1    0    0       4096 Dec 14 2005 [     34 02] French 
+dr-xr-xr-x   1    0    0       4096 Dec 14 2005 [     36 02] German 
+dr-xr-xr-x   1    0    0       4096 Dec 14 2005 [     38 02] Italian 
+dr-xr-xr-x   1    0    0       4096 Dec 14 2005 [     40 02] Japanese 
+dr-xr-xr-x   1    0    0       4096 Dec 14 2005 [     42 02] Korean 
+dr-xr-xr-x   1    0    0       4096 Dec 14 2005 [     44 02] Spanish 
+dr-xr-xr-x   1    0    0       4096 Dec 14 2005 [     46 02] UkEnglish 
+-r-xr-xr-x   1    0    0    1177872 Dec 11 2005 [  60240 00] bar_demo.bin 
+-r-xr-xr-x   1    0    0    6459548 Dec 11 2005 [  60816 00] brewery_demo.bin 
+-r-xr-xr-x   1    0    0    3788292 Dec 11 2005 [  63984 00] cyberpunk_1.bin 
+-r-xr-xr-x   1    0    0    4361060 Dec  6 2005 [  65840 00] daxter.bin 
+-r-xr-xr-x   1    0    0     268360 Dec 11 2005 [  67984 00] demo_controls.bin 
+-r-xr-xr-x   1    0    0     796564 Dec 13 2005 [  68128 00] demo_screens.bin 
+-r-xr-xr-x   1    0    0      89076 Nov 20 2005 [  68528 00] engine_assets.bin 
+-r-xr-xr-x   1    0    0     717936 Dec  6 2005 [  68576 00] frontend_assets.bin 
+-r-xr-xr-x   1    0    0     532212 Dec 11 2005 [  68928 00] loading_screens.bin 
+-r-xr-xr-x   1    0    0    2842600 Dec  8 2005 [  69200 00] start_screen.bin 
+
+Directory listing of /PSP_GAME/USRDIR/dialogs/
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     48 02] English 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     49 02] French 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     50 02] German 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     51 02] Italian 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     52 02] Japanese 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     53 02] Korean 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     54 02] Spanish 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     55 02] UkEnglish 
+
+Directory listing of /PSP_GAME/USRDIR/module/
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     25 02] .. 
+-r-xr-xr-x   1    0    0       3312 Dec  2 2005 [  24928 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0       3088 Nov  8 2005 [  24944 00] cert_loader.prx 
+-r-xr-xr-x   1    0    0      10816 Nov  8 2005 [  24960 00] ifhandle.prx 
+-r-xr-xr-x   1    0    0      10128 Dec  2 2005 [  25088 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0      17216 Nov  8 2005 [  24976 00] memab.prx 
+-r-xr-xr-x   1    0    0      23088 Dec  2 2005 [  25104 00] mpeg.prx 
+-r-xr-xr-x   1    0    0       5392 Dec  2 2005 [  24992 00] mpegbase.prx 
+-r-xr-xr-x   1    0    0      60360 Nov  5 2005 [  25120 00] pspnet.prx 
+-r-xr-xr-x   1    0    0      42492 Nov  5 2005 [  25152 00] pspnet_adhoc.prx 
+-r-xr-xr-x   1    0    0      11360 Nov  8 2005 [  25008 00] pspnet_adhoc_auth.prx 
+-r-xr-xr-x   1    0    0      31996 Nov  5 2005 [  25184 00] pspnet_adhocctl.prx 
+-r-xr-xr-x   1    0    0       2448 Dec  2 2005 [  25200 00] pspnet_ap_dialog_dummy.prx 
+-r-xr-xr-x   1    0    0      31104 Nov  8 2005 [  25024 00] rinit.prx 
+-r-xr-xr-x   1    0    0       6832 Dec  2 2005 [  25040 00] sc_sascore.prx 
+-r-xr-xr-x   1    0    0      15072 Dec  2 2005 [  25056 00] usbpspcm.prx 
+-r-xr-xr-x   1    0    0       3504 Dec  2 2005 [  25072 00] videocodec.prx 
+
+Directory listing of /PSP_GAME/USRDIR/movies/
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     25 02] .. 
+-r-xr-xr-x   1    0    0   37720064 Dec 11 2005 [  41808 00] intro.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/music/
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     31 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     25 02] .. 
+-r-xr-xr-x   1    0    0     249744 Mar 18 2005 [  33840 00] SND0.AT3 
+-r-xr-xr-x   1    0    0     960844 Oct 11 2005 [  29616 00] breezyqueenchase.at3 
+-r-xr-xr-x   1    0    0     984908 Oct 11 2005 [  30096 00] breezytheme.at3 
+-r-xr-xr-x   1    0    0     129508 Oct 12 2005 [  30592 00] bv_ambient.at3 
+-r-xr-xr-x   1    0    0    1297364 Nov  2 2005 [  30656 00] cityambmusic.at3 
+-r-xr-xr-x   1    0    0     453620 Oct 27 2005 [  31296 00] constructionamb.at3 
+-r-xr-xr-x   1    0    0     259980 Oct 11 2005 [  31520 00] elevatormusic.at3 
+-r-xr-xr-x   1    0    0     983780 Oct 19 2005 [  31648 00] hiveboss.at3 
+-r-xr-xr-x   1    0    0     102436 Oct 17 2005 [  32144 00] hotelambient.at3 
+-r-xr-xr-x   1    0    0     955956 Oct 11 2005 [  32208 00] hotelmusic.at3 
+-r-xr-xr-x   1    0    0    1022508 Oct 13 2005 [  32688 00] lotrtheme.at3 
+-r-xr-xr-x   1    0    0     991676 Oct 12 2005 [  33200 00] matrixtheme.at3 
+-r-xr-xr-x   1    0    0     292316 Oct 12 2005 [  33696 00] menuloop.at3 
+-r-xr-xr-x   1    0    0     943548 Oct 19 2005 [  33968 00] tankertheme.at3 
+-r-xr-xr-x   1    0    0     957084 Nov  5 2005 [  34432 00] track10.at3 
+-r-xr-xr-x   1    0    0    1024388 Apr  2 2005 [  34912 00] track13.at3 
+-r-xr-xr-x   1    0    0     976636 Apr  2 2005 [  35424 00] track14.at3 
+-r-xr-xr-x   1    0    0    1044692 Apr  2 2005 [  35904 00] track15.at3 
+-r-xr-xr-x   1    0    0     990548 Jun 15 2005 [  36416 00] track17.at3 
+-r-xr-xr-x   1    0    0    1007468 Jun 22 2005 [  36912 00] track18.at3 
+-r-xr-xr-x   1    0    0     961596 Jun 29 2005 [  37408 00] track21.at3 
+-r-xr-xr-x   1    0    0    1000700 Apr  2 2005 [  37888 00] track5.at3 
+-r-xr-xr-x   1    0    0     993180 Apr  2 2005 [  38384 00] track6.at3 
+-r-xr-xr-x   1    0    0     975508 Apr  2 2005 [  38880 00] track7.at3 
+-r-xr-xr-x   1    0    0     987164 Apr  2 2005 [  39360 00] track8.at3 
+-r-xr-xr-x   1    0    0     975132 Apr  2 2005 [  39856 00] track9.at3 
+-r-xr-xr-x   1    0    0    1008596 Nov  4 2005 [  40336 00] trainchase.at3 
+-r-xr-xr-x   1    0    0     972124 Oct 25 2005 [  40832 00] transitmusic.at3 
+-r-xr-xr-x   1    0    0    1000700 Oct 12 2005 [  41312 00] winecellartheme.at3 
+
+Directory listing of /PSP_GAME/USRDIR/data/English/
+dr-xr-xr-x   1    0    0       4096 Dec 14 2005 [     32 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     27 02] .. 
+-r-xr-xr-x   1    0    0     151948 Dec  7 2005 [  70592 00] battlebugs.bin 
+-r-xr-xr-x   1    0    0     178060 Dec 10 2005 [  70672 00] game.bin 
+-r-xr-xr-x   1    0    0     146156 Dec  4 2005 [  70768 00] subtitles_a1s1.bin 
+-r-xr-xr-x   1    0    0     146572 Dec  4 2005 [  70848 00] subtitles_a1s2.bin 
+-r-xr-xr-x   1    0    0     146940 Dec  4 2005 [  70928 00] subtitles_a1s3.bin 
+-r-xr-xr-x   1    0    0     146012 Dec  4 2005 [  71008 00] subtitles_a1s4.bin 
+-r-xr-xr-x   1    0    0     146140 Dec  4 2005 [  71088 00] subtitles_a1s5.bin 
+-r-xr-xr-x   1    0    0     146220 Dec  4 2005 [  71168 00] subtitles_a1s6.bin 
+-r-xr-xr-x   1    0    0     145980 Dec  4 2005 [  71248 00] subtitles_a1s7.bin 
+-r-xr-xr-x   1    0    0     146012 Dec  4 2005 [  71328 00] subtitles_a2s1.bin 
+-r-xr-xr-x   1    0    0     147308 Dec  4 2005 [  71408 00] subtitles_a2s10.bin 
+-r-xr-xr-x   1    0    0     146572 Dec  4 2005 [  71488 00] subtitles_a2s11.bin 
+-r-xr-xr-x   1    0    0     145612 Dec  4 2005 [  71568 00] subtitles_a2s12.bin 
+-r-xr-xr-x   1    0    0     145644 Dec  4 2005 [  71648 00] subtitles_a2s13.bin 
+-r-xr-xr-x   1    0    0     145980 Dec  4 2005 [  71728 00] subtitles_a2s14.bin 
+-r-xr-xr-x   1    0    0     146236 Dec  4 2005 [  71808 00] subtitles_a2s15.bin 
+-r-xr-xr-x   1    0    0     146044 Dec  4 2005 [  71888 00] subtitles_a2s2.bin 
+-r-xr-xr-x   1    0    0     146236 Dec  4 2005 [  71968 00] subtitles_a2s3.bin 
+-r-xr-xr-x   1    0    0     146620 Dec  4 2005 [  72048 00] subtitles_a2s4.bin 
+-r-xr-xr-x   1    0    0     146140 Dec  4 2005 [  72128 00] subtitles_a2s5.bin 
+-r-xr-xr-x   1    0    0     145340 Dec  4 2005 [  72208 00] subtitles_a2s6.bin 
+-r-xr-xr-x   1    0    0     146620 Dec  1 2005 [  72288 00] subtitles_a2s7.bin 
+-r-xr-xr-x   1    0    0     145868 Dec  1 2005 [  72368 00] subtitles_a2s8.bin 
+-r-xr-xr-x   1    0    0     146396 Dec  1 2005 [  72448 00] subtitles_a2s9.bin 
+-r-xr-xr-x   1    0    0     146412 Dec  1 2005 [  72528 00] subtitles_a3s1.bin 
+-r-xr-xr-x   1    0    0     145804 Dec  1 2005 [  72608 00] subtitles_a3s2.bin 
+-r-xr-xr-x   1    0    0     146236 Dec  1 2005 [  72688 00] subtitles_a3s3.bin 
+-r-xr-xr-x   1    0    0     146236 Dec  1 2005 [  72768 00] subtitles_a3s4.bin 
+-r-xr-xr-x   1    0    0     146956 Dec  1 2005 [  72848 00] subtitles_a3s5.bin 
+-r-xr-xr-x   1    0    0     146588 Dec  1 2005 [  72928 00] subtitles_intro.bin 
+-r-xr-xr-x   1    0    0     147180 Dec  1 2005 [  73008 00] subtitles_intro2.bin 
+-r-xr-xr-x   1    0    0     146492 Dec  1 2005 [  73088 00] test.bin 
+
+Directory listing of /PSP_GAME/USRDIR/data/French/
+dr-xr-xr-x   1    0    0       4096 Dec 14 2005 [     34 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     27 02] .. 
+-r-xr-xr-x   1    0    0     146652 Dec  7 2005 [  73168 00] battlebugs.bin 
+-r-xr-xr-x   1    0    0     152460 Dec 10 2005 [  73248 00] game.bin 
+-r-xr-xr-x   1    0    0     145084 Dec  4 2005 [  73328 00] subtitles_a1s1.bin 
+-r-xr-xr-x   1    0    0     145244 Dec  4 2005 [  73408 00] subtitles_a1s2.bin 
+-r-xr-xr-x   1    0    0     145308 Dec  4 2005 [  73488 00] subtitles_a1s3.bin 
+-r-xr-xr-x   1    0    0     145068 Dec  4 2005 [  73568 00] subtitles_a1s4.bin 
+-r-xr-xr-x   1    0    0     145116 Dec  4 2005 [  73648 00] subtitles_a1s5.bin 
+-r-xr-xr-x   1    0    0     145116 Dec  4 2005 [  73728 00] subtitles_a1s6.bin 
+-r-xr-xr-x   1    0    0     145068 Dec  4 2005 [  73808 00] subtitles_a1s7.bin 
+-r-xr-xr-x   1    0    0     145036 Dec  4 2005 [  73888 00] subtitles_a2s1.bin 
+-r-xr-xr-x   1    0    0     145500 Dec  4 2005 [  73968 00] subtitles_a2s10.bin 
+-r-xr-xr-x   1    0    0     145244 Dec  4 2005 [  74048 00] subtitles_a2s11.bin 
+-r-xr-xr-x   1    0    0     144956 Dec  4 2005 [  74128 00] subtitles_a2s12.bin 
+-r-xr-xr-x   1    0    0     144972 Dec  4 2005 [  74208 00] subtitles_a2s13.bin 
+-r-xr-xr-x   1    0    0     145020 Dec  4 2005 [  74288 00] subtitles_a2s14.bin 
+-r-xr-xr-x   1    0    0     145132 Dec  4 2005 [  74368 00] subtitles_a2s15.bin 
+-r-xr-xr-x   1    0    0     145084 Dec  4 2005 [  74448 00] subtitles_a2s2.bin 
+-r-xr-xr-x   1    0    0     145132 Dec  4 2005 [  74528 00] subtitles_a2s3.bin 
+-r-xr-xr-x   1    0    0     145340 Dec  4 2005 [  74608 00] subtitles_a2s4.bin 
+-r-xr-xr-x   1    0    0     145100 Dec  4 2005 [  74688 00] subtitles_a2s5.bin 
+-r-xr-xr-x   1    0    0     144860 Dec  4 2005 [  74768 00] subtitles_a2s6.bin 
+-r-xr-xr-x   1    0    0     145228 Dec  1 2005 [  74848 00] subtitles_a2s7.bin 
+-r-xr-xr-x   1    0    0     145004 Dec  1 2005 [  74928 00] subtitles_a2s8.bin 
+-r-xr-xr-x   1    0    0     145116 Dec  1 2005 [  75008 00] subtitles_a2s9.bin 
+-r-xr-xr-x   1    0    0     145164 Dec  1 2005 [  75088 00] subtitles_a3s1.bin 
+-r-xr-xr-x   1    0    0     144988 Dec  1 2005 [  75168 00] subtitles_a3s2.bin 
+-r-xr-xr-x   1    0    0     145084 Dec  1 2005 [  75248 00] subtitles_a3s3.bin 
+-r-xr-xr-x   1    0    0     145100 Dec  1 2005 [  75328 00] subtitles_a3s4.bin 
+-r-xr-xr-x   1    0    0     145420 Dec  1 2005 [  75408 00] subtitles_a3s5.bin 
+-r-xr-xr-x   1    0    0     145132 Dec  1 2005 [  75488 00] subtitles_intro.bin 
+-r-xr-xr-x   1    0    0     145420 Dec  1 2005 [  75568 00] subtitles_intro2.bin 
+-r-xr-xr-x   1    0    0     145292 Dec  1 2005 [  75648 00] test.bin 
+
+Directory listing of /PSP_GAME/USRDIR/data/German/
+dr-xr-xr-x   1    0    0       4096 Dec 14 2005 [     36 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     27 02] .. 
+-r-xr-xr-x   1    0    0     146652 Dec  7 2005 [  75728 00] battlebugs.bin 
+-r-xr-xr-x   1    0    0     152460 Dec 10 2005 [  75808 00] game.bin 
+-r-xr-xr-x   1    0    0     145084 Dec  4 2005 [  75888 00] subtitles_a1s1.bin 
+-r-xr-xr-x   1    0    0     145244 Dec  4 2005 [  75968 00] subtitles_a1s2.bin 
+-r-xr-xr-x   1    0    0     145308 Dec  4 2005 [  76048 00] subtitles_a1s3.bin 
+-r-xr-xr-x   1    0    0     145068 Dec  4 2005 [  76128 00] subtitles_a1s4.bin 
+-r-xr-xr-x   1    0    0     145116 Dec  4 2005 [  76208 00] subtitles_a1s5.bin 
+-r-xr-xr-x   1    0    0     145116 Dec  4 2005 [  76288 00] subtitles_a1s6.bin 
+-r-xr-xr-x   1    0    0     145068 Dec  4 2005 [  76368 00] subtitles_a1s7.bin 
+-r-xr-xr-x   1    0    0     145036 Dec  4 2005 [  76448 00] subtitles_a2s1.bin 
+-r-xr-xr-x   1    0    0     145500 Dec  4 2005 [  76528 00] subtitles_a2s10.bin 
+-r-xr-xr-x   1    0    0     145244 Dec  4 2005 [  76608 00] subtitles_a2s11.bin 
+-r-xr-xr-x   1    0    0     144956 Dec  4 2005 [  76688 00] subtitles_a2s12.bin 
+-r-xr-xr-x   1    0    0     144972 Dec  4 2005 [  76768 00] subtitles_a2s13.bin 
+-r-xr-xr-x   1    0    0     145020 Dec  4 2005 [  76848 00] subtitles_a2s14.bin 
+-r-xr-xr-x   1    0    0     145132 Dec  4 2005 [  76928 00] subtitles_a2s15.bin 
+-r-xr-xr-x   1    0    0     145084 Dec  4 2005 [  77008 00] subtitles_a2s2.bin 
+-r-xr-xr-x   1    0    0     145132 Dec  4 2005 [  77088 00] subtitles_a2s3.bin 
+-r-xr-xr-x   1    0    0     145340 Dec  4 2005 [  77168 00] subtitles_a2s4.bin 
+-r-xr-xr-x   1    0    0     145100 Dec  4 2005 [  77248 00] subtitles_a2s5.bin 
+-r-xr-xr-x   1    0    0     144860 Dec  4 2005 [  77328 00] subtitles_a2s6.bin 
+-r-xr-xr-x   1    0    0     145228 Dec  1 2005 [  77408 00] subtitles_a2s7.bin 
+-r-xr-xr-x   1    0    0     145004 Dec  1 2005 [  77488 00] subtitles_a2s8.bin 
+-r-xr-xr-x   1    0    0     145116 Dec  1 2005 [  77568 00] subtitles_a2s9.bin 
+-r-xr-xr-x   1    0    0     145164 Dec  1 2005 [  77648 00] subtitles_a3s1.bin 
+-r-xr-xr-x   1    0    0     144988 Dec  1 2005 [  77728 00] subtitles_a3s2.bin 
+-r-xr-xr-x   1    0    0     145084 Dec  1 2005 [  77808 00] subtitles_a3s3.bin 
+-r-xr-xr-x   1    0    0     145100 Dec  1 2005 [  77888 00] subtitles_a3s4.bin 
+-r-xr-xr-x   1    0    0     145420 Dec  1 2005 [  77968 00] subtitles_a3s5.bin 
+-r-xr-xr-x   1    0    0     145132 Dec  1 2005 [  78048 00] subtitles_intro.bin 
+-r-xr-xr-x   1    0    0     145420 Dec  1 2005 [  78128 00] subtitles_intro2.bin 
+-r-xr-xr-x   1    0    0     145292 Dec  1 2005 [  78208 00] test.bin 
+
+Directory listing of /PSP_GAME/USRDIR/data/Italian/
+dr-xr-xr-x   1    0    0       4096 Dec 14 2005 [     38 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     27 02] .. 
+-r-xr-xr-x   1    0    0     146652 Dec  7 2005 [  78288 00] battlebugs.bin 
+-r-xr-xr-x   1    0    0     152460 Dec 10 2005 [  78368 00] game.bin 
+-r-xr-xr-x   1    0    0     145084 Dec  4 2005 [  78448 00] subtitles_a1s1.bin 
+-r-xr-xr-x   1    0    0     145244 Dec  4 2005 [  78528 00] subtitles_a1s2.bin 
+-r-xr-xr-x   1    0    0     145308 Dec  4 2005 [  78608 00] subtitles_a1s3.bin 
+-r-xr-xr-x   1    0    0     145068 Dec  4 2005 [  78688 00] subtitles_a1s4.bin 
+-r-xr-xr-x   1    0    0     145116 Dec  4 2005 [  78768 00] subtitles_a1s5.bin 
+-r-xr-xr-x   1    0    0     145116 Dec  4 2005 [  78848 00] subtitles_a1s6.bin 
+-r-xr-xr-x   1    0    0     145068 Dec  4 2005 [  78928 00] subtitles_a1s7.bin 
+-r-xr-xr-x   1    0    0     145036 Dec  4 2005 [  79008 00] subtitles_a2s1.bin 
+-r-xr-xr-x   1    0    0     145500 Dec  4 2005 [  79088 00] subtitles_a2s10.bin 
+-r-xr-xr-x   1    0    0     145244 Dec  4 2005 [  79168 00] subtitles_a2s11.bin 
+-r-xr-xr-x   1    0    0     144956 Dec  4 2005 [  79248 00] subtitles_a2s12.bin 
+-r-xr-xr-x   1    0    0     144972 Dec  4 2005 [  79328 00] subtitles_a2s13.bin 
+-r-xr-xr-x   1    0    0     145020 Dec  4 2005 [  79408 00] subtitles_a2s14.bin 
+-r-xr-xr-x   1    0    0     145132 Dec  4 2005 [  79488 00] subtitles_a2s15.bin 
+-r-xr-xr-x   1    0    0     145084 Dec  4 2005 [  79568 00] subtitles_a2s2.bin 
+-r-xr-xr-x   1    0    0     145132 Dec  4 2005 [  79648 00] subtitles_a2s3.bin 
+-r-xr-xr-x   1    0    0     145340 Dec  4 2005 [  79728 00] subtitles_a2s4.bin 
+-r-xr-xr-x   1    0    0     145100 Dec  4 2005 [  79808 00] subtitles_a2s5.bin 
+-r-xr-xr-x   1    0    0     144860 Dec  4 2005 [  79888 00] subtitles_a2s6.bin 
+-r-xr-xr-x   1    0    0     145228 Dec  1 2005 [  79968 00] subtitles_a2s7.bin 
+-r-xr-xr-x   1    0    0     145004 Dec  1 2005 [  80048 00] subtitles_a2s8.bin 
+-r-xr-xr-x   1    0    0     145116 Dec  1 2005 [  80128 00] subtitles_a2s9.bin 
+-r-xr-xr-x   1    0    0     145164 Dec  1 2005 [  80208 00] subtitles_a3s1.bin 
+-r-xr-xr-x   1    0    0     144988 Dec  1 2005 [  80288 00] subtitles_a3s2.bin 
+-r-xr-xr-x   1    0    0     145084 Dec  1 2005 [  80368 00] subtitles_a3s3.bin 
+-r-xr-xr-x   1    0    0     145100 Dec  1 2005 [  80448 00] subtitles_a3s4.bin 
+-r-xr-xr-x   1    0    0     145420 Dec  1 2005 [  80528 00] subtitles_a3s5.bin 
+-r-xr-xr-x   1    0    0     145132 Dec  1 2005 [  80608 00] subtitles_intro.bin 
+-r-xr-xr-x   1    0    0     145420 Dec  1 2005 [  80688 00] subtitles_intro2.bin 
+-r-xr-xr-x   1    0    0     145340 Dec  1 2005 [  80768 00] test.bin 
+
+Directory listing of /PSP_GAME/USRDIR/data/Japanese/
+dr-xr-xr-x   1    0    0       4096 Dec 14 2005 [     40 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     27 02] .. 
+-r-xr-xr-x   1    0    0     146652 Dec  7 2005 [  80848 00] battlebugs.bin 
+-r-xr-xr-x   1    0    0     165980 Dec 10 2005 [  80928 00] game.bin 
+-r-xr-xr-x   1    0    0     147292 Dec  4 2005 [  81024 00] subtitles_a1s1.bin 
+-r-xr-xr-x   1    0    0     147724 Dec  4 2005 [  81104 00] subtitles_a1s2.bin 
+-r-xr-xr-x   1    0    0     148892 Dec  4 2005 [  81184 00] subtitles_a1s3.bin 
+-r-xr-xr-x   1    0    0     146764 Dec  4 2005 [  81264 00] subtitles_a1s4.bin 
+-r-xr-xr-x   1    0    0     146956 Dec  4 2005 [  81344 00] subtitles_a1s5.bin 
+-r-xr-xr-x   1    0    0     147276 Dec  4 2005 [  81424 00] subtitles_a1s6.bin 
+-r-xr-xr-x   1    0    0     146972 Dec  4 2005 [  81504 00] subtitles_a1s7.bin 
+-r-xr-xr-x   1    0    0     147100 Dec  4 2005 [  81584 00] subtitles_a2s1.bin 
+-r-xr-xr-x   1    0    0     149308 Dec  4 2005 [  81664 00] subtitles_a2s10.bin 
+-r-xr-xr-x   1    0    0     148460 Dec  4 2005 [  81744 00] subtitles_a2s11.bin 
+-r-xr-xr-x   1    0    0     145932 Dec  4 2005 [  81824 00] subtitles_a2s12.bin 
+-r-xr-xr-x   1    0    0     146012 Dec  4 2005 [  81904 00] subtitles_a2s13.bin 
+-r-xr-xr-x   1    0    0     146972 Dec  4 2005 [  81984 00] subtitles_a2s14.bin 
+-r-xr-xr-x   1    0    0     147404 Dec  4 2005 [  82064 00] subtitles_a2s15.bin 
+-r-xr-xr-x   1    0    0     146780 Dec  4 2005 [  82144 00] subtitles_a2s2.bin 
+-r-xr-xr-x   1    0    0     147564 Dec  4 2005 [  82224 00] subtitles_a2s3.bin 
+-r-xr-xr-x   1    0    0     148060 Dec  4 2005 [  82304 00] subtitles_a2s4.bin 
+-r-xr-xr-x   1    0    0     147276 Dec  4 2005 [  82384 00] subtitles_a2s5.bin 
+-r-xr-xr-x   1    0    0     145404 Dec  4 2005 [  82464 00] subtitles_a2s6.bin 
+-r-xr-xr-x   1    0    0     148380 Dec  1 2005 [  82544 00] subtitles_a2s7.bin 
+-r-xr-xr-x   1    0    0     146636 Dec  1 2005 [  82624 00] subtitles_a2s8.bin 
+-r-xr-xr-x   1    0    0     147628 Dec  1 2005 [  82704 00] subtitles_a2s9.bin 
+-r-xr-xr-x   1    0    0     148316 Dec  1 2005 [  82784 00] subtitles_a3s1.bin 
+-r-xr-xr-x   1    0    0     146364 Dec  1 2005 [  82864 00] subtitles_a3s2.bin 
+-r-xr-xr-x   1    0    0     147756 Dec  1 2005 [  82944 00] subtitles_a3s3.bin 
+-r-xr-xr-x   1    0    0     147596 Dec  1 2005 [  83024 00] subtitles_a3s4.bin 
+-r-xr-xr-x   1    0    0     149036 Dec  1 2005 [  83104 00] subtitles_a3s5.bin 
+-r-xr-xr-x   1    0    0     148412 Dec  1 2005 [  83184 00] subtitles_intro.bin 
+-r-xr-xr-x   1    0    0     149292 Dec  1 2005 [  83264 00] subtitles_intro2.bin 
+-r-xr-xr-x   1    0    0     145292 Dec  1 2005 [  83344 00] test.bin 
+
+Directory listing of /PSP_GAME/USRDIR/data/Korean/
+dr-xr-xr-x   1    0    0       4096 Dec 14 2005 [     42 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     27 02] .. 
+-r-xr-xr-x   1    0    0     146652 Dec  7 2005 [  83424 00] battlebugs.bin 
+-r-xr-xr-x   1    0    0     152460 Dec 10 2005 [  83504 00] game.bin 
+-r-xr-xr-x   1    0    0     145084 Dec  4 2005 [  83584 00] subtitles_a1s1.bin 
+-r-xr-xr-x   1    0    0     145244 Dec  4 2005 [  83664 00] subtitles_a1s2.bin 
+-r-xr-xr-x   1    0    0     145308 Dec  4 2005 [  83744 00] subtitles_a1s3.bin 
+-r-xr-xr-x   1    0    0     145068 Dec  4 2005 [  83824 00] subtitles_a1s4.bin 
+-r-xr-xr-x   1    0    0     145116 Dec  4 2005 [  83904 00] subtitles_a1s5.bin 
+-r-xr-xr-x   1    0    0     145116 Dec  4 2005 [  83984 00] subtitles_a1s6.bin 
+-r-xr-xr-x   1    0    0     145068 Dec  4 2005 [  84064 00] subtitles_a1s7.bin 
+-r-xr-xr-x   1    0    0     145036 Dec  4 2005 [  84144 00] subtitles_a2s1.bin 
+-r-xr-xr-x   1    0    0     145500 Dec  4 2005 [  84224 00] subtitles_a2s10.bin 
+-r-xr-xr-x   1    0    0     145244 Dec  4 2005 [  84304 00] subtitles_a2s11.bin 
+-r-xr-xr-x   1    0    0     144956 Dec  4 2005 [  84384 00] subtitles_a2s12.bin 
+-r-xr-xr-x   1    0    0     144972 Dec  4 2005 [  84464 00] subtitles_a2s13.bin 
+-r-xr-xr-x   1    0    0     145020 Dec  4 2005 [  84544 00] subtitles_a2s14.bin 
+-r-xr-xr-x   1    0    0     145132 Dec  4 2005 [  84624 00] subtitles_a2s15.bin 
+-r-xr-xr-x   1    0    0     145084 Dec  4 2005 [  84704 00] subtitles_a2s2.bin 
+-r-xr-xr-x   1    0    0     145132 Dec  4 2005 [  84784 00] subtitles_a2s3.bin 
+-r-xr-xr-x   1    0    0     145340 Dec  4 2005 [  84864 00] subtitles_a2s4.bin 
+-r-xr-xr-x   1    0    0     145100 Dec  4 2005 [  84944 00] subtitles_a2s5.bin 
+-r-xr-xr-x   1    0    0     144860 Dec  4 2005 [  85024 00] subtitles_a2s6.bin 
+-r-xr-xr-x   1    0    0     145228 Dec  1 2005 [  85104 00] subtitles_a2s7.bin 
+-r-xr-xr-x   1    0    0     145004 Dec  1 2005 [  85184 00] subtitles_a2s8.bin 
+-r-xr-xr-x   1    0    0     145116 Dec  1 2005 [  85264 00] subtitles_a2s9.bin 
+-r-xr-xr-x   1    0    0     145164 Dec  1 2005 [  85344 00] subtitles_a3s1.bin 
+-r-xr-xr-x   1    0    0     144988 Dec  1 2005 [  85424 00] subtitles_a3s2.bin 
+-r-xr-xr-x   1    0    0     145084 Dec  1 2005 [  85504 00] subtitles_a3s3.bin 
+-r-xr-xr-x   1    0    0     145100 Dec  1 2005 [  85584 00] subtitles_a3s4.bin 
+-r-xr-xr-x   1    0    0     145420 Dec  1 2005 [  85664 00] subtitles_a3s5.bin 
+-r-xr-xr-x   1    0    0     145132 Dec  1 2005 [  85744 00] subtitles_intro.bin 
+-r-xr-xr-x   1    0    0     145420 Dec  1 2005 [  85824 00] subtitles_intro2.bin 
+-r-xr-xr-x   1    0    0     145308 Dec  1 2005 [  85904 00] test.bin 
+
+Directory listing of /PSP_GAME/USRDIR/data/Spanish/
+dr-xr-xr-x   1    0    0       4096 Dec 14 2005 [     44 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     27 02] .. 
+-r-xr-xr-x   1    0    0     146652 Dec  7 2005 [  85984 00] battlebugs.bin 
+-r-xr-xr-x   1    0    0     152460 Dec 10 2005 [  86064 00] game.bin 
+-r-xr-xr-x   1    0    0     145084 Dec  4 2005 [  86144 00] subtitles_a1s1.bin 
+-r-xr-xr-x   1    0    0     145244 Dec  4 2005 [  86224 00] subtitles_a1s2.bin 
+-r-xr-xr-x   1    0    0     145308 Dec  4 2005 [  86304 00] subtitles_a1s3.bin 
+-r-xr-xr-x   1    0    0     145068 Dec  4 2005 [  86384 00] subtitles_a1s4.bin 
+-r-xr-xr-x   1    0    0     145116 Dec  4 2005 [  86464 00] subtitles_a1s5.bin 
+-r-xr-xr-x   1    0    0     145116 Dec  4 2005 [  86544 00] subtitles_a1s6.bin 
+-r-xr-xr-x   1    0    0     145068 Dec  4 2005 [  86624 00] subtitles_a1s7.bin 
+-r-xr-xr-x   1    0    0     145036 Dec  4 2005 [  86704 00] subtitles_a2s1.bin 
+-r-xr-xr-x   1    0    0     145500 Dec  4 2005 [  86784 00] subtitles_a2s10.bin 
+-r-xr-xr-x   1    0    0     145244 Dec  4 2005 [  86864 00] subtitles_a2s11.bin 
+-r-xr-xr-x   1    0    0     144956 Dec  4 2005 [  86944 00] subtitles_a2s12.bin 
+-r-xr-xr-x   1    0    0     144972 Dec  4 2005 [  87024 00] subtitles_a2s13.bin 
+-r-xr-xr-x   1    0    0     145020 Dec  4 2005 [  87104 00] subtitles_a2s14.bin 
+-r-xr-xr-x   1    0    0     145132 Dec  4 2005 [  87184 00] subtitles_a2s15.bin 
+-r-xr-xr-x   1    0    0     145084 Dec  4 2005 [  87264 00] subtitles_a2s2.bin 
+-r-xr-xr-x   1    0    0     145132 Dec  4 2005 [  87344 00] subtitles_a2s3.bin 
+-r-xr-xr-x   1    0    0     145340 Dec  4 2005 [  87424 00] subtitles_a2s4.bin 
+-r-xr-xr-x   1    0    0     145100 Dec  4 2005 [  87504 00] subtitles_a2s5.bin 
+-r-xr-xr-x   1    0    0     144860 Dec  4 2005 [  87584 00] subtitles_a2s6.bin 
+-r-xr-xr-x   1    0    0     145228 Dec  1 2005 [  87664 00] subtitles_a2s7.bin 
+-r-xr-xr-x   1    0    0     145004 Dec  1 2005 [  87744 00] subtitles_a2s8.bin 
+-r-xr-xr-x   1    0    0     145116 Dec  1 2005 [  87824 00] subtitles_a2s9.bin 
+-r-xr-xr-x   1    0    0     145164 Dec  1 2005 [  87904 00] subtitles_a3s1.bin 
+-r-xr-xr-x   1    0    0     144988 Dec  1 2005 [  87984 00] subtitles_a3s2.bin 
+-r-xr-xr-x   1    0    0     145084 Dec  1 2005 [  88064 00] subtitles_a3s3.bin 
+-r-xr-xr-x   1    0    0     145100 Dec  1 2005 [  88144 00] subtitles_a3s4.bin 
+-r-xr-xr-x   1    0    0     145420 Dec  1 2005 [  88224 00] subtitles_a3s5.bin 
+-r-xr-xr-x   1    0    0     145132 Dec  1 2005 [  88304 00] subtitles_intro.bin 
+-r-xr-xr-x   1    0    0     145420 Dec  1 2005 [  88384 00] subtitles_intro2.bin 
+-r-xr-xr-x   1    0    0     145292 Dec  1 2005 [  88464 00] test.bin 
+
+Directory listing of /PSP_GAME/USRDIR/data/UkEnglish/
+dr-xr-xr-x   1    0    0       4096 Dec 14 2005 [     46 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     27 02] .. 
+-r-xr-xr-x   1    0    0     146652 Dec  7 2005 [  88544 00] battlebugs.bin 
+-r-xr-xr-x   1    0    0     152572 Dec 10 2005 [  88624 00] game.bin 
+-r-xr-xr-x   1    0    0     145084 Dec  4 2005 [  88704 00] subtitles_a1s1.bin 
+-r-xr-xr-x   1    0    0     145244 Dec  4 2005 [  88784 00] subtitles_a1s2.bin 
+-r-xr-xr-x   1    0    0     145308 Dec  4 2005 [  88864 00] subtitles_a1s3.bin 
+-r-xr-xr-x   1    0    0     145068 Dec  4 2005 [  88944 00] subtitles_a1s4.bin 
+-r-xr-xr-x   1    0    0     145116 Dec  4 2005 [  89024 00] subtitles_a1s5.bin 
+-r-xr-xr-x   1    0    0     145116 Dec  4 2005 [  89104 00] subtitles_a1s6.bin 
+-r-xr-xr-x   1    0    0     145068 Dec  4 2005 [  89184 00] subtitles_a1s7.bin 
+-r-xr-xr-x   1    0    0     145036 Dec  4 2005 [  89264 00] subtitles_a2s1.bin 
+-r-xr-xr-x   1    0    0     145500 Dec  4 2005 [  89344 00] subtitles_a2s10.bin 
+-r-xr-xr-x   1    0    0     145244 Dec  4 2005 [  89424 00] subtitles_a2s11.bin 
+-r-xr-xr-x   1    0    0     144956 Dec  4 2005 [  89504 00] subtitles_a2s12.bin 
+-r-xr-xr-x   1    0    0     144972 Dec  4 2005 [  89584 00] subtitles_a2s13.bin 
+-r-xr-xr-x   1    0    0     145020 Dec  4 2005 [  89664 00] subtitles_a2s14.bin 
+-r-xr-xr-x   1    0    0     145132 Dec  4 2005 [  89744 00] subtitles_a2s15.bin 
+-r-xr-xr-x   1    0    0     145084 Dec  4 2005 [  89824 00] subtitles_a2s2.bin 
+-r-xr-xr-x   1    0    0     145132 Dec  4 2005 [  89904 00] subtitles_a2s3.bin 
+-r-xr-xr-x   1    0    0     145340 Dec  4 2005 [  89984 00] subtitles_a2s4.bin 
+-r-xr-xr-x   1    0    0     145100 Dec  4 2005 [  90064 00] subtitles_a2s5.bin 
+-r-xr-xr-x   1    0    0     144860 Dec  1 2005 [  90144 00] subtitles_a2s6.bin 
+-r-xr-xr-x   1    0    0     145228 Dec  1 2005 [  90224 00] subtitles_a2s7.bin 
+-r-xr-xr-x   1    0    0     145004 Dec  1 2005 [  90304 00] subtitles_a2s8.bin 
+-r-xr-xr-x   1    0    0     145116 Dec  1 2005 [  90384 00] subtitles_a2s9.bin 
+-r-xr-xr-x   1    0    0     145164 Dec  1 2005 [  90464 00] subtitles_a3s1.bin 
+-r-xr-xr-x   1    0    0     144988 Dec  1 2005 [  90544 00] subtitles_a3s2.bin 
+-r-xr-xr-x   1    0    0     145084 Dec  1 2005 [  90624 00] subtitles_a3s3.bin 
+-r-xr-xr-x   1    0    0     145100 Dec  1 2005 [  90704 00] subtitles_a3s4.bin 
+-r-xr-xr-x   1    0    0     145420 Dec  1 2005 [  90784 00] subtitles_a3s5.bin 
+-r-xr-xr-x   1    0    0     145132 Dec  1 2005 [  90864 00] subtitles_intro.bin 
+-r-xr-xr-x   1    0    0     145420 Dec  1 2005 [  90944 00] subtitles_intro2.bin 
+-r-xr-xr-x   1    0    0     145372 Dec  1 2005 [  91024 00] test.bin 
+
+Directory listing of /PSP_GAME/USRDIR/dialogs/English/
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     48 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     28 02] .. 
+-r-xr-xr-x   1    0    0      34312 Nov  3 2005 [  25216 00] 1373.at3 
+-r-xr-xr-x   1    0    0      38448 Nov  3 2005 [  25248 00] 1374.at3 
+-r-xr-xr-x   1    0    0      41080 Nov  3 2005 [  25280 00] 1375.at3 
+-r-xr-xr-x   1    0    0      56872 Nov  3 2005 [  25312 00] 1377.at3 
+-r-xr-xr-x   1    0    0      53488 Nov  3 2005 [  25344 00] 1378.at3 
+-r-xr-xr-x   1    0    0      17392 Nov  3 2005 [  25376 00] 1558.at3 
+-r-xr-xr-x   1    0    0      37696 Nov  3 2005 [  25392 00] 1559.at3 
+-r-xr-xr-x   1    0    0      61384 Nov  3 2005 [  25424 00] 1561.at3 
+-r-xr-xr-x   1    0    0      43712 Nov  3 2005 [  25456 00] 1562.at3 
+-r-xr-xr-x   1    0    0      50856 Nov  3 2005 [  25488 00] 1565.at3 
+-r-xr-xr-x   1    0    0      58752 Nov  3 2005 [  25520 00] 1566.at3 
+-r-xr-xr-x   1    0    0      80560 Nov  3 2005 [  25552 00] 1567.at3 
+-r-xr-xr-x   1    0    0      22656 Nov  3 2005 [  25600 00] 1568.at3 
+-r-xr-xr-x   1    0    0      34688 Nov  3 2005 [  25616 00] 1573.at3 
+-r-xr-xr-x   1    0    0      44464 Nov  3 2005 [  25648 00] 1575.at3 
+-r-xr-xr-x   1    0    0      57248 Nov  3 2005 [  25680 00] 1577.at3 
+-r-xr-xr-x   1    0    0      52736 Nov  3 2005 [  25712 00] 1785.at3 
+-r-xr-xr-x   1    0    0    1000700 Apr  2 2005 [  25744 00] test.at3 
+
+Directory listing of /PSP_GAME/USRDIR/dialogs/French/
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     49 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     28 02] .. 
+-r-xr-xr-x   1    0    0     993180 Apr  2 2005 [  26240 00] test.at3 
+
+Directory listing of /PSP_GAME/USRDIR/dialogs/German/
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     50 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     28 02] .. 
+-r-xr-xr-x   1    0    0     975508 Apr  2 2005 [  26736 00] test.at3 
+
+Directory listing of /PSP_GAME/USRDIR/dialogs/Italian/
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     51 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     28 02] .. 
+-r-xr-xr-x   1    0    0     987164 Apr  2 2005 [  27216 00] test.at3 
+
+Directory listing of /PSP_GAME/USRDIR/dialogs/Japanese/
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     52 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     28 02] .. 
+-r-xr-xr-x   1    0    0     975132 Apr  2 2005 [  27712 00] test.at3 
+
+Directory listing of /PSP_GAME/USRDIR/dialogs/Korean/
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     53 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     28 02] .. 
+-r-xr-xr-x   1    0    0     958588 Oct 13 2005 [  28192 00] test.at3 
+
+Directory listing of /PSP_GAME/USRDIR/dialogs/Spanish/
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     54 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     28 02] .. 
+-r-xr-xr-x   1    0    0     976636 Apr  2 2005 [  28672 00] test.at3 
+
+Directory listing of /PSP_GAME/USRDIR/dialogs/UkEnglish/
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     55 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     28 02] .. 
+-r-xr-xr-x   1    0    0     943548 Oct 19 2005 [  29152 00] test.at3 
+=============================================================== 
+Generated on Fri 19/08/2022 at 18:56:26.25 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

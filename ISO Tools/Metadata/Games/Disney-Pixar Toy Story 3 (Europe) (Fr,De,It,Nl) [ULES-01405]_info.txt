@@ -1,0 +1,578 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Disney-Pixar Toy Story 3   
+Title ID: ULES-01405 
+Region: Europe  
+Languages: Fr,De,It,Nl  
+Volume Creation Date: 2010-03-31 23:59:59 
+Volume Size: 863 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 1
+Volume set id: 1
+Publisher id: DIS
+Data preparer id: ASOBO
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 442304
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Mar 31 2010 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 31 2010 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun  9 2009 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Jun  9 2009 [     47 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Jun  9 2009 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 31 2010 [     22 02] .. 
+-r-xr-xr-x   1    0    0      12696 Mar 23 2010 [ 305200 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        560 Mar 25 2010 [ 305207 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      96160 Mar 23 2010 [ 308319 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0     112164 Mar 23 2010 [ 308366 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 Jun  9 2009 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Mar 31 2010 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Jun  9 2009 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun  9 2009 [     23 02] .. 
+-r-xr-xr-x   1    0    0    6370537 Mar 31 2010 [ 305208 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    6370880 Mar 31 2010 [    560 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0        880 Nov  2 2009 [     48 00] OPNSSMP.BIN 
+dr-xr-xr-x   1    0    0       2048 Jun  9 2009 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Mar 31 2010 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun  9 2009 [     23 02] .. 
+dr-xr-xr-x   1    0    0       6144 Mar 29 2010 [     27 02] DATAS 
+dr-xr-xr-x   1    0    0       2048 Mar 23 2010 [     30 02] GameTsc 
+dr-xr-xr-x   1    0    0       2048 Mar 23 2010 [     31 02] ICONS 
+-r-xr-xr-x   1    0    0       1244 Mar 23 2010 [ 308825 00] Init.tsc 
+-r-xr-xr-x   1    0    0         86 Mar 23 2010 [ 308826 00] InitFont.tsc 
+-r-xr-xr-x   1    0    0        407 Mar 23 2010 [ 308827 00] InitLib.tsc 
+dr-xr-xr-x   1    0    0       2048 Mar 23 2010 [     32 02] Input 
+-r-xr-xr-x   1    0    0        234 Mar 23 2010 [ 308828 00] LangDef.tsc 
+dr-xr-xr-x   1    0    0       2048 Mar 23 2010 [     33 02] Music 
+dr-xr-xr-x   1    0    0       2048 Mar 23 2010 [     34 02] Param 
+dr-xr-xr-x   1    0    0      14336 Mar 29 2010 [     35 02] RTC 
+-r-xr-xr-x   1    0    0       6236 Mar 23 2010 [ 308834 00] RemyDLG.tsc 
+-r-xr-xr-x   1    0    0       4617 Mar 30 2010 [ 308838 00] ResBGIGD.tsc 
+-r-xr-xr-x   1    0    0      28018 Mar 30 2010 [ 308843 00] ResGame.tsc 
+-r-xr-xr-x   1    0    0        456 Mar 23 2010 [ 309215 00] User.tsc 
+-r-xr-xr-x   1    0    0        478 Mar 23 2010 [ 309216 00] Vibratio.tsc 
+dr-xr-xr-x   1    0    0       4096 Mar 30 2010 [     42 02] WORLD 
+-r-xr-xr-x   1    0    0      16416 Mar 23 2010 [ 308816 00] clone.tsc 
+-r-xr-xr-x   1    0    0         21 Mar 23 2010 [ 308829 00] menu.tsc 
+-r-xr-xr-x   1    0    0       5136 Mar 23 2010 [ 308830 00] menuTr.tsc 
+-r-xr-xr-x   1    0    0          0 Mar 23 2010 [ 308833 00] ps2user.tsc 
+-r-xr-xr-x   1    0    0       2800 Mar 30 2010 [ 308841 00] resBoxS.tsc 
+-r-xr-xr-x   1    0    0       3056 Mar 30 2010 [ 308857 00] resGIGD.tsc 
+-r-xr-xr-x   1    0    0       6390 Mar 30 2010 [ 309211 00] resTextS.tsc 
+-r-xr-xr-x   1    0    0     719600 Mar 30 2010 [ 308859 00] resrce.tsc 
+dr-xr-xr-x   1    0    0       2048 Mar 30 2010 [     44 02] trtext 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Jun  9 2009 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun  9 2009 [     24 02] .. 
+-r-xr-xr-x   1    0    0   23372384 Jun  9 2009 [   7769 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5545568 Jun  9 2009 [   3673 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Jun  9 2009 [   3671 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/DATAS/
+dr-xr-xr-x   1    0    0       6144 Mar 29 2010 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 31 2010 [     25 02] .. 
+-r-xr-xr-x   1    0    0     100352 Mar 26 2010 [ 309306 00] ALIEN.DPP 
+-r-xr-xr-x   1    0    0     100352 Mar 26 2010 [ 309355 00] ALIENST.DPP 
+-r-xr-xr-x   1    0    0     100352 Mar 26 2010 [ 309404 00] BUZZST.DPP 
+-r-xr-xr-x   1    0    0      79872 Mar 26 2010 [ 309453 00] CHEATS.DPP 
+-r-xr-xr-x   1    0    0     188416 Mar 26 2010 [ 309492 00] CONC1.DPP 
+-r-xr-xr-x   1    0    0     188416 Mar 26 2010 [ 309584 00] CONC10.DPP 
+-r-xr-xr-x   1    0    0     188416 Mar 26 2010 [ 309676 00] CONC11.DPP 
+-r-xr-xr-x   1    0    0     188416 Mar 26 2010 [ 309768 00] CONC12.DPP 
+-r-xr-xr-x   1    0    0     188416 Mar 26 2010 [ 309860 00] CONC13.DPP 
+-r-xr-xr-x   1    0    0     188416 Mar 26 2010 [ 309952 00] CONC14.DPP 
+-r-xr-xr-x   1    0    0     188416 Mar 26 2010 [ 310044 00] CONC15.DPP 
+-r-xr-xr-x   1    0    0     188416 Mar 26 2010 [ 310136 00] CONC16.DPP 
+-r-xr-xr-x   1    0    0     188416 Mar 26 2010 [ 310228 00] CONC17.DPP 
+-r-xr-xr-x   1    0    0     188416 Mar 26 2010 [ 310320 00] CONC18.DPP 
+-r-xr-xr-x   1    0    0     188416 Mar 26 2010 [ 310412 00] CONC19.DPP 
+-r-xr-xr-x   1    0    0     188416 Mar 26 2010 [ 310504 00] CONC2.DPP 
+-r-xr-xr-x   1    0    0     188416 Mar 26 2010 [ 310596 00] CONC20.DPP 
+-r-xr-xr-x   1    0    0     188416 Mar 26 2010 [ 310688 00] CONC21.DPP 
+-r-xr-xr-x   1    0    0     188416 Mar 26 2010 [ 310780 00] CONC22.DPP 
+-r-xr-xr-x   1    0    0     188416 Mar 26 2010 [ 310872 00] CONC23.DPP 
+-r-xr-xr-x   1    0    0     188416 Mar 26 2010 [ 310964 00] CONC24.DPP 
+-r-xr-xr-x   1    0    0     188416 Mar 26 2010 [ 311056 00] CONC25.DPP 
+-r-xr-xr-x   1    0    0     188416 Mar 26 2010 [ 311148 00] CONC3.DPP 
+-r-xr-xr-x   1    0    0     188416 Mar 26 2010 [ 311240 00] CONC4.DPP 
+-r-xr-xr-x   1    0    0     188416 Mar 26 2010 [ 311332 00] CONC5.DPP 
+-r-xr-xr-x   1    0    0     188416 Mar 26 2010 [ 311424 00] CONC6.DPP 
+-r-xr-xr-x   1    0    0     188416 Mar 26 2010 [ 311516 00] CONC7.DPP 
+-r-xr-xr-x   1    0    0     188416 Mar 26 2010 [ 311608 00] CONC8.DPP 
+-r-xr-xr-x   1    0    0     364544 Mar 26 2010 [ 311700 00] CONC9.DPP 
+-r-xr-xr-x   1    0    0     180224 Mar 26 2010 [ 311878 00] CONCEPT.DPP 
+-r-xr-xr-x   1    0    0      16384 Mar 26 2010 [ 311966 00] EDITEUR.DPP 
+-r-xr-xr-x   1    0    0     192512 Mar 26 2010 [ 311974 00] FONTES.DPP 
+-r-xr-xr-x   1    0    0     194560 Mar 26 2010 [ 312068 00] FONTRUS.DPP 
+-r-xr-xr-x   1    0    0     112640 Mar 26 2010 [ 312163 00] HIREZ.DPP 
+-r-xr-xr-x   1    0    0     188416 Mar 26 2010 [ 312218 00] HIREZ1.DPP 
+-r-xr-xr-x   1    0    0     188416 Mar 26 2010 [ 312310 00] HIREZ10.DPP 
+-r-xr-xr-x   1    0    0     188416 Mar 26 2010 [ 312402 00] HIREZ11.DPP 
+-r-xr-xr-x   1    0    0     188416 Mar 26 2010 [ 312494 00] HIREZ12.DPP 
+-r-xr-xr-x   1    0    0     188416 Mar 26 2010 [ 312586 00] HIREZ13.DPP 
+-r-xr-xr-x   1    0    0     188416 Mar 26 2010 [ 312678 00] HIREZ14.DPP 
+-r-xr-xr-x   1    0    0     188416 Mar 26 2010 [ 312770 00] HIREZ15.DPP 
+-r-xr-xr-x   1    0    0     188416 Mar 26 2010 [ 312862 00] HIREZ2.DPP 
+-r-xr-xr-x   1    0    0     188416 Mar 26 2010 [ 312954 00] HIREZ3.DPP 
+-r-xr-xr-x   1    0    0     188416 Mar 26 2010 [ 313046 00] HIREZ4.DPP 
+-r-xr-xr-x   1    0    0     188416 Mar 26 2010 [ 313138 00] HIREZ5.DPP 
+-r-xr-xr-x   1    0    0     188416 Mar 26 2010 [ 313230 00] HIREZ6.DPP 
+-r-xr-xr-x   1    0    0     188416 Mar 26 2010 [ 313322 00] HIREZ7.DPP 
+-r-xr-xr-x   1    0    0     188416 Mar 26 2010 [ 313414 00] HIREZ8.DPP 
+-r-xr-xr-x   1    0    0     188416 Mar 26 2010 [ 313506 00] HIREZ9.DPP 
+-r-xr-xr-x   1    0    0     100352 Mar 26 2010 [ 313598 00] JESSYST.DPP 
+-r-xr-xr-x   1    0    0     188416 Mar 26 2010 [ 313647 00] LADVEN.DPP 
+-r-xr-xr-x   1    0    0     188416 Mar 26 2010 [ 313739 00] LALIEN.DPP 
+-r-xr-xr-x   1    0    0      12288 Mar 26 2010 [ 313831 00] LEGAL_01.DPP 
+-r-xr-xr-x   1    0    0      34816 Mar 26 2010 [ 313837 00] LOGO01.DPP 
+-r-xr-xr-x   1    0    0      34816 Mar 26 2010 [ 313854 00] LOGO02.DPP 
+-r-xr-xr-x   1    0    0      34816 Mar 26 2010 [ 313871 00] LOGO03.DPP 
+-r-xr-xr-x   1    0    0      34816 Mar 26 2010 [ 313888 00] LOGO04.DPP 
+-r-xr-xr-x   1    0    0      34816 Mar 26 2010 [ 313905 00] LOGO05.DPP 
+-r-xr-xr-x   1    0    0      34816 Mar 26 2010 [ 313922 00] LOGO06.DPP 
+-r-xr-xr-x   1    0    0      34816 Mar 26 2010 [ 313939 00] LOGO07.DPP 
+-r-xr-xr-x   1    0    0      34816 Mar 26 2010 [ 313956 00] LOGO08.DPP 
+-r-xr-xr-x   1    0    0      34816 Mar 26 2010 [ 313973 00] LOGO10.DPP 
+-r-xr-xr-x   1    0    0      34816 Mar 26 2010 [ 313990 00] LOGO11.DPP 
+-r-xr-xr-x   1    0    0      34816 Mar 26 2010 [ 314007 00] LOGO12.DPP 
+-r-xr-xr-x   1    0    0      34816 Mar 26 2010 [ 314024 00] LOGO13.DPP 
+-r-xr-xr-x   1    0    0      34816 Mar 26 2010 [ 314041 00] LOGO15.DPP 
+-r-xr-xr-x   1    0    0      34816 Mar 29 2010 [ 314058 00] LOGO17.DPP 
+-r-xr-xr-x   1    0    0      34816 Mar 26 2010 [ 314075 00] LOGO19.DPP 
+-r-xr-xr-x   1    0    0      34816 Mar 26 2010 [ 314092 00] LOGO20.DPP 
+-r-xr-xr-x   1    0    0     188416 Mar 26 2010 [ 314109 00] LROUND.DPP 
+-r-xr-xr-x   1    0    0     188416 Mar 26 2010 [ 314201 00] LSTORY.DPP 
+-r-xr-xr-x   1    0    0    2203648 Mar 26 2010 [ 314293 00] MENURTC.DPP 
+-r-xr-xr-x   1    0    0     339968 Mar 26 2010 [ 315369 00] P_ALIEN.DPP 
+-r-xr-xr-x   1    0    0     264192 Mar 26 2010 [ 315535 00] P_BUZFLY.DPP 
+-r-xr-xr-x   1    0    0    2592768 Mar 26 2010 [ 315664 00] P_BUZZ.DPP 
+-r-xr-xr-x   1    0    0    1699840 Mar 26 2010 [ 316930 00] P_BUZZVG.DPP 
+-r-xr-xr-x   1    0    0    1501184 Mar 26 2010 [ 317760 00] P_JESSIE.DPP 
+-r-xr-xr-x   1    0    0     286720 Mar 26 2010 [ 318493 00] P_JESSJR.DPP 
+-r-xr-xr-x   1    0    0      51200 Mar 26 2010 [ 318633 00] P_RCCAR.DPP 
+-r-xr-xr-x   1    0    0     114688 Mar 26 2010 [ 318658 00] P_REXCH.DPP 
+-r-xr-xr-x   1    0    0    1359872 Mar 26 2010 [ 318714 00] P_SOLDI.DPP 
+-r-xr-xr-x   1    0    0     258048 Mar 26 2010 [ 319378 00] P_WOODCH.DPP 
+-r-xr-xr-x   1    0    0     591872 Mar 26 2010 [ 319504 00] P_WOODRO.DPP 
+-r-xr-xr-x   1    0    0    2048000 Mar 26 2010 [ 319793 00] P_WOODT.DPP 
+-r-xr-xr-x   1    0    0    2371584 Mar 26 2010 [ 320793 00] P_WOODY.DPP 
+-r-xr-xr-x   1    0    0     100352 Mar 26 2010 [ 321951 00] REXST.DPP 
+-r-xr-xr-x   1    0    0     133120 Mar 26 2010 [ 322000 00] ROUNDUP.DPP 
+-r-xr-xr-x   1    0    0       4096 Mar 26 2010 [ 322065 00] RTCSYS.DPP 
+-r-xr-xr-x   1    0    0     475136 Mar 26 2010 [ 322067 00] SHARED.DPP 
+-r-xr-xr-x   1    0    0     100352 Mar 26 2010 [ 322299 00] SOLDST.DPP 
+-r-xr-xr-x   1    0    0     100352 Mar 26 2010 [ 322348 00] VGAME.DPP 
+-r-xr-xr-x   1    0    0     100352 Mar 26 2010 [ 322397 00] WOODYST.DPP 
+
+Directory listing of /PSP_GAME/USRDIR/GameTsc/
+dr-xr-xr-x   1    0    0       2048 Mar 23 2010 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 31 2010 [     25 02] .. 
+-r-xr-xr-x   1    0    0        496 Mar 23 2010 [ 309217 00] LoadTsc.tsc 
+dr-xr-xr-x   1    0    0       2048 Mar 29 2010 [     45 02] Story 
+
+Directory listing of /PSP_GAME/USRDIR/ICONS/
+dr-xr-xr-x   1    0    0       2048 Mar 23 2010 [     31 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 31 2010 [     25 02] .. 
+-r-xr-xr-x   1    0    0      58744 Mar 23 2010 [ 308421 00] COPYICON.ICO 
+-r-xr-xr-x   1    0    0      58744 Mar 23 2010 [ 308450 00] DELICON.ICO 
+-r-xr-xr-x   1    0    0      12696 Mar 23 2010 [ 308479 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0      10280 Mar 23 2010 [ 308486 00] ICON0_1.PNG 
+-r-xr-xr-x   1    0    0      58744 Mar 23 2010 [ 308492 00] LISTICON.ICO 
+-r-xr-xr-x   1    0    0      96129 Mar 23 2010 [ 308521 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0      96140 Mar 23 2010 [ 308568 00] PIC1_.PNG 
+-r-xr-xr-x   1    0    0     112164 Mar 23 2010 [ 308615 00] SND0.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/Input/
+dr-xr-xr-x   1    0    0       2048 Mar 23 2010 [     32 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 31 2010 [     25 02] .. 
+-r-xr-xr-x   1    0    0       5403 Mar 23 2010 [ 308800 00] input.PSP 
+
+Directory listing of /PSP_GAME/USRDIR/Music/
+dr-xr-xr-x   1    0    0       2048 Mar 23 2010 [     33 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 31 2010 [     25 02] .. 
+-r-xr-xr-x   1    0    0    1344724 Mar  8 2010 [ 394661 00] ALIEN.at3 
+-r-xr-xr-x   1    0    0     379284 Mar  8 2010 [ 395318 00] ALIEWIN.at3 
+-r-xr-xr-x   1    0    0    1472404 Mar  8 2010 [ 395504 00] ANDY.at3 
+-r-xr-xr-x   1    0    0    1539044 Mar  8 2010 [ 393909 00] Adven.at3 
+-r-xr-xr-x   1    0    0    1462884 Mar  8 2010 [ 396223 00] BUZZ1.at3 
+-r-xr-xr-x   1    0    0    1547444 Mar  8 2010 [ 396938 00] BUZZ2.at3 
+-r-xr-xr-x   1    0    0     386564 Mar  8 2010 [ 401587 00] BUZZWIN.at3 
+dr-xr-xr-x   1    0    0       2048 Mar 23 2010 [     46 02] DIALOG 
+-r-xr-xr-x   1    0    0    1563684 Mar  8 2010 [ 397694 00] JESSIE.at3 
+-r-xr-xr-x   1    0    0     377604 Mar  8 2010 [ 398458 00] JESSWIN.at3 
+-r-xr-xr-x   1    0    0     718084 Mar  8 2010 [ 398643 00] MENU.at3 
+-r-xr-xr-x   1    0    0     668804 Mar  8 2010 [ 398994 00] Roundup.at3 
+-r-xr-xr-x   1    0    0     112164 Mar 17 2010 [ 399321 00] SND0.at3 
+-r-xr-xr-x   1    0    0    1426484 Mar  8 2010 [ 399376 00] SOLDIER.at3 
+-r-xr-xr-x   1    0    0     389364 Mar  8 2010 [ 400073 00] SOLDWIN.at3 
+-r-xr-xr-x   1    0    0      80244 Mar  8 2010 [ 400264 00] Success.at3 
+-r-xr-xr-x   1    0    0          0 Mar  8 2010 [ 400304 00] Success_.at3 
+-r-xr-xr-x   1    0    0     377604 Mar  8 2010 [ 400305 00] WOODWIN.at3 
+-r-xr-xr-x   1    0    0    1468484 Mar  8 2010 [ 400490 00] WOODY1.at3 
+-r-xr-xr-x   1    0    0     774644 Mar  8 2010 [ 401208 00] WOODY2.at3 
+
+Directory listing of /PSP_GAME/USRDIR/Param/
+dr-xr-xr-x   1    0    0       2048 Mar 23 2010 [     34 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 31 2010 [     25 02] .. 
+-r-xr-xr-x   1    0    0      26019 Mar 23 2010 [ 308803 00] pp001.tsc 
+
+Directory listing of /PSP_GAME/USRDIR/RTC/
+dr-xr-xr-x   1    0    0      14336 Mar 29 2010 [     35 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 31 2010 [     25 02] .. 
+-r-xr-xr-x   1    0    0      38912 Mar 26 2010 [ 384506 00] 01B.DPP 
+-r-xr-xr-x   1    0    0      65536 Mar 26 2010 [ 384525 00] 01C.DPP 
+-r-xr-xr-x   1    0    0      55296 Mar 26 2010 [ 384557 00] 01D.DPP 
+-r-xr-xr-x   1    0    0      28672 Mar 26 2010 [ 384584 00] 01DTH.DPP 
+-r-xr-xr-x   1    0    0     403456 Mar 26 2010 [ 384598 00] 01E.DPP 
+-r-xr-xr-x   1    0    0      47104 Mar 26 2010 [ 384795 00] 01EXPLO.DPP 
+-r-xr-xr-x   1    0    0     573440 Mar 26 2010 [ 384818 00] 01S.DPP 
+-r-xr-xr-x   1    0    0     180224 Mar 26 2010 [ 385098 00] 01WH.DPP 
+-r-xr-xr-x   1    0    0     139264 Mar 26 2010 [ 385186 00] 02A.DPP 
+-r-xr-xr-x   1    0    0      92160 Mar 26 2010 [ 385254 00] 02E.DPP 
+-r-xr-xr-x   1    0    0      47104 Mar 26 2010 [ 385299 00] 02GOBACK.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 385322 00] 02S.DPP 
+-r-xr-xr-x   1    0    0      26624 Mar 26 2010 [ 385325 00] 02STL.DPP 
+-r-xr-xr-x   1    0    0      55296 Mar 26 2010 [ 385338 00] 02STS.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 385365 00] 03A.DPP 
+-r-xr-xr-x   1    0    0     104448 Mar 26 2010 [ 385368 00] 03ALIEN.DPP 
+-r-xr-xr-x   1    0    0      61440 Mar 26 2010 [ 385419 00] 03BH.DPP 
+-r-xr-xr-x   1    0    0      34816 Mar 26 2010 [ 385449 00] 03BH2.DPP 
+-r-xr-xr-x   1    0    0      61440 Mar 26 2010 [ 385466 00] 03BH3.DPP 
+-r-xr-xr-x   1    0    0      65536 Mar 26 2010 [ 385496 00] 03BH4.DPP 
+-r-xr-xr-x   1    0    0     296960 Mar 26 2010 [ 385528 00] 03BULL.DPP 
+-r-xr-xr-x   1    0    0      65536 Mar 26 2010 [ 385673 00] 03E.DPP 
+-r-xr-xr-x   1    0    0      88064 Mar 26 2010 [ 385705 00] 03HAMM.DPP 
+-r-xr-xr-x   1    0    0     147456 Mar 26 2010 [ 385748 00] 03JESS.DPP 
+-r-xr-xr-x   1    0    0      71680 Mar 26 2010 [ 385820 00] 03REX.DPP 
+-r-xr-xr-x   1    0    0      79872 Mar 26 2010 [ 385855 00] 03S.DPP 
+-r-xr-xr-x   1    0    0     141312 Mar 26 2010 [ 385894 00] 03SDOG.DPP 
+-r-xr-xr-x   1    0    0       4096 Mar 26 2010 [ 385963 00] 04A.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 385965 00] 04B.DPP 
+-r-xr-xr-x   1    0    0     411648 Mar 26 2010 [ 385968 00] 04E.DPP 
+-r-xr-xr-x   1    0    0      65536 Mar 26 2010 [ 386169 00] 04S.DPP 
+-r-xr-xr-x   1    0    0      65536 Mar 26 2010 [ 386201 00] 04STL.DPP 
+-r-xr-xr-x   1    0    0      49152 Mar 26 2010 [ 386233 00] 04TV1.DPP 
+-r-xr-xr-x   1    0    0     348160 Mar 26 2010 [ 386257 00] 04TV2.DPP 
+-r-xr-xr-x   1    0    0      53248 Mar 26 2010 [ 386427 00] 05BH.DPP 
+-r-xr-xr-x   1    0    0     104448 Mar 26 2010 [ 386453 00] 05BH2.DPP 
+-r-xr-xr-x   1    0    0      36864 Mar 26 2010 [ 386504 00] 05BH3.DPP 
+-r-xr-xr-x   1    0    0      20480 Mar 26 2010 [ 386522 00] 05DTH.DPP 
+-r-xr-xr-x   1    0    0      49152 Mar 26 2010 [ 386532 00] 05DTH_A.DPP 
+-r-xr-xr-x   1    0    0      57344 Mar 26 2010 [ 386556 00] 05DTH_AT.DPP 
+-r-xr-xr-x   1    0    0     389120 Mar 26 2010 [ 386584 00] 05DTH_H.DPP 
+-r-xr-xr-x   1    0    0      57344 Mar 26 2010 [ 386774 00] 05DTH_HT.DPP 
+-r-xr-xr-x   1    0    0      49152 Mar 26 2010 [ 386802 00] 05DTH_R.DPP 
+-r-xr-xr-x   1    0    0      57344 Mar 26 2010 [ 386826 00] 05DTH_RT.DPP 
+-r-xr-xr-x   1    0    0     225280 Mar 26 2010 [ 386854 00] 05E.DPP 
+-r-xr-xr-x   1    0    0     159744 Mar 26 2010 [ 386964 00] 05S.DPP 
+-r-xr-xr-x   1    0    0       4096 Mar 26 2010 [ 387042 00] 06A.DPP 
+-r-xr-xr-x   1    0    0      14336 Mar 26 2010 [ 387044 00] 06AE.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 387051 00] 06B.DPP 
+-r-xr-xr-x   1    0    0      32768 Mar 26 2010 [ 387054 00] 06E.DPP 
+-r-xr-xr-x   1    0    0      81920 Mar 26 2010 [ 387070 00] 06KITE.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 387110 00] 06S.DPP 
+-r-xr-xr-x   1    0    0      65536 Mar 26 2010 [ 387113 00] 06STHL.DPP 
+-r-xr-xr-x   1    0    0     112640 Mar 26 2010 [ 387145 00] 07A.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 387200 00] 07B.DPP 
+-r-xr-xr-x   1    0    0     120832 Mar 26 2010 [ 387203 00] 07BH.DPP 
+-r-xr-xr-x   1    0    0      61440 Mar 26 2010 [ 387262 00] 07E.DPP 
+-r-xr-xr-x   1    0    0      22528 Mar 26 2010 [ 387292 00] 07PTRL.DPP 
+-r-xr-xr-x   1    0    0     301056 Mar 26 2010 [ 387303 00] 07S.DPP 
+-r-xr-xr-x   1    0    0      10240 Mar 26 2010 [ 387450 00] 07STHL.DPP 
+-r-xr-xr-x   1    0    0     188416 Mar 26 2010 [ 387455 00] 07STS.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 387547 00] 08A.DPP 
+-r-xr-xr-x   1    0    0      63488 Mar 26 2010 [ 387550 00] 08E.DPP 
+-r-xr-xr-x   1    0    0     493568 Mar 26 2010 [ 387581 00] 08RADIO.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 387822 00] 08S.DPP 
+-r-xr-xr-x   1    0    0      14336 Mar 26 2010 [ 387825 00] 08STHL.DPP 
+-r-xr-xr-x   1    0    0      40960 Mar 26 2010 [ 387832 00] 08WH.DPP 
+-r-xr-xr-x   1    0    0     172032 Mar 26 2010 [ 387852 00] 09A.DPP 
+-r-xr-xr-x   1    0    0     178176 Mar 26 2010 [ 387936 00] 09B.DPP 
+-r-xr-xr-x   1    0    0     108544 Mar 26 2010 [ 388023 00] 09C.DPP 
+-r-xr-xr-x   1    0    0      94208 Mar 26 2010 [ 388076 00] 09CHAPO.DPP 
+-r-xr-xr-x   1    0    0      10240 Mar 26 2010 [ 388122 00] 09DTH.DPP 
+-r-xr-xr-x   1    0    0      69632 Mar 26 2010 [ 388127 00] 09E.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 388161 00] 09S.DPP 
+-r-xr-xr-x   1    0    0     169984 Mar 26 2010 [ 388164 00] 10AL1.DPP 
+-r-xr-xr-x   1    0    0     167936 Mar 26 2010 [ 388247 00] 10AL2.DPP 
+-r-xr-xr-x   1    0    0     165888 Mar 26 2010 [ 388329 00] 10AL3.DPP 
+-r-xr-xr-x   1    0    0     182272 Mar 26 2010 [ 388410 00] 10BULL.DPP 
+-r-xr-xr-x   1    0    0      22528 Mar 26 2010 [ 388499 00] 10E.DPP 
+-r-xr-xr-x   1    0    0     145408 Mar 26 2010 [ 388510 00] 10HAMM.DPP 
+-r-xr-xr-x   1    0    0      12288 Mar 26 2010 [ 388581 00] 10LOS.DPP 
+-r-xr-xr-x   1    0    0     153600 Mar 26 2010 [ 388587 00] 10REX.DPP 
+-r-xr-xr-x   1    0    0     174080 Mar 26 2010 [ 388662 00] 10S.DPP 
+-r-xr-xr-x   1    0    0      94208 Mar 26 2010 [ 388747 00] 12BULL.DPP 
+-r-xr-xr-x   1    0    0      22528 Mar 26 2010 [ 388793 00] 12DTH.DPP 
+-r-xr-xr-x   1    0    0      22528 Mar 26 2010 [ 388804 00] 12DTH2.DPP 
+-r-xr-xr-x   1    0    0     278528 Mar 26 2010 [ 388815 00] 12E.DPP 
+-r-xr-xr-x   1    0    0      10240 Mar 26 2010 [ 388951 00] 12GB1.DPP 
+-r-xr-xr-x   1    0    0      10240 Mar 26 2010 [ 388956 00] 12GB2.DPP 
+-r-xr-xr-x   1    0    0      10240 Mar 26 2010 [ 388961 00] 12GB3.DPP 
+-r-xr-xr-x   1    0    0      10240 Mar 26 2010 [ 388966 00] 12GB4.DPP 
+-r-xr-xr-x   1    0    0      10240 Mar 26 2010 [ 388971 00] 12GB5.DPP 
+-r-xr-xr-x   1    0    0      71680 Mar 26 2010 [ 388976 00] 12HAMM.DPP 
+-r-xr-xr-x   1    0    0      92160 Mar 26 2010 [ 389011 00] 12REX.DPP 
+-r-xr-xr-x   1    0    0     159744 Mar 26 2010 [ 389056 00] 12S.DPP 
+-r-xr-xr-x   1    0    0      98304 Mar 26 2010 [ 389134 00] 12WOODY.DPP 
+-r-xr-xr-x   1    0    0      47104 Mar 26 2010 [ 389182 00] 13BH.DPP 
+-r-xr-xr-x   1    0    0     647168 Mar 26 2010 [ 389205 00] 13E.DPP 
+-r-xr-xr-x   1    0    0      28672 Mar 26 2010 [ 389521 00] 13S.DPP 
+-r-xr-xr-x   1    0    0      14336 Mar 26 2010 [ 389535 00] 14DTH1.DPP 
+-r-xr-xr-x   1    0    0      14336 Mar 26 2010 [ 389542 00] 14DTH2.DPP 
+-r-xr-xr-x   1    0    0     256000 Mar 26 2010 [ 389549 00] 14E.DPP 
+-r-xr-xr-x   1    0    0     108544 Mar 26 2010 [ 389674 00] 14S.DPP 
+-r-xr-xr-x   1    0    0     176128 Mar 26 2010 [ 389727 00] ADV3_ZE.DPP 
+-r-xr-xr-x   1    0    0      79872 Mar 26 2010 [ 389813 00] ADV3_ZS.DPP 
+-r-xr-xr-x   1    0    0      49152 Mar 26 2010 [ 389852 00] ADV_1E.DPP 
+-r-xr-xr-x   1    0    0      75776 Mar 26 2010 [ 389876 00] ADV_2E.DPP 
+-r-xr-xr-x   1    0    0      10240 Mar 26 2010 [ 389913 00] ADV_4E.DPP 
+-r-xr-xr-x   1    0    0     172032 Mar 26 2010 [ 389918 00] ADV_5E.DPP 
+-r-xr-xr-x   1    0    0      65536 Mar 26 2010 [ 390002 00] AL1_E.DPP 
+-r-xr-xr-x   1    0    0       8192 Mar 26 2010 [ 390034 00] AL1_S.DPP 
+-r-xr-xr-x   1    0    0      43008 Mar 26 2010 [ 390038 00] AL2_E.DPP 
+-r-xr-xr-x   1    0    0      10240 Mar 26 2010 [ 390059 00] AL2_S.DPP 
+-r-xr-xr-x   1    0    0      20480 Mar 26 2010 [ 390064 00] ALIELOSE.DPP 
+-r-xr-xr-x   1    0    0      20480 Mar 26 2010 [ 390074 00] ALIEWIN.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 390084 00] B2_REX.DPP 
+-r-xr-xr-x   1    0    0      28672 Mar 26 2010 [ 390087 00] BED_REX.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 390101 00] BON_B.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 390104 00] BON_HAM.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 390107 00] BON_IN.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 390110 00] BON_OPT.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 390113 00] BON_OUT.DPP 
+-r-xr-xr-x   1    0    0       8192 Mar 26 2010 [ 390116 00] BOOK10E.DPP 
+-r-xr-xr-x   1    0    0       4096 Mar 26 2010 [ 390120 00] BOOK10S.DPP 
+-r-xr-xr-x   1    0    0       8192 Mar 26 2010 [ 390122 00] BOOK11E.DPP 
+-r-xr-xr-x   1    0    0       4096 Mar 26 2010 [ 390126 00] BOOK11S.DPP 
+-r-xr-xr-x   1    0    0       8192 Mar 26 2010 [ 390128 00] BOOK12E.DPP 
+-r-xr-xr-x   1    0    0       4096 Mar 26 2010 [ 390132 00] BOOK12S.DPP 
+-r-xr-xr-x   1    0    0       8192 Mar 26 2010 [ 390134 00] BOOK13E.DPP 
+-r-xr-xr-x   1    0    0       4096 Mar 26 2010 [ 390138 00] BOOK13S.DPP 
+-r-xr-xr-x   1    0    0       8192 Mar 26 2010 [ 390140 00] BOOK1E.DPP 
+-r-xr-xr-x   1    0    0       4096 Mar 26 2010 [ 390144 00] BOOK1S.DPP 
+-r-xr-xr-x   1    0    0       8192 Mar 26 2010 [ 390146 00] BOOK2E.DPP 
+-r-xr-xr-x   1    0    0       4096 Mar 26 2010 [ 390150 00] BOOK2S.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 390152 00] BOOK3E.DPP 
+-r-xr-xr-x   1    0    0       4096 Mar 26 2010 [ 390155 00] BOOK3S.DPP 
+-r-xr-xr-x   1    0    0       8192 Mar 26 2010 [ 390157 00] BOOK4E.DPP 
+-r-xr-xr-x   1    0    0       4096 Mar 26 2010 [ 390161 00] BOOK4S.DPP 
+-r-xr-xr-x   1    0    0       8192 Mar 26 2010 [ 390163 00] BOOK5E.DPP 
+-r-xr-xr-x   1    0    0       4096 Mar 26 2010 [ 390167 00] BOOK5S.DPP 
+-r-xr-xr-x   1    0    0       8192 Mar 26 2010 [ 390169 00] BOOK6E.DPP 
+-r-xr-xr-x   1    0    0       4096 Mar 26 2010 [ 390173 00] BOOK6S.DPP 
+-r-xr-xr-x   1    0    0       8192 Mar 26 2010 [ 390175 00] BOOK7E.DPP 
+-r-xr-xr-x   1    0    0       4096 Mar 26 2010 [ 390179 00] BOOK7S.DPP 
+-r-xr-xr-x   1    0    0       8192 Mar 26 2010 [ 390181 00] BOOK8E.DPP 
+-r-xr-xr-x   1    0    0       4096 Mar 26 2010 [ 390185 00] BOOK8S.DPP 
+-r-xr-xr-x   1    0    0       8192 Mar 26 2010 [ 390187 00] BOOK9E.DPP 
+-r-xr-xr-x   1    0    0       4096 Mar 26 2010 [ 390191 00] BOOK9S.DPP 
+-r-xr-xr-x   1    0    0      40960 Mar 26 2010 [ 390193 00] BUZZLOSE.DPP 
+-r-xr-xr-x   1    0    0      98304 Mar 26 2010 [ 390213 00] BUZZVGS.DPP 
+-r-xr-xr-x   1    0    0     143360 Mar 26 2010 [ 390261 00] BUZZVGS2.DPP 
+-r-xr-xr-x   1    0    0     143360 Mar 26 2010 [ 390331 00] BUZZVGS3.DPP 
+-r-xr-xr-x   1    0    0     143360 Mar 26 2010 [ 390401 00] BUZZVGS4.DPP 
+-r-xr-xr-x   1    0    0     143360 Mar 26 2010 [ 390471 00] BUZZVGS5.DPP 
+-r-xr-xr-x   1    0    0      94208 Mar 26 2010 [ 390541 00] BUZZVGSG.DPP 
+-r-xr-xr-x   1    0    0      26624 Mar 26 2010 [ 390587 00] BUZZWIN.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 390600 00] B_BON.DPP 
+-r-xr-xr-x   1    0    0      92160 Mar 26 2010 [ 390603 00] B_FLY_E.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 390648 00] B_IN.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 390651 00] B_OFF.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 390654 00] B_OUT.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 390657 00] B_REX.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 390660 00] CAT10_01.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 390663 00] CAT10_02.DPP 
+-r-xr-xr-x   1    0    0     299008 Mar 26 2010 [ 390666 00] CAT10_03.DPP 
+-r-xr-xr-x   1    0    0     135168 Mar 26 2010 [ 390812 00] CAT12_01.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 390878 00] CAT12_02.DPP 
+-r-xr-xr-x   1    0    0     286720 Mar 26 2010 [ 390881 00] CAT12_03.DPP 
+-r-xr-xr-x   1    0    0     108544 Mar 26 2010 [ 391021 00] CAT14_01.DPP 
+-r-xr-xr-x   1    0    0     155648 Mar 26 2010 [ 391074 00] CAT14_02.DPP 
+-r-xr-xr-x   1    0    0      94208 Mar 26 2010 [ 391150 00] CHINOISB.DPP 
+-r-xr-xr-x   1    0    0      86016 Mar 26 2010 [ 391196 00] CHINOISW.DPP 
+-r-xr-xr-x   1    0    0       4096 Mar 26 2010 [ 391238 00] CHT_HAM.DPP 
+-r-xr-xr-x   1    0    0       4096 Mar 26 2010 [ 391240 00] CHT_IN.DPP 
+-r-xr-xr-x   1    0    0       4096 Mar 26 2010 [ 391242 00] CHT_MENU.DPP 
+-r-xr-xr-x   1    0    0       4096 Mar 26 2010 [ 391244 00] CHT_OUT.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 391246 00] DLC2_REX.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 391249 00] DLC_IN.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 391252 00] DLC_OFF.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 391255 00] DLC_OUT.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 391258 00] DLC_QUIT.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 391261 00] DLC_TR.DPP 
+-r-xr-xr-x   1    0    0     131072 Mar 26 2010 [ 391264 00] FLYS1.DPP 
+-r-xr-xr-x   1    0    0       4096 Mar 26 2010 [ 391328 00] HAM_CHT.DPP 
+-r-xr-xr-x   1    0    0       4096 Mar 26 2010 [ 391330 00] HAM_IN.DPP 
+-r-xr-xr-x   1    0    0       4096 Mar 26 2010 [ 391332 00] HAM_MENU.DPP 
+-r-xr-xr-x   1    0    0       4096 Mar 26 2010 [ 391334 00] HAM_OUT.DPP 
+-r-xr-xr-x   1    0    0      90112 Mar 26 2010 [ 391336 00] HUB_GEN.DPP 
+-r-xr-xr-x   1    0    0      34816 Mar 26 2010 [ 391380 00] JESSLOSE.DPP 
+-r-xr-xr-x   1    0    0      38912 Mar 26 2010 [ 391397 00] JESSWIN.DPP 
+-r-xr-xr-x   1    0    0    2009088 Mar 26 2010 [ 391416 00] LOG_BED.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 392397 00] MENU_BON.DPP 
+-r-xr-xr-x   1    0    0       4096 Mar 26 2010 [ 392400 00] MENU_CHT.DPP 
+-r-xr-xr-x   1    0    0       4096 Mar 26 2010 [ 392402 00] MENU_HAM.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 392404 00] OPT_BON.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 392407 00] OPT_IN.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 392410 00] OPT_OUT.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 392413 00] OPT_QUIT.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 392416 00] PAGE_IN.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 392419 00] PAGE_OUT.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 392422 00] QUIT_BED.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 392425 00] QUIT_DLC.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 392428 00] QUIT_OPT.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 392431 00] REX_B.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 392434 00] REX_B2.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 392437 00] REX_DLC2.DPP 
+-r-xr-xr-x   1    0    0      10240 Mar 26 2010 [ 392440 00] REX_IN.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 392445 00] REX_OFF.DPP 
+-r-xr-xr-x   1    0    0      10240 Mar 26 2010 [ 392448 00] REX_OUT.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 392453 00] REX_W.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 392456 00] REX_W2.DPP 
+-r-xr-xr-x   1    0    0       4096 Mar 26 2010 [ 392459 00] RUPSHE.DPP 
+-r-xr-xr-x   1    0    0       4096 Mar 26 2010 [ 392461 00] RUPSHE3.DPP 
+-r-xr-xr-x   1    0    0      24576 Mar 26 2010 [ 392463 00] RUPSHS.DPP 
+-r-xr-xr-x   1    0    0     131072 Mar 26 2010 [ 392475 00] RUP_E1.DPP 
+-r-xr-xr-x   1    0    0     344064 Mar 26 2010 [ 392539 00] RUP_E2.DPP 
+-r-xr-xr-x   1    0    0     210944 Mar 26 2010 [ 392707 00] RUP_E3.DPP 
+-r-xr-xr-x   1    0    0     202752 Mar 26 2010 [ 392810 00] RUP_E4.DPP 
+-r-xr-xr-x   1    0    0     184320 Mar 26 2010 [ 392909 00] RUP_E5.DPP 
+-r-xr-xr-x   1    0    0     262144 Mar 26 2010 [ 392999 00] RUP_S1.DPP 
+-r-xr-xr-x   1    0    0     262144 Mar 26 2010 [ 393127 00] RUP_S2.DPP 
+-r-xr-xr-x   1    0    0     262144 Mar 26 2010 [ 393255 00] RUP_S3.DPP 
+-r-xr-xr-x   1    0    0     253952 Mar 26 2010 [ 393383 00] RUP_S4.DPP 
+-r-xr-xr-x   1    0    0     239616 Mar 26 2010 [ 393507 00] RUP_S5.DPP 
+-r-xr-xr-x   1    0    0      45056 Mar 26 2010 [ 393624 00] SOLDLOSE.DPP 
+-r-xr-xr-x   1    0    0      45056 Mar 26 2010 [ 393646 00] SOLDWIN.DPP 
+-r-xr-xr-x   1    0    0       4096 Mar 26 2010 [ 393668 00] TRAIN01.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 393670 00] TR_DLC.DPP 
+-r-xr-xr-x   1    0    0       4096 Mar 26 2010 [ 393673 00] TR_GRUE1.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 393675 00] TR_IN.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 393678 00] TR_OUT.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 393681 00] TR_W.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 393684 00] W2_REX.DPP 
+-r-xr-xr-x   1    0    0     182272 Mar 26 2010 [ 393687 00] WINDUMP.DPP 
+-r-xr-xr-x   1    0    0      51200 Mar 26 2010 [ 393776 00] WOODLOSE.DPP 
+-r-xr-xr-x   1    0    0      47104 Mar 26 2010 [ 393801 00] WOODWIN.DPP 
+-r-xr-xr-x   1    0    0      47104 Mar 26 2010 [ 393824 00] WOODWINH.DPP 
+-r-xr-xr-x   1    0    0      51200 Mar 26 2010 [ 393847 00] WOOTLOSE.DPP 
+-r-xr-xr-x   1    0    0      45056 Mar 26 2010 [ 393872 00] WOOTWIN.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 393894 00] W_IN.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 393897 00] W_OFF.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 393900 00] W_OUT.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 393903 00] W_REX.DPP 
+-r-xr-xr-x   1    0    0       6144 Mar 26 2010 [ 393906 00] W_TR.DPP 
+
+Directory listing of /PSP_GAME/USRDIR/WORLD/
+dr-xr-xr-x   1    0    0       4096 Mar 30 2010 [     42 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 31 2010 [     25 02] .. 
+-r-xr-xr-x   1    0    0    4888576 Mar 26 2010 [ 322446 00] ADVEN1.DPP 
+-r-xr-xr-x   1    0    0    4804608 Mar 26 2010 [ 324833 00] ADVEN2.DPP 
+-r-xr-xr-x   1    0    0    4370432 Mar 26 2010 [ 327179 00] ADVEN3.DPP 
+-r-xr-xr-x   1    0    0    2019328 Mar 29 2010 [ 329313 00] BUT1.DPP 
+-r-xr-xr-x   1    0    0    1028096 Mar 26 2010 [ 330299 00] BUT2.DPP 
+-r-xr-xr-x   1    0    0    2603008 Mar 26 2010 [ 330801 00] BUT3.DPP 
+-r-xr-xr-x   1    0    0    1017856 Mar 26 2010 [ 332072 00] BUT4.DPP 
+-r-xr-xr-x   1    0    0    2883584 Mar 26 2010 [ 332569 00] CAT10.DPP 
+-r-xr-xr-x   1    0    0    2746368 Mar 26 2010 [ 333977 00] CAT11.DPP 
+-r-xr-xr-x   1    0    0    3108864 Mar 26 2010 [ 335318 00] CAT12.DPP 
+-r-xr-xr-x   1    0    0    1718272 Mar 26 2010 [ 336836 00] CAT13.DPP 
+-r-xr-xr-x   1    0    0    4360192 Mar 29 2010 [ 337675 00] CAT14.DPP 
+-r-xr-xr-x   1    0    0    4829184 Mar 26 2010 [ 339804 00] CLAW1.DPP 
+-r-xr-xr-x   1    0    0    1386496 Mar 26 2010 [ 342162 00] CLAW2.DPP 
+-r-xr-xr-x   1    0    0    3555328 Mar 26 2010 [ 342839 00] DUMP1.DPP 
+-r-xr-xr-x   1    0    0    1921024 Mar 26 2010 [ 344575 00] EXTE.DPP 
+-r-xr-xr-x   1    0    0    4077568 Mar 26 2010 [ 345513 00] EXTE1.DPP 
+-r-xr-xr-x   1    0    0    3538944 Mar 26 2010 [ 347504 00] EXTE2.DPP 
+-r-xr-xr-x   1    0    0     241664 Mar 29 2010 [ 349232 00] GLOBAL.DPP 
+-r-xr-xr-x   1    0    0    1509376 Mar 26 2010 [ 349350 00] HBONN.DPP 
+-r-xr-xr-x   1    0    0    2375680 Mar 26 2010 [ 350087 00] HBONN1.DPP 
+-r-xr-xr-x   1    0    0    2623488 Mar 26 2010 [ 351247 00] HBONN2.DPP 
+-r-xr-xr-x   1    0    0    2359296 Mar 26 2010 [ 352528 00] HBONN3.DPP 
+-r-xr-xr-x   1    0    0    1810432 Mar 26 2010 [ 353680 00] HBONN4.DPP 
+-r-xr-xr-x   1    0    0    3602432 Mar 29 2010 [ 354564 00] HGARA.DPP 
+-r-xr-xr-x   1    0    0    3155968 Mar 26 2010 [ 356323 00] HGARA2.DPP 
+-r-xr-xr-x   1    0    0    1800192 Mar 26 2010 [ 357864 00] HGARA3.DPP 
+-r-xr-xr-x   1    0    0    3899392 Mar 29 2010 [ 358743 00] HOUSE1.DPP 
+-r-xr-xr-x   1    0    0    1609728 Mar 26 2010 [ 360647 00] HOUSE2.DPP 
+-r-xr-xr-x   1    0    0    3465216 Mar 26 2010 [ 361433 00] HOUSE3.DPP 
+-r-xr-xr-x   1    0    0    1271808 Mar 26 2010 [ 363125 00] HUB2.DPP 
+-r-xr-xr-x   1    0    0    3328000 Mar 26 2010 [ 363746 00] JAIL1.DPP 
+-r-xr-xr-x   1    0    0    4898816 Mar 30 2010 [ 365371 00] MENU.DPP 
+-r-xr-xr-x   1    0    0    1497088 Mar 26 2010 [ 367763 00] PLAF1.DPP 
+-r-xr-xr-x   1    0    0    2723840 Mar 29 2010 [ 368494 00] PLAF2.DPP 
+-r-xr-xr-x   1    0    0    1501184 Mar 26 2010 [ 369824 00] PLAF3.DPP 
+-r-xr-xr-x   1    0    0    3475456 Mar 26 2010 [ 370557 00] ROOM1.DPP 
+-r-xr-xr-x   1    0    0    2662400 Mar 26 2010 [ 372254 00] ROOM2.DPP 
+-r-xr-xr-x   1    0    0    1634304 Mar 26 2010 [ 373554 00] ROOM3.DPP 
+-r-xr-xr-x   1    0    0    1658880 Mar 26 2010 [ 374352 00] ROOM4.DPP 
+-r-xr-xr-x   1    0    0    3125248 Mar 26 2010 [ 375162 00] ROUND1.DPP 
+-r-xr-xr-x   1    0    0    3594240 Mar 26 2010 [ 376688 00] ROUND2.DPP 
+-r-xr-xr-x   1    0    0    3725312 Mar 26 2010 [ 378443 00] ROUND3.DPP 
+-r-xr-xr-x   1    0    0    4136960 Mar 26 2010 [ 380262 00] TOPCAR.DPP 
+-r-xr-xr-x   1    0    0    4554752 Mar 29 2010 [ 382282 00] TRAIN1.DPP 
+
+Directory listing of /PSP_GAME/USRDIR/trtext/
+dr-xr-xr-x   1    0    0       2048 Mar 30 2010 [     44 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 31 2010 [     25 02] .. 
+-r-xr-xr-x   1    0    0      66748 Mar 29 2010 [ 308670 00] tt02.psp 
+-r-xr-xr-x   1    0    0      66723 Mar 25 2010 [ 308703 00] tt04.psp 
+-r-xr-xr-x   1    0    0      64382 Mar 30 2010 [ 308736 00] tt05.psp 
+-r-xr-xr-x   1    0    0      65001 Mar 24 2010 [ 308768 00] tt06.psp 
+
+Directory listing of /PSP_GAME/USRDIR/GameTsc/Story/
+dr-xr-xr-x   1    0    0       2048 Mar 29 2010 [     45 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 23 2010 [     30 02] .. 
+-r-xr-xr-x   1    0    0         60 Mar 23 2010 [ 309218 00] Arte.tsc 
+-r-xr-xr-x   1    0    0      46368 Mar 23 2010 [ 309219 00] Chapters.tsc 
+-r-xr-xr-x   1    0    0       7160 Mar 23 2010 [ 309242 00] Collect.tsc 
+-r-xr-xr-x   1    0    0      57742 Mar 23 2010 [ 309246 00] Events.TSC 
+-r-xr-xr-x   1    0    0       9992 Mar 23 2010 [ 309275 00] Extras.tsc 
+-r-xr-xr-x   1    0    0      21434 Mar 23 2010 [ 309280 00] Levels.tsc 
+-r-xr-xr-x   1    0    0       2258 Mar 23 2010 [ 309293 00] MenuRtc.tsc 
+-r-xr-xr-x   1    0    0      13194 Mar 29 2010 [ 309295 00] Rtc.tsc 
+-r-xr-xr-x   1    0    0       6985 Mar 23 2010 [ 309302 00] Trophies.tsc 
+-r-xr-xr-x   1    0    0       3287 Mar 23 2010 [ 309291 00] menu.tsc 
+
+Directory listing of /PSP_GAME/USRDIR/Music/DIALOG/
+dr-xr-xr-x   1    0    0       2048 Mar 23 2010 [     46 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 23 2010 [     33 02] .. 
+-r-xr-xr-x   1    0    0   20883264 Mar 17 2010 [ 401776 00] 02.sps 
+-r-xr-xr-x   1    0    0   21542336 Mar 19 2010 [ 411973 00] 04.sps 
+-r-xr-xr-x   1    0    0   20975376 Mar 17 2010 [ 422492 00] 05.sps 
+-r-xr-xr-x   1    0    0   19584240 Feb 18 2010 [ 432734 00] 06.sps 
+=============================================================== 
+Generated on Tue 09/08/2022 at  5:37:12.94 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

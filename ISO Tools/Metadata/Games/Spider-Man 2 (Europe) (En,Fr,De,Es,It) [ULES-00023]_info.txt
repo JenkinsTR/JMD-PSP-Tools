@@ -1,0 +1,592 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Spider-Man 2   
+Title ID: ULES-00023 
+Region: Europe  
+Languages: En,Fr,De,Es,It  
+Volume Creation Date: 2005-06-15 10:53:55 
+Volume Size: 906 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: SPIDERMAN2PSP
+Volume set id: SPIDERMAN2PSP
+Publisher id: ACTIVISION
+Data preparer id: ACTIVISION
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 463936
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Jun 15 2005 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 15 2005 [     22 02] .. 
+-r-xr-xr-x   1    0    0         48 Jun 14 2005 [     49 00] UMD_DATA.BIN 
+dr-xr-xr-x   1    0    0       2048 Jun 14 2005 [     23 02] PSP_GAME 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Jun 14 2005 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 15 2005 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 14 2005 [     24 02] SYSDIR 
+-r-xr-xr-x   1    0    0      11611 Jun  8 2005 [  22656 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0      89159 Feb  8 2005 [  22672 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0     256656 Feb 11 2005 [  22720 00] SND0.AT3 
+-r-xr-xr-x   1    0    0      26701 Jan 15 2005 [  22848 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     227328 Jan 19 2005 [  22864 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 Jun 13 2005 [  22976 00] PARAM.SFO 
+dr-xr-xr-x   1    0    0       2048 Jun 15 2005 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Jun 14 2005 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 14 2005 [     23 02] .. 
+-r-xr-xr-x   1    0    0    4266384 Jun 15 2005 [     64 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Jun 14 2005 [     26 02] UPDATE 
+-r-xr-xr-x   1    0    0    4266037 Jun 15 2005 [  22992 00] BOOT.BIN 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Jun 15 2005 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 14 2005 [     23 02] .. 
+dr-xr-xr-x   1    0    0      16384 Jun 15 2005 [     27 02] DATA 
+-r-xr-xr-x   1    0    0       3431 Jun 13 2005 [ 463920 00] GAME.INI 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Jun 14 2005 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 14 2005 [     24 02] .. 
+-r-xr-xr-x   1    0    0       1580 Jun 14 2005 [   2160 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0    3737904 Jun 14 2005 [   2176 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0   10149424 Jun 14 2005 [   6272 00] DATA.BIN 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/
+dr-xr-xr-x   1    0    0      16384 Jun 15 2005 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 15 2005 [     25 02] .. 
+-r-xr-xr-x   1    0    0     367972 Jun 15 2005 [  25088 00] A1S1CITY_FRE.GFC 
+-r-xr-xr-x   1    0    0    5775360 Jun 15 2005 [  25280 00] A1S1CITY_FRE.GOB 
+-r-xr-xr-x   1    0    0     367972 Jun 15 2005 [  28112 00] A1S1CITY_GER.GFC 
+-r-xr-xr-x   1    0    0    5789696 Jun 15 2005 [  28304 00] A1S1CITY_GER.GOB 
+-r-xr-xr-x   1    0    0     364176 Jun 15 2005 [  31136 00] A1S1CITY_ITA.GFC 
+-r-xr-xr-x   1    0    0    5746688 Jun 15 2005 [  31328 00] A1S1CITY_ITA.GOB 
+-r-xr-xr-x   1    0    0     364176 Jun 15 2005 [  34144 00] A1S1CITY_SPA.GFC 
+-r-xr-xr-x   1    0    0    5754880 Jun 15 2005 [  34336 00] A1S1CITY_SPA.GOB 
+-r-xr-xr-x   1    0    0     337684 Jun 15 2005 [  37152 00] A2S1BRIDGE_FRE.GFC 
+-r-xr-xr-x   1    0    0    6168576 Jun 15 2005 [  37328 00] A2S1BRIDGE_FRE.GOB 
+-r-xr-xr-x   1    0    0     337684 Jun 15 2005 [  40352 00] A2S1BRIDGE_GER.GFC 
+-r-xr-xr-x   1    0    0    6201344 Jun 15 2005 [  40528 00] A2S1BRIDGE_GER.GOB 
+-r-xr-xr-x   1    0    0     333888 Jun 15 2005 [  43568 00] A2S1BRIDGE_ITA.GFC 
+-r-xr-xr-x   1    0    0    6156288 Jun 15 2005 [  43744 00] A2S1BRIDGE_ITA.GOB 
+-r-xr-xr-x   1    0    0     333856 Jun 15 2005 [  46752 00] A2S1BRIDGE_SPA.GFC 
+-r-xr-xr-x   1    0    0    6150144 Jun 15 2005 [  46928 00] A2S1BRIDGE_SPA.GOB 
+-r-xr-xr-x   1    0    0     406984 Jun 15 2005 [  49936 00] A2S2WAREHOUSE_FRE.GFC 
+-r-xr-xr-x   1    0    0    6699008 Jun 15 2005 [  50144 00] A2S2WAREHOUSE_FRE.GOB 
+-r-xr-xr-x   1    0    0     406692 Jun 15 2005 [  53424 00] A2S2WAREHOUSE_GER.GFC 
+-r-xr-xr-x   1    0    0    6705152 Jun 15 2005 [  53632 00] A2S2WAREHOUSE_GER.GOB 
+-r-xr-xr-x   1    0    0     402896 Jun 15 2005 [  56912 00] A2S2WAREHOUSE_ITA.GFC 
+-r-xr-xr-x   1    0    0    6653952 Jun 15 2005 [  57120 00] A2S2WAREHOUSE_ITA.GOB 
+-r-xr-xr-x   1    0    0     402880 Jun 15 2005 [  60384 00] A2S2WAREHOUSE_SPA.GFC 
+-r-xr-xr-x   1    0    0    6567936 Jun 15 2005 [  60592 00] A2S2WAREHOUSE_SPA.GOB 
+-r-xr-xr-x   1    0    0     301704 Jun 15 2005 [  63808 00] A2S3REACTOR_FRE.GFC 
+-r-xr-xr-x   1    0    0    4757504 Jun 15 2005 [  63968 00] A2S3REACTOR_FRE.GOB 
+-r-xr-xr-x   1    0    0     301704 Jun 15 2005 [  66304 00] A2S3REACTOR_GER.GFC 
+-r-xr-xr-x   1    0    0    4753408 Jun 15 2005 [  66464 00] A2S3REACTOR_GER.GOB 
+-r-xr-xr-x   1    0    0     297908 Jun 15 2005 [  68800 00] A2S3REACTOR_ITA.GFC 
+-r-xr-xr-x   1    0    0    4706304 Jun 15 2005 [  68960 00] A2S3REACTOR_ITA.GOB 
+-r-xr-xr-x   1    0    0     297892 Jun 15 2005 [  71264 00] A2S3REACTOR_SPA.GFC 
+-r-xr-xr-x   1    0    0    4632576 Jun 15 2005 [  71424 00] A2S3REACTOR_SPA.GOB 
+-r-xr-xr-x   1    0    0     411040 Jun 15 2005 [  73696 00] A3S1MUSEUM_FRE.GFC 
+-r-xr-xr-x   1    0    0    6959104 Jun 15 2005 [  73904 00] A3S1MUSEUM_FRE.GOB 
+-r-xr-xr-x   1    0    0     411040 Jun 15 2005 [  77312 00] A3S1MUSEUM_GER.GFC 
+-r-xr-xr-x   1    0    0    6920192 Jun 15 2005 [  77520 00] A3S1MUSEUM_GER.GOB 
+-r-xr-xr-x   1    0    0     407244 Jun 15 2005 [  80912 00] A3S1MUSEUM_ITA.GFC 
+-r-xr-xr-x   1    0    0    6885376 Jun 15 2005 [  81120 00] A3S1MUSEUM_ITA.GOB 
+-r-xr-xr-x   1    0    0     407244 Jun 15 2005 [  84496 00] A3S1MUSEUM_SPA.GFC 
+-r-xr-xr-x   1    0    0    6823936 Jun 15 2005 [  84704 00] A3S1MUSEUM_SPA.GOB 
+-r-xr-xr-x   1    0    0     457080 Jun 15 2005 [  88048 00] A3S3MUSEUM_FRE.GFC 
+-r-xr-xr-x   1    0    0    7690240 Jun 15 2005 [  88272 00] A3S3MUSEUM_FRE.GOB 
+-r-xr-xr-x   1    0    0     456788 Jun 15 2005 [  92032 00] A3S3MUSEUM_GER.GFC 
+-r-xr-xr-x   1    0    0    7692288 Jun 15 2005 [  92256 00] A3S3MUSEUM_GER.GOB 
+-r-xr-xr-x   1    0    0     453008 Jun 15 2005 [  96016 00] A3S3MUSEUM_ITA.GFC 
+-r-xr-xr-x   1    0    0    7636992 Jun 15 2005 [  96240 00] A3S3MUSEUM_ITA.GOB 
+-r-xr-xr-x   1    0    0     452992 Jun 15 2005 [  99984 00] A3S3MUSEUM_SPA.GFC 
+-r-xr-xr-x   1    0    0    7589888 Jun 15 2005 [ 100208 00] A3S3MUSEUM_SPA.GOB 
+-r-xr-xr-x   1    0    0     236768 Jun 15 2005 [ 103920 00] A3S4MUSEUM_FRE.GFC 
+-r-xr-xr-x   1    0    0    4028416 Jun 15 2005 [ 104048 00] A3S4MUSEUM_FRE.GOB 
+-r-xr-xr-x   1    0    0     236768 Jun 15 2005 [ 106016 00] A3S4MUSEUM_GER.GFC 
+-r-xr-xr-x   1    0    0    4007936 Jun 15 2005 [ 106144 00] A3S4MUSEUM_GER.GOB 
+-r-xr-xr-x   1    0    0     232972 Jun 15 2005 [ 108112 00] A3S4MUSEUM_ITA.GFC 
+-r-xr-xr-x   1    0    0    3958784 Jun 15 2005 [ 108240 00] A3S4MUSEUM_ITA.GOB 
+-r-xr-xr-x   1    0    0     232972 Jun 15 2005 [ 110176 00] A3S4MUSEUM_SPA.GFC 
+-r-xr-xr-x   1    0    0    3956736 Jun 15 2005 [ 110304 00] A3S4MUSEUM_SPA.GOB 
+-r-xr-xr-x   1    0    0     436980 Jun 15 2005 [ 112240 00] A4S1BANK_FRE.GFC 
+-r-xr-xr-x   1    0    0    6742016 Jun 15 2005 [ 112464 00] A4S1BANK_FRE.GOB 
+-r-xr-xr-x   1    0    0     436980 Jun 15 2005 [ 115760 00] A4S1BANK_GER.GFC 
+-r-xr-xr-x   1    0    0    6780928 Jun 15 2005 [ 115984 00] A4S1BANK_GER.GOB 
+-r-xr-xr-x   1    0    0     433184 Jun 15 2005 [ 119296 00] A4S1BANK_ITA.GFC 
+-r-xr-xr-x   1    0    0    6727680 Jun 15 2005 [ 119520 00] A4S1BANK_ITA.GOB 
+-r-xr-xr-x   1    0    0     433184 Jun 15 2005 [ 122816 00] A4S1BANK_SPA.GFC 
+-r-xr-xr-x   1    0    0    6756352 Jun 15 2005 [ 123040 00] A4S1BANK_SPA.GOB 
+-r-xr-xr-x   1    0    0     411948 Jun 15 2005 [ 126352 00] A4S2BANK_FRE.GFC 
+-r-xr-xr-x   1    0    0    6305792 Jun 15 2005 [ 126560 00] A4S2BANK_FRE.GOB 
+-r-xr-xr-x   1    0    0     411656 Jun 15 2005 [ 129648 00] A4S2BANK_GER.GFC 
+-r-xr-xr-x   1    0    0    6289408 Jun 15 2005 [ 129856 00] A4S2BANK_GER.GOB 
+-r-xr-xr-x   1    0    0     407860 Jun 15 2005 [ 132928 00] A4S2BANK_ITA.GFC 
+-r-xr-xr-x   1    0    0    6221824 Jun 15 2005 [ 133136 00] A4S2BANK_ITA.GOB 
+-r-xr-xr-x   1    0    0     407860 Jun 15 2005 [ 136176 00] A4S2BANK_SPA.GFC 
+-r-xr-xr-x   1    0    0    6289408 Jun 15 2005 [ 136384 00] A4S2BANK_SPA.GOB 
+-r-xr-xr-x   1    0    0     317876 Jun 15 2005 [ 139456 00] A4S3CITY_FRE.GFC 
+-r-xr-xr-x   1    0    0    6383616 Jun 15 2005 [ 139616 00] A4S3CITY_FRE.GOB 
+-r-xr-xr-x   1    0    0     317876 Jun 15 2005 [ 142736 00] A4S3CITY_GER.GFC 
+-r-xr-xr-x   1    0    0    6318080 Jun 15 2005 [ 142896 00] A4S3CITY_GER.GOB 
+-r-xr-xr-x   1    0    0     314080 Jun 15 2005 [ 145984 00] A4S3CITY_ITA.GFC 
+-r-xr-xr-x   1    0    0    6309888 Jun 15 2005 [ 146144 00] A4S3CITY_ITA.GOB 
+-r-xr-xr-x   1    0    0     314080 Jun 15 2005 [ 149232 00] A4S3CITY_SPA.GFC 
+-r-xr-xr-x   1    0    0    6242304 Jun 15 2005 [ 149392 00] A4S3CITY_SPA.GOB 
+-r-xr-xr-x   1    0    0     393924 Jun 15 2005 [ 152448 00] A6S1CITY_FRE.GFC 
+-r-xr-xr-x   1    0    0    6998016 Jun 15 2005 [ 152656 00] A6S1CITY_FRE.GOB 
+-r-xr-xr-x   1    0    0     393956 Jun 15 2005 [ 156080 00] A6S1CITY_GER.GFC 
+-r-xr-xr-x   1    0    0    7057408 Jun 15 2005 [ 156288 00] A6S1CITY_GER.GOB 
+-r-xr-xr-x   1    0    0     390128 Jun 15 2005 [ 159744 00] A6S1CITY_ITA.GFC 
+-r-xr-xr-x   1    0    0    6961152 Jun 15 2005 [ 159936 00] A6S1CITY_ITA.GOB 
+-r-xr-xr-x   1    0    0     390128 Jun 15 2005 [ 163344 00] A6S1CITY_SPA.GFC 
+-r-xr-xr-x   1    0    0    6830080 Jun 15 2005 [ 163536 00] A6S1CITY_SPA.GOB 
+-r-xr-xr-x   1    0    0     423696 Jun 15 2005 [ 166880 00] A6S2CITY_FRE.GFC 
+-r-xr-xr-x   1    0    0    6596608 Jun 15 2005 [ 167088 00] A6S2CITY_FRE.GOB 
+-r-xr-xr-x   1    0    0     423728 Jun 15 2005 [ 170320 00] A6S2CITY_GER.GFC 
+-r-xr-xr-x   1    0    0    6744064 Jun 15 2005 [ 170528 00] A6S2CITY_GER.GOB 
+-r-xr-xr-x   1    0    0     419900 Jun 15 2005 [ 173824 00] A6S2CITY_ITA.GFC 
+-r-xr-xr-x   1    0    0    6598656 Jun 15 2005 [ 174032 00] A6S2CITY_ITA.GOB 
+-r-xr-xr-x   1    0    0     419900 Jun 15 2005 [ 177264 00] A6S2CITY_SPA.GFC 
+-r-xr-xr-x   1    0    0    6551552 Jun 15 2005 [ 177472 00] A6S2CITY_SPA.GOB 
+-r-xr-xr-x   1    0    0     294908 Jun 15 2005 [ 180672 00] A6S3CITY_FRE.GFC 
+-r-xr-xr-x   1    0    0    5701632 Jun 15 2005 [ 180816 00] A6S3CITY_FRE.GOB 
+-r-xr-xr-x   1    0    0     294940 Jun 15 2005 [ 183600 00] A6S3CITY_GER.GFC 
+-r-xr-xr-x   1    0    0    5707776 Jun 15 2005 [ 183760 00] A6S3CITY_GER.GOB 
+-r-xr-xr-x   1    0    0     291112 Jun 15 2005 [ 186560 00] A6S3CITY_ITA.GFC 
+-r-xr-xr-x   1    0    0    5627904 Jun 15 2005 [ 186704 00] A6S3CITY_ITA.GOB 
+-r-xr-xr-x   1    0    0     291112 Jun 15 2005 [ 189456 00] A6S3CITY_SPA.GFC 
+-r-xr-xr-x   1    0    0    5521408 Jun 15 2005 [ 189600 00] A6S3CITY_SPA.GOB 
+-r-xr-xr-x   1    0    0     449164 Jun 15 2005 [ 192304 00] A7S2WAREHOUSE_FRE.GFC 
+-r-xr-xr-x   1    0    0    6963200 Jun 15 2005 [ 192528 00] A7S2WAREHOUSE_FRE.GOB 
+-r-xr-xr-x   1    0    0     449164 Jun 15 2005 [ 195936 00] A7S2WAREHOUSE_GER.GFC 
+-r-xr-xr-x   1    0    0    6989824 Jun 15 2005 [ 196160 00] A7S2WAREHOUSE_GER.GOB 
+-r-xr-xr-x   1    0    0     445368 Jun 15 2005 [ 199584 00] A7S2WAREHOUSE_ITA.GFC 
+-r-xr-xr-x   1    0    0    6930432 Jun 15 2005 [ 199808 00] A7S2WAREHOUSE_ITA.GOB 
+-r-xr-xr-x   1    0    0     445368 Jun 15 2005 [ 203200 00] A7S2WAREHOUSE_SPA.GFC 
+-r-xr-xr-x   1    0    0    6952960 Jun 15 2005 [ 203424 00] A7S2WAREHOUSE_SPA.GOB 
+-r-xr-xr-x   1    0    0     327596 Jun 15 2005 [ 206832 00] A7S3WAREHOUSE_FRE.GFC 
+-r-xr-xr-x   1    0    0    5406720 Jun 15 2005 [ 206992 00] A7S3WAREHOUSE_FRE.GOB 
+-r-xr-xr-x   1    0    0     327596 Jun 15 2005 [ 209632 00] A7S3WAREHOUSE_GER.GFC 
+-r-xr-xr-x   1    0    0    5439488 Jun 15 2005 [ 209792 00] A7S3WAREHOUSE_GER.GOB 
+-r-xr-xr-x   1    0    0     323800 Jun 15 2005 [ 212448 00] A7S3WAREHOUSE_ITA.GFC 
+-r-xr-xr-x   1    0    0    5353472 Jun 15 2005 [ 212608 00] A7S3WAREHOUSE_ITA.GOB 
+-r-xr-xr-x   1    0    0     323800 Jun 15 2005 [ 215232 00] A7S3WAREHOUSE_SPA.GFC 
+-r-xr-xr-x   1    0    0    5431296 Jun 15 2005 [ 215392 00] A7S3WAREHOUSE_SPA.GOB 
+-r-xr-xr-x   1    0    0     374412 Jun 15 2005 [ 218048 00] A7S4WAREHOUSE_FRE.GFC 
+-r-xr-xr-x   1    0    0    6952960 Jun 15 2005 [ 218240 00] A7S4WAREHOUSE_FRE.GOB 
+-r-xr-xr-x   1    0    0     374412 Jun 15 2005 [ 221648 00] A7S4WAREHOUSE_GER.GFC 
+-r-xr-xr-x   1    0    0    6916096 Jun 15 2005 [ 221840 00] A7S4WAREHOUSE_GER.GOB 
+-r-xr-xr-x   1    0    0     370616 Jun 15 2005 [ 225232 00] A7S4WAREHOUSE_ITA.GFC 
+-r-xr-xr-x   1    0    0    6866944 Jun 15 2005 [ 225424 00] A7S4WAREHOUSE_ITA.GOB 
+-r-xr-xr-x   1    0    0     370616 Jun 15 2005 [ 228784 00] A7S4WAREHOUSE_SPA.GFC 
+-r-xr-xr-x   1    0    0    6866944 Jun 15 2005 [ 228976 00] A7S4WAREHOUSE_SPA.GOB 
+-r-xr-xr-x   1    0    0     430280 Jun 15 2005 [ 232336 00] A8S2GCS_FRE.GFC 
+-r-xr-xr-x   1    0    0    7577600 Jun 15 2005 [ 232560 00] A8S2GCS_FRE.GOB 
+-r-xr-xr-x   1    0    0     430280 Jun 15 2005 [ 236272 00] A8S2GCS_GER.GFC 
+-r-xr-xr-x   1    0    0    7602176 Jun 15 2005 [ 236496 00] A8S2GCS_GER.GOB 
+-r-xr-xr-x   1    0    0     426484 Jun 15 2005 [ 240208 00] A8S2GCS_ITA.GFC 
+-r-xr-xr-x   1    0    0    7542784 Jun 15 2005 [ 240432 00] A8S2GCS_ITA.GOB 
+-r-xr-xr-x   1    0    0     426484 Jun 15 2005 [ 244128 00] A8S2GCS_SPA.GFC 
+-r-xr-xr-x   1    0    0    7567360 Jun 15 2005 [ 244352 00] A8S2GCS_SPA.GOB 
+-r-xr-xr-x   1    0    0     344788 Jun 15 2005 [ 248048 00] A8S3TRAIN_FRE.GFC 
+-r-xr-xr-x   1    0    0    6969344 Jun 15 2005 [ 248224 00] A8S3TRAIN_FRE.GOB 
+-r-xr-xr-x   1    0    0     344788 Jun 15 2005 [ 251632 00] A8S3TRAIN_GER.GFC 
+-r-xr-xr-x   1    0    0    6983680 Jun 15 2005 [ 251808 00] A8S3TRAIN_GER.GOB 
+-r-xr-xr-x   1    0    0     340992 Jun 15 2005 [ 255232 00] A8S3TRAIN_ITA.GFC 
+-r-xr-xr-x   1    0    0    6928384 Jun 15 2005 [ 255408 00] A8S3TRAIN_ITA.GOB 
+-r-xr-xr-x   1    0    0     340992 Jun 15 2005 [ 258800 00] A8S3TRAIN_SPA.GFC 
+-r-xr-xr-x   1    0    0    6971392 Jun 15 2005 [ 258976 00] A8S3TRAIN_SPA.GOB 
+-r-xr-xr-x   1    0    0     340572 Jun 15 2005 [ 262384 00] A9S4WAREHOUSE_FRE.GFC 
+-r-xr-xr-x   1    0    0    7301120 Jun 15 2005 [ 262560 00] A9S4WAREHOUSE_FRE.GOB 
+-r-xr-xr-x   1    0    0     340556 Jun 15 2005 [ 266128 00] A9S4WAREHOUSE_GER.GFC 
+-r-xr-xr-x   1    0    0    7139328 Jun 15 2005 [ 266304 00] A9S4WAREHOUSE_GER.GOB 
+-r-xr-xr-x   1    0    0     336776 Jun 15 2005 [ 269792 00] A9S4WAREHOUSE_ITA.GFC 
+-r-xr-xr-x   1    0    0    7247872 Jun 15 2005 [ 269968 00] A9S4WAREHOUSE_ITA.GOB 
+-r-xr-xr-x   1    0    0     336760 Jun 15 2005 [ 273520 00] A9S4WAREHOUSE_SPA.GFC 
+-r-xr-xr-x   1    0    0    7018496 Jun 15 2005 [ 273696 00] A9S4WAREHOUSE_SPA.GOB 
+dr-xr-xr-x   1    0    0       2048 Jun 15 2005 [     35 02] AUDIO 
+-r-xr-xr-x   1    0    0       1012 Jun 15 2005 [ 318096 00] LEGAL_FRE.GFC 
+-r-xr-xr-x   1    0    0      98304 Jun 15 2005 [ 318112 00] LEGAL_FRE.GOB 
+-r-xr-xr-x   1    0    0       1012 Jun 15 2005 [ 318160 00] LEGAL_GER.GFC 
+-r-xr-xr-x   1    0    0      98304 Jun 15 2005 [ 318176 00] LEGAL_GER.GOB 
+-r-xr-xr-x   1    0    0       1012 Jun 15 2005 [ 318224 00] LEGAL_ITA.GFC 
+-r-xr-xr-x   1    0    0      98304 Jun 15 2005 [ 318240 00] LEGAL_ITA.GOB 
+-r-xr-xr-x   1    0    0       1012 Jun 15 2005 [ 318288 00] LEGAL_SPA.GFC 
+-r-xr-xr-x   1    0    0      98304 Jun 15 2005 [ 318304 00] LEGAL_SPA.GOB 
+dr-xr-xr-x   1    0    0       2048 Jun 15 2005 [     36 02] LOCALES 
+-r-xr-xr-x   1    0    0     198824 Jun 15 2005 [ 318480 00] MENU_FRE.GFC 
+-r-xr-xr-x   1    0    0    4136960 Jun 15 2005 [ 318592 00] MENU_FRE.GOB 
+-r-xr-xr-x   1    0    0     198824 Jun 15 2005 [ 320624 00] MENU_GER.GFC 
+-r-xr-xr-x   1    0    0    4096000 Jun 15 2005 [ 320736 00] MENU_GER.GOB 
+-r-xr-xr-x   1    0    0     195028 Jun 15 2005 [ 322736 00] MENU_ITA.GFC 
+-r-xr-xr-x   1    0    0    4055040 Jun 15 2005 [ 322832 00] MENU_ITA.GOB 
+-r-xr-xr-x   1    0    0     195028 Jun 15 2005 [ 324816 00] MENU_SPA.GFC 
+-r-xr-xr-x   1    0    0    4055040 Jun 15 2005 [ 324912 00] MENU_SPA.GOB 
+dr-xr-xr-x   1    0    0       2048 Jun 15 2005 [     37 02] MOVIES 
+-r-xr-xr-x   1    0    0       1063 Mar  4 2005 [ 416160 00] PATHS.TXT 
+dr-xr-xr-x   1    0    0       2048 Jun 15 2005 [     38 02] PRX 
+-r-xr-xr-x   1    0    0       1612 Jun 15 2005 [ 416288 00] START_FRE.GFC 
+-r-xr-xr-x   1    0    0     192512 Jun 15 2005 [ 416304 00] START_FRE.GOB 
+-r-xr-xr-x   1    0    0       1612 Jun 15 2005 [ 416400 00] START_GER.GFC 
+-r-xr-xr-x   1    0    0     192512 Jun 15 2005 [ 416416 00] START_GER.GOB 
+-r-xr-xr-x   1    0    0       1612 Jun 15 2005 [ 416512 00] START_ITA.GFC 
+-r-xr-xr-x   1    0    0     192512 Jun 15 2005 [ 416528 00] START_ITA.GOB 
+-r-xr-xr-x   1    0    0       1612 Jun 15 2005 [ 416624 00] START_SPA.GFC 
+-r-xr-xr-x   1    0    0     192512 Jun 15 2005 [ 416640 00] START_SPA.GOB 
+-r-xr-xr-x   1    0    0     224564 Jun 15 2005 [ 416736 00] T1S1BASICS_FRE.GFC 
+-r-xr-xr-x   1    0    0    5005312 Jun 15 2005 [ 416848 00] T1S1BASICS_FRE.GOB 
+-r-xr-xr-x   1    0    0     224532 Jun 15 2005 [ 419296 00] T1S1BASICS_GER.GFC 
+-r-xr-xr-x   1    0    0    4933632 Jun 15 2005 [ 419408 00] T1S1BASICS_GER.GOB 
+-r-xr-xr-x   1    0    0     220768 Jun 15 2005 [ 421824 00] T1S1BASICS_ITA.GFC 
+-r-xr-xr-x   1    0    0    5013504 Jun 15 2005 [ 421936 00] T1S1BASICS_ITA.GOB 
+-r-xr-xr-x   1    0    0     220720 Jun 15 2005 [ 424384 00] T1S1BASICS_SPA.GFC 
+-r-xr-xr-x   1    0    0    4630528 Jun 15 2005 [ 424496 00] T1S1BASICS_SPA.GOB 
+-r-xr-xr-x   1    0    0     190128 Jun 15 2005 [ 426768 00] T3S1TARGETING_FRE.GFC 
+-r-xr-xr-x   1    0    0    3047424 Jun 15 2005 [ 426864 00] T3S1TARGETING_FRE.GOB 
+-r-xr-xr-x   1    0    0     190128 Jun 15 2005 [ 428352 00] T3S1TARGETING_GER.GFC 
+-r-xr-xr-x   1    0    0    2951168 Jun 15 2005 [ 428448 00] T3S1TARGETING_GER.GOB 
+-r-xr-xr-x   1    0    0     186332 Jun 15 2005 [ 429904 00] T3S1TARGETING_ITA.GFC 
+-r-xr-xr-x   1    0    0    2981888 Jun 15 2005 [ 430000 00] T3S1TARGETING_ITA.GOB 
+-r-xr-xr-x   1    0    0     186268 Jun 15 2005 [ 431456 00] T3S1TARGETING_SPA.GFC 
+-r-xr-xr-x   1    0    0    2736128 Jun 15 2005 [ 431552 00] T3S1TARGETING_SPA.GOB 
+-r-xr-xr-x   1    0    0     180348 Jun 15 2005 [ 432896 00] T4S1ZIPPING_FRE.GFC 
+-r-xr-xr-x   1    0    0    2301952 Jun 15 2005 [ 432992 00] T4S1ZIPPING_FRE.GOB 
+-r-xr-xr-x   1    0    0     180348 Jun 15 2005 [ 434128 00] T4S1ZIPPING_GER.GFC 
+-r-xr-xr-x   1    0    0    2260992 Jun 15 2005 [ 434224 00] T4S1ZIPPING_GER.GOB 
+-r-xr-xr-x   1    0    0     176552 Jun 15 2005 [ 435328 00] T4S1ZIPPING_ITA.GFC 
+-r-xr-xr-x   1    0    0    2220032 Jun 15 2005 [ 435424 00] T4S1ZIPPING_ITA.GOB 
+-r-xr-xr-x   1    0    0     176552 Jun 15 2005 [ 436512 00] T4S1ZIPPING_SPA.GFC 
+-r-xr-xr-x   1    0    0    2220032 Jun 15 2005 [ 436608 00] T4S1ZIPPING_SPA.GOB 
+-r-xr-xr-x   1    0    0     182684 Jun 15 2005 [ 437696 00] T6S1SWINGING_FRE.GFC 
+-r-xr-xr-x   1    0    0    2353152 Jun 15 2005 [ 437792 00] T6S1SWINGING_FRE.GOB 
+-r-xr-xr-x   1    0    0     182684 Jun 15 2005 [ 438944 00] T6S1SWINGING_GER.GFC 
+-r-xr-xr-x   1    0    0    2312192 Jun 15 2005 [ 439040 00] T6S1SWINGING_GER.GOB 
+-r-xr-xr-x   1    0    0     178888 Jun 15 2005 [ 440176 00] T6S1SWINGING_ITA.GFC 
+-r-xr-xr-x   1    0    0    2271232 Jun 15 2005 [ 440272 00] T6S1SWINGING_ITA.GOB 
+-r-xr-xr-x   1    0    0     178888 Jun 15 2005 [ 441392 00] T6S1SWINGING_SPA.GFC 
+-r-xr-xr-x   1    0    0    2271232 Jun 15 2005 [ 441488 00] T6S1SWINGING_SPA.GOB 
+-r-xr-xr-x   1    0    0     232904 Jun 15 2005 [ 442608 00] T8S1FIGHT_FRE.GFC 
+-r-xr-xr-x   1    0    0    4382720 Jun 15 2005 [ 442736 00] T8S1FIGHT_FRE.GOB 
+-r-xr-xr-x   1    0    0     232888 Jun 15 2005 [ 444880 00] T8S1FIGHT_GER.GFC 
+-r-xr-xr-x   1    0    0    4405248 Jun 15 2005 [ 445008 00] T8S1FIGHT_GER.GOB 
+-r-xr-xr-x   1    0    0     229092 Jun 15 2005 [ 447168 00] T8S1FIGHT_ITA.GFC 
+-r-xr-xr-x   1    0    0    4425728 Jun 15 2005 [ 447280 00] T8S1FIGHT_ITA.GOB 
+-r-xr-xr-x   1    0    0     229108 Jun 15 2005 [ 449456 00] T8S1FIGHT_SPA.GFC 
+-r-xr-xr-x   1    0    0    4132864 Jun 15 2005 [ 449568 00] T8S1FIGHT_SPA.GOB 
+-r-xr-xr-x   1    0    0     222412 Jun 15 2005 [ 451600 00] T9S1ACTION_FRE.GFC 
+-r-xr-xr-x   1    0    0    2969600 Jun 15 2005 [ 451712 00] T9S1ACTION_FRE.GOB 
+-r-xr-xr-x   1    0    0     222412 Jun 15 2005 [ 453168 00] T9S1ACTION_GER.GFC 
+-r-xr-xr-x   1    0    0    2928640 Jun 15 2005 [ 453280 00] T9S1ACTION_GER.GOB 
+-r-xr-xr-x   1    0    0     218616 Jun 15 2005 [ 454720 00] T9S1ACTION_ITA.GFC 
+-r-xr-xr-x   1    0    0    2887680 Jun 15 2005 [ 454832 00] T9S1ACTION_ITA.GOB 
+-r-xr-xr-x   1    0    0     218616 Jun 15 2005 [ 456256 00] T9S1ACTION_SPA.GFC 
+-r-xr-xr-x   1    0    0    2887680 Jun 15 2005 [ 456368 00] T9S1ACTION_SPA.GOB 
+-r-xr-xr-x   1    0    0     220936 Jun 15 2005 [ 457792 00] T9S2ACTION_FRE.GFC 
+-r-xr-xr-x   1    0    0    2938880 Jun 15 2005 [ 457904 00] T9S2ACTION_FRE.GOB 
+-r-xr-xr-x   1    0    0     220936 Jun 15 2005 [ 459344 00] T9S2ACTION_GER.GFC 
+-r-xr-xr-x   1    0    0    2897920 Jun 15 2005 [ 459456 00] T9S2ACTION_GER.GOB 
+-r-xr-xr-x   1    0    0     217140 Jun 15 2005 [ 460880 00] T9S2ACTION_ITA.GFC 
+-r-xr-xr-x   1    0    0    2856960 Jun 15 2005 [ 460992 00] T9S2ACTION_ITA.GOB 
+-r-xr-xr-x   1    0    0     217140 Jun 15 2005 [ 462400 00] T9S2ACTION_SPA.GFC 
+-r-xr-xr-x   1    0    0    2856960 Jun 15 2005 [ 462512 00] T9S2ACTION_SPA.GOB 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/AUDIO/
+dr-xr-xr-x   1    0    0       2048 Jun 15 2005 [     35 02] . 
+dr-xr-xr-x   1    0    0      16384 Jun 15 2005 [     27 02] .. 
+dr-xr-xr-x   1    0    0       4096 Jun 15 2005 [     39 02] MUSIC 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/LOCALES/
+dr-xr-xr-x   1    0    0       2048 Jun 15 2005 [     36 02] . 
+dr-xr-xr-x   1    0    0      16384 Jun 15 2005 [     27 02] .. 
+-r-xr-xr-x   1    0    0       5892 Jun  6 2005 [ 318352 00] FRENCH.LNG 
+-r-xr-xr-x   1    0    0       5852 Jun 13 2005 [ 318368 00] GERMAN.LNG 
+-r-xr-xr-x   1    0    0       5951 Jun 13 2005 [ 318384 00] ITALIAN.LNG 
+-r-xr-xr-x   1    0    0        575 Mar  7 2005 [ 318400 00] LEGAL.FRE 
+-r-xr-xr-x   1    0    0        593 Mar  7 2005 [ 318416 00] LEGAL.GER 
+-r-xr-xr-x   1    0    0        573 Mar  7 2005 [ 318432 00] LEGAL.ITA 
+-r-xr-xr-x   1    0    0        617 Jun 15 2005 [ 318448 00] LEGAL.SPA 
+-r-xr-xr-x   1    0    0       6028 Jun 15 2005 [ 318464 00] SPANISH.LNG 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/MOVIES/
+dr-xr-xr-x   1    0    0       2048 Jun 15 2005 [     37 02] . 
+dr-xr-xr-x   1    0    0      16384 Jun 15 2005 [     27 02] .. 
+-r-xr-xr-x   1    0    0    1544192 Feb  3 2005 [ 326896 00] ACTIVISN.PMF 
+-r-xr-xr-x   1    0    0   11167744 Jun 13 2005 [ 327664 00] SEQ2_1.PMF 
+-r-xr-xr-x   1    0    0   16867328 Jun 13 2005 [ 333120 00] SEQ2_6.PMF 
+-r-xr-xr-x   1    0    0   12290048 Jun 13 2005 [ 341360 00] SEQ3_1.PMF 
+-r-xr-xr-x   1    0    0    5009408 Jun 13 2005 [ 347376 00] SEQ3_2.PMF 
+-r-xr-xr-x   1    0    0    7460864 Jun 13 2005 [ 349824 00] SEQ3_6.PMF 
+-r-xr-xr-x   1    0    0    6387712 Jun 13 2005 [ 353472 00] SEQ4_1.PMF 
+-r-xr-xr-x   1    0    0    5261312 Jun 13 2005 [ 356592 00] SEQ4_3.PMF 
+-r-xr-xr-x   1    0    0    7497728 Jun 13 2005 [ 359168 00] SEQ6_1.PMF 
+-r-xr-xr-x   1    0    0    7634944 Jun 13 2005 [ 362832 00] SEQ6_5.PMF 
+-r-xr-xr-x   1    0    0    9304064 Jun 13 2005 [ 366560 00] SEQ7_1.PMF 
+-r-xr-xr-x   1    0    0    9478144 Jun 13 2005 [ 371104 00] SEQ7_6.PMF 
+-r-xr-xr-x   1    0    0    9719808 Jun 13 2005 [ 375744 00] SEQ8_1.PMF 
+-r-xr-xr-x   1    0    0    4098048 Jun 13 2005 [ 380496 00] SEQ8_4.PMF 
+-r-xr-xr-x   1    0    0    9037824 Jun 13 2005 [ 382512 00] SEQ8_5.PMF 
+-r-xr-xr-x   1    0    0    6754304 Jun 13 2005 [ 386928 00] SEQ9_1.PMF 
+-r-xr-xr-x   1    0    0    8437760 Jun 13 2005 [ 390240 00] SEQ9_4.PMF 
+-r-xr-xr-x   1    0    0   40886272 Jun 13 2005 [ 394368 00] SEQ9_7.PMF 
+-r-xr-xr-x   1    0    0    2977792 Feb  1 2005 [ 414336 00] TEASER.PMF 
+-r-xr-xr-x   1    0    0     739328 Jan 15 2005 [ 415792 00] VV.PMF 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/PRX/
+dr-xr-xr-x   1    0    0       2048 Jun 15 2005 [     38 02] . 
+dr-xr-xr-x   1    0    0      16384 Jun 15 2005 [     27 02] .. 
+-r-xr-xr-x   1    0    0       3232 Jan 15 2005 [ 416176 00] AUDIOCODEC.PRX 
+-r-xr-xr-x   1    0    0      19524 Jan 15 2005 [ 416192 00] LIBATRAC3PLUS.PRX 
+-r-xr-xr-x   1    0    0      39624 Jan 15 2005 [ 416208 00] MPEG.PRX 
+-r-xr-xr-x   1    0    0       9552 Jan 15 2005 [ 416240 00] MPEGBASE.PRX 
+-r-xr-xr-x   1    0    0       5920 Jan 15 2005 [ 416256 00] SC_SASCORE.PRX 
+-r-xr-xr-x   1    0    0       3808 Jan 15 2005 [ 416272 00] VIDEOCODEC.PRX 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/AUDIO/MUSIC/
+dr-xr-xr-x   1    0    0       4096 Jun 15 2005 [     39 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 15 2005 [     35 02] .. 
+-r-xr-xr-x   1    0    0    1584912 Feb  1 2005 [ 277136 00] BGM_MENU.AT3 
+-r-xr-xr-x   1    0    0     183244 Jan 15 2005 [ 277920 00] DEATH_MUSIC.AT3 
+-r-xr-xr-x   1    0    0    1024272 Jan 15 2005 [ 278016 00] ENDCREDITSMAIN1.AT3 
+-r-xr-xr-x   1    0    0    2389008 Jan 15 2005 [ 278528 00] ENDCREDITSMAIN2.AT3 
+dr-xr-xr-x   1    0    0       4096 Jun 15 2005 [     41 02] FRENCH 
+dr-xr-xr-x   1    0    0       4096 Jun 15 2005 [     43 02] GERMAN 
+dr-xr-xr-x   1    0    0       4096 Jun 15 2005 [     45 02] ITALIAN 
+-r-xr-xr-x   1    0    0     145228 Apr 22 2005 [ 292800 00] SEQ1_1A.AT3 
+-r-xr-xr-x   1    0    0     201676 Apr 22 2005 [ 292880 00] SEQ1_1B.AT3 
+-r-xr-xr-x   1    0    0     262348 Apr 22 2005 [ 292992 00] SEQ1_1C.AT3 
+-r-xr-xr-x   1    0    0     409036 Apr 22 2005 [ 293136 00] SEQ1_1D.AT3 
+-r-xr-xr-x   1    0    0     348748 Apr 22 2005 [ 293344 00] SEQ2_2A.AT3 
+-r-xr-xr-x   1    0    0     361036 Apr 22 2005 [ 293520 00] SEQ2_2B.AT3 
+-r-xr-xr-x   1    0    0      66892 Apr 22 2005 [ 293712 00] SEQ2_2C.AT3 
+-r-xr-xr-x   1    0    0     431692 Apr 22 2005 [ 293760 00] SEQ2_3.AT3 
+-r-xr-xr-x   1    0    0     202444 Apr 22 2005 [ 293984 00] SEQ2_4.AT3 
+-r-xr-xr-x   1    0    0     134092 Apr 22 2005 [ 294096 00] SEQ2_4D.AT3 
+-r-xr-xr-x   1    0    0      84556 Apr 22 2005 [ 294176 00] SEQ2_5.AT3 
+-r-xr-xr-x   1    0    0     200140 Apr 22 2005 [ 294224 00] SEQ2_8.AT3 
+-r-xr-xr-x   1    0    0     277324 Apr 22 2005 [ 294336 00] SEQ3_3A.AT3 
+-r-xr-xr-x   1    0    0     431308 Apr 22 2005 [ 294480 00] SEQ3_4A.AT3 
+-r-xr-xr-x   1    0    0     232396 Apr 22 2005 [ 294704 00] SEQ3_4B.AT3 
+-r-xr-xr-x   1    0    0     280396 Apr 22 2005 [ 294832 00] SEQ3_5.AT3 
+-r-xr-xr-x   1    0    0     235084 Apr 22 2005 [ 294976 00] SEQ4_2.AT3 
+-r-xr-xr-x   1    0    0     262732 Apr 22 2005 [ 295104 00] SEQ4_3A.AT3 
+-r-xr-xr-x   1    0    0     277324 Apr 22 2005 [ 295248 00] SEQ4_4A.AT3 
+-r-xr-xr-x   1    0    0     277324 Apr 22 2005 [ 295392 00] SEQ4_4B.AT3 
+-r-xr-xr-x   1    0    0     116428 Apr 22 2005 [ 295536 00] SEQ4_4F.AT3 
+-r-xr-xr-x   1    0    0     133708 Apr 22 2005 [ 295600 00] SEQ4_4G.AT3 
+-r-xr-xr-x   1    0    0     117196 Apr 22 2005 [ 295680 00] SEQ4_4H.AT3 
+-r-xr-xr-x   1    0    0     199372 Apr 22 2005 [ 295744 00] SEQ4_4I.AT3 
+-r-xr-xr-x   1    0    0     144460 Apr 22 2005 [ 295856 00] SEQ4_4K.AT3 
+-r-xr-xr-x   1    0    0     166348 Apr 22 2005 [ 295936 00] SEQ6_2A.AT3 
+-r-xr-xr-x   1    0    0     270412 Apr 22 2005 [ 296032 00] SEQ6_3B.AT3 
+-r-xr-xr-x   1    0    0     103756 Apr 22 2005 [ 296176 00] SEQ6_3D.AT3 
+-r-xr-xr-x   1    0    0     277324 Apr 22 2005 [ 296240 00] SEQ6_4.AT3 
+-r-xr-xr-x   1    0    0     207820 Apr 22 2005 [ 296384 00] SEQ6_6A.AT3 
+-r-xr-xr-x   1    0    0     100300 Apr 22 2005 [ 296496 00] SEQ7_4A.AT3 
+-r-xr-xr-x   1    0    0     139084 Apr 22 2005 [ 296560 00] SEQ7_4B.AT3 
+-r-xr-xr-x   1    0    0     222796 Apr 22 2005 [ 296640 00] SEQ7_4D.AT3 
+-r-xr-xr-x   1    0    0     389068 Apr 22 2005 [ 296752 00] SEQ7_4E.AT3 
+-r-xr-xr-x   1    0    0     382156 Apr 22 2005 [ 296944 00] SEQ7_5B.AT3 
+-r-xr-xr-x   1    0    0     271564 Apr 22 2005 [ 297136 00] SEQ7_5C.AT3 
+-r-xr-xr-x   1    0    0     194380 Apr 22 2005 [ 297280 00] SEQ7_5D.AT3 
+-r-xr-xr-x   1    0    0     211660 Apr 22 2005 [ 297376 00] SEQ8_2A.AT3 
+-r-xr-xr-x   1    0    0     343756 Apr 22 2005 [ 297488 00] SEQ8_3.AT3 
+-r-xr-xr-x   1    0    0      83788 Apr 22 2005 [ 297664 00] SEQ8_8.AT3 
+-r-xr-xr-x   1    0    0     354892 Apr 22 2005 [ 297712 00] SEQ9_4A.AT3 
+dr-xr-xr-x   1    0    0       4096 Jun 15 2005 [     47 02] SPANISH 
+-r-xr-xr-x   1    0    0    1418256 Feb 11 2005 [ 302256 00] TRACK_00.AT3 
+-r-xr-xr-x   1    0    0    2399376 Feb 11 2005 [ 302960 00] TRACK_02.AT3 
+-r-xr-xr-x   1    0    0    2748432 Feb 11 2005 [ 304144 00] TRACK_03.AT3 
+-r-xr-xr-x   1    0    0    2918544 Feb 11 2005 [ 305488 00] TRACK_04.AT3 
+-r-xr-xr-x   1    0    0    1507344 Feb 11 2005 [ 306928 00] TRACK_06.AT3 
+-r-xr-xr-x   1    0    0    2607120 Feb 11 2005 [ 307680 00] TRACK_07.AT3 
+-r-xr-xr-x   1    0    0    3036048 Feb 11 2005 [ 308960 00] TRACK_08.AT3 
+-r-xr-xr-x   1    0    0    2561424 Feb 11 2005 [ 310448 00] TRACK_10.AT3 
+-r-xr-xr-x   1    0    0    2388240 Feb 11 2005 [ 311712 00] TRACK_11.AT3 
+-r-xr-xr-x   1    0    0    2198928 Feb 11 2005 [ 312880 00] TRACK_12.AT3 
+-r-xr-xr-x   1    0    0    2183568 Feb 11 2005 [ 313968 00] TRACK_14.AT3 
+-r-xr-xr-x   1    0    0    1689744 Feb 11 2005 [ 315040 00] TRACK_15.AT3 
+-r-xr-xr-x   1    0    0    2357136 Feb 11 2005 [ 315872 00] TRACK_16.AT3 
+-r-xr-xr-x   1    0    0    2071440 Feb 11 2005 [ 317024 00] TRACK_17.AT3 
+-r-xr-xr-x   1    0    0      83788 Jan 15 2005 [ 318048 00] VICTORY.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/AUDIO/MUSIC/FRENCH/
+dr-xr-xr-x   1    0    0       4096 Jun 15 2005 [     41 02] . 
+dr-xr-xr-x   1    0    0       4096 Jun 15 2005 [     39 02] .. 
+-r-xr-xr-x   1    0    0     144076 May 12 2005 [ 279696 00] SEQ1_1A.AT3 
+-r-xr-xr-x   1    0    0     260428 Jun 13 2005 [ 279776 00] SEQ1_1C.AT3 
+-r-xr-xr-x   1    0    0     409420 Jun 13 2005 [ 279904 00] SEQ1_1D.AT3 
+-r-xr-xr-x   1    0    0     348364 May 12 2005 [ 280112 00] SEQ2_2A.AT3 
+-r-xr-xr-x   1    0    0     359500 Jun  8 2005 [ 280288 00] SEQ2_2B.AT3 
+-r-xr-xr-x   1    0    0      66892 May 12 2005 [ 280464 00] SEQ2_2C.AT3 
+-r-xr-xr-x   1    0    0     430924 May 12 2005 [ 280512 00] SEQ2_3.AT3 
+-r-xr-xr-x   1    0    0     199372 Jun 15 2005 [ 280736 00] SEQ2_4.AT3 
+-r-xr-xr-x   1    0    0     132940 Jun 13 2005 [ 280848 00] SEQ2_4D.AT3 
+-r-xr-xr-x   1    0    0      84556 Jun  8 2005 [ 280928 00] SEQ2_5.AT3 
+-r-xr-xr-x   1    0    0     199372 May 12 2005 [ 280976 00] SEQ2_8.AT3 
+-r-xr-xr-x   1    0    0     276556 May 12 2005 [ 281088 00] SEQ3_3A.AT3 
+-r-xr-xr-x   1    0    0     431308 May 12 2005 [ 281232 00] SEQ3_4A.AT3 
+-r-xr-xr-x   1    0    0     233164 May 12 2005 [ 281456 00] SEQ3_4B.AT3 
+-r-xr-xr-x   1    0    0     276556 Jun 13 2005 [ 281584 00] SEQ3_5.AT3 
+-r-xr-xr-x   1    0    0     232396 Jun 13 2005 [ 281728 00] SEQ4_2.AT3 
+-r-xr-xr-x   1    0    0     260044 Jun 13 2005 [ 281856 00] SEQ4_3A.AT3 
+-r-xr-xr-x   1    0    0     276556 May 12 2005 [ 281984 00] SEQ4_4A.AT3 
+-r-xr-xr-x   1    0    0     144076 Jun 13 2005 [ 282128 00] SEQ4_4K.AT3 
+-r-xr-xr-x   1    0    0     166348 May 12 2005 [ 282208 00] SEQ6_2A.AT3 
+-r-xr-xr-x   1    0    0     276556 Jun 13 2005 [ 282304 00] SEQ6_3B.AT3 
+-r-xr-xr-x   1    0    0      99916 Jun 13 2005 [ 282448 00] SEQ6_3D.AT3 
+-r-xr-xr-x   1    0    0     276556 May 12 2005 [ 282512 00] SEQ6_4.AT3 
+-r-xr-xr-x   1    0    0     204748 Jun 13 2005 [ 282656 00] SEQ6_6A.AT3 
+-r-xr-xr-x   1    0    0     138700 May 12 2005 [ 282768 00] SEQ7_4B.AT3 
+-r-xr-xr-x   1    0    0     221260 May 12 2005 [ 282848 00] SEQ7_4D.AT3 
+-r-xr-xr-x   1    0    0     309964 Jun 13 2005 [ 282960 00] SEQ7_4E.AT3 
+-r-xr-xr-x   1    0    0     364876 May 12 2005 [ 283120 00] SEQ7_5B.AT3 
+-r-xr-xr-x   1    0    0     270412 May 12 2005 [ 283312 00] SEQ7_5C.AT3 
+-r-xr-xr-x   1    0    0     193996 May 12 2005 [ 283456 00] SEQ7_5D.AT3 
+-r-xr-xr-x   1    0    0     210508 May 12 2005 [ 283552 00] SEQ8_2A.AT3 
+-r-xr-xr-x   1    0    0     342604 May 12 2005 [ 283664 00] SEQ8_3.AT3 
+-r-xr-xr-x   1    0    0      83404 May 12 2005 [ 283840 00] SEQ8_8.AT3 
+-r-xr-xr-x   1    0    0     359500 Jun  8 2005 [ 283888 00] SEQ9_4A.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/AUDIO/MUSIC/GERMAN/
+dr-xr-xr-x   1    0    0       4096 Jun 15 2005 [     43 02] . 
+dr-xr-xr-x   1    0    0       4096 Jun 15 2005 [     39 02] .. 
+-r-xr-xr-x   1    0    0     144076 May 12 2005 [ 284064 00] SEQ1_1A.AT3 
+-r-xr-xr-x   1    0    0     260428 Jun 13 2005 [ 284144 00] SEQ1_1C.AT3 
+-r-xr-xr-x   1    0    0     409420 Jun 13 2005 [ 284272 00] SEQ1_1D.AT3 
+-r-xr-xr-x   1    0    0     348364 May 12 2005 [ 284480 00] SEQ2_2A.AT3 
+-r-xr-xr-x   1    0    0     359500 Jun  8 2005 [ 284656 00] SEQ2_2B.AT3 
+-r-xr-xr-x   1    0    0      66892 May 12 2005 [ 284832 00] SEQ2_2C.AT3 
+-r-xr-xr-x   1    0    0     430924 May 12 2005 [ 284880 00] SEQ2_3.AT3 
+-r-xr-xr-x   1    0    0     199372 Jun 15 2005 [ 285104 00] SEQ2_4.AT3 
+-r-xr-xr-x   1    0    0     132940 Jun 13 2005 [ 285216 00] SEQ2_4D.AT3 
+-r-xr-xr-x   1    0    0      84556 Jun  8 2005 [ 285296 00] SEQ2_5.AT3 
+-r-xr-xr-x   1    0    0     199372 May 12 2005 [ 285344 00] SEQ2_8.AT3 
+-r-xr-xr-x   1    0    0     277324 May 12 2005 [ 285456 00] SEQ3_3A.AT3 
+-r-xr-xr-x   1    0    0     431308 May 12 2005 [ 285600 00] SEQ3_4A.AT3 
+-r-xr-xr-x   1    0    0     233164 May 12 2005 [ 285824 00] SEQ3_4B.AT3 
+-r-xr-xr-x   1    0    0     276556 Jun 13 2005 [ 285952 00] SEQ3_5.AT3 
+-r-xr-xr-x   1    0    0     232396 Jun 13 2005 [ 286096 00] SEQ4_2.AT3 
+-r-xr-xr-x   1    0    0     260044 Jun 13 2005 [ 286224 00] SEQ4_3A.AT3 
+-r-xr-xr-x   1    0    0     276556 May 12 2005 [ 286352 00] SEQ4_4A.AT3 
+-r-xr-xr-x   1    0    0     144076 Jun 13 2005 [ 286496 00] SEQ4_4K.AT3 
+-r-xr-xr-x   1    0    0     166348 May 12 2005 [ 286576 00] SEQ6_2A.AT3 
+-r-xr-xr-x   1    0    0     276556 May 12 2005 [ 286672 00] SEQ6_3B.AT3 
+-r-xr-xr-x   1    0    0      99916 Jun 13 2005 [ 286816 00] SEQ6_3D.AT3 
+-r-xr-xr-x   1    0    0     276556 May 12 2005 [ 286880 00] SEQ6_4.AT3 
+-r-xr-xr-x   1    0    0     204748 Jun 13 2005 [ 287024 00] SEQ6_6A.AT3 
+-r-xr-xr-x   1    0    0     139084 May 12 2005 [ 287136 00] SEQ7_4B.AT3 
+-r-xr-xr-x   1    0    0     221260 May 12 2005 [ 287216 00] SEQ7_4D.AT3 
+-r-xr-xr-x   1    0    0     309964 Jun 13 2005 [ 287328 00] SEQ7_4E.AT3 
+-r-xr-xr-x   1    0    0     364876 May 12 2005 [ 287488 00] SEQ7_5B.AT3 
+-r-xr-xr-x   1    0    0     270412 May 12 2005 [ 287680 00] SEQ7_5C.AT3 
+-r-xr-xr-x   1    0    0     193996 May 12 2005 [ 287824 00] SEQ7_5D.AT3 
+-r-xr-xr-x   1    0    0     210508 May 12 2005 [ 287920 00] SEQ8_2A.AT3 
+-r-xr-xr-x   1    0    0     342604 May 12 2005 [ 288032 00] SEQ8_3.AT3 
+-r-xr-xr-x   1    0    0      83404 May 12 2005 [ 288208 00] SEQ8_8.AT3 
+-r-xr-xr-x   1    0    0     359500 Jun  8 2005 [ 288256 00] SEQ9_4A.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/AUDIO/MUSIC/ITALIAN/
+dr-xr-xr-x   1    0    0       4096 Jun 15 2005 [     45 02] . 
+dr-xr-xr-x   1    0    0       4096 Jun 15 2005 [     39 02] .. 
+-r-xr-xr-x   1    0    0     144076 May 12 2005 [ 288432 00] SEQ1_1A.AT3 
+-r-xr-xr-x   1    0    0     260428 Jun 13 2005 [ 288512 00] SEQ1_1C.AT3 
+-r-xr-xr-x   1    0    0     409420 Jun 13 2005 [ 288640 00] SEQ1_1D.AT3 
+-r-xr-xr-x   1    0    0     348364 May 12 2005 [ 288848 00] SEQ2_2A.AT3 
+-r-xr-xr-x   1    0    0     359500 Jun  8 2005 [ 289024 00] SEQ2_2B.AT3 
+-r-xr-xr-x   1    0    0      66892 May 12 2005 [ 289200 00] SEQ2_2C.AT3 
+-r-xr-xr-x   1    0    0     430924 May 12 2005 [ 289248 00] SEQ2_3.AT3 
+-r-xr-xr-x   1    0    0     199372 Jun 15 2005 [ 289472 00] SEQ2_4.AT3 
+-r-xr-xr-x   1    0    0     132940 Jun 13 2005 [ 289584 00] SEQ2_4D.AT3 
+-r-xr-xr-x   1    0    0      84556 Jun  8 2005 [ 289664 00] SEQ2_5.AT3 
+-r-xr-xr-x   1    0    0     199372 May 12 2005 [ 289712 00] SEQ2_8.AT3 
+-r-xr-xr-x   1    0    0     276556 May 12 2005 [ 289824 00] SEQ3_3A.AT3 
+-r-xr-xr-x   1    0    0     431308 May 12 2005 [ 289968 00] SEQ3_4A.AT3 
+-r-xr-xr-x   1    0    0     233164 May 12 2005 [ 290192 00] SEQ3_4B.AT3 
+-r-xr-xr-x   1    0    0     276556 Jun 13 2005 [ 290320 00] SEQ3_5.AT3 
+-r-xr-xr-x   1    0    0     232396 Jun 13 2005 [ 290464 00] SEQ4_2.AT3 
+-r-xr-xr-x   1    0    0     260044 Jun 13 2005 [ 290592 00] SEQ4_3A.AT3 
+-r-xr-xr-x   1    0    0     276556 May 12 2005 [ 290720 00] SEQ4_4A.AT3 
+-r-xr-xr-x   1    0    0     144076 Jun 13 2005 [ 290864 00] SEQ4_4K.AT3 
+-r-xr-xr-x   1    0    0     166348 May 12 2005 [ 290944 00] SEQ6_2A.AT3 
+-r-xr-xr-x   1    0    0     276556 Jun 13 2005 [ 291040 00] SEQ6_3B.AT3 
+-r-xr-xr-x   1    0    0      99916 Jun 13 2005 [ 291184 00] SEQ6_3D.AT3 
+-r-xr-xr-x   1    0    0     276556 May 12 2005 [ 291248 00] SEQ6_4.AT3 
+-r-xr-xr-x   1    0    0     204748 Jun 13 2005 [ 291392 00] SEQ6_6A.AT3 
+-r-xr-xr-x   1    0    0     138700 May 12 2005 [ 291504 00] SEQ7_4B.AT3 
+-r-xr-xr-x   1    0    0     221260 May 12 2005 [ 291584 00] SEQ7_4D.AT3 
+-r-xr-xr-x   1    0    0     309964 Jun 13 2005 [ 291696 00] SEQ7_4E.AT3 
+-r-xr-xr-x   1    0    0     364876 May 12 2005 [ 291856 00] SEQ7_5B.AT3 
+-r-xr-xr-x   1    0    0     270412 May 12 2005 [ 292048 00] SEQ7_5C.AT3 
+-r-xr-xr-x   1    0    0     193996 May 12 2005 [ 292192 00] SEQ7_5D.AT3 
+-r-xr-xr-x   1    0    0     210508 May 12 2005 [ 292288 00] SEQ8_2A.AT3 
+-r-xr-xr-x   1    0    0     342604 May 12 2005 [ 292400 00] SEQ8_3.AT3 
+-r-xr-xr-x   1    0    0      83404 May 12 2005 [ 292576 00] SEQ8_8.AT3 
+-r-xr-xr-x   1    0    0     359500 Jun  8 2005 [ 292624 00] SEQ9_4A.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/DATA/AUDIO/MUSIC/SPANISH/
+dr-xr-xr-x   1    0    0       4096 Jun 15 2005 [     47 02] . 
+dr-xr-xr-x   1    0    0       4096 Jun 15 2005 [     39 02] .. 
+-r-xr-xr-x   1    0    0     144076 May 12 2005 [ 297888 00] SEQ1_1A.AT3 
+-r-xr-xr-x   1    0    0     260428 Jun 13 2005 [ 297968 00] SEQ1_1C.AT3 
+-r-xr-xr-x   1    0    0     409420 Jun 13 2005 [ 298096 00] SEQ1_1D.AT3 
+-r-xr-xr-x   1    0    0     348364 May 12 2005 [ 298304 00] SEQ2_2A.AT3 
+-r-xr-xr-x   1    0    0     359500 Jun  8 2005 [ 298480 00] SEQ2_2B.AT3 
+-r-xr-xr-x   1    0    0      66892 May 12 2005 [ 298656 00] SEQ2_2C.AT3 
+-r-xr-xr-x   1    0    0     430924 May 12 2005 [ 298704 00] SEQ2_3.AT3 
+-r-xr-xr-x   1    0    0     199372 Jun 15 2005 [ 298928 00] SEQ2_4.AT3 
+-r-xr-xr-x   1    0    0     132940 Jun 13 2005 [ 299040 00] SEQ2_4D.AT3 
+-r-xr-xr-x   1    0    0      84556 May 12 2005 [ 299120 00] SEQ2_5.AT3 
+-r-xr-xr-x   1    0    0     199372 May 12 2005 [ 299168 00] SEQ2_8.AT3 
+-r-xr-xr-x   1    0    0     276556 May 12 2005 [ 299280 00] SEQ3_3A.AT3 
+-r-xr-xr-x   1    0    0     431308 May 12 2005 [ 299424 00] SEQ3_4A.AT3 
+-r-xr-xr-x   1    0    0     233164 May 12 2005 [ 299648 00] SEQ3_4B.AT3 
+-r-xr-xr-x   1    0    0     276556 Jun 13 2005 [ 299776 00] SEQ3_5.AT3 
+-r-xr-xr-x   1    0    0     232396 Jun 13 2005 [ 299920 00] SEQ4_2.AT3 
+-r-xr-xr-x   1    0    0     260044 Jun 13 2005 [ 300048 00] SEQ4_3A.AT3 
+-r-xr-xr-x   1    0    0     276556 May 12 2005 [ 300176 00] SEQ4_4A.AT3 
+-r-xr-xr-x   1    0    0     144076 Jun 13 2005 [ 300320 00] SEQ4_4K.AT3 
+-r-xr-xr-x   1    0    0     166348 May 12 2005 [ 300400 00] SEQ6_2A.AT3 
+-r-xr-xr-x   1    0    0     276556 Jun 13 2005 [ 300496 00] SEQ6_3B.AT3 
+-r-xr-xr-x   1    0    0      99916 Jun 13 2005 [ 300640 00] SEQ6_3D.AT3 
+-r-xr-xr-x   1    0    0     276556 May 12 2005 [ 300704 00] SEQ6_4.AT3 
+-r-xr-xr-x   1    0    0     204748 Jun 13 2005 [ 300848 00] SEQ6_6A.AT3 
+-r-xr-xr-x   1    0    0     138700 May 12 2005 [ 300960 00] SEQ7_4B.AT3 
+-r-xr-xr-x   1    0    0     221260 May 12 2005 [ 301040 00] SEQ7_4D.AT3 
+-r-xr-xr-x   1    0    0     309964 Jun 13 2005 [ 301152 00] SEQ7_4E.AT3 
+-r-xr-xr-x   1    0    0     364876 May 12 2005 [ 301312 00] SEQ7_5B.AT3 
+-r-xr-xr-x   1    0    0     270412 May 12 2005 [ 301504 00] SEQ7_5C.AT3 
+-r-xr-xr-x   1    0    0     193996 May 12 2005 [ 301648 00] SEQ7_5D.AT3 
+-r-xr-xr-x   1    0    0     210508 May 12 2005 [ 301744 00] SEQ8_2A.AT3 
+-r-xr-xr-x   1    0    0     342604 May 12 2005 [ 301856 00] SEQ8_3.AT3 
+-r-xr-xr-x   1    0    0      83404 May 12 2005 [ 302032 00] SEQ8_8.AT3 
+-r-xr-xr-x   1    0    0     359500 Jun  8 2005 [ 302080 00] SEQ9_4A.AT3 
+=============================================================== 
+Generated on Tue 09/08/2022 at  5:38:32.20 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

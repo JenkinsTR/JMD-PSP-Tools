@@ -1,0 +1,106 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Enkeltbillet  
+Title ID: ULJM-06375 
+Region: Japan  
+Languages:   
+Volume Creation Date: 2014-06-15 22:11:32 
+Volume Size: 1401 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: 
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 717696
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Jun 15 2014 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 15 2014 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2014 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Feb 21 2014 [     30 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Feb 21 2014 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 15 2014 [     22 02] .. 
+-r-xr-xr-x   1    0    0      22638 Oct 29 2013 [  56304 00] ICON0.PNG 
+dr-xr-xr-x   1    0    0       2048 Jan 28 2014 [     24 02] INSDIR 
+-r-xr-xr-x   1    0    0        560 Jun 11 2014 [  56320 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     220150 Oct 10 2013 [  56336 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2014 [     25 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 May 30 2014 [     26 02] USRDIR 
+
+Directory listing of /PSP_GAME/INSDIR/
+dr-xr-xr-x   1    0    0       2048 Jan 28 2014 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2014 [     23 02] .. 
+-r-xr-xr-x   1    0    0   77511344 Jun 15 2014 [ 150736 00] BGM.PAK 
+-r-xr-xr-x   1    0    0  192845264 Jun 15 2014 [  56448 00] DATA.PAK 
+-r-xr-xr-x   1    0    0      22928 Jun 15 2014 [ 150624 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     196240 Jun 15 2014 [ 150640 00] PIC1.PNG 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Feb 21 2014 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2014 [     23 02] .. 
+-r-xr-xr-x   1    0    0    3056141 Jun 15 2014 [  54800 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    3056480 Jun 15 2014 [    544 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0        880 Feb 21 2014 [     32 00] OPNSSMP.BIN 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2014 [     27 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 May 30 2014 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2014 [     23 02] .. 
+-r-xr-xr-x   1    0    0   76318720 Jun 15 2014 [ 188592 00] BGM.PAK 
+-r-xr-xr-x   1    0    0    1402771 Jun 15 2014 [ 225872 00] CORE.DAT 
+-r-xr-xr-x   1    0    0  189878272 Jun 15 2014 [ 226560 00] DATA.PAK 
+dr-xr-xr-x   1    0    0       2048 May 29 2014 [     28 02] MOVIE 
+dr-xr-xr-x   1    0    0       2048 May 29 2014 [     29 02] SCREENSHOT 
+-r-xr-xr-x   1    0    0     275000 Jun 11 2014 [ 319280 00] VOICE.IDX 
+-r-xr-xr-x   1    0    0  793962496 Jun 11 2014 [ 319424 00] VOICE.PAK 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Feb 21 2014 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 21 2014 [     25 02] .. 
+-r-xr-xr-x   1    0    0   26876352 Feb 21 2014 [   6160 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5718512 Feb 21 2014 [   2064 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Feb 21 2014 [   2048 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/MOVIE/
+dr-xr-xr-x   1    0    0       2048 May 29 2014 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 May 30 2014 [     26 02] .. 
+-r-xr-xr-x   1    0    0     475136 Sep 10 2013 [ 707104 00] ICHI_LOGO.PMF 
+-r-xr-xr-x   1    0    0     940032 Sep 10 2013 [ 707344 00] IF_LOGO.PMF 
+-r-xr-xr-x   1    0    0   19382272 May  9 2014 [ 707808 00] OP.PMF 
+-r-xr-xr-x   1    0    0     622592 Sep 10 2013 [ 717280 00] OTOMEITO_LOGO.PMF 
+
+Directory listing of /PSP_GAME/USRDIR/SCREENSHOT/
+dr-xr-xr-x   1    0    0       2048 May 29 2014 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 May 30 2014 [     26 02] .. 
+-r-xr-xr-x   1    0    0     196240 Oct 22 2013 [ 717584 00] BG.PNG 
+-r-xr-xr-x   1    0    0      22638 Mar 26 2014 [ 717680 00] ICON.PNG 
+=============================================================== 
+Generated on Sat 20/08/2022 at 11:11:12.77 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

@@ -1,0 +1,75 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: 7 At One Stroke - UMD Demo by Sony DCE  
+Title ID: UMD_Authoring_Demo 
+Region: Europe  
+Languages:   
+Volume Creation Date: 2005-04-25 14:49:07 
+Volume Size: 28 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: UMD VIDEO
+Volume id: UMD_AD
+Volume set id: 1
+Publisher id: SONY DCE
+Data preparer id: SONY DCE
+Application id: UMD VIDEO
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 14448
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Apr 25 2005 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 25 2005 [     22 02] .. 
+-r-xr-xr-x   1    0    0         48 Apr 25 2005 [     27 00] UMD_DATA.BIN 
+dr-xr-xr-x   1    0    0       2048 Apr 25 2005 [     23 02] UMD_VIDEO 
+
+Directory listing of /UMD_VIDEO/
+dr-xr-xr-x   1    0    0       2048 Apr 25 2005 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 25 2005 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Apr 25 2005 [     24 02] RESOURCE 
+dr-xr-xr-x   1    0    0       2048 Apr 25 2005 [     25 02] CLIPINF 
+dr-xr-xr-x   1    0    0       2048 Apr 25 2005 [     26 02] STREAM 
+-r-xr-xr-x   1    0    0        208 Apr 28 2005 [  14208 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     253952 Apr 25 2005 [  14224 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0       6534 Apr 25 2005 [  14352 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0      99670 Apr 26 2005 [  14368 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0       1254 Apr 26 2005 [  14432 00] PLAYLIST.UMD 
+
+Directory listing of /UMD_VIDEO/RESOURCE/
+dr-xr-xr-x   1    0    0       2048 Apr 25 2005 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 25 2005 [     23 02] .. 
+-r-xr-xr-x   1    0    0     154356 Apr 26 2005 [     48 00] EN100000.RCO 
+
+Directory listing of /UMD_VIDEO/CLIPINF/
+dr-xr-xr-x   1    0    0       2048 Apr 25 2005 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 25 2005 [     23 02] .. 
+-r-xr-xr-x   1    0    0       1238 Apr 25 2005 [     32 00] 00001.CLP 
+
+Directory listing of /UMD_VIDEO/STREAM/
+dr-xr-xr-x   1    0    0       2048 Apr 25 2005 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 25 2005 [     23 02] .. 
+-r-xr-xr-x   1    0    0   28827648 Apr 25 2005 [    128 00] 00001.MPS 
+=============================================================== 
+Generated on Thu 18/08/2022 at 17:58:28.30 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

@@ -1,0 +1,136 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Doko Demo Issho  
+Title ID: UCJS-10002 
+Region: Japan  
+Languages:   
+Volume Creation Date: 2004-11-22 00:04:03 
+Volume Size: 403 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: DOKODEMO_ISSYO
+Volume set id: DOKODEMO_ISSYO
+Publisher id: SCEJ
+Data preparer id: SCEJ
+Application id: PSP GAME
+Copyright File id: SCEJ
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 206448
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Nov 22 2004 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 22 2004 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov  7 2004 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Nov  7 2004 [    688 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Nov  7 2004 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 22 2004 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov  7 2004 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Oct 16 2004 [     25 02] USRDIR 
+-r-xr-xr-x   1    0    0      24493 Nov  1 2004 [   2576 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     147456 Nov  1 2004 [   2592 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 Nov 22 2004 [   2672 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      92891 Nov  1 2004 [   2688 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0     146611 Nov 17 2004 [   2736 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0      77724 Oct 29 2004 [   2816 00] SND0.AT3 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Nov  7 2004 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov  7 2004 [     23 02] .. 
+-r-xr-xr-x   1    0    0    1341456 Nov 22 2004 [     32 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0    1341110 Nov 22 2004 [    704 00] BOOT.BIN 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Oct 16 2004 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov  7 2004 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov 14 2004 [     26 02] data 
+dr-xr-xr-x   1    0    0       2048 Nov  7 2004 [     27 02] prx 
+
+Directory listing of /PSP_GAME/USRDIR/data/
+dr-xr-xr-x   1    0    0       2048 Nov 14 2004 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 16 2004 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct 16 2004 [     28 02] sound 
+-r-xr-xr-x   1    0    0  406898688 Nov 22 2004 [   7760 00] DATA.BP 
+
+Directory listing of /PSP_GAME/USRDIR/prx/
+dr-xr-xr-x   1    0    0       2048 Nov  7 2004 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 16 2004 [     25 02] .. 
+-r-xr-xr-x   1    0    0       3232 Nov 16 2004 [   1360 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0      10832 Nov 16 2004 [   1376 00] ifhandle.prx 
+-r-xr-xr-x   1    0    0      19524 Nov 16 2004 [   1392 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0      15216 Nov 16 2004 [   1408 00] memab.prx 
+-r-xr-xr-x   1    0    0      60256 Nov 16 2004 [   1424 00] pspnet.prx 
+-r-xr-xr-x   1    0    0      40140 Nov 16 2004 [   1456 00] pspnet_adhoc.prx 
+-r-xr-xr-x   1    0    0      36416 Nov 18 2004 [   1488 00] pspnet_adhocctl.prx 
+-r-xr-xr-x   1    0    0      10816 Nov 16 2004 [   1520 00] pspnet_adhoc_auth.prx 
+-r-xr-xr-x   1    0    0       5920 Nov 16 2004 [   1536 00] sc_sascore.prx 
+
+Directory listing of /PSP_GAME/USRDIR/data/sound/
+dr-xr-xr-x   1    0    0       2048 Oct 16 2004 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 14 2004 [     26 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct 16 2004 [     29 02] bgm 
+dr-xr-xr-x   1    0    0       2048 Oct 16 2004 [     30 02] se 
+
+Directory listing of /PSP_GAME/USRDIR/data/sound/bgm/
+dr-xr-xr-x   1    0    0       2048 Oct 16 2004 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 16 2004 [     28 02] .. 
+-r-xr-xr-x   1    0    0     321904 Sep 28 2004 [   4848 00] BGM_DAYORI.sgd 
+-r-xr-xr-x   1    0    0     249504 Sep 28 2004 [   3696 00] BGM_BYE.sgd 
+-r-xr-xr-x   1    0    0    1766064 Sep 29 2004 [   3824 00] BGM_ENDING.sgd 
+-r-xr-xr-x   1    0    0     301936 Nov 14 2004 [   4688 00] BGM_GUIDE.sgd 
+-r-xr-xr-x   1    0    0    1673392 Sep 28 2004 [   2864 00] BGM_TITLE.sgd 
+-r-xr-xr-x   1    0    0     269296 Nov 14 2004 [   5008 00] BGM_TSUSHIN.sgd 
+-r-xr-xr-x   1    0    0     257184 Sep 28 2004 [   5152 00] asa1.sgd 
+-r-xr-xr-x   1    0    0     245472 Sep 28 2004 [   5280 00] asa2.sgd 
+-r-xr-xr-x   1    0    0     227808 Sep 28 2004 [   5408 00] asa3.sgd 
+-r-xr-xr-x   1    0    0     257952 Sep 28 2004 [   5520 00] hiru1.sgd 
+-r-xr-xr-x   1    0    0     245088 Sep 28 2004 [   5648 00] hiru2.sgd 
+-r-xr-xr-x   1    0    0     284448 Sep 28 2004 [   5776 00] hiru3.sgd 
+-r-xr-xr-x   1    0    0     243552 Sep 28 2004 [   5920 00] hiru4.sgd 
+-r-xr-xr-x   1    0    0     239520 Sep 28 2004 [   6048 00] hiru5.sgd 
+-r-xr-xr-x   1    0    0     297696 Nov 11 2004 [   6176 00] hiru6.sgd 
+-r-xr-xr-x   1    0    0     276960 Sep 28 2004 [   6336 00] yoru1.sgd 
+-r-xr-xr-x   1    0    0     314592 Sep 28 2004 [   6480 00] yoru2.sgd 
+-r-xr-xr-x   1    0    0     255648 Sep 28 2004 [   6640 00] yoru3.sgd 
+-r-xr-xr-x   1    0    0     321312 Nov 11 2004 [   6768 00] yoru4.sgd 
+-r-xr-xr-x   1    0    0     271392 Sep 28 2004 [   6928 00] yoru5.sgd 
+-r-xr-xr-x   1    0    0     293472 Sep 28 2004 [   7072 00] yoru6.sgd 
+-r-xr-xr-x   1    0    0     314016 Sep 28 2004 [   7216 00] yoru7.sgd 
+-r-xr-xr-x   1    0    0     261600 Sep 28 2004 [   7376 00] yuu1.sgd 
+-r-xr-xr-x   1    0    0     254880 Sep 28 2004 [   7504 00] yuu2.sgd 
+-r-xr-xr-x   1    0    0     247008 Sep 28 2004 [   7632 00] yuu3.sgd 
+
+Directory listing of /PSP_GAME/USRDIR/data/sound/se/
+dr-xr-xr-x   1    0    0       2048 Oct 16 2004 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 16 2004 [     28 02] .. 
+-r-xr-xr-x   1    0    0     357312 Nov 14 2004 [   1552 00] SE_CHA_I.sgd 
+-r-xr-xr-x   1    0    0     343008 Nov 14 2004 [   1728 00] SE_CHA_K.sgd 
+-r-xr-xr-x   1    0    0     366784 Nov 14 2004 [   1904 00] SE_CHA_N.sgd 
+-r-xr-xr-x   1    0    0     348064 Nov 14 2004 [   2096 00] SE_CHA_R.sgd 
+-r-xr-xr-x   1    0    0     327104 Nov 14 2004 [   2272 00] SE_CHA_U.sgd 
+-r-xr-xr-x   1    0    0     288368 Nov 14 2004 [   2432 00] SE_SYS.sgd 
+=============================================================== 
+Generated on Sat 20/08/2022 at  1:56:46.42 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

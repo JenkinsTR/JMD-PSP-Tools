@@ -1,0 +1,155 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Crash - Mind over Mutant   
+Title ID: ULES-01172 
+Region: Europe  
+Languages: Es,It  
+Volume Creation Date: 2008-09-10 12:39:43 
+Volume Size: 1503 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 1
+Volume set id: 1
+Publisher id: 
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 769968
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Sep 10 2008 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 10 2008 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 10 2008 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Sep 10 2008 [     30 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Sep 10 2008 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 10 2008 [     22 02] .. 
+-r-xr-xr-x   1    0    0      18227 Jul 28 2008 [  57360 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     442368 Aug  6 2008 [  57376 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 Aug 19 2008 [  57600 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     214493 Jul  4 2008 [  57616 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Sep 10 2008 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Sep 10 2008 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Sep 10 2008 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 10 2008 [     23 02] .. 
+-r-xr-xr-x   1    0    0    8298969 Sep  7 2008 [  57728 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    8299312 Sep 10 2008 [     32 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Sep 10 2008 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Sep 10 2008 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 10 2008 [     23 02] .. 
+-r-xr-xr-x   1    0    0     169937 Jul 23 2008 [ 360160 00] SAVEBG.PNG 
+-r-xr-xr-x   1    0    0      18707 Sep 10 2008 [ 360256 00] SAVEICON_Italian.PNG 
+-r-xr-xr-x   1    0    0      18592 Sep 10 2008 [ 360272 00] SAVEICON_Spanish.PNG 
+-r-xr-xr-x   1    0    0  267826953 Sep  7 2008 [  61792 00] default.rcf 
+-r-xr-xr-x   1    0    0  343191432 Sep  5 2008 [ 192576 00] italian.rcf 
+dr-xr-xr-x   1    0    0       2048 Sep  4 2008 [     27 02] modules 
+dr-xr-xr-x   1    0    0       4096 Sep  4 2008 [     28 02] movies 
+-r-xr-xr-x   1    0    0  125368332 Sep  5 2008 [ 360288 00] sound.rcf 
+-r-xr-xr-x   1    0    0  330477632 Sep  5 2008 [ 608592 00] spanish.rcf 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Sep 10 2008 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 10 2008 [     24 02] .. 
+-r-xr-xr-x   1    0    0   20544736 Sep 10 2008 [   8208 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5216752 Sep 10 2008 [   4112 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Sep 10 2008 [   4096 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/modules/
+dr-xr-xr-x   1    0    0       2048 Sep  4 2008 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 10 2008 [     25 02] .. 
+-r-xr-xr-x   1    0    0       3312 Jul 23 2008 [ 421504 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0       1088 Jul 23 2008 [ 421520 00] libadler.prx 
+-r-xr-xr-x   1    0    0      10928 Jul 23 2008 [ 421536 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0       1472 Jul 23 2008 [ 421552 00] libbase64.prx 
+-r-xr-xr-x   1    0    0       3520 Jul 23 2008 [ 421568 00] libccc.prx 
+-r-xr-xr-x   1    0    0       4416 Jul 23 2008 [ 421584 00] libdeflt.prx 
+-r-xr-xr-x   1    0    0      23456 Jul 23 2008 [ 421600 00] libfont.prx 
+-r-xr-xr-x   1    0    0       4192 Jul 23 2008 [ 421616 00] libfpu.prx 
+-r-xr-xr-x   1    0    0       2400 Jul 23 2008 [ 421632 00] libmd5.prx 
+-r-xr-xr-x   1    0    0       1312 Jul 23 2008 [ 421648 00] libmt19937.prx 
+-r-xr-xr-x   1    0    0       1952 Jul 23 2008 [ 421664 00] libqpcode.prx 
+-r-xr-xr-x   1    0    0       2576 Jul 23 2008 [ 421680 00] libsha1.prx 
+-r-xr-xr-x   1    0    0      20096 Jul 23 2008 [ 421696 00] mpeg.prx 
+-r-xr-xr-x   1    0    0       5392 Jul 23 2008 [ 421712 00] mpegbase.prx 
+-r-xr-xr-x   1    0    0       7440 Jul 23 2008 [ 421728 00] psmf.prx 
+-r-xr-xr-x   1    0    0       2000 Jul 23 2008 [ 421744 00] pspnet_ap_dialog_dummy.prx 
+-r-xr-xr-x   1    0    0       6832 Jul 23 2008 [ 421776 00] sc_sascore.prx 
+-r-xr-xr-x   1    0    0      31792 Jul 23 2008 [ 421760 00] scan.prx 
+-r-xr-xr-x   1    0    0      29520 Jul 23 2008 [ 421792 00] show_macaddr.prx 
+-r-xr-xr-x   1    0    0      15072 Jul 23 2008 [ 421808 00] usbpspcm.prx 
+-r-xr-xr-x   1    0    0       3504 Jul 23 2008 [ 421824 00] videocodec.prx 
+
+Directory listing of /PSP_GAME/USRDIR/movies/
+dr-xr-xr-x   1    0    0       4096 Sep  4 2008 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 10 2008 [     25 02] .. 
+-r-xr-xr-x   1    0    0     423936 Jul 23 2008 [ 421840 00] CAM_l8_r2_buttonorange_open.pmf 
+-r-xr-xr-x   1    0    0    7727104 Jul 23 2008 [ 422048 00] Crash_01.pmf 
+-r-xr-xr-x   1    0    0    7245824 Jul 23 2008 [ 442000 00] Crash_02.CD 
+-r-xr-xr-x   1    0    0    7239680 Aug 28 2008 [ 434928 00] Crash_02_IT.pmf 
+-r-xr-xr-x   1    0    0    7239680 Aug 28 2008 [ 438464 00] Crash_02_SP.pmf 
+-r-xr-xr-x   1    0    0   14211072 Aug 28 2008 [ 445552 00] Crash_03_IT.pmf 
+-r-xr-xr-x   1    0    0   14211072 Aug 28 2008 [ 452496 00] Crash_03_SP.pmf 
+-r-xr-xr-x   1    0    0    7751680 Aug  7 2008 [ 459440 00] Crash_04_IT.pmf 
+-r-xr-xr-x   1    0    0    7751680 Aug  7 2008 [ 463232 00] Crash_04_SP.pmf 
+-r-xr-xr-x   1    0    0   10063872 Aug  7 2008 [ 467024 00] Crash_05_IT.pmf 
+-r-xr-xr-x   1    0    0   10063872 Aug  7 2008 [ 471952 00] Crash_05_SP.pmf 
+-r-xr-xr-x   1    0    0    8960000 Aug 28 2008 [ 476880 00] Crash_06_IT.pmf 
+-r-xr-xr-x   1    0    0    8960000 Aug 28 2008 [ 481264 00] Crash_06_SP.pmf 
+-r-xr-xr-x   1    0    0    6508544 Aug  7 2008 [ 485648 00] Crash_07_IT.pmf 
+-r-xr-xr-x   1    0    0    6508544 Aug  7 2008 [ 488832 00] Crash_07_SP.pmf 
+-r-xr-xr-x   1    0    0   21454848 Aug  7 2008 [ 492016 00] Crash_08_IT.pmf 
+-r-xr-xr-x   1    0    0   21454848 Aug  7 2008 [ 502496 00] Crash_08_SP.pmf 
+-r-xr-xr-x   1    0    0    6129664 Aug  7 2008 [ 512976 00] Crash_10_IT.pmf 
+-r-xr-xr-x   1    0    0    6129664 Aug  7 2008 [ 515984 00] Crash_10_SP.pmf 
+-r-xr-xr-x   1    0    0   12398592 Aug  7 2008 [ 518992 00] Crash_11_IT.pmf 
+-r-xr-xr-x   1    0    0   12398592 Aug  7 2008 [ 525056 00] Crash_11_SP.pmf 
+-r-xr-xr-x   1    0    0   12183552 Aug 28 2008 [ 531120 00] Crash_13_IT.pmf 
+-r-xr-xr-x   1    0    0   12183552 Aug 28 2008 [ 537072 00] Crash_13_SP.pmf 
+-r-xr-xr-x   1    0    0    3383296 Aug  7 2008 [ 543024 00] Crash_14_IT.pmf 
+-r-xr-xr-x   1    0    0    3383296 Aug  7 2008 [ 544688 00] Crash_14_SP.pmf 
+-r-xr-xr-x   1    0    0   11837440 Aug  7 2008 [ 546352 00] Crash_15_IT.pmf 
+-r-xr-xr-x   1    0    0   11837440 Aug  7 2008 [ 552144 00] Crash_15_SP.pmf 
+-r-xr-xr-x   1    0    0   14045184 Aug  7 2008 [ 557936 00] Crash_16_IT.pmf 
+-r-xr-xr-x   1    0    0   14045184 Aug  7 2008 [ 564800 00] Crash_16_SP.pmf 
+-r-xr-xr-x   1    0    0   11278336 Aug  7 2008 [ 571664 00] Crash_17_IT.pmf 
+-r-xr-xr-x   1    0    0   11278336 Aug  7 2008 [ 577184 00] Crash_17_SP.pmf 
+-r-xr-xr-x   1    0    0   15355904 Aug  7 2008 [ 582704 00] Crash_18_IT.pmf 
+-r-xr-xr-x   1    0    0   15355904 Aug  7 2008 [ 590208 00] Crash_18_SP.pmf 
+-r-xr-xr-x   1    0    0   11128832 Aug  7 2008 [ 597712 00] Crash_19_IT.pmf 
+-r-xr-xr-x   1    0    0   11128832 Aug  7 2008 [ 603152 00] Crash_19_SP.pmf 
+-r-xr-xr-x   1    0    0    3854336 Aug  4 2008 [ 430512 00] L9_r1_parafox_establish.pmf 
+-r-xr-xr-x   1    0    0    8769536 Aug  5 2008 [ 425824 00] crash_mom_attract.pmf 
+-r-xr-xr-x   1    0    0     817152 Jul 23 2008 [ 430112 00] dolby.pmf 
+-r-xr-xr-x   1    0    0    1544192 Aug 22 2008 [ 432400 00] radical.pmf 
+-r-xr-xr-x   1    0    0     671744 Jul 23 2008 [ 433168 00] sierra.pmf 
+-r-xr-xr-x   1    0    0    2912256 Jul 23 2008 [ 433504 00] svs.pmf 
+=============================================================== 
+Generated on Tue 09/08/2022 at  5:37:07.82 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

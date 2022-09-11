@@ -1,0 +1,102 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: God Eater  
+Title ID: ULJS-00237 
+Region: Japan  
+Languages:   
+Volume Creation Date: 2009-12-25 00:56:49 
+Volume Size: 1279 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: 
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 655136
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Dec 25 2009 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 25 2009 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 May 22 2009 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 May 22 2009 [     30 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 May 22 2009 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 25 2009 [     22 02] .. 
+-r-xr-xr-x   1    0    0      22351 Dec 25 2009 [  55376 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     303104 Dec 25 2009 [  55520 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        560 Dec 25 2009 [  55360 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     246234 Dec 25 2009 [  55392 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0     205128 Dec 25 2009 [  55680 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 May 22 2009 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Dec 25 2009 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 May 22 2009 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 May 22 2009 [     23 02] .. 
+-r-xr-xr-x   1    0    0    3157332 Dec 25 2009 [  55792 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    3157680 Dec 25 2009 [    544 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0        752 Oct 23 2009 [     32 00] OPNSSMP.BIN 
+dr-xr-xr-x   1    0    0       2048 May 22 2009 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Dec 25 2009 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 May 22 2009 [     23 02] .. 
+-r-xr-xr-x   1    0    0    3711880 Nov  5 2009 [ 583408 00] DOCUMENT.DAT 
+-r-xr-xr-x   1    0    0  143147360 Nov  5 2009 [ 585232 00] EBOOT.PBP 
+-r-xr-xr-x   1    0    0    2412984 Dec 25 2009 [  57712 00] god_g000_Field.bin 
+dr-xr-xr-x   1    0    0       2048 Dec 25 2009 [     27 02] modules 
+-r-xr-xr-x   1    0    0 1074200576 Dec 25 2009 [  58896 00] package.rdp 
+dr-xr-xr-x   1    0    0       2048 Dec 25 2009 [     28 02] src 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 May 22 2009 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 May 22 2009 [     24 02] .. 
+-r-xr-xr-x   1    0    0   23372384 May 22 2009 [   6208 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5545568 May 22 2009 [   2112 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 May 22 2009 [   2096 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/modules/
+dr-xr-xr-x   1    0    0       2048 Dec 25 2009 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 25 2009 [     25 02] .. 
+-r-xr-xr-x   1    0    0       3024 Dec 25 2009 [  57376 00] libccc.prx 
+-r-xr-xr-x   1    0    0       4144 Dec 25 2009 [  57360 00] libdeflt.prx 
+-r-xr-xr-x   1    0    0      20688 Dec 25 2009 [  57344 00] libfont.prx 
+-r-xr-xr-x   1    0    0       2000 Dec 25 2009 [  57392 00] libmd5.prx 
+
+Directory listing of /PSP_GAME/USRDIR/src/
+dr-xr-xr-x   1    0    0       2048 Dec 25 2009 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 25 2009 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Dec 25 2009 [     29 02] system 
+
+Directory listing of /PSP_GAME/USRDIR/src/system/
+dr-xr-xr-x   1    0    0       2048 Dec 25 2009 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 25 2009 [     28 02] .. 
+-r-xr-xr-x   1    0    0     597536 Dec 25 2009 [  57408 00] system.res 
+=============================================================== 
+Generated on Mon 22/08/2022 at  0:29:12.52 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

@@ -1,0 +1,928 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: DreamWorks Shrek the Third   
+Title ID: ULES-00813 
+Region: Europe  
+Languages: En,Fr,De,Es,It,Nl  
+Volume Creation Date: 2007-06-11 15:06:51 
+Volume Size: 1026 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: AMAZE
+Volume set id: AMAZE
+Publisher id: AMAZE
+Data preparer id: AMAZE
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 525648
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Jun 11 2007 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 11 2007 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 11 2007 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Jun 11 2007 [     90 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Jun 11 2007 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 11 2007 [     22 02] .. 
+-r-xr-xr-x   1    0    0      23877 Apr 17 2007 [  23440 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     421888 Apr 17 2007 [  23456 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 Jun 11 2007 [  23424 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     278892 Apr 27 2007 [  23280 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0      76052 Apr 17 2007 [  23232 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 Jun 11 2007 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Jun 11 2007 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Jun 11 2007 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 11 2007 [     23 02] .. 
+-r-xr-xr-x   1    0    0    5388113 Jun  8 2007 [  23664 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    5388464 Jun 11 2007 [     96 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Jun 11 2007 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Jun 11 2007 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 11 2007 [     23 02] .. 
+-r-xr-xr-x   1    0    0        688 Apr 27 2007 [ 525632 00] .sconsign 
+-r-xr-xr-x   1    0    0      56020 Apr 17 2007 [  26304 00] animlist.res 
+dr-xr-xr-x   1    0    0       6144 Apr 18 2007 [     27 02] characters 
+-r-xr-xr-x   1    0    0   10253056 Apr 23 2007 [  26336 00] fx.res 
+-r-xr-xr-x   1    0    0     651200 Apr 17 2007 [  31344 00] interface.res 
+-r-xr-xr-x   1    0    0       3492 Apr 17 2007 [  31664 00] levellist.res 
+dr-xr-xr-x   1    0    0       2048 Apr 27 2007 [     30 02] levels 
+dr-xr-xr-x   1    0    0       2048 May 23 2007 [     31 02] loc 
+-r-xr-xr-x   1    0    0    1073904 Apr 27 2007 [  31680 00] lua.res 
+-r-xr-xr-x   1    0    0    6891888 Apr 17 2007 [  32208 00] menu_end_game.res 
+-r-xr-xr-x   1    0    0    6707180 Apr 18 2007 [  35584 00] menu_front.res 
+-r-xr-xr-x   1    0    0     537904 Apr 18 2007 [  38864 00] menu_ingame_multi.res 
+dr-xr-xr-x   1    0    0       2048 Apr 17 2007 [     32 02] module 
+dr-xr-xr-x   1    0    0       2048 Apr 17 2007 [     33 02] movies 
+dr-xr-xr-x   1    0    0       2048 Apr 17 2007 [     34 02] savegame 
+-r-xr-xr-x   1    0    0     379436 Apr 17 2007 [  39136 00] sounds.res 
+-r-xr-xr-x   1    0    0  112513888 Apr 12 2007 [  39328 00] streams.res 
+-r-xr-xr-x   1    0    0      31692 Apr 17 2007 [  94272 00] system.res 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Jun 11 2007 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 11 2007 [     24 02] .. 
+-r-xr-xr-x   1    0    0   16820256 Jun 11 2007 [   6848 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5214848 Jun 11 2007 [   2752 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Jun 11 2007 [   2736 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/characters/
+dr-xr-xr-x   1    0    0       6144 Apr 18 2007 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 11 2007 [     25 02] .. 
+-r-xr-xr-x   1    0    0       5470 Apr 18 2007 [  94288 00] .sconsign 
+-r-xr-xr-x   1    0    0     240812 Apr 18 2007 [  94304 00] artie_1.res 
+-r-xr-xr-x   1    0    0     113296 Apr 17 2007 [  94432 00] artie_2.res 
+-r-xr-xr-x   1    0    0      80452 Apr 17 2007 [  94496 00] baby_shrek.res 
+-r-xr-xr-x   1    0    0     248536 Apr 18 2007 [  94544 00] bandits.res 
+-r-xr-xr-x   1    0    0      17860 Apr 17 2007 [  94672 00] beaver.res 
+-r-xr-xr-x   1    0    0      15448 Apr 17 2007 [  94688 00] broom.res 
+-r-xr-xr-x   1    0    0      97724 Apr 12 2007 [  94704 00] captain_hook.res 
+-r-xr-xr-x   1    0    0      64868 Apr 12 2007 [  94752 00] captain_hook_02.res 
+-r-xr-xr-x   1    0    0      75104 Apr 17 2007 [  94784 00] cheerleader.res 
+-r-xr-xr-x   1    0    0      32424 Apr 17 2007 [  94832 00] crow.res 
+-r-xr-xr-x   1    0    0     117240 Apr 18 2007 [  94848 00] cyclops.res 
+-r-xr-xr-x   1    0    0       7744 Apr 17 2007 [  94912 00] dagger.res 
+-r-xr-xr-x   1    0    0     310180 Apr 18 2007 [  94928 00] donkey_1.res 
+-r-xr-xr-x   1    0    0      97780 Apr 17 2007 [  95088 00] donkey_2.res 
+-r-xr-xr-x   1    0    0     117688 Apr 17 2007 [  95136 00] dragon.res 
+-r-xr-xr-x   1    0    0     127624 Apr 17 2007 [  95200 00] dummy_artie.res 
+-r-xr-xr-x   1    0    0     127076 Apr 17 2007 [  95264 00] dummy_donkey.res 
+-r-xr-xr-x   1    0    0     136324 Apr 17 2007 [  95328 00] dummy_peasant_3.res 
+-r-xr-xr-x   1    0    0     128000 Apr 17 2007 [  95408 00] dummy_puss.res 
+-r-xr-xr-x   1    0    0     191380 Apr 17 2007 [  95472 00] elcamino_cart.res 
+-r-xr-xr-x   1    0    0     301496 Apr 18 2007 [  95568 00] evil_knight_1.res 
+-r-xr-xr-x   1    0    0     129420 Apr 17 2007 [  95728 00] evil_knight_2.res 
+-r-xr-xr-x   1    0    0     215580 Apr 18 2007 [  95792 00] evil_knight_3.res 
+-r-xr-xr-x   1    0    0     151892 Apr 17 2007 [  95904 00] evil_knight_4.res 
+-r-xr-xr-x   1    0    0     134016 Apr 18 2007 [  95984 00] evil_pinocchio_1.res 
+-r-xr-xr-x   1    0    0      88184 Apr 12 2007 [  96064 00] evil_pinocchio_2.res 
+-r-xr-xr-x   1    0    0      57268 Apr 17 2007 [  96112 00] evil_queen.res 
+-r-xr-xr-x   1    0    0     202212 Apr 18 2007 [  96144 00] evil_tree_1.res 
+-r-xr-xr-x   1    0    0      86320 Apr 12 2007 [  96256 00] evil_tree_2.res 
+-r-xr-xr-x   1    0    0     121160 Apr 17 2007 [  96304 00] evil_tree_3.res 
+-r-xr-xr-x   1    0    0      99336 Apr 17 2007 [  96368 00] fiona_funeral.res 
+-r-xr-xr-x   1    0    0     118988 Apr 17 2007 [  96432 00] fiona_multi.res 
+-r-xr-xr-x   1    0    0     224176 Apr 18 2007 [  96496 00] fiona_ogre.res 
+-r-xr-xr-x   1    0    0     249980 Apr 18 2007 [  96608 00] gargoyle_1.res 
+-r-xr-xr-x   1    0    0      90312 Apr 12 2007 [  96736 00] gargoyle_2.res 
+-r-xr-xr-x   1    0    0      90672 Apr 17 2007 [  96784 00] gargoyle_3.res 
+-r-xr-xr-x   1    0    0      41744 Apr 17 2007 [  96832 00] gingy.res 
+-r-xr-xr-x   1    0    0     181216 Apr 18 2007 [  96864 00] gnome_1.res 
+-r-xr-xr-x   1    0    0     101080 Apr 17 2007 [  96960 00] gnome_2.res 
+-r-xr-xr-x   1    0    0     104596 Apr 17 2007 [  97024 00] gnome_3.res 
+-r-xr-xr-x   1    0    0     125012 Apr 17 2007 [  97088 00] green_knight.res 
+-r-xr-xr-x   1    0    0      98960 Apr 12 2007 [  97152 00] green_steed.res 
+-r-xr-xr-x   1    0    0     488192 Apr 18 2007 [  97216 00] icedragon.res 
+-r-xr-xr-x   1    0    0     214100 Apr 18 2007 [  97456 00] jocks.res 
+-r-xr-xr-x   1    0    0     134172 Apr 17 2007 [  97568 00] lady_of_the_lake.res 
+-r-xr-xr-x   1    0    0      46040 Apr 17 2007 [  97648 00] lancelot.res 
+-r-xr-xr-x   1    0    0      76508 Apr 17 2007 [  97680 00] merlin.res 
+-r-xr-xr-x   1    0    0      42724 Apr 17 2007 [  97728 00] minecart_cart.res 
+-r-xr-xr-x   1    0    0      39440 Apr 17 2007 [  97760 00] minecart_gnome.res 
+-r-xr-xr-x   1    0    0      91204 Apr 17 2007 [  97792 00] nerd.res 
+-r-xr-xr-x   1    0    0     118312 Apr 17 2007 [  97840 00] noble_steed.res 
+-r-xr-xr-x   1    0    0     288136 Apr 18 2007 [  97936 00] peasant_1.res 
+-r-xr-xr-x   1    0    0      98580 Apr 17 2007 [  98080 00] peasant_2.res 
+-r-xr-xr-x   1    0    0      75112 Apr 17 2007 [  98144 00] peasant_3.res 
+-r-xr-xr-x   1    0    0      73952 Apr 17 2007 [  98192 00] peasant_4.res 
+-r-xr-xr-x   1    0    0     142408 Apr 18 2007 [  98240 00] peasant_ogre.res 
+-r-xr-xr-x   1    0    0      41396 Apr 17 2007 [  97904 00] peasants_cart.res 
+-r-xr-xr-x   1    0    0      23148 Apr 17 2007 [  98320 00] penguin.res 
+-r-xr-xr-x   1    0    0      77716 Apr 17 2007 [  98336 00] pinoccio.res 
+-r-xr-xr-x   1    0    0      89072 Apr 12 2007 [  98384 00] pinoccio_wii.res 
+-r-xr-xr-x   1    0    0     349548 Apr 18 2007 [  98432 00] pirate_01.res 
+-r-xr-xr-x   1    0    0     165848 Apr 17 2007 [  98608 00] pirate_02.res 
+-r-xr-xr-x   1    0    0     236032 Apr 18 2007 [  98704 00] pirate_03.res 
+-r-xr-xr-x   1    0    0     170844 Apr 17 2007 [  98832 00] pirate_04.res 
+-r-xr-xr-x   1    0    0     185776 Apr 17 2007 [  98928 00] prince_charming.res 
+-r-xr-xr-x   1    0    0     350236 Apr 18 2007 [  99024 00] puss_1.res 
+-r-xr-xr-x   1    0    0      94272 Apr 17 2007 [  99200 00] puss_2.res 
+-r-xr-xr-x   1    0    0      36724 Apr 17 2007 [  99248 00] questing_beast.res 
+-r-xr-xr-x   1    0    0      19740 Apr 17 2007 [  99280 00] rat.res 
+-r-xr-xr-x   1    0    0      12724 Apr 12 2007 [  99296 00] rope.res 
+-r-xr-xr-x   1    0    0     157440 Apr 18 2007 [  99312 00] royal_attendant.res 
+-r-xr-xr-x   1    0    0      91392 Apr 17 2007 [  99392 00] royal_chef.res 
+-r-xr-xr-x   1    0    0     167084 Apr 17 2007 [  99440 00] shrek_knight.res 
+-r-xr-xr-x   1    0    0     101032 Apr 17 2007 [  99536 00] shrek_knight_2.res 
+-r-xr-xr-x   1    0    0     654532 Apr 18 2007 [  99600 00] shrek_ogre.res 
+-r-xr-xr-x   1    0    0      92192 Apr 17 2007 [  99920 00] shrek_pirate.res 
+-r-xr-xr-x   1    0    0      97684 Apr 17 2007 [  99968 00] shrek_regal.res 
+-r-xr-xr-x   1    0    0      95392 Apr 17 2007 [ 100016 00] shrek_safari.res 
+-r-xr-xr-x   1    0    0     102588 Apr 17 2007 [ 100064 00] shrek_snorkel.res 
+-r-xr-xr-x   1    0    0      96584 Apr 17 2007 [ 100128 00] shrek_swim.res 
+-r-xr-xr-x   1    0    0     211128 Apr 18 2007 [ 100176 00] sleeping_beauty.res 
+-r-xr-xr-x   1    0    0      87128 Apr 17 2007 [ 100288 00] sleeping_beauty_funeral.res 
+-r-xr-xr-x   1    0    0      17540 Apr 17 2007 [ 100336 00] squirrel.res 
+-r-xr-xr-x   1    0    0      37472 Apr 17 2007 [ 100352 00] vampire_bat.res 
+-r-xr-xr-x   1    0    0     264304 Apr 17 2007 [ 100384 00] witch_01.res 
+-r-xr-xr-x   1    0    0     100220 Apr 17 2007 [ 100528 00] witch_02.res 
+-r-xr-xr-x   1    0    0     100220 Apr 17 2007 [ 100592 00] witch_03.res 
+-r-xr-xr-x   1    0    0     118128 Apr 17 2007 [ 100656 00] witch_04.res 
+-r-xr-xr-x   1    0    0     136324 Apr 17 2007 [ 100720 00] witch_05.res 
+
+Directory listing of /PSP_GAME/USRDIR/levels/
+dr-xr-xr-x   1    0    0       2048 Apr 27 2007 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 11 2007 [     25 02] .. 
+-r-xr-xr-x   1    0    0       1048 Apr 27 2007 [ 100800 00] .sconsign 
+-r-xr-xr-x   1    0    0    4289632 Apr 18 2007 [ 100816 00] academy_cutscene.res 
+dr-xr-xr-x   1    0    0       2048 Jun  1 2007 [     35 02] arties_quest 
+-r-xr-xr-x   1    0    0    5133124 Apr 19 2007 [ 112352 00] basic_level.res 
+dr-xr-xr-x   1    0    0       2048 Apr 23 2007 [     36 02] castle_attack 
+-r-xr-xr-x   1    0    0    7623644 Apr 24 2007 [ 118528 00] castle_workshop.res 
+-r-xr-xr-x   1    0    0    8108676 Apr 18 2007 [ 122256 00] character_zoo.res 
+-r-xr-xr-x   1    0    0    5469056 Apr 18 2007 [ 126224 00] docks_cutscene.res 
+dr-xr-xr-x   1    0    0       2048 May 21 2007 [     37 02] far_far_outskirts 
+-r-xr-xr-x   1    0    0    4317276 Apr 18 2007 [ 152688 00] forest_ambush.res 
+dr-xr-xr-x   1    0    0       2048 May  7 2007 [     38 02] forest 
+-r-xr-xr-x   1    0    0    2346960 Apr 18 2007 [ 154800 00] gallery.res 
+-r-xr-xr-x   1    0    0     992108 Apr 18 2007 [ 155952 00] havok_perf_test.res 
+-r-xr-xr-x   1    0    0     264192 Apr 17 2007 [ 156448 00] looknfeel.res 
+-r-xr-xr-x   1    0    0     945848 Apr 18 2007 [ 156592 00] menu.res 
+dr-xr-xr-x   1    0    0       2048 Apr 23 2007 [     39 02] multiplayer 
+-r-xr-xr-x   1    0    0    3879628 Apr 18 2007 [ 172864 00] prison_cutscene.res 
+dr-xr-xr-x   1    0    0       2048 May 22 2007 [     40 02] prison 
+-r-xr-xr-x   1    0    0    7429828 Apr 19 2007 [ 174768 00] queens_gate.res 
+-r-xr-xr-x   1    0    0    7330552 Apr 18 2007 [ 178400 00] rundown_far_far_away.res 
+-r-xr-xr-x   1    0    0    5606276 Apr 27 2007 [ 181984 00] shrek_babies.res 
+-r-xr-xr-x   1    0    0    6008204 Apr 18 2007 [ 184736 00] stage_finale.res 
+-r-xr-xr-x   1    0    0    4076096 Apr 18 2007 [ 187680 00] tutorial.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/
+dr-xr-xr-x   1    0    0       2048 May 23 2007 [     31 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 11 2007 [     25 02] .. 
+-r-xr-xr-x   1    0    0        523 May 23 2007 [ 189680 00] .sconsign 
+-r-xr-xr-x   1    0    0     212668 May 23 2007 [ 245616 00] dut.res 
+dr-xr-xr-x   1    0    0       2048 Apr 17 2007 [     41 02] dut 
+-r-xr-xr-x   1    0    0     214460 May 22 2007 [ 301616 00] euk.res 
+dr-xr-xr-x   1    0    0       2048 Apr 17 2007 [     42 02] euk 
+-r-xr-xr-x   1    0    0     221500 May 22 2007 [ 356176 00] fre.res 
+dr-xr-xr-x   1    0    0       2048 Apr 17 2007 [     43 02] fre 
+-r-xr-xr-x   1    0    0     214972 May 22 2007 [ 411648 00] ger.res 
+dr-xr-xr-x   1    0    0       2048 Apr 17 2007 [     44 02] ger 
+-r-xr-xr-x   1    0    0     214844 May 22 2007 [ 467616 00] ita.res 
+dr-xr-xr-x   1    0    0       2048 Apr 17 2007 [     45 02] ita 
+-r-xr-xr-x   1    0    0     217532 May 22 2007 [ 522448 00] spa.res 
+dr-xr-xr-x   1    0    0       2048 Apr 17 2007 [     46 02] spa 
+
+Directory listing of /PSP_GAME/USRDIR/module/
+dr-xr-xr-x   1    0    0       2048 Apr 17 2007 [     32 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 11 2007 [     25 02] .. 
+-r-xr-xr-x   1    0    0         98 Apr 17 2007 [ 522560 00] .sconsign 
+-r-xr-xr-x   1    0    0      23488 Apr 17 2007 [ 522576 00] libfont.prx 
+
+Directory listing of /PSP_GAME/USRDIR/movies/
+dr-xr-xr-x   1    0    0       2048 Apr 17 2007 [     33 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 11 2007 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Apr 17 2007 [     47 02] logos 
+
+Directory listing of /PSP_GAME/USRDIR/savegame/
+dr-xr-xr-x   1    0    0       2048 Apr 17 2007 [     34 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 11 2007 [     25 02] .. 
+-r-xr-xr-x   1    0    0        279 Apr 17 2007 [ 525456 00] .sconsign 
+-r-xr-xr-x   1    0    0      31593 Apr 17 2007 [ 525472 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0      28183 Apr 17 2007 [ 525488 00] ICONEMPTY.PNG 
+-r-xr-xr-x   1    0    0     140939 Apr 17 2007 [ 525504 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0      76052 Apr 17 2007 [ 525584 00] SND0.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/levels/arties_quest/
+dr-xr-xr-x   1    0    0       2048 Jun  1 2007 [     35 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 27 2007 [     30 02] .. 
+-r-xr-xr-x   1    0    0        217 Jun  1 2007 [ 102912 00] .sconsign 
+-r-xr-xr-x   1    0    0    6554656 Apr 24 2007 [ 102928 00] 1_mountains.res 
+-r-xr-xr-x   1    0    0    6767668 Jun  1 2007 [ 106144 00] 2_lake.res 
+-r-xr-xr-x   1    0    0    5916500 May  7 2007 [ 109456 00] 3_ice_cave.res 
+
+Directory listing of /PSP_GAME/USRDIR/levels/castle_attack/
+dr-xr-xr-x   1    0    0       2048 Apr 23 2007 [     36 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 27 2007 [     30 02] .. 
+-r-xr-xr-x   1    0    0        159 Apr 23 2007 [ 114864 00] .sconsign 
+-r-xr-xr-x   1    0    0    3542300 Apr 23 2007 [ 114880 00] prison.res 
+-r-xr-xr-x   1    0    0    3874280 Apr 23 2007 [ 116624 00] worcestershire.res 
+
+Directory listing of /PSP_GAME/USRDIR/levels/far_far_outskirts/
+dr-xr-xr-x   1    0    0       2048 May 21 2007 [     37 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 27 2007 [     30 02] .. 
+-r-xr-xr-x   1    0    0        269 May 21 2007 [ 128896 00] .sconsign 
+-r-xr-xr-x   1    0    0    6894472 Apr 19 2007 [ 128912 00] 1_ruins.res 
+-r-xr-xr-x   1    0    0    5829676 Apr 19 2007 [ 132288 00] 1_ruins_b.res 
+-r-xr-xr-x   1    0    0    7527392 May 21 2007 [ 135136 00] 2_dock.res 
+-r-xr-xr-x   1    0    0    6937224 May  7 2007 [ 138816 00] 3_ship.res 
+
+Directory listing of /PSP_GAME/USRDIR/levels/forest/
+dr-xr-xr-x   1    0    0       2048 May  7 2007 [     38 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 27 2007 [     30 02] .. 
+-r-xr-xr-x   1    0    0        273 May  7 2007 [ 142208 00] .sconsign 
+-r-xr-xr-x   1    0    0    3582436 Apr 18 2007 [ 142224 00] forest_1.res 
+-r-xr-xr-x   1    0    0    3082052 Apr 18 2007 [ 143984 00] forest_2.res 
+-r-xr-xr-x   1    0    0    7189284 Apr 18 2007 [ 145504 00] forest_3.res 
+-r-xr-xr-x   1    0    0    7499088 May  7 2007 [ 149024 00] forest_4.res 
+
+Directory listing of /PSP_GAME/USRDIR/levels/multiplayer/
+dr-xr-xr-x   1    0    0       2048 Apr 23 2007 [     39 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 27 2007 [     30 02] .. 
+-r-xr-xr-x   1    0    0        229 Apr 23 2007 [ 157056 00] .sconsign 
+-r-xr-xr-x   1    0    0    3560676 Apr 23 2007 [ 157072 00] multiplayer01.res 
+-r-xr-xr-x   1    0    0    3869808 Apr 23 2007 [ 158816 00] multiplayer02.res 
+-r-xr-xr-x   1    0    0    3514052 Apr 23 2007 [ 160720 00] multiplayer03.res 
+
+Directory listing of /PSP_GAME/USRDIR/levels/prison/
+dr-xr-xr-x   1    0    0       2048 May 22 2007 [     40 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 27 2007 [     30 02] .. 
+-r-xr-xr-x   1    0    0        225 May 22 2007 [ 162448 00] .sconsign 
+-r-xr-xr-x   1    0    0    7709784 Apr 18 2007 [ 162464 00] catacombs.res 
+-r-xr-xr-x   1    0    0    6476968 May 22 2007 [ 166240 00] cell_block.res 
+-r-xr-xr-x   1    0    0    7064260 Apr 27 2007 [ 169408 00] detention_center.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/dut/
+dr-xr-xr-x   1    0    0       2048 Apr 17 2007 [     41 02] . 
+dr-xr-xr-x   1    0    0       2048 May 23 2007 [     31 02] .. 
+dr-xr-xr-x   1    0    0       2048 Apr 17 2007 [     48 02] characters 
+dr-xr-xr-x   1    0    0       2048 Apr 23 2007 [     49 02] levels 
+dr-xr-xr-x   1    0    0       2048 Apr 19 2007 [     50 02] movies 
+
+Directory listing of /PSP_GAME/USRDIR/loc/euk/
+dr-xr-xr-x   1    0    0       2048 Apr 17 2007 [     42 02] . 
+dr-xr-xr-x   1    0    0       2048 May 23 2007 [     31 02] .. 
+dr-xr-xr-x   1    0    0       2048 Apr 17 2007 [     51 02] characters 
+dr-xr-xr-x   1    0    0       2048 Apr 23 2007 [     52 02] levels 
+dr-xr-xr-x   1    0    0       2048 Apr 19 2007 [     53 02] movies 
+
+Directory listing of /PSP_GAME/USRDIR/loc/fre/
+dr-xr-xr-x   1    0    0       2048 Apr 17 2007 [     43 02] . 
+dr-xr-xr-x   1    0    0       2048 May 23 2007 [     31 02] .. 
+dr-xr-xr-x   1    0    0       2048 Apr 17 2007 [     54 02] characters 
+dr-xr-xr-x   1    0    0       2048 Apr 23 2007 [     55 02] levels 
+dr-xr-xr-x   1    0    0       2048 May  1 2007 [     56 02] movies 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ger/
+dr-xr-xr-x   1    0    0       2048 Apr 17 2007 [     44 02] . 
+dr-xr-xr-x   1    0    0       2048 May 23 2007 [     31 02] .. 
+dr-xr-xr-x   1    0    0       2048 Apr 17 2007 [     57 02] characters 
+dr-xr-xr-x   1    0    0       2048 Apr 23 2007 [     58 02] levels 
+dr-xr-xr-x   1    0    0       2048 May  1 2007 [     59 02] movies 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ita/
+dr-xr-xr-x   1    0    0       2048 Apr 17 2007 [     45 02] . 
+dr-xr-xr-x   1    0    0       2048 May 23 2007 [     31 02] .. 
+dr-xr-xr-x   1    0    0       2048 Apr 19 2007 [     60 02] characters 
+dr-xr-xr-x   1    0    0       2048 Apr 23 2007 [     61 02] levels 
+dr-xr-xr-x   1    0    0       2048 May  1 2007 [     62 02] movies 
+
+Directory listing of /PSP_GAME/USRDIR/loc/spa/
+dr-xr-xr-x   1    0    0       2048 Apr 17 2007 [     46 02] . 
+dr-xr-xr-x   1    0    0       2048 May 23 2007 [     31 02] .. 
+dr-xr-xr-x   1    0    0       2048 Apr 17 2007 [     63 02] characters 
+dr-xr-xr-x   1    0    0       2048 Apr 23 2007 [     64 02] levels 
+dr-xr-xr-x   1    0    0       2048 May  1 2007 [     65 02] movies 
+
+Directory listing of /PSP_GAME/USRDIR/movies/logos/
+dr-xr-xr-x   1    0    0       2048 Apr 17 2007 [     47 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 17 2007 [     33 02] .. 
+-r-xr-xr-x   1    0    0        224 Apr 17 2007 [ 522592 00] .sconsign 
+-r-xr-xr-x   1    0    0     970752 Apr 17 2007 [ 522608 00] adrenium.pmf 
+-r-xr-xr-x   1    0    0    1486848 Apr 17 2007 [ 523088 00] atvieng.pmf 
+-r-xr-xr-x   1    0    0    3323904 Apr 17 2007 [ 523824 00] dw_logo.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/loc/dut/characters/
+dr-xr-xr-x   1    0    0       2048 Apr 17 2007 [     48 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 17 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0       1172 Apr 17 2007 [ 189696 00] .sconsign 
+-r-xr-xr-x   1    0    0      82128 Apr 17 2007 [ 189712 00] artie_1.res 
+-r-xr-xr-x   1    0    0      32368 Apr 17 2007 [ 189760 00] bandits.res 
+-r-xr-xr-x   1    0    0      52336 Apr 17 2007 [ 189776 00] cyclops.res 
+-r-xr-xr-x   1    0    0      60944 Apr 17 2007 [ 189808 00] donkey_1.res 
+-r-xr-xr-x   1    0    0      49648 Apr 17 2007 [ 189840 00] evil_knight_1.res 
+-r-xr-xr-x   1    0    0      49200 Apr 17 2007 [ 189872 00] evil_pinocchio_1.res 
+-r-xr-xr-x   1    0    0      53968 Apr 17 2007 [ 189904 00] fiona_ogre.res 
+-r-xr-xr-x   1    0    0      70608 Apr 17 2007 [ 189936 00] green_knight.res 
+-r-xr-xr-x   1    0    0      49712 Apr 17 2007 [ 189984 00] jocks.res 
+-r-xr-xr-x   1    0    0      37744 Apr 17 2007 [ 190016 00] peasant_1.res 
+-r-xr-xr-x   1    0    0      30032 Apr 17 2007 [ 190048 00] peasant_ogre.res 
+-r-xr-xr-x   1    0    0      41520 Apr 17 2007 [ 190064 00] pinoccio_wii.res 
+-r-xr-xr-x   1    0    0     101616 Apr 17 2007 [ 190096 00] pirate_01.res 
+-r-xr-xr-x   1    0    0      25872 Apr 17 2007 [ 190160 00] puss_1.res 
+-r-xr-xr-x   1    0    0      33104 Apr 17 2007 [ 190176 00] royal_attendant.res 
+-r-xr-xr-x   1    0    0      73136 Apr 17 2007 [ 190208 00] shrek_ogre.res 
+-r-xr-xr-x   1    0    0     151472 Apr 17 2007 [ 190256 00] sleeping_beauty.res 
+-r-xr-xr-x   1    0    0      69616 Apr 17 2007 [ 190336 00] witch_01.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/dut/levels/
+dr-xr-xr-x   1    0    0       2048 Apr 23 2007 [     49 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 17 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0       1046 Apr 23 2007 [ 190384 00] .sconsign 
+-r-xr-xr-x   1    0    0    1269616 Apr 12 2007 [ 190400 00] academy_cutscene.res 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     66 02] arties_quest 
+-r-xr-xr-x   1    0    0     514640 Apr 18 2007 [ 192896 00] basic_level.res 
+-r-xr-xr-x   1    0    0    1134640 Apr 18 2007 [ 193152 00] castle_workshop.res 
+-r-xr-xr-x   1    0    0     905968 Apr 18 2007 [ 193712 00] character_zoo.res 
+-r-xr-xr-x   1    0    0     699408 Apr 12 2007 [ 194160 00] docks_cutscene.res 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     67 02] far_far_outskirts 
+-r-xr-xr-x   1    0    0    3918736 Apr 12 2007 [ 197760 00] forest_ambush.res 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     68 02] forest 
+-r-xr-xr-x   1    0    0      69616 Apr 17 2007 [ 199680 00] gallery.res 
+-r-xr-xr-x   1    0    0    1398576 Apr 12 2007 [ 199728 00] legal.res 
+-r-xr-xr-x   1    0    0     428880 Apr 16 2007 [ 200416 00] menu.res 
+-r-xr-xr-x   1    0    0     860208 Apr 17 2007 [ 200640 00] multiplayer.res 
+-r-xr-xr-x   1    0    0    1062480 Apr 12 2007 [ 202880 00] prison_cutscene.res 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     69 02] prison 
+-r-xr-xr-x   1    0    0    1037008 Apr 23 2007 [ 203408 00] queens_gate.res 
+-r-xr-xr-x   1    0    0    1226288 Apr 18 2007 [ 203920 00] rundown_far_far_away.res 
+-r-xr-xr-x   1    0    0     762064 Apr 12 2007 [ 204528 00] shrek_babies.res 
+-r-xr-xr-x   1    0    0    1545136 Apr 18 2007 [ 204912 00] stage_finale.res 
+-r-xr-xr-x   1    0    0    1007440 Apr 12 2007 [ 205680 00] tutorial.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/dut/movies/
+dr-xr-xr-x   1    0    0       2048 Apr 19 2007 [     50 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 17 2007 [     41 02] .. 
+-r-xr-xr-x   1    0    0        593 Apr 19 2007 [ 206176 00] .sconsign 
+-r-xr-xr-x   1    0    0   23013376 Apr 17 2007 [ 206192 00] intro.pmf 
+-r-xr-xr-x   1    0    0   12963840 Apr 17 2007 [ 217440 00] outro.pmf 
+-r-xr-xr-x   1    0    0    7997440 Apr 18 2007 [ 223776 00] puppetshow_2.pmf 
+-r-xr-xr-x   1    0    0    8220672 Apr 17 2007 [ 227696 00] puppetshow_3.pmf 
+-r-xr-xr-x   1    0    0    5767168 Apr 17 2007 [ 231712 00] puppetshow_4.pmf 
+-r-xr-xr-x   1    0    0    7794688 Apr 17 2007 [ 234528 00] puppetshow_4b.pmf 
+-r-xr-xr-x   1    0    0    5459968 Apr 17 2007 [ 238336 00] puppetshow_5.pmf 
+-r-xr-xr-x   1    0    0    5058560 Apr 17 2007 [ 241008 00] puppetshow_6.pmf 
+-r-xr-xr-x   1    0    0    4329472 Apr 17 2007 [ 243488 00] puppetshow_7.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/loc/euk/characters/
+dr-xr-xr-x   1    0    0       2048 Apr 17 2007 [     51 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 17 2007 [     42 02] .. 
+-r-xr-xr-x   1    0    0       1172 Apr 17 2007 [ 245728 00] .sconsign 
+-r-xr-xr-x   1    0    0      82128 Apr 17 2007 [ 245744 00] artie_1.res 
+-r-xr-xr-x   1    0    0      32368 Apr 17 2007 [ 245792 00] bandits.res 
+-r-xr-xr-x   1    0    0      52336 Apr 17 2007 [ 245808 00] cyclops.res 
+-r-xr-xr-x   1    0    0      60944 Apr 17 2007 [ 245840 00] donkey_1.res 
+-r-xr-xr-x   1    0    0      49648 Apr 17 2007 [ 245872 00] evil_knight_1.res 
+-r-xr-xr-x   1    0    0      49200 Apr 17 2007 [ 245904 00] evil_pinocchio_1.res 
+-r-xr-xr-x   1    0    0      53968 Apr 17 2007 [ 245936 00] fiona_ogre.res 
+-r-xr-xr-x   1    0    0      70608 Apr 17 2007 [ 245968 00] green_knight.res 
+-r-xr-xr-x   1    0    0      49712 Apr 17 2007 [ 246016 00] jocks.res 
+-r-xr-xr-x   1    0    0      37744 Apr 17 2007 [ 246048 00] peasant_1.res 
+-r-xr-xr-x   1    0    0      30032 Apr 17 2007 [ 246080 00] peasant_ogre.res 
+-r-xr-xr-x   1    0    0      41520 Apr 17 2007 [ 246096 00] pinoccio_wii.res 
+-r-xr-xr-x   1    0    0     101616 Apr 17 2007 [ 246128 00] pirate_01.res 
+-r-xr-xr-x   1    0    0      25872 Apr 17 2007 [ 246192 00] puss_1.res 
+-r-xr-xr-x   1    0    0      33104 Apr 17 2007 [ 246208 00] royal_attendant.res 
+-r-xr-xr-x   1    0    0      73136 Apr 17 2007 [ 246240 00] shrek_ogre.res 
+-r-xr-xr-x   1    0    0     151472 Apr 17 2007 [ 246288 00] sleeping_beauty.res 
+-r-xr-xr-x   1    0    0      69616 Apr 17 2007 [ 246368 00] witch_01.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/euk/levels/
+dr-xr-xr-x   1    0    0       2048 Apr 23 2007 [     52 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 17 2007 [     42 02] .. 
+-r-xr-xr-x   1    0    0       1046 Apr 23 2007 [ 246416 00] .sconsign 
+-r-xr-xr-x   1    0    0    1269616 Apr 12 2007 [ 246432 00] academy_cutscene.res 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     70 02] arties_quest 
+-r-xr-xr-x   1    0    0     514640 Apr 18 2007 [ 248928 00] basic_level.res 
+-r-xr-xr-x   1    0    0    1134640 Apr 18 2007 [ 249184 00] castle_workshop.res 
+-r-xr-xr-x   1    0    0     905968 Apr 18 2007 [ 249744 00] character_zoo.res 
+-r-xr-xr-x   1    0    0     699408 Apr 12 2007 [ 250192 00] docks_cutscene.res 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     71 02] far_far_outskirts 
+-r-xr-xr-x   1    0    0    3918736 Apr 12 2007 [ 253792 00] forest_ambush.res 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     72 02] forest 
+-r-xr-xr-x   1    0    0      69616 Apr 17 2007 [ 255712 00] gallery.res 
+-r-xr-xr-x   1    0    0    1398576 Apr 17 2007 [ 255760 00] legal.res 
+-r-xr-xr-x   1    0    0     428880 Apr 16 2007 [ 256448 00] menu.res 
+-r-xr-xr-x   1    0    0     788528 Apr 17 2007 [ 256672 00] multiplayer.res 
+-r-xr-xr-x   1    0    0    1062480 Apr 12 2007 [ 258880 00] prison_cutscene.res 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     73 02] prison 
+-r-xr-xr-x   1    0    0    1037008 Apr 23 2007 [ 259408 00] queens_gate.res 
+-r-xr-xr-x   1    0    0    1226288 Apr 18 2007 [ 259920 00] rundown_far_far_away.res 
+-r-xr-xr-x   1    0    0     762064 Apr 12 2007 [ 260528 00] shrek_babies.res 
+-r-xr-xr-x   1    0    0    1545136 Apr 18 2007 [ 260912 00] stage_finale.res 
+-r-xr-xr-x   1    0    0    1007440 Apr 12 2007 [ 261680 00] tutorial.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/euk/movies/
+dr-xr-xr-x   1    0    0       2048 Apr 19 2007 [     53 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 17 2007 [     42 02] .. 
+-r-xr-xr-x   1    0    0        593 Apr 19 2007 [ 262176 00] .sconsign 
+-r-xr-xr-x   1    0    0   23013376 Apr 17 2007 [ 262192 00] intro.pmf 
+-r-xr-xr-x   1    0    0   12963840 Apr 17 2007 [ 273440 00] outro.pmf 
+-r-xr-xr-x   1    0    0    7997440 Apr 18 2007 [ 279776 00] puppetshow_2.pmf 
+-r-xr-xr-x   1    0    0    8220672 Apr 17 2007 [ 283696 00] puppetshow_3.pmf 
+-r-xr-xr-x   1    0    0    5767168 Apr 17 2007 [ 287712 00] puppetshow_4.pmf 
+-r-xr-xr-x   1    0    0    7794688 Apr 17 2007 [ 290528 00] puppetshow_4b.pmf 
+-r-xr-xr-x   1    0    0    5459968 Apr 17 2007 [ 294336 00] puppetshow_5.pmf 
+-r-xr-xr-x   1    0    0    5058560 Apr 17 2007 [ 297008 00] puppetshow_6.pmf 
+-r-xr-xr-x   1    0    0    4329472 Apr 17 2007 [ 299488 00] puppetshow_7.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/loc/fre/characters/
+dr-xr-xr-x   1    0    0       2048 Apr 17 2007 [     54 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 17 2007 [     43 02] .. 
+-r-xr-xr-x   1    0    0       1172 Apr 17 2007 [ 301728 00] .sconsign 
+-r-xr-xr-x   1    0    0      82032 Apr 17 2007 [ 301744 00] artie_1.res 
+-r-xr-xr-x   1    0    0      37456 Apr 17 2007 [ 301792 00] bandits.res 
+-r-xr-xr-x   1    0    0      52336 Apr 17 2007 [ 301824 00] cyclops.res 
+-r-xr-xr-x   1    0    0      65072 Apr 17 2007 [ 301856 00] donkey_1.res 
+-r-xr-xr-x   1    0    0      49648 Apr 17 2007 [ 301888 00] evil_knight_1.res 
+-r-xr-xr-x   1    0    0      55472 Apr 17 2007 [ 301920 00] evil_pinocchio_1.res 
+-r-xr-xr-x   1    0    0      55600 Apr 17 2007 [ 301952 00] fiona_ogre.res 
+-r-xr-xr-x   1    0    0      70608 Apr 17 2007 [ 301984 00] green_knight.res 
+-r-xr-xr-x   1    0    0      54032 Apr 17 2007 [ 302032 00] jocks.res 
+-r-xr-xr-x   1    0    0      41104 Apr 17 2007 [ 302064 00] peasant_1.res 
+-r-xr-xr-x   1    0    0      28816 Apr 17 2007 [ 302096 00] peasant_ogre.res 
+-r-xr-xr-x   1    0    0      43504 Apr 17 2007 [ 302112 00] pinoccio_wii.res 
+-r-xr-xr-x   1    0    0     109552 Apr 17 2007 [ 302144 00] pirate_01.res 
+-r-xr-xr-x   1    0    0      27248 Apr 17 2007 [ 302208 00] puss_1.res 
+-r-xr-xr-x   1    0    0      33104 Apr 17 2007 [ 302224 00] royal_attendant.res 
+-r-xr-xr-x   1    0    0      80720 Apr 17 2007 [ 302256 00] shrek_ogre.res 
+-r-xr-xr-x   1    0    0     151472 Apr 17 2007 [ 302304 00] sleeping_beauty.res 
+-r-xr-xr-x   1    0    0      67792 Apr 17 2007 [ 302384 00] witch_01.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/fre/levels/
+dr-xr-xr-x   1    0    0       2048 Apr 23 2007 [     55 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 17 2007 [     43 02] .. 
+-r-xr-xr-x   1    0    0       1046 Apr 23 2007 [ 302432 00] .sconsign 
+-r-xr-xr-x   1    0    0     690608 Apr 18 2007 [ 302448 00] academy_cutscene.res 
+dr-xr-xr-x   1    0    0       2048 Jun  8 2007 [     74 02] arties_quest 
+-r-xr-xr-x   1    0    0     536784 Apr 18 2007 [ 304640 00] basic_level.res 
+-r-xr-xr-x   1    0    0    1189808 Apr 18 2007 [ 304912 00] castle_workshop.res 
+-r-xr-xr-x   1    0    0     944656 Apr 18 2007 [ 305504 00] character_zoo.res 
+-r-xr-xr-x   1    0    0     521200 Apr 18 2007 [ 305968 00] docks_cutscene.res 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     75 02] far_far_outskirts 
+-r-xr-xr-x   1    0    0    2611056 Apr 19 2007 [ 309504 00] forest_ambush.res 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     76 02] forest 
+-r-xr-xr-x   1    0    0      67792 Apr 17 2007 [ 310784 00] gallery.res 
+-r-xr-xr-x   1    0    0    1398576 Apr 12 2007 [ 310832 00] legal.res 
+-r-xr-xr-x   1    0    0     394960 Apr 16 2007 [ 311520 00] menu.res 
+-r-xr-xr-x   1    0    0     726320 Apr 17 2007 [ 311728 00] multiplayer.res 
+-r-xr-xr-x   1    0    0     646704 Apr 17 2007 [ 313920 00] prison_cutscene.res 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     77 02] prison 
+-r-xr-xr-x   1    0    0    1043632 Apr 23 2007 [ 314240 00] queens_gate.res 
+-r-xr-xr-x   1    0    0    1266704 Apr 18 2007 [ 314752 00] rundown_far_far_away.res 
+-r-xr-xr-x   1    0    0     720464 Apr 18 2007 [ 315376 00] shrek_babies.res 
+-r-xr-xr-x   1    0    0    1553584 Apr 18 2007 [ 315728 00] stage_finale.res 
+-r-xr-xr-x   1    0    0     974480 Apr 18 2007 [ 316496 00] tutorial.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/fre/movies/
+dr-xr-xr-x   1    0    0       2048 May  1 2007 [     56 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 17 2007 [     43 02] .. 
+-r-xr-xr-x   1    0    0        593 May  1 2007 [ 316976 00] .sconsign 
+-r-xr-xr-x   1    0    0   23001088 Apr 27 2007 [ 316992 00] intro.pmf 
+-r-xr-xr-x   1    0    0   12804096 May  1 2007 [ 328224 00] outro.pmf 
+-r-xr-xr-x   1    0    0    8003584 Apr 19 2007 [ 334480 00] puppetshow_2.pmf 
+-r-xr-xr-x   1    0    0    8220672 Apr 24 2007 [ 338400 00] puppetshow_3.pmf 
+-r-xr-xr-x   1    0    0    5767168 Apr 19 2007 [ 342416 00] puppetshow_4.pmf 
+-r-xr-xr-x   1    0    0    7733248 Apr 23 2007 [ 345232 00] puppetshow_4b.pmf 
+-r-xr-xr-x   1    0    0    5459968 Apr 23 2007 [ 349008 00] puppetshow_5.pmf 
+-r-xr-xr-x   1    0    0    4825088 Apr 24 2007 [ 351680 00] puppetshow_6.pmf 
+-r-xr-xr-x   1    0    0    4329472 Apr 24 2007 [ 354048 00] puppetshow_7.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ger/characters/
+dr-xr-xr-x   1    0    0       2048 Apr 17 2007 [     57 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 17 2007 [     44 02] .. 
+-r-xr-xr-x   1    0    0       1172 Apr 17 2007 [ 356288 00] .sconsign 
+-r-xr-xr-x   1    0    0      82128 Apr 17 2007 [ 356304 00] artie_1.res 
+-r-xr-xr-x   1    0    0      32368 Apr 17 2007 [ 356352 00] bandits.res 
+-r-xr-xr-x   1    0    0      52336 Apr 17 2007 [ 356368 00] cyclops.res 
+-r-xr-xr-x   1    0    0      79280 Apr 13 2007 [ 356400 00] donkey_1.res 
+-r-xr-xr-x   1    0    0      49648 Apr 17 2007 [ 356448 00] evil_knight_1.res 
+-r-xr-xr-x   1    0    0      50832 Apr 17 2007 [ 356480 00] evil_pinocchio_1.res 
+-r-xr-xr-x   1    0    0      55856 Apr 17 2007 [ 356512 00] fiona_ogre.res 
+-r-xr-xr-x   1    0    0      70608 Apr 17 2007 [ 356544 00] green_knight.res 
+-r-xr-xr-x   1    0    0      40560 Apr 13 2007 [ 356592 00] jocks.res 
+-r-xr-xr-x   1    0    0      37744 Apr 17 2007 [ 356624 00] peasant_1.res 
+-r-xr-xr-x   1    0    0      30032 Apr 17 2007 [ 356656 00] peasant_ogre.res 
+-r-xr-xr-x   1    0    0      50768 Apr 17 2007 [ 356672 00] pinoccio_wii.res 
+-r-xr-xr-x   1    0    0     101616 Apr 17 2007 [ 356704 00] pirate_01.res 
+-r-xr-xr-x   1    0    0      25872 Apr 17 2007 [ 356768 00] puss_1.res 
+-r-xr-xr-x   1    0    0      33104 Apr 17 2007 [ 356784 00] royal_attendant.res 
+-r-xr-xr-x   1    0    0      73136 Apr 17 2007 [ 356816 00] shrek_ogre.res 
+-r-xr-xr-x   1    0    0     204784 Apr 17 2007 [ 356864 00] sleeping_beauty.res 
+-r-xr-xr-x   1    0    0      69616 Apr 17 2007 [ 356976 00] witch_01.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ger/levels/
+dr-xr-xr-x   1    0    0       2048 Apr 23 2007 [     58 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 17 2007 [     44 02] .. 
+-r-xr-xr-x   1    0    0       1046 Apr 23 2007 [ 357024 00] .sconsign 
+-r-xr-xr-x   1    0    0     727792 Apr 13 2007 [ 357040 00] academy_cutscene.res 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     78 02] arties_quest 
+-r-xr-xr-x   1    0    0     567952 Apr 18 2007 [ 359376 00] basic_level.res 
+-r-xr-xr-x   1    0    0    1261616 Apr 12 2007 [ 359664 00] castle_workshop.res 
+-r-xr-xr-x   1    0    0     972048 Apr 13 2007 [ 360288 00] character_zoo.res 
+-r-xr-xr-x   1    0    0     616080 Apr 13 2007 [ 360768 00] docks_cutscene.res 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     79 02] far_far_outskirts 
+-r-xr-xr-x   1    0    0    2708976 Apr 19 2007 [ 364608 00] forest_ambush.res 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     80 02] forest 
+-r-xr-xr-x   1    0    0      69616 Apr 17 2007 [ 365936 00] gallery.res 
+-r-xr-xr-x   1    0    0    1398576 Apr 12 2007 [ 365984 00] legal.res 
+-r-xr-xr-x   1    0    0     377296 Apr 16 2007 [ 366672 00] menu.res 
+-r-xr-xr-x   1    0    0     820528 Apr 13 2007 [ 366864 00] multiplayer.res 
+-r-xr-xr-x   1    0    0     680304 Apr 13 2007 [ 369248 00] prison_cutscene.res 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     81 02] prison 
+-r-xr-xr-x   1    0    0    1138800 Apr 23 2007 [ 369584 00] queens_gate.res 
+-r-xr-xr-x   1    0    0    1247760 Apr 18 2007 [ 370144 00] rundown_far_far_away.res 
+-r-xr-xr-x   1    0    0     789488 Apr 12 2007 [ 370768 00] shrek_babies.res 
+-r-xr-xr-x   1    0    0    1525072 Apr 16 2007 [ 371168 00] stage_finale.res 
+-r-xr-xr-x   1    0    0    1079152 Apr 13 2007 [ 371920 00] tutorial.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ger/movies/
+dr-xr-xr-x   1    0    0       2048 May  1 2007 [     59 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 17 2007 [     44 02] .. 
+-r-xr-xr-x   1    0    0        593 May  1 2007 [ 372448 00] .sconsign 
+-r-xr-xr-x   1    0    0   23001088 Apr 27 2007 [ 372464 00] intro.pmf 
+-r-xr-xr-x   1    0    0   12804096 May  1 2007 [ 383696 00] outro.pmf 
+-r-xr-xr-x   1    0    0    8003584 Apr 19 2007 [ 389952 00] puppetshow_2.pmf 
+-r-xr-xr-x   1    0    0    8222720 Apr 19 2007 [ 393872 00] puppetshow_3.pmf 
+-r-xr-xr-x   1    0    0    5767168 Apr 19 2007 [ 397888 00] puppetshow_4.pmf 
+-r-xr-xr-x   1    0    0    7733248 Apr 23 2007 [ 400704 00] puppetshow_4b.pmf 
+-r-xr-xr-x   1    0    0    5459968 Apr 23 2007 [ 404480 00] puppetshow_5.pmf 
+-r-xr-xr-x   1    0    0    4825088 Apr 24 2007 [ 407152 00] puppetshow_6.pmf 
+-r-xr-xr-x   1    0    0    4329472 Apr 24 2007 [ 409520 00] puppetshow_7.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ita/characters/
+dr-xr-xr-x   1    0    0       2048 Apr 19 2007 [     60 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 17 2007 [     45 02] .. 
+-r-xr-xr-x   1    0    0       1136 Apr 19 2007 [ 411760 00] .sconsign 
+-r-xr-xr-x   1    0    0      82128 Apr 17 2007 [ 411776 00] artie_1.res 
+-r-xr-xr-x   1    0    0      32368 Apr 17 2007 [ 411824 00] bandits.res 
+-r-xr-xr-x   1    0    0      52336 Apr 17 2007 [ 411840 00] cyclops.res 
+-r-xr-xr-x   1    0    0      67984 Apr 17 2007 [ 411872 00] donkey_1.res 
+-r-xr-xr-x   1    0    0      49648 Apr 17 2007 [ 411920 00] evil_knight_1.res 
+-r-xr-xr-x   1    0    0      50832 Apr 17 2007 [ 411952 00] evil_pinocchio_1.res 
+-r-xr-xr-x   1    0    0      58192 Apr 17 2007 [ 411984 00] fiona_ogre.res 
+-r-xr-xr-x   1    0    0      70608 Apr 17 2007 [ 412016 00] green_knight.res 
+-r-xr-xr-x   1    0    0      45008 Apr 17 2007 [ 412064 00] jocks.res 
+-r-xr-xr-x   1    0    0      37744 Apr 17 2007 [ 412096 00] peasant_1.res 
+-r-xr-xr-x   1    0    0      30032 Apr 17 2007 [ 412128 00] peasant_ogre.res 
+-r-xr-xr-x   1    0    0      24304 Apr 18 2007 [ 412144 00] pinoccio_wii.res 
+-r-xr-xr-x   1    0    0     101616 Apr 17 2007 [ 412160 00] pirate_01.res 
+-r-xr-xr-x   1    0    0      26096 Apr 17 2007 [ 412224 00] puss_1.res 
+-r-xr-xr-x   1    0    0      33104 Apr 17 2007 [ 412240 00] royal_attendant.res 
+-r-xr-xr-x   1    0    0      73136 Apr 17 2007 [ 412272 00] shrek_ogre.res 
+-r-xr-xr-x   1    0    0     151472 Apr 17 2007 [ 412320 00] sleeping_beauty.res 
+-r-xr-xr-x   1    0    0      69616 Apr 17 2007 [ 412400 00] witch_01.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ita/levels/
+dr-xr-xr-x   1    0    0       2048 Apr 23 2007 [     61 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 17 2007 [     45 02] .. 
+-r-xr-xr-x   1    0    0       1046 Apr 23 2007 [ 412448 00] .sconsign 
+-r-xr-xr-x   1    0    0    1249104 Apr 18 2007 [ 412464 00] academy_cutscene.res 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     82 02] arties_quest 
+-r-xr-xr-x   1    0    0     514640 Apr 18 2007 [ 414928 00] basic_level.res 
+-r-xr-xr-x   1    0    0    1231344 Apr 18 2007 [ 415184 00] castle_workshop.res 
+-r-xr-xr-x   1    0    0     914416 Apr 18 2007 [ 415792 00] character_zoo.res 
+-r-xr-xr-x   1    0    0     732560 Apr 18 2007 [ 416240 00] docks_cutscene.res 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     83 02] far_far_outskirts 
+-r-xr-xr-x   1    0    0    3857040 Apr 19 2007 [ 419984 00] forest_ambush.res 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     84 02] forest 
+-r-xr-xr-x   1    0    0      69616 Apr 17 2007 [ 421872 00] gallery.res 
+-r-xr-xr-x   1    0    0    1398576 Apr 12 2007 [ 421920 00] legal.res 
+-r-xr-xr-x   1    0    0     425040 Apr 16 2007 [ 422608 00] menu.res 
+-r-xr-xr-x   1    0    0     820528 Apr 13 2007 [ 422816 00] multiplayer.res 
+-r-xr-xr-x   1    0    0    1056624 Apr 17 2007 [ 425088 00] prison_cutscene.res 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     85 02] prison 
+-r-xr-xr-x   1    0    0    1103024 Apr 23 2007 [ 425616 00] queens_gate.res 
+-r-xr-xr-x   1    0    0    1248560 Apr 18 2007 [ 426160 00] rundown_far_far_away.res 
+-r-xr-xr-x   1    0    0     741648 Apr 18 2007 [ 426784 00] shrek_babies.res 
+-r-xr-xr-x   1    0    0    1560336 Apr 18 2007 [ 427152 00] stage_finale.res 
+-r-xr-xr-x   1    0    0     986736 Apr 18 2007 [ 427920 00] tutorial.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ita/movies/
+dr-xr-xr-x   1    0    0       2048 May  1 2007 [     62 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 17 2007 [     45 02] .. 
+-r-xr-xr-x   1    0    0        593 May  1 2007 [ 428416 00] .sconsign 
+-r-xr-xr-x   1    0    0   22994944 Apr 27 2007 [ 428432 00] intro.pmf 
+-r-xr-xr-x   1    0    0   12804096 May  1 2007 [ 439664 00] outro.pmf 
+-r-xr-xr-x   1    0    0    8003584 Apr 19 2007 [ 445920 00] puppetshow_2.pmf 
+-r-xr-xr-x   1    0    0    8222720 Apr 19 2007 [ 449840 00] puppetshow_3.pmf 
+-r-xr-xr-x   1    0    0    5767168 Apr 19 2007 [ 453856 00] puppetshow_4.pmf 
+-r-xr-xr-x   1    0    0    7733248 Apr 23 2007 [ 456672 00] puppetshow_4b.pmf 
+-r-xr-xr-x   1    0    0    5459968 Apr 23 2007 [ 460448 00] puppetshow_5.pmf 
+-r-xr-xr-x   1    0    0    4825088 Apr 24 2007 [ 463120 00] puppetshow_6.pmf 
+-r-xr-xr-x   1    0    0    4329472 Apr 24 2007 [ 465488 00] puppetshow_7.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/loc/spa/characters/
+dr-xr-xr-x   1    0    0       2048 Apr 17 2007 [     63 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 17 2007 [     46 02] .. 
+-r-xr-xr-x   1    0    0       1172 Apr 17 2007 [ 467728 00] .sconsign 
+-r-xr-xr-x   1    0    0      82128 Apr 17 2007 [ 467744 00] artie_1.res 
+-r-xr-xr-x   1    0    0      35216 Apr 17 2007 [ 467792 00] bandits.res 
+-r-xr-xr-x   1    0    0      52336 Apr 17 2007 [ 467824 00] cyclops.res 
+-r-xr-xr-x   1    0    0      69392 Apr 17 2007 [ 467856 00] donkey_1.res 
+-r-xr-xr-x   1    0    0      49648 Apr 17 2007 [ 467904 00] evil_knight_1.res 
+-r-xr-xr-x   1    0    0      50832 Apr 17 2007 [ 467936 00] evil_pinocchio_1.res 
+-r-xr-xr-x   1    0    0      52976 Apr 17 2007 [ 467968 00] fiona_ogre.res 
+-r-xr-xr-x   1    0    0      70608 Apr 17 2007 [ 468000 00] green_knight.res 
+-r-xr-xr-x   1    0    0      50928 Apr 17 2007 [ 468048 00] jocks.res 
+-r-xr-xr-x   1    0    0      37744 Apr 17 2007 [ 468080 00] peasant_1.res 
+-r-xr-xr-x   1    0    0      30032 Apr 17 2007 [ 468112 00] peasant_ogre.res 
+-r-xr-xr-x   1    0    0      40112 Apr 17 2007 [ 468128 00] pinoccio_wii.res 
+-r-xr-xr-x   1    0    0     101616 Apr 17 2007 [ 468160 00] pirate_01.res 
+-r-xr-xr-x   1    0    0      25872 Apr 17 2007 [ 468224 00] puss_1.res 
+-r-xr-xr-x   1    0    0      33104 Apr 17 2007 [ 468240 00] royal_attendant.res 
+-r-xr-xr-x   1    0    0      73136 Apr 17 2007 [ 468272 00] shrek_ogre.res 
+-r-xr-xr-x   1    0    0     151472 Apr 17 2007 [ 468320 00] sleeping_beauty.res 
+-r-xr-xr-x   1    0    0      69616 Apr 17 2007 [ 468400 00] witch_01.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/spa/levels/
+dr-xr-xr-x   1    0    0       2048 Apr 23 2007 [     64 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 17 2007 [     46 02] .. 
+-r-xr-xr-x   1    0    0       1046 Apr 23 2007 [ 468448 00] .sconsign 
+-r-xr-xr-x   1    0    0     699056 Apr 18 2007 [ 468464 00] academy_cutscene.res 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     86 02] arties_quest 
+-r-xr-xr-x   1    0    0     517488 Apr 18 2007 [ 470752 00] basic_level.res 
+-r-xr-xr-x   1    0    0    1148944 Apr 18 2007 [ 471008 00] castle_workshop.res 
+-r-xr-xr-x   1    0    0     919152 Apr 18 2007 [ 471584 00] character_zoo.res 
+-r-xr-xr-x   1    0    0     520272 Apr 18 2007 [ 472048 00] docks_cutscene.res 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     87 02] far_far_outskirts 
+-r-xr-xr-x   1    0    0    2723600 Apr 19 2007 [ 475648 00] forest_ambush.res 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     88 02] forest 
+-r-xr-xr-x   1    0    0      69616 Apr 17 2007 [ 476992 00] gallery.res 
+-r-xr-xr-x   1    0    0    1398576 Apr 12 2007 [ 477040 00] legal.res 
+-r-xr-xr-x   1    0    0     352336 Apr 16 2007 [ 477728 00] menu.res 
+-r-xr-xr-x   1    0    0     750128 Apr 13 2007 [ 477904 00] multiplayer.res 
+-r-xr-xr-x   1    0    0     649200 Apr 17 2007 [ 480128 00] prison_cutscene.res 
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     89 02] prison 
+-r-xr-xr-x   1    0    0    1052592 Apr 23 2007 [ 480448 00] queens_gate.res 
+-r-xr-xr-x   1    0    0    1283088 Apr 18 2007 [ 480976 00] rundown_far_far_away.res 
+-r-xr-xr-x   1    0    0     735856 Apr 18 2007 [ 481616 00] shrek_babies.res 
+-r-xr-xr-x   1    0    0    1558032 Apr 18 2007 [ 481984 00] stage_finale.res 
+-r-xr-xr-x   1    0    0    1003088 Apr 18 2007 [ 482752 00] tutorial.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/spa/movies/
+dr-xr-xr-x   1    0    0       2048 May  1 2007 [     65 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 17 2007 [     46 02] .. 
+-r-xr-xr-x   1    0    0        593 May  1 2007 [ 483248 00] .sconsign 
+-r-xr-xr-x   1    0    0   22994944 Apr 27 2007 [ 483264 00] intro.pmf 
+-r-xr-xr-x   1    0    0   12804096 May  1 2007 [ 494496 00] outro.pmf 
+-r-xr-xr-x   1    0    0    8003584 Apr 19 2007 [ 500752 00] puppetshow_2.pmf 
+-r-xr-xr-x   1    0    0    8222720 Apr 19 2007 [ 504672 00] puppetshow_3.pmf 
+-r-xr-xr-x   1    0    0    5767168 Apr 19 2007 [ 508688 00] puppetshow_4.pmf 
+-r-xr-xr-x   1    0    0    7733248 Apr 23 2007 [ 511504 00] puppetshow_4b.pmf 
+-r-xr-xr-x   1    0    0    5459968 Apr 23 2007 [ 515280 00] puppetshow_5.pmf 
+-r-xr-xr-x   1    0    0    4825088 Apr 24 2007 [ 517952 00] puppetshow_6.pmf 
+-r-xr-xr-x   1    0    0    4329472 Apr 24 2007 [ 520320 00] puppetshow_7.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/loc/dut/levels/arties_quest/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     66 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 23 2007 [     49 02] .. 
+-r-xr-xr-x   1    0    0        217 Apr 18 2007 [ 191024 00] .sconsign 
+-r-xr-xr-x   1    0    0     943152 Apr 18 2007 [ 191040 00] 1_mountains.res 
+-r-xr-xr-x   1    0    0    1627536 Apr 12 2007 [ 191504 00] 2_lake.res 
+-r-xr-xr-x   1    0    0    1183216 Apr 12 2007 [ 192304 00] 3_ice_cave.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/dut/levels/far_far_outskirts/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     67 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 23 2007 [     49 02] .. 
+-r-xr-xr-x   1    0    0        269 Apr 18 2007 [ 194512 00] .sconsign 
+-r-xr-xr-x   1    0    0    1370960 Apr 18 2007 [ 194528 00] 1_ruins.res 
+-r-xr-xr-x   1    0    0     693104 Apr 17 2007 [ 195200 00] 1_ruins_b.res 
+-r-xr-xr-x   1    0    0     973104 Apr 12 2007 [ 195552 00] 2_dock.res 
+-r-xr-xr-x   1    0    0     801776 Apr 12 2007 [ 196032 00] 3_ship.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/dut/levels/forest/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     68 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 23 2007 [     49 02] .. 
+-r-xr-xr-x   1    0    0        283 Apr 18 2007 [ 196432 00] .sconsign 
+-r-xr-xr-x   1    0    0     134000 Apr 12 2007 [ 196448 00] forest_1.res 
+-r-xr-xr-x   1    0    0      53968 Apr 17 2007 [ 196528 00] forest_2.res 
+-r-xr-xr-x   1    0    0    1257392 Apr 12 2007 [ 196560 00] forest_3.res 
+-r-xr-xr-x   1    0    0    1148624 Apr 18 2007 [ 197184 00] forest_4.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/dut/levels/prison/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     69 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 23 2007 [     49 02] .. 
+-r-xr-xr-x   1    0    0        225 Apr 18 2007 [ 201072 00] .sconsign 
+-r-xr-xr-x   1    0    0     985136 Apr 18 2007 [ 201088 00] catacombs.res 
+-r-xr-xr-x   1    0    0    1251696 Apr 12 2007 [ 201584 00] cell_block.res 
+-r-xr-xr-x   1    0    0    1354128 Apr 12 2007 [ 202208 00] detention_center.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/euk/levels/arties_quest/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     70 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 23 2007 [     52 02] .. 
+-r-xr-xr-x   1    0    0        217 Apr 18 2007 [ 247056 00] .sconsign 
+-r-xr-xr-x   1    0    0     943152 Apr 18 2007 [ 247072 00] 1_mountains.res 
+-r-xr-xr-x   1    0    0    1627536 Apr 12 2007 [ 247536 00] 2_lake.res 
+-r-xr-xr-x   1    0    0    1183216 Apr 12 2007 [ 248336 00] 3_ice_cave.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/euk/levels/far_far_outskirts/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     71 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 23 2007 [     52 02] .. 
+-r-xr-xr-x   1    0    0        269 Apr 18 2007 [ 250544 00] .sconsign 
+-r-xr-xr-x   1    0    0    1370960 Apr 18 2007 [ 250560 00] 1_ruins.res 
+-r-xr-xr-x   1    0    0     693104 Apr 17 2007 [ 251232 00] 1_ruins_b.res 
+-r-xr-xr-x   1    0    0     973104 Apr 12 2007 [ 251584 00] 2_dock.res 
+-r-xr-xr-x   1    0    0     801776 Apr 12 2007 [ 252064 00] 3_ship.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/euk/levels/forest/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     72 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 23 2007 [     52 02] .. 
+-r-xr-xr-x   1    0    0        283 Apr 18 2007 [ 252464 00] .sconsign 
+-r-xr-xr-x   1    0    0     134000 Apr 12 2007 [ 252480 00] forest_1.res 
+-r-xr-xr-x   1    0    0      53968 Apr 17 2007 [ 252560 00] forest_2.res 
+-r-xr-xr-x   1    0    0    1257392 Apr 12 2007 [ 252592 00] forest_3.res 
+-r-xr-xr-x   1    0    0    1148624 Apr 18 2007 [ 253216 00] forest_4.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/euk/levels/prison/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     73 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 23 2007 [     52 02] .. 
+-r-xr-xr-x   1    0    0        225 Apr 18 2007 [ 257072 00] .sconsign 
+-r-xr-xr-x   1    0    0     985136 Apr 18 2007 [ 257088 00] catacombs.res 
+-r-xr-xr-x   1    0    0    1251696 Apr 12 2007 [ 257584 00] cell_block.res 
+-r-xr-xr-x   1    0    0    1354128 Apr 12 2007 [ 258208 00] detention_center.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/fre/levels/arties_quest/
+dr-xr-xr-x   1    0    0       2048 Jun  8 2007 [     74 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 23 2007 [     55 02] .. 
+-r-xr-xr-x   1    0    0        217 Jun  8 2007 [ 302800 00] .sconsign 
+-r-xr-xr-x   1    0    0     923824 Apr 18 2007 [ 302816 00] 1_mountains.res 
+-r-xr-xr-x   1    0    0    1591184 Jun  8 2007 [ 303280 00] 2_lake.res 
+-r-xr-xr-x   1    0    0    1170224 Apr 18 2007 [ 304064 00] 3_ice_cave.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/fre/levels/far_far_outskirts/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     75 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 23 2007 [     55 02] .. 
+-r-xr-xr-x   1    0    0        269 Apr 18 2007 [ 306224 00] .sconsign 
+-r-xr-xr-x   1    0    0    1429296 Apr 18 2007 [ 306240 00] 1_ruins.res 
+-r-xr-xr-x   1    0    0     693424 Apr 17 2007 [ 306944 00] 1_ruins_b.res 
+-r-xr-xr-x   1    0    0    1010736 Apr 18 2007 [ 307296 00] 2_dock.res 
+-r-xr-xr-x   1    0    0     781680 Apr 18 2007 [ 307792 00] 3_ship.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/fre/levels/forest/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     76 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 23 2007 [     55 02] .. 
+-r-xr-xr-x   1    0    0        283 Apr 18 2007 [ 308176 00] .sconsign 
+-r-xr-xr-x   1    0    0     139088 Apr 18 2007 [ 308192 00] forest_1.res 
+-r-xr-xr-x   1    0    0      55600 Apr 17 2007 [ 308272 00] forest_2.res 
+-r-xr-xr-x   1    0    0    1258032 Apr 18 2007 [ 308304 00] forest_3.res 
+-r-xr-xr-x   1    0    0    1164912 Apr 18 2007 [ 308928 00] forest_4.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/fre/levels/prison/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     77 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 23 2007 [     55 02] .. 
+-r-xr-xr-x   1    0    0        225 Apr 18 2007 [ 312096 00] .sconsign 
+-r-xr-xr-x   1    0    0    1009136 Apr 18 2007 [ 312112 00] catacombs.res 
+-r-xr-xr-x   1    0    0    1283696 Apr 18 2007 [ 312608 00] cell_block.res 
+-r-xr-xr-x   1    0    0    1364848 Apr 18 2007 [ 313248 00] detention_center.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ger/levels/arties_quest/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     78 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 23 2007 [     58 02] .. 
+-r-xr-xr-x   1    0    0        217 Apr 18 2007 [ 357408 00] .sconsign 
+-r-xr-xr-x   1    0    0    1036176 Apr 16 2007 [ 357424 00] 1_mountains.res 
+-r-xr-xr-x   1    0    0    1716400 Apr 12 2007 [ 357936 00] 2_lake.res 
+-r-xr-xr-x   1    0    0    1211152 Apr 13 2007 [ 358784 00] 3_ice_cave.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ger/levels/far_far_outskirts/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     79 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 23 2007 [     58 02] .. 
+-r-xr-xr-x   1    0    0        269 Apr 18 2007 [ 361072 00] .sconsign 
+-r-xr-xr-x   1    0    0    1551632 Apr 13 2007 [ 361088 00] 1_ruins.res 
+-r-xr-xr-x   1    0    0     751696 Apr 17 2007 [ 361856 00] 1_ruins_b.res 
+-r-xr-xr-x   1    0    0    1015824 Apr 12 2007 [ 362224 00] 2_dock.res 
+-r-xr-xr-x   1    0    0     881520 Apr 12 2007 [ 362736 00] 3_ship.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ger/levels/forest/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     80 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 23 2007 [     58 02] .. 
+-r-xr-xr-x   1    0    0        283 Apr 18 2007 [ 363168 00] .sconsign 
+-r-xr-xr-x   1    0    0     134000 Apr 18 2007 [ 363184 00] forest_1.res 
+-r-xr-xr-x   1    0    0      55856 Apr 17 2007 [ 363264 00] forest_2.res 
+-r-xr-xr-x   1    0    0    1391408 Apr 13 2007 [ 363296 00] forest_3.res 
+-r-xr-xr-x   1    0    0    1268048 Apr 13 2007 [ 363984 00] forest_4.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ger/levels/prison/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     81 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 23 2007 [     58 02] .. 
+-r-xr-xr-x   1    0    0        225 Apr 18 2007 [ 367280 00] .sconsign 
+-r-xr-xr-x   1    0    0    1067760 Apr 12 2007 [ 367296 00] catacombs.res 
+-r-xr-xr-x   1    0    0    1393264 Apr 16 2007 [ 367824 00] cell_block.res 
+-r-xr-xr-x   1    0    0    1494576 Apr 12 2007 [ 368512 00] detention_center.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ita/levels/arties_quest/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     82 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 23 2007 [     61 02] .. 
+-r-xr-xr-x   1    0    0        217 Apr 18 2007 [ 413088 00] .sconsign 
+-r-xr-xr-x   1    0    0     938928 Apr 18 2007 [ 413104 00] 1_mountains.res 
+-r-xr-xr-x   1    0    0    1604688 Apr 18 2007 [ 413568 00] 2_lake.res 
+-r-xr-xr-x   1    0    0    1153168 Apr 18 2007 [ 414352 00] 3_ice_cave.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ita/levels/far_far_outskirts/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     83 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 23 2007 [     61 02] .. 
+-r-xr-xr-x   1    0    0        269 Apr 18 2007 [ 416608 00] .sconsign 
+-r-xr-xr-x   1    0    0    1505776 Apr 18 2007 [ 416624 00] 1_ruins.res 
+-r-xr-xr-x   1    0    0     718672 Apr 17 2007 [ 417360 00] 1_ruins_b.res 
+-r-xr-xr-x   1    0    0    1009456 Apr 18 2007 [ 417712 00] 2_dock.res 
+-r-xr-xr-x   1    0    0     823248 Apr 18 2007 [ 418208 00] 3_ship.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ita/levels/forest/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     84 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 23 2007 [     61 02] .. 
+-r-xr-xr-x   1    0    0        283 Apr 18 2007 [ 418624 00] .sconsign 
+-r-xr-xr-x   1    0    0     134000 Apr 18 2007 [ 418640 00] forest_1.res 
+-r-xr-xr-x   1    0    0      58192 Apr 17 2007 [ 418720 00] forest_2.res 
+-r-xr-xr-x   1    0    0    1298928 Apr 18 2007 [ 418752 00] forest_3.res 
+-r-xr-xr-x   1    0    0    1203888 Apr 18 2007 [ 419392 00] forest_4.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/ita/levels/prison/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     85 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 23 2007 [     61 02] .. 
+-r-xr-xr-x   1    0    0        225 Apr 18 2007 [ 423232 00] .sconsign 
+-r-xr-xr-x   1    0    0    1020432 Apr 18 2007 [ 423248 00] catacombs.res 
+-r-xr-xr-x   1    0    0    1277200 Apr 18 2007 [ 423760 00] cell_block.res 
+-r-xr-xr-x   1    0    0    1415024 Apr 18 2007 [ 424384 00] detention_center.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/spa/levels/arties_quest/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     86 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 23 2007 [     64 02] .. 
+-r-xr-xr-x   1    0    0        217 Apr 18 2007 [ 468816 00] .sconsign 
+-r-xr-xr-x   1    0    0     954064 Apr 18 2007 [ 468832 00] 1_mountains.res 
+-r-xr-xr-x   1    0    0    1713136 Apr 12 2007 [ 469312 00] 2_lake.res 
+-r-xr-xr-x   1    0    0    1180144 Apr 18 2007 [ 470160 00] 3_ice_cave.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/spa/levels/far_far_outskirts/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     87 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 23 2007 [     64 02] .. 
+-r-xr-xr-x   1    0    0        269 Apr 18 2007 [ 472304 00] .sconsign 
+-r-xr-xr-x   1    0    0    1465712 Apr 18 2007 [ 472320 00] 1_ruins.res 
+-r-xr-xr-x   1    0    0     705488 Apr 18 2007 [ 473040 00] 1_ruins_b.res 
+-r-xr-xr-x   1    0    0    1002064 Apr 18 2007 [ 473392 00] 2_dock.res 
+-r-xr-xr-x   1    0    0     812976 Apr 18 2007 [ 473888 00] 3_ship.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/spa/levels/forest/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     88 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 23 2007 [     64 02] .. 
+-r-xr-xr-x   1    0    0        283 Apr 18 2007 [ 474288 00] .sconsign 
+-r-xr-xr-x   1    0    0     136848 Apr 18 2007 [ 474304 00] forest_1.res 
+-r-xr-xr-x   1    0    0      52976 Apr 17 2007 [ 474384 00] forest_2.res 
+-r-xr-xr-x   1    0    0    1289104 Apr 18 2007 [ 474416 00] forest_3.res 
+-r-xr-xr-x   1    0    0    1206768 Apr 18 2007 [ 475056 00] forest_4.res 
+
+Directory listing of /PSP_GAME/USRDIR/loc/spa/levels/prison/
+dr-xr-xr-x   1    0    0       2048 Apr 18 2007 [     89 02] . 
+dr-xr-xr-x   1    0    0       2048 Apr 23 2007 [     64 02] .. 
+-r-xr-xr-x   1    0    0        225 Apr 18 2007 [ 478272 00] .sconsign 
+-r-xr-xr-x   1    0    0    1012016 Apr 18 2007 [ 478288 00] catacombs.res 
+-r-xr-xr-x   1    0    0    1338544 Apr 18 2007 [ 478784 00] cell_block.res 
+-r-xr-xr-x   1    0    0    1386512 Apr 18 2007 [ 479440 00] detention_center.res 
+=============================================================== 
+Generated on Tue 09/08/2022 at  5:37:15.47 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

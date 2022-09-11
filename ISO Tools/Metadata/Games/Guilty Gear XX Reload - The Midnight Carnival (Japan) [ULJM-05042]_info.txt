@@ -1,0 +1,150 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Guilty Gear XX Reload - The Midnight Carnival  
+Title ID: ULJM-05042 
+Region: Japan  
+Languages:   
+Volume Creation Date: 2005-08-10 12:00:00 
+Volume Size: 463 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: SEGA
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 237440
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Aug 10 2005 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 10 2005 [     22 02] .. 
+-r-xr-xr-x   1    0    0         48 Jun 25 2005 [     31 00] UMD_DATA.BIN 
+dr-xr-xr-x   1    0    0       2048 Jun 25 2005 [     23 02] PSP_GAME 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Jun 25 2005 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 10 2005 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jun 25 2005 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Jun 25 2005 [     25 02] USRDIR 
+-r-xr-xr-x   1    0    0        472 Jul 29 2005 [  22096 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     198559 Jun 24 2005 [  22112 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0      28843 May 20 2005 [  22224 00] ICON0.PNG 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Jun 25 2005 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 25 2005 [     23 02] .. 
+-r-xr-xr-x   1    0    0    3191216 Aug 10 2005 [     32 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Jun 25 2005 [     26 02] UPDATE 
+-r-xr-xr-x   1    0    0    3190880 Aug  2 2005 [  22240 00] BOOT.BIN 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Jun 25 2005 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 25 2005 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 May 19 2005 [     27 02] module 
+dr-xr-xr-x   1    0    0       2048 Jul  4 2005 [     28 02] movie 
+-r-xr-xr-x   1    0    0  274149376 Jul 30 2005 [ 103568 00] umddata.bin 
+dr-xr-xr-x   1    0    0       4096 May 27 2005 [     29 02] bgm 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Jun 25 2005 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 25 2005 [     24 02] .. 
+-r-xr-xr-x   1    0    0       1732 Jun 25 2005 [   1600 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0    3680208 Jun 25 2005 [   1616 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0   10284528 Jun 25 2005 [   5712 00] DATA.BIN 
+
+Directory listing of /PSP_GAME/USRDIR/module/
+dr-xr-xr-x   1    0    0       2048 May 19 2005 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 25 2005 [     25 02] .. 
+-r-xr-xr-x   1    0    0       3200 Jun 13 2005 [  78768 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0      10816 Jun 13 2005 [  78864 00] ifhandle.prx 
+-r-xr-xr-x   1    0    0      19940 Jun 13 2005 [  78784 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0       6056 Jun 13 2005 [  79008 00] libccc.prx 
+-r-xr-xr-x   1    0    0      17216 Jun 13 2005 [  78880 00] memab.prx 
+-r-xr-xr-x   1    0    0      43068 Jun 13 2005 [  78816 00] mpeg.prx 
+-r-xr-xr-x   1    0    0       5808 Jun 13 2005 [  78848 00] mpegbase.prx 
+-r-xr-xr-x   1    0    0      60360 Jun 13 2005 [  78928 00] pspnet.prx 
+-r-xr-xr-x   1    0    0      42492 Jun 13 2005 [  78896 00] pspnet_adhoc.prx 
+-r-xr-xr-x   1    0    0      31996 Jun 13 2005 [  78960 00] pspnet_adhocctl.prx 
+-r-xr-xr-x   1    0    0      11360 Jun 13 2005 [  78976 00] pspnet_adhoc_auth.prx 
+-r-xr-xr-x   1    0    0      19688 Jun 13 2005 [  78992 00] pspnet_adhoc_matching.prx 
+-r-xr-xr-x   1    0    0       5904 Jun 13 2005 [  78752 00] sc_sascore.prx 
+-r-xr-xr-x   1    0    0       3808 Jun 13 2005 [  78800 00] videocodec.prx 
+
+Directory listing of /PSP_GAME/USRDIR/movie/
+dr-xr-xr-x   1    0    0       2048 Jul  4 2005 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 25 2005 [     25 02] .. 
+-r-xr-xr-x   1    0    0     636928 Jul  4 2005 [  79024 00] al.pmf 
+-r-xr-xr-x   1    0    0   42231808 Jul  4 2005 [  82944 00] ex.pmf 
+-r-xr-xr-x   1    0    0    7366656 Jul  4 2005 [  79344 00] opjp.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/bgm/
+dr-xr-xr-x   1    0    0       4096 May 27 2005 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 25 2005 [     25 02] .. 
+-r-xr-xr-x   1    0    0    2955792 Feb  7 2005 [  23808 00] 01.at3 
+-r-xr-xr-x   1    0    0    3028752 Feb  7 2005 [  25264 00] 02.at3 
+-r-xr-xr-x   1    0    0    3013008 Feb  7 2005 [  26752 00] 03.at3 
+-r-xr-xr-x   1    0    0    2964624 Feb  7 2005 [  28224 00] 04.at3 
+-r-xr-xr-x   1    0    0    3038352 Feb  7 2005 [  29680 00] 05.at3 
+-r-xr-xr-x   1    0    0    1186320 Feb  7 2005 [  31168 00] 06.at3 
+-r-xr-xr-x   1    0    0    3092112 Feb  7 2005 [  31760 00] 07.at3 
+-r-xr-xr-x   1    0    0     407568 Feb  7 2005 [  33280 00] 08.at3 
+-r-xr-xr-x   1    0    0    3062928 Feb  7 2005 [  33488 00] 09.at3 
+-r-xr-xr-x   1    0    0    3014544 Feb  7 2005 [  34992 00] 10.at3 
+-r-xr-xr-x   1    0    0     201360 Feb  7 2005 [  36464 00] 11.at3 
+-r-xr-xr-x   1    0    0    3058704 Feb  7 2005 [  36576 00] 12.at3 
+-r-xr-xr-x   1    0    0    2964624 Feb  7 2005 [  38080 00] 13.at3 
+-r-xr-xr-x   1    0    0    3059472 Feb  7 2005 [  39536 00] 14.at3 
+-r-xr-xr-x   1    0    0    2941968 Feb  7 2005 [  41040 00] 15.at3 
+-r-xr-xr-x   1    0    0    3054096 Feb  7 2005 [  42480 00] 16.at3 
+-r-xr-xr-x   1    0    0    2890512 Feb  7 2005 [  43984 00] 17.at3 
+-r-xr-xr-x   1    0    0    2968848 Feb  7 2005 [  45408 00] 18.at3 
+-r-xr-xr-x   1    0    0     906000 Feb  7 2005 [  46864 00] 19.at3 
+-r-xr-xr-x   1    0    0    3154320 Feb  7 2005 [  47312 00] 20.at3 
+-r-xr-xr-x   1    0    0    3072528 May 27 2005 [  48864 00] 21.at3 
+-r-xr-xr-x   1    0    0    2986128 Feb  7 2005 [  50368 00] 22.at3 
+-r-xr-xr-x   1    0    0    3046032 May 27 2005 [  51840 00] 23.at3 
+-r-xr-xr-x   1    0    0    3081360 Feb  7 2005 [  53328 00] 24.at3 
+-r-xr-xr-x   1    0    0    2996112 Feb  7 2005 [  54848 00] 25.at3 
+-r-xr-xr-x   1    0    0     117648 Feb  7 2005 [  56320 00] 26.at3 
+-r-xr-xr-x   1    0    0    3063312 Feb  7 2005 [  56384 00] 27.at3 
+-r-xr-xr-x   1    0    0    3095952 Feb  7 2005 [  57888 00] 28.at3 
+-r-xr-xr-x   1    0    0    2999952 Feb  7 2005 [  59408 00] 29.at3 
+-r-xr-xr-x   1    0    0    2989200 Feb  7 2005 [  60880 00] 30.at3 
+-r-xr-xr-x   1    0    0    3066000 Feb  7 2005 [  62352 00] 31.at3 
+-r-xr-xr-x   1    0    0    2933520 Feb  7 2005 [  63856 00] 32.at3 
+-r-xr-xr-x   1    0    0    2942736 Feb  7 2005 [  65296 00] 33.at3 
+-r-xr-xr-x   1    0    0    3165072 Feb  7 2005 [  66736 00] 34.at3 
+-r-xr-xr-x   1    0    0    3213072 Feb  7 2005 [  68288 00] 35.at3 
+-r-xr-xr-x   1    0    0    3314448 Feb  7 2005 [  69872 00] 36.at3 
+-r-xr-xr-x   1    0    0    2595216 Feb  7 2005 [  71504 00] 37.at3 
+-r-xr-xr-x   1    0    0    3473040 Feb  7 2005 [  72784 00] 38.at3 
+-r-xr-xr-x   1    0    0    1448208 Feb  7 2005 [  74480 00] 39.at3 
+-r-xr-xr-x   1    0    0    1201680 Feb  7 2005 [  75200 00] 40.at3 
+-r-xr-xr-x   1    0    0    3026064 Feb  7 2005 [  75792 00] 41.at3 
+-r-xr-xr-x   1    0    0    2984208 Feb  7 2005 [  77280 00] 42.at3 
+=============================================================== 
+Generated on Mon 22/08/2022 at 13:12:09.61 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

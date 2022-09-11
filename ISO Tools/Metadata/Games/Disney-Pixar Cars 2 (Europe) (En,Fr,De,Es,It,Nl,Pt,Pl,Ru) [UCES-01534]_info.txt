@@ -1,0 +1,2605 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Disney-Pixar Cars 2   
+Title ID: UCES-01534 
+Region: Europe  
+Languages: En,Fr,De,Es,It,Nl,Pt,Pl,Ru  
+Volume Creation Date: 2011-09-25 15:45:32 
+Volume Size: 697 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: CARS2
+Volume set id: CARS2
+Publisher id: SCEE
+Data preparer id: VIRTUAL TOYS
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 357040
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     26 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2011 [     27 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Jul 28 2011 [    189 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Jul 28 2011 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     26 02] .. 
+-r-xr-xr-x   1    0    0      21858 Sep  1 2011 [  56976 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        560 Sep  8 2011 [  56992 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     180722 Aug 22 2011 [  57008 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0     309672 Aug 22 2011 [  57104 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2011 [     28 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     29 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Jul 28 2011 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2011 [     27 02] .. 
+-r-xr-xr-x   1    0    0    7185613 Sep 25 2011 [  57264 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    7185952 Sep 25 2011 [    704 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0        880 Jul 28 2011 [    192 00] OPNSSMP.BIN 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2011 [     30 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2011 [     27 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     31 02] ANIMS 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     32 02] AUDIO 
+dr-xr-xr-x   1    0    0       6144 Sep 25 2011 [     33 02] CARS 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     36 02] FONTS 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     37 02] FRONTEND 
+-r-xr-xr-x   1    0    0      21858 Sep  1 2011 [ 248448 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     990397 Sep 24 2011 [ 248464 00] INITPACK.PACK 
+-r-xr-xr-x   1    0    0     990409 Sep 24 2011 [ 248960 00] INITPACKUSA.PACK 
+-r-xr-xr-x   1    0    0        342 Jul  5 2011 [ 249456 00] INIT_CONFIG.LUA 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     38 02] LOCALIZATION_USA 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     39 02] LOCALIZATION 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     40 02] MESHES 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     41 02] MODULES 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     42 02] OBJECTS 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     43 02] PARTICLESYSTEMS 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     45 02] PHYSICS 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     46 02] PROFANITY 
+dr-xr-xr-x   1    0    0       6144 Sep 25 2011 [     47 02] SCRIPTS 
+dr-xr-xr-x   1    0    0      26624 Sep 25 2011 [     50 02] TEXTURES 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     63 02] UI 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     64 02] VIDEOS 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Jul 28 2011 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Jul 28 2011 [     28 02] .. 
+-r-xr-xr-x   1    0    0   26096016 Jul 28 2011 [   8336 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5540576 Jul 28 2011 [   4240 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Jul 28 2011 [   4224 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/ANIMS/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     31 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     29 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     65 02] CAMERAS 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     66 02] CARS 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     67 02] OBJECTS 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     32 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     29 02] .. 
+-r-xr-xr-x   1    0    0      45184 Jul 28 2011 [  61024 00] BULLET_IMPACT.FSB 
+-r-xr-xr-x   1    0    0      41294 Sep 21 2011 [  61056 00] CARS.FEV 
+-r-xr-xr-x   1    0    0      39257 Aug 26 2011 [  61088 00] CARS.TXT 
+-r-xr-xr-x   1    0    0     136000 Sep 21 2011 [  61120 00] CRASHES.FSB 
+-r-xr-xr-x   1    0    0     154944 Sep 15 2011 [  61200 00] EXPLOSIONS.FSB 
+-r-xr-xr-x   1    0    0     120000 Aug 18 2011 [  61280 00] GAME_MODE.FSB 
+-r-xr-xr-x   1    0    0     112288 Jul 28 2011 [  61344 00] INTERFACE.FSB 
+-r-xr-xr-x   1    0    0     330720 Jul 28 2011 [  61408 00] LOAD_MUSIC.FSB 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     68 02] LOCALIZED_GARAGE 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] LOCALIZED 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     71 02] MUSIC 
+-r-xr-xr-x   1    0    0      20550 Sep 14 2011 [ 236368 00] PHRASES.BIN 
+-r-xr-xr-x   1    0    0      60160 Sep 21 2011 [ 236384 00] SKIDS.FSB 
+-r-xr-xr-x   1    0    0      43328 Jul 28 2011 [ 236416 00] SLOW_MOTION.FSB 
+-r-xr-xr-x   1    0    0      85312 Aug  2 2011 [ 236448 00] VE_CLASSIC.FSB 
+-r-xr-xr-x   1    0    0     140160 Sep 13 2011 [ 236496 00] VE_FORMULA1.FSB 
+-r-xr-xr-x   1    0    0      51968 Aug  2 2011 [ 236576 00] VE_GREMLIN.FSB 
+-r-xr-xr-x   1    0    0      75616 Aug  2 2011 [ 236608 00] VE_MCQUEEN.FSB 
+-r-xr-xr-x   1    0    0      72192 Sep 15 2011 [ 236656 00] VE_MISC.FSB 
+-r-xr-xr-x   1    0    0      88928 Aug  2 2011 [ 236704 00] VE_RALLY.FSB 
+-r-xr-xr-x   1    0    0      81376 Jul 28 2011 [ 236752 00] VE_TRACTOR.FSB 
+-r-xr-xr-x   1    0    0      39360 Sep 15 2011 [ 236800 00] WEAPONS_FACTORX.FSB 
+-r-xr-xr-x   1    0    0     112384 Aug  3 2011 [ 236832 00] WEAPONS_LEACH.FSB 
+-r-xr-xr-x   1    0    0      86112 Aug  3 2011 [ 236896 00] WEAPONS_MACHINEGUN.FSB 
+-r-xr-xr-x   1    0    0      24480 Jul 28 2011 [ 236944 00] WEAPONS_MINE.FSB 
+-r-xr-xr-x   1    0    0      97248 Aug  3 2011 [ 236960 00] WEAPONS_MISSILE.FSB 
+-r-xr-xr-x   1    0    0      47552 Jul 28 2011 [ 237008 00] WEAPONS_OIL.FSB 
+-r-xr-xr-x   1    0    0      21696 Aug  3 2011 [ 237040 00] WEAPONS_SATELLITE.FSB 
+-r-xr-xr-x   1    0    0      38592 Aug  3 2011 [ 237056 00] WEAPONS_SHIELD.FSB 
+-r-xr-xr-x   1    0    0      83904 Aug  3 2011 [ 237088 00] WEAPONS_SKATEJACK.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/CARS/
+dr-xr-xr-x   1    0    0       6144 Sep 25 2011 [     33 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     29 02] .. 
+-r-xr-xr-x   1    0    0     538535 Sep 16 2011 [ 237136 00] AXLEROD.PACK 
+-r-xr-xr-x   1    0    0       8480 Sep 13 2011 [ 237408 00] AXLEROD_COLLISION.BULLET 
+-r-xr-xr-x   1    0    0      61845 Sep  2 2011 [ 237424 00] CARAVANA_01.PACK 
+-r-xr-xr-x   1    0    0     547680 Sep 19 2011 [ 237456 00] CARLA.PACK 
+-r-xr-xr-x   1    0    0       8476 Sep 13 2011 [ 237728 00] CARLA_COLLISION.BULLET 
+-r-xr-xr-x   1    0    0      78993 Sep  1 2011 [ 237744 00] COW_TRACTOR.PACK 
+-r-xr-xr-x   1    0    0     547496 Sep 21 2011 [ 237792 00] FILLMORE.PACK 
+-r-xr-xr-x   1    0    0       8480 Sep 13 2011 [ 238064 00] FILLMORE_COLLISION.BULLET 
+-r-xr-xr-x   1    0    0     553479 Sep 19 2011 [ 238080 00] FINN.PACK 
+-r-xr-xr-x   1    0    0       8476 Sep 13 2011 [ 238352 00] FINN_COLLISION.BULLET 
+-r-xr-xr-x   1    0    0     617612 Sep 19 2011 [ 238368 00] FRANCESCO.PACK 
+-r-xr-xr-x   1    0    0       8480 Sep 13 2011 [ 238672 00] FRANCESCO_COLLISION.BULLET 
+-r-xr-xr-x   1    0    0     535476 Sep 19 2011 [ 238688 00] GORVETTE.PACK 
+-r-xr-xr-x   1    0    0       8480 Sep 13 2011 [ 238960 00] GORVETTE_COLLISION.BULLET 
+-r-xr-xr-x   1    0    0     548775 Sep 16 2011 [ 238976 00] GREM.PACK 
+-r-xr-xr-x   1    0    0       8476 Sep 13 2011 [ 239248 00] GREM_COLLISION.BULLET 
+-r-xr-xr-x   1    0    0     558475 Sep 21 2011 [ 239264 00] GUIDO.PACK 
+-r-xr-xr-x   1    0    0       8476 Sep 13 2011 [ 239552 00] GUIDO_COLLISION.BULLET 
+-r-xr-xr-x   1    0    0     362518 Sep  7 2011 [ 239568 00] HAMILTON.PACK 
+-r-xr-xr-x   1    0    0       8480 Sep 13 2011 [ 239760 00] HAMILTON_COLLISION.BULLET 
+-r-xr-xr-x   1    0    0     538210 Sep 20 2011 [ 239776 00] HOLLY.PACK 
+-r-xr-xr-x   1    0    0       8476 Sep 13 2011 [ 240048 00] HOLLY_COLLISION.BULLET 
+-r-xr-xr-x   1    0    0     575032 Sep 16 2011 [ 240064 00] LUIGI.PACK 
+-r-xr-xr-x   1    0    0       8476 Sep 13 2011 [ 240352 00] LUIGI_COLLISION.BULLET 
+-r-xr-xr-x   1    0    0     617505 Sep 19 2011 [ 240368 00] MATER.PACK 
+-r-xr-xr-x   1    0    0       8476 Sep 13 2011 [ 240672 00] MATER_COLLISION.BULLET 
+-r-xr-xr-x   1    0    0     536822 Sep 20 2011 [ 240688 00] MAX.PACK 
+-r-xr-xr-x   1    0    0       8476 Sep 13 2011 [ 240960 00] MAX_COLLISION.BULLET 
+-r-xr-xr-x   1    0    0     571619 Sep 20 2011 [ 240976 00] MCQUEEN.PACK 
+-r-xr-xr-x   1    0    0       8480 Sep 13 2011 [ 241264 00] MCQUEEN_COLLISION.BULLET 
+-r-xr-xr-x   1    0    0     541185 Sep 19 2011 [ 241280 00] MIGUEL.PACK 
+-r-xr-xr-x   1    0    0       8480 Sep 13 2011 [ 241552 00] MIGUEL_COLLISION.BULLET 
+-r-xr-xr-x   1    0    0     543275 Sep 20 2011 [ 241568 00] NIGEL.PACK 
+-r-xr-xr-x   1    0    0       8476 Sep 13 2011 [ 241840 00] NIGEL_COLLISION.BULLET 
+-r-xr-xr-x   1    0    0     576994 Sep 16 2011 [ 241856 00] PACER.PACK 
+-r-xr-xr-x   1    0    0       8476 Sep 13 2011 [ 242144 00] PACER_COLLISION.BULLET 
+-r-xr-xr-x   1    0    0     593928 Sep 16 2011 [ 242160 00] PROFESSORZ.PACK 
+-r-xr-xr-x   1    0    0       8484 Sep 13 2011 [ 242464 00] PROFESSORZ_COLLISION.BULLET 
+-r-xr-xr-x   1    0    0     545519 Sep 19 2011 [ 242480 00] RAOUL.PACK 
+-r-xr-xr-x   1    0    0       8476 Sep 13 2011 [ 242752 00] RAOUL_COLLISION.BULLET 
+-r-xr-xr-x   1    0    0     532269 Sep 20 2011 [ 242768 00] ROD.PACK 
+-r-xr-xr-x   1    0    0       8476 Sep 13 2011 [ 243040 00] ROD_COLLISION.BULLET 
+-r-xr-xr-x   1    0    0     548841 Sep 21 2011 [ 243056 00] SARGE.PACK 
+-r-xr-xr-x   1    0    0       8476 Sep 13 2011 [ 243328 00] SARGE_COLLISION.BULLET 
+-r-xr-xr-x   1    0    0     553413 Sep 20 2011 [ 243344 00] TODOROKI.PACK 
+-r-xr-xr-x   1    0    0       8444 Sep 13 2011 [ 243616 00] TODOROKI_COLLISION.BULLET 
+-r-xr-xr-x   1    0    0     563855 Sep 19 2011 [ 243632 00] TOMBER.PACK 
+-r-xr-xr-x   1    0    0       8480 Sep 13 2011 [ 243920 00] TOMBER_COLLISION.BULLET 
+-r-xr-xr-x   1    0    0     154715 Sep  7 2011 [ 243936 00] TRAFFIC_01.PACK 
+-r-xr-xr-x   1    0    0       8484 Sep 13 2011 [ 244016 00] TRAFFIC_01_COLLISION.BULLET 
+-r-xr-xr-x   1    0    0     154656 Sep  7 2011 [ 244032 00] TRAFFIC_02.PACK 
+-r-xr-xr-x   1    0    0       8484 Sep 13 2011 [ 244112 00] TRAFFIC_02_COLLISION.BULLET 
+-r-xr-xr-x   1    0    0     153596 Sep  7 2011 [ 244128 00] TRAFFIC_03.PACK 
+-r-xr-xr-x   1    0    0       8484 Sep 13 2011 [ 244208 00] TRAFFIC_03_COLLISION.BULLET 
+-r-xr-xr-x   1    0    0     159008 Sep  7 2011 [ 244224 00] TRAFFIC_04.PACK 
+-r-xr-xr-x   1    0    0       8484 Sep 13 2011 [ 244304 00] TRAFFIC_04_COLLISION.BULLET 
+-r-xr-xr-x   1    0    0     157667 Sep  7 2011 [ 244320 00] TRAFFIC_05.PACK 
+-r-xr-xr-x   1    0    0       8484 Sep 13 2011 [ 244400 00] TRAFFIC_05_COLLISION.BULLET 
+-r-xr-xr-x   1    0    0     254196 Aug 10 2011 [ 244416 00] TRAFFIC_BUS.PACK 
+-r-xr-xr-x   1    0    0       8484 Sep 13 2011 [ 244544 00] TRAFFIC_BUS_COLLISION.BULLET 
+-r-xr-xr-x   1    0    0     222279 Aug 10 2011 [ 244560 00] TRAFFIC_TRUCK.PACK 
+-r-xr-xr-x   1    0    0       8484 Sep 13 2011 [ 244672 00] TRAFFIC_TRUCK_COLLISION.BULLET 
+-r-xr-xr-x   1    0    0     420767 Sep  7 2011 [ 244688 00] YUGO.PACK 
+-r-xr-xr-x   1    0    0       8476 Sep 13 2011 [ 244896 00] YUGO_COLLISION.BULLET 
+-r-xr-xr-x   1    0    0     349718 Sep  7 2011 [ 244912 00] ZAPOR.PACK 
+-r-xr-xr-x   1    0    0       8476 Sep 13 2011 [ 245088 00] ZAPOR_COLLISION.BULLET 
+
+Directory listing of /PSP_GAME/USRDIR/FONTS/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     36 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     29 02] .. 
+-r-xr-xr-x   1    0    0       4746 Sep 24 2011 [ 245104 00] MAGISTRALBOLD.PTF 
+-r-xr-xr-x   1    0    0       2199 Jul 15 2011 [ 245120 00] PRAGMATICA.PTF 
+
+Directory listing of /PSP_GAME/USRDIR/FRONTEND/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     37 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     29 02] .. 
+-r-xr-xr-x   1    0    0     296394 Sep 21 2011 [ 245136 00] AXLEROD.PACK 
+-r-xr-xr-x   1    0    0     321409 Sep 13 2011 [ 245296 00] CARLA.PACK 
+-r-xr-xr-x   1    0    0     292471 Sep 21 2011 [ 245456 00] FILLMORE.PACK 
+-r-xr-xr-x   1    0    0     263558 Sep 14 2011 [ 245600 00] FINN.PACK 
+-r-xr-xr-x   1    0    0     354238 Sep 21 2011 [ 245744 00] FRANCESCO.PACK 
+-r-xr-xr-x   1    0    0     231254 Sep 14 2011 [ 245920 00] GORVETTE.PACK 
+-r-xr-xr-x   1    0    0     259400 Sep 20 2011 [ 246048 00] GREM.PACK 
+-r-xr-xr-x   1    0    0     271470 Sep 21 2011 [ 246176 00] GUIDO.PACK 
+-r-xr-xr-x   1    0    0     271021 Sep 21 2011 [ 246320 00] HOLLY.PACK 
+-r-xr-xr-x   1    0    0     282260 Sep 21 2011 [ 246464 00] LUIGI.PACK 
+-r-xr-xr-x   1    0    0     383542 Sep 21 2011 [ 246608 00] MATER.PACK 
+-r-xr-xr-x   1    0    0     290013 Sep 14 2011 [ 246800 00] MAX.PACK 
+-r-xr-xr-x   1    0    0     244614 Sep 20 2011 [ 246944 00] MCQUEEN.PACK 
+-r-xr-xr-x   1    0    0     288688 Sep 21 2011 [ 247072 00] MIGUEL.PACK 
+-r-xr-xr-x   1    0    0     299622 Sep 14 2011 [ 247216 00] NIGEL.PACK 
+-r-xr-xr-x   1    0    0     298984 Sep 15 2011 [ 247376 00] PACER.PACK 
+-r-xr-xr-x   1    0    0     293582 Sep 14 2011 [ 247536 00] PROFESSORZ.PACK 
+-r-xr-xr-x   1    0    0     321129 Sep 14 2011 [ 247680 00] RAOUL.PACK 
+-r-xr-xr-x   1    0    0     281385 Sep 19 2011 [ 247840 00] ROD.PACK 
+-r-xr-xr-x   1    0    0     282816 Sep 21 2011 [ 247984 00] SARGE.PACK 
+-r-xr-xr-x   1    0    0     266042 Sep 14 2011 [ 248128 00] TODOROKI.PACK 
+-r-xr-xr-x   1    0    0     338304 Sep 19 2011 [ 248272 00] TOMBER.PACK 
+
+Directory listing of /PSP_GAME/USRDIR/LOCALIZATION_USA/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     38 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     29 02] .. 
+-r-xr-xr-x   1    0    0      19780 Sep 19 2011 [ 249776 00] CREDITS.TXT 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     72 02] ENGLISH 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     73 02] FRENCH 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     74 02] GERMAN 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     75 02] ITALIAN 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     76 02] SPANISH 
+
+Directory listing of /PSP_GAME/USRDIR/LOCALIZATION/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     39 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     29 02] .. 
+-r-xr-xr-x   1    0    0      20872 Sep 21 2011 [ 249472 00] CREDITS.TXT 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     77 02] DUTCH 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     78 02] ENGLISH 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     79 02] FRENCH 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     80 02] GERMAN 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     81 02] ITALIAN 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     82 02] POLISH 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     83 02] PORTUGUESE 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     84 02] RUSSIAN 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     85 02] SPANISH 
+
+Directory listing of /PSP_GAME/USRDIR/MESHES/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     40 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     29 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     86 02] CARS 
+dr-xr-xr-x   1    0    0      32768 Sep 25 2011 [     87 02] LEVELS 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    103 02] TRAFFIC 
+
+Directory listing of /PSP_GAME/USRDIR/MODULES/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     41 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     29 02] .. 
+-r-xr-xr-x   1    0    0       6832 May 24 2011 [ 309472 00] PSMF.PRX 
+
+Directory listing of /PSP_GAME/USRDIR/OBJECTS/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     42 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     29 02] .. 
+-r-xr-xr-x   1    0    0      28973 Aug 11 2011 [ 309488 00] ATC.PACK 
+-r-xr-xr-x   1    0    0     403834 Sep 12 2011 [ 309504 00] GADGETS.PACK 
+-r-xr-xr-x   1    0    0     171024 Sep 13 2011 [ 309712 00] GADGETS_HUNTER.PACK 
+-r-xr-xr-x   1    0    0     245046 Sep 12 2011 [ 309808 00] TURBO.PACK 
+
+Directory listing of /PSP_GAME/USRDIR/PARTICLESYSTEMS/
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     43 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     29 02] .. 
+-r-xr-xr-x   1    0    0       3483 Aug 26 2011 [ 309936 00] 01_POLVODERRAPE.VTPS 
+-r-xr-xr-x   1    0    0       3436 Aug 26 2011 [ 309952 00] 01_POLVODERRAPE_LOD.VTPS 
+-r-xr-xr-x   1    0    0       3478 Sep 13 2011 [ 309968 00] 02A_NITRO.VTPS 
+-r-xr-xr-x   1    0    0       3487 Sep 13 2011 [ 309984 00] 02B_NITRO_AZUL.VTPS 
+-r-xr-xr-x   1    0    0       3485 Aug 19 2011 [ 310000 00] 02B_NITRO_AZUL_LOD.VTPS 
+-r-xr-xr-x   1    0    0       3410 Sep 13 2011 [ 310016 00] 03A_CHISPAS.VTPS 
+-r-xr-xr-x   1    0    0       3449 Sep 13 2011 [ 310032 00] 04A_EXPLOSION.VTPS 
+-r-xr-xr-x   1    0    0       3433 Aug 19 2011 [ 310048 00] 04A_EXPLOSION_LOD.VTPS 
+-r-xr-xr-x   1    0    0       3440 Sep 13 2011 [ 310064 00] 04B_EXPLOSIONFUEGO.VTPS 
+-r-xr-xr-x   1    0    0       3438 Aug 19 2011 [ 310080 00] 04B_EXPLOSIONFUEGO_LOD.VTPS 
+-r-xr-xr-x   1    0    0       3463 Sep 13 2011 [ 310096 00] 04C_EXPLOSIONONDA.VTPS 
+-r-xr-xr-x   1    0    0       3463 Sep 13 2011 [ 310112 00] 04C_EXPLOSIONONDA_LOD.VTPS 
+-r-xr-xr-x   1    0    0       3467 Sep 13 2011 [ 310128 00] 04D_EXPLOSIONESTELAS.VTPS 
+-r-xr-xr-x   1    0    0       3339 Sep 13 2011 [ 310144 00] 04E_EXPLOSIONCHISPAS.VTPS 
+-r-xr-xr-x   1    0    0       3338 Aug 19 2011 [ 310160 00] 04E_EXPLOSIONCHISPAS_LOD.VTPS 
+-r-xr-xr-x   1    0    0       3236 Sep 13 2011 [ 310176 00] 04F_EXPLOSIONFLASH.VTPS 
+-r-xr-xr-x   1    0    0       3341 Sep 13 2011 [ 310192 00] 04G_EXPLOSIONESTELASBASE.VTPS 
+-r-xr-xr-x   1    0    0       3482 Sep 13 2011 [ 310208 00] 04H_EXPLOSIONHUMOESTELAS.VTPS 
+-r-xr-xr-x   1    0    0       3298 Sep 13 2011 [ 310224 00] 05A_RECOGIDAITEM.VTPS 
+-r-xr-xr-x   1    0    0       3287 Aug 19 2011 [ 310240 00] 05A_RECOGIDAITEM_LOD.VTPS 
+-r-xr-xr-x   1    0    0       3335 Sep 13 2011 [ 310256 00] 05B_PUNTOSVERTICAL.VTPS 
+-r-xr-xr-x   1    0    0       3330 Aug 19 2011 [ 310272 00] 05B_PUNTOSVERTICAL_LOD.VTPS 
+-r-xr-xr-x   1    0    0       3422 Sep 13 2011 [ 310288 00] 06A_DISPAROS.VTPS 
+-r-xr-xr-x   1    0    0       3422 Aug 19 2011 [ 310304 00] 06A_DISPAROS_LOD.VTPS 
+-r-xr-xr-x   1    0    0       3290 Sep 13 2011 [ 310320 00] 06B_DISPAROSFLASH.VTPS 
+-r-xr-xr-x   1    0    0       3392 Sep 13 2011 [ 310336 00] 06C_DISPAROSHUMO.VTPS 
+-r-xr-xr-x   1    0    0       3388 Aug 19 2011 [ 310352 00] 06C_DISPAROSHUMO_LOD.VTPS 
+-r-xr-xr-x   1    0    0       3413 Sep 13 2011 [ 310368 00] 07A_IMPACTOSCOCHE.VTPS 
+-r-xr-xr-x   1    0    0       3409 Aug 19 2011 [ 310384 00] 07A_IMPACTOSCOCHE_LOD.VTPS 
+-r-xr-xr-x   1    0    0       3487 Sep 13 2011 [ 310400 00] 08ESTELACOHETE.VTPS 
+-r-xr-xr-x   1    0    0       3483 Aug 19 2011 [ 310416 00] 08ESTELACOHETE_LOD.VTPS 
+-r-xr-xr-x   1    0    0       3331 Sep 13 2011 [ 310432 00] 09A_POWERUPVERDE.VTPS 
+-r-xr-xr-x   1    0    0       3331 Aug 19 2011 [ 310448 00] 09A_POWERUPVERDE_LOD.VTPS 
+-r-xr-xr-x   1    0    0       3333 Sep 13 2011 [ 310464 00] 09B_POWERUPVERDE.VTPS 
+-r-xr-xr-x   1    0    0       3330 Aug 19 2011 [ 310480 00] 09B_POWERUPVERDE_LOD.VTPS 
+-r-xr-xr-x   1    0    0       3559 Sep 13 2011 [ 310496 00] 10A_DISPAROMISIL.VTPS 
+-r-xr-xr-x   1    0    0       3559 Aug 19 2011 [ 310512 00] 10A_DISPAROMISIL_LOD.VTPS 
+-r-xr-xr-x   1    0    0       3341 Sep 13 2011 [ 310528 00] 10B_FLASH.VTPS 
+-r-xr-xr-x   1    0    0       3496 Sep 13 2011 [ 310544 00] 10C_HUMODISPARO.VTPS 
+-r-xr-xr-x   1    0    0       3493 Aug 19 2011 [ 310560 00] 10C_HUMODISPARO_LOD.VTPS 
+-r-xr-xr-x   1    0    0       3448 Sep 13 2011 [ 310576 00] 11A_EXPLOSIONBOMBA.VTPS 
+-r-xr-xr-x   1    0    0       3384 Sep 13 2011 [ 310592 00] 11A_SKATEBOARDTRAIL.VTPS 
+-r-xr-xr-x   1    0    0       3376 Aug 19 2011 [ 310608 00] 11A_SKATEBOARDTRAIL_LOD.VTPS 
+-r-xr-xr-x   1    0    0       3389 Sep 13 2011 [ 310624 00] BLOODTRAIL.VTPS 
+-r-xr-xr-x   1    0    0       3489 Sep 13 2011 [ 310640 00] NITRODERECHA.VTPS 
+-r-xr-xr-x   1    0    0       3490 Sep 13 2011 [ 310656 00] NITROVEL0.VTPS 
+-r-xr-xr-x   1    0    0     158050 Sep 13 2011 [ 310672 00] PS.PACK 
+-r-xr-xr-x   1    0    0       3518 Aug 30 2011 [ 310752 00] P_ELECTRIC.VTPS 
+-r-xr-xr-x   1    0    0       3283 Aug 30 2011 [ 310768 00] P_ELECTRIC2.VTPS 
+-r-xr-xr-x   1    0    0       3283 Aug 30 2011 [ 310784 00] P_ELECTRIC2_LOD.VTPS 
+-r-xr-xr-x   1    0    0       3521 Aug 30 2011 [ 310800 00] P_ELECTRIC_LOD.VTPS 
+
+Directory listing of /PSP_GAME/USRDIR/PHYSICS/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     45 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     29 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    104 02] OBJECTS 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    105 02] TRAFFIC 
+
+Directory listing of /PSP_GAME/USRDIR/PROFANITY/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     46 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     29 02] .. 
+-r-xr-xr-x   1    0    0      33692 Sep 15 2011 [ 310928 00] DUTCH.BIN 
+-r-xr-xr-x   1    0    0      18388 Sep 22 2011 [ 310960 00] ENGLISH.BIN 
+-r-xr-xr-x   1    0    0      21888 Sep 15 2011 [ 310976 00] FRENCH.BIN 
+-r-xr-xr-x   1    0    0      32580 Sep 15 2011 [ 310992 00] GERMAN.BIN 
+-r-xr-xr-x   1    0    0      20344 Sep 15 2011 [ 311008 00] ITALIAN.BIN 
+-r-xr-xr-x   1    0    0       7016 Sep 15 2011 [ 311024 00] POLISH.BIN 
+-r-xr-xr-x   1    0    0      24312 Sep 15 2011 [ 311040 00] PORTUGUESE.BIN 
+-r-xr-xr-x   1    0    0      33140 Sep 15 2011 [ 311056 00] RUSSIAN.BIN 
+-r-xr-xr-x   1    0    0       9684 Sep 15 2011 [ 311088 00] SPANISH.BIN 
+
+Directory listing of /PSP_GAME/USRDIR/SCRIPTS/
+dr-xr-xr-x   1    0    0       6144 Sep 25 2011 [     47 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     29 02] .. 
+-r-xr-xr-x   1    0    0       1004 Sep 22 2011 [ 311104 00] AGAINSTTHECLOCK.LUA 
+-r-xr-xr-x   1    0    0        932 Sep 17 2011 [ 311120 00] AIPROPERTY.LUA 
+-r-xr-xr-x   1    0    0       3874 Sep 21 2011 [ 311136 00] BATTLE.LUA 
+-r-xr-xr-x   1    0    0        941 Jul 11 2011 [ 311152 00] CAMERAPROPERTY.LUA 
+-r-xr-xr-x   1    0    0      19161 Sep 21 2011 [ 311168 00] CARPROPERTY.LUA 
+-r-xr-xr-x   1    0    0       2984 Sep 20 2011 [ 311184 00] DEFCARSANIMS.LUA 
+-r-xr-xr-x   1    0    0      10000 Sep 12 2011 [ 311200 00] DEFGADGETS.LUA 
+-r-xr-xr-x   1    0    0      16555 Sep 22 2011 [ 311216 00] DEFPROFILEINFO.LUA 
+-r-xr-xr-x   1    0    0       2985 Sep 15 2011 [ 311232 00] DEFPROJECTILES.LUA 
+-r-xr-xr-x   1    0    0      10531 Sep 16 2011 [ 311248 00] DEFTRACKS.LUA 
+-r-xr-xr-x   1    0    0        294 Apr 12 2011 [ 311264 00] DEMO.LUA 
+-r-xr-xr-x   1    0    0        249 Apr 12 2011 [ 311280 00] DEMOLONDON.LUA 
+-r-xr-xr-x   1    0    0       5397 Sep  8 2011 [ 311296 00] FIRSTMAINMENU.LUA 
+-r-xr-xr-x   1    0    0       4368 Sep 15 2011 [ 311312 00] GARAGE.LUA 
+-r-xr-xr-x   1    0    0       3627 Sep 21 2011 [ 311328 00] HUNTER.LUA 
+-r-xr-xr-x   1    0    0       1226 Sep  6 2011 [ 311344 00] HUNTERWAVESHIGH01.LUA 
+-r-xr-xr-x   1    0    0       1236 Sep  6 2011 [ 311360 00] HUNTERWAVESHIGH02.LUA 
+-r-xr-xr-x   1    0    0       1226 Sep  6 2011 [ 311376 00] HUNTERWAVESLOW01.LUA 
+-r-xr-xr-x   1    0    0       1236 Sep  6 2011 [ 311392 00] HUNTERWAVESLOW02.LUA 
+-r-xr-xr-x   1    0    0       1226 Sep  6 2011 [ 311408 00] HUNTERWAVESMEDIUM01.LUA 
+-r-xr-xr-x   1    0    0       1236 Sep  6 2011 [ 311424 00] HUNTERWAVESMEDIUM02.LUA 
+-r-xr-xr-x   1    0    0       2550 Aug 18 2011 [ 311440 00] ITALY01_ATC.LUA 
+-r-xr-xr-x   1    0    0       2132 Aug 18 2011 [ 311456 00] ITALY01_TRIGGERS.LUA 
+-r-xr-xr-x   1    0    0       2586 Sep 14 2011 [ 311472 00] ITALY02_ATC.LUA 
+-r-xr-xr-x   1    0    0       2222 Aug 18 2011 [ 311488 00] ITALY02_TRIGGERS.LUA 
+-r-xr-xr-x   1    0    0       2693 Aug 18 2011 [ 311504 00] ITALY03_ATC.LUA 
+-r-xr-xr-x   1    0    0       2275 Sep  5 2011 [ 311520 00] ITALY03_TRIGGERS.LUA 
+-r-xr-xr-x   1    0    0       1831 Aug 18 2011 [ 311536 00] ITALY04_ATC.LUA 
+-r-xr-xr-x   1    0    0       1548 Aug 18 2011 [ 311552 00] ITALY04_TRIGGERS.LUA 
+-r-xr-xr-x   1    0    0        256 May 11 2011 [ 311568 00] LOADINGSCREEN.LUA 
+-r-xr-xr-x   1    0    0       4297 Aug  8 2011 [ 311584 00] LONDON01.LUA 
+-r-xr-xr-x   1    0    0       3394 Aug 18 2011 [ 311600 00] LONDON01_ATC.LUA 
+-r-xr-xr-x   1    0    0        520 Sep 17 2011 [ 311616 00] LONDON01_TRAFFIC.LUA 
+-r-xr-xr-x   1    0    0       2976 Aug 18 2011 [ 311632 00] LONDON01_TRIGGERS.LUA 
+-r-xr-xr-x   1    0    0       3684 Aug 18 2011 [ 311648 00] LONDON02_ATC.LUA 
+-r-xr-xr-x   1    0    0        520 Sep 17 2011 [ 311664 00] LONDON02_TRAFFIC.LUA 
+-r-xr-xr-x   1    0    0       3327 Aug 18 2011 [ 311680 00] LONDON02_TRIGGERS.LUA 
+-r-xr-xr-x   1    0    0       2754 Aug 12 2011 [ 311696 00] LONDON03_ATC.LUA 
+-r-xr-xr-x   1    0    0        518 Sep 17 2011 [ 311712 00] LONDON03_TRAFFIC.LUA 
+-r-xr-xr-x   1    0    0       2228 Aug 12 2011 [ 311728 00] LONDON03_TRIGGERS.LUA 
+-r-xr-xr-x   1    0    0       3906 Aug 12 2011 [ 311744 00] LONDON04_ATC.LUA 
+-r-xr-xr-x   1    0    0        518 Sep 17 2011 [ 311760 00] LONDON04_TRAFFIC.LUA 
+-r-xr-xr-x   1    0    0       3461 Aug 12 2011 [ 311776 00] LONDON04_TRIGGERS.LUA 
+-r-xr-xr-x   1    0    0       4094 Aug 20 2011 [ 311792 00] MAINMENU.LUA 
+-r-xr-xr-x   1    0    0        732 Jul  5 2011 [ 311808 00] PRESSSTART.LUA 
+-r-xr-xr-x   1    0    0        983 Sep 21 2011 [ 311824 00] RACE.LUA 
+-r-xr-xr-x   1    0    0        760 Aug 17 2011 [ 311840 00] RADIATOR01_ATC.LUA 
+-r-xr-xr-x   1    0    0        450 Aug 17 2011 [ 311856 00] RADIATOR01_TRIGGERS.LUA 
+-r-xr-xr-x   1    0    0       1003 Aug 17 2011 [ 311872 00] RADIATOR02_ATC.LUA 
+-r-xr-xr-x   1    0    0        558 Aug 17 2011 [ 311888 00] RADIATOR02_TRIGGERS.LUA 
+-r-xr-xr-x   1    0    0        859 Aug 18 2011 [ 311904 00] RADIATOR03_ATC.LUA 
+-r-xr-xr-x   1    0    0        522 Aug 18 2011 [ 311920 00] RADIATOR03_TRIGGERS.LUA 
+-r-xr-xr-x   1    0    0        994 Sep 21 2011 [ 311936 00] RADIATOR04_ATC.LUA 
+-r-xr-xr-x   1    0    0        902 Sep 21 2011 [ 311952 00] RADIATOR04_TRIGGERS.LUA 
+-r-xr-xr-x   1    0    0       5188 Aug 11 2011 [ 311968 00] TOKIO01.LUA 
+-r-xr-xr-x   1    0    0       1453 Aug 23 2011 [ 311984 00] TOKIO01_ATC.LUA 
+-r-xr-xr-x   1    0    0        983 Aug 23 2011 [ 312000 00] TOKIO01_T.LUA 
+-r-xr-xr-x   1    0    0        983 Aug 23 2011 [ 312016 00] TOKIO01_TRIGGERS.LUA 
+-r-xr-xr-x   1    0    0       4200 Jul 19 2011 [ 312032 00] TOKIO02.LUA 
+-r-xr-xr-x   1    0    0       1775 Aug 16 2011 [ 312048 00] TOKIO02_ATC.LUA 
+-r-xr-xr-x   1    0    0       1310 Aug 17 2011 [ 312064 00] TOKIO02_TRIGGERS.LUA 
+-r-xr-xr-x   1    0    0       4199 Jul 19 2011 [ 312080 00] TOKIO03.LUA 
+-r-xr-xr-x   1    0    0       1535 Sep 21 2011 [ 312096 00] TOKIO03_ATC.LUA 
+-r-xr-xr-x   1    0    0        955 Sep 21 2011 [ 312112 00] TOKIO03_TRIGGERS.LUA 
+-r-xr-xr-x   1    0    0       4201 Jul 19 2011 [ 312128 00] TOKIO04.LUA 
+-r-xr-xr-x   1    0    0       2278 Aug 18 2011 [ 312144 00] TOKIO04_ATC.LUA 
+-r-xr-xr-x   1    0    0       1766 Aug 18 2011 [ 312160 00] TOKIO04_TRIGGERS.LUA 
+-r-xr-xr-x   1    0    0       3876 Jul 19 2011 [ 312176 00] TOKIORUBEN.LUA 
+-r-xr-xr-x   1    0    0       3649 Sep 20 2011 [ 312192 00] TUTORIAL.LUA 
+
+Directory listing of /PSP_GAME/USRDIR/TEXTURES/
+dr-xr-xr-x   1    0    0      26624 Sep 25 2011 [     50 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     29 02] .. 
+-r-xr-xr-x   1    0    0       6438 Sep  2 2011 [ 312208 00] ALFADUETTO_D.PTT 
+-r-xr-xr-x   1    0    0       3622 Sep  5 2011 [ 312224 00] ASPHALTB.PTT 
+-r-xr-xr-x   1    0    0       2086 May 30 2011 [ 312240 00] ASPHALTB2.PTT 
+-r-xr-xr-x   1    0    0       2086 May 30 2011 [ 312256 00] ASPHALTB3.PTT 
+-r-xr-xr-x   1    0    0       3622 Sep  7 2011 [ 312272 00] ASPHALTRADIA.PTT 
+-r-xr-xr-x   1    0    0       6438 Jun 21 2011 [ 312288 00] AXELROD_TIRES.PTT 
+-r-xr-xr-x   1    0    0      88358 Aug  4 2011 [ 312304 00] AXLEROD_BODY.PTT 
+-r-xr-xr-x   1    0    0       2342 May 11 2011 [ 312352 00] BANNERS_D.PTT 
+-r-xr-xr-x   1    0    0      22822 May 11 2011 [ 312368 00] BANNERS_WGP_D.PTT 
+-r-xr-xr-x   1    0    0       2342 May 11 2011 [ 312384 00] BARANDILLA.PTT 
+-r-xr-xr-x   1    0    0       6438 Jul 19 2011 [ 312400 00] BARRIER1_D.PTT 
+-r-xr-xr-x   1    0    0       2342 Sep 12 2011 [ 312416 00] BEEFEATERS3_D.PTT 
+-r-xr-xr-x   1    0    0      11942 Sep  2 2011 [ 312432 00] BEEFEATERS_D.PTT 
+-r-xr-xr-x   1    0    0       6438 Jul 19 2011 [ 312448 00] BG_STATIC_EYE.PTT 
+-r-xr-xr-x   1    0    0      88358 Jul 19 2011 [ 312464 00] BLDG_ITY_A.PTT 
+-r-xr-xr-x   1    0    0      88358 Jul 19 2011 [ 312512 00] BLDG_ITY_B.PTT 
+-r-xr-xr-x   1    0    0       3750 Aug 17 2011 [ 312560 00] BLUEARROW.PTT 
+-r-xr-xr-x   1    0    0       3750 Aug 17 2011 [ 312576 00] BLUEARROWLIGHT.PTT 
+-r-xr-xr-x   1    0    0       2086 May 31 2011 [ 312592 00] BLUE_EYES.PTT 
+-r-xr-xr-x   1    0    0       2342 Aug 16 2011 [ 312608 00] BOXWOOD.PTT 
+-r-xr-xr-x   1    0    0       2342 Jun 17 2011 [ 312624 00] BRICK_ITA_STRIPGREY_WALL_D.PTT 
+-r-xr-xr-x   1    0    0       6438 Jul 19 2011 [ 312640 00] BRICK_ITY_BRIDGE_D.PTT 
+-r-xr-xr-x   1    0    0       2342 May 11 2011 [ 312656 00] BRICK_LON_TILE03.PTT 
+-r-xr-xr-x   1    0    0       2342 May 11 2011 [ 312672 00] BRICK_LON_WARMGREY_WALL.PTT 
+-r-xr-xr-x   1    0    0       2342 Aug  3 2011 [ 312688 00] BRICK_RAD.PTT 
+-r-xr-xr-x   1    0    0       2342 Aug  3 2011 [ 312704 00] BRICK_RAD_BRICKR.PTT 
+-r-xr-xr-x   1    0    0       2342 Aug  3 2011 [ 312720 00] BRICK_RAD_R.PTT 
+-r-xr-xr-x   1    0    0       2342 Aug  3 2011 [ 312736 00] BRICK_RAD_TILE01_D.PTT 
+-r-xr-xr-x   1    0    0       1190 Jun 22 2011 [ 312752 00] BRICK_ROOF.PTT 
+-r-xr-xr-x   1    0    0       1190 Apr 19 2011 [ 312768 00] BRICK_ROOFTILEEND_GREEN.PTT 
+-r-xr-xr-x   1    0    0       2342 May 11 2011 [ 312784 00] BRICK_ROOFTILE_GREEN.PTT 
+-r-xr-xr-x   1    0    0       2342 May 11 2011 [ 312800 00] BRICK_TKO_GREY_STRIP_D.PTT 
+-r-xr-xr-x   1    0    0       2086 Apr  8 2011 [ 312816 00] BRICK_TKO_ROOFTILE_GREEN_D.PTT 
+-r-xr-xr-x   1    0    0       2342 Jun  9 2011 [ 312832 00] BRICK_TKO_SIDEWALK.PTT 
+-r-xr-xr-x   1    0    0       2342 Jul 19 2011 [ 312848 00] BRICK_TKO_TILE04_FLAT_D.PTT 
+-r-xr-xr-x   1    0    0       2342 Jul 19 2011 [ 312864 00] BRICK_TKO_WARMGREY_WALL_D.PTT 
+-r-xr-xr-x   1    0    0       2086 Jun  8 2011 [ 312880 00] BROWN_EYES.PTT 
+-r-xr-xr-x   1    0    0      88358 Jul  1 2011 [ 312896 00] BUS_BODY.PTT 
+-r-xr-xr-x   1    0    0       6438 Jul  1 2011 [ 312944 00] BUS_TIRES.PTT 
+-r-xr-xr-x   1    0    0      22822 Jun 30 2011 [ 312960 00] CALIBRIBOLD_0.PTT 
+-r-xr-xr-x   1    0    0       6438 May 13 2011 [ 312976 00] CARBONFIBER.PTT 
+-r-xr-xr-x   1    0    0      88358 Jun 21 2011 [ 312992 00] CARLA_BODY.PTT 
+-r-xr-xr-x   1    0    0       6438 Jun 21 2011 [ 313040 00] CARLA_TIRES.PTT 
+-r-xr-xr-x   1    0    0       2342 Aug 16 2011 [ 313056 00] CEMENTBAGS.PTT 
+-r-xr-xr-x   1    0    0       2342 Jul 19 2011 [ 313072 00] CEMENTO.PTT 
+-r-xr-xr-x   1    0    0       6438 Jul 19 2011 [ 313088 00] CERAMICROOF_CHURCH_D.PTT 
+-r-xr-xr-x   1    0    0       3750 Jun  9 2011 [ 313104 00] CLOTH_LON_TENT_D.PTT 
+-r-xr-xr-x   1    0    0       6438 Aug 19 2011 [ 313120 00] CONCRETBAG.PTT 
+-r-xr-xr-x   1    0    0       2342 Jun 29 2011 [ 313136 00] CONC_LON_RAIL.PTT 
+-r-xr-xr-x   1    0    0       2342 Jun 29 2011 [ 313152 00] CONC_LON_RIVERSIDE_D.PTT 
+-r-xr-xr-x   1    0    0       2342 May 11 2011 [ 313168 00] CONC_MISC_WALL_TILEUV_D.PTT 
+-r-xr-xr-x   1    0    0       3110 May 16 2011 [ 313184 00] CONSOLEMAP_D02.PTT 
+-r-xr-xr-x   1    0    0      22822 Aug 29 2011 [ 313200 00] COWTRACTOR_D.PTT 
+-r-xr-xr-x   1    0    0       6438 May 18 2011 [ 313216 00] CRANESMALL.PTT 
+-r-xr-xr-x   1    0    0      22822 Jul 19 2011 [ 313232 00] CROWD.PTT 
+-r-xr-xr-x   1    0    0       2342 Jun 17 2011 [ 313248 00] CT_DIRARROWSINGLE_D.PTT 
+-r-xr-xr-x   1    0    0       2342 May 13 2011 [ 313264 00] DANGER.PTT 
+-r-xr-xr-x   1    0    0       2086 Apr 11 2011 [ 313280 00] DEGRADADOFONDO.PTT 
+-r-xr-xr-x   1    0    0       6438 Aug  3 2011 [ 313296 00] DIRT_BLEND.PTT 
+-r-xr-xr-x   1    0    0       6438 Aug 31 2011 [ 313312 00] DIRT_BLEND_RAD.PTT 
+-r-xr-xr-x   1    0    0       2342 May 11 2011 [ 313328 00] DOUGHNUT_SHOP.PTT 
+-r-xr-xr-x   1    0    0       6438 Aug  3 2011 [ 313344 00] DRY_GRASS_01.PTT 
+-r-xr-xr-x   1    0    0       2342 Sep  5 2011 [ 313360 00] EDGELINE.PTT 
+-r-xr-xr-x   1    0    0       2342 Sep  5 2011 [ 313376 00] EDGELINE2.PTT 
+-r-xr-xr-x   1    0    0       2342 Aug 29 2011 [ 313392 00] EDGELINE3.PTT 
+-r-xr-xr-x   1    0    0       2086 Aug 30 2011 [ 313408 00] EDGELINERAD.PTT 
+-r-xr-xr-x   1    0    0       2342 Sep  7 2011 [ 313424 00] EDGELINERADIATOR.PTT 
+-r-xr-xr-x   1    0    0       1574 May 16 2011 [ 313440 00] ELEC.PTT 
+-r-xr-xr-x   1    0    0       6438 Aug  2 2011 [ 313456 00] ENERGYGAIN_SPARKS.PTT 
+-r-xr-xr-x   1    0    0      66598 May 13 2011 [ 313472 00] EXPLOSION_02.PTT 
+-r-xr-xr-x   1    0    0      66598 May 13 2011 [ 313520 00] EXPLOSION_03.PTT 
+-r-xr-xr-x   1    0    0       2086 Jun  8 2011 [ 313568 00] FILMOREBROWN_EYES.PTT 
+-r-xr-xr-x   1    0    0      88358 Sep 21 2011 [ 313584 00] FILMORE_BODY.PTT 
+-r-xr-xr-x   1    0    0       6438 Jun 21 2011 [ 313632 00] FILMORE_TIRES.PTT 
+-r-xr-xr-x   1    0    0      88358 Jun 21 2011 [ 313648 00] FINN_BODY.PTT 
+-r-xr-xr-x   1    0    0       6438 Jun 21 2011 [ 313696 00] FINN_TIRES.PTT 
+-r-xr-xr-x   1    0    0      11942 May 18 2011 [ 313712 00] FLASHAMARILLO.PTT 
+-r-xr-xr-x   1    0    0      11942 May 11 2011 [ 313728 00] FLASHINGARROWS.PTT 
+-r-xr-xr-x   1    0    0      11942 May 11 2011 [ 313744 00] FLASHINGARROWSLIGHT.PTT 
+-r-xr-xr-x   1    0    0       3750 Jul  1 2011 [ 313760 00] FLASHINGARROWSUV.PTT 
+-r-xr-xr-x   1    0    0      88358 Aug  4 2011 [ 313776 00] FRANCESCO_BODY.PTT 
+-r-xr-xr-x   1    0    0       2342 Aug 29 2011 [ 313824 00] FRANCESCO_EYES.PTT 
+-r-xr-xr-x   1    0    0       6438 Jun 21 2011 [ 313840 00] FRANCESCO_TIRES.PTT 
+-r-xr-xr-x   1    0    0       3750 Aug 25 2011 [ 313856 00] FRANK_MODEL1_D.PTT 
+-r-xr-xr-x   1    0    0       3750 Aug 25 2011 [ 313872 00] FRANK_MODEL_D.PTT 
+-r-xr-xr-x   1    0    0       6438 Sep  1 2011 [ 313888 00] GENERIC01A_D.PTT 
+-r-xr-xr-x   1    0    0       6438 Sep  2 2011 [ 313904 00] GENERIC01E_D.PTT 
+-r-xr-xr-x   1    0    0       6438 Sep  1 2011 [ 313920 00] GENERIC01G_D.PTT 
+-r-xr-xr-x   1    0    0       6438 Sep  1 2011 [ 313936 00] GENERIC01H_D.PTT 
+-r-xr-xr-x   1    0    0       6438 Sep  2 2011 [ 313952 00] GENERIC01I_D.PTT 
+-r-xr-xr-x   1    0    0       6438 Sep  2 2011 [ 313968 00] GENERIC04A_D.PTT 
+-r-xr-xr-x   1    0    0       6438 Sep  1 2011 [ 313984 00] GENERIC04C_D.PTT 
+-r-xr-xr-x   1    0    0       6438 Sep  2 2011 [ 314000 00] GENERIC04E_D.PTT 
+-r-xr-xr-x   1    0    0       6438 Sep  1 2011 [ 314016 00] GENERIC04F_D.PTT 
+-r-xr-xr-x   1    0    0       6438 Sep  1 2011 [ 314032 00] GENERIC04H_D.PTT 
+-r-xr-xr-x   1    0    0       6438 Jul  1 2011 [ 314048 00] GENERICBASE01.PTT 
+-r-xr-xr-x   1    0    0       6438 Jul  1 2011 [ 314064 00] GENERICBASE02.PTT 
+-r-xr-xr-x   1    0    0       6438 Sep  2 2011 [ 314080 00] GENERICBASE04.PTT 
+-r-xr-xr-x   1    0    0       6438 Jun 16 2011 [ 314096 00] GENERICBASE05.PTT 
+-r-xr-xr-x   1    0    0      88358 Jun 21 2011 [ 314112 00] GORVETTE_BODY.PTT 
+-r-xr-xr-x   1    0    0       6438 Jun 21 2011 [ 314160 00] GORVETTE_TIRES.PTT 
+-r-xr-xr-x   1    0    0       6438 Jul 19 2011 [ 314176 00] GRANDSTANDPIT.PTT 
+-r-xr-xr-x   1    0    0       2086 Jun  8 2011 [ 314192 00] GREEN_EYES.PTT 
+-r-xr-xr-x   1    0    0       2086 May 27 2011 [ 314208 00] GREEN_EYES_HOLLY.PTT 
+-r-xr-xr-x   1    0    0      88358 Aug  4 2011 [ 314224 00] GREM_BODY.PTT 
+-r-xr-xr-x   1    0    0       6438 Jun 21 2011 [ 314272 00] GREM_TIRES.PTT 
+-r-xr-xr-x   1    0    0       2342 Jul  1 2011 [ 314288 00] GREY_EYES.PTT 
+-r-xr-xr-x   1    0    0      88358 Aug  4 2011 [ 314304 00] GUIDO_BODY.PTT 
+-r-xr-xr-x   1    0    0       6438 Jun 21 2011 [ 314352 00] GUIDO_TIRES.PTT 
+-r-xr-xr-x   1    0    0      22822 Jul 19 2011 [ 314368 00] HALO.PTT 
+-r-xr-xr-x   1    0    0      22822 May 13 2011 [ 314384 00] HALOROJO.PTT 
+-r-xr-xr-x   1    0    0      66598 Apr 11 2011 [ 314400 00] HAMILCARNEGRO_BODY.PTT 
+-r-xr-xr-x   1    0    0      66598 May 12 2011 [ 314448 00] HAMILTON_BODY.PTT 
+-r-xr-xr-x   1    0    0       5158 May 19 2011 [ 314496 00] HAMILTON_TIRES.PTT 
+-r-xr-xr-x   1    0    0      88358 Jun 22 2011 [ 314512 00] HOLLY_BODY.PTT 
+-r-xr-xr-x   1    0    0       6438 Jun 21 2011 [ 314560 00] HOLLY_TIRES.PTT 
+-r-xr-xr-x   1    0    0       3750 Jul 19 2011 [ 314576 00] HOLO_GRID.PTT 
+-r-xr-xr-x   1    0    0       2086 Jun  8 2011 [ 314592 00] HONEY_EYES.PTT 
+-r-xr-xr-x   1    0    0      44710 Jul 20 2011 [ 314608 00] ITALY_FAR_CLOUDS.PTT 
+-r-xr-xr-x   1    0    0       2086 Jul 15 2011 [ 314640 00] ITA_ARCHEDDOOR.PTT 
+-r-xr-xr-x   1    0    0       6438 Jul 19 2011 [ 314656 00] ITA_BRANCH.PTT 
+-r-xr-xr-x   1    0    0       6438 Jul 19 2011 [ 314672 00] ITA_BRANCH_BORDERS.PTT 
+-r-xr-xr-x   1    0    0       3750 Jul 19 2011 [ 314688 00] ITA_BRICKWALL.PTT 
+-r-xr-xr-x   1    0    0       2342 Jul 19 2011 [ 314704 00] ITA_CARLOSAWNING.PTT 
+-r-xr-xr-x   1    0    0       6438 Jul 19 2011 [ 314720 00] ITA_CLOTHESHANGING.PTT 
+-r-xr-xr-x   1    0    0       1574 Jul 15 2011 [ 314736 00] ITA_DRAINPIPE.PTT 
+-r-xr-xr-x   1    0    0       3622 Jul 19 2011 [ 314752 00] ITA_GREENAWNING.PTT 
+-r-xr-xr-x   1    0    0       6438 Jul 19 2011 [ 314768 00] ITA_HOLMOAK.PTT 
+-r-xr-xr-x   1    0    0       2342 Jul 19 2011 [ 314784 00] ITA_SHUTTERGREEN_D.PTT 
+-r-xr-xr-x   1    0    0       6438 Jul 19 2011 [ 314800 00] ITA_WALL_GENERIC_DL.PTT 
+-r-xr-xr-x   1    0    0       6438 Jul 19 2011 [ 314816 00] ITA_WALL_YELLOW.PTT 
+-r-xr-xr-x   1    0    0       1574 Jul 15 2011 [ 314832 00] ITA_WINDOWGENERIC.PTT 
+-r-xr-xr-x   1    0    0       3750 Jul 19 2011 [ 314848 00] ITA_YELLOWSIDING.PTT 
+-r-xr-xr-x   1    0    0       6438 Jul 19 2011 [ 314864 00] ITY_BOARDERS_D.PTT 
+-r-xr-xr-x   1    0    0       6438 Jul 19 2011 [ 314880 00] ITY_COBBLESTONE.PTT 
+-r-xr-xr-x   1    0    0       3750 Jul 19 2011 [ 314896 00] ITY_IMP_SAMURISTATUES_D.PTT 
+-r-xr-xr-x   1    0    0       2406 Jul 19 2011 [ 314912 00] ITY_PARADE_FLAG_D.PTT 
+-r-xr-xr-x   1    0    0       2342 Jul 19 2011 [ 314928 00] ITY_PLANTERS_BASE_D.PTT 
+-r-xr-xr-x   1    0    0       6438 Jul 19 2011 [ 314944 00] ITY_SIDEWALK.PTT 
+-r-xr-xr-x   1    0    0       2342 Jul 19 2011 [ 314960 00] ITY_SIDEWALK_D.PTT 
+-r-xr-xr-x   1    0    0      22822 Jul 19 2011 [ 314976 00] ITY_VEG_BILLBOARDA01_D.PTT 
+-r-xr-xr-x   1    0    0       6438 May 19 2011 [ 314992 00] LEECHGRIDINNER.PTT 
+-r-xr-xr-x   1    0    0       6438 May 19 2011 [ 315008 00] LEECHGRIDSOLID.PTT 
+-r-xr-xr-x   1    0    0       3750 Jun 29 2011 [ 315024 00] LON_AWNING_D.PTT 
+-r-xr-xr-x   1    0    0       2342 Jun 17 2011 [ 315040 00] LON_BARK_WII_D.PTT 
+-r-xr-xr-x   1    0    0       6438 Jul  4 2011 [ 315056 00] LON_BIG_BEN01_D.PTT 
+-r-xr-xr-x   1    0    0       3622 Jul  4 2011 [ 315072 00] LON_BIG_BEN02_D.PTT 
+-r-xr-xr-x   1    0    0       6438 Jul  4 2011 [ 315088 00] LON_BIG_BEN_BOTTOM_D.PTT 
+-r-xr-xr-x   1    0    0      11814 Jun 29 2011 [ 315104 00] LON_BLDNGTRIM_D.PTT 
+-r-xr-xr-x   1    0    0       2342 Jun 29 2011 [ 315120 00] LON_BRICKGREY01_D.PTT 
+-r-xr-xr-x   1    0    0       2342 Jun 29 2011 [ 315136 00] LON_BRICKGREY_D.PTT 
+-r-xr-xr-x   1    0    0       2342 Jun 29 2011 [ 315152 00] LON_BRICKRED_D.PTT 
+-r-xr-xr-x   1    0    0       2342 Jun 29 2011 [ 315168 00] LON_BRICKYELLOW_D.PTT 
+-r-xr-xr-x   1    0    0       6438 Jun 22 2011 [ 315184 00] LON_BRIDGERAILINGS.PTT 
+-r-xr-xr-x   1    0    0       2342 Jun 29 2011 [ 315200 00] LON_CEMENTTILEU_D.PTT 
+-r-xr-xr-x   1    0    0       6438 Sep 19 2011 [ 315216 00] LON_COBBLESTONE2.PTT 
+-r-xr-xr-x   1    0    0       2342 Jun 29 2011 [ 315232 00] LON_CONCRETE_2.PTT 
+-r-xr-xr-x   1    0    0       3750 Jun 29 2011 [ 315248 00] LON_DOORS_D.PTT 
+-r-xr-xr-x   1    0    0       3750 Jun 17 2011 [ 315264 00] LON_FERRIS_WHEEL_CAR_D.PTT 
+-r-xr-xr-x   1    0    0       3622 May 11 2011 [ 315280 00] LON_FERRIS_WHEEL_D.PTT 
+-r-xr-xr-x   1    0    0       2342 Jun 29 2011 [ 315296 00] LON_FLAG.PTT 
+-r-xr-xr-x   1    0    0       6438 Jun 16 2011 [ 315312 00] LON_GRANITEGRAY_D.PTT 
+-r-xr-xr-x   1    0    0       2342 Jun 29 2011 [ 315328 00] LON_GRANITERIBBED_D.PTT 
+-r-xr-xr-x   1    0    0       6438 Jun 29 2011 [ 315344 00] LON_GRANITETRIM_D.PTT 
+-r-xr-xr-x   1    0    0       1702 Jun 17 2011 [ 315360 00] LON_HYDEBUCK.PTT 
+-r-xr-xr-x   1    0    0       2342 Jul  6 2011 [ 315376 00] LON_IRONFENCE.PTT 
+-r-xr-xr-x   1    0    0       1190 Aug 19 2011 [ 315392 00] LON_LIGHT.PTT 
+-r-xr-xr-x   1    0    0       2342 Jun 17 2011 [ 315408 00] LON_MARBLEMASTER_D.PTT 
+-r-xr-xr-x   1    0    0       6438 May 11 2011 [ 315424 00] LON_NEWSSTAND.PTT 
+-r-xr-xr-x   1    0    0      22822 Sep 14 2011 [ 315440 00] LON_PARKPATH_BLEND.PTT 
+-r-xr-xr-x   1    0    0      22822 Sep 14 2011 [ 315456 00] LON_PARKPATH_D.PTT 
+-r-xr-xr-x   1    0    0       2342 Jun 29 2011 [ 315472 00] LON_PHONE.PTT 
+-r-xr-xr-x   1    0    0       1190 Jun 29 2011 [ 315488 00] LON_PLANTER.PTT 
+-r-xr-xr-x   1    0    0       2342 May 11 2011 [ 315504 00] LON_RECICLE.PTT 
+-r-xr-xr-x   1    0    0       2342 May 11 2011 [ 315520 00] LON_ROUNDABOUTARROWS.PTT 
+-r-xr-xr-x   1    0    0       2342 Jun 17 2011 [ 315536 00] LON_SIDEWALK.PTT 
+-r-xr-xr-x   1    0    0       2342 Jul  6 2011 [ 315552 00] LON_SIGNAGE_A.PTT 
+-r-xr-xr-x   1    0    0       6438 Jun 22 2011 [ 315568 00] LON_SIGNAL.PTT 
+-r-xr-xr-x   1    0    0       3750 May 11 2011 [ 315584 00] LON_SIGNS.PTT 
+-r-xr-xr-x   1    0    0      88358 Jul 19 2011 [ 315600 00] LON_TREES02_WII_D.PTT 
+-r-xr-xr-x   1    0    0      88358 Jul 19 2011 [ 315648 00] LON_TREES_D.PTT 
+-r-xr-xr-x   1    0    0       3622 May 11 2011 [ 315696 00] LON_WII_POPMISC_SET.PTT 
+-r-xr-xr-x   1    0    0      22822 Jun 29 2011 [ 315712 00] LON_WINDOWS_D.PTT 
+-r-xr-xr-x   1    0    0       2342 Jun 17 2011 [ 315728 00] LON_WINWALL_A_D.PTT 
+-r-xr-xr-x   1    0    0       2342 Jun 17 2011 [ 315744 00] LON_WINWALL_B_D.PTT 
+-r-xr-xr-x   1    0    0      88358 Aug  4 2011 [ 315760 00] LUIGI_BODY.PTT 
+-r-xr-xr-x   1    0    0       6438 Jun 21 2011 [ 315808 00] LUIGI_TIRES.PTT 
+-r-xr-xr-x   1    0    0      11942 May 18 2011 [ 315824 00] LUZAMARILLA.PTT 
+-r-xr-xr-x   1    0    0     350502 Sep 24 2011 [ 315840 00] MAGISTRALBOLD_0.PTT 
+-r-xr-xr-x   1    0    0       2342 Jul 19 2011 [ 316016 00] MARBLE_ITY_FOUNTAIN02_D.PTT 
+-r-xr-xr-x   1    0    0      88358 Sep 19 2011 [ 316032 00] MATER_BODY.PTT 
+-r-xr-xr-x   1    0    0       6438 Jun 21 2011 [ 316080 00] MATER_TIRES.PTT 
+-r-xr-xr-x   1    0    0      88358 Aug  4 2011 [ 316096 00] MAX_BODY.PTT 
+-r-xr-xr-x   1    0    0       6438 Jun 21 2011 [ 316144 00] MAX_TIRES.PTT 
+-r-xr-xr-x   1    0    0      88358 Sep 19 2011 [ 316160 00] MCQUEEN_BODY.PTT 
+-r-xr-xr-x   1    0    0       6438 Jun 21 2011 [ 316208 00] MCQUEEN_TIRES.PTT 
+-r-xr-xr-x   1    0    0       6502 Jun 29 2011 [ 316224 00] META.PTT 
+-r-xr-xr-x   1    0    0       2086 Jul 15 2011 [ 316240 00] METAL_ITY_BASE.PTT 
+-r-xr-xr-x   1    0    0       2342 Jul 19 2011 [ 316256 00] METAL_ITY_BASE_D.PTT 
+-r-xr-xr-x   1    0    0       2342 May 11 2011 [ 316272 00] METAL_LON_BASE.PTT 
+-r-xr-xr-x   1    0    0       2342 Jul 19 2011 [ 316288 00] METAL_LON_BRUSHEDBRASS_D.PTT 
+-r-xr-xr-x   1    0    0       2342 May 11 2011 [ 316304 00] METAL_LON_DOUBLELAMP_D.PTT 
+-r-xr-xr-x   1    0    0       2342 Jul 19 2011 [ 316320 00] METAL_LON_MDD_ACC02_D.PTT 
+-r-xr-xr-x   1    0    0       2342 Jul 19 2011 [ 316336 00] METAL_OIL_SURFACETILE01_D.PTT 
+-r-xr-xr-x   1    0    0      11942 Aug  3 2011 [ 316352 00] METAL_RAD.PTT 
+-r-xr-xr-x   1    0    0       6502 Aug  3 2011 [ 316368 00] METAL_RAD_MINE_D.PTT 
+-r-xr-xr-x   1    0    0       6438 Aug  3 2011 [ 316384 00] METAL_RAD_WINDMILL_D.PTT 
+-r-xr-xr-x   1    0    0       2342 Jun 22 2011 [ 316400 00] METAL_TKO_DOUBLELAMP_D.PTT 
+-r-xr-xr-x   1    0    0       2342 May 11 2011 [ 316416 00] METAL_TKO_GRANDSTAND.PTT 
+-r-xr-xr-x   1    0    0       3782 May 13 2011 [ 316432 00] METAL_TRIM_D.PTT 
+-r-xr-xr-x   1    0    0       2342 May 13 2011 [ 316448 00] METAL_WALL_TILE_D.PTT 
+-r-xr-xr-x   1    0    0       6438 Sep  2 2011 [ 316464 00] MICROCAR_D.PTT 
+-r-xr-xr-x   1    0    0      88358 Jun 21 2011 [ 316480 00] MIGUEL_BODY.PTT 
+-r-xr-xr-x   1    0    0       6438 Jun 21 2011 [ 316528 00] MIGUEL_TIRES.PTT 
+-r-xr-xr-x   1    0    0       6438 Sep  5 2011 [ 316544 00] MISC_COBBLESTONE_GROUND_D.PTT 
+-r-xr-xr-x   1    0    0       2342 May 11 2011 [ 316560 00] MISC_ENERGY_D.PTT 
+-r-xr-xr-x   1    0    0      11814 Jul 19 2011 [ 316576 00] MISC_ITA_RAILING_D.PTT 
+-r-xr-xr-x   1    0    0       1702 Jul 19 2011 [ 316592 00] MISC_ITY_STONEWALL_D.PTT 
+-r-xr-xr-x   1    0    0       6182 Aug  3 2011 [ 316608 00] MISC_RAD_BASEBOARD01.PTT 
+-r-xr-xr-x   1    0    0      11942 Aug  3 2011 [ 316624 00] MISC_RAD_WINDOOR_D.PTT 
+-r-xr-xr-x   1    0    0       6438 May 11 2011 [ 316640 00] MISC_TIREBARRIERB_D.PTT 
+-r-xr-xr-x   1    0    0       6438 Jun 30 2011 [ 316656 00] MISC_TIREBARRIER_D.PTT 
+-r-xr-xr-x   1    0    0       1318 May 16 2011 [ 316672 00] MISSILE.PTT 
+-r-xr-xr-x   1    0    0      88358 Aug  4 2011 [ 316688 00] NIGEL_BODY.PTT 
+-r-xr-xr-x   1    0    0       6438 Jun 21 2011 [ 316736 00] NIGEL_TIRES.PTT 
+-r-xr-xr-x   1    0    0       6438 Jul 19 2011 [ 316752 00] OBBLESTONE_ITA.PTT 
+-r-xr-xr-x   1    0    0       2086 Jun  6 2011 [ 316768 00] OILSPLAT.PTT 
+-r-xr-xr-x   1    0    0      88358 Jul  6 2011 [ 316784 00] PACER_BODY.PTT 
+-r-xr-xr-x   1    0    0       6438 Jun 21 2011 [ 316832 00] PACER_TIRES.PTT 
+-r-xr-xr-x   1    0    0       2342 Aug 18 2011 [ 316848 00] PAJA.PTT 
+-r-xr-xr-x   1    0    0       2342 Jun  9 2011 [ 316864 00] PALACEPLASTERWALL.PTT 
+-r-xr-xr-x   1    0    0       2342 Jun  9 2011 [ 316880 00] PALACETIMBERS.PTT 
+-r-xr-xr-x   1    0    0       2086 Jun  8 2011 [ 316896 00] PINK_EYES_GUIDO.PTT 
+-r-xr-xr-x   1    0    0      11942 Sep  2 2011 [ 316912 00] PITTY_D.PTT 
+-r-xr-xr-x   1    0    0       6438 Jul 19 2011 [ 316928 00] PLASTER_ITA_REDSIDING_D.PTT 
+-r-xr-xr-x   1    0    0       6438 Jul 19 2011 [ 316944 00] PLASTER_ITA_WALL_FLAT01_D.PTT 
+-r-xr-xr-x   1    0    0       6438 Jul 19 2011 [ 316960 00] PLASTER_ITA_WALL_FLAT_D.PTT 
+-r-xr-xr-x   1    0    0      11814 Jul 19 2011 [ 316976 00] PLASTER_YELLOW.PTT 
+-r-xr-xr-x   1    0    0      22822 Sep  2 2011 [ 316992 00] POLICECAR_D.PTT 
+-r-xr-xr-x   1    0    0       2342 May 16 2011 [ 317008 00] POWERTURBO.PTT 
+-r-xr-xr-x   1    0    0      88358 Jul 15 2011 [ 317024 00] PRAGMATICA_0.PTT 
+-r-xr-xr-x   1    0    0      88358 Aug  4 2011 [ 317072 00] PROFESSORZ_BODY.PTT 
+-r-xr-xr-x   1    0    0       6438 Jun 21 2011 [ 317120 00] PROFESSORZ_TIRES.PTT 
+-r-xr-xr-x   1    0    0       2086 Jun  8 2011 [ 317136 00] PROFZ_EYES.PTT 
+-r-xr-xr-x   1    0    0       5158 May 13 2011 [ 317152 00] PUNTO_ALPHA.PTT 
+-r-xr-xr-x   1    0    0       2086 May 13 2011 [ 317168 00] P_ASCUA_ALPHA.PTT 
+-r-xr-xr-x   1    0    0       1318 May 20 2011 [ 317184 00] P_BAZOKAFIRE2_ALPHA.PTT 
+-r-xr-xr-x   1    0    0       5158 May 19 2011 [ 317200 00] P_BAZOOKA_SMOKE1_ALPHA.PTT 
+-r-xr-xr-x   1    0    0       6438 Aug 30 2011 [ 317216 00] P_ELECTRIC02.PTT 
+-r-xr-xr-x   1    0    0       2342 Aug 30 2011 [ 317232 00] P_ELECTRIC03.PTT 
+-r-xr-xr-x   1    0    0       5158 May 13 2011 [ 317248 00] P_ELECTRIC_ALPHA.PTT 
+-r-xr-xr-x   1    0    0      66598 May 13 2011 [ 317264 00] P_EXPLOWAVE_ALPHA.PTT 
+-r-xr-xr-x   1    0    0      17446 May 13 2011 [ 317312 00] P_EX_LLAMA4_ALPHA.PTT 
+-r-xr-xr-x   1    0    0      17446 May 19 2011 [ 317328 00] P_FOGONAZO_ALPHA.PTT 
+-r-xr-xr-x   1    0    0       5158 May 13 2011 [ 317344 00] P_FOG_ALPHA.PTT 
+-r-xr-xr-x   1    0    0      17446 May 13 2011 [ 317360 00] P_IMPACIENTE3_ALPHA.PTT 
+-r-xr-xr-x   1    0    0       5158 May 11 2011 [ 317376 00] P_SMOKE_STELE.PTT 
+-r-xr-xr-x   1    0    0       2086 May 13 2011 [ 317392 00] P_SPARK_ALPHA.PTT 
+-r-xr-xr-x   1    0    0       6438 Jun 22 2011 [ 317408 00] RADDIRT.PTT 
+-r-xr-xr-x   1    0    0       2342 Aug  3 2011 [ 317424 00] RADGAURDRAIL.PTT 
+-r-xr-xr-x   1    0    0      22822 Aug 31 2011 [ 317440 00] RADIATOR_BLEND.PTT 
+-r-xr-xr-x   1    0    0       6182 Aug  3 2011 [ 317456 00] RADSTRIPE.PTT 
+-r-xr-xr-x   1    0    0      22822 Aug  3 2011 [ 317472 00] RAD_BLDG_FILLMORES_D.PTT 
+-r-xr-xr-x   1    0    0       2342 Aug  3 2011 [ 317488 00] RAD_CACTUSSAGUARO_D.PTT 
+-r-xr-xr-x   1    0    0       2342 Aug  3 2011 [ 317504 00] RAD_CACTUS_SMALL_D.PTT 
+-r-xr-xr-x   1    0    0       3622 Jul 19 2011 [ 317520 00] RAD_CYPRESS_D2.PTT 
+-r-xr-xr-x   1    0    0       2342 Aug  3 2011 [ 317536 00] RAD_FLUVIAL_ROCK_WII_D.PTT 
+-r-xr-xr-x   1    0    0       3750 May 11 2011 [ 317552 00] RAD_MOD_BASE01_02.PTT 
+-r-xr-xr-x   1    0    0       6502 Jun 22 2011 [ 317568 00] RAD_PINETREE_D.PTT 
+-r-xr-xr-x   1    0    0       3750 Aug  3 2011 [ 317584 00] RAD_PLATE_MINE_D.PTT 
+-r-xr-xr-x   1    0    0       6438 Aug  3 2011 [ 317600 00] RAD_ROCK_WALLLAYERED_D.PTT 
+-r-xr-xr-x   1    0    0       6438 Aug  3 2011 [ 317616 00] RAD_ROOF_MINE_D.PTT 
+-r-xr-xr-x   1    0    0       2342 Aug  3 2011 [ 317632 00] RAD_SAGEBRUSH.PTT 
+-r-xr-xr-x   1    0    0      22822 Aug  3 2011 [ 317648 00] RAD_SIGNS01.PTT 
+-r-xr-xr-x   1    0    0       6438 Aug  3 2011 [ 317664 00] RAD_SIGNS02.PTT 
+-r-xr-xr-x   1    0    0      22822 Aug  3 2011 [ 317680 00] RAD_SIGNS03.PTT 
+-r-xr-xr-x   1    0    0       6438 Aug  3 2011 [ 317696 00] RAD_TREETALL01_LEAVES.PTT 
+-r-xr-xr-x   1    0    0      88358 Jul  7 2011 [ 317712 00] RAOUL_BODY.PTT 
+-r-xr-xr-x   1    0    0       6438 Jun 21 2011 [ 317760 00] RAOUL_TIRES.PTT 
+-r-xr-xr-x   1    0    0       1318 Jul 21 2011 [ 317776 00] REJA.PTT 
+-r-xr-xr-x   1    0    0       2342 May 11 2011 [ 317792 00] REND_REDZONE.PTT 
+-r-xr-xr-x   1    0    0       1574 May 24 2011 [ 317808 00] RESPAWN.PTT 
+-r-xr-xr-x   1    0    0       6438 Jun  9 2011 [ 317824 00] ROADARROWS.PTT 
+-r-xr-xr-x   1    0    0       6438 Aug  3 2011 [ 317840 00] ROCK_01A.PTT 
+-r-xr-xr-x   1    0    0       6438 Jul 19 2011 [ 317856 00] ROCK_GRASS_ITY.PTT 
+-r-xr-xr-x   1    0    0       2342 Jun 22 2011 [ 317872 00] ROCK_ITA_GENERIC.PTT 
+-r-xr-xr-x   1    0    0       6438 Jul 19 2011 [ 317888 00] ROCK_ITY.PTT 
+-r-xr-xr-x   1    0    0       6438 Jul 19 2011 [ 317904 00] ROCK_ITY_GRIETAS.PTT 
+-r-xr-xr-x   1    0    0       6438 Aug  3 2011 [ 317920 00] ROCK_SAND_01.PTT 
+-r-xr-xr-x   1    0    0      88358 Sep 19 2011 [ 317936 00] ROD_BODY.PTT 
+-r-xr-xr-x   1    0    0       6438 Jun 21 2011 [ 317984 00] ROD_TIRES.PTT 
+-r-xr-xr-x   1    0    0       5158 Apr 29 2011 [ 318000 00] ROTATE_DIAMOND.PTT 
+-r-xr-xr-x   1    0    0      11942 Sep  1 2011 [ 318016 00] RV_LARGE_D.PTT 
+-r-xr-xr-x   1    0    0      11942 Sep  2 2011 [ 318032 00] RV_MEDIUM_D.PTT 
+-r-xr-xr-x   1    0    0       5158 Sep  1 2011 [ 318048 00] SANDY_DIRT_01A.PTT 
+-r-xr-xr-x   1    0    0       6438 Aug  3 2011 [ 318064 00] SANDY_DIRT_01B.PTT 
+-r-xr-xr-x   1    0    0      22822 Sep 16 2011 [ 318080 00] SANDY_DIRT_FINISH.PTT 
+-r-xr-xr-x   1    0    0       6438 Aug  3 2011 [ 318096 00] SANDY_DIRT_ROAD_01.PTT 
+-r-xr-xr-x   1    0    0      22822 Aug 31 2011 [ 318112 00] SANDY_DIRT_ROAD_02.PTT 
+-r-xr-xr-x   1    0    0      22822 Aug 31 2011 [ 318128 00] SANDY_DIRT_ROAD_03.PTT 
+-r-xr-xr-x   1    0    0       6438 Aug  3 2011 [ 318144 00] SANDY_DIRT_ROAD_BLEND.PTT 
+-r-xr-xr-x   1    0    0      88358 Jun 21 2011 [ 318160 00] SARGE_BODY.PTT 
+-r-xr-xr-x   1    0    0       6438 Jun 21 2011 [ 318208 00] SARGE_TIRES.PTT 
+-r-xr-xr-x   1    0    0       2342 Jun 29 2011 [ 318224 00] SCALLOPED_LON_WALLSIDING_D.PTT 
+-r-xr-xr-x   1    0    0       2342 May 11 2011 [ 318240 00] SHIPCONTAINER01.PTT 
+-r-xr-xr-x   1    0    0       2342 May 11 2011 [ 318256 00] SHIPCONTAINER02.PTT 
+-r-xr-xr-x   1    0    0      88358 Jul  6 2011 [ 318272 00] SHUTODOROKI_BODY.PTT 
+-r-xr-xr-x   1    0    0       6438 Jun 21 2011 [ 318320 00] SHUTODOROKI_TIRES.PTT 
+-r-xr-xr-x   1    0    0       6438 May 11 2011 [ 318336 00] SIGNS1.PTT 
+-r-xr-xr-x   1    0    0       6438 May 11 2011 [ 318352 00] SIGNS2.PTT 
+-r-xr-xr-x   1    0    0       6438 Sep 21 2011 [ 318368 00] SOMBRA.PTT 
+-r-xr-xr-x   1    0    0       2342 May 13 2011 [ 318384 00] SPLAT.PTT 
+-r-xr-xr-x   1    0    0       6438 Jul 27 2011 [ 318400 00] SPYPOINT.PTT 
+-r-xr-xr-x   1    0    0       6438 Jun 16 2011 [ 318416 00] STONEBLOCKS.PTT 
+-r-xr-xr-x   1    0    0       3750 Jul 19 2011 [ 318432 00] STONE_ITA.PTT 
+-r-xr-xr-x   1    0    0       2342 Jul 19 2011 [ 318448 00] STONE_ITA_QUOIN02_D.PTT 
+-r-xr-xr-x   1    0    0       6438 Jul 19 2011 [ 318464 00] STONE_ITA_TRIMS_D.PTT 
+-r-xr-xr-x   1    0    0       6438 Jul 19 2011 [ 318480 00] STONE_ITA_WALL02_D.PTT 
+-r-xr-xr-x   1    0    0       2342 Jul 19 2011 [ 318496 00] STONE_ITA_ZCOLUMN_D.PTT 
+-r-xr-xr-x   1    0    0       6438 Jun 17 2011 [ 318512 00] STONE_LON_BRIDGE_WALL.PTT 
+-r-xr-xr-x   1    0    0       6438 Jul 19 2011 [ 318528 00] STUCCO.PTT 
+-r-xr-xr-x   1    0    0       6438 Jul 19 2011 [ 318544 00] STUCCO_CRACKS.PTT 
+-r-xr-xr-x   1    0    0      11942 Jun 20 2011 [ 318560 00] TANKERTRUCK01_D.PTT 
+-r-xr-xr-x   1    0    0      17446 Jun  8 2011 [ 318576 00] TARGET.PTT 
+-r-xr-xr-x   1    0    0       6438 Jul 19 2011 [ 318592 00] TEJACERAMICA.PTT 
+-r-xr-xr-x   1    0    0       3110 May 16 2011 [ 318608 00] TIMEZONE_MAP_D.PTT 
+-r-xr-xr-x   1    0    0       2342 Jun 22 2011 [ 318624 00] TKODOUGHNUSHOPA_D.PTT 
+-r-xr-xr-x   1    0    0       6438 May 19 2011 [ 318640 00] TKO_ASPHALT_CENTERLINEDASH.PTT 
+-r-xr-xr-x   1    0    0       2342 Sep  5 2011 [ 318656 00] TKO_ASPHALT_CROSS.PTT 
+-r-xr-xr-x   1    0    0       2342 Sep 16 2011 [ 318672 00] TKO_ASPHALT_CUADRADO.PTT 
+-r-xr-xr-x   1    0    0       6438 May 19 2011 [ 318688 00] TKO_ASPHALT_EDGELINE.PTT 
+-r-xr-xr-x   1    0    0       2086 May 30 2011 [ 318704 00] TKO_ASPHALT_EDGELINE2.PTT 
+-r-xr-xr-x   1    0    0       2086 May 30 2011 [ 318720 00] TKO_ASPHALT_EDGELINE3.PTT 
+-r-xr-xr-x   1    0    0       2342 Jun  9 2011 [ 318736 00] TKO_ASPHALT_MANHOLE.PTT 
+-r-xr-xr-x   1    0    0       2086 Aug 30 2011 [ 318752 00] TKO_ASPHALT_PLAIN.PTT 
+-r-xr-xr-x   1    0    0       3750 Jun  9 2011 [ 318768 00] TKO_BLDGLIGHT_D.PTT 
+-r-xr-xr-x   1    0    0      88358 May 11 2011 [ 318784 00] TKO_BL_SET1.PTT 
+-r-xr-xr-x   1    0    0      88358 May 11 2011 [ 318832 00] TKO_BL_SET2.PTT 
+-r-xr-xr-x   1    0    0      22822 May 11 2011 [ 318880 00] TKO_BL_SET3.PTT 
+-r-xr-xr-x   1    0    0      22822 May 11 2011 [ 318896 00] TKO_BL_SET4.PTT 
+-r-xr-xr-x   1    0    0      22822 May 11 2011 [ 318912 00] TKO_BL_SET5.PTT 
+-r-xr-xr-x   1    0    0      88358 May 11 2011 [ 318928 00] TKO_BL_SET6.PTT 
+-r-xr-xr-x   1    0    0      88358 May 11 2011 [ 318976 00] TKO_BL_SET7.PTT 
+-r-xr-xr-x   1    0    0      88358 May 11 2011 [ 319024 00] TKO_BL_SET8.PTT 
+-r-xr-xr-x   1    0    0       6438 Aug 29 2011 [ 319072 00] TKO_BRANCH_TILING_D.PTT 
+-r-xr-xr-x   1    0    0       3750 May 11 2011 [ 319088 00] TKO_DUMPSTERTOP_D.PTT 
+-r-xr-xr-x   1    0    0       5158 Apr 11 2011 [ 319104 00] TKO_FLASHINGARROWS.PTT 
+-r-xr-xr-x   1    0    0       6438 May 11 2011 [ 319120 00] TKO_HOLMOAK_BRANCH_TILING_D.PTT 
+-r-xr-xr-x   1    0    0       2342 May 11 2011 [ 319136 00] TKO_IMP_PRAKLAMP02_D.PTT 
+-r-xr-xr-x   1    0    0       3622 May 11 2011 [ 319152 00] TKO_LANTERNS.PTT 
+-r-xr-xr-x   1    0    0      11942 Jun  9 2011 [ 319168 00] TKO_ROOF_LEAFSPRING_D.PTT 
+-r-xr-xr-x   1    0    0      22822 Jul 19 2011 [ 319184 00] TKO_TREEPAGE.PTT 
+-r-xr-xr-x   1    0    0      22822 Jul 19 2011 [ 319200 00] TKO_TREEPAGE2_D.PTT 
+-r-xr-xr-x   1    0    0       2342 May 11 2011 [ 319216 00] TKO_TREETALL01_TRUNK_D.PTT 
+-r-xr-xr-x   1    0    0       9254 Jul 15 2011 [ 319232 00] TKO_VEG_BILLBOARD01.PTT 
+-r-xr-xr-x   1    0    0      88358 Sep 19 2011 [ 319248 00] TOMBER_BODY.PTT 
+-r-xr-xr-x   1    0    0       6438 Jun 21 2011 [ 319296 00] TOMBE_TIRES.PTT 
+-r-xr-xr-x   1    0    0      22822 Jun  9 2011 [ 319312 00] TRACKDAMAGE.PTT 
+-r-xr-xr-x   1    0    0      22822 Aug 31 2011 [ 319328 00] TRASPARENTE.PTT 
+dr-xr-xr-x   1    0    0      10240 Sep 25 2011 [    106 02] UI 
+-r-xr-xr-x   1    0    0       1574 Jul 19 2011 [ 323008 00] WARNING.PTT 
+-r-xr-xr-x   1    0    0       6438 Jul 19 2011 [ 323024 00] WATER_EFECT.PTT 
+-r-xr-xr-x   1    0    0       6438 Jul 19 2011 [ 323040 00] WATER_EFECT2.PTT 
+-r-xr-xr-x   1    0    0       6438 Jul 19 2011 [ 323056 00] WATER_EFECT_FOUNTAIN.PTT 
+-r-xr-xr-x   1    0    0       6438 Jul 19 2011 [ 323072 00] WATER_FOUNTAIN.PTT 
+-r-xr-xr-x   1    0    0       6438 Jul 19 2011 [ 323088 00] WATER_GENERIC.PTT 
+-r-xr-xr-x   1    0    0       5158 Apr 29 2011 [ 323104 00] WEAPON_PICKUP.PTT 
+-r-xr-xr-x   1    0    0       6438 Jul 19 2011 [ 323120 00] WINDOW_ITA_CHURCH_D.PTT 
+-r-xr-xr-x   1    0    0      22822 Jul 19 2011 [ 323136 00] WIN_ITA_01_D.PTT 
+-r-xr-xr-x   1    0    0       6182 May 11 2011 [ 323152 00] WIN_TKO_MASTER_D.PTT 
+-r-xr-xr-x   1    0    0      22822 May 11 2011 [ 323168 00] WIN_TKO_WINDOWSMASTER_D.PTT 
+-r-xr-xr-x   1    0    0       6438 Aug 17 2011 [ 323184 00] WOOD_01.PTT 
+-r-xr-xr-x   1    0    0       3750 Jul 20 2011 [ 323200 00] WOOD_CHURCH_TRIM.PTT 
+-r-xr-xr-x   1    0    0       6438 Jul 19 2011 [ 323216 00] WOOD_ITA_DOORS_D.PTT 
+-r-xr-xr-x   1    0    0       6182 Aug  3 2011 [ 323232 00] WOOD_RAD_DOORS_D.PTT 
+-r-xr-xr-x   1    0    0       6438 Aug  3 2011 [ 323248 00] WOOD_RAD_FARMB_D01.PTT 
+-r-xr-xr-x   1    0    0       2342 May 11 2011 [ 323264 00] WOOD_TKO_WEATHERED.PTT 
+-r-xr-xr-x   1    0    0       3750 Jul 19 2011 [ 323280 00] WPG_SIGHN_BACKGROUND.PTT 
+-r-xr-xr-x   1    0    0      11942 Jul 19 2011 [ 323296 00] WPG_SIGHN_LETTERING.PTT 
+-r-xr-xr-x   1    0    0       3750 Jul 19 2011 [ 323312 00] WPG_SIGHN_SCROLL.PTT 
+-r-xr-xr-x   1    0    0      11942 Jun 22 2011 [ 323328 00] WSMSTRBRIDG.PTT 
+-r-xr-xr-x   1    0    0       6438 Aug 19 2011 [ 323344 00] YELLOWSTRIPS.PTT 
+-r-xr-xr-x   1    0    0      88358 Jun 21 2011 [ 323360 00] YUGO_BODY.PTT 
+-r-xr-xr-x   1    0    0       6438 Jun 21 2011 [ 323408 00] YUGO_TIRES.PTT 
+-r-xr-xr-x   1    0    0      88358 Jun 21 2011 [ 323424 00] ZAPOR_BODY.PTT 
+
+Directory listing of /PSP_GAME/USRDIR/UI/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     63 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     29 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    111 02] FONTLIB 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    112 02] LANGUAGESELECTION 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    113 02] MENUS 
+
+Directory listing of /PSP_GAME/USRDIR/VIDEOS/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     64 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     29 02] .. 
+-r-xr-xr-x   1    0    0    1380352 Jun 30 2011 [ 325760 00] AVLOGO.PMF 
+-r-xr-xr-x   1    0    0   11202560 Sep 13 2011 [ 326448 00] CLOSINGCINEMATIC.PMF 
+-r-xr-xr-x   1    0    0    4208640 Sep 15 2011 [ 331920 00] CLOSINGCINEMATIC_POR.PMF 
+-r-xr-xr-x   1    0    0     743424 Jun 30 2011 [ 333984 00] DIS.PMF 
+-r-xr-xr-x   1    0    0   32376832 Sep 13 2011 [ 334352 00] OPENCINEMATIC.PMF 
+-r-xr-xr-x   1    0    0   12271616 Sep 19 2011 [ 350176 00] OPENCINEMATIC_POR.PMF 
+-r-xr-xr-x   1    0    0    1738752 Jun 30 2011 [ 356176 00] PIXAR_LOGO.PMF 
+
+Directory listing of /PSP_GAME/USRDIR/ANIMS/CAMERAS/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     65 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     31 02] .. 
+-r-xr-xr-x   1    0    0        758 Aug  3 2011 [  60784 00] GARAJE_CAMERA_IN.PTAN 
+-r-xr-xr-x   1    0    0        758 Aug  3 2011 [  60800 00] GARAJE_CAMERA_OUT.PTAN 
+
+Directory listing of /PSP_GAME/USRDIR/ANIMS/CARS/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     66 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     31 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    114 02] HOLLY_FRONTEND 
+
+Directory listing of /PSP_GAME/USRDIR/ANIMS/OBJECTS/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     67 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     31 02] .. 
+-r-xr-xr-x   1    0    0        706 Aug  4 2011 [  60992 00] GARAGE_PISTONDOWN.PTAN 
+-r-xr-xr-x   1    0    0        706 Aug  4 2011 [  61008 00] GARAGE_PISTONUP.PTAN 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED_GARAGE/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     68 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     32 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    115 02] ACER 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    116 02] CARLAVELOSO 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    117 02] FILLMORE 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    118 02] FINN 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    119 02] FRANCESCO 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    120 02] GREM 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    121 02] GUIDO 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    122 02] HOLLEY 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    123 02] JEFFGORVETTE 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    124 02] LUIGI 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    125 02] MATER 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    126 02] MAXSCHNELL 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    127 02] MCQUEEN 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    128 02] MIGUELCAMINO 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    129 02] MILESAXLEROD 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    130 02] NIGELGEARSLEY 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    131 02] PROFESSORZ 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    132 02] RAOULCAROULE 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    133 02] RODREDLINE 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    134 02] SARGE 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    135 02] SHU 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    136 02] TOMBER 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     32 02] .. 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    137 02] ACER 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    138 02] BATTLEBOATNPC 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    139 02] CARLAVELOSO 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    140 02] COMPUTER 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    141 02] DOUBLEDECKERBUSNPC 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    142 02] FILLMORE 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    143 02] FINN 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    144 02] FRANCESCO 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    145 02] GREMLIN1NPC 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    146 02] GREMLIN2NPC 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    147 02] GREMLIN3NPC 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    148 02] GREM 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    149 02] GUIDO 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    150 02] HOLLEY 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    151 02] HUGO1NPC 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    152 02] HUGO2NPC 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    153 02] HUGO3NPC 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    154 02] ITALIANCAR1NPC 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    155 02] ITALIANCAR2NPC 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    156 02] ITALIANCAR3NPC 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    157 02] JEFFGORVETTE 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    158 02] LONDONCAR1NPC 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    159 02] LONDONCAR2NPC 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    160 02] LUIGI 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    161 02] MATER 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    162 02] MAXSCHNELL 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    163 02] MCQUEEN 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    164 02] MIGUELCAMINO 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    165 02] MILESAXLEROD 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    166 02] NIGELGEARSLEY 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    167 02] PACER1NPC 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    168 02] PACER2NPC 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    169 02] PACER3NPC 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    170 02] PROFESSORZ 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    171 02] RADIATORCAR1NPC 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    172 02] RADIATORCAR2NPC 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    173 02] RADIATORRV1NPC 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    174 02] RADIATORRV2NPC 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    175 02] RAOULCAROULE 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    176 02] RODREDLINE 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    177 02] SARGE 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    178 02] SHU 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    179 02] SUBWAYTRAIN 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    180 02] TOKYOCAR1NPC 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    181 02] TOKYOCAR2NPC 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    182 02] TOKYOCAR3NPC 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    183 02] TOKYOOUTDOORTRAIN 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    184 02] TOMBER 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    185 02] TRUNKOV1NPC 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    186 02] TRUNKOV2NPC 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    187 02] TRUNKOV3NPC 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    188 02] YACHTITALIANNPC 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/MUSIC/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     71 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     32 02] .. 
+-r-xr-xr-x   1    0    0    2043936 Sep 13 2011 [ 226624 00] ITALY_RACE.AA3 
+-r-xr-xr-x   1    0    0    2296152 Sep 13 2011 [ 227632 00] ITALY_SPY.AA3 
+-r-xr-xr-x   1    0    0    2424120 Sep 13 2011 [ 228768 00] LONDON_RACE.AA3 
+-r-xr-xr-x   1    0    0    2227704 Sep 13 2011 [ 229952 00] LONDON_SPY.AA3 
+-r-xr-xr-x   1    0    0    1924152 Sep 13 2011 [ 231040 00] MU_MENU.AA3 
+-r-xr-xr-x   1    0    0    2415936 Sep 13 2011 [ 231984 00] RAD_SPRINGS_RACE.AA3 
+-r-xr-xr-x   1    0    0    2452392 Sep 13 2011 [ 233168 00] RAD_SPRINGS_SPY.AA3 
+-r-xr-xr-x   1    0    0    2033520 Sep 13 2011 [ 234368 00] TOKYORACE.AA3 
+-r-xr-xr-x   1    0    0    2011200 Sep 13 2011 [ 235376 00] TOKYO_SPY.AA3 
+
+Directory listing of /PSP_GAME/USRDIR/LOCALIZATION_USA/ENGLISH/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     72 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     38 02] .. 
+-r-xr-xr-x   1    0    0      39585 Sep 25 2011 [ 249792 00] LOCALIZATION.TXT 
+
+Directory listing of /PSP_GAME/USRDIR/LOCALIZATION_USA/FRENCH/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     73 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     38 02] .. 
+-r-xr-xr-x   1    0    0      43304 Sep 21 2011 [ 249824 00] LOCALIZATION.TXT 
+
+Directory listing of /PSP_GAME/USRDIR/LOCALIZATION_USA/GERMAN/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     74 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     38 02] .. 
+-r-xr-xr-x   1    0    0      42819 Sep 22 2011 [ 249856 00] LOCALIZATION.TXT 
+
+Directory listing of /PSP_GAME/USRDIR/LOCALIZATION_USA/ITALIAN/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     75 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     38 02] .. 
+-r-xr-xr-x   1    0    0      41782 Sep 21 2011 [ 249888 00] LOCALIZATION.TXT 
+
+Directory listing of /PSP_GAME/USRDIR/LOCALIZATION_USA/SPANISH/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     76 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     38 02] .. 
+-r-xr-xr-x   1    0    0      41890 Sep 22 2011 [ 249920 00] LOCALIZATION.TXT 
+
+Directory listing of /PSP_GAME/USRDIR/LOCALIZATION/DUTCH/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     77 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     39 02] .. 
+-r-xr-xr-x   1    0    0      40771 Sep 21 2011 [ 249488 00] LOCALIZATION.TXT 
+
+Directory listing of /PSP_GAME/USRDIR/LOCALIZATION/ENGLISH/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     78 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     39 02] .. 
+-r-xr-xr-x   1    0    0      39585 Sep 25 2011 [ 249520 00] LOCALIZATION.TXT 
+
+Directory listing of /PSP_GAME/USRDIR/LOCALIZATION/FRENCH/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     79 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     39 02] .. 
+-r-xr-xr-x   1    0    0      43304 Sep 21 2011 [ 249552 00] LOCALIZATION.TXT 
+
+Directory listing of /PSP_GAME/USRDIR/LOCALIZATION/GERMAN/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     80 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     39 02] .. 
+-r-xr-xr-x   1    0    0      42825 Sep 22 2011 [ 249584 00] LOCALIZATION.TXT 
+
+Directory listing of /PSP_GAME/USRDIR/LOCALIZATION/ITALIAN/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     81 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     39 02] .. 
+-r-xr-xr-x   1    0    0      41782 Sep 21 2011 [ 249616 00] LOCALIZATION.TXT 
+
+Directory listing of /PSP_GAME/USRDIR/LOCALIZATION/POLISH/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     82 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     39 02] .. 
+-r-xr-xr-x   1    0    0      40305 Sep 22 2011 [ 249648 00] LOCALIZATION.TXT 
+
+Directory listing of /PSP_GAME/USRDIR/LOCALIZATION/PORTUGUESE/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     83 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     39 02] .. 
+-r-xr-xr-x   1    0    0      41781 Sep 21 2011 [ 249680 00] LOCALIZATION.TXT 
+
+Directory listing of /PSP_GAME/USRDIR/LOCALIZATION/RUSSIAN/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     84 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     39 02] .. 
+-r-xr-xr-x   1    0    0      62610 Sep 21 2011 [ 249712 00] LOCALIZATION.TXT 
+
+Directory listing of /PSP_GAME/USRDIR/LOCALIZATION/SPANISH/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     85 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     39 02] .. 
+-r-xr-xr-x   1    0    0      41892 Sep 22 2011 [ 249744 00] LOCALIZATION.TXT 
+
+Directory listing of /PSP_GAME/USRDIR/MESHES/CARS/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     86 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     40 02] .. 
+-r-xr-xr-x   1    0    0     136312 Aug  4 2011 [ 249952 00] HOLLY_FRONTEND.PTCL 
+
+Directory listing of /PSP_GAME/USRDIR/MESHES/LEVELS/
+dr-xr-xr-x   1    0    0      32768 Sep 25 2011 [     87 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     40 02] .. 
+-r-xr-xr-x   1    0    0      66832 Sep 16 2011 [ 250032 00] ITALY01.BULLET 
+-r-xr-xr-x   1    0    0      27384 Sep 19 2011 [ 250080 00] ITALY01.NAV 
+-r-xr-xr-x   1    0    0     785590 Sep 22 2011 [ 250096 00] ITALY01.PACK 
+-r-xr-xr-x   1    0    0     382454 Sep 13 2011 [ 250480 00] ITALY01.PTSC 
+-r-xr-xr-x   1    0    0     718507 Sep 19 2011 [ 250672 00] ITALY01_01.PTKD 
+-r-xr-xr-x   1    0    0     601440 Sep 19 2011 [ 251024 00] ITALY01_02.PTKD 
+-r-xr-xr-x   1    0    0     690293 Sep 19 2011 [ 251328 00] ITALY01_03.PTKD 
+-r-xr-xr-x   1    0    0     701295 Sep 19 2011 [ 251680 00] ITALY01_04.PTKD 
+-r-xr-xr-x   1    0    0     698011 Sep 19 2011 [ 252032 00] ITALY01_05.PTKD 
+-r-xr-xr-x   1    0    0     709272 Sep 19 2011 [ 252384 00] ITALY01_06.PTKD 
+-r-xr-xr-x   1    0    0     733731 Sep 19 2011 [ 252736 00] ITALY01_07.PTKD 
+-r-xr-xr-x   1    0    0      16684 Sep 13 2011 [ 253104 00] ITALY01_ATC.BULLET 
+-r-xr-xr-x   1    0    0      34907 Aug 23 2011 [ 253120 00] ITALY01_ATC.PTSC 
+-r-xr-xr-x   1    0    0      10747 Sep  6 2011 [ 253152 00] ITALY01_ATTACK_EASY.PTCL 
+-r-xr-xr-x   1    0    0      10747 Sep  6 2011 [ 253168 00] ITALY01_ATTACK_HARD.PTCL 
+-r-xr-xr-x   1    0    0      10747 Sep  6 2011 [ 253184 00] ITALY01_ATTACK_MEDIUM.PTCL 
+-r-xr-xr-x   1    0    0      21472 Jul 28 2011 [ 253200 00] ITALY01_CAMERA.NAV 
+-r-xr-xr-x   1    0    0      75864 Sep 19 2011 [ 253216 00] ITALY01_EASY.BULLET 
+-r-xr-xr-x   1    0    0      24655 Aug 23 2011 [ 253264 00] ITALY01_EASY.PTSC 
+-r-xr-xr-x   1    0    0      93560 Sep 19 2011 [ 253280 00] ITALY01_HARD.BULLET 
+-r-xr-xr-x   1    0    0     110337 Aug 23 2011 [ 253328 00] ITALY01_HARD.PTSC 
+-r-xr-xr-x   1    0    0        353 Sep  5 2011 [ 253392 00] ITALY01_LIGHTS.PTCL 
+-r-xr-xr-x   1    0    0       8152 Sep 20 2011 [ 253408 00] ITALY01_LOGICS_EASY.PTCL 
+-r-xr-xr-x   1    0    0       6562 Sep 20 2011 [ 253424 00] ITALY01_LOGICS_HARD.PTCL 
+-r-xr-xr-x   1    0    0       6984 Sep 20 2011 [ 253440 00] ITALY01_LOGICS_MEDIUM.PTCL 
+-r-xr-xr-x   1    0    0      84712 Sep 19 2011 [ 253456 00] ITALY01_MEDIUM.BULLET 
+-r-xr-xr-x   1    0    0     108240 Aug 23 2011 [ 253504 00] ITALY01_MEDIUM.PTSC 
+-r-xr-xr-x   1    0    0     119732 Sep 13 2011 [ 253568 00] ITALY02.BULLET 
+-r-xr-xr-x   1    0    0      22744 Sep 19 2011 [ 253632 00] ITALY02.NAV 
+-r-xr-xr-x   1    0    0     687702 Sep 22 2011 [ 253648 00] ITALY02.PACK 
+-r-xr-xr-x   1    0    0     491381 Sep 19 2011 [ 253984 00] ITALY02.PTSC 
+-r-xr-xr-x   1    0    0     652777 Sep 19 2011 [ 254224 00] ITALY02_01.PTKD 
+-r-xr-xr-x   1    0    0     718882 Sep 14 2011 [ 254544 00] ITALY02_02.PTKD 
+-r-xr-xr-x   1    0    0     703701 Sep 14 2011 [ 254896 00] ITALY02_03.PTKD 
+-r-xr-xr-x   1    0    0     728707 Sep 14 2011 [ 255248 00] ITALY02_04.PTKD 
+-r-xr-xr-x   1    0    0     432587 Sep 14 2011 [ 255616 00] ITALY02_05.PTKD 
+-r-xr-xr-x   1    0    0      15420 Sep 14 2011 [ 255840 00] ITALY02_ATC.BULLET 
+-r-xr-xr-x   1    0    0      35669 Sep 14 2011 [ 255856 00] ITALY02_ATC.PTSC 
+-r-xr-xr-x   1    0    0       8997 Sep  6 2011 [ 255888 00] ITALY02_ATTACK_EASY.PTCL 
+-r-xr-xr-x   1    0    0       8997 Sep  6 2011 [ 255904 00] ITALY02_ATTACK_HARD.PTCL 
+-r-xr-xr-x   1    0    0       8997 Sep  6 2011 [ 255920 00] ITALY02_ATTACK_MEDIUM.PTCL 
+-r-xr-xr-x   1    0    0      19192 Jul 26 2011 [ 255936 00] ITALY02_CAMERA.NAV 
+-r-xr-xr-x   1    0    0      68468 Sep 13 2011 [ 255952 00] ITALY02_EASY.BULLET 
+-r-xr-xr-x   1    0    0      23959 Sep 14 2011 [ 256000 00] ITALY02_EASY.PTSC 
+-r-xr-xr-x   1    0    0      79212 Sep 14 2011 [ 256016 00] ITALY02_HARD.BULLET 
+-r-xr-xr-x   1    0    0     113394 Sep 14 2011 [ 256064 00] ITALY02_HARD.PTSC 
+-r-xr-xr-x   1    0    0        351 Aug  2 2011 [ 256128 00] ITALY02_LIGHTS.PTCL 
+-r-xr-xr-x   1    0    0       5142 Aug 24 2011 [ 256144 00] ITALY02_LOGICS_EASY.PTCL 
+-r-xr-xr-x   1    0    0       3895 Sep  7 2011 [ 256160 00] ITALY02_LOGICS_HARD.PTCL 
+-r-xr-xr-x   1    0    0       4311 Sep  7 2011 [ 256176 00] ITALY02_LOGICS_MEDIUM.PTCL 
+-r-xr-xr-x   1    0    0      72892 Sep 14 2011 [ 256192 00] ITALY02_MEDIUM.BULLET 
+-r-xr-xr-x   1    0    0      90057 Sep 14 2011 [ 256240 00] ITALY02_MEDIUM.PTSC 
+-r-xr-xr-x   1    0    0      84600 Sep 21 2011 [ 256288 00] ITALY03.BULLET 
+-r-xr-xr-x   1    0    0      25224 Sep 19 2011 [ 256336 00] ITALY03.NAV 
+-r-xr-xr-x   1    0    0     678890 Sep 22 2011 [ 256352 00] ITALY03.PACK 
+-r-xr-xr-x   1    0    0     413703 Sep  5 2011 [ 256688 00] ITALY03.PTSC 
+-r-xr-xr-x   1    0    0     632407 Sep 19 2011 [ 256896 00] ITALY03_01.PTKD 
+-r-xr-xr-x   1    0    0     503149 Sep 14 2011 [ 257216 00] ITALY03_02.PTKD 
+-r-xr-xr-x   1    0    0     690451 Sep 14 2011 [ 257472 00] ITALY03_03.PTKD 
+-r-xr-xr-x   1    0    0     704301 Sep 14 2011 [ 257824 00] ITALY03_04.PTKD 
+-r-xr-xr-x   1    0    0     711527 Sep 14 2011 [ 258176 00] ITALY03_05.PTKD 
+-r-xr-xr-x   1    0    0     712913 Sep 14 2011 [ 258528 00] ITALY03_06.PTKD 
+-r-xr-xr-x   1    0    0      16684 Sep 13 2011 [ 258880 00] ITALY03_ATC.BULLET 
+-r-xr-xr-x   1    0    0      34971 Aug 23 2011 [ 258896 00] ITALY03_ATC.PTSC 
+-r-xr-xr-x   1    0    0       9817 Sep  6 2011 [ 258928 00] ITALY03_ATTACK_EASY.PTCL 
+-r-xr-xr-x   1    0    0       9817 Sep  6 2011 [ 258944 00] ITALY03_ATTACK_HARD.PTCL 
+-r-xr-xr-x   1    0    0       9817 Sep  6 2011 [ 258960 00] ITALY03_ATTACK_MEDIUM.PTCL 
+-r-xr-xr-x   1    0    0      21592 Aug  2 2011 [ 258976 00] ITALY03_CAMERA.NAV 
+-r-xr-xr-x   1    0    0      91552 Sep 21 2011 [ 258992 00] ITALY03_EASY.BULLET 
+-r-xr-xr-x   1    0    0     152323 Sep 14 2011 [ 259040 00] ITALY03_EASY.PTSC 
+-r-xr-xr-x   1    0    0     104192 Sep 21 2011 [ 259120 00] ITALY03_HARD.BULLET 
+-r-xr-xr-x   1    0    0     270064 Sep 14 2011 [ 259184 00] ITALY03_HARD.PTSC 
+-r-xr-xr-x   1    0    0        349 Aug  1 2011 [ 259328 00] ITALY03_LIGHTS.PTCL 
+-r-xr-xr-x   1    0    0       7130 Aug 24 2011 [ 259344 00] ITALY03_LOGICS_EASY.PTCL 
+-r-xr-xr-x   1    0    0       3893 Aug 24 2011 [ 259360 00] ITALY03_LOGICS_HARD.PTCL 
+-r-xr-xr-x   1    0    0       5469 Aug 24 2011 [ 259376 00] ITALY03_LOGICS_MEDIUM.PTCL 
+-r-xr-xr-x   1    0    0      97872 Sep 21 2011 [ 259392 00] ITALY03_MEDIUM.BULLET 
+-r-xr-xr-x   1    0    0     253665 Sep 14 2011 [ 259440 00] ITALY03_MEDIUM.PTSC 
+-r-xr-xr-x   1    0    0     119384 Sep 13 2011 [ 259568 00] ITALY04.BULLET 
+-r-xr-xr-x   1    0    0      17424 Sep 20 2011 [ 259632 00] ITALY04.NAV 
+-r-xr-xr-x   1    0    0     894949 Sep 22 2011 [ 259648 00] ITALY04.PACK 
+-r-xr-xr-x   1    0    0      79760 Aug 18 2011 [ 260096 00] ITALY04.PTKD 
+-r-xr-xr-x   1    0    0     349578 Sep 21 2011 [ 260144 00] ITALY04.PTSC 
+-r-xr-xr-x   1    0    0     717365 Sep 19 2011 [ 260320 00] ITALY04_01.PTKD 
+-r-xr-xr-x   1    0    0     653738 Sep 14 2011 [ 260672 00] ITALY04_02.PTKD 
+-r-xr-xr-x   1    0    0     658831 Sep 14 2011 [ 260992 00] ITALY04_03.PTKD 
+-r-xr-xr-x   1    0    0     696325 Sep 14 2011 [ 261328 00] ITALY04_04.PTKD 
+-r-xr-xr-x   1    0    0     539300 Sep 14 2011 [ 261680 00] ITALY04_05.PTKD 
+-r-xr-xr-x   1    0    0     547343 Sep 14 2011 [ 261952 00] ITALY04_06.PTKD 
+-r-xr-xr-x   1    0    0     498168 Sep 14 2011 [ 262224 00] ITALY04_07.PTKD 
+-r-xr-xr-x   1    0    0      13524 Sep 13 2011 [ 262480 00] ITALY04_ATC.BULLET 
+-r-xr-xr-x   1    0    0      35247 Aug 23 2011 [ 262496 00] ITALY04_ATC.PTSC 
+-r-xr-xr-x   1    0    0       7247 Sep  5 2011 [ 262528 00] ITALY04_ATTACK_EASY.PTCL 
+-r-xr-xr-x   1    0    0       7247 Sep  6 2011 [ 262544 00] ITALY04_ATTACK_HARD.PTCL 
+-r-xr-xr-x   1    0    0       7247 Sep  6 2011 [ 262560 00] ITALY04_ATTACK_MEDIUM.PTCL 
+-r-xr-xr-x   1    0    0       9712 Jul 22 2011 [ 262576 00] ITALY04_CAMERA.NAV 
+-r-xr-xr-x   1    0    0      73804 Sep 15 2011 [ 262592 00] ITALY04_EASY.BULLET 
+-r-xr-xr-x   1    0    0      79454 Sep 15 2011 [ 262640 00] ITALY04_EASY.PTSC 
+-r-xr-xr-x   1    0    0      82652 Sep 15 2011 [ 262688 00] ITALY04_HARD.BULLET 
+-r-xr-xr-x   1    0    0     138624 Sep 21 2011 [ 262736 00] ITALY04_HARD.PTSC 
+-r-xr-xr-x   1    0    0        354 Aug 18 2011 [ 262816 00] ITALY04_LIGHTS.PTCL 
+-r-xr-xr-x   1    0    0       6052 Sep 21 2011 [ 262832 00] ITALY04_LOGICS_EASY.PTCL 
+-r-xr-xr-x   1    0    0       4145 Sep 21 2011 [ 262848 00] ITALY04_LOGICS_HARD.PTCL 
+-r-xr-xr-x   1    0    0       4807 Sep 21 2011 [ 262864 00] ITALY04_LOGICS_MEDIUM.PTCL 
+-r-xr-xr-x   1    0    0      78228 Sep 15 2011 [ 262880 00] ITALY04_MEDIUM.BULLET 
+-r-xr-xr-x   1    0    0     137686 Sep 21 2011 [ 262928 00] ITALY04_MEDIUM.PTSC 
+-r-xr-xr-x   1    0    0      20707 Sep 22 2011 [ 263008 00] ITALY_SKYBOX.PTCL 
+-r-xr-xr-x   1    0    0     360028 Sep 13 2011 [ 263024 00] LEVEL1.BULLET 
+-r-xr-xr-x   1    0    0     148158 Sep 22 2011 [ 263200 00] LOG.TXT 
+-r-xr-xr-x   1    0    0     258272 Sep 13 2011 [ 263280 00] LONDON01.BULLET 
+-r-xr-xr-x   1    0    0      22488 Sep 19 2011 [ 263408 00] LONDON01.NAV 
+-r-xr-xr-x   1    0    0     697950 Sep 22 2011 [ 263424 00] LONDON01.PACK 
+-r-xr-xr-x   1    0    0     373776 Sep 12 2011 [ 263776 00] LONDON01.PTSC 
+-r-xr-xr-x   1    0    0     673956 Sep 19 2011 [ 263968 00] LONDON01_01.PTKD 
+-r-xr-xr-x   1    0    0     636218 Sep 12 2011 [ 264304 00] LONDON01_02.PTKD 
+-r-xr-xr-x   1    0    0     575364 Sep 12 2011 [ 264624 00] LONDON01_03.PTKD 
+-r-xr-xr-x   1    0    0     534428 Sep 12 2011 [ 264912 00] LONDON01_04.PTKD 
+-r-xr-xr-x   1    0    0     630955 Sep 12 2011 [ 265184 00] LONDON01_05.PTKD 
+-r-xr-xr-x   1    0    0     648935 Sep 12 2011 [ 265504 00] LONDON01_06.PTKD 
+-r-xr-xr-x   1    0    0     501043 Sep 12 2011 [ 265824 00] LONDON01_07.PTKD 
+-r-xr-xr-x   1    0    0     642244 Sep 12 2011 [ 266080 00] LONDON01_08.PTKD 
+-r-xr-xr-x   1    0    0      16684 Sep 13 2011 [ 266400 00] LONDON01_ATC.BULLET 
+-r-xr-xr-x   1    0    0      50402 Aug 19 2011 [ 266416 00] LONDON01_ATC.PTSC 
+-r-xr-xr-x   1    0    0       8162 Sep  5 2011 [ 266448 00] LONDON01_ATTACK_EASY.PTCL 
+-r-xr-xr-x   1    0    0       8162 Sep  6 2011 [ 266464 00] LONDON01_ATTACK_HARD.PTCL 
+-r-xr-xr-x   1    0    0       8162 Sep  6 2011 [ 266480 00] LONDON01_ATTACK_MEDIUM.PTCL 
+-r-xr-xr-x   1    0    0      20232 Jul  8 2011 [ 266496 00] LONDON01_CAMERA.NAV 
+-r-xr-xr-x   1    0    0     116040 Sep 13 2011 [ 266512 00] LONDON01_EASY.BULLET 
+-r-xr-xr-x   1    0    0      70307 Sep 12 2011 [ 266576 00] LONDON01_EASY.PTSC 
+-r-xr-xr-x   1    0    0     129312 Sep 13 2011 [ 266624 00] LONDON01_HARD.BULLET 
+-r-xr-xr-x   1    0    0     250309 Sep 12 2011 [ 266688 00] LONDON01_HARD.PTSC 
+-r-xr-xr-x   1    0    0        431 Jul  7 2011 [ 266816 00] LONDON01_LIGHTS.PTCL 
+-r-xr-xr-x   1    0    0       5892 Sep  7 2011 [ 266832 00] LONDON01_LOGICS_EASY.PTCL 
+-r-xr-xr-x   1    0    0       3638 Sep  7 2011 [ 266848 00] LONDON01_LOGICS_HARD.PTCL 
+-r-xr-xr-x   1    0    0       4470 Sep  7 2011 [ 266864 00] LONDON01_LOGICS_MEDIUM.PTCL 
+-r-xr-xr-x   1    0    0     122360 Sep 13 2011 [ 266880 00] LONDON01_MEDIUM.BULLET 
+-r-xr-xr-x   1    0    0     217964 Sep 12 2011 [ 266944 00] LONDON01_MEDIUM.PTSC 
+-r-xr-xr-x   1    0    0      15752 Jun 22 2011 [ 267056 00] LONDON01_TRAFFIC.NAV 
+-r-xr-xr-x   1    0    0     285872 Sep 13 2011 [ 267072 00] LONDON02.BULLET 
+-r-xr-xr-x   1    0    0      38384 Sep 19 2011 [ 267216 00] LONDON02.NAV 
+-r-xr-xr-x   1    0    0     641471 Sep 22 2011 [ 267248 00] LONDON02.PACK 
+-r-xr-xr-x   1    0    0     657348 Sep 21 2011 [ 267568 00] LONDON02.PTSC 
+-r-xr-xr-x   1    0    0     625208 Sep 22 2011 [ 267904 00] LONDON02_01.PTKD 
+-r-xr-xr-x   1    0    0     545879 Sep 22 2011 [ 268224 00] LONDON02_02.PTKD 
+-r-xr-xr-x   1    0    0     643747 Sep 21 2011 [ 268496 00] LONDON02_03.PTKD 
+-r-xr-xr-x   1    0    0     666663 Sep 21 2011 [ 268816 00] LONDON02_04.PTKD 
+-r-xr-xr-x   1    0    0     653834 Sep 22 2011 [ 269152 00] LONDON02_05.PTKD 
+-r-xr-xr-x   1    0    0     583370 Sep 21 2011 [ 269472 00] LONDON02_06.PTKD 
+-r-xr-xr-x   1    0    0     637779 Sep 20 2011 [ 269760 00] LONDON02_07.PTKD 
+-r-xr-xr-x   1    0    0      21740 Sep 13 2011 [ 270080 00] LONDON02_ATC.BULLET 
+-r-xr-xr-x   1    0    0      51466 Aug 19 2011 [ 270096 00] LONDON02_ATC.PTSC 
+-r-xr-xr-x   1    0    0      11419 Sep  5 2011 [ 270128 00] LONDON02_ATTACK_EASY.PTCL 
+-r-xr-xr-x   1    0    0      11419 Sep  6 2011 [ 270144 00] LONDON02_ATTACK_HARD.PTCL 
+-r-xr-xr-x   1    0    0      11419 Sep  6 2011 [ 270160 00] LONDON02_ATTACK_MEDIUM.PTCL 
+-r-xr-xr-x   1    0    0      29392 Aug 23 2011 [ 270176 00] LONDON02_CAMERA.NAV 
+-r-xr-xr-x   1    0    0     121600 Sep 25 2011 [ 270192 00] LONDON02_EASY.BULLET 
+-r-xr-xr-x   1    0    0     173653 Sep 13 2011 [ 270256 00] LONDON02_EASY.PTSC 
+-r-xr-xr-x   1    0    0     134240 Sep 25 2011 [ 270352 00] LONDON02_HARD.BULLET 
+-r-xr-xr-x   1    0    0     382660 Sep 13 2011 [ 270432 00] LONDON02_HARD.PTSC 
+-r-xr-xr-x   1    0    0        426 Jun 27 2011 [ 270624 00] LONDON02_LIGHTS.PTCL 
+-r-xr-xr-x   1    0    0       6727 Sep 22 2011 [ 270640 00] LONDON02_LOGICS_EASY.PTCL 
+-r-xr-xr-x   1    0    0       2986 Sep 22 2011 [ 270656 00] LONDON02_LOGICS_HARD.PTCL 
+-r-xr-xr-x   1    0    0       4726 Sep 22 2011 [ 270672 00] LONDON02_LOGICS_MEDIUM.PTCL 
+-r-xr-xr-x   1    0    0     129184 Sep 25 2011 [ 270688 00] LONDON02_MEDIUM.BULLET 
+-r-xr-xr-x   1    0    0     292738 Sep 13 2011 [ 270752 00] LONDON02_MEDIUM.PTSC 
+-r-xr-xr-x   1    0    0       9752 Jul  6 2011 [ 270896 00] LONDON02_TRAFFIC.NAV 
+-r-xr-xr-x   1    0    0     107852 Sep 21 2011 [ 270912 00] LONDON03.BULLET 
+-r-xr-xr-x   1    0    0      34704 Sep 25 2011 [ 270976 00] LONDON03.NAV 
+-r-xr-xr-x   1    0    0     603180 Sep 22 2011 [ 271008 00] LONDON03.PACK 
+-r-xr-xr-x   1    0    0     362317 Sep 16 2011 [ 271312 00] LONDON03.PTSC 
+-r-xr-xr-x   1    0    0     436953 Sep 19 2011 [ 271504 00] LONDON03_01.PTKD 
+-r-xr-xr-x   1    0    0     642260 Sep 15 2011 [ 271728 00] LONDON03_02.PTKD 
+-r-xr-xr-x   1    0    0     572465 Sep 15 2011 [ 272048 00] LONDON03_03.PTKD 
+-r-xr-xr-x   1    0    0     584482 Sep 21 2011 [ 272336 00] LONDON03_04.PTKD 
+-r-xr-xr-x   1    0    0     502350 Sep 15 2011 [ 272624 00] LONDON03_05.PTKD 
+-r-xr-xr-x   1    0    0     696884 Sep 15 2011 [ 272880 00] LONDON03_06.PTKD 
+-r-xr-xr-x   1    0    0     696045 Sep 15 2011 [ 273232 00] LONDON03_07.PTKD 
+-r-xr-xr-x   1    0    0      19212 Sep 13 2011 [ 273584 00] LONDON03_ATC.BULLET 
+-r-xr-xr-x   1    0    0      51190 Aug 19 2011 [ 273600 00] LONDON03_ATC.PTSC 
+-r-xr-xr-x   1    0    0      10919 Sep  5 2011 [ 273632 00] LONDON03_ATTACK_EASY.PTCL 
+-r-xr-xr-x   1    0    0      10919 Sep  6 2011 [ 273648 00] LONDON03_ATTACK_HARD.PTCL 
+-r-xr-xr-x   1    0    0      10919 Sep  6 2011 [ 273664 00] LONDON03_ATTACK_MEDIUM.PTCL 
+-r-xr-xr-x   1    0    0      31272 Aug 24 2011 [ 273680 00] LONDON03_CAMERA.NAV 
+-r-xr-xr-x   1    0    0     112276 Sep 25 2011 [ 273696 00] LONDON03_EASY.BULLET 
+-r-xr-xr-x   1    0    0      68209 Sep 15 2011 [ 273760 00] LONDON03_EASY.PTSC 
+-r-xr-xr-x   1    0    0     124916 Sep 25 2011 [ 273808 00] LONDON03_HARD.BULLET 
+-r-xr-xr-x   1    0    0     206581 Sep 15 2011 [ 273872 00] LONDON03_HARD.PTSC 
+-r-xr-xr-x   1    0    0        426 Jun 27 2011 [ 273984 00] LONDON03_LIGHTS.PTCL 
+-r-xr-xr-x   1    0    0       5727 Aug 24 2011 [ 274000 00] LONDON03_LOGICS_EASY.PTCL 
+-r-xr-xr-x   1    0    0       2403 Aug 24 2011 [ 274016 00] LONDON03_LOGICS_HARD.PTCL 
+-r-xr-xr-x   1    0    0       3148 Aug 24 2011 [ 274032 00] LONDON03_LOGICS_MEDIUM.PTCL 
+-r-xr-xr-x   1    0    0     119860 Sep 25 2011 [ 274048 00] LONDON03_MEDIUM.BULLET 
+-r-xr-xr-x   1    0    0     184304 Sep 15 2011 [ 274112 00] LONDON03_MEDIUM.PTSC 
+-r-xr-xr-x   1    0    0      10312 Jul  6 2011 [ 274208 00] LONDON03_TRAFFIC.NAV 
+-r-xr-xr-x   1    0    0     143676 Sep 20 2011 [ 274224 00] LONDON04.BULLET 
+-r-xr-xr-x   1    0    0      28424 Sep 19 2011 [ 274304 00] LONDON04.NAV 
+-r-xr-xr-x   1    0    0     600707 Sep 22 2011 [ 274320 00] LONDON04.PACK 
+-r-xr-xr-x   1    0    0     388514 Sep 22 2011 [ 274624 00] LONDON04.PTSC 
+-r-xr-xr-x   1    0    0     557195 Sep 16 2011 [ 274816 00] LONDON04_01.PTKD 
+-r-xr-xr-x   1    0    0     583382 Sep 16 2011 [ 275104 00] LONDON04_02.PTKD 
+-r-xr-xr-x   1    0    0     589449 Sep 21 2011 [ 275392 00] LONDON04_03.PTKD 
+-r-xr-xr-x   1    0    0     681718 Sep 19 2011 [ 275680 00] LONDON04_04.PTKD 
+-r-xr-xr-x   1    0    0     440581 Sep 22 2011 [ 276016 00] LONDON04_05.PTKD 
+-r-xr-xr-x   1    0    0     677959 Sep 22 2011 [ 276240 00] LONDON04_06.PTKD 
+-r-xr-xr-x   1    0    0     633707 Sep 22 2011 [ 276576 00] LONDON04_07.PTKD 
+-r-xr-xr-x   1    0    0     743491 Sep 16 2011 [ 276896 00] LONDON04_08.PTKD 
+-r-xr-xr-x   1    0    0     616080 Sep 16 2011 [ 277264 00] LONDON04_09.PTKD 
+-r-xr-xr-x   1    0    0      17316 Sep 13 2011 [ 277568 00] LONDON04_ATC.BULLET 
+-r-xr-xr-x   1    0    0      50473 Aug 19 2011 [ 277584 00] LONDON04_ATC.PTSC 
+-r-xr-xr-x   1    0    0       9670 Sep  6 2011 [ 277616 00] LONDON04_ATTACK_EASY.PTCL 
+-r-xr-xr-x   1    0    0       9670 Sep  6 2011 [ 277632 00] LONDON04_ATTACK_HARD.PTCL 
+-r-xr-xr-x   1    0    0       9670 Sep  6 2011 [ 277648 00] LONDON04_ATTACK_MEDIUM.PTCL 
+-r-xr-xr-x   1    0    0      20952 Aug 24 2011 [ 277664 00] LONDON04_CAMERA.NAV 
+-r-xr-xr-x   1    0    0     149996 Sep 20 2011 [ 277680 00] LONDON04_EASY.BULLET 
+-r-xr-xr-x   1    0    0      92820 Sep 22 2011 [ 277760 00] LONDON04_EASY.PTSC 
+-r-xr-xr-x   1    0    0     162636 Sep 20 2011 [ 277808 00] LONDON04_HARD.BULLET 
+-r-xr-xr-x   1    0    0     219620 Sep 22 2011 [ 277888 00] LONDON04_HARD.PTSC 
+-r-xr-xr-x   1    0    0        422 Jul  6 2011 [ 278000 00] LONDON04_LIGHTS.PTCL 
+-r-xr-xr-x   1    0    0       4638 Sep 21 2011 [ 278016 00] LONDON04_LOGICS_EASY.PTCL 
+-r-xr-xr-x   1    0    0       2481 Sep 21 2011 [ 278032 00] LONDON04_LOGICS_HARD.PTCL 
+-r-xr-xr-x   1    0    0       2813 Sep 21 2011 [ 278048 00] LONDON04_LOGICS_MEDIUM.PTCL 
+-r-xr-xr-x   1    0    0     157580 Sep 20 2011 [ 278064 00] LONDON04_MEDIUM.BULLET 
+-r-xr-xr-x   1    0    0     217646 Sep 22 2011 [ 278144 00] LONDON04_MEDIUM.PTSC 
+-r-xr-xr-x   1    0    0      12232 Jun 27 2011 [ 278256 00] LONDON04_TRAFFIC.NAV 
+-r-xr-xr-x   1    0    0      37253 Sep 25 2011 [ 278272 00] LONDON_SKYBOX.PTCL 
+-r-xr-xr-x   1    0    0     111180 May 16 2011 [ 278304 00] MENU.PTCL 
+-r-xr-xr-x   1    0    0    1115260 Sep 21 2011 [ 278368 00] MENU.PTKD 
+-r-xr-xr-x   1    0    0        510 May 16 2011 [ 278928 00] MENU_CAMERA.PTCL 
+-r-xr-xr-x   1    0    0        341 Aug  2 2011 [ 278944 00] MENU_CAMERA2.PTCL 
+-r-xr-xr-x   1    0    0        218 Aug  4 2011 [ 278960 00] MENU_GARAJE.PTCL 
+-r-xr-xr-x   1    0    0        620 Aug  4 2011 [ 278976 00] MENU_LIGHT.PTCL 
+-r-xr-xr-x   1    0    0        296 May 16 2011 [ 278992 00] MENU_LOGICS.PTCL 
+-r-xr-xr-x   1    0    0      19143 Aug  3 2011 [ 279008 00] MENU_PISTON.PTCL 
+-r-xr-xr-x   1    0    0     104972 Sep 13 2011 [ 279024 00] RADIATOR01.BULLET 
+-r-xr-xr-x   1    0    0      19272 Aug  3 2011 [ 279088 00] RADIATOR01.NAV 
+-r-xr-xr-x   1    0    0     429351 Sep 22 2011 [ 279104 00] RADIATOR01.PACK 
+-r-xr-xr-x   1    0    0       2515 Sep 15 2011 [ 279328 00] RADIATOR01.PTKD 
+-r-xr-xr-x   1    0    0     433854 Sep 19 2011 [ 279344 00] RADIATOR01.PTSC 
+-r-xr-xr-x   1    0    0     597655 Sep 22 2011 [ 279568 00] RADIATOR01_01.PTKD 
+-r-xr-xr-x   1    0    0     503992 Sep 22 2011 [ 279872 00] RADIATOR01_02.PTKD 
+-r-xr-xr-x   1    0    0     481815 Sep 22 2011 [ 280128 00] RADIATOR01_03.PTKD 
+-r-xr-xr-x   1    0    0     566060 Sep 22 2011 [ 280368 00] RADIATOR01_04.PTKD 
+-r-xr-xr-x   1    0    0     578505 Sep 22 2011 [ 280656 00] RADIATOR01_05.PTKD 
+-r-xr-xr-x   1    0    0      14156 Sep 13 2011 [ 280944 00] RADIATOR01_ATC.BULLET 
+-r-xr-xr-x   1    0    0      20048 Aug 19 2011 [ 280960 00] RADIATOR01_ATC.PTSC 
+-r-xr-xr-x   1    0    0       7737 Sep  5 2011 [ 280976 00] RADIATOR01_ATTACK_EASY.PTCL 
+-r-xr-xr-x   1    0    0       7737 Sep  6 2011 [ 280992 00] RADIATOR01_ATTACK_HARD.PTCL 
+-r-xr-xr-x   1    0    0       7737 Sep  6 2011 [ 281008 00] RADIATOR01_ATTACK_MEDIUM.PTCL 
+-r-xr-xr-x   1    0    0      18632 Aug  3 2011 [ 281024 00] RADIATOR01_CAMERA.NAV 
+-r-xr-xr-x   1    0    0      73968 Sep 22 2011 [ 281040 00] RADIATOR01_EASY.BULLET 
+-r-xr-xr-x   1    0    0      30244 Sep 22 2011 [ 281088 00] RADIATOR01_EASY.PTSC 
+-r-xr-xr-x   1    0    0      85976 Sep 22 2011 [ 281104 00] RADIATOR01_HARD.BULLET 
+-r-xr-xr-x   1    0    0     270713 Sep 22 2011 [ 281152 00] RADIATOR01_HARD.PTSC 
+-r-xr-xr-x   1    0    0        347 Aug  4 2011 [ 281296 00] RADIATOR01_LIGHTS.PTCL 
+-r-xr-xr-x   1    0    0       3728 Aug 25 2011 [ 281312 00] RADIATOR01_LOGICS_EASY.PTCL 
+-r-xr-xr-x   1    0    0       2737 Aug 25 2011 [ 281328 00] RADIATOR01_LOGICS_HARD.PTCL 
+-r-xr-xr-x   1    0    0       3152 Aug 26 2011 [ 281344 00] RADIATOR01_LOGICS_MEDIUM.PTCL 
+-r-xr-xr-x   1    0    0      82184 Sep 22 2011 [ 281360 00] RADIATOR01_MEDIUM.BULLET 
+-r-xr-xr-x   1    0    0     266443 Sep 22 2011 [ 281408 00] RADIATOR01_MEDIUM.PTSC 
+-r-xr-xr-x   1    0    0     112236 Sep 13 2011 [ 281552 00] RADIATOR02.BULLET 
+-r-xr-xr-x   1    0    0      27432 Aug  3 2011 [ 281616 00] RADIATOR02.NAV 
+-r-xr-xr-x   1    0    0     470973 Sep 20 2011 [ 281632 00] RADIATOR02.PACK 
+-r-xr-xr-x   1    0    0      35377 Aug 31 2011 [ 281872 00] RADIATOR02.PTKD 
+-r-xr-xr-x   1    0    0     452009 Sep 21 2011 [ 281904 00] RADIATOR02.PTSC 
+-r-xr-xr-x   1    0    0     622591 Sep 22 2011 [ 282128 00] RADIATOR02_01.PTKD 
+-r-xr-xr-x   1    0    0     540356 Sep 19 2011 [ 282432 00] RADIATOR02_02.PTKD 
+-r-xr-xr-x   1    0    0     505705 Sep  8 2011 [ 282704 00] RADIATOR02_03.PTKD 
+-r-xr-xr-x   1    0    0     589113 Sep 15 2011 [ 282960 00] RADIATOR02_04.PTKD 
+-r-xr-xr-x   1    0    0     621662 Sep 15 2011 [ 283248 00] RADIATOR02_05.PTKD 
+-r-xr-xr-x   1    0    0     537137 Sep 15 2011 [ 283552 00] RADIATOR02_06.PTKD 
+-r-xr-xr-x   1    0    0     546580 Sep 15 2011 [ 283824 00] RADIATOR02_07.PTKD 
+-r-xr-xr-x   1    0    0     511192 Sep 15 2011 [ 284096 00] RADIATOR02_08.PTKD 
+-r-xr-xr-x   1    0    0      17316 Sep 13 2011 [ 284352 00] RADIATOR02_ATC.BULLET 
+-r-xr-xr-x   1    0    0      19801 Aug 23 2011 [ 284368 00] RADIATOR02_ATC.PTSC 
+-r-xr-xr-x   1    0    0      12067 Sep  6 2011 [ 284384 00] RADIATOR02_ATTACK_EASY.PTCL 
+-r-xr-xr-x   1    0    0      12067 Sep  6 2011 [ 284400 00] RADIATOR02_ATTACK_HARD.PTCL 
+-r-xr-xr-x   1    0    0      12067 Sep  6 2011 [ 284416 00] RADIATOR02_ATTACK_MEDIUM.PTCL 
+-r-xr-xr-x   1    0    0      26632 Aug  3 2011 [ 284432 00] RADIATOR02_CAMERA.NAV 
+-r-xr-xr-x   1    0    0      77864 Sep 13 2011 [ 284448 00] RADIATOR02_EASY.BULLET 
+-r-xr-xr-x   1    0    0      47427 Sep 21 2011 [ 284496 00] RADIATOR02_EASY.PTSC 
+-r-xr-xr-x   1    0    0      91136 Sep 13 2011 [ 284528 00] RADIATOR02_HARD.BULLET 
+-r-xr-xr-x   1    0    0     246463 Sep 21 2011 [ 284576 00] RADIATOR02_HARD.PTSC 
+-r-xr-xr-x   1    0    0        347 Aug  4 2011 [ 284704 00] RADIATOR02_LIGHTS.PTCL 
+-r-xr-xr-x   1    0    0       5552 Sep  8 2011 [ 284720 00] RADIATOR02_LOGICS_EASY.PTCL 
+-r-xr-xr-x   1    0    0       5221 Aug 31 2011 [ 284736 00] RADIATOR02_LOGICS_HARD.PTCL 
+-r-xr-xr-x   1    0    0       4803 Sep  8 2011 [ 284752 00] RADIATOR02_LOGICS_MEDIUM.PTCL 
+-r-xr-xr-x   1    0    0      84816 Sep 13 2011 [ 284768 00] RADIATOR02_MEDIUM.BULLET 
+-r-xr-xr-x   1    0    0     206645 Sep 21 2011 [ 284816 00] RADIATOR02_MEDIUM.PTSC 
+-r-xr-xr-x   1    0    0     115964 Sep 13 2011 [ 284928 00] RADIATOR03.BULLET 
+-r-xr-xr-x   1    0    0      21672 Aug  3 2011 [ 284992 00] RADIATOR03.NAV 
+-r-xr-xr-x   1    0    0     454000 Sep 16 2011 [ 285008 00] RADIATOR03.PACK 
+-r-xr-xr-x   1    0    0     424771 Sep  8 2011 [ 285232 00] RADIATOR03.PTSC 
+-r-xr-xr-x   1    0    0     333844 Sep 22 2011 [ 285440 00] RADIATOR03_01.PTKD 
+-r-xr-xr-x   1    0    0     611420 Sep  8 2011 [ 285616 00] RADIATOR03_02.PTKD 
+-r-xr-xr-x   1    0    0     294772 Sep  8 2011 [ 285920 00] RADIATOR03_03.PTKD 
+-r-xr-xr-x   1    0    0     625903 Sep  8 2011 [ 286064 00] RADIATOR03_04.PTKD 
+-r-xr-xr-x   1    0    0     608621 Sep  8 2011 [ 286384 00] RADIATOR03_05.PTKD 
+-r-xr-xr-x   1    0    0     602021 Sep  8 2011 [ 286688 00] RADIATOR03_06.PTKD 
+-r-xr-xr-x   1    0    0     531151 Sep  8 2011 [ 286992 00] RADIATOR03_07.PTKD 
+-r-xr-xr-x   1    0    0      14788 Sep 13 2011 [ 287264 00] RADIATOR03_ATC.BULLET 
+-r-xr-xr-x   1    0    0      31947 Aug 23 2011 [ 287280 00] RADIATOR03_ATC.PTSC 
+-r-xr-xr-x   1    0    0       9149 Sep  6 2011 [ 287296 00] RADIATOR03_ATTACK_EASY.PTCL 
+-r-xr-xr-x   1    0    0       9149 Sep  6 2011 [ 287312 00] RADIATOR03_ATTACK_HARD.PTCL 
+-r-xr-xr-x   1    0    0       9149 Sep  6 2011 [ 287328 00] RADIATOR03_ATTACK_MEDIUM.PTCL 
+-r-xr-xr-x   1    0    0      20232 Aug 18 2011 [ 287344 00] RADIATOR03_CAMERA.NAV 
+-r-xr-xr-x   1    0    0      89024 Sep 13 2011 [ 287360 00] RADIATOR03_EASY.BULLET 
+-r-xr-xr-x   1    0    0      98204 Sep  8 2011 [ 287408 00] RADIATOR03_EASY.PTSC 
+-r-xr-xr-x   1    0    0     106720 Sep 13 2011 [ 287456 00] RADIATOR03_HARD.BULLET 
+-r-xr-xr-x   1    0    0     161932 Sep  8 2011 [ 287520 00] RADIATOR03_HARD.PTSC 
+-r-xr-xr-x   1    0    0        347 Aug  4 2011 [ 287600 00] RADIATOR03_LIGHTS.PTCL 
+-r-xr-xr-x   1    0    0       5791 Sep  8 2011 [ 287616 00] RADIATOR03_LOGICS_EASY.PTCL 
+-r-xr-xr-x   1    0    0       4882 Sep  8 2011 [ 287632 00] RADIATOR03_LOGICS_HARD.PTCL 
+-r-xr-xr-x   1    0    0       4716 Sep  8 2011 [ 287648 00] RADIATOR03_LOGICS_MEDIUM.PTCL 
+-r-xr-xr-x   1    0    0      96608 Sep 13 2011 [ 287664 00] RADIATOR03_MEDIUM.BULLET 
+-r-xr-xr-x   1    0    0     142312 Sep  8 2011 [ 287712 00] RADIATOR03_MEDIUM.PTSC 
+-r-xr-xr-x   1    0    0      69116 Sep 21 2011 [ 287792 00] RADIATOR04.BULLET 
+-r-xr-xr-x   1    0    0      20552 Sep  7 2011 [ 287840 00] RADIATOR04.NAV 
+-r-xr-xr-x   1    0    0     460409 Sep 16 2011 [ 287856 00] RADIATOR04.PACK 
+-r-xr-xr-x   1    0    0     529658 Sep  8 2011 [ 288096 00] RADIATOR04.PTSC 
+-r-xr-xr-x   1    0    0     725408 Sep 22 2011 [ 288368 00] RADIATOR04_01.PTKD 
+-r-xr-xr-x   1    0    0     651511 Sep 22 2011 [ 288736 00] RADIATOR04_02.PTKD 
+-r-xr-xr-x   1    0    0     527740 Sep 22 2011 [ 289056 00] RADIATOR04_03.PTKD 
+-r-xr-xr-x   1    0    0     436148 Sep  8 2011 [ 289328 00] RADIATOR04_04.PTKD 
+-r-xr-xr-x   1    0    0     611968 Sep  8 2011 [ 289552 00] RADIATOR04_05.PTKD 
+-r-xr-xr-x   1    0    0     554629 Sep  8 2011 [ 289856 00] RADIATOR04_06.PTKD 
+-r-xr-xr-x   1    0    0      14788 Sep 13 2011 [ 290128 00] RADIATOR04_ATC.BULLET 
+-r-xr-xr-x   1    0    0      19015 Aug 23 2011 [ 290144 00] RADIATOR04_ATC.PTSC 
+-r-xr-xr-x   1    0    0       8150 Sep  5 2011 [ 290160 00] RADIATOR04_ATTACK_EASY.PTCL 
+-r-xr-xr-x   1    0    0       8150 Sep  6 2011 [ 290176 00] RADIATOR04_ATTACK_HARD.PTCL 
+-r-xr-xr-x   1    0    0       8150 Sep  6 2011 [ 290192 00] RADIATOR04_ATTACK_MEDIUM.PTCL 
+-r-xr-xr-x   1    0    0      21192 Aug  3 2011 [ 290208 00] RADIATOR04_CAMERA.NAV 
+-r-xr-xr-x   1    0    0      74172 Sep 22 2011 [ 290224 00] RADIATOR04_EASY.BULLET 
+-r-xr-xr-x   1    0    0      64160 Sep  8 2011 [ 290272 00] RADIATOR04_EASY.PTSC 
+-r-xr-xr-x   1    0    0      84916 Sep 22 2011 [ 290304 00] RADIATOR04_HARD.BULLET 
+-r-xr-xr-x   1    0    0     219176 Sep  8 2011 [ 290352 00] RADIATOR04_HARD.PTSC 
+-r-xr-xr-x   1    0    0        347 Aug  4 2011 [ 290464 00] RADIATOR04_LIGHTS.PTCL 
+-r-xr-xr-x   1    0    0       4790 Sep  8 2011 [ 290480 00] RADIATOR04_LOGICS_EASY.PTCL 
+-r-xr-xr-x   1    0    0       2220 Sep  8 2011 [ 290496 00] RADIATOR04_LOGICS_HARD.PTCL 
+-r-xr-xr-x   1    0    0       3297 Sep  8 2011 [ 290512 00] RADIATOR04_LOGICS_MEDIUM.PTCL 
+-r-xr-xr-x   1    0    0      81124 Sep 22 2011 [ 290528 00] RADIATOR04_MEDIUM.BULLET 
+-r-xr-xr-x   1    0    0     193858 Sep  8 2011 [ 290576 00] RADIATOR04_MEDIUM.PTSC 
+-r-xr-xr-x   1    0    0      37253 Sep 22 2011 [ 290672 00] RADIATOR_SKYBOX.PTCL 
+-r-xr-xr-x   1    0    0     252284 Sep 13 2011 [ 290704 00] TOKIO01.BULLET 
+-r-xr-xr-x   1    0    0      22672 Sep 16 2011 [ 290832 00] TOKIO01.NAV 
+-r-xr-xr-x   1    0    0     860571 Sep 22 2011 [ 290848 00] TOKIO01.PACK 
+-r-xr-xr-x   1    0    0     529967 Sep 16 2011 [ 291280 00] TOKIO01.PTSC 
+-r-xr-xr-x   1    0    0     144322 May 11 2011 [ 291552 00] TOKIO01ANIM.PTAN 
+-r-xr-xr-x   1    0    0        406 May 11 2011 [ 291632 00] TOKIO01CAMARA.PTCL 
+-r-xr-xr-x   1    0    0     720369 Sep 16 2011 [ 291648 00] TOKIO01_01.PTKD 
+-r-xr-xr-x   1    0    0     614007 Sep 16 2011 [ 292000 00] TOKIO01_02.PTKD 
+-r-xr-xr-x   1    0    0     679980 Sep 16 2011 [ 292304 00] TOKIO01_03.PTKD 
+-r-xr-xr-x   1    0    0     663036 Sep 16 2011 [ 292640 00] TOKIO01_04.PTKD 
+-r-xr-xr-x   1    0    0     571420 Sep 16 2011 [ 292976 00] TOKIO01_05.PTKD 
+-r-xr-xr-x   1    0    0     523065 Sep 16 2011 [ 293264 00] TOKIO01_06.PTKD 
+-r-xr-xr-x   1    0    0     512095 Sep 16 2011 [ 293520 00] TOKIO01_07.PTKD 
+-r-xr-xr-x   1    0    0      17948 Sep 13 2011 [ 293776 00] TOKIO01_ATC.BULLET 
+-r-xr-xr-x   1    0    0      35089 Aug 19 2011 [ 293792 00] TOKIO01_ATC.PTSC 
+-r-xr-xr-x   1    0    0       8157 Sep  5 2011 [ 293824 00] TOKIO01_ATTACK_EASY.PTCL 
+-r-xr-xr-x   1    0    0       8157 Sep  6 2011 [ 293840 00] TOKIO01_ATTACK_HARD.PTCL 
+-r-xr-xr-x   1    0    0       8157 Sep  6 2011 [ 293856 00] TOKIO01_ATTACK_MEDIUM.PTCL 
+-r-xr-xr-x   1    0    0      17592 Jun 21 2011 [ 293872 00] TOKIO01_CAMERA.NAV 
+-r-xr-xr-x   1    0    0     135196 Sep 13 2011 [ 293888 00] TOKIO01_EASY.BULLET 
+-r-xr-xr-x   1    0    0      76302 Aug 23 2011 [ 293968 00] TOKIO01_EASY.PTSC 
+-r-xr-xr-x   1    0    0     149436 Sep 13 2011 [ 294016 00] TOKIO01_HARD.BULLET 
+-r-xr-xr-x   1    0    0      90944 Aug 23 2011 [ 294096 00] TOKIO01_HARD.PTSC 
+-r-xr-xr-x   1    0    0      12759 Jun 21 2011 [ 294144 00] TOKIO01_LIGHTS.PTCL 
+-r-xr-xr-x   1    0    0       7131 Aug 23 2011 [ 294160 00] TOKIO01_LOGICS_EASY.PTCL 
+-r-xr-xr-x   1    0    0       4052 Sep  6 2011 [ 294176 00] TOKIO01_LOGICS_HARD.PTCL 
+-r-xr-xr-x   1    0    0       4802 Sep  6 2011 [ 294192 00] TOKIO01_LOGICS_MEDIUM.PTCL 
+-r-xr-xr-x   1    0    0     141116 Sep 13 2011 [ 294208 00] TOKIO01_MEDIUM.BULLET 
+-r-xr-xr-x   1    0    0      89789 Aug 23 2011 [ 294288 00] TOKIO01_MEDIUM.PTSC 
+-r-xr-xr-x   1    0    0     133300 Sep 19 2011 [ 294336 00] TOKIO01_T.BULLET 
+-r-xr-xr-x   1    0    0     312100 Sep 13 2011 [ 294416 00] TOKIO01_T.PTSC 
+-r-xr-xr-x   1    0    0       5881 Aug 16 2011 [ 294576 00] TOKIO01_TUTORIAL_LOGICS.PTCL 
+-r-xr-xr-x   1    0    0     720369 Sep 16 2011 [ 294592 00] TOKIO01_T_01.PTKD 
+-r-xr-xr-x   1    0    0     614007 Sep 16 2011 [ 294944 00] TOKIO01_T_02.PTKD 
+-r-xr-xr-x   1    0    0     679980 Sep 16 2011 [ 295248 00] TOKIO01_T_03.PTKD 
+-r-xr-xr-x   1    0    0     663036 Sep 16 2011 [ 295584 00] TOKIO01_T_04.PTKD 
+-r-xr-xr-x   1    0    0     571420 Sep 16 2011 [ 295920 00] TOKIO01_T_05.PTKD 
+-r-xr-xr-x   1    0    0     523065 Sep 16 2011 [ 296208 00] TOKIO01_T_06.PTKD 
+-r-xr-xr-x   1    0    0     512095 Sep 16 2011 [ 296464 00] TOKIO01_T_07.PTKD 
+-r-xr-xr-x   1    0    0     177324 Sep 13 2011 [ 296720 00] TOKIO02.BULLET 
+-r-xr-xr-x   1    0    0      18744 Sep 20 2011 [ 296816 00] TOKIO02.NAV 
+-r-xr-xr-x   1    0    0     926153 Sep 22 2011 [ 296832 00] TOKIO02.PACK 
+-r-xr-xr-x   1    0    0      34522 Sep 22 2011 [ 297296 00] TOKIO02.PTKD 
+-r-xr-xr-x   1    0    0     568676 Sep 20 2011 [ 297328 00] TOKIO02.PTSC 
+-r-xr-xr-x   1    0    0     518772 Sep 19 2011 [ 297616 00] TOKIO02_01.PTKD 
+-r-xr-xr-x   1    0    0     504986 Sep 20 2011 [ 297872 00] TOKIO02_02.PTKD 
+-r-xr-xr-x   1    0    0     693128 Sep 12 2011 [ 298128 00] TOKIO02_03.PTKD 
+-r-xr-xr-x   1    0    0     631555 Sep 12 2011 [ 298480 00] TOKIO02_04.PTKD 
+-r-xr-xr-x   1    0    0     582483 Sep 12 2011 [ 298800 00] TOKIO02_05.PTKD 
+-r-xr-xr-x   1    0    0     561301 Sep 12 2011 [ 299088 00] TOKIO02_06.PTKD 
+-r-xr-xr-x   1    0    0     712261 Sep 12 2011 [ 299376 00] TOKIO02_07.PTKD 
+-r-xr-xr-x   1    0    0     545261 Sep 12 2011 [ 299728 00] TOKIO02_08.PTKD 
+-r-xr-xr-x   1    0    0      19212 Sep 13 2011 [ 300000 00] TOKIO02_ATC.BULLET 
+-r-xr-xr-x   1    0    0      50870 Aug 19 2011 [ 300016 00] TOKIO02_ATC.PTSC 
+-r-xr-xr-x   1    0    0      10477 Sep  6 2011 [ 300048 00] TOKIO02_ATTACK_EASY.PTCL 
+-r-xr-xr-x   1    0    0      10477 Sep  6 2011 [ 300064 00] TOKIO02_ATTACK_HARD.PTCL 
+-r-xr-xr-x   1    0    0      10477 Sep  6 2011 [ 300080 00] TOKIO02_ATTACK_MEDIUM.PTCL 
+-r-xr-xr-x   1    0    0      15592 Aug 24 2011 [ 300096 00] TOKIO02_CAMERA.NAV 
+-r-xr-xr-x   1    0    0      99624 Sep 22 2011 [ 300112 00] TOKIO02_EASY.BULLET 
+-r-xr-xr-x   1    0    0     112057 Aug 24 2011 [ 300176 00] TOKIO02_EASY.PTSC 
+-r-xr-xr-x   1    0    0     115424 Sep 22 2011 [ 300240 00] TOKIO02_HARD.BULLET 
+-r-xr-xr-x   1    0    0     245641 Aug 24 2011 [ 300304 00] TOKIO02_HARD.PTSC 
+-r-xr-xr-x   1    0    0       9985 Jun 21 2011 [ 300432 00] TOKIO02_LIGHTS.PTCL 
+-r-xr-xr-x   1    0    0       7035 Aug 24 2011 [ 300448 00] TOKIO02_LOGICS_EASY.PTCL 
+-r-xr-xr-x   1    0    0       4786 Aug 24 2011 [ 300464 00] TOKIO02_LOGICS_HARD.PTCL 
+-r-xr-xr-x   1    0    0       5784 Aug 24 2011 [ 300480 00] TOKIO02_LOGICS_MEDIUM.PTCL 
+-r-xr-xr-x   1    0    0     105944 Sep 22 2011 [ 300496 00] TOKIO02_MEDIUM.BULLET 
+-r-xr-xr-x   1    0    0     220974 Aug 24 2011 [ 300560 00] TOKIO02_MEDIUM.PTSC 
+-r-xr-xr-x   1    0    0     186836 Sep 21 2011 [ 300672 00] TOKIO03.BULLET 
+-r-xr-xr-x   1    0    0      37912 Sep 22 2011 [ 300768 00] TOKIO03.NAV 
+-r-xr-xr-x   1    0    0     902076 Sep 22 2011 [ 300800 00] TOKIO03.PACK 
+-r-xr-xr-x   1    0    0      17054 Sep 19 2011 [ 301248 00] TOKIO03.PTKD 
+-r-xr-xr-x   1    0    0     427397 Sep 21 2011 [ 301264 00] TOKIO03.PTSC 
+-r-xr-xr-x   1    0    0     531643 Sep 21 2011 [ 301488 00] TOKIO03_01.PTKD 
+-r-xr-xr-x   1    0    0     542771 Sep 20 2011 [ 301760 00] TOKIO03_02.PTKD 
+-r-xr-xr-x   1    0    0     580811 Sep 20 2011 [ 302032 00] TOKIO03_03.PTKD 
+-r-xr-xr-x   1    0    0     443484 Sep 21 2011 [ 302320 00] TOKIO03_04.PTKD 
+-r-xr-xr-x   1    0    0     659866 Sep 21 2011 [ 302544 00] TOKIO03_05.PTKD 
+-r-xr-xr-x   1    0    0     580811 Sep 21 2011 [ 302880 00] TOKIO03_06.PTKD 
+-r-xr-xr-x   1    0    0     501658 Sep 21 2011 [ 303168 00] TOKIO03_07.PTKD 
+-r-xr-xr-x   1    0    0     542771 Sep 21 2011 [ 303424 00] TOKIO03_08.PTKD 
+-r-xr-xr-x   1    0    0     580477 Sep 21 2011 [ 303696 00] TOKIO03_09.PTKD 
+-r-xr-xr-x   1    0    0     659866 Sep 21 2011 [ 303984 00] TOKIO03_10.PTKD 
+-r-xr-xr-x   1    0    0     455781 Sep 21 2011 [ 304320 00] TOKIO03_11.PTKD 
+-r-xr-xr-x   1    0    0     477048 Sep 21 2011 [ 304544 00] TOKIO03_12.PTKD 
+-r-xr-xr-x   1    0    0     443419 Sep 21 2011 [ 304784 00] TOKIO03_13.PTKD 
+-r-xr-xr-x   1    0    0      20476 Sep 14 2011 [ 305008 00] TOKIO03_ATC.BULLET 
+-r-xr-xr-x   1    0    0      36035 Sep 14 2011 [ 305024 00] TOKIO03_ATC.PTSC 
+-r-xr-xr-x   1    0    0      14406 Sep  6 2011 [ 305056 00] TOKIO03_ATTACK_EASY.PTCL 
+-r-xr-xr-x   1    0    0      14406 Sep  6 2011 [ 305072 00] TOKIO03_ATTACK_HARD.PTCL 
+-r-xr-xr-x   1    0    0      14406 Sep  6 2011 [ 305088 00] TOKIO03_ATTACK_MEDIUM.PTCL 
+-r-xr-xr-x   1    0    0      37952 Jun 10 2011 [ 305104 00] TOKIO03_CAMERA.NAV 
+-r-xr-xr-x   1    0    0     197580 Sep 22 2011 [ 305136 00] TOKIO03_EASY.BULLET 
+-r-xr-xr-x   1    0    0      77057 Sep 22 2011 [ 305248 00] TOKIO03_EASY.PTSC 
+-r-xr-xr-x   1    0    0     212748 Sep 22 2011 [ 305296 00] TOKIO03_HARD.BULLET 
+-r-xr-xr-x   1    0    0     171584 Sep 22 2011 [ 305408 00] TOKIO03_HARD.PTSC 
+-r-xr-xr-x   1    0    0      15653 Sep 20 2011 [ 305504 00] TOKIO03_LIGHTS.PTCL 
+-r-xr-xr-x   1    0    0       9435 Sep 21 2011 [ 305520 00] TOKIO03_LOGICS_EASY.PTCL 
+-r-xr-xr-x   1    0    0       7770 Sep 21 2011 [ 305536 00] TOKIO03_LOGICS_HARD.PTCL 
+-r-xr-xr-x   1    0    0       7854 Sep 21 2011 [ 305552 00] TOKIO03_LOGICS_MEDIUM.PTCL 
+-r-xr-xr-x   1    0    0     207692 Sep 22 2011 [ 305568 00] TOKIO03_MEDIUM.BULLET 
+-r-xr-xr-x   1    0    0     169873 Sep 22 2011 [ 305680 00] TOKIO03_MEDIUM.PTSC 
+-r-xr-xr-x   1    0    0     231628 Sep 13 2011 [ 305776 00] TOKIO04.BULLET 
+-r-xr-xr-x   1    0    0      15104 Sep 19 2011 [ 305904 00] TOKIO04.NAV 
+-r-xr-xr-x   1    0    0    1034639 Sep 22 2011 [ 305920 00] TOKIO04.PACK 
+-r-xr-xr-x   1    0    0     352067 Sep 16 2011 [ 306432 00] TOKIO04.PTSC 
+-r-xr-xr-x   1    0    0     727714 Sep 16 2011 [ 306608 00] TOKIO04_01.PTKD 
+-r-xr-xr-x   1    0    0     412735 Sep 16 2011 [ 306976 00] TOKIO04_02.PTKD 
+-r-xr-xr-x   1    0    0     499917 Sep 13 2011 [ 307184 00] TOKIO04_03.PTKD 
+-r-xr-xr-x   1    0    0     605818 Sep 13 2011 [ 307440 00] TOKIO04_04.PTKD 
+-r-xr-xr-x   1    0    0     478403 Sep 13 2011 [ 307744 00] TOKIO04_05.PTKD 
+-r-xr-xr-x   1    0    0     543283 Sep 13 2011 [ 307984 00] TOKIO04_06.PTKD 
+-r-xr-xr-x   1    0    0     283234 Sep 13 2011 [ 308256 00] TOKIO04_07.PTKD 
+-r-xr-xr-x   1    0    0     333524 Sep 16 2011 [ 308400 00] TOKIO04_08.PTKD 
+-r-xr-xr-x   1    0    0      17316 Sep 13 2011 [ 308576 00] TOKIO04_ATC.BULLET 
+-r-xr-xr-x   1    0    0      50471 Aug 19 2011 [ 308592 00] TOKIO04_ATC.PTSC 
+-r-xr-xr-x   1    0    0      10998 Sep  6 2011 [ 308624 00] TOKIO04_ATTACK_EASY.PTCL 
+-r-xr-xr-x   1    0    0      10998 Sep  6 2011 [ 308640 00] TOKIO04_ATTACK_HARD.PTCL 
+-r-xr-xr-x   1    0    0      10998 Sep  6 2011 [ 308656 00] TOKIO04_ATTACK_MEDIUM.PTCL 
+-r-xr-xr-x   1    0    0      10672 Jun 20 2011 [ 308672 00] TOKIO04_CAMERA.NAV 
+-r-xr-xr-x   1    0    0     105448 Sep 21 2011 [ 308688 00] TOKIO04_EASY.BULLET 
+-r-xr-xr-x   1    0    0     231856 Sep 20 2011 [ 308752 00] TOKIO04_EASY.PTSC 
+-r-xr-xr-x   1    0    0     118720 Sep 21 2011 [ 308880 00] TOKIO04_HARD.BULLET 
+-r-xr-xr-x   1    0    0     330188 Sep 20 2011 [ 308944 00] TOKIO04_HARD.PTSC 
+-r-xr-xr-x   1    0    0      10389 Jun 21 2011 [ 309120 00] TOKIO04_LIGHTS.PTCL 
+-r-xr-xr-x   1    0    0       6299 Aug 26 2011 [ 309136 00] TOKIO04_LOGICS_EASY.PTCL 
+-r-xr-xr-x   1    0    0       6458 Aug 26 2011 [ 309152 00] TOKIO04_LOGICS_HARD.PTCL 
+-r-xr-xr-x   1    0    0       5797 Aug 26 2011 [ 309168 00] TOKIO04_LOGICS_MEDIUM.PTCL 
+-r-xr-xr-x   1    0    0     114928 Sep 21 2011 [ 309184 00] TOKIO04_MEDIUM.BULLET 
+-r-xr-xr-x   1    0    0     293124 Sep 20 2011 [ 309248 00] TOKIO04_MEDIUM.PTSC 
+-r-xr-xr-x   1    0    0      37342 Sep 25 2011 [ 309392 00] TOKIO_SKYBOX.PTCL 
+
+Directory listing of /PSP_GAME/USRDIR/MESHES/TRAFFIC/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    103 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     40 02] .. 
+-r-xr-xr-x   1    0    0      75986 Jun 16 2011 [ 309424 00] MESH_CAR_C.PTCL 
+
+Directory listing of /PSP_GAME/USRDIR/PHYSICS/OBJECTS/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    104 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     45 02] .. 
+-r-xr-xr-x   1    0    0       8476 Jul  1 2011 [ 310816 00] BOMB.BULLET 
+-r-xr-xr-x   1    0    0       8484 Jun  7 2011 [ 310832 00] BOMB_EXPLOSION.BULLET 
+-r-xr-xr-x   1    0    0       8472 Jul 20 2011 [ 310848 00] LEECH.BULLET 
+-r-xr-xr-x   1    0    0       8476 May 30 2011 [ 310864 00] MISSILE.BULLET 
+-r-xr-xr-x   1    0    0       8480 Jun  6 2011 [ 310880 00] OIL_DROP.BULLET 
+-r-xr-xr-x   1    0    0       8480 Jul 20 2011 [ 310896 00] SKATEBOARD.BULLET 
+
+Directory listing of /PSP_GAME/USRDIR/PHYSICS/TRAFFIC/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    105 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     45 02] .. 
+-r-xr-xr-x   1    0    0       8484 Jun 16 2011 [ 310912 00] MESH_CAR_C.BULLET 
+
+Directory listing of /PSP_GAME/USRDIR/TEXTURES/UI/
+dr-xr-xr-x   1    0    0      10240 Sep 25 2011 [    106 02] . 
+dr-xr-xr-x   1    0    0      26624 Sep 25 2011 [     50 02] .. 
+-r-xr-xr-x   1    0    0     263206 Aug  2 2011 [ 319344 00] EXITRESTART.PTT 
+-r-xr-xr-x   1    0    0     514434 Sep 15 2011 [ 319488 00] HUDRENDERABLE.PACK 
+-r-xr-xr-x   1    0    0       5158 Aug  2 2011 [ 319744 00] HUD_C_ACER.PTT 
+-r-xr-xr-x   1    0    0       5158 Aug  2 2011 [ 319760 00] HUD_C_AXELROD.PTT 
+-r-xr-xr-x   1    0    0       5158 Aug  2 2011 [ 319776 00] HUD_C_CARLA.PTT 
+-r-xr-xr-x   1    0    0       5158 Aug  2 2011 [ 319792 00] HUD_C_FILLMORE.PTT 
+-r-xr-xr-x   1    0    0       5158 Aug  2 2011 [ 319808 00] HUD_C_FINN.PTT 
+-r-xr-xr-x   1    0    0       5158 Aug  2 2011 [ 319824 00] HUD_C_FRAN.PTT 
+-r-xr-xr-x   1    0    0       5158 Aug  2 2011 [ 319840 00] HUD_C_GREM.PTT 
+-r-xr-xr-x   1    0    0       5158 Aug  2 2011 [ 319856 00] HUD_C_GUIDO.PTT 
+-r-xr-xr-x   1    0    0       5158 Aug  2 2011 [ 319872 00] HUD_C_HOLLY.PTT 
+-r-xr-xr-x   1    0    0       5158 Aug  2 2011 [ 319888 00] HUD_C_JEFF.PTT 
+-r-xr-xr-x   1    0    0       5158 Aug  2 2011 [ 319904 00] HUD_C_LUIGI.PTT 
+-r-xr-xr-x   1    0    0       5158 Aug  2 2011 [ 319920 00] HUD_C_MATER.PTT 
+-r-xr-xr-x   1    0    0       5158 Aug  2 2011 [ 319936 00] HUD_C_MAX.PTT 
+-r-xr-xr-x   1    0    0       5158 Aug  2 2011 [ 319952 00] HUD_C_MCQUEEN.PTT 
+-r-xr-xr-x   1    0    0       5158 Aug  2 2011 [ 319968 00] HUD_C_MIGUELITO.PTT 
+-r-xr-xr-x   1    0    0       5158 Aug  2 2011 [ 319984 00] HUD_C_NIGEL.PTT 
+-r-xr-xr-x   1    0    0       5158 Aug  2 2011 [ 320000 00] HUD_C_PROFZ.PTT 
+-r-xr-xr-x   1    0    0       5158 Aug  2 2011 [ 320016 00] HUD_C_RAOUL.PTT 
+-r-xr-xr-x   1    0    0       5158 Aug  2 2011 [ 320032 00] HUD_C_ROD.PTT 
+-r-xr-xr-x   1    0    0       5158 Aug  2 2011 [ 320048 00] HUD_C_SARGE.PTT 
+-r-xr-xr-x   1    0    0       5158 Aug  2 2011 [ 320064 00] HUD_C_SHU.PTT 
+-r-xr-xr-x   1    0    0       5158 Aug  2 2011 [ 320080 00] HUD_C_TOMBER.PTT 
+-r-xr-xr-x   1    0    0      66598 Aug  2 2011 [ 320096 00] HUD_GEN.PTT 
+-r-xr-xr-x   1    0    0     263206 Sep 19 2011 [ 320144 00] LEGALS.PTT 
+-r-xr-xr-x   1    0    0     263206 Aug 25 2011 [ 320288 00] LOADING_BG.PTT 
+-r-xr-xr-x   1    0    0      66598 Aug  2 2011 [ 320432 00] LOADING_BG_TILE.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  2 2011 [ 320480 00] LOADING_C_ACER.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  2 2011 [ 320496 00] LOADING_C_AXELROD.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  2 2011 [ 320512 00] LOADING_C_CARLA.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  2 2011 [ 320528 00] LOADING_C_FILLMORE.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  2 2011 [ 320544 00] LOADING_C_FINN.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  2 2011 [ 320560 00] LOADING_C_FRAN.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  2 2011 [ 320576 00] LOADING_C_GREM.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  2 2011 [ 320592 00] LOADING_C_GUIDO.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  2 2011 [ 320608 00] LOADING_C_HOLLY.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  2 2011 [ 320624 00] LOADING_C_JEFF.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  2 2011 [ 320640 00] LOADING_C_LUIGI.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  2 2011 [ 320656 00] LOADING_C_MATER.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  2 2011 [ 320672 00] LOADING_C_MAX.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  2 2011 [ 320688 00] LOADING_C_MCQUEEN.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  2 2011 [ 320704 00] LOADING_C_MIGUELITO.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  2 2011 [ 320720 00] LOADING_C_NIGEL.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  2 2011 [ 320736 00] LOADING_C_PROFZ.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  2 2011 [ 320752 00] LOADING_C_RAOUL.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  2 2011 [ 320768 00] LOADING_C_ROD.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  2 2011 [ 320784 00] LOADING_C_SARGE.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  2 2011 [ 320800 00] LOADING_C_SHU.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  2 2011 [ 320816 00] LOADING_C_TOMBER.PTT 
+-r-xr-xr-x   1    0    0     263206 Aug  4 2011 [ 320832 00] LOGO_SC.PTT 
+-r-xr-xr-x   1    0    0     263206 Aug  2 2011 [ 320976 00] LOGO_SONY.PTT 
+-r-xr-xr-x   1    0    0     263206 Sep 14 2011 [ 321120 00] LOGO_VT.PTT 
+-r-xr-xr-x   1    0    0     263206 Sep 15 2011 [ 321264 00] PAUSERESUME.PTT 
+-r-xr-xr-x   1    0    0     263206 Sep 19 2011 [ 321408 00] POL_LEGALS.PTT 
+-r-xr-xr-x   1    0    0     263206 Sep 19 2011 [ 321552 00] PORTU_LEGALS.PTT 
+-r-xr-xr-x   1    0    0       2086 Aug  2 2011 [ 321696 00] PSP_O_BUTTON.PTT 
+-r-xr-xr-x   1    0    0       2086 Aug  2 2011 [ 321712 00] PSP_X_BUTTON.PTT 
+-r-xr-xr-x   1    0    0     132134 Aug 31 2011 [ 321728 00] RESULTS.PTT 
+-r-xr-xr-x   1    0    0     263206 Sep 19 2011 [ 321808 00] RU_LEGALS.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  2 2011 [ 321952 00] TROPHY_BRONZE.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  2 2011 [ 321968 00] TROPHY_GOLD.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  2 2011 [ 321984 00] TROPHY_SILVER.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug 17 2011 [ 322000 00] UNLOCK_B_DEFENCE.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug 17 2011 [ 322016 00] UNLOCK_B_FREAK.PTT 
+-r-xr-xr-x   1    0    0      17446 Sep  8 2011 [ 322032 00] UNLOCK_B_GADGETSCOL.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug 17 2011 [ 322048 00] UNLOCK_B_GRADSPY.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug 17 2011 [ 322064 00] UNLOCK_B_GUNNER.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug 17 2011 [ 322080 00] UNLOCK_B_HOP.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug 17 2011 [ 322096 00] UNLOCK_B_LEADER.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug 17 2011 [ 322112 00] UNLOCK_B_LICENSE.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug 17 2011 [ 322128 00] UNLOCK_B_LOOK.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug 17 2011 [ 322144 00] UNLOCK_B_MORE.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug 17 2011 [ 322160 00] UNLOCK_B_POINTSCOL.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug 17 2011 [ 322176 00] UNLOCK_B_POINTSMAS.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug 17 2011 [ 322192 00] UNLOCK_B_PROSPY.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug 17 2011 [ 322208 00] UNLOCK_B_ROADTRIP.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug 17 2011 [ 322224 00] UNLOCK_B_SHORTCUTS.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug 17 2011 [ 322240 00] UNLOCK_B_SPRINT.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug 17 2011 [ 322256 00] UNLOCK_B_SUCCESSOR.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug 17 2011 [ 322272 00] UNLOCK_B_TURBO.PTT 
+-r-xr-xr-x   1    0    0      17446 Sep  8 2011 [ 322288 00] UNLOCK_B_WEKNOW.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug 17 2011 [ 322304 00] UNLOCK_B_ZONED.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  4 2011 [ 322320 00] UNLOCK_C_ACER.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  4 2011 [ 322336 00] UNLOCK_C_AXELROD.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  4 2011 [ 322352 00] UNLOCK_C_CARLA.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  4 2011 [ 322368 00] UNLOCK_C_FILLMORE.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  4 2011 [ 322384 00] UNLOCK_C_FINN.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  4 2011 [ 322400 00] UNLOCK_C_FRAN.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  4 2011 [ 322416 00] UNLOCK_C_GREM.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  4 2011 [ 322432 00] UNLOCK_C_GUIDO.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  4 2011 [ 322448 00] UNLOCK_C_HOLLY.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  4 2011 [ 322464 00] UNLOCK_C_JEFF.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  4 2011 [ 322480 00] UNLOCK_C_LUIGI.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  4 2011 [ 322496 00] UNLOCK_C_MATER.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  4 2011 [ 322512 00] UNLOCK_C_MAX.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  4 2011 [ 322528 00] UNLOCK_C_MCQUEEN.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  4 2011 [ 322544 00] UNLOCK_C_MIGUELITO.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  4 2011 [ 322560 00] UNLOCK_C_NIGEL.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  4 2011 [ 322576 00] UNLOCK_C_PROFZ.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  4 2011 [ 322592 00] UNLOCK_C_RAOUL.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  4 2011 [ 322608 00] UNLOCK_C_ROD.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  4 2011 [ 322624 00] UNLOCK_C_SARGE.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  4 2011 [ 322640 00] UNLOCK_C_SHU.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  4 2011 [ 322656 00] UNLOCK_C_TOMBER.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  4 2011 [ 322672 00] UNLOCK_GMODE_AGCLOCK.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  4 2011 [ 322688 00] UNLOCK_GMODE_ATTACK.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  4 2011 [ 322704 00] UNLOCK_GMODE_BATTLERACE.PTT 
+-r-xr-xr-x   1    0    0      17446 Sep  2 2011 [ 322720 00] UNLOCK_GMODE_ELIMINATOR.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  4 2011 [ 322736 00] UNLOCK_GMODE_RACE.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  4 2011 [ 322752 00] UNLOCK_TRACK_ITA_01.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  4 2011 [ 322768 00] UNLOCK_TRACK_ITA_02.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  4 2011 [ 322784 00] UNLOCK_TRACK_ITA_03.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  4 2011 [ 322800 00] UNLOCK_TRACK_ITA_04.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  4 2011 [ 322816 00] UNLOCK_TRACK_LON_01.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  4 2011 [ 322832 00] UNLOCK_TRACK_LON_02.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  4 2011 [ 322848 00] UNLOCK_TRACK_LON_03.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  4 2011 [ 322864 00] UNLOCK_TRACK_LON_04.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  4 2011 [ 322880 00] UNLOCK_TRACK_RAD_01.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  4 2011 [ 322896 00] UNLOCK_TRACK_RAD_02.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  4 2011 [ 322912 00] UNLOCK_TRACK_RAD_03.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  4 2011 [ 322928 00] UNLOCK_TRACK_RAD_04.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  4 2011 [ 322944 00] UNLOCK_TRACK_TKO_01.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  4 2011 [ 322960 00] UNLOCK_TRACK_TKO_02.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  4 2011 [ 322976 00] UNLOCK_TRACK_TKO_03.PTT 
+-r-xr-xr-x   1    0    0      17446 Aug  4 2011 [ 322992 00] UNLOCK_TRACK_TKO_04.PTT 
+
+Directory listing of /PSP_GAME/USRDIR/UI/FONTLIB/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    111 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     63 02] .. 
+-r-xr-xr-x   1    0    0        130 Jul 22 2011 [ 323472 00] FONTCONFIG.TXT 
+-r-xr-xr-x   1    0    0      43755 Sep 24 2011 [ 323488 00] FONTLIB.GFX 
+-r-xr-xr-x   1    0    0     263206 Sep 24 2011 [ 323520 00] FONTLIB_F0.PTT 
+
+Directory listing of /PSP_GAME/USRDIR/UI/LANGUAGESELECTION/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    112 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     63 02] .. 
+-r-xr-xr-x   1    0    0      17601 Aug 23 2011 [ 323664 00] LANGUAGE.GFX 
+-r-xr-xr-x   1    0    0     263206 Aug 23 2011 [ 323680 00] LANGUAGE_I1.PTT 
+-r-xr-xr-x   1    0    0       5158 Aug 19 2011 [ 323824 00] LANGUAGE_I24.PTT 
+-r-xr-xr-x   1    0    0       9254 Aug 19 2011 [ 323840 00] LANGUAGE_I4.PTT 
+-r-xr-xr-x   1    0    0      13520 Aug 23 2011 [ 323856 00] LANGUAGE_USA.GFX 
+-r-xr-xr-x   1    0    0     263206 Aug 23 2011 [ 323872 00] LANGUAGE_USA_I1.PTT 
+-r-xr-xr-x   1    0    0       5158 Aug 23 2011 [ 324016 00] LANGUAGE_USA_I18.PTT 
+-r-xr-xr-x   1    0    0       9254 Aug 23 2011 [ 324032 00] LANGUAGE_USA_I4.PTT 
+
+Directory listing of /PSP_GAME/USRDIR/UI/MENUS/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    113 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     63 02] .. 
+-r-xr-xr-x   1    0    0      13684 Sep 19 2011 [ 324048 00] BADGES.GFX 
+-r-xr-xr-x   1    0    0       4317 Sep 21 2011 [ 324064 00] BRIEFING.GFX 
+-r-xr-xr-x   1    0    0      23899 Sep  7 2011 [ 324080 00] CARSELECT.GFX 
+-r-xr-xr-x   1    0    0       6915 Sep 21 2011 [ 324096 00] CLEARANCELEVEL.GFX 
+-r-xr-xr-x   1    0    0       1884 Sep 16 2011 [ 324112 00] CONFIRMATIONSCREEN.GFX 
+-r-xr-xr-x   1    0    0       3415 Sep 21 2011 [ 324128 00] CREDITS.GFX 
+-r-xr-xr-x   1    0    0       4794 Sep 16 2011 [ 324144 00] GAMEMODEMULTI.GFX 
+-r-xr-xr-x   1    0    0       6373 Sep 16 2011 [ 324160 00] GAMEMODESINGLE.GFX 
+-r-xr-xr-x   1    0    0       2993 Sep 16 2011 [ 324176 00] GAMESETTINGS.GFX 
+-r-xr-xr-x   1    0    0      24547 Sep 21 2011 [ 324192 00] LIBRARY.GFX 
+-r-xr-xr-x   1    0    0       8287 Sep 16 2011 [ 324208 00] MAINMENU.GFX 
+-r-xr-xr-x   1    0    0      45110 Aug 11 2011 [ 324224 00] MISSIONSELECT.GFX 
+-r-xr-xr-x   1    0    0       2317 Sep 21 2011 [ 324256 00] MISSIONSELECTTROPHIES.GFX 
+-r-xr-xr-x   1    0    0       6429 Sep 16 2011 [ 324272 00] MISSIONSELECT_01.GFX 
+-r-xr-xr-x   1    0    0       7165 Sep 16 2011 [ 324288 00] MISSIONSELECT_02.GFX 
+-r-xr-xr-x   1    0    0       6957 Sep 16 2011 [ 324304 00] MISSIONSELECT_03.GFX 
+-r-xr-xr-x   1    0    0       6908 Sep 16 2011 [ 324320 00] MISSIONSELECT_04.GFX 
+-r-xr-xr-x   1    0    0       2698 Sep 16 2011 [ 324336 00] MULTIJOIN.GFX 
+-r-xr-xr-x   1    0    0       3107 Sep 19 2011 [ 324352 00] MULTILOBBY.GFX 
+-r-xr-xr-x   1    0    0       1799 Sep 16 2011 [ 324368 00] MULTIMAIN.GFX 
+-r-xr-xr-x   1    0    0       1971 Sep 16 2011 [ 324384 00] NEWLOADGAME.GFX 
+-r-xr-xr-x   1    0    0       1952 Sep 16 2011 [ 324400 00] OKBACK.GFX 
+-r-xr-xr-x   1    0    0       5158 Aug 18 2011 [ 324416 00] OKBACK_I4.PTT 
+-r-xr-xr-x   1    0    0       5158 Aug 19 2011 [ 324432 00] OKBACK_ID.PTT 
+-r-xr-xr-x   1    0    0       4842 Sep 16 2011 [ 324448 00] OPTIONS.GFX 
+-r-xr-xr-x   1    0    0       1664 Sep 16 2011 [ 324464 00] PRESSSTART.GFX 
+-r-xr-xr-x   1    0    0    2566476 Sep 24 2011 [ 324480 00] TEXTURES.PACK 
+-r-xr-xr-x   1    0    0      19252 Sep 16 2011 [ 325744 00] TRACKSELECT.GFX 
+
+Directory listing of /PSP_GAME/USRDIR/ANIMS/CARS/HOLLY_FRONTEND/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    114 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     66 02] .. 
+-r-xr-xr-x   1    0    0      27193 Sep 12 2011 [  60816 00] ENTRY.PTAN 
+-r-xr-xr-x   1    0    0      36921 Sep 12 2011 [  60832 00] IDLE.PTAN 
+-r-xr-xr-x   1    0    0      18023 Sep 12 2011 [  60864 00] IDLEBREAK1.PTAN 
+-r-xr-xr-x   1    0    0      27247 Sep 12 2011 [  60880 00] IDLEBREAK2.PTAN 
+-r-xr-xr-x   1    0    0      37685 Sep 12 2011 [  60896 00] IDLEBREAK3.PTAN 
+-r-xr-xr-x   1    0    0      31555 Aug  4 2011 [  60928 00] SELECTION_IDLE.PTAN 
+-r-xr-xr-x   1    0    0      16425 Aug  4 2011 [  60944 00] SELECTION_IDLE_LIPSYNC.PTAN 
+-r-xr-xr-x   1    0    0      16508 Aug  8 2011 [  60960 00] SELECTION_IDLE_MOUTH.PTAN 
+-r-xr-xr-x   1    0    0      21538 Aug  1 2011 [  60976 00] SELECTION_SELECTED.PTAN 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED_GARAGE/ACER/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    115 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     68 02] .. 
+-r-xr-xr-x   1    0    0      38624 Aug 31 2011 [ 217136 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0      38624 Aug 31 2011 [ 217168 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0      38592 Aug 31 2011 [ 217200 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0      43520 Aug 31 2011 [ 217232 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0      38624 Aug 31 2011 [ 217264 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0      38624 Aug 31 2011 [ 217296 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0      38624 Aug 31 2011 [ 217328 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0      29632 Aug 31 2011 [ 217360 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED_GARAGE/CARLAVELOSO/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    116 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     68 02] .. 
+-r-xr-xr-x   1    0    0      74368 Aug 31 2011 [ 217376 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0      74368 Aug 31 2011 [ 217424 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0      74368 Aug 31 2011 [ 217472 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0      81376 Aug 31 2011 [ 217520 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0      74368 Aug 31 2011 [ 217568 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0      74368 Aug 31 2011 [ 217616 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0      74368 Aug 31 2011 [ 217664 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0      70144 Aug 31 2011 [ 217712 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED_GARAGE/FILLMORE/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    117 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     68 02] .. 
+-r-xr-xr-x   1    0    0     110080 Aug 31 2011 [ 217760 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0     110080 Aug 31 2011 [ 217824 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0     110080 Aug 31 2011 [ 217888 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0     113728 Aug 31 2011 [ 217952 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0     110080 Aug 31 2011 [ 218016 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0     110080 Aug 31 2011 [ 218080 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0     110080 Aug 31 2011 [ 218144 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0     104864 Aug 31 2011 [ 218208 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED_GARAGE/FINN/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    118 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     68 02] .. 
+-r-xr-xr-x   1    0    0     144896 Aug 31 2011 [ 218272 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0     144896 Aug 31 2011 [ 218352 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0     144896 Aug 31 2011 [ 218432 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0     150656 Aug 31 2011 [ 218512 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0     144896 Aug 31 2011 [ 218592 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0     144896 Aug 31 2011 [ 218672 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0     144896 Aug 31 2011 [ 218752 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0     135200 Aug 31 2011 [ 218832 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED_GARAGE/FRANCESCO/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    119 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     68 02] .. 
+-r-xr-xr-x   1    0    0     126880 Aug 31 2011 [ 218912 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0     126880 Aug 31 2011 [ 218976 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0     126880 Aug 31 2011 [ 219040 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0     130112 Aug 31 2011 [ 219104 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0     126880 Aug 31 2011 [ 219168 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0     123456 Aug 31 2011 [ 219232 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0     126880 Aug 31 2011 [ 219296 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0     121696 Aug 31 2011 [ 219360 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED_GARAGE/GREM/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    120 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     68 02] .. 
+-r-xr-xr-x   1    0    0      46368 Aug 31 2011 [ 219424 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0      46368 Aug 31 2011 [ 219456 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0      46368 Aug 31 2011 [ 219488 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0      47008 Aug 31 2011 [ 219520 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0      46368 Aug 31 2011 [ 219552 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0      47680 Aug 31 2011 [ 219584 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0      46368 Aug 31 2011 [ 219616 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0      39168 Aug 31 2011 [ 219648 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED_GARAGE/GUIDO/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    121 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     68 02] .. 
+-r-xr-xr-x   1    0    0      66496 Aug 31 2011 [ 219680 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0      66496 Aug 31 2011 [ 219728 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0      66496 Aug 31 2011 [ 219776 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0      66496 Aug 31 2011 [ 219824 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0      67296 Aug 31 2011 [ 219872 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0      66496 Aug 31 2011 [ 219920 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0      66496 Aug 31 2011 [ 219968 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0      66496 Aug 31 2011 [ 220016 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED_GARAGE/HOLLEY/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    122 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     68 02] .. 
+-r-xr-xr-x   1    0    0     140832 Sep 13 2011 [ 220064 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0     140832 Sep 13 2011 [ 220144 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0     140832 Sep 13 2011 [ 220224 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0     142336 Sep 13 2011 [ 220304 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0     140832 Sep 13 2011 [ 220384 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0     135200 Sep 13 2011 [ 220464 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0     140832 Sep 13 2011 [ 220544 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0     133024 Sep 13 2011 [ 220624 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED_GARAGE/JEFFGORVETTE/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    123 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     68 02] .. 
+-r-xr-xr-x   1    0    0      56608 Sep 13 2011 [ 220704 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0      67392 Sep 13 2011 [ 220736 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0      56608 Sep 13 2011 [ 220784 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0      68896 Sep 13 2011 [ 220816 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0      56608 Sep 13 2011 [ 220864 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0      57472 Sep 13 2011 [ 220896 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0      56608 Sep 13 2011 [ 220928 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0      54016 Sep 13 2011 [ 220960 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED_GARAGE/LUIGI/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    124 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     68 02] .. 
+-r-xr-xr-x   1    0    0      92064 Aug 31 2011 [ 220992 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0      92064 Aug 31 2011 [ 221040 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0      92064 Aug 31 2011 [ 221088 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0      98144 Aug 31 2011 [ 221136 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0      92064 Aug 31 2011 [ 221184 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0      92064 Aug 31 2011 [ 221232 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0      92064 Aug 31 2011 [ 221280 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0      77888 Aug 31 2011 [ 221328 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED_GARAGE/MATER/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    125 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     68 02] .. 
+-r-xr-xr-x   1    0    0     126304 Aug 31 2011 [ 221376 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0     123008 Aug 31 2011 [ 221440 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0     121600 Aug 31 2011 [ 221504 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0     122944 Aug 31 2011 [ 221568 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0     125344 Aug 31 2011 [ 221632 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0     135840 Aug 31 2011 [ 221696 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0     123200 Aug 31 2011 [ 221776 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0     123008 Aug 31 2011 [ 221840 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED_GARAGE/MAXSCHNELL/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    126 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     68 02] .. 
+-r-xr-xr-x   1    0    0     106688 Sep 14 2011 [ 221904 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0     106688 Sep 14 2011 [ 221968 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0     106688 Sep 14 2011 [ 222032 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0     109152 Sep 14 2011 [ 222096 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0     106880 Sep 14 2011 [ 222160 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0     133024 Sep 14 2011 [ 222224 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0     106688 Sep 14 2011 [ 222304 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0      97984 Sep 14 2011 [ 222368 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED_GARAGE/MCQUEEN/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    127 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     68 02] .. 
+-r-xr-xr-x   1    0    0      89440 Aug 31 2011 [ 222416 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0      89440 Aug 31 2011 [ 222464 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0      89440 Aug 31 2011 [ 222512 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0      98048 Aug 31 2011 [ 222560 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0      89440 Aug 31 2011 [ 222608 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0      89440 Aug 31 2011 [ 222656 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0      89440 Aug 31 2011 [ 222704 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0      75552 Aug 31 2011 [ 222752 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED_GARAGE/MIGUELCAMINO/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    128 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     68 02] .. 
+-r-xr-xr-x   1    0    0     128832 Sep 14 2011 [ 222800 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0     128832 Sep 14 2011 [ 222864 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0     128832 Sep 14 2011 [ 222928 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0     148832 Sep 14 2011 [ 222992 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0     128832 Sep 14 2011 [ 223072 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0     118368 Sep 14 2011 [ 223136 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0     128832 Sep 14 2011 [ 223200 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0     113664 Sep 14 2011 [ 223264 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED_GARAGE/MILESAXLEROD/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    129 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     68 02] .. 
+-r-xr-xr-x   1    0    0      88128 Aug 31 2011 [ 223328 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0      88128 Aug 31 2011 [ 223376 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0      88128 Aug 31 2011 [ 223424 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0      84384 Aug 31 2011 [ 223472 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0      88128 Aug 31 2011 [ 223520 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0      86176 Aug 31 2011 [ 223568 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0      88128 Aug 31 2011 [ 223616 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0      76608 Aug 31 2011 [ 223664 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED_GARAGE/NIGELGEARSLEY/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    130 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     68 02] .. 
+-r-xr-xr-x   1    0    0      94688 Sep 14 2011 [ 223712 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0      94688 Sep 14 2011 [ 223760 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0      94688 Sep 14 2011 [ 223808 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0     106624 Sep 14 2011 [ 223856 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0      94688 Sep 14 2011 [ 223920 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0      86816 Sep 14 2011 [ 223968 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0      94688 Sep 14 2011 [ 224016 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0      76384 Sep 14 2011 [ 224064 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED_GARAGE/PROFESSORZ/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    131 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     68 02] .. 
+-r-xr-xr-x   1    0    0     124416 Sep 13 2011 [ 224112 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0     124416 Sep 13 2011 [ 224176 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0     124416 Sep 13 2011 [ 224240 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0     123648 Sep 13 2011 [ 224304 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0     124416 Sep 13 2011 [ 224368 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0     108960 Sep 13 2011 [ 224432 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0     124416 Sep 13 2011 [ 224496 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0     117152 Sep 13 2011 [ 224560 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED_GARAGE/RAOULCAROULE/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    132 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     68 02] .. 
+-r-xr-xr-x   1    0    0     154848 Sep 14 2011 [ 224624 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0     154848 Sep 14 2011 [ 224704 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0     154848 Sep 14 2011 [ 224784 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0     149120 Sep 14 2011 [ 224864 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0     154848 Sep 14 2011 [ 224944 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0     165632 Sep 14 2011 [ 225024 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0     154848 Sep 14 2011 [ 225120 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0     135904 Sep 14 2011 [ 225200 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED_GARAGE/RODREDLINE/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    133 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     68 02] .. 
+-r-xr-xr-x   1    0    0      48576 Aug 31 2011 [ 225280 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0      48576 Aug 31 2011 [ 225312 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0      48576 Aug 31 2011 [ 225344 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0      50912 Aug 31 2011 [ 225376 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0      48576 Aug 31 2011 [ 225408 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0      49568 Aug 31 2011 [ 225440 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0      48576 Aug 31 2011 [ 225472 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0      43040 Aug 31 2011 [ 225504 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED_GARAGE/SARGE/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    134 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     68 02] .. 
+-r-xr-xr-x   1    0    0      35840 Aug 31 2011 [ 225536 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0      35840 Aug 31 2011 [ 225568 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0      35840 Aug 31 2011 [ 225600 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0      42560 Aug 31 2011 [ 225632 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0      35840 Aug 31 2011 [ 225664 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0      35840 Aug 31 2011 [ 225696 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0      35840 Aug 31 2011 [ 225728 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0      27424 Aug 31 2011 [ 225760 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED_GARAGE/SHU/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    135 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     68 02] .. 
+-r-xr-xr-x   1    0    0      70240 Sep 14 2011 [ 225776 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0      70240 Sep 14 2011 [ 225824 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0      70240 Sep 14 2011 [ 225872 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0      64704 Sep 14 2011 [ 225920 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0      70240 Sep 14 2011 [ 225952 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0      67552 Sep 14 2011 [ 226000 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0      70240 Sep 14 2011 [ 226048 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0      51264 Sep 14 2011 [ 226096 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED_GARAGE/TOMBER/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    136 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [     68 02] .. 
+-r-xr-xr-x   1    0    0     110464 Sep 14 2011 [ 226128 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0     110464 Sep 14 2011 [ 226192 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0     110464 Sep 14 2011 [ 226256 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0     101632 Sep 14 2011 [ 226320 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0     110464 Sep 14 2011 [ 226384 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0      93472 Sep 14 2011 [ 226448 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0     110464 Sep 14 2011 [ 226496 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0     106176 Sep 14 2011 [ 226560 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/ACER/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    137 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] .. 
+-r-xr-xr-x   1    0    0    1174080 Aug 31 2011 [  61584 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0    1174048 Aug 31 2011 [  62160 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0    1173984 Aug 31 2011 [  62736 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0    1265504 Aug 31 2011 [  63312 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0    1174048 Aug 31 2011 [  63936 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0    1099264 Aug 31 2011 [  64512 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0    1174048 Aug 31 2011 [  65056 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0    1032768 Aug 31 2011 [  65632 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/BATTLEBOATNPC/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    138 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] .. 
+-r-xr-xr-x   1    0    0     114112 Aug 31 2011 [  66144 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0     126752 Aug 31 2011 [  66208 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0     116224 Aug 31 2011 [  66272 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0     101184 Aug 31 2011 [  66336 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0     126752 Aug 31 2011 [  66400 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0     112000 Aug 31 2011 [  66464 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0     113344 Aug 31 2011 [  66528 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0     111008 Aug 31 2011 [  66592 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/CARLAVELOSO/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    139 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] .. 
+-r-xr-xr-x   1    0    0    1200640 Aug 31 2011 [  66656 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0    1200640 Aug 31 2011 [  67248 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0    1200640 Aug 31 2011 [  67840 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0    1240512 Aug 31 2011 [  68432 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0    1200640 Aug 31 2011 [  69040 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0    1146240 Aug 31 2011 [  69632 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0    1200640 Aug 31 2011 [  70192 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0    1024480 Aug 31 2011 [  70784 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/COMPUTER/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    140 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] .. 
+-r-xr-xr-x   1    0    0    3936352 Aug 31 2011 [  71296 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0    3936032 Aug 31 2011 [  73232 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0    3936000 Aug 31 2011 [  75168 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0    4160832 Aug 31 2011 [  77104 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0    3936032 Aug 31 2011 [  79136 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0    3707904 Aug 31 2011 [  81072 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0    3937984 Aug 31 2011 [  82896 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0    3656768 Aug 31 2011 [  84832 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/DOUBLEDECKERBUSNPC/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    141 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] .. 
+-r-xr-xr-x   1    0    0      45920 Aug 31 2011 [  86624 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0      45920 Aug 31 2011 [  86656 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0      45920 Aug 31 2011 [  86688 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0      52320 Aug 31 2011 [  86720 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0      45920 Aug 31 2011 [  86752 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0      48928 Aug 31 2011 [  86784 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0      45920 Aug 31 2011 [  86816 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0      36640 Aug 31 2011 [  86848 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/FILLMORE/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    142 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] .. 
+-r-xr-xr-x   1    0    0    1651104 Aug 31 2011 [  86880 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0    1651072 Aug 31 2011 [  87696 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0    1651072 Aug 31 2011 [  88512 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0    1728896 Aug 31 2011 [  89328 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0    1651040 Aug 31 2011 [  90176 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0    1720832 Aug 31 2011 [  90992 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0    1651072 Aug 31 2011 [  91840 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0    1509728 Aug 31 2011 [  92656 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/FINN/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    143 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] .. 
+-r-xr-xr-x   1    0    0    2255904 Aug 31 2011 [  93408 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0    2255840 Aug 31 2011 [  94512 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0    2256160 Aug 31 2011 [  95616 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0    2244256 Aug 31 2011 [  96720 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0    2256896 Aug 31 2011 [  97824 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0    2252576 Aug 31 2011 [  98928 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0    2255840 Aug 31 2011 [ 100032 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0    1958848 Aug 31 2011 [ 101136 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/FRANCESCO/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    144 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] .. 
+-r-xr-xr-x   1    0    0    2327936 Aug 31 2011 [ 102096 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0    2327936 Aug 31 2011 [ 103248 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0    2327872 Aug 31 2011 [ 104400 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0    2404128 Aug 31 2011 [ 105552 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0    2327936 Aug 31 2011 [ 106736 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0    2345760 Aug 31 2011 [ 107888 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0    2327936 Aug 31 2011 [ 109040 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0    2165984 Aug 31 2011 [ 110192 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/GREMLIN1NPC/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    145 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] .. 
+-r-xr-xr-x   1    0    0     139840 Aug 31 2011 [ 115680 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0     139840 Aug 31 2011 [ 115760 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0     139840 Aug 31 2011 [ 115840 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0     140256 Aug 31 2011 [ 115920 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0     139840 Aug 31 2011 [ 116000 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0     133120 Aug 31 2011 [ 116080 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0     139840 Aug 31 2011 [ 116160 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0     123456 Aug 31 2011 [ 116240 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/GREMLIN2NPC/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    146 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] .. 
+-r-xr-xr-x   1    0    0     107680 Aug 31 2011 [ 116304 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0     107680 Aug 31 2011 [ 116368 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0     107680 Aug 31 2011 [ 116432 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0     102176 Aug 31 2011 [ 116496 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0     107680 Aug 31 2011 [ 116560 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0     110240 Aug 31 2011 [ 116624 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0     107680 Aug 31 2011 [ 116688 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0      94848 Aug 31 2011 [ 116752 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/GREMLIN3NPC/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    147 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] .. 
+-r-xr-xr-x   1    0    0     111264 Aug 31 2011 [ 116800 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0     111232 Aug 31 2011 [ 116864 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0     111232 Aug 31 2011 [ 116928 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0      95424 Aug 31 2011 [ 116992 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0     111232 Aug 31 2011 [ 117040 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0      89696 Aug 31 2011 [ 117104 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0     111232 Aug 31 2011 [ 117152 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0      85984 Aug 31 2011 [ 117216 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/GREM/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    148 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] .. 
+-r-xr-xr-x   1    0    0    1140736 Aug 31 2011 [ 111264 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0    1140736 Aug 31 2011 [ 111824 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0    1140736 Aug 31 2011 [ 112384 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0    1185696 Aug 31 2011 [ 112944 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0    1140736 Aug 31 2011 [ 113536 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0    1106976 Aug 31 2011 [ 114096 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0    1140480 Aug 31 2011 [ 114640 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0     966464 Aug 31 2011 [ 115200 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/GUIDO/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    149 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] .. 
+-r-xr-xr-x   1    0    0     943904 Aug 31 2011 [ 117264 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0     943904 Aug 31 2011 [ 117728 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0     943904 Aug 31 2011 [ 118192 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0     943904 Aug 31 2011 [ 118656 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0     936352 Aug 31 2011 [ 119120 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0     943904 Aug 31 2011 [ 119584 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0     943904 Aug 31 2011 [ 120048 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0     943904 Aug 31 2011 [ 120512 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/HOLLEY/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    150 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] .. 
+-r-xr-xr-x   1    0    0    3561920 Aug 31 2011 [ 120976 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0    3562048 Aug 31 2011 [ 122720 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0    3562016 Aug 31 2011 [ 124464 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0    3579904 Aug 31 2011 [ 126208 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0    3562048 Aug 31 2011 [ 127968 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0    3486496 Aug 31 2011 [ 129712 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0    3562048 Aug 31 2011 [ 131424 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0    3324448 Aug 31 2011 [ 133168 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/HUGO1NPC/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    151 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] .. 
+-r-xr-xr-x   1    0    0     206144 Aug 31 2011 [ 134800 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0     206144 Aug 31 2011 [ 134912 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0     206144 Aug 31 2011 [ 135024 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0     214496 Aug 31 2011 [ 135136 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0     206144 Aug 31 2011 [ 135248 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0     202592 Aug 31 2011 [ 135360 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0     206144 Aug 31 2011 [ 135472 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0     181952 Aug 31 2011 [ 135584 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/HUGO2NPC/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    152 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] .. 
+-r-xr-xr-x   1    0    0     126080 Aug 31 2011 [ 135680 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0     126080 Aug 31 2011 [ 135744 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0     126080 Aug 31 2011 [ 135808 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0     123136 Aug 31 2011 [ 135872 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0     126080 Aug 31 2011 [ 135936 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0     129920 Aug 31 2011 [ 136000 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0     126080 Aug 31 2011 [ 136064 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0     109312 Aug 31 2011 [ 136128 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/HUGO3NPC/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    153 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] .. 
+-r-xr-xr-x   1    0    0      98336 Aug 31 2011 [ 136192 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0      98336 Aug 31 2011 [ 136256 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0      98336 Aug 31 2011 [ 136320 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0      96992 Aug 31 2011 [ 136384 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0      98336 Aug 31 2011 [ 136432 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0      98720 Aug 31 2011 [ 136496 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0      98336 Aug 31 2011 [ 136560 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0      85856 Aug 31 2011 [ 136624 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/ITALIANCAR1NPC/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    154 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] .. 
+-r-xr-xr-x   1    0    0     107520 Aug 31 2011 [ 136672 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0     107520 Aug 31 2011 [ 136736 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0     107520 Aug 31 2011 [ 136800 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0     111296 Aug 31 2011 [ 136864 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0     107520 Aug 31 2011 [ 136928 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0     100640 Aug 31 2011 [ 136992 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0     107520 Aug 31 2011 [ 137056 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0      95392 Aug 31 2011 [ 137120 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/ITALIANCAR2NPC/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    155 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] .. 
+-r-xr-xr-x   1    0    0     109888 Aug 31 2011 [ 137168 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0     109888 Aug 31 2011 [ 137232 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0     109888 Aug 31 2011 [ 137296 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0     108096 Aug 31 2011 [ 137360 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0     109888 Aug 31 2011 [ 137424 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0     117920 Aug 31 2011 [ 137488 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0     109888 Aug 31 2011 [ 137552 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0      98528 Aug 31 2011 [ 137616 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/ITALIANCAR3NPC/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    156 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] .. 
+-r-xr-xr-x   1    0    0     108928 Aug 31 2011 [ 137680 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0     108928 Aug 31 2011 [ 137744 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0     108928 Aug 31 2011 [ 137808 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0     112384 Aug 31 2011 [ 137872 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0     108928 Aug 31 2011 [ 137936 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0     112832 Aug 31 2011 [ 138000 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0     108928 Aug 31 2011 [ 138064 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0     100352 Aug 31 2011 [ 138128 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/JEFFGORVETTE/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    157 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] .. 
+-r-xr-xr-x   1    0    0     683392 Aug 31 2011 [ 138192 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0     892832 Aug 31 2011 [ 138528 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0     683776 Aug 31 2011 [ 138976 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0     747584 Aug 31 2011 [ 139312 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0     683360 Aug 31 2011 [ 139680 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0     678336 Aug 31 2011 [ 140016 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0     683360 Aug 31 2011 [ 140352 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0     636896 Aug 31 2011 [ 140688 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/LONDONCAR1NPC/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    158 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] .. 
+-r-xr-xr-x   1    0    0     102464 Aug 31 2011 [ 141008 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0     102464 Aug 31 2011 [ 141072 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0     102464 Aug 31 2011 [ 141136 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0     103296 Aug 31 2011 [ 141200 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0     102464 Aug 31 2011 [ 141264 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0     102336 Aug 31 2011 [ 141328 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0     102464 Aug 31 2011 [ 141392 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0      87712 Aug 31 2011 [ 141456 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/LONDONCAR2NPC/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    159 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] .. 
+-r-xr-xr-x   1    0    0      76480 Aug 31 2011 [ 141504 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0      76480 Aug 31 2011 [ 141552 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0      76480 Aug 31 2011 [ 141600 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0      75584 Aug 31 2011 [ 141648 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0      76480 Aug 31 2011 [ 141696 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0      75200 Aug 31 2011 [ 141744 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0      76480 Aug 31 2011 [ 141792 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0      59072 Aug 31 2011 [ 141840 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/LUIGI/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    160 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] .. 
+-r-xr-xr-x   1    0    0    1420064 Aug 31 2011 [ 141872 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0    1420064 Aug 31 2011 [ 142576 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0    1419136 Aug 31 2011 [ 143280 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0    1433600 Aug 31 2011 [ 143984 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0    1420064 Aug 31 2011 [ 144688 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0    1422400 Aug 31 2011 [ 145392 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0    1420064 Aug 31 2011 [ 146096 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0    1249952 Aug 31 2011 [ 146800 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/MATER/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    161 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] .. 
+-r-xr-xr-x   1    0    0    2210080 Aug 31 2011 [ 147424 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0    2209184 Aug 31 2011 [ 148512 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0    2204832 Aug 31 2011 [ 149600 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0    2294688 Aug 31 2011 [ 150688 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0    2208576 Aug 31 2011 [ 151824 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0    2284704 Aug 31 2011 [ 152912 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0    2206720 Aug 31 2011 [ 154032 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0    2044960 Aug 31 2011 [ 155120 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/MAXSCHNELL/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    162 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] .. 
+-r-xr-xr-x   1    0    0    1184928 Aug 31 2011 [ 156128 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0    1181312 Aug 31 2011 [ 156720 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0    1181312 Aug 31 2011 [ 157312 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0    1208928 Aug 31 2011 [ 157904 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0    1181504 Aug 31 2011 [ 158496 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0    1292992 Aug 31 2011 [ 159088 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0    1181312 Aug 31 2011 [ 159728 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0    1077120 Aug 31 2011 [ 160320 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/MCQUEEN/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    163 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] .. 
+-r-xr-xr-x   1    0    0    1732320 Aug 31 2011 [ 160848 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0    1732320 Aug 31 2011 [ 161696 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0    1732320 Aug 31 2011 [ 162544 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0    1799168 Aug 31 2011 [ 163392 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0    1732320 Aug 31 2011 [ 164272 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0    1710016 Aug 31 2011 [ 165120 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0    1732320 Aug 31 2011 [ 165968 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0    1465312 Aug 31 2011 [ 166816 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/MIGUELCAMINO/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    164 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] .. 
+-r-xr-xr-x   1    0    0     907040 Aug 31 2011 [ 167536 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0     907040 Aug 31 2011 [ 167984 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0     907040 Aug 31 2011 [ 168432 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0     931072 Aug 31 2011 [ 168880 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0     907040 Aug 31 2011 [ 169344 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0     844864 Aug 31 2011 [ 169792 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0     907040 Aug 31 2011 [ 170208 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0     750752 Aug 31 2011 [ 170656 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/MILESAXLEROD/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    165 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] .. 
+-r-xr-xr-x   1    0    0     796256 Aug 31 2011 [ 171024 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0     796192 Aug 31 2011 [ 171424 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0     796192 Aug 31 2011 [ 171824 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0     821184 Aug 31 2011 [ 172224 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0     796192 Aug 31 2011 [ 172640 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0     768992 Aug 31 2011 [ 173040 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0     796192 Aug 31 2011 [ 173424 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0     663872 Aug 31 2011 [ 173824 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/NIGELGEARSLEY/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    166 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] .. 
+-r-xr-xr-x   1    0    0    1001472 Aug 31 2011 [ 174160 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0    1001472 Aug 31 2011 [ 174656 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0    1001472 Aug 31 2011 [ 175152 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0    1023936 Aug 31 2011 [ 175648 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0    1001440 Aug 31 2011 [ 176160 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0     923360 Aug 31 2011 [ 176656 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0    1001472 Aug 31 2011 [ 177120 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0     771360 Aug 31 2011 [ 177616 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/PACER1NPC/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    167 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] .. 
+-r-xr-xr-x   1    0    0      82528 Aug 31 2011 [ 178000 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0      82528 Aug 31 2011 [ 178048 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0      82528 Aug 31 2011 [ 178096 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0      95040 Aug 31 2011 [ 178144 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0      82528 Aug 31 2011 [ 178192 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0      89952 Aug 31 2011 [ 178240 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0      82528 Aug 31 2011 [ 178288 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0      66912 Aug 31 2011 [ 178336 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/PACER2NPC/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    168 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] .. 
+-r-xr-xr-x   1    0    0     178752 Aug 31 2011 [ 178384 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0     178752 Aug 31 2011 [ 178480 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0     178752 Aug 31 2011 [ 178576 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0     183296 Aug 31 2011 [ 178672 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0     178752 Aug 31 2011 [ 178768 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0     204288 Aug 31 2011 [ 178864 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0     178752 Aug 31 2011 [ 178976 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0     156576 Aug 31 2011 [ 179072 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/PACER3NPC/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    169 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] .. 
+-r-xr-xr-x   1    0    0     146112 Aug 31 2011 [ 179152 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0     146112 Aug 31 2011 [ 179232 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0     146112 Aug 31 2011 [ 179312 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0     140160 Aug 31 2011 [ 179392 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0     146112 Aug 31 2011 [ 179472 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0     151680 Aug 31 2011 [ 179552 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0     146112 Aug 31 2011 [ 179632 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0     132736 Aug 31 2011 [ 179712 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/PROFESSORZ/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    170 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] .. 
+-r-xr-xr-x   1    0    0    3289440 Sep 13 2011 [ 179792 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0    3289440 Sep 13 2011 [ 181408 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0    3289376 Sep 13 2011 [ 183024 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0    3353984 Sep 13 2011 [ 184640 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0    3289408 Sep 13 2011 [ 186288 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0    3393152 Sep 13 2011 [ 187904 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0    3289408 Sep 13 2011 [ 189568 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0    3140672 Sep 13 2011 [ 191184 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/RADIATORCAR1NPC/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    171 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] .. 
+-r-xr-xr-x   1    0    0      19136 Aug 31 2011 [ 192720 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0      19136 Aug 31 2011 [ 192736 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0      19136 Aug 31 2011 [ 192752 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0      21184 Aug 31 2011 [ 192768 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0      19136 Aug 31 2011 [ 192784 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0      21632 Aug 31 2011 [ 192800 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0      19136 Aug 31 2011 [ 192816 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0      12800 Aug 31 2011 [ 192832 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/RADIATORCAR2NPC/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    172 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] .. 
+-r-xr-xr-x   1    0    0      57600 Aug 31 2011 [ 192848 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0      57600 Aug 31 2011 [ 192880 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0      57600 Aug 31 2011 [ 192912 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0      57216 Aug 31 2011 [ 192944 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0      57600 Aug 31 2011 [ 192976 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0      52640 Aug 31 2011 [ 193008 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0      57600 Aug 31 2011 [ 193040 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0      43552 Aug 31 2011 [ 193072 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/RADIATORRV1NPC/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    173 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] .. 
+-r-xr-xr-x   1    0    0      83488 Aug 31 2011 [ 193104 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0      83488 Aug 31 2011 [ 193152 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0      83488 Aug 31 2011 [ 193200 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0      78304 Aug 31 2011 [ 193248 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0      83488 Aug 31 2011 [ 193296 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0      81920 Aug 31 2011 [ 193344 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0      83488 Aug 31 2011 [ 193392 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0      71456 Aug 31 2011 [ 193440 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/RADIATORRV2NPC/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    174 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] .. 
+-r-xr-xr-x   1    0    0      64352 Aug 31 2011 [ 193488 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0      64352 Aug 31 2011 [ 193520 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0      64352 Aug 31 2011 [ 193552 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0      60256 Aug 31 2011 [ 193584 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0      64352 Aug 31 2011 [ 193616 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0      61760 Aug 31 2011 [ 193648 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0      64352 Aug 31 2011 [ 193680 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0      50272 Aug 31 2011 [ 193712 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/RAOULCAROULE/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    175 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] .. 
+-r-xr-xr-x   1    0    0    1289216 Aug 31 2011 [ 193744 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0    1289216 Aug 31 2011 [ 194384 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0    1289216 Aug 31 2011 [ 195024 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0    1299584 Aug 31 2011 [ 195664 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0    1289984 Aug 31 2011 [ 196304 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0    1217312 Aug 31 2011 [ 196944 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0    1289216 Aug 31 2011 [ 197552 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0    1130496 Aug 31 2011 [ 198192 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/RODREDLINE/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    176 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] .. 
+-r-xr-xr-x   1    0    0     797632 Aug 31 2011 [ 198752 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0     797632 Aug 31 2011 [ 199152 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0     797632 Aug 31 2011 [ 199552 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0     831776 Aug 31 2011 [ 199952 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0     797632 Aug 31 2011 [ 200368 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0     708320 Aug 31 2011 [ 200768 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0     797216 Aug 31 2011 [ 201120 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0     679456 Aug 31 2011 [ 201520 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/SARGE/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    177 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] .. 
+-r-xr-xr-x   1    0    0    1040512 Aug 31 2011 [ 201856 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0    1040512 Aug 31 2011 [ 202368 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0    1040512 Aug 31 2011 [ 202880 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0    1099872 Aug 31 2011 [ 203392 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0    1040512 Aug 31 2011 [ 203936 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0     996896 Aug 31 2011 [ 204448 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0    1040512 Aug 31 2011 [ 204944 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0     886624 Aug 31 2011 [ 205456 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/SHU/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    178 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] .. 
+-r-xr-xr-x   1    0    0     882400 Aug 31 2011 [ 205904 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0     882400 Aug 31 2011 [ 206336 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0     882368 Aug 31 2011 [ 206768 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0     909056 Aug 31 2011 [ 207200 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0     882400 Aug 31 2011 [ 207648 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0     840864 Aug 31 2011 [ 208080 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0     886176 Aug 31 2011 [ 208496 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0     699680 Aug 31 2011 [ 208944 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/SUBWAYTRAIN/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    179 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] .. 
+-r-xr-xr-x   1    0    0      49440 Aug 31 2011 [ 209296 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0      49440 Aug 31 2011 [ 209328 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0      49440 Aug 31 2011 [ 209360 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0      44256 Aug 31 2011 [ 209392 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0      49440 Aug 31 2011 [ 209424 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0      50656 Aug 31 2011 [ 209456 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0      49440 Aug 31 2011 [ 209488 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0      37952 Aug 31 2011 [ 209520 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/TOKYOCAR1NPC/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    180 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] .. 
+-r-xr-xr-x   1    0    0     112480 Aug 31 2011 [ 209552 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0     112480 Aug 31 2011 [ 209616 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0     112480 Aug 31 2011 [ 209680 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0     111296 Aug 31 2011 [ 209744 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0     112480 Aug 31 2011 [ 209808 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0     114720 Aug 31 2011 [ 209872 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0     112480 Aug 31 2011 [ 209936 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0      93184 Aug 31 2011 [ 210000 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/TOKYOCAR2NPC/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    181 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] .. 
+-r-xr-xr-x   1    0    0     117184 Aug 31 2011 [ 210048 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0     117184 Aug 31 2011 [ 210112 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0     117184 Aug 31 2011 [ 210176 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0     126528 Aug 31 2011 [ 210240 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0     117184 Aug 31 2011 [ 210304 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0     100448 Aug 31 2011 [ 210368 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0     117184 Aug 31 2011 [ 210432 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0     102528 Aug 31 2011 [ 210496 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/TOKYOCAR3NPC/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    182 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] .. 
+-r-xr-xr-x   1    0    0     125760 Aug 31 2011 [ 210560 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0     125760 Aug 31 2011 [ 210624 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0     116896 Aug 31 2011 [ 210688 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0     116064 Aug 31 2011 [ 210752 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0     125760 Aug 31 2011 [ 210816 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0     115872 Aug 31 2011 [ 210880 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0     125760 Aug 31 2011 [ 210944 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0     107872 Aug 31 2011 [ 211008 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/TOKYOOUTDOORTRAIN/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    183 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] .. 
+-r-xr-xr-x   1    0    0      57312 Aug 31 2011 [ 211072 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0      57312 Aug 31 2011 [ 211104 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0      57312 Aug 31 2011 [ 211136 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0      51520 Aug 31 2011 [ 211168 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0      57312 Aug 31 2011 [ 211200 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0      42560 Aug 31 2011 [ 211232 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0      57312 Aug 31 2011 [ 211264 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0      45920 Aug 31 2011 [ 211296 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/TOMBER/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    184 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] .. 
+-r-xr-xr-x   1    0    0     944992 Aug 31 2011 [ 211328 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0     944992 Aug 31 2011 [ 211792 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0     944992 Aug 31 2011 [ 212256 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0     974112 Aug 31 2011 [ 212720 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0     944992 Aug 31 2011 [ 213200 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0     842336 Aug 31 2011 [ 213664 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0     944992 Aug 31 2011 [ 214080 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0     883776 Aug 31 2011 [ 214544 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/TRUNKOV1NPC/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    185 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] .. 
+-r-xr-xr-x   1    0    0     182336 Aug 31 2011 [ 214976 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0     182336 Aug 31 2011 [ 215072 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0     182336 Aug 31 2011 [ 215168 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0     189536 Aug 31 2011 [ 215264 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0     182336 Aug 31 2011 [ 215360 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0     199968 Aug 31 2011 [ 215456 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0     182336 Aug 31 2011 [ 215568 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0     155936 Aug 31 2011 [ 215664 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/TRUNKOV2NPC/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    186 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] .. 
+-r-xr-xr-x   1    0    0     106368 Aug 31 2011 [ 215744 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0     106368 Aug 31 2011 [ 215808 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0     106368 Aug 31 2011 [ 215872 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0     112608 Aug 31 2011 [ 215936 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0     106368 Aug 31 2011 [ 216000 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0     101216 Aug 31 2011 [ 216064 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0     106368 Aug 31 2011 [ 216128 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0      93952 Aug 31 2011 [ 216192 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/TRUNKOV3NPC/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    187 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] .. 
+-r-xr-xr-x   1    0    0     108384 Aug 31 2011 [ 216240 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0     108384 Aug 31 2011 [ 216304 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0     108384 Aug 31 2011 [ 216368 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0     113760 Aug 31 2011 [ 216432 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0     108384 Aug 31 2011 [ 216496 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0     104768 Aug 31 2011 [ 216560 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0     108384 Aug 31 2011 [ 216624 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0      89632 Aug 31 2011 [ 216688 00] SPANISH.FSB 
+
+Directory listing of /PSP_GAME/USRDIR/AUDIO/LOCALIZED/YACHTITALIANNPC/
+dr-xr-xr-x   1    0    0       2048 Sep 25 2011 [    188 02] . 
+dr-xr-xr-x   1    0    0       4096 Sep 25 2011 [     69 02] .. 
+-r-xr-xr-x   1    0    0      92832 Aug 31 2011 [ 216736 00] DUTCH.FSB 
+-r-xr-xr-x   1    0    0      92832 Aug 31 2011 [ 216784 00] ENGLISH.FSB 
+-r-xr-xr-x   1    0    0      92832 Aug 31 2011 [ 216832 00] FRENCH.FSB 
+-r-xr-xr-x   1    0    0      97760 Aug 31 2011 [ 216880 00] GERMAN.FSB 
+-r-xr-xr-x   1    0    0      92832 Aug 31 2011 [ 216928 00] ITALIAN.FSB 
+-r-xr-xr-x   1    0    0     101024 Aug 31 2011 [ 216976 00] POLISH.FSB 
+-r-xr-xr-x   1    0    0      92832 Aug 31 2011 [ 217040 00] RUSSIAN.FSB 
+-r-xr-xr-x   1    0    0      80896 Aug 31 2011 [ 217088 00] SPANISH.FSB 
+=============================================================== 
+Generated on Tue 09/08/2022 at  5:37:12.51 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

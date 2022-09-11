@@ -1,0 +1,88 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Kazook   
+Title ID: ULES-00517 
+Region: Europe  
+Languages: En,Fr,De,It  
+Volume Creation Date: 2006-08-30 12:00:00 
+Volume Size: 842 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: KAZOOK
+Volume set id: KAZOOK
+Publisher id: MONTECRISTO
+Data preparer id: MONTECRISTO
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 431120
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Aug 30 2006 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 30 2006 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb  2 2006 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Feb  2 2006 [     28 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Feb  2 2006 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 30 2006 [     22 02] .. 
+-r-xr-xr-x   1    0    0      23726 Aug 29 2006 [  21488 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     399360 Aug 30 2006 [ 430864 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 Aug 22 2006 [  21504 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     213313 Aug 29 2006 [  21520 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0      73104 Jun 27 2006 [ 431072 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 Feb  2 2006 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Feb  2 2006 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Feb  2 2006 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb  2 2006 [     23 02] .. 
+-r-xr-xr-x   1    0    0    1958260 Aug 29 2006 [  21632 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    1958608 Aug 30 2006 [     32 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Feb  2 2006 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Feb  2 2006 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb  2 2006 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 May  4 2006 [     27 02] GS 
+-r-xr-xr-x   1    0    0  186419777 Aug 29 2006 [ 325000 00] data.pak 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Feb  2 2006 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb  2 2006 [     24 02] .. 
+-r-xr-xr-x   1    0    0   15456336 Feb  2 2006 [   5104 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5079424 Feb  2 2006 [   1008 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Feb  2 2006 [    992 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/GS/
+dr-xr-xr-x   1    0    0       2048 May  4 2006 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb  2 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0    6245856 Aug 30 2006 [ 416032 00] GSP_MG01.DAT 
+-r-xr-xr-x   1    0    0    6246528 Aug 30 2006 [ 419088 00] GSP_MG03.DAT 
+-r-xr-xr-x   1    0    0    5668240 Aug 30 2006 [ 422144 00] GSP_MG04.DAT 
+-r-xr-xr-x   1    0    0    6945808 Aug 30 2006 [ 424912 00] GSP_MG06.DAT 
+-r-xr-xr-x   1    0    0    5210848 Aug 30 2006 [ 428304 00] GSP_MG17.DAT 
+=============================================================== 
+Generated on Tue 09/08/2022 at  5:37:40.30 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

@@ -1,0 +1,776 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Star Wars - Lethal Alliance   
+Title ID: ULES-00599 
+Region: Europe  
+Languages: En,Fr,De,Es,It  
+Volume Creation Date: 2006-10-18 23:25:27 
+Volume Size: 855 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: UBISOFT
+Volume set id: UBISOFT
+Publisher id: UBISOFT
+Data preparer id: UBISOFT
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 437792
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Oct 18 2006 [     62 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     22 02] .. 
+-r-xr-xr-x   1    0    0      27943 Oct  4 2006 [  21120 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     266240 Oct  4 2006 [  20688 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 Oct 18 2006 [  20832 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     277338 Oct  4 2006 [  20848 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0     235268 Oct  4 2006 [  20992 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     23 02] .. 
+-r-xr-xr-x   1    0    0     102828 Oct 18 2006 [  20624 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0     103168 Oct 18 2006 [     64 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     27 02] DATAPSP 
+dr-xr-xr-x   1    0    0      12288 Oct 18 2006 [     28 02] SYSTEM 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     24 02] .. 
+-r-xr-xr-x   1    0    0   15456672 Oct 18 2006 [   4240 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5079424 Oct 18 2006 [    144 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Oct 18 2006 [    128 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/DATAPSP/
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     34 02] MAGMA 
+dr-xr-xr-x   1    0    0      10240 Oct 18 2006 [     35 02] MOVIES 
+-r-xr-xr-x   1    0    0         60 Sep  7 2006 [  87600 00] README.TXT 
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     40 02] SOUNDS 
+
+Directory listing of /PSP_GAME/USRDIR/SYSTEM/
+dr-xr-xr-x   1    0    0      12288 Oct 18 2006 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0        509 Jun 19 2006 [ 291904 00] 0_0_0_MENU.INT 
+-r-xr-xr-x   1    0    0        509 Jun 19 2006 [ 291920 00] 0_0_1_HANDCUFF.INT 
+-r-xr-xr-x   1    0    0        509 Jun 19 2006 [ 291936 00] 1_1_1_A_EMBASSY.INT 
+-r-xr-xr-x   1    0    0        509 Jun 19 2006 [ 291952 00] 1_1_1_B_EMBASSY.INT 
+-r-xr-xr-x   1    0    0        509 Jun 19 2006 [ 291968 00] 1_1_2_A_EMBASSY.INT 
+-r-xr-xr-x   1    0    0        509 Jun 19 2006 [ 291984 00] 1_1_2_B_EMBASSY.INT 
+-r-xr-xr-x   1    0    0        509 Jun 19 2006 [ 292000 00] 2_1_1_A_LAB.INT 
+-r-xr-xr-x   1    0    0        509 Jun 19 2006 [ 292016 00] 2_1_1_B_LAB.INT 
+-r-xr-xr-x   1    0    0        509 Jun 19 2006 [ 292032 00] 2_1_2_A_LAB.INT 
+-r-xr-xr-x   1    0    0        509 Jun 19 2006 [ 292048 00] 2_1_2_B_LAB.INT 
+-r-xr-xr-x   1    0    0        509 Jun 19 2006 [ 292064 00] 2_2_1_TRAIN.INT 
+-r-xr-xr-x   1    0    0        509 Jun 19 2006 [ 292080 00] 3_1_1_A_MARKET.INT 
+-r-xr-xr-x   1    0    0        509 Jun 19 2006 [ 292096 00] 3_1_1_B_MARKET.INT 
+-r-xr-xr-x   1    0    0        509 Jun 19 2006 [ 292112 00] 3_1_2_A_MARKET.INT 
+-r-xr-xr-x   1    0    0        509 Jun 19 2006 [ 292128 00] 3_1_2_B_MARKET.INT 
+-r-xr-xr-x   1    0    0        509 Jun 19 2006 [ 292144 00] 3_1_3_MARKET.INT 
+-r-xr-xr-x   1    0    0        509 Jun 19 2006 [ 292160 00] 4_1_0_VILLAGE.INT 
+-r-xr-xr-x   1    0    0        509 Jun 19 2006 [ 292176 00] 4_1_1_VILLAGE.INT 
+-r-xr-xr-x   1    0    0        509 Jun 19 2006 [ 292192 00] 4_1_2_VILLAGE.INT 
+-r-xr-xr-x   1    0    0        509 Jun 19 2006 [ 292208 00] 4_1_3_A_VILLAGE.INT 
+-r-xr-xr-x   1    0    0        509 Jun 19 2006 [ 292224 00] 4_1_3_B_VILLAGE.INT 
+-r-xr-xr-x   1    0    0        509 Jun 19 2006 [ 292240 00] 4_2_1_A_DOCK.INT 
+-r-xr-xr-x   1    0    0        509 Jun 19 2006 [ 292256 00] 4_2_2_A_DOCK.INT 
+-r-xr-xr-x   1    0    0        509 Jun 19 2006 [ 292272 00] 4_2_2_B_DOCK.INT 
+-r-xr-xr-x   1    0    0        509 Jun 19 2006 [ 292288 00] 4_2_2_C_DOCK.INT 
+-r-xr-xr-x   1    0    0        509 Jun 19 2006 [ 292304 00] 4_3_1_A_TV.INT 
+-r-xr-xr-x   1    0    0        509 Jun 19 2006 [ 292320 00] 4_3_1_B_TV.INT 
+-r-xr-xr-x   1    0    0        509 Jun 19 2006 [ 292336 00] 4_3_1_C_TV.INT 
+-r-xr-xr-x   1    0    0        509 Jun 19 2006 [ 292352 00] 4_3_2_A_TV.INT 
+-r-xr-xr-x   1    0    0        509 Jun 19 2006 [ 292368 00] 4_3_2_B_TV.INT 
+-r-xr-xr-x   1    0    0        509 Jun 19 2006 [ 292384 00] 5_1_1_A_LAX.INT 
+-r-xr-xr-x   1    0    0        509 Jun 19 2006 [ 292400 00] 5_1_1_B_LAX.INT 
+-r-xr-xr-x   1    0    0        509 Jun 19 2006 [ 292416 00] 5_1_2_A_LAX.INT 
+-r-xr-xr-x   1    0    0        509 Jun 19 2006 [ 292432 00] 5_1_2_B_LAX.INT 
+-r-xr-xr-x   1    0    0      26576 Jun 19 2006 [ 292448 00] BIOST___.TTF 
+-r-xr-xr-x   1    0    0     102941 Oct 18 2006 [ 292464 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0        823 Jun 19 2006 [ 292528 00] CHEATLOADMAPS.INI 
+-r-xr-xr-x   1    0    0          0 Jun 19 2006 [ 292544 00] CONSTANTES.INI 
+-r-xr-xr-x   1    0    0       3375 Jul  7 2006 [ 292560 00] CORE.INT 
+-r-xr-xr-x   1    0    0        740 Jun 19 2006 [ 292576 00] CREDITS.TXT 
+-r-xr-xr-x   1    0    0        374 Jun 19 2006 [ 292592 00] D3DDRV.INT 
+-r-xr-xr-x   1    0    0        133 Jun 19 2006 [ 292608 00] DARE.INI 
+-r-xr-xr-x   1    0    0       7282 Jun 19 2006 [ 292624 00] DEFAULT.INI 
+-r-xr-xr-x   1    0    0       2603 Jun 19 2006 [ 292640 00] DEFUNREALED.INI 
+-r-xr-xr-x   1    0    0         87 Jun 19 2006 [ 292656 00] ECHELON.INT 
+-r-xr-xr-x   1    0    0       6144 Jun 19 2006 [ 292672 00] EDITOR.INT 
+-r-xr-xr-x   1    0    0       5077 Jun 19 2006 [ 292688 00] ENGINE.INT 
+-r-xr-xr-x   1    0    0      85285 Oct 11 2006 [ 292704 00] ESETTING.INI 
+-r-xr-xr-x   1    0    0     198604 Jun 19 2006 [ 292752 00] GARABD.TTF 
+-r-xr-xr-x   1    0    0        215 Jun 19 2006 [ 292864 00] GCNCONVERT.INT 
+-r-xr-xr-x   1    0    0    1228800 Jun 19 2006 [ 292880 00] INITLOAD.RAW 
+-r-xr-xr-x   1    0    0    1228800 Jun 19 2006 [ 293488 00] LOADING.RAW 
+-r-xr-xr-x   1    0    0     557056 Jun 19 2006 [ 294096 00] LOADINGPSP.RAW 
+-r-xr-xr-x   1    0    0     278528 Jun 19 2006 [ 294368 00] LOADINGPSP5551.RAW 
+-r-xr-xr-x   1    0    0     278528 Jun 19 2006 [ 294512 00] LOADINGPSP5650.RAW 
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     41 02] LOADINGSCREENS 
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     42 02] LOCALIZATION 
+-r-xr-xr-x   1    0    0    3851585 Oct 18 2006 [ 299472 00] LVM01A_DEATHSTAR.BIN 
+-r-xr-xr-x   1    0    0    1780864 Oct 18 2006 [ 301360 00] LVM01A_DEATHSTAR.DSL 
+-r-xr-xr-x   1    0    0    3866549 Oct 18 2006 [ 302240 00] LVM03A_MUSTAFAR.BIN 
+-r-xr-xr-x   1    0    0    1744696 Oct 18 2006 [ 304128 00] LVM03A_MUSTAFAR.DSL 
+-r-xr-xr-x   1    0    0    3909806 Oct 18 2006 [ 304992 00] LVM04A_TATOOINE.BIN 
+-r-xr-xr-x   1    0    0    1766496 Oct 18 2006 [ 306912 00] LVM04A_TATOOINE.DSL 
+-r-xr-xr-x   1    0    0    3930338 Oct 18 2006 [ 307776 00] LVM05A_DESPAYRE.BIN 
+-r-xr-xr-x   1    0    0    1787620 Oct 18 2006 [ 309696 00] LVM05A_DESPAYRE.DSL 
+-r-xr-xr-x   1    0    0    3623961 Oct 18 2006 [ 310576 00] LVS00A1_MENU.BIN 
+-r-xr-xr-x   1    0    0    1333304 Oct 18 2006 [ 312352 00] LVS00A1_MENU.DSL 
+-r-xr-xr-x   1    0    0    5198449 Oct 18 2006 [ 313008 00] LVS02A1_CORUSCANT.BIN 
+-r-xr-xr-x   1    0    0    2667712 Oct 18 2006 [ 315552 00] LVS02A1_CORUSCANT.DSL 
+-r-xr-xr-x   1    0    0    5010420 Oct 18 2006 [ 316864 00] LVS02A2_CORUSCANT.BIN 
+-r-xr-xr-x   1    0    0    2727748 Oct 18 2006 [ 319312 00] LVS02A2_CORUSCANT.DSL 
+-r-xr-xr-x   1    0    0    4748069 Oct 18 2006 [ 320656 00] LVS02B1_CORUSCANT.BIN 
+-r-xr-xr-x   1    0    0    2117476 Oct 18 2006 [ 322976 00] LVS02B1_CORUSCANT.DSL 
+-r-xr-xr-x   1    0    0    5178113 Oct 18 2006 [ 324016 00] LVS02B2_CORUSCANT.BIN 
+-r-xr-xr-x   1    0    0    2233388 Oct 18 2006 [ 326560 00] LVS02B2_CORUSCANT.DSL 
+-r-xr-xr-x   1    0    0    4763371 Oct 18 2006 [ 327664 00] LVS02B3_CORUSCANT.BIN 
+-r-xr-xr-x   1    0    0    2115584 Oct 18 2006 [ 330000 00] LVS02B3_CORUSCANT.DSL 
+-r-xr-xr-x   1    0    0    4317073 Oct 18 2006 [ 331040 00] LVS02C1_CORUSCANT.BIN 
+-r-xr-xr-x   1    0    0    2404524 Oct 18 2006 [ 333152 00] LVS02C1_CORUSCANT.DSL 
+-r-xr-xr-x   1    0    0    5317096 Oct 18 2006 [ 334336 00] LVS03A1_ALDERAAN.BIN 
+-r-xr-xr-x   1    0    0    2912804 Oct 18 2006 [ 336944 00] LVS03A1_ALDERAAN.DSL 
+-r-xr-xr-x   1    0    0    4864353 Oct 18 2006 [ 338368 00] LVS03A2_ALDERAAN.BIN 
+-r-xr-xr-x   1    0    0    2071580 Oct 18 2006 [ 340752 00] LVS03A2_ALDERAAN.DSL 
+-r-xr-xr-x   1    0    0    5181346 Oct 18 2006 [ 341776 00] LVS03B1_ALDERAAN.BIN 
+-r-xr-xr-x   1    0    0    2353640 Oct 18 2006 [ 344320 00] LVS03B1_ALDERAAN.DSL 
+-r-xr-xr-x   1    0    0    5121689 Oct 18 2006 [ 345472 00] LVS03B2_ALDERAAN.BIN 
+-r-xr-xr-x   1    0    0    2454052 Oct 18 2006 [ 347984 00] LVS03B2_ALDERAAN.DSL 
+-r-xr-xr-x   1    0    0    5056114 Oct 18 2006 [ 349184 00] LVS04A1_MUSTAFAR.BIN 
+-r-xr-xr-x   1    0    0    2023144 Oct 18 2006 [ 351664 00] LVS04A1_MUSTAFAR.DSL 
+-r-xr-xr-x   1    0    0    4738297 Oct 18 2006 [ 352656 00] LVS04A2_MUSTAFAR.BIN 
+-r-xr-xr-x   1    0    0    2078032 Oct 18 2006 [ 354976 00] LVS04A2_MUSTAFAR.DSL 
+-r-xr-xr-x   1    0    0    5013621 Oct 18 2006 [ 356000 00] LVS04A3_MUSTAFAR.BIN 
+-r-xr-xr-x   1    0    0    2334176 Oct 18 2006 [ 358464 00] LVS04A3_MUSTAFAR.DSL 
+-r-xr-xr-x   1    0    0    4920960 Oct 18 2006 [ 359616 00] LVS04B1_MUSTAFAR.BIN 
+-r-xr-xr-x   1    0    0    2248048 Oct 18 2006 [ 362032 00] LVS04B1_MUSTAFAR.DSL 
+-r-xr-xr-x   1    0    0    4860412 Oct 18 2006 [ 363136 00] LVS04B2_MUSTAFAR.BIN 
+-r-xr-xr-x   1    0    0    2291108 Oct 18 2006 [ 365520 00] LVS04B2_MUSTAFAR.DSL 
+-r-xr-xr-x   1    0    0    3848762 Oct 18 2006 [ 366640 00] LVS04C_MUSTAFAR.BIN 
+-r-xr-xr-x   1    0    0    1606292 Oct 18 2006 [ 368528 00] LVS04C_MUSTAFAR.DSL 
+-r-xr-xr-x   1    0    0    5339572 Oct 18 2006 [ 369328 00] LVS05A2_TATOOINE.BIN 
+-r-xr-xr-x   1    0    0    2499540 Oct 18 2006 [ 371936 00] LVS05A2_TATOOINE.DSL 
+-r-xr-xr-x   1    0    0    5227012 Oct 18 2006 [ 373168 00] LVS05A3_TATOOINE.BIN 
+-r-xr-xr-x   1    0    0    2275756 Oct 18 2006 [ 375728 00] LVS05A3_TATOOINE.DSL 
+-r-xr-xr-x   1    0    0    4964236 Oct 18 2006 [ 376848 00] LVS05B1_TATOOINE.BIN 
+-r-xr-xr-x   1    0    0    2146448 Oct 18 2006 [ 379280 00] LVS05B1_TATOOINE.DSL 
+-r-xr-xr-x   1    0    0    4682696 Oct 18 2006 [ 380336 00] LVS05B2_TATOOINE.BIN 
+-r-xr-xr-x   1    0    0    1728428 Oct 18 2006 [ 382624 00] LVS05B2_TATOOINE.DSL 
+-r-xr-xr-x   1    0    0    3990477 Oct 18 2006 [ 383472 00] LVS05B3_TATOOINE.BIN 
+-r-xr-xr-x   1    0    0    1715100 Oct 18 2006 [ 385424 00] LVS05B3_TATOOINE.DSL 
+-r-xr-xr-x   1    0    0    5161567 Oct 18 2006 [ 386272 00] LVS07A1_DESPAYRE.BIN 
+-r-xr-xr-x   1    0    0    2903308 Oct 18 2006 [ 388800 00] LVS07A1_DESPAYRE.DSL 
+-r-xr-xr-x   1    0    0    5285531 Oct 18 2006 [ 390224 00] LVS07A2_DESPAYRE.BIN 
+-r-xr-xr-x   1    0    0    2366532 Oct 18 2006 [ 392816 00] LVS07A2_DESPAYRE.DSL 
+-r-xr-xr-x   1    0    0    4705117 Oct 18 2006 [ 393984 00] LVS07A3_DESPAYRE.BIN 
+-r-xr-xr-x   1    0    0    2002768 Oct 18 2006 [ 396288 00] LVS07A3_DESPAYRE.DSL 
+-r-xr-xr-x   1    0    0    4766910 Oct 18 2006 [ 397280 00] LVS07B1_DESPAYRE.BIN 
+-r-xr-xr-x   1    0    0    2083484 Oct 18 2006 [ 399616 00] LVS07B1_DESPAYRE.DSL 
+-r-xr-xr-x   1    0    0    4887133 Oct 18 2006 [ 400640 00] LVS07B2_DESPAYRE.BIN 
+-r-xr-xr-x   1    0    0    1978428 Oct 18 2006 [ 403040 00] LVS07B2_DESPAYRE.DSL 
+-r-xr-xr-x   1    0    0    4624603 Oct 18 2006 [ 404016 00] LVS07B3_DESPAYRE.BIN 
+-r-xr-xr-x   1    0    0    2216712 Oct 18 2006 [ 406288 00] LVS07B3_DESPAYRE.DSL 
+-r-xr-xr-x   1    0    0    4812892 Oct 18 2006 [ 407376 00] LVS08A1_DEATHSTAR.BIN 
+-r-xr-xr-x   1    0    0    2185544 Oct 18 2006 [ 409728 00] LVS08A1_DEATHSTAR.DSL 
+-r-xr-xr-x   1    0    0    4765611 Oct 18 2006 [ 410800 00] LVS08B1_DEATHSTAR.BIN 
+-r-xr-xr-x   1    0    0    1973708 Oct 18 2006 [ 413136 00] LVS08B1_DEATHSTAR.DSL 
+-r-xr-xr-x   1    0    0    5107394 Oct 18 2006 [ 414112 00] LVS08B2_DEATHSTAR.BIN 
+-r-xr-xr-x   1    0    0    2546208 Oct 18 2006 [ 416608 00] LVS08B2_DEATHSTAR.DSL 
+-r-xr-xr-x   1    0    0    3863651 Oct 18 2006 [ 417856 00] LVS08C_DEATHSTAR.BIN 
+-r-xr-xr-x   1    0    0    1554504 Oct 18 2006 [ 419744 00] LVS08C_DEATHSTAR.DSL 
+-r-xr-xr-x   1    0    0    4892703 Oct 18 2006 [ 420512 00] LVS09A_DANUTA.BIN 
+-r-xr-xr-x   1    0    0    2426760 Oct 18 2006 [ 422912 00] LVS09A_DANUTA.DSL 
+-r-xr-xr-x   1    0    0    5486368 Oct 18 2006 [ 424112 00] LVS09B1_DANUTA.BIN 
+-r-xr-xr-x   1    0    0    2618632 Oct 18 2006 [ 426800 00] LVS09B1_DANUTA.DSL 
+-r-xr-xr-x   1    0    0    4162364 Oct 18 2006 [ 428080 00] LVS09C1_DANUTA.BIN 
+-r-xr-xr-x   1    0    0    1864356 Oct 18 2006 [ 430128 00] LVS09C1_DANUTA.DSL 
+-r-xr-xr-x   1    0    0        779 Jun 19 2006 [ 431040 00] MANIFEST.INI 
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     43 02] MENUITEM 
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     44 02] MENUSOUND 
+-r-xr-xr-x   1    0    0      12119 Oct 18 2006 [ 432576 00] PACKAGES.FNA 
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     45 02] PSP_MODULES 
+-r-xr-xr-x   1    0    0        525 Jun 19 2006 [ 432896 00] PSX2CONVERT.INT 
+-r-xr-xr-x   1    0    0       3896 Jun 19 2006 [ 432912 00] PSX2GAME.INI 
+-r-xr-xr-x   1    0    0       5194 Jun 19 2006 [ 432928 00] PSX2USER.INI 
+-r-xr-xr-x   1    0    0         55 Sep  7 2006 [ 432944 00] README.TXT 
+-r-xr-xr-x   1    0    0          0 Sep 26 2006 [ 432960 00] RUNNING.INI 
+-r-xr-xr-x   1    0    0       7838 Oct 18 2006 [ 432976 00] SETTINGS.FNA 
+-r-xr-xr-x   1    0    0       3707 Jun 19 2006 [ 432992 00] SETUPWARFAREPSX2.INI 
+-r-xr-xr-x   1    0    0         79 Jun 19 2006 [ 433008 00] SETUPWARFAREPSX2.INT 
+-r-xr-xr-x   1    0    0        187 Jun 19 2006 [ 433024 00] SETUPWARFAREPSX2LINS.INI 
+-r-xr-xr-x   1    0    0         79 Jun 19 2006 [ 433040 00] SETUPWARFAREPSX2LINS.INT 
+-r-xr-xr-x   1    0    0        853 Jun 19 2006 [ 433056 00] SETUPWARFAREPSX2SHIP.INI 
+-r-xr-xr-x   1    0    0         79 Jun 19 2006 [ 433072 00] SETUPWARFAREPSX2SHIP.INT 
+-r-xr-xr-x   1    0    0        329 Jun 19 2006 [ 433088 00] SOFTDRV.INT 
+-r-xr-xr-x   1    0    0       5578 Jun 19 2006 [ 433104 00] SOLDIERSKINS.INT 
+-r-xr-xr-x   1    0    0         73 Jun 19 2006 [ 433120 00] SOUNDMAP.INI 
+-r-xr-xr-x   1    0    0       6752 Jun 19 2006 [ 433136 00] SOURCECONTROL.INI 
+-r-xr-xr-x   1    0    0       4002 Jun 19 2006 [ 433152 00] STARTUP.INT 
+-r-xr-xr-x   1    0    0    4382108 Oct 18 2006 [ 433168 00] STARWARS_PSP.PRX 
+-r-xr-xr-x   1    0    0    4390924 Oct 18 2006 [ 435312 00] STARWARS_PSP_M.PRX 
+-r-xr-xr-x   1    0    0         23 Jun 19 2006 [ 437472 00] TEST_MAPNAME.INI 
+-r-xr-xr-x   1    0    0        175 Jun 19 2006 [ 437488 00] THIRDECHELON.INT 
+-r-xr-xr-x   1    0    0       8234 Jun 19 2006 [ 437504 00] THIRDECHELONNGC.INI 
+-r-xr-xr-x   1    0    0       8231 Jun 19 2006 [ 437520 00] THIRDECHELONNGC_MOULINETTE.INI 
+-r-xr-xr-x   1    0    0       8578 Sep 20 2006 [ 437536 00] THIRDECHELONPSP_EDITOR.INI 
+-r-xr-xr-x   1    0    0       3097 Oct 18 2006 [ 437552 00] THIRDECHELONPSP_GAME.INI 
+-r-xr-xr-x   1    0    0       8198 Jun 19 2006 [ 437568 00] THIRDECHELONPSX2.INI 
+-r-xr-xr-x   1    0    0       6513 Jun 19 2006 [ 437584 00] THIRDECHELONUSERNGC.INI 
+-r-xr-xr-x   1    0    0       8869 Oct  7 2006 [ 437600 00] THIRDECHELONUSERPSP_EDITOR.INI 
+-r-xr-xr-x   1    0    0       5175 Jul 19 2006 [ 437616 00] THIRDECHELONUSERPSP_GAME.INI 
+-r-xr-xr-x   1    0    0       6451 Jun 19 2006 [ 437632 00] THIRDECHELONUSERPSX2.INI 
+-r-xr-xr-x   1    0    0       6736 Jun 19 2006 [ 437648 00] THIRDECHELONUSERXBOX.INI 
+-r-xr-xr-x   1    0    0       8245 Jun 19 2006 [ 437664 00] THIRDECHELONXBOX.INI 
+-r-xr-xr-x   1    0    0      10270 Oct 18 2006 [ 437680 00] TOCONVERT_PACK.FNA 
+-r-xr-xr-x   1    0    0       3137 Oct 18 2006 [ 437696 00] TOCONVERT_SET.FNA 
+-r-xr-xr-x   1    0    0       7250 Oct  4 2006 [ 437712 00] UNREALED.INI 
+-r-xr-xr-x   1    0    0         44 Jun 19 2006 [ 437728 00] UNREALED.INT 
+-r-xr-xr-x   1    0    0        131 Jun 19 2006 [ 437744 00] UWEB.INT 
+-r-xr-xr-x   1    0    0       2280 Jun 19 2006 [ 437760 00] WINDOW.INT 
+-r-xr-xr-x   1    0    0        681 Jun 19 2006 [ 437776 00] WINDRV.INT 
+
+Directory listing of /PSP_GAME/USRDIR/DATAPSP/MAGMA/
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     34 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     27 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     46 02] FONTS 
+-r-xr-xr-x   1    0    0      94611 Oct 11 2006 [  21200 00] SW_COMMON.MGB 
+-r-xr-xr-x   1    0    0      23981 Oct 13 2006 [  21248 00] SW_CREDITS_DEU.MGB 
+-r-xr-xr-x   1    0    0      24881 Oct 13 2006 [  21264 00] SW_CREDITS_ESP.MGB 
+-r-xr-xr-x   1    0    0      24873 Oct 13 2006 [  21280 00] SW_CREDITS_FRA.MGB 
+-r-xr-xr-x   1    0    0      23349 Oct 13 2006 [  21296 00] SW_CREDITS_INT.MGB 
+-r-xr-xr-x   1    0    0      23905 Oct 13 2006 [  21312 00] SW_CREDITS_ITA.MGB 
+-r-xr-xr-x   1    0    0      78891 Oct 18 2006 [  21328 00] SW_HUD.MGB 
+-r-xr-xr-x   1    0    0      39353 Oct 10 2006 [  21376 00] SW_MAIN.MGB 
+-r-xr-xr-x   1    0    0       9554 Oct 10 2006 [  21408 00] SW_PAUSE.MGB 
+-r-xr-xr-x   1    0    0      16929 Oct 16 2006 [  21424 00] SW_STRINGS_DEU.MGB 
+-r-xr-xr-x   1    0    0      15743 Oct  8 2006 [  21440 00] SW_STRINGS_ESP.MGB 
+-r-xr-xr-x   1    0    0      17517 Oct  8 2006 [  21456 00] SW_STRINGS_FRA.MGB 
+-r-xr-xr-x   1    0    0      14315 Oct  8 2006 [  21472 00] SW_STRINGS_INT.MGB 
+-r-xr-xr-x   1    0    0      16193 Oct  8 2006 [  21488 00] SW_STRINGS_ITA.MGB 
+
+Directory listing of /PSP_GAME/USRDIR/DATAPSP/MOVIES/
+dr-xr-xr-x   1    0    0      10240 Oct 18 2006 [     35 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     27 02] .. 
+-r-xr-xr-x   1    0    0    1208320 Oct  5 2006 [  21504 00] LOGO.PMF 
+-r-xr-xr-x   1    0    0    8161280 Oct 12 2006 [  22096 00] SCN01E.PMF 
+-r-xr-xr-x   1    0    0    8167424 Oct 12 2006 [  26096 00] SCN01F.PMF 
+-r-xr-xr-x   1    0    0    8171520 Oct 12 2006 [  30096 00] SCN01G.PMF 
+-r-xr-xr-x   1    0    0    8165376 Oct 12 2006 [  34096 00] SCN01I.PMF 
+-r-xr-xr-x   1    0    0    8167424 Oct 12 2006 [  38096 00] SCN01S.PMF 
+-r-xr-xr-x   1    0    0    3354624 Oct  8 2006 [  42096 00] SCN05.PMF 
+-r-xr-xr-x   1    0    0      57408 Oct 17 2006 [  43744 00] SCN05.STE 
+-r-xr-xr-x   1    0    0      73792 Oct 17 2006 [  43776 00] SCN05.STF 
+-r-xr-xr-x   1    0    0      57408 Oct 17 2006 [  43824 00] SCN05.STG 
+-r-xr-xr-x   1    0    0      57408 Oct 17 2006 [  43856 00] SCN05.STI 
+-r-xr-xr-x   1    0    0      57408 Oct 17 2006 [  43888 00] SCN05.STS 
+-r-xr-xr-x   1    0    0    6326272 Oct 17 2006 [  43920 00] SCN06.PMF 
+-r-xr-xr-x   1    0    0      73792 Oct 17 2006 [  47024 00] SCN06.STE 
+-r-xr-xr-x   1    0    0      98368 Oct 17 2006 [  47072 00] SCN06.STF 
+-r-xr-xr-x   1    0    0      90176 Oct 17 2006 [  47136 00] SCN06.STG 
+-r-xr-xr-x   1    0    0      81984 Oct 17 2006 [  47184 00] SCN06.STI 
+-r-xr-xr-x   1    0    0      81984 Oct 17 2006 [  47232 00] SCN06.STS 
+-r-xr-xr-x   1    0    0    1937408 Oct  8 2006 [  47280 00] SCN08.PMF 
+-r-xr-xr-x   1    0    0      32832 Oct 17 2006 [  48240 00] SCN08.STE 
+-r-xr-xr-x   1    0    0      41024 Oct 17 2006 [  48272 00] SCN08.STF 
+-r-xr-xr-x   1    0    0      41024 Oct 17 2006 [  48304 00] SCN08.STG 
+-r-xr-xr-x   1    0    0      41024 Oct 17 2006 [  48336 00] SCN08.STI 
+-r-xr-xr-x   1    0    0      41024 Oct 17 2006 [  48368 00] SCN08.STS 
+-r-xr-xr-x   1    0    0    9912320 Oct  8 2006 [  48400 00] SCN09.PMF 
+-r-xr-xr-x   1    0    0     229504 Oct 17 2006 [  53248 00] SCN09.STE 
+-r-xr-xr-x   1    0    0     245952 Oct 17 2006 [  53376 00] SCN09.STF 
+-r-xr-xr-x   1    0    0     229504 Oct 17 2006 [  53504 00] SCN09.STG 
+-r-xr-xr-x   1    0    0     213120 Oct 17 2006 [  53632 00] SCN09.STI 
+-r-xr-xr-x   1    0    0     229504 Oct 17 2006 [  53744 00] SCN09.STS 
+-r-xr-xr-x   1    0    0     966656 Oct  8 2006 [  53872 00] SCN10.PMF 
+-r-xr-xr-x   1    0    0    2961408 Oct  8 2006 [  54352 00] SCN11.PMF 
+-r-xr-xr-x   1    0    0      57408 Oct 17 2006 [  55808 00] SCN11.STE 
+-r-xr-xr-x   1    0    0      57408 Oct 17 2006 [  55840 00] SCN11.STF 
+-r-xr-xr-x   1    0    0      57408 Oct 17 2006 [  55872 00] SCN11.STG 
+-r-xr-xr-x   1    0    0      57408 Oct 17 2006 [  55904 00] SCN11.STI 
+-r-xr-xr-x   1    0    0      57408 Oct 17 2006 [  55936 00] SCN11.STS 
+-r-xr-xr-x   1    0    0    4831232 Oct  8 2006 [  55968 00] SCN12.PMF 
+-r-xr-xr-x   1    0    0      73792 Oct 17 2006 [  58336 00] SCN12.STE 
+-r-xr-xr-x   1    0    0      73792 Oct 17 2006 [  58384 00] SCN12.STF 
+-r-xr-xr-x   1    0    0      73792 Oct 17 2006 [  58432 00] SCN12.STG 
+-r-xr-xr-x   1    0    0      73792 Oct 17 2006 [  58480 00] SCN12.STI 
+-r-xr-xr-x   1    0    0      73792 Oct 17 2006 [  58528 00] SCN12.STS 
+-r-xr-xr-x   1    0    0     839680 Oct  8 2006 [  58576 00] SCN16.PMF 
+-r-xr-xr-x   1    0    0    1552384 Oct  8 2006 [  58992 00] SCN21.PMF 
+-r-xr-xr-x   1    0    0      16448 Oct 17 2006 [  59760 00] SCN21.STE 
+-r-xr-xr-x   1    0    0      24640 Oct 17 2006 [  59776 00] SCN21.STF 
+-r-xr-xr-x   1    0    0      16448 Oct 17 2006 [  59792 00] SCN21.STG 
+-r-xr-xr-x   1    0    0      16448 Oct 17 2006 [  59808 00] SCN21.STI 
+-r-xr-xr-x   1    0    0      16448 Oct 17 2006 [  59824 00] SCN21.STS 
+-r-xr-xr-x   1    0    0    1527808 Oct 10 2006 [  59840 00] SCN22.PMF 
+-r-xr-xr-x   1    0    0    4300800 Oct  8 2006 [  60592 00] SCN23.PMF 
+-r-xr-xr-x   1    0    0      65600 Oct 17 2006 [  62704 00] SCN23.STE 
+-r-xr-xr-x   1    0    0      73792 Oct 17 2006 [  62752 00] SCN23.STF 
+-r-xr-xr-x   1    0    0      81984 Oct 17 2006 [  62800 00] SCN23.STG 
+-r-xr-xr-x   1    0    0      65600 Oct 17 2006 [  62848 00] SCN23.STI 
+-r-xr-xr-x   1    0    0      65600 Oct 17 2006 [  62896 00] SCN23.STS 
+-r-xr-xr-x   1    0    0    8759296 Oct  8 2006 [  62944 00] SCN29.PMF 
+-r-xr-xr-x   1    0    0     172160 Oct 17 2006 [  67232 00] SCN29.STE 
+-r-xr-xr-x   1    0    0     180352 Oct 17 2006 [  67328 00] SCN29.STF 
+-r-xr-xr-x   1    0    0     180352 Oct 17 2006 [  67424 00] SCN29.STG 
+-r-xr-xr-x   1    0    0     172160 Oct 17 2006 [  67520 00] SCN29.STI 
+-r-xr-xr-x   1    0    0     172160 Oct 17 2006 [  67616 00] SCN29.STS 
+-r-xr-xr-x   1    0    0      81984 Oct 17 2006 [  67712 00] SCN30.STE 
+-r-xr-xr-x   1    0    0      90176 Oct 17 2006 [  67760 00] SCN30.STF 
+-r-xr-xr-x   1    0    0      90176 Oct 17 2006 [  67808 00] SCN30.STG 
+-r-xr-xr-x   1    0    0      81984 Oct 17 2006 [  67856 00] SCN30.STI 
+-r-xr-xr-x   1    0    0      81984 Oct 17 2006 [  67904 00] SCN30.STS 
+-r-xr-xr-x   1    0    0    4769792 Oct  8 2006 [  67952 00] SCN32.PMF 
+-r-xr-xr-x   1    0    0      73792 Oct 17 2006 [  70288 00] SCN32.STE 
+-r-xr-xr-x   1    0    0      73792 Oct 17 2006 [  70336 00] SCN32.STF 
+-r-xr-xr-x   1    0    0      81984 Oct 17 2006 [  70384 00] SCN32.STG 
+-r-xr-xr-x   1    0    0      73792 Oct 17 2006 [  70432 00] SCN32.STI 
+-r-xr-xr-x   1    0    0      73792 Oct 17 2006 [  70480 00] SCN32.STS 
+-r-xr-xr-x   1    0    0    3043328 Oct  8 2006 [  70528 00] SCN34.PMF 
+-r-xr-xr-x   1    0    0      57408 Oct 17 2006 [  72016 00] SCN34.STE 
+-r-xr-xr-x   1    0    0      57408 Oct 17 2006 [  72048 00] SCN34.STF 
+-r-xr-xr-x   1    0    0      57408 Oct 17 2006 [  72080 00] SCN34.STG 
+-r-xr-xr-x   1    0    0      49216 Oct 17 2006 [  72112 00] SCN34.STI 
+-r-xr-xr-x   1    0    0      57408 Oct 17 2006 [  72144 00] SCN34.STS 
+-r-xr-xr-x   1    0    0     608256 Oct  8 2006 [  72176 00] SCN37.PMF 
+-r-xr-xr-x   1    0    0    7208960 Oct 10 2006 [  72480 00] SCN39.PMF 
+-r-xr-xr-x   1    0    0     114816 Oct 17 2006 [  76000 00] SCN39.STE 
+-r-xr-xr-x   1    0    0     106560 Oct 17 2006 [  76064 00] SCN39.STF 
+-r-xr-xr-x   1    0    0     114816 Oct 17 2006 [  76128 00] SCN39.STG 
+-r-xr-xr-x   1    0    0      90176 Oct 17 2006 [  76192 00] SCN39.STI 
+-r-xr-xr-x   1    0    0     114816 Oct 17 2006 [  76240 00] SCN39.STS 
+-r-xr-xr-x   1    0    0    1642496 Oct  8 2006 [  76304 00] SCN44.PMF 
+-r-xr-xr-x   1    0    0      32832 Oct 17 2006 [  77120 00] SCN44.STE 
+-r-xr-xr-x   1    0    0      41024 Oct 17 2006 [  77152 00] SCN44.STF 
+-r-xr-xr-x   1    0    0      41024 Oct 17 2006 [  77184 00] SCN44.STG 
+-r-xr-xr-x   1    0    0      32832 Oct 17 2006 [  77216 00] SCN44.STI 
+-r-xr-xr-x   1    0    0      32832 Oct 17 2006 [  77248 00] SCN44.STS 
+-r-xr-xr-x   1    0    0     395264 Oct  8 2006 [  77280 00] SCN47.PMF 
+-r-xr-xr-x   1    0    0    5818368 Oct  8 2006 [  77488 00] SCN48.PMF 
+-r-xr-xr-x   1    0    0      98368 Oct 17 2006 [  80336 00] SCN48.STE 
+-r-xr-xr-x   1    0    0      98368 Oct 17 2006 [  80400 00] SCN48.STF 
+-r-xr-xr-x   1    0    0     106560 Oct 17 2006 [  80464 00] SCN48.STG 
+-r-xr-xr-x   1    0    0      90176 Oct 17 2006 [  80528 00] SCN48.STI 
+-r-xr-xr-x   1    0    0      90176 Oct 17 2006 [  80576 00] SCN48.STS 
+-r-xr-xr-x   1    0    0    1699840 Oct  8 2006 [  80624 00] SCN48B.PMF 
+-r-xr-xr-x   1    0    0    1155072 Oct 12 2006 [  81456 00] SCN49.PMF 
+-r-xr-xr-x   1    0    0    5703680 Oct 12 2006 [  82032 00] SCN50.PMF 
+-r-xr-xr-x   1    0    0      57408 Oct 17 2006 [  84832 00] SCN50.STE 
+-r-xr-xr-x   1    0    0      57408 Oct 17 2006 [  84864 00] SCN50.STF 
+-r-xr-xr-x   1    0    0      57408 Oct 17 2006 [  84896 00] SCN50.STG 
+-r-xr-xr-x   1    0    0      57408 Oct 17 2006 [  84928 00] SCN50.STI 
+-r-xr-xr-x   1    0    0      49216 Oct 17 2006 [  84960 00] SCN50.STS 
+-r-xr-xr-x   1    0    0     927744 Oct  6 2006 [  84992 00] TUTDUALATTACK1.PMF 
+-r-xr-xr-x   1    0    0      16448 Oct 17 2006 [  85456 00] TUTDUALATTACK1.STE 
+-r-xr-xr-x   1    0    0      16448 Oct 17 2006 [  85472 00] TUTDUALATTACK1.STF 
+-r-xr-xr-x   1    0    0      16448 Oct 17 2006 [  85488 00] TUTDUALATTACK1.STG 
+-r-xr-xr-x   1    0    0      16448 Oct 17 2006 [  85504 00] TUTDUALATTACK1.STI 
+-r-xr-xr-x   1    0    0      16448 Oct 17 2006 [  85520 00] TUTDUALATTACK1.STS 
+-r-xr-xr-x   1    0    0     831488 Oct  6 2006 [  85536 00] TUTDUALATTACK2.PMF 
+-r-xr-xr-x   1    0    0      16448 Oct 17 2006 [  85952 00] TUTDUALATTACK2.STE 
+-r-xr-xr-x   1    0    0      16448 Oct 17 2006 [  85968 00] TUTDUALATTACK2.STF 
+-r-xr-xr-x   1    0    0      16448 Oct 17 2006 [  85984 00] TUTDUALATTACK2.STG 
+-r-xr-xr-x   1    0    0      16448 Oct 17 2006 [  86000 00] TUTDUALATTACK2.STI 
+-r-xr-xr-x   1    0    0      16448 Oct 17 2006 [  86016 00] TUTDUALATTACK2.STS 
+-r-xr-xr-x   1    0    0     798720 Oct  6 2006 [  86032 00] TUTDUALDODGE.PMF 
+-r-xr-xr-x   1    0    0      16448 Oct 17 2006 [  86432 00] TUTDUALDODGE.STE 
+-r-xr-xr-x   1    0    0      16448 Oct 17 2006 [  86448 00] TUTDUALDODGE.STF 
+-r-xr-xr-x   1    0    0      16448 Oct 17 2006 [  86464 00] TUTDUALDODGE.STG 
+-r-xr-xr-x   1    0    0      16448 Oct 17 2006 [  86480 00] TUTDUALDODGE.STI 
+-r-xr-xr-x   1    0    0      16448 Oct 17 2006 [  86496 00] TUTDUALDODGE.STS 
+-r-xr-xr-x   1    0    0     794624 Oct  6 2006 [  86512 00] TUTGROUNDPOUND.PMF 
+-r-xr-xr-x   1    0    0      16448 Oct 17 2006 [  86912 00] TUTGROUNDPOUND.STE 
+-r-xr-xr-x   1    0    0      16448 Oct 17 2006 [  86928 00] TUTGROUNDPOUND.STF 
+-r-xr-xr-x   1    0    0      16448 Oct 17 2006 [  86944 00] TUTGROUNDPOUND.STG 
+-r-xr-xr-x   1    0    0      16448 Oct 17 2006 [  86960 00] TUTGROUNDPOUND.STI 
+-r-xr-xr-x   1    0    0      16448 Oct 17 2006 [  86976 00] TUTGROUNDPOUND.STS 
+-r-xr-xr-x   1    0    0    1052672 Oct  6 2006 [  86992 00] TUTPULSEFIELD.PMF 
+-r-xr-xr-x   1    0    0      16448 Oct 17 2006 [  87520 00] TUTPULSEFIELD.STE 
+-r-xr-xr-x   1    0    0      16448 Oct 17 2006 [  87536 00] TUTPULSEFIELD.STF 
+-r-xr-xr-x   1    0    0      16448 Oct 17 2006 [  87552 00] TUTPULSEFIELD.STG 
+-r-xr-xr-x   1    0    0      16448 Oct 17 2006 [  87568 00] TUTPULSEFIELD.STI 
+-r-xr-xr-x   1    0    0      16448 Oct 17 2006 [  87584 00] TUTPULSEFIELD.STS 
+
+Directory listing of /PSP_GAME/USRDIR/DATAPSP/SOUNDS/
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     40 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     27 02] .. 
+-r-xr-xr-x   1    0    0   12328960 Oct 18 2006 [  87616 00] AMB_ALDERAAN.SS5 
+-r-xr-xr-x   1    0    0   16273408 Oct 18 2006 [  93648 00] AMB_CORUSCANT.SS5 
+-r-xr-xr-x   1    0    0    7716864 Oct 18 2006 [ 101600 00] AMB_DANUTA.SS5 
+-r-xr-xr-x   1    0    0   15433728 Oct 18 2006 [ 105376 00] AMB_DEATHSTAR.SS5 
+-r-xr-xr-x   1    0    0   12904448 Oct 18 2006 [ 112912 00] AMB_DESPAYRE.SS5 
+-r-xr-xr-x   1    0    0   19935232 Oct 18 2006 [ 119216 00] AMB_MUSTAFAR.SS5 
+-r-xr-xr-x   1    0    0   13893632 Oct 18 2006 [ 128960 00] AMB_TATOOINE.SS5 
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     47 02] ENGLISH 
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     48 02] FRENCH 
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     49 02] GERMAN 
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     50 02] ITALIAN 
+-r-xr-xr-x   1    0    0   32083968 Oct 18 2006 [ 164400 00] MAPS.SM5 
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     51 02] SPANISH 
+-r-xr-xr-x   1    0    0       4096 Oct 18 2006 [ 187216 00] STARWARS.SP5 
+-r-xr-xr-x   1    0    0  214355968 Oct 18 2006 [ 187232 00] STREAM.SS5 
+
+Directory listing of /PSP_GAME/USRDIR/SYSTEM/LOADINGSCREENS/
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     41 02] . 
+dr-xr-xr-x   1    0    0      12288 Oct 18 2006 [     28 02] .. 
+-r-xr-xr-x   1    0    0     278528 Sep 14 2006 [ 294656 00] LOADINGIMAGEM0.RAW 
+-r-xr-xr-x   1    0    0     278528 Sep 14 2006 [ 294800 00] LOADINGIMAGEM1.RAW 
+-r-xr-xr-x   1    0    0     278528 Sep 14 2006 [ 294944 00] LOADINGIMAGEM2.RAW 
+-r-xr-xr-x   1    0    0     278528 Sep 14 2006 [ 295088 00] LOADINGIMAGEM3.RAW 
+-r-xr-xr-x   1    0    0     278528 Sep 14 2006 [ 295232 00] LOADINGIMAGEM4.RAW 
+-r-xr-xr-x   1    0    0     557056 Sep 14 2006 [ 295376 00] LOADINGMENU.RAW 
+-r-xr-xr-x   1    0    0     557056 Sep 27 2006 [ 295648 00] LOADINGMENU2.RAW 
+-r-xr-xr-x   1    0    0     278528 Sep 14 2006 [ 295920 00] LOADING_IMAGE0.RAW 
+-r-xr-xr-x   1    0    0     278528 Sep 14 2006 [ 296064 00] LOADING_IMAGE1.RAW 
+-r-xr-xr-x   1    0    0     278528 Sep 14 2006 [ 296208 00] LOADING_IMAGE2.RAW 
+-r-xr-xr-x   1    0    0     278528 Sep 14 2006 [ 296352 00] LOADING_IMAGE3.RAW 
+-r-xr-xr-x   1    0    0     278528 Sep 14 2006 [ 296496 00] LOADING_IMAGE4.RAW 
+-r-xr-xr-x   1    0    0      16384 Jun 19 2006 [ 296640 00] LOAD_ICON_OFF.RAW 
+-r-xr-xr-x   1    0    0      16384 Jun 19 2006 [ 296656 00] LOAD_ICON_ON.RAW 
+
+Directory listing of /PSP_GAME/USRDIR/SYSTEM/LOCALIZATION/
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     42 02] . 
+dr-xr-xr-x   1    0    0      12288 Oct 18 2006 [     28 02] .. 
+dr-xr-xr-x   1    0    0       4096 Oct 18 2006 [     52 02] ENGLISH 
+dr-xr-xr-x   1    0    0       4096 Oct 18 2006 [     54 02] FRENCH 
+dr-xr-xr-x   1    0    0       4096 Oct 18 2006 [     56 02] GERMAN 
+dr-xr-xr-x   1    0    0       4096 Oct 18 2006 [     58 02] ITALIAN 
+dr-xr-xr-x   1    0    0       4096 Oct 18 2006 [     60 02] SPANISH 
+
+Directory listing of /PSP_GAME/USRDIR/SYSTEM/MENUITEM/
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     43 02] . 
+dr-xr-xr-x   1    0    0      12288 Oct 18 2006 [     28 02] .. 
+-r-xr-xr-x   1    0    0     131072 Jun 19 2006 [ 431056 00] CREDIT_01.RAW 
+-r-xr-xr-x   1    0    0     131072 Jun 19 2006 [ 431120 00] CREDIT_02.RAW 
+-r-xr-xr-x   1    0    0     262144 Jun 19 2006 [ 431184 00] ETNEWGAME3.RAW 
+-r-xr-xr-x   1    0    0     262144 Jun 19 2006 [ 431312 00] FRAMECLASS.RAW 
+-r-xr-xr-x   1    0    0     131072 Jun 19 2006 [ 431440 00] MENU_INGAME.RAW 
+-r-xr-xr-x   1    0    0     131072 Jun 19 2006 [ 431504 00] MENU_INGAME_VIDEO.RAW 
+
+Directory listing of /PSP_GAME/USRDIR/SYSTEM/MENUSOUND/
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     44 02] . 
+dr-xr-xr-x   1    0    0      12288 Oct 18 2006 [     28 02] .. 
+-r-xr-xr-x   1    0    0    2019380 Jun 19 2006 [ 431568 00] MAINMENU.AT3 
+-r-xr-xr-x   1    0    0       1696 Jun 19 2006 [ 432560 00] SELECTACT.VAG 
+
+Directory listing of /PSP_GAME/USRDIR/SYSTEM/PSP_MODULES/
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     45 02] . 
+dr-xr-xr-x   1    0    0      12288 Oct 18 2006 [     28 02] .. 
+-r-xr-xr-x   1    0    0       3264 Jun 19 2006 [ 432592 00] AUDIOCODEC.PRX 
+-r-xr-xr-x   1    0    0      10816 Jun 19 2006 [ 432608 00] IFHANDLE.PRX 
+-r-xr-xr-x   1    0    0      10128 Jun 19 2006 [ 432624 00] LIBATRAC3PLUS.PRX 
+-r-xr-xr-x   1    0    0      23488 Jun 19 2006 [ 432640 00] LIBFONT.PRX 
+-r-xr-xr-x   1    0    0       1296 Jun 19 2006 [ 432656 00] LIBMT19937.PRX 
+-r-xr-xr-x   1    0    0      17216 Jun 19 2006 [ 432672 00] MEMAB.PRX 
+-r-xr-xr-x   1    0    0      20976 Jun 19 2006 [ 432688 00] MPEG.PRX 
+-r-xr-xr-x   1    0    0       5136 Jun 19 2006 [ 432704 00] MPEGBASE.PRX 
+-r-xr-xr-x   1    0    0      60360 Jun 19 2006 [ 432720 00] PSPNET.PRX 
+-r-xr-xr-x   1    0    0      42492 Jun 19 2006 [ 432752 00] PSPNET_ADHOC.PRX 
+-r-xr-xr-x   1    0    0      31996 Jun 19 2006 [ 432784 00] PSPNET_ADHOCCTL.PRX 
+-r-xr-xr-x   1    0    0      11360 Jun 19 2006 [ 432800 00] PSPNET_ADHOC_AUTH.PRX 
+-r-xr-xr-x   1    0    0      19688 Jun 19 2006 [ 432816 00] PSPNET_ADHOC_MATCHING.PRX 
+-r-xr-xr-x   1    0    0      44412 Jun 19 2006 [ 432832 00] PSPNET_APCTL.PRX 
+-r-xr-xr-x   1    0    0       6864 Jun 19 2006 [ 432864 00] SC_SASCORE.PRX 
+-r-xr-xr-x   1    0    0       3440 Jun 19 2006 [ 432880 00] VIDEOCODEC.PRX 
+
+Directory listing of /PSP_GAME/USRDIR/DATAPSP/MAGMA/FONTS/
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     46 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     34 02] .. 
+-r-xr-xr-x   1    0    0       1388 Sep  3 2006 [  21136 00] HUDNUMBERS_9.MFT 
+-r-xr-xr-x   1    0    0       6528 Sep  3 2006 [  21152 00] RIANNA_20.MFT 
+-r-xr-xr-x   1    0    0       6670 Sep  6 2006 [  21168 00] SWGOTHIC_11.MFT 
+-r-xr-xr-x   1    0    0       6684 Jul 17 2006 [  21184 00] ZEEO_30.MFT 
+
+Directory listing of /PSP_GAME/USRDIR/DATAPSP/SOUNDS/ENGLISH/
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     47 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     40 02] .. 
+-r-xr-xr-x   1    0    0     673792 Sep 28 2006 [ 135744 00] BARK.LS5 
+-r-xr-xr-x   1    0    0    6260736 Oct 18 2006 [ 136080 00] MAPS.LM5 
+-r-xr-xr-x   1    0    0     415744 Oct 18 2006 [ 139152 00] STREAM.LS5 
+-r-xr-xr-x   1    0    0    1910784 Oct 18 2006 [ 139360 00] VOICE_ALDERAAN.LS5 
+-r-xr-xr-x   1    0    0    1662976 Oct 18 2006 [ 140304 00] VOICE_CORUSCANT.LS5 
+-r-xr-xr-x   1    0    0    1843200 Oct 18 2006 [ 141120 00] VOICE_DEATHSTAR.LS5 
+-r-xr-xr-x   1    0    0     708608 Oct 18 2006 [ 142032 00] VOICE_MUSTAFAR.LS5 
+-r-xr-xr-x   1    0    0    1214464 Oct 18 2006 [ 142384 00] VOICE_TATOOINE.LS5 
+
+Directory listing of /PSP_GAME/USRDIR/DATAPSP/SOUNDS/FRENCH/
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     48 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     40 02] .. 
+-r-xr-xr-x   1    0    0     735232 Sep 28 2006 [ 142992 00] BARK.LS5 
+-r-xr-xr-x   1    0    0    6258688 Oct 18 2006 [ 143360 00] MAPS.LM5 
+-r-xr-xr-x   1    0    0     362496 Oct 18 2006 [ 146416 00] STREAM.LS5 
+-r-xr-xr-x   1    0    0    1773568 Oct 18 2006 [ 146608 00] VOICE_ALDERAAN.LS5 
+-r-xr-xr-x   1    0    0    1540096 Oct 18 2006 [ 147488 00] VOICE_CORUSCANT.LS5 
+-r-xr-xr-x   1    0    0    1785856 Oct 18 2006 [ 148240 00] VOICE_DEATHSTAR.LS5 
+-r-xr-xr-x   1    0    0     636928 Oct 18 2006 [ 149120 00] VOICE_MUSTAFAR.LS5 
+-r-xr-xr-x   1    0    0    1079296 Oct 18 2006 [ 149440 00] VOICE_TATOOINE.LS5 
+
+Directory listing of /PSP_GAME/USRDIR/DATAPSP/SOUNDS/GERMAN/
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     49 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     40 02] .. 
+-r-xr-xr-x   1    0    0     804864 Sep 28 2006 [ 149968 00] BARK.LS5 
+-r-xr-xr-x   1    0    0    6883328 Oct 18 2006 [ 150368 00] MAPS.LM5 
+-r-xr-xr-x   1    0    0     360448 Oct 18 2006 [ 153744 00] STREAM.LS5 
+-r-xr-xr-x   1    0    0    1886208 Oct 18 2006 [ 153920 00] VOICE_ALDERAAN.LS5 
+-r-xr-xr-x   1    0    0    1529856 Oct 18 2006 [ 154848 00] VOICE_CORUSCANT.LS5 
+-r-xr-xr-x   1    0    0    1880064 Oct 18 2006 [ 155600 00] VOICE_DEATHSTAR.LS5 
+-r-xr-xr-x   1    0    0     645120 Oct 18 2006 [ 156528 00] VOICE_MUSTAFAR.LS5 
+-r-xr-xr-x   1    0    0    1075200 Oct 18 2006 [ 156848 00] VOICE_TATOOINE.LS5 
+
+Directory listing of /PSP_GAME/USRDIR/DATAPSP/SOUNDS/ITALIAN/
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     50 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     40 02] .. 
+-r-xr-xr-x   1    0    0     673792 Sep 28 2006 [ 157376 00] BARK.LS5 
+-r-xr-xr-x   1    0    0    6277120 Oct 18 2006 [ 157712 00] MAPS.LM5 
+-r-xr-xr-x   1    0    0     360448 Oct 18 2006 [ 160784 00] STREAM.LS5 
+-r-xr-xr-x   1    0    0    1830912 Oct 18 2006 [ 160960 00] VOICE_ALDERAAN.LS5 
+-r-xr-xr-x   1    0    0    1583104 Oct 18 2006 [ 161856 00] VOICE_CORUSCANT.LS5 
+-r-xr-xr-x   1    0    0    1808384 Oct 18 2006 [ 162640 00] VOICE_DEATHSTAR.LS5 
+-r-xr-xr-x   1    0    0     651264 Oct 18 2006 [ 163536 00] VOICE_MUSTAFAR.LS5 
+-r-xr-xr-x   1    0    0    1099776 Oct 18 2006 [ 163856 00] VOICE_TATOOINE.LS5 
+
+Directory listing of /PSP_GAME/USRDIR/DATAPSP/SOUNDS/SPANISH/
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     51 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     40 02] .. 
+-r-xr-xr-x   1    0    0     751616 Sep 28 2006 [ 180080 00] BARK.LS5 
+-r-xr-xr-x   1    0    0    6522880 Oct 18 2006 [ 180448 00] MAPS.LM5 
+-r-xr-xr-x   1    0    0     354304 Oct 18 2006 [ 183648 00] STREAM.LS5 
+-r-xr-xr-x   1    0    0    1822720 Oct 18 2006 [ 183824 00] VOICE_ALDERAAN.LS5 
+-r-xr-xr-x   1    0    0    1542144 Oct 18 2006 [ 184720 00] VOICE_CORUSCANT.LS5 
+-r-xr-xr-x   1    0    0    1814528 Oct 18 2006 [ 185488 00] VOICE_DEATHSTAR.LS5 
+-r-xr-xr-x   1    0    0     622592 Oct 18 2006 [ 186384 00] VOICE_MUSTAFAR.LS5 
+-r-xr-xr-x   1    0    0    1071104 Oct 18 2006 [ 186688 00] VOICE_TATOOINE.LS5 
+
+Directory listing of /PSP_GAME/USRDIR/SYSTEM/LOCALIZATION/ENGLISH/
+dr-xr-xr-x   1    0    0       4096 Oct 18 2006 [     52 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     42 02] .. 
+-r-xr-xr-x   1    0    0       3816 Oct 18 2006 [ 296672 00] HUD.INT 
+-r-xr-xr-x   1    0    0       2687 Oct 18 2006 [ 296688 00] P_LVS02A1_CORUSCANT.INT 
+-r-xr-xr-x   1    0    0       1965 Oct 18 2006 [ 296704 00] P_LVS02A2_CORUSCANT.INT 
+-r-xr-xr-x   1    0    0        977 Oct 18 2006 [ 296720 00] P_LVS02B1_CORUSCANT.INT 
+-r-xr-xr-x   1    0    0       1415 Oct 18 2006 [ 296736 00] P_LVS02B2_CORUSCANT.INT 
+-r-xr-xr-x   1    0    0        539 Oct 18 2006 [ 296752 00] P_LVS02B3_CORUSCANT.INT 
+-r-xr-xr-x   1    0    0        548 Oct 18 2006 [ 296768 00] P_LVS02C1_CORUSCANT.INT 
+-r-xr-xr-x   1    0    0       2179 Oct 18 2006 [ 296784 00] P_LVS03A1_ALDERAAN.INT 
+-r-xr-xr-x   1    0    0       1356 Oct 18 2006 [ 296800 00] P_LVS03A2_ALDERAAN.INT 
+-r-xr-xr-x   1    0    0       2298 Oct 18 2006 [ 296816 00] P_LVS03B1_ALDERAAN.INT 
+-r-xr-xr-x   1    0    0       2717 Oct 18 2006 [ 296832 00] P_LVS03B2_ALDERAAN.INT 
+-r-xr-xr-x   1    0    0        201 Oct 18 2006 [ 296848 00] P_LVS04A1_MUSTAFAR.INT 
+-r-xr-xr-x   1    0    0       1798 Oct 18 2006 [ 296864 00] P_LVS04A2_MUSTAFAR.INT 
+-r-xr-xr-x   1    0    0       1902 Oct 18 2006 [ 296880 00] P_LVS04A3_MUSTAFAR.INT 
+-r-xr-xr-x   1    0    0       2490 Oct 18 2006 [ 296896 00] P_LVS04B1_MUSTAFAR.INT 
+-r-xr-xr-x   1    0    0       3863 Oct 18 2006 [ 296912 00] P_LVS04B2_MUSTAFAR.INT 
+-r-xr-xr-x   1    0    0        288 Oct 18 2006 [ 296928 00] P_LVS04C_MUSTAFAR.INT 
+-r-xr-xr-x   1    0    0       1995 Oct 18 2006 [ 296944 00] P_LVS05A2_TATOOINE.INT 
+-r-xr-xr-x   1    0    0       1400 Oct 18 2006 [ 296960 00] P_LVS05A3_TATOOINE.INT 
+-r-xr-xr-x   1    0    0       1659 Oct 18 2006 [ 296976 00] P_LVS05B1_TATOOINE.INT 
+-r-xr-xr-x   1    0    0       1061 Oct 18 2006 [ 296992 00] P_LVS05B2_TATOOINE.INT 
+-r-xr-xr-x   1    0    0       1049 Oct 18 2006 [ 297008 00] P_LVS05B3_TATOOINE.INT 
+-r-xr-xr-x   1    0    0       1458 Oct 18 2006 [ 297024 00] P_LVS07A1_DESPAYRE.INT 
+-r-xr-xr-x   1    0    0        362 Oct 18 2006 [ 297040 00] P_LVS07A2_DESPAYRE.INT 
+-r-xr-xr-x   1    0    0        805 Oct 18 2006 [ 297056 00] P_LVS07A3_DESPAYRE.INT 
+-r-xr-xr-x   1    0    0       1017 Oct 18 2006 [ 297072 00] P_LVS07B1_DESPAYRE.INT 
+-r-xr-xr-x   1    0    0        876 Oct 18 2006 [ 297088 00] P_LVS07B2_DESPAYRE.INT 
+-r-xr-xr-x   1    0    0        863 Oct 18 2006 [ 297104 00] P_LVS07B3_DESPAYRE.INT 
+-r-xr-xr-x   1    0    0       1213 Oct 18 2006 [ 297120 00] P_LVS08A1_DEATHSTAR.INT 
+-r-xr-xr-x   1    0    0       1909 Oct 18 2006 [ 297136 00] P_LVS08B1_DEATHSTAR.INT 
+-r-xr-xr-x   1    0    0       2274 Oct 18 2006 [ 297152 00] P_LVS08B2_DEATHSTAR.INT 
+-r-xr-xr-x   1    0    0        384 Oct 18 2006 [ 297168 00] P_LVS08C_DEATHSTAR.INT 
+-r-xr-xr-x   1    0    0        520 Oct 18 2006 [ 297184 00] P_LVS09A_DANUTA.INT 
+-r-xr-xr-x   1    0    0       3563 Oct 18 2006 [ 297200 00] P_LVS09B1_DANUTA.INT 
+-r-xr-xr-x   1    0    0        626 Oct 18 2006 [ 297216 00] P_LVS09C1_DANUTA.INT 
+
+Directory listing of /PSP_GAME/USRDIR/SYSTEM/LOCALIZATION/FRENCH/
+dr-xr-xr-x   1    0    0       4096 Oct 18 2006 [     54 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     42 02] .. 
+-r-xr-xr-x   1    0    0       3896 Oct 18 2006 [ 297232 00] HUD.FRA 
+-r-xr-xr-x   1    0    0       3132 Oct 18 2006 [ 297248 00] P_LVS02A1_CORUSCANT.FRA 
+-r-xr-xr-x   1    0    0       2332 Oct 18 2006 [ 297264 00] P_LVS02A2_CORUSCANT.FRA 
+-r-xr-xr-x   1    0    0       1105 Oct 18 2006 [ 297280 00] P_LVS02B1_CORUSCANT.FRA 
+-r-xr-xr-x   1    0    0       1574 Oct 18 2006 [ 297296 00] P_LVS02B2_CORUSCANT.FRA 
+-r-xr-xr-x   1    0    0        571 Oct 18 2006 [ 297312 00] P_LVS02B3_CORUSCANT.FRA 
+-r-xr-xr-x   1    0    0        632 Oct 18 2006 [ 297328 00] P_LVS02C1_CORUSCANT.FRA 
+-r-xr-xr-x   1    0    0       2475 Oct 18 2006 [ 297344 00] P_LVS03A1_ALDERAAN.FRA 
+-r-xr-xr-x   1    0    0       1443 Oct 18 2006 [ 297360 00] P_LVS03A2_ALDERAAN.FRA 
+-r-xr-xr-x   1    0    0       2534 Oct 18 2006 [ 297376 00] P_LVS03B1_ALDERAAN.FRA 
+-r-xr-xr-x   1    0    0       3021 Oct 18 2006 [ 297392 00] P_LVS03B2_ALDERAAN.FRA 
+-r-xr-xr-x   1    0    0        206 Oct 18 2006 [ 297408 00] P_LVS04A1_MUSTAFAR.FRA 
+-r-xr-xr-x   1    0    0       2035 Oct 18 2006 [ 297424 00] P_LVS04A2_MUSTAFAR.FRA 
+-r-xr-xr-x   1    0    0       2022 Oct 18 2006 [ 297440 00] P_LVS04A3_MUSTAFAR.FRA 
+-r-xr-xr-x   1    0    0       2816 Oct 18 2006 [ 297456 00] P_LVS04B1_MUSTAFAR.FRA 
+-r-xr-xr-x   1    0    0       4313 Oct 18 2006 [ 297472 00] P_LVS04B2_MUSTAFAR.FRA 
+-r-xr-xr-x   1    0    0        324 Oct 18 2006 [ 297488 00] P_LVS04C_MUSTAFAR.FRA 
+-r-xr-xr-x   1    0    0       2178 Oct 18 2006 [ 297504 00] P_LVS05A2_TATOOINE.FRA 
+-r-xr-xr-x   1    0    0       1601 Oct 18 2006 [ 297520 00] P_LVS05A3_TATOOINE.FRA 
+-r-xr-xr-x   1    0    0       1825 Oct 18 2006 [ 297536 00] P_LVS05B1_TATOOINE.FRA 
+-r-xr-xr-x   1    0    0       1153 Oct 18 2006 [ 297552 00] P_LVS05B2_TATOOINE.FRA 
+-r-xr-xr-x   1    0    0       1153 Oct 18 2006 [ 297568 00] P_LVS05B3_TATOOINE.FRA 
+-r-xr-xr-x   1    0    0       1604 Oct 18 2006 [ 297584 00] P_LVS07A1_DESPAYRE.FRA 
+-r-xr-xr-x   1    0    0        349 Oct 18 2006 [ 297600 00] P_LVS07A2_DESPAYRE.FRA 
+-r-xr-xr-x   1    0    0        866 Oct 18 2006 [ 297616 00] P_LVS07A3_DESPAYRE.FRA 
+-r-xr-xr-x   1    0    0       1143 Oct 18 2006 [ 297632 00] P_LVS07B1_DESPAYRE.FRA 
+-r-xr-xr-x   1    0    0        916 Oct 18 2006 [ 297648 00] P_LVS07B2_DESPAYRE.FRA 
+-r-xr-xr-x   1    0    0        936 Oct 18 2006 [ 297664 00] P_LVS07B3_DESPAYRE.FRA 
+-r-xr-xr-x   1    0    0       1359 Oct 18 2006 [ 297680 00] P_LVS08A1_DEATHSTAR.FRA 
+-r-xr-xr-x   1    0    0       2083 Oct 18 2006 [ 297696 00] P_LVS08B1_DEATHSTAR.FRA 
+-r-xr-xr-x   1    0    0       2542 Oct 18 2006 [ 297712 00] P_LVS08B2_DEATHSTAR.FRA 
+-r-xr-xr-x   1    0    0        369 Oct 18 2006 [ 297728 00] P_LVS08C_DEATHSTAR.FRA 
+-r-xr-xr-x   1    0    0        522 Oct 18 2006 [ 297744 00] P_LVS09A_DANUTA.FRA 
+-r-xr-xr-x   1    0    0       4102 Oct 18 2006 [ 297760 00] P_LVS09B1_DANUTA.FRA 
+-r-xr-xr-x   1    0    0        709 Oct 18 2006 [ 297776 00] P_LVS09C1_DANUTA.FRA 
+
+Directory listing of /PSP_GAME/USRDIR/SYSTEM/LOCALIZATION/GERMAN/
+dr-xr-xr-x   1    0    0       4096 Oct 18 2006 [     56 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     42 02] .. 
+-r-xr-xr-x   1    0    0       3776 Oct 18 2006 [ 297792 00] HUD.DEU 
+-r-xr-xr-x   1    0    0       2934 Oct 18 2006 [ 297808 00] P_LVS02A1_CORUSCANT.DEU 
+-r-xr-xr-x   1    0    0       2131 Oct 18 2006 [ 297824 00] P_LVS02A2_CORUSCANT.DEU 
+-r-xr-xr-x   1    0    0       1045 Oct 18 2006 [ 297840 00] P_LVS02B1_CORUSCANT.DEU 
+-r-xr-xr-x   1    0    0       1493 Oct 18 2006 [ 297856 00] P_LVS02B2_CORUSCANT.DEU 
+-r-xr-xr-x   1    0    0        572 Oct 18 2006 [ 297872 00] P_LVS02B3_CORUSCANT.DEU 
+-r-xr-xr-x   1    0    0        649 Oct 18 2006 [ 297888 00] P_LVS02C1_CORUSCANT.DEU 
+-r-xr-xr-x   1    0    0       2367 Oct 18 2006 [ 297904 00] P_LVS03A1_ALDERAAN.DEU 
+-r-xr-xr-x   1    0    0       1401 Oct 18 2006 [ 297920 00] P_LVS03A2_ALDERAAN.DEU 
+-r-xr-xr-x   1    0    0       2424 Oct 18 2006 [ 297936 00] P_LVS03B1_ALDERAAN.DEU 
+-r-xr-xr-x   1    0    0       2853 Oct 18 2006 [ 297952 00] P_LVS03B2_ALDERAAN.DEU 
+-r-xr-xr-x   1    0    0        196 Oct 18 2006 [ 297968 00] P_LVS04A1_MUSTAFAR.DEU 
+-r-xr-xr-x   1    0    0       1929 Oct 18 2006 [ 297984 00] P_LVS04A2_MUSTAFAR.DEU 
+-r-xr-xr-x   1    0    0       2020 Oct 18 2006 [ 298000 00] P_LVS04A3_MUSTAFAR.DEU 
+-r-xr-xr-x   1    0    0       2641 Oct 18 2006 [ 298016 00] P_LVS04B1_MUSTAFAR.DEU 
+-r-xr-xr-x   1    0    0       4124 Oct 18 2006 [ 298032 00] P_LVS04B2_MUSTAFAR.DEU 
+-r-xr-xr-x   1    0    0        289 Oct 18 2006 [ 298048 00] P_LVS04C_MUSTAFAR.DEU 
+-r-xr-xr-x   1    0    0       2183 Oct 18 2006 [ 298064 00] P_LVS05A2_TATOOINE.DEU 
+-r-xr-xr-x   1    0    0       1536 Oct 18 2006 [ 298080 00] P_LVS05A3_TATOOINE.DEU 
+-r-xr-xr-x   1    0    0       1748 Oct 18 2006 [ 298096 00] P_LVS05B1_TATOOINE.DEU 
+-r-xr-xr-x   1    0    0       1081 Oct 18 2006 [ 298112 00] P_LVS05B2_TATOOINE.DEU 
+-r-xr-xr-x   1    0    0       1202 Oct 18 2006 [ 298128 00] P_LVS05B3_TATOOINE.DEU 
+-r-xr-xr-x   1    0    0       1618 Oct 18 2006 [ 298144 00] P_LVS07A1_DESPAYRE.DEU 
+-r-xr-xr-x   1    0    0        352 Oct 18 2006 [ 298160 00] P_LVS07A2_DESPAYRE.DEU 
+-r-xr-xr-x   1    0    0        851 Oct 18 2006 [ 298176 00] P_LVS07A3_DESPAYRE.DEU 
+-r-xr-xr-x   1    0    0       1081 Oct 18 2006 [ 298192 00] P_LVS07B1_DESPAYRE.DEU 
+-r-xr-xr-x   1    0    0        860 Oct 18 2006 [ 298208 00] P_LVS07B2_DESPAYRE.DEU 
+-r-xr-xr-x   1    0    0        857 Oct 18 2006 [ 298224 00] P_LVS07B3_DESPAYRE.DEU 
+-r-xr-xr-x   1    0    0       1315 Oct 18 2006 [ 298240 00] P_LVS08A1_DEATHSTAR.DEU 
+-r-xr-xr-x   1    0    0       2047 Oct 18 2006 [ 298256 00] P_LVS08B1_DEATHSTAR.DEU 
+-r-xr-xr-x   1    0    0       2504 Oct 18 2006 [ 298272 00] P_LVS08B2_DEATHSTAR.DEU 
+-r-xr-xr-x   1    0    0        427 Oct 18 2006 [ 298288 00] P_LVS08C_DEATHSTAR.DEU 
+-r-xr-xr-x   1    0    0        507 Oct 18 2006 [ 298304 00] P_LVS09A_DANUTA.DEU 
+-r-xr-xr-x   1    0    0       3763 Oct 18 2006 [ 298320 00] P_LVS09B1_DANUTA.DEU 
+-r-xr-xr-x   1    0    0        665 Oct 18 2006 [ 298336 00] P_LVS09C1_DANUTA.DEU 
+
+Directory listing of /PSP_GAME/USRDIR/SYSTEM/LOCALIZATION/ITALIAN/
+dr-xr-xr-x   1    0    0       4096 Oct 18 2006 [     58 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     42 02] .. 
+-r-xr-xr-x   1    0    0       4001 Oct 18 2006 [ 298352 00] HUD.ITA 
+-r-xr-xr-x   1    0    0       2843 Oct 18 2006 [ 298368 00] P_LVS02A1_CORUSCANT.ITA 
+-r-xr-xr-x   1    0    0       2126 Oct 18 2006 [ 298384 00] P_LVS02A2_CORUSCANT.ITA 
+-r-xr-xr-x   1    0    0        997 Oct 18 2006 [ 298400 00] P_LVS02B1_CORUSCANT.ITA 
+-r-xr-xr-x   1    0    0       1407 Oct 18 2006 [ 298416 00] P_LVS02B2_CORUSCANT.ITA 
+-r-xr-xr-x   1    0    0        550 Oct 18 2006 [ 298432 00] P_LVS02B3_CORUSCANT.ITA 
+-r-xr-xr-x   1    0    0        590 Oct 18 2006 [ 298448 00] P_LVS02C1_CORUSCANT.ITA 
+-r-xr-xr-x   1    0    0       2249 Oct 18 2006 [ 298464 00] P_LVS03A1_ALDERAAN.ITA 
+-r-xr-xr-x   1    0    0       1337 Oct 18 2006 [ 298480 00] P_LVS03A2_ALDERAAN.ITA 
+-r-xr-xr-x   1    0    0       2395 Oct 18 2006 [ 298496 00] P_LVS03B1_ALDERAAN.ITA 
+-r-xr-xr-x   1    0    0       2718 Oct 18 2006 [ 298512 00] P_LVS03B2_ALDERAAN.ITA 
+-r-xr-xr-x   1    0    0        191 Oct 18 2006 [ 298528 00] P_LVS04A1_MUSTAFAR.ITA 
+-r-xr-xr-x   1    0    0       1886 Oct 18 2006 [ 298544 00] P_LVS04A2_MUSTAFAR.ITA 
+-r-xr-xr-x   1    0    0       1930 Oct 18 2006 [ 298560 00] P_LVS04A3_MUSTAFAR.ITA 
+-r-xr-xr-x   1    0    0       2551 Oct 18 2006 [ 298576 00] P_LVS04B1_MUSTAFAR.ITA 
+-r-xr-xr-x   1    0    0       4077 Oct 18 2006 [ 298592 00] P_LVS04B2_MUSTAFAR.ITA 
+-r-xr-xr-x   1    0    0        292 Oct 18 2006 [ 298608 00] P_LVS04C_MUSTAFAR.ITA 
+-r-xr-xr-x   1    0    0       2081 Oct 18 2006 [ 298624 00] P_LVS05A2_TATOOINE.ITA 
+-r-xr-xr-x   1    0    0       1472 Oct 18 2006 [ 298640 00] P_LVS05A3_TATOOINE.ITA 
+-r-xr-xr-x   1    0    0       1805 Oct 18 2006 [ 298656 00] P_LVS05B1_TATOOINE.ITA 
+-r-xr-xr-x   1    0    0       1130 Oct 18 2006 [ 298672 00] P_LVS05B2_TATOOINE.ITA 
+-r-xr-xr-x   1    0    0       1170 Oct 18 2006 [ 298688 00] P_LVS05B3_TATOOINE.ITA 
+-r-xr-xr-x   1    0    0       1614 Oct 18 2006 [ 298704 00] P_LVS07A1_DESPAYRE.ITA 
+-r-xr-xr-x   1    0    0        363 Oct 18 2006 [ 298720 00] P_LVS07A2_DESPAYRE.ITA 
+-r-xr-xr-x   1    0    0        862 Oct 18 2006 [ 298736 00] P_LVS07A3_DESPAYRE.ITA 
+-r-xr-xr-x   1    0    0       1098 Oct 18 2006 [ 298752 00] P_LVS07B1_DESPAYRE.ITA 
+-r-xr-xr-x   1    0    0        901 Oct 18 2006 [ 298768 00] P_LVS07B2_DESPAYRE.ITA 
+-r-xr-xr-x   1    0    0        902 Oct 18 2006 [ 298784 00] P_LVS07B3_DESPAYRE.ITA 
+-r-xr-xr-x   1    0    0       1243 Oct 18 2006 [ 298800 00] P_LVS08A1_DEATHSTAR.ITA 
+-r-xr-xr-x   1    0    0       1966 Oct 18 2006 [ 298816 00] P_LVS08B1_DEATHSTAR.ITA 
+-r-xr-xr-x   1    0    0       2373 Oct 18 2006 [ 298832 00] P_LVS08B2_DEATHSTAR.ITA 
+-r-xr-xr-x   1    0    0        321 Oct 18 2006 [ 298848 00] P_LVS08C_DEATHSTAR.ITA 
+-r-xr-xr-x   1    0    0        521 Oct 18 2006 [ 298864 00] P_LVS09A_DANUTA.ITA 
+-r-xr-xr-x   1    0    0       3875 Oct 18 2006 [ 298880 00] P_LVS09B1_DANUTA.ITA 
+-r-xr-xr-x   1    0    0        615 Oct 18 2006 [ 298896 00] P_LVS09C1_DANUTA.ITA 
+
+Directory listing of /PSP_GAME/USRDIR/SYSTEM/LOCALIZATION/SPANISH/
+dr-xr-xr-x   1    0    0       4096 Oct 18 2006 [     60 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct 18 2006 [     42 02] .. 
+-r-xr-xr-x   1    0    0       3970 Oct 18 2006 [ 298912 00] HUD.ESP 
+-r-xr-xr-x   1    0    0       2837 Oct 18 2006 [ 298928 00] P_LVS02A1_CORUSCANT.ESP 
+-r-xr-xr-x   1    0    0       2121 Oct 18 2006 [ 298944 00] P_LVS02A2_CORUSCANT.ESP 
+-r-xr-xr-x   1    0    0       1028 Oct 18 2006 [ 298960 00] P_LVS02B1_CORUSCANT.ESP 
+-r-xr-xr-x   1    0    0       1460 Oct 18 2006 [ 298976 00] P_LVS02B2_CORUSCANT.ESP 
+-r-xr-xr-x   1    0    0        537 Oct 18 2006 [ 298992 00] P_LVS02B3_CORUSCANT.ESP 
+-r-xr-xr-x   1    0    0        593 Oct 18 2006 [ 299008 00] P_LVS02C1_CORUSCANT.ESP 
+-r-xr-xr-x   1    0    0       2329 Oct 18 2006 [ 299024 00] P_LVS03A1_ALDERAAN.ESP 
+-r-xr-xr-x   1    0    0       1385 Oct 18 2006 [ 299040 00] P_LVS03A2_ALDERAAN.ESP 
+-r-xr-xr-x   1    0    0       2388 Oct 18 2006 [ 299056 00] P_LVS03B1_ALDERAAN.ESP 
+-r-xr-xr-x   1    0    0       2789 Oct 18 2006 [ 299072 00] P_LVS03B2_ALDERAAN.ESP 
+-r-xr-xr-x   1    0    0        216 Oct 18 2006 [ 299088 00] P_LVS04A1_MUSTAFAR.ESP 
+-r-xr-xr-x   1    0    0       1936 Oct 18 2006 [ 299104 00] P_LVS04A2_MUSTAFAR.ESP 
+-r-xr-xr-x   1    0    0       1990 Oct 18 2006 [ 299120 00] P_LVS04A3_MUSTAFAR.ESP 
+-r-xr-xr-x   1    0    0       2597 Oct 18 2006 [ 299136 00] P_LVS04B1_MUSTAFAR.ESP 
+-r-xr-xr-x   1    0    0       4138 Oct 18 2006 [ 299152 00] P_LVS04B2_MUSTAFAR.ESP 
+-r-xr-xr-x   1    0    0        344 Oct 18 2006 [ 299168 00] P_LVS04C_MUSTAFAR.ESP 
+-r-xr-xr-x   1    0    0       2102 Oct 18 2006 [ 299184 00] P_LVS05A2_TATOOINE.ESP 
+-r-xr-xr-x   1    0    0       1553 Oct 18 2006 [ 299200 00] P_LVS05A3_TATOOINE.ESP 
+-r-xr-xr-x   1    0    0       1760 Oct 18 2006 [ 299216 00] P_LVS05B1_TATOOINE.ESP 
+-r-xr-xr-x   1    0    0       1051 Oct 18 2006 [ 299232 00] P_LVS05B2_TATOOINE.ESP 
+-r-xr-xr-x   1    0    0       1111 Oct 18 2006 [ 299248 00] P_LVS05B3_TATOOINE.ESP 
+-r-xr-xr-x   1    0    0       1612 Oct 18 2006 [ 299264 00] P_LVS07A1_DESPAYRE.ESP 
+-r-xr-xr-x   1    0    0        356 Oct 18 2006 [ 299280 00] P_LVS07A2_DESPAYRE.ESP 
+-r-xr-xr-x   1    0    0        806 Oct 18 2006 [ 299296 00] P_LVS07A3_DESPAYRE.ESP 
+-r-xr-xr-x   1    0    0       1061 Oct 18 2006 [ 299312 00] P_LVS07B1_DESPAYRE.ESP 
+-r-xr-xr-x   1    0    0        898 Oct 18 2006 [ 299328 00] P_LVS07B2_DESPAYRE.ESP 
+-r-xr-xr-x   1    0    0        930 Oct 18 2006 [ 299344 00] P_LVS07B3_DESPAYRE.ESP 
+-r-xr-xr-x   1    0    0       1332 Oct 18 2006 [ 299360 00] P_LVS08A1_DEATHSTAR.ESP 
+-r-xr-xr-x   1    0    0       2037 Oct 18 2006 [ 299376 00] P_LVS08B1_DEATHSTAR.ESP 
+-r-xr-xr-x   1    0    0       2453 Oct 18 2006 [ 299392 00] P_LVS08B2_DEATHSTAR.ESP 
+-r-xr-xr-x   1    0    0        389 Oct 18 2006 [ 299408 00] P_LVS08C_DEATHSTAR.ESP 
+-r-xr-xr-x   1    0    0        533 Oct 18 2006 [ 299424 00] P_LVS09A_DANUTA.ESP 
+-r-xr-xr-x   1    0    0       4143 Oct 18 2006 [ 299440 00] P_LVS09B1_DANUTA.ESP 
+-r-xr-xr-x   1    0    0        668 Oct 18 2006 [ 299456 00] P_LVS09C1_DANUTA.ESP 
+=============================================================== 
+Generated on Tue 09/08/2022 at  5:38:34.64 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

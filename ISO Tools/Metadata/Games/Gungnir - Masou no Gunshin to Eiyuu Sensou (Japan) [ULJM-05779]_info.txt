@@ -1,0 +1,150 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Gungnir - Masou no Gunshin to Eiyuu Sensou  
+Title ID: ULJM-05779 
+Region: Japan  
+Languages:   
+Volume Creation Date: 2010-11-30 20:00:00 
+Volume Size: 863 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: 
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 442256
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Nov 30 2010 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 30 2010 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2009 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Oct  9 2009 [     31 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Oct  9 2009 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 30 2010 [     22 02] .. 
+-r-xr-xr-x   1    0    0      16083 Oct 20 2010 [ 388048 00] ICON0.PNG 
+dr-xr-xr-x   1    0    0       2048 Nov 22 2010 [     24 02] INSDIR 
+-r-xr-xr-x   1    0    0        604 Nov 29 2010 [ 388064 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      35318 Aug 31 2010 [ 388080 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0     148979 Aug 31 2010 [ 388112 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2009 [     25 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Nov 22 2010 [     26 02] USRDIR 
+
+Directory listing of /PSP_GAME/INSDIR/
+dr-xr-xr-x   1    0    0       2048 Nov 22 2010 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2009 [     23 02] .. 
+-r-xr-xr-x   1    0    0   39432000 Nov 30 2010 [ 368704 00] DATA.DAR 
+-r-xr-xr-x   1    0    0      15898 Nov 30 2010 [ 368688 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     148979 Nov 30 2010 [ 387968 00] PIC1.PNG 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Oct  9 2009 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2009 [     23 02] .. 
+-r-xr-xr-x   1    0    0    3217629 Nov 30 2010 [ 388192 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    3217968 Nov 30 2010 [    544 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0        880 Oct  9 2009 [     32 00] OPNSSMP.BIN 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2009 [     27 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Nov 22 2010 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2009 [     23 02] .. 
+dr-xr-xr-x   1    0    0       4096 Nov 22 2010 [     28 02] bgm 
+-r-xr-xr-x   1    0    0   38825200 Nov 30 2010 [ 423296 00] data.dar 
+-r-xr-xr-x   1    0    0  642662400 Nov  5 2010 [  54880 00] dummy.dat 
+-r-xr-xr-x   1    0    0    3470640 Nov  1 2010 [ 389776 00] ini.dar 
+dr-xr-xr-x   1    0    0       2048 Nov 22 2010 [     30 02] movie 
+-r-xr-xr-x   1    0    0     392320 Sep 28 2010 [ 391472 00] voice.dar 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Oct  9 2009 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  9 2009 [     25 02] .. 
+-r-xr-xr-x   1    0    0   26115152 Oct  9 2009 [   6240 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5540576 Oct  9 2009 [   2144 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Oct  9 2009 [   2128 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/bgm/
+dr-xr-xr-x   1    0    0       4096 Nov 22 2010 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 22 2010 [     26 02] .. 
+-r-xr-xr-x   1    0    0     959112 Aug 23 2010 [ 396080 00] bgm01.at3 
+-r-xr-xr-x   1    0    0     962900 Aug 23 2010 [ 396560 00] bgm05.at3 
+-r-xr-xr-x   1    0    0    1000844 Aug 23 2010 [ 397040 00] bgm06.at3 
+-r-xr-xr-x   1    0    0    1223300 Aug 23 2010 [ 397536 00] bgm07.at3 
+-r-xr-xr-x   1    0    0     866180 Aug 23 2010 [ 398144 00] bgm08.at3 
+-r-xr-xr-x   1    0    0     689852 Aug 23 2010 [ 398576 00] bgm09.at3 
+-r-xr-xr-x   1    0    0     791780 Aug 23 2010 [ 398928 00] bgm10.at3 
+-r-xr-xr-x   1    0    0     587180 Aug 23 2010 [ 399328 00] bgm12.at3 
+-r-xr-xr-x   1    0    0    1014236 Aug 23 2010 [ 399616 00] bgm13.at3 
+-r-xr-xr-x   1    0    0    1389212 Aug 23 2010 [ 400112 00] bgm14.at3 
+-r-xr-xr-x   1    0    0    1328204 Aug 23 2010 [ 400800 00] bgm15.at3 
+-r-xr-xr-x   1    0    0    1413020 Aug 23 2010 [ 401456 00] bgm16.at3 
+-r-xr-xr-x   1    0    0    1448732 Aug 23 2010 [ 402160 00] bgm17.at3 
+-r-xr-xr-x   1    0    0    1420460 Aug 23 2010 [ 402880 00] bgm18.at3 
+-r-xr-xr-x   1    0    0    1382516 Aug 23 2010 [ 403584 00] bgm19.at3 
+-r-xr-xr-x   1    0    0    1376564 Aug 23 2010 [ 404272 00] bgm20.at3 
+-r-xr-xr-x   1    0    0    1536524 Aug 23 2010 [ 404960 00] bgm21.at3 
+-r-xr-xr-x   1    0    0    1381772 Aug 23 2010 [ 405712 00] bgm22.at3 
+-r-xr-xr-x   1    0    0    1677884 Aug 23 2010 [ 406400 00] bgm23.at3 
+-r-xr-xr-x   1    0    0    1295468 Aug 23 2010 [ 407232 00] bgm24.at3 
+-r-xr-xr-x   1    0    0    1488164 Aug 23 2010 [ 407872 00] bgm25.at3 
+-r-xr-xr-x   1    0    0    1105748 Aug 23 2010 [ 408608 00] bgm26.at3 
+-r-xr-xr-x   1    0    0    1555868 Aug 23 2010 [ 409152 00] bgm27.at3 
+-r-xr-xr-x   1    0    0    1462124 Aug 23 2010 [ 409920 00] bgm28.at3 
+-r-xr-xr-x   1    0    0    1561820 Aug 23 2010 [ 410640 00] bgm29.at3 
+-r-xr-xr-x   1    0    0    1369868 Aug 23 2010 [ 411408 00] bgm31.at3 
+-r-xr-xr-x   1    0    0    1407812 Aug 23 2010 [ 412080 00] bgm39.at3 
+-r-xr-xr-x   1    0    0     930164 Aug 23 2010 [ 412768 00] bgm43.at3 
+-r-xr-xr-x   1    0    0    1064084 Aug 23 2010 [ 413232 00] bgm45.at3 
+-r-xr-xr-x   1    0    0     689108 Aug 23 2010 [ 413760 00] bgm46.at3 
+-r-xr-xr-x   1    0    0     878084 Aug 23 2010 [ 414112 00] bgm47.at3 
+-r-xr-xr-x   1    0    0    1243388 Aug 23 2010 [ 414544 00] bgm48.at3 
+-r-xr-xr-x   1    0    0    1126580 Aug 23 2010 [ 415152 00] bgm49.at3 
+-r-xr-xr-x   1    0    0     575276 Aug 23 2010 [ 415712 00] bgm50.at3 
+-r-xr-xr-x   1    0    0     595364 Aug 23 2010 [ 416000 00] bgm51.at3 
+-r-xr-xr-x   1    0    0     917516 Aug 23 2010 [ 416304 00] bgm52.at3 
+-r-xr-xr-x   1    0    0    1034324 Aug 23 2010 [ 416768 00] bgm55.at3 
+-r-xr-xr-x   1    0    0    1017212 Aug 23 2010 [ 417280 00] bgm57.at3 
+-r-xr-xr-x   1    0    0    1058132 Aug 23 2010 [ 417792 00] bgm58.at3 
+-r-xr-xr-x   1    0    0     881060 Aug 23 2010 [ 418320 00] bgm59.at3 
+-r-xr-xr-x   1    0    0    1227020 Aug 23 2010 [ 418752 00] bgm60.at3 
+-r-xr-xr-x   1    0    0     938348 Aug 23 2010 [ 419360 00] bgm63.at3 
+-r-xr-xr-x   1    0    0    1206188 Aug 23 2010 [ 419824 00] bgm64.at3 
+-r-xr-xr-x   1    0    0    2890536 Aug 27 2010 [ 420416 00] bgm67.at3 
+-r-xr-xr-x   1    0    0     693572 Aug 23 2010 [ 422800 00] bgm70.at3 
+-r-xr-xr-x   1    0    0     288836 Aug 23 2010 [ 423152 00] bgm71.at3 
+-r-xr-xr-x   1    0    0     532868 Aug 23 2010 [ 421840 00] bgm72.at3 
+-r-xr-xr-x   1    0    0     462932 Aug 23 2010 [ 422112 00] bgm73.at3 
+-r-xr-xr-x   1    0    0     504528 Aug 23 2010 [ 422352 00] bgm74.at3 
+-r-xr-xr-x   1    0    0     376628 Aug 23 2010 [ 422608 00] bgm75.at3 
+
+Directory listing of /PSP_GAME/USRDIR/movie/
+dr-xr-xr-x   1    0    0       2048 Nov 22 2010 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 22 2010 [     26 02] .. 
+-r-xr-xr-x   1    0    0    9015296 Aug  2 2010 [ 391664 00] op.pmf 
+=============================================================== 
+Generated on Mon 22/08/2022 at 13:49:57.90 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

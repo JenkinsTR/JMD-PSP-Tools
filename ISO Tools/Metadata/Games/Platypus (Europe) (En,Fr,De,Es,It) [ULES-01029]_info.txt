@@ -1,0 +1,96 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Platypus   
+Title ID: ULES-01029 
+Region: Europe  
+Languages: En,Fr,De,Es,It  
+Volume Creation Date: 2008-01-25 10:42:42 
+Volume Size: 73 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: ULES01029
+Volume set id: 1
+Publisher id: MUMBOJUMBO
+Data preparer id: MUMBOJUMBO
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 37600
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Jan 25 2008 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 25 2008 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2006 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Aug 28 2006 [     29 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Aug 28 2006 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 25 2008 [     22 02] .. 
+-r-xr-xr-x   1    0    0      20321 Jun  8 2006 [  21216 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        472 Jan 23 2008 [  21232 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     114502 Jun  8 2006 [  21248 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0      56612 Sep 24 2006 [  21184 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2006 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2006 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Aug 28 2006 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2006 [     23 02] .. 
+-r-xr-xr-x   1    0    0    1334096 Jan 25 2008 [  21312 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    1334432 Jan 25 2008 [     32 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2006 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Aug 28 2006 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2006 [     23 02] .. 
+-r-xr-xr-x   1    0    0   11145952 Jan 25 2008 [  22096 00] ASSETS.PPK 
+dr-xr-xr-x   1    0    0       2048 Nov 27 2007 [     27 02] ASSETS 
+-r-xr-xr-x   1    0    0     248608 Jan 24 2008 [  21968 00] LEGAL.PPK 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Aug 28 2006 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2006 [     24 02] .. 
+-r-xr-xr-x   1    0    0   18622480 Aug 28 2006 [   4800 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5293248 Aug 28 2006 [    704 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Aug 28 2006 [    688 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/ASSETS/
+dr-xr-xr-x   1    0    0       2048 Nov 27 2007 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 28 2006 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov 27 2007 [     28 02] AUDIO 
+
+Directory listing of /PSP_GAME/USRDIR/ASSETS/AUDIO/
+dr-xr-xr-x   1    0    0       2048 Nov 27 2007 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 27 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0    2959284 Sep 19 2006 [  36144 00] LEVEL0.AT3 
+-r-xr-xr-x   1    0    0    4632860 Sep 19 2006 [  27552 00] LEVEL1.AT3 
+-r-xr-xr-x   1    0    0    2586292 Sep 19 2006 [  29824 00] LEVEL2.AT3 
+-r-xr-xr-x   1    0    0    1579364 Sep 19 2006 [  31088 00] LEVEL3.AT3 
+-r-xr-xr-x   1    0    0    1843692 Sep 19 2006 [  31872 00] LEVEL4.AT3 
+-r-xr-xr-x   1    0    0    4149324 Sep 19 2006 [  32784 00] LEVEL5.AT3 
+-r-xr-xr-x   1    0    0    1579364 Sep 22 2006 [  34816 00] LEVEL7.AT3 
+-r-xr-xr-x   1    0    0    1099588 Sep 15 2006 [  35600 00] MENU.AT3 
+=============================================================== 
+Generated on Tue 09/08/2022 at  5:38:13.06 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

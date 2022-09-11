@@ -1,0 +1,112 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Are you Alice  
+Title ID: ULJM-05848 
+Region: Japan  
+Languages:   
+Volume Creation Date: 2011-02-17 22:14:01 
+Volume Size: 1578 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: 
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 808000
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Feb 17 2011 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 17 2011 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Oct  8 2010 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Oct  8 2010 [     31 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Oct  8 2010 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 17 2011 [     22 02] .. 
+-r-xr-xr-x   1    0    0      31325 Jan 17 2011 [ 106032 00] ICON0.PNG 
+dr-xr-xr-x   1    0    0       2048 Feb  6 2011 [     24 02] INSDIR 
+-r-xr-xr-x   1    0    0        560 Feb 16 2011 [ 106048 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     225770 Dec 10 2010 [ 106064 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Oct  8 2010 [     25 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Jan 21 2011 [     26 02] USRDIR 
+
+Directory listing of /PSP_GAME/INSDIR/
+dr-xr-xr-x   1    0    0       2048 Feb  6 2011 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  8 2010 [     23 02] .. 
+-r-xr-xr-x   1    0    0      30274 Feb 16 2011 [ 454368 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0  723949824 Feb 16 2011 [ 454384 00] MS.DNS 
+-r-xr-xr-x   1    0    0     225770 Feb 16 2011 [ 807888 00] PIC1.PNG 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Oct  8 2010 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  8 2010 [     23 02] .. 
+-r-xr-xr-x   1    0    0    3316788 Feb 17 2011 [ 104368 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    3317136 Feb 17 2011 [    544 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0        880 Oct  8 2010 [     32 00] OPNSSMP.BIN 
+dr-xr-xr-x   1    0    0       2048 Oct  8 2010 [     27 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Jan 21 2011 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  8 2010 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 Dec 10 2010 [     28 02] MODULE 
+dr-xr-xr-x   1    0    0       2048 Jan 18 2011 [     29 02] MOVIE 
+-r-xr-xr-x   1    0    0  712811984 Feb 16 2011 [ 106304 00] UMD.cpk 
+dr-xr-xr-x   1    0    0       2048 Jan 17 2011 [     30 02] icon 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Oct  8 2010 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Oct  8 2010 [     25 02] .. 
+-r-xr-xr-x   1    0    0   26091840 Oct  8 2010 [   6288 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5540576 Oct  8 2010 [   2192 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Oct  8 2010 [   2176 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/MODULE/
+dr-xr-xr-x   1    0    0       2048 Dec 10 2010 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 21 2011 [     26 02] .. 
+-r-xr-xr-x   1    0    0      26544 Dec  6 2010 [ 106000 00] libpsmfplayer.prx 
+-r-xr-xr-x   1    0    0       6832 Dec  6 2010 [ 106016 00] psmf.prx 
+
+Directory listing of /PSP_GAME/USRDIR/MOVIE/
+dr-xr-xr-x   1    0    0       2048 Jan 18 2011 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 21 2011 [     26 02] .. 
+-r-xr-xr-x   1    0    0     124928 Sep 24 2010 [  55728 00] cri.pmf 
+-r-xr-xr-x   1    0    0   35946496 Jan 18 2011 [  56176 00] ed.pmf 
+-r-xr-xr-x   1    0    0     882688 Sep 24 2010 [  54928 00] if.pmf 
+-r-xr-xr-x   1    0    0     108544 Jan  7 2011 [  55360 00] im_logo.pmf 
+-r-xr-xr-x   1    0    0     620544 Sep 24 2010 [  55424 00] ivy.pmf 
+-r-xr-xr-x   1    0    0     772096 Sep 24 2010 [  55792 00] mate.pmf 
+-r-xr-xr-x   1    0    0   26064896 Jan 10 2011 [  91632 00] op.pmf 
+-r-xr-xr-x   1    0    0   36657152 Jan 18 2011 [  73728 00] true_end.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/icon/
+dr-xr-xr-x   1    0    0       2048 Jan 17 2011 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 21 2011 [     26 02] .. 
+-r-xr-xr-x   1    0    0      31325 Jan 17 2011 [ 106176 00] SAVE_ICON0.PNG 
+-r-xr-xr-x   1    0    0     225770 Jan  5 2011 [ 106192 00] SAVE_PIC1.PNG 
+=============================================================== 
+Generated on Thu 18/08/2022 at 21:59:31.54 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

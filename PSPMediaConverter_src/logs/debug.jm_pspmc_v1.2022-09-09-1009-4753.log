@@ -1,0 +1,143 @@
+=============================================================================== 
+Setting up our binary paths . . . 
+ 
+SET DBTOOLS as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty"  
+SET IM_MASTER as "K:\GitHub\JM-Tools\app_src\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64"  
+SET LAME as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\Lame\lame.exe"  
+SET FFMPEG as "K:\GitHub\JM-Tools\app_src\PSPMediaConverter_src\bin\ffmpeg-n5.1-latest-win64-gpl-5.1\bin\ffmpeg.exe"  
+SET HNDBRK as "K:\GitHub\JM-Tools\app_src\PSPMediaConverter_src\bin\HandBrakeCLI-1.5.1-win-x86_64"  
+SET HBCLI as "HandBrakeCLI.exe"  
+SET HBMKV as "K:\GitHub\JM-Tools\app_src\PSPMediaConverter_src\bin\HandBrakeCLI-1.5.1-win-x86_64\HandBrakeCLI.exe"  
+SET FNR as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\fnr.exe"  
+SET SZ as "C:\Program Files\7-Zip\7z.exe"  
+SET DDTBEXE as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\RVDWTools\DateTimeBox.exe"  
+SET DDDBEXE as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\RVDWTools\DropDownBox.exe"  
+SET DINBEXE as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\RVDWTools\InputBox.exe"  
+SET DMGBEXE as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\RVDWTools\MessageBox.exe"  
+SET DOFBEXE as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\RVDWTools\OpenFileBox.exe"  
+SET DODBEXE as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\RVDWTools\OpenFolderBox.exe"  
+SET DPRNEXE as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\RVDWTools\PrinterSelectBox.exe"  
+SET DSVFEXE as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\RVDWTools\SaveFileBox.exe"  
+SET OPTEXE as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\optipng.exe"  
+SET CSHEXE as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\pngcrush_1_7_87_w64.exe"  
+SET IM_COMPARE as "K:\GitHub\JM-Tools\app_src\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\compare.exe"  
+SET IM_COMPOSITE as "K:\GitHub\JM-Tools\app_src\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\composite.exe"  
+SET IM_CONJURE as "K:\GitHub\JM-Tools\app_src\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\conjure.exe"  
+SET IM_CONVERT as "K:\GitHub\JM-Tools\app_src\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\convert.exe"  
+SET IM_DCRAW as "K:\GitHub\JM-Tools\app_src\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\dcraw.exe"  
+SET IM_FFMPEG as "K:\GitHub\JM-Tools\app_src\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\ffmpeg.exe"  
+SET IM_HP2XX as "K:\GitHub\JM-Tools\app_src\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\hp2xx.exe"  
+SET IM_ID as "K:\GitHub\JM-Tools\app_src\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\identify.exe"  
+SET IM_IMDISP as "K:\GitHub\JM-Tools\app_src\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\IMDisplay.exe"  
+SET IM_MAGICK as "K:\GitHub\JM-Tools\app_src\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\magick.exe"  
+SET IM_MOGRIFY as "K:\GitHub\JM-Tools\app_src\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\mogrify.exe"  
+SET IM_MONTAGE as "K:\GitHub\JM-Tools\app_src\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\montage.exe"  
+SET IM_STREAM as "K:\GitHub\JM-Tools\app_src\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\stream.exe"  
+SET HSBT_WINP as C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\HSBT\winput.exe  
+SET HSBT_WPRO as C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\HSBT\Wprompt.exe  
+SET HSBT_WSEL as C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\HSBT\Wselect.exe  
+SET HSBT_FTO as C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\HSBT\FileToOpen.exe  
+SET HSBT_FTS as C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\HSBT\FileToSave.exe  
+SET HSBT_WBOX as C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\HSBT\Wbox.exe  
+SET HSBT_WBUS as C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\HSBT\Wbusy.exe  
+SET HSBT_WDIR as C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\HSBT\Wfolder.exe  
+SET HSBT_WDIR2 as C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\HSBT\Wfolder2.exe  
+SET MKVNOTICE_IMG as explorer "C:\Program Files (x86)\Jenkins Media\JM Tools\Readme\mkvnotice.jpg"  
+ 
+Done  
+ 
+SET JMT_VIDEO_DB as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\pspmc.database.files\pspmc.database.files.videos.csv"  
+SET JMT_AUDIO_DB as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\pspmc.database.files\pspmc.database.files.audio.csv"  
+SET JMT_IMAGE_DB as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\pspmc.database.files\pspmc.database.files.images.csv"  
+=============================================================================== 
+JMDigital PSP Media Converter [jm_pspmc_v1 - v1.0.0.1 (2022-08-05)]  
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved.  
+=============================================================================== 
+ 
+ 
+ 
+Replacing data... 
+ 
+ 
+Counting lines...  
+ 
+ 
+Running FOR loop on file 
+ 
+Number of lines in selection = 10 
+ 
+If we have 1 line, most likely only 1 file was selected 
+IF 10 EQ 1 GOTO PSPMC_VIDEO_SKIPFNR 
+ 
+We detected more than 1 line in "C:\Users\Jenkins\AppData\Local\Temp\userselectedfiles.tmp" 
+ 
+Continuing... 
+ 
+Replacing data... 
+ 
+Replacing data... 
+ 
+Jenkins, please select your output folder . . .  
+ 
+Your chosen output folder is:  
+H:\_PSP  
+ 
+FILE EXISTS AS P:\TV Series\Animation\Archer\Season 1\S01E01 - Mole Hunt [1080p]_q28.mkv 
+FILED SET AS P:\TV Series\Animation\Archer\Season 1\ 
+FILEN SET AS S01E01 - Mole Hunt [1080p]_q28 
+FILEX SET AS .mkv 
+FILEZ SET AS 741535238 
+ 
+Bytes:    741535238 
+KBytes:    724156 
+SET KBYTES AS 724156 
+MBytes:    708 
+SET MBYTES AS 708 
+ 
+Converting S01E01 - Mole Hunt [1080p]_q28.mkv to S01E01 - Mole Hunt [1080p]_q28_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 23.976  
+"VHEIGHT" = 1080  
+"VWIDTH" = 1918  
+"VDAR" = 1.776  
+"VDUR" = 1292793  
+OUTFILEZKB SET AS  
+ 
+Bytes:    0 
+KBytes:    0 
+SET OUTKBYTES AS 0 
+MBytes:    0 
+SET OUTMBYTES AS 0 
+ 
+INSIZEKB = 724156 
+OUTSIZEKB = 724156-0 = 724156 
+OUTPERCKB = 724156*100 = 72415600 
+OUTPERCKB = 100/724156 = 100 
+ 
+You saved approx. 100%  
+FILENUM IS 2 out of 10 
+ 
+FILENUM1 = 200  
+ 
+TOTALPERC IS 20%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 2 out of 10 (20%) 
+Conversion took 00secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\Archer\Season 1\S01E02 - Training Day [1080p]_q28.mkv 
+FILED SET AS P:\TV Series\Animation\Archer\Season 1\ 
+FILEN SET AS S01E02 - Training Day [1080p]_q28 
+FILEX SET AS .mkv 
+FILEZ SET AS 720626008 
+ 
+Bytes:    720626008 
+KBytes:    703737 
+SET KBYTES AS 703737 

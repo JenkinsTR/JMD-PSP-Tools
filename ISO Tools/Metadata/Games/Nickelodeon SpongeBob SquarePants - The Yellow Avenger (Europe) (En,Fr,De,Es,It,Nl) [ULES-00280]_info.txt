@@ -1,0 +1,164 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Nickelodeon SpongeBob SquarePants - The Yellow Avenger   
+Title ID: ULES-00280 
+Region: Europe  
+Languages: En,Fr,De,Es,It,Nl  
+Volume Creation Date: 2006-02-23 20:15:41 
+Volume Size: 166 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: 
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 85088
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Feb 23 2006 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 23 2006 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Dec 14 2005 [     34 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 23 2006 [     22 02] .. 
+-r-xr-xr-x   1    0    0      13879 Dec  9 2005 [  21920 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     212992 Dec 20 2005 [  77184 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 Feb 24 2006 [  21904 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     101377 Dec 20 2005 [  77120 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     23 02] .. 
+-r-xr-xr-x   1    0    0    2758844 Feb 24 2006 [  21936 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    2759184 Feb 23 2006 [     48 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     27 02] Config 
+-r-xr-xr-x   1    0    0    1586304 Feb 24 2006 [  83872 00] aquabat.mif 
+-r-xr-xr-x   1    0    0     871360 Feb 24 2006 [  84656 00] bubblenet.mif 
+-r-xr-xr-x   1    0    0         11 Dec 15 2005 [  77104 00] lang.cfg 
+-r-xr-xr-x   1    0    0    1418624 Feb 24 2006 [  83168 00] mermarang.mif 
+dr-xr-xr-x   1    0    0       4096 Dec 14 2005 [     28 02] module 
+-r-xr-xr-x   1    0    0   13842432 Feb 24 2006 [  24048 00] multiplayergames.mif 
+-r-xr-xr-x   1    0    0    1055836 Feb 24 2006 [  76576 00] multiplayergames.prx 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     30 02] sndlib 
+-r-xr-xr-x   1    0    0   93671424 Feb 24 2006 [  30816 00] spongebob.mif 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     24 02] .. 
+-r-xr-xr-x   1    0    0   14809632 Dec 14 2005 [   5520 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    3951712 Dec 14 2005 [   1424 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       1772 Dec 14 2005 [   1408 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/Config/
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     25 02] .. 
+-r-xr-xr-x   1    0    0       1916 Jan 16 2006 [  76560 00] Constants.h 
+
+Directory listing of /PSP_GAME/USRDIR/module/
+dr-xr-xr-x   1    0    0       4096 Dec 14 2005 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     25 02] .. 
+-r-xr-xr-x   1    0    0       3264 Feb 24 2006 [  23296 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0      10816 Feb 24 2006 [  23312 00] ifhandle.prx 
+-r-xr-xr-x   1    0    0       1088 Feb 24 2006 [  23328 00] libadler.prx 
+-r-xr-xr-x   1    0    0      10128 Feb 24 2006 [  23344 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0       1472 Feb 24 2006 [  23360 00] libbase64.prx 
+-r-xr-xr-x   1    0    0       3520 Feb 24 2006 [  23376 00] libccc.prx 
+-r-xr-xr-x   1    0    0       4416 Feb 24 2006 [  23392 00] libdeflt.prx 
+-r-xr-xr-x   1    0    0      23488 Feb 24 2006 [  23408 00] libfont.prx 
+-r-xr-xr-x   1    0    0       3696 Feb 24 2006 [  23424 00] libfpu.prx 
+-r-xr-xr-x   1    0    0      87024 Feb 24 2006 [  23440 00] libhttp.prx 
+-r-xr-xr-x   1    0    0       2384 Feb 24 2006 [  23488 00] libmd5.prx 
+-r-xr-xr-x   1    0    0       1296 Feb 24 2006 [  23504 00] libmt19937.prx 
+-r-xr-xr-x   1    0    0       5180 Feb 24 2006 [  23520 00] libparse_http.prx 
+-r-xr-xr-x   1    0    0      15584 Feb 24 2006 [  23536 00] libparse_uri.prx 
+-r-xr-xr-x   1    0    0       1936 Feb 24 2006 [  23552 00] libqpcode.prx 
+-r-xr-xr-x   1    0    0       2576 Feb 24 2006 [  23568 00] libsha1.prx 
+-r-xr-xr-x   1    0    0      17216 Feb 24 2006 [  23584 00] memab.prx 
+-r-xr-xr-x   1    0    0      20976 Feb 24 2006 [  23600 00] mpeg.prx 
+-r-xr-xr-x   1    0    0       5136 Feb 24 2006 [  23616 00] mpegbase.prx 
+-r-xr-xr-x   1    0    0       6320 Feb 24 2006 [  23632 00] psmf.prx 
+-r-xr-xr-x   1    0    0      60360 Feb 24 2006 [  23648 00] pspnet.prx 
+-r-xr-xr-x   1    0    0      42492 Feb 24 2006 [  23680 00] pspnet_adhoc.prx 
+-r-xr-xr-x   1    0    0      11360 Feb 24 2006 [  23728 00] pspnet_adhoc_auth.prx 
+-r-xr-xr-x   1    0    0      15828 Feb 24 2006 [  23744 00] pspnet_adhoc_download.prx 
+-r-xr-xr-x   1    0    0      19688 Feb 24 2006 [  23760 00] pspnet_adhoc_matching.prx 
+-r-xr-xr-x   1    0    0      31996 Feb 24 2006 [  23712 00] pspnet_adhocctl.prx 
+-r-xr-xr-x   1    0    0       2448 Feb 24 2006 [  23808 00] pspnet_ap_dialog_dummy.prx 
+-r-xr-xr-x   1    0    0      44412 Feb 24 2006 [  23776 00] pspnet_apctl.prx 
+-r-xr-xr-x   1    0    0     239968 Feb 24 2006 [  23824 00] pspnet_inet.prx 
+-r-xr-xr-x   1    0    0      12400 Feb 24 2006 [  23952 00] pspnet_resolver.prx 
+-r-xr-xr-x   1    0    0       6864 Feb 24 2006 [  23984 00] sc_sascore.prx 
+-r-xr-xr-x   1    0    0      31824 Feb 24 2006 [  23968 00] scan.prx 
+-r-xr-xr-x   1    0    0      29536 Feb 24 2006 [  24000 00] show_macaddr.prx 
+-r-xr-xr-x   1    0    0      14928 Feb 24 2006 [  24016 00] usbpspcm.prx 
+-r-xr-xr-x   1    0    0       3440 Feb 24 2006 [  24032 00] videocodec.prx 
+
+Directory listing of /PSP_GAME/USRDIR/sndlib/
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     31 02] data 
+
+Directory listing of /PSP_GAME/USRDIR/sndlib/data/
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     31 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     30 02] .. 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     32 02] Music 
+
+Directory listing of /PSP_GAME/USRDIR/sndlib/data/Music/
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     32 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     31 02] .. 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     33 02] PSP 
+
+Directory listing of /PSP_GAME/USRDIR/sndlib/data/Music/PSP/
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     33 02] . 
+dr-xr-xr-x   1    0    0       2048 Dec 14 2005 [     32 02] .. 
+-r-xr-xr-x   1    0    0     836420 Nov 29 2005 [  77552 00] 01_residential_128.at3 
+-r-xr-xr-x   1    0    0     942068 Nov 29 2005 [  77968 00] 02_bikini_128.at3 
+-r-xr-xr-x   1    0    0    1101284 Nov 29 2005 [  78432 00] 03_downtown_128.at3 
+-r-xr-xr-x   1    0    0     924212 Nov 29 2005 [  78976 00] 04_jellyfish_128.at3 
+-r-xr-xr-x   1    0    0     578996 Nov 29 2005 [  79440 00] 05_boating_128.at3 
+-r-xr-xr-x   1    0    0     770948 Nov 29 2005 [  79728 00] 06_goo_128.at3 
+-r-xr-xr-x   1    0    0    1028372 Nov 29 2005 [  80112 00] 07_industrial_128.at3 
+-r-xr-xr-x   1    0    0     840884 Nov 29 2005 [  80624 00] 08_kelp_128.at3 
+-r-xr-xr-x   1    0    0     770948 Nov 29 2005 [  81040 00] 09_rock_128.at3 
+-r-xr-xr-x   1    0    0     537332 Nov 29 2005 [  81424 00] 10_splash_128.at3 
+-r-xr-xr-x   1    0    0     708452 Nov 29 2005 [  81696 00] 11_credits_128.at3 
+-r-xr-xr-x   1    0    0     720356 Nov 29 2005 [  82048 00] 12_boss_128.at3 
+-r-xr-xr-x   1    0    0     859484 Jan 16 2006 [  82400 00] gameplay_theme_04.at3 
+-r-xr-xr-x   1    0    0     660836 Jan 11 2006 [  82832 00] mermalair_theme_01.at3 
+-r-xr-xr-x   1    0    0     493436 Dec  2 2005 [  77296 00] sb_memstick_theme.at3 
+=============================================================== 
+Generated on Tue 09/08/2022 at  5:38:03.30 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

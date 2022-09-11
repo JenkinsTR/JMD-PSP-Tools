@@ -1,0 +1,182 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Growlanser - Wayfarer of Time  
+Title ID: ULUS-10593 
+Region: USA  
+Languages:   
+Volume Creation Date: 2012-06-10 21:38:13 
+Volume Size: 1084 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: 
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 555360
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Jun 10 2012 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 10 2012 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jan 25 2010 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Jan 25 2010 [     33 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Jan 25 2010 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Jun 10 2012 [     22 02] .. 
+-r-xr-xr-x   1    0    0      34761 Mar 30 2012 [  57696 00] ICON0.PNG 
+dr-xr-xr-x   1    0    0       2048 Jun 10 2012 [     24 02] INSDIR 
+-r-xr-xr-x   1    0    0        560 May  2 2012 [  57728 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     392639 Mar 30 2012 [  57744 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Jan 25 2010 [     25 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Jan 25 2010 [     26 02] USRDIR 
+
+Directory listing of /PSP_GAME/INSDIR/
+dr-xr-xr-x   1    0    0       2048 Jun 10 2012 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 25 2010 [     23 02] .. 
+-r-xr-xr-x   1    0    0  355460864 Jun 10 2012 [ 381792 00] DATA1.DNS 
+-r-xr-xr-x   1    0    0      34782 Jun 10 2012 [  58096 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     392639 Jun 10 2012 [ 273072 00] PIC1.PNG 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Jan 25 2010 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 25 2010 [     23 02] .. 
+-r-xr-xr-x   1    0    0    4479976 Jun 10 2012 [  55504 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    4480320 Jun 10 2012 [    560 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0        880 Jan 25 2010 [     48 00] OPNSSMP.BIN 
+dr-xr-xr-x   1    0    0       2048 Jan 25 2010 [     27 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Jan 25 2010 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 25 2010 [     23 02] .. 
+-r-xr-xr-x   1    0    0     655672 May 15 2012 [ 272736 00] gl4data.cpk 
+-r-xr-xr-x   1    0    0  349992072 Jun 10 2012 [ 101840 00] inst.cpk 
+dr-xr-xr-x   1    0    0       2048 Apr  3 2011 [     28 02] kmodule 
+dr-xr-xr-x   1    0    0       2048 Apr  3 2011 [     29 02] module 
+dr-xr-xr-x   1    0    0       4096 Apr 16 2012 [     30 02] pmf 
+dr-xr-xr-x   1    0    0       2048 Apr  3 2011 [     32 02] psmfTexture 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Jan 25 2010 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 25 2010 [     25 02] .. 
+-r-xr-xr-x   1    0    0   26876352 Jan 25 2010 [   6864 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5718512 Jan 25 2010 [   2768 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Jan 25 2010 [   2752 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/kmodule/
+dr-xr-xr-x   1    0    0       2048 Apr  3 2011 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 25 2010 [     26 02] .. 
+-r-xr-xr-x   1    0    0       3264 Jun 23 2008 [  57936 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0       3200 Jun 23 2008 [  57952 00] audiocodec_back.prx 
+-r-xr-xr-x   1    0    0      11360 Jun 23 2008 [  57968 00] pspnet_adhoc_auth.prx 
+-r-xr-xr-x   1    0    0       3808 Jun 23 2008 [  57984 00] videocodec.prx 
+-r-xr-xr-x   1    0    0       3440 Jun 23 2008 [  58000 00] videocodec_.prx 
+
+Directory listing of /PSP_GAME/USRDIR/module/
+dr-xr-xr-x   1    0    0       2048 Apr  3 2011 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 25 2010 [     26 02] .. 
+-r-xr-xr-x   1    0    0      10928 Jun 23 2008 [  58080 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0      19940 Jun 23 2008 [  58064 00] libatrac3plus_back.prx 
+-r-xr-xr-x   1    0    0      20688 Apr  9 2010 [  58016 00] libfont.prx 
+-r-xr-xr-x   1    0    0      25808 Apr  9 2010 [  58032 00] libpsmfplayer.prx 
+-r-xr-xr-x   1    0    0       6800 Apr  9 2010 [  58048 00] psmf.prx 
+
+Directory listing of /PSP_GAME/USRDIR/pmf/
+dr-xr-xr-x   1    0    0       4096 Apr 16 2012 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 25 2010 [     26 02] .. 
+-r-xr-xr-x   1    0    0     497664 Feb 22 2011 [  58128 00] z000.pmf 
+-r-xr-xr-x   1    0    0     843776 Feb 22 2011 [  58384 00] z001.pmf 
+-r-xr-xr-x   1    0    0     782336 Feb 22 2011 [  58800 00] z002.pmf 
+-r-xr-xr-x   1    0    0    1427456 Feb 22 2011 [  59184 00] z003.pmf 
+-r-xr-xr-x   1    0    0     419840 Feb 22 2011 [  59888 00] z004.pmf 
+-r-xr-xr-x   1    0    0    1443840 Feb 22 2011 [  60096 00] z005.pmf 
+-r-xr-xr-x   1    0    0     251904 Feb 22 2011 [  60816 00] z006.pmf 
+-r-xr-xr-x   1    0    0    1824768 Feb 28 2011 [  60944 00] z007.pmf 
+-r-xr-xr-x   1    0    0     358400 Feb 22 2011 [  61840 00] z008.pmf 
+-r-xr-xr-x   1    0    0    1759232 Apr 13 2011 [  62016 00] z009.pmf 
+-r-xr-xr-x   1    0    0     421888 Feb 22 2011 [  62880 00] z010.pmf 
+-r-xr-xr-x   1    0    0     978944 Feb 22 2011 [  63088 00] z011.pmf 
+-r-xr-xr-x   1    0    0     294912 Feb 22 2011 [  63568 00] z012.pmf 
+-r-xr-xr-x   1    0    0    2523136 Feb 22 2011 [  63712 00] z013.pmf 
+-r-xr-xr-x   1    0    0     540672 Feb 22 2011 [  64944 00] z014.pmf 
+-r-xr-xr-x   1    0    0    1929216 Feb 22 2011 [  65216 00] z015.pmf 
+-r-xr-xr-x   1    0    0     253952 Feb 22 2011 [  66160 00] z016.pmf 
+-r-xr-xr-x   1    0    0    2150400 Feb 22 2011 [  66288 00] z017.pmf 
+-r-xr-xr-x   1    0    0     393216 Feb 22 2011 [  67344 00] z018.pmf 
+-r-xr-xr-x   1    0    0     425984 Feb 22 2011 [  67536 00] z019.pmf 
+-r-xr-xr-x   1    0    0     456704 Apr 20 2011 [  67744 00] z020.pmf 
+-r-xr-xr-x   1    0    0     110592 Feb 22 2011 [  67968 00] z021.pmf 
+-r-xr-xr-x   1    0    0     167936 Feb 22 2011 [  68032 00] z022.pmf 
+-r-xr-xr-x   1    0    0   11872256 Apr 15 2012 [  68128 00] z023.pmf 
+-r-xr-xr-x   1    0    0   43708416 May 15 2012 [  73936 00] z024.pmf 
+-r-xr-xr-x   1    0    0     636928 Mar  8 2011 [  95280 00] z025.pmf 
+-r-xr-xr-x   1    0    0    1568768 Jun  8 2010 [  95600 00] z029.pmf 
+-r-xr-xr-x   1    0    0    1865728 Jun  8 2010 [  96368 00] z030.pmf 
+-r-xr-xr-x   1    0    0    1875968 Jun  8 2010 [  97280 00] z031.pmf 
+-r-xr-xr-x   1    0    0    2981888 Jun  8 2010 [  98208 00] z032.pmf 
+-r-xr-xr-x   1    0    0    2662400 Jun  8 2010 [ 100528 00] z033.pmf 
+-r-xr-xr-x   1    0    0    1765376 Jun  8 2010 [  99664 00] z034.pmf 
+-r-xr-xr-x   1    0    0    1533952 Jun  8 2010 [ 273264 00] z035.pmf 
+-r-xr-xr-x   1    0    0     688128 Feb 22 2011 [ 274016 00] z036.pmf 
+-r-xr-xr-x   1    0    0   24358912 May 23 2011 [ 274352 00] z037.pmf 
+-r-xr-xr-x   1    0    0   15230976 Apr 15 2012 [ 286256 00] z039.pmf 
+-r-xr-xr-x   1    0    0   15443968 Apr 15 2012 [ 293696 00] z040.pmf 
+-r-xr-xr-x   1    0    0    1687552 Apr 16 2012 [ 301248 00] z041.pmf 
+-r-xr-xr-x   1    0    0    2048000 Apr 16 2012 [ 302080 00] z042.pmf 
+-r-xr-xr-x   1    0    0    1675264 Apr 16 2012 [ 303088 00] z043.pmf 
+-r-xr-xr-x   1    0    0    1617920 Apr 16 2012 [ 303920 00] z044.pmf 
+-r-xr-xr-x   1    0    0   18485248 Apr 16 2012 [ 304720 00] z045.pmf 
+-r-xr-xr-x   1    0    0   11776000 Apr 16 2012 [ 313760 00] z046.pmf 
+-r-xr-xr-x   1    0    0    1452032 Apr 16 2012 [ 319520 00] z047.pmf 
+-r-xr-xr-x   1    0    0    4935680 Apr 16 2012 [ 320240 00] z048.pmf 
+-r-xr-xr-x   1    0    0    4960256 Apr 16 2012 [ 322656 00] z049.pmf 
+-r-xr-xr-x   1    0    0    4956160 Apr 16 2012 [ 325088 00] z050.pmf 
+-r-xr-xr-x   1    0    0    4937728 Apr 16 2012 [ 327520 00] z051.pmf 
+-r-xr-xr-x   1    0    0    8439808 Apr 16 2012 [ 329936 00] z052.pmf 
+-r-xr-xr-x   1    0    0    1552384 Apr 16 2012 [ 334064 00] z053.pmf 
+-r-xr-xr-x   1    0    0    3584000 Apr 16 2012 [ 334832 00] z054.pmf 
+-r-xr-xr-x   1    0    0    3555328 Apr 16 2012 [ 336592 00] z055.pmf 
+-r-xr-xr-x   1    0    0    3586048 Apr 16 2012 [ 338336 00] z056.pmf 
+-r-xr-xr-x   1    0    0    3596288 Apr 16 2012 [ 344112 00] z057.pmf 
+-r-xr-xr-x   1    0    0    8194048 Apr 16 2012 [ 340096 00] z058.pmf 
+-r-xr-xr-x   1    0    0    8439808 Apr 16 2012 [ 365280 00] z059.pmf 
+-r-xr-xr-x   1    0    0    8445952 Apr 16 2012 [ 369408 00] z060.pmf 
+-r-xr-xr-x   1    0    0    8437760 Apr 16 2012 [ 377664 00] z061.pmf 
+-r-xr-xr-x   1    0    0    8433664 Apr 16 2012 [ 373536 00] z062.pmf 
+-r-xr-xr-x   1    0    0    8433664 Apr 16 2012 [ 345872 00] z063.pmf 
+-r-xr-xr-x   1    0    0    8437760 Apr 16 2012 [ 350000 00] z064.pmf 
+-r-xr-xr-x   1    0    0    8435712 Apr 16 2012 [ 354128 00] z065.pmf 
+-r-xr-xr-x   1    0    0    3579904 Apr 16 2012 [ 358256 00] z066.pmf 
+-r-xr-xr-x   1    0    0    3555328 Apr 16 2012 [ 360016 00] z067.pmf 
+-r-xr-xr-x   1    0    0    3584000 Apr 16 2012 [ 361760 00] z068.pmf 
+-r-xr-xr-x   1    0    0    3592192 Apr 16 2012 [ 363520 00] z069.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/psmfTexture/
+dr-xr-xr-x   1    0    0       2048 Apr  3 2011 [     32 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 25 2010 [     26 02] .. 
+=============================================================== 
+Generated on Mon 22/08/2022 at 12:44:42.41 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

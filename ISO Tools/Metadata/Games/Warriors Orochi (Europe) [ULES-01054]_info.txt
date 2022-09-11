@@ -1,0 +1,117 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Warriors Orochi   
+Title ID: ULES-01054 
+Region: Europe  
+Languages:   
+Volume Creation Date: 2008-01-23 11:14:47 
+Volume Size: 864 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: 
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 442528
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Jan 23 2008 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 23 2008 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jan 10 2008 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Jan 23 2008 [     30 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Jan 10 2008 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 23 2008 [     22 02] .. 
+-r-xr-xr-x   1    0    0      20301 Jan  8 2008 [  54636 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0     196608 Jan 16 2008 [  54646 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0        472 Jan 23 2008 [  54589 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      96517 Jan  8 2008 [  54742 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0      68192 Nov 23 2007 [  54790 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0     312644 Nov 23 2007 [  54824 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 Jan 23 2008 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Jan 23 2008 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Jan 23 2008 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 10 2008 [     23 02] .. 
+-r-xr-xr-x   1    0    0    2676788 Jan 23 2008 [  96561 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    2677136 Jan 23 2008 [     31 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Jan 23 2008 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Jan 23 2008 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 10 2008 [     23 02] .. 
+-r-xr-xr-x   1    0    0  468568064 Jan 23 2008 [ 213724 00] LINKDATA.BNS 
+-r-xr-xr-x   1    0    0     602112 Jan 23 2008 [  54977 00] LINKDATA.DNS 
+dr-xr-xr-x   1    0    0       2048 Jan 23 2008 [     27 02] modules 
+dr-xr-xr-x   1    0    0       2048 Jan 23 2008 [     28 02] movie 
+dr-xr-xr-x   1    0    0       2048 Jan 23 2008 [     29 02] sound 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Jan 23 2008 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 23 2008 [     24 02] .. 
+-r-xr-xr-x   1    0    0   18622480 Jan 23 2008 [   5437 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5293248 Jan 23 2008 [   1341 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Jan 23 2008 [   1339 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/modules/
+dr-xr-xr-x   1    0    0       2048 Jan 23 2008 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 23 2008 [     25 02] .. 
+-r-xr-xr-x   1    0    0       3200 Sep  3 2005 [  54590 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0      20288 Sep  3 2005 [  54592 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0       4048 Oct 16 2007 [  54602 00] libdeflt.prx 
+-r-xr-xr-x   1    0    0      46160 Sep  3 2005 [  54604 00] mpeg.prx 
+-r-xr-xr-x   1    0    0       5792 Sep  3 2005 [  54627 00] mpegbase.prx 
+-r-xr-xr-x   1    0    0       6400 Sep  3 2005 [  54630 00] sc_sascore.prx 
+-r-xr-xr-x   1    0    0       4016 Sep  3 2005 [  54634 00] videocodec.prx 
+
+Directory listing of /PSP_GAME/USRDIR/movie/
+dr-xr-xr-x   1    0    0       2048 Jan 23 2008 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 23 2008 [     25 02] .. 
+-r-xr-xr-x   1    0    0    1083392 Jan  4 2008 [  96032 00] bg0.pmf 
+-r-xr-xr-x   1    0    0    1105920 Jan  4 2008 [  55272 00] bg1.pmf 
+-r-xr-xr-x   1    0    0    1079296 Jan  4 2008 [  55812 00] bg2.pmf 
+-r-xr-xr-x   1    0    0    1093632 Jan  4 2008 [  56339 00] bg3.pmf 
+-r-xr-xr-x   1    0    0    7763968 Jan  4 2008 [  56873 00] ending0.pmf 
+-r-xr-xr-x   1    0    0   10426368 Jan  4 2008 [  60664 00] ending1.pmf 
+-r-xr-xr-x   1    0    0    7170048 Jan  4 2008 [  65755 00] ending2.pmf 
+-r-xr-xr-x   1    0    0    8976384 Jan  4 2008 [  69256 00] ending3.pmf 
+-r-xr-xr-x   1    0    0     378880 Jan  4 2008 [  73639 00] koeilogo.pmf 
+-r-xr-xr-x   1    0    0     419840 Jan  4 2008 [  73824 00] omegalogo.pmf 
+-r-xr-xr-x   1    0    0   13633536 Jan  4 2008 [  74029 00] opening.pmf 
+-r-xr-xr-x   1    0    0   19230720 Jan 11 2008 [  80686 00] staffroll.pmf 
+-r-xr-xr-x   1    0    0   12197888 Jan  4 2008 [  90076 00] title.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/sound/
+dr-xr-xr-x   1    0    0       2048 Jan 23 2008 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 23 2008 [     25 02] .. 
+-r-xr-xr-x   1    0    0   51736576 Aug  7 2007 [  97869 00] bgm.bns 
+-r-xr-xr-x   1    0    0   40042496 Nov 26 2007 [ 123131 00] voice.bns 
+=============================================================== 
+Generated on Wed 10/08/2022 at 20:04:28.49 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

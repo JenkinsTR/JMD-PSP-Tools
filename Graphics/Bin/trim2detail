@@ -1,0 +1,278 @@
+#!/bin/bash
+#
+# Developed by Fred Weinhaus 8/24/2019 .......... revised 8/24/2019
+#
+# ------------------------------------------------------------------------------
+# 
+# Licensing:
+# 
+# Copyright © Fred Weinhaus
+# 
+# My scripts are available free of charge for non-commercial use, ONLY.
+# 
+# For use of my scripts in commercial (for-profit) environments or 
+# non-free applications, please contact me (Fred Weinhaus) for 
+# licensing arrangements. My email address is fmw at alink dot net.
+# 
+# If you: 1) redistribute, 2) incorporate any of these scripts into other 
+# free applications or 3) reprogram them in another scripting language, 
+# then you must contact me for permission, especially if the result might 
+# be used in a commercial or for-profit environment.
+# 
+# My scripts are also subject, in a subordinate manner, to the ImageMagick 
+# license, which can be found at: http://www.imagemagick.org/script/license.php
+# 
+# ------------------------------------------------------------------------------
+# 
+####
+#
+# USAGE: trim2detail [-e edgewidth] [-t1 thresh1] [-t2 thresh2] [-p pad] [-a area] 
+# infile outfile
+# USAGE: trim2detail [-h or -help]
+#
+# OPTIONS:
+#
+# -e      edgewidth     width argument for Canny edge detection; float>0; default=1
+# -t1     thresh1       lower hysteresis (percent) threshold for Canny edge detection; 
+#                       0<=integer<=100; default=10
+# -t2     thresh2       upper hysteresis (percent) threshold for Canny edge detection; 
+#                       0<=integer<=100; default=30
+# -p      pad           pad amount; integer>=0; default=5
+# -a      area          area of connected components in order to remove small regions;
+#                       integer>=0; default=0
+#
+###
+#
+# NAME: TRIM2DETAIL 
+# 
+# PURPOSE: To trim an image to the bounding rectangle about the image's main content.
+# 
+# DESCRIPTION: TRIM2DETAIL trims an image to the bounding rectangle about the images' 
+# main content using Canny edges as a measure of content detail. This script is only 
+# designed to work when the background region is of slowly varying content with little 
+# to no detail, such as gradual shadowing.
+# 
+# 
+# OPTIONS: 
+# 
+# -e edgewidth ... EDGEWIDTH is the width argument for canny edge detection. Values 
+# are float>0. The default=1.
+# 
+# -t1 thresh1 ... THRESH1 is the lower hysteresis (percent) threshold for canny 
+# edge detection. Values are 0<=integer<=100. The default=10.
+# 
+# -t2 thresh2 ... THRESH2 is the lower hysteresis (percent) threshold for canny 
+# edge detection. Values are 0<=integer<=100. The default=30.
+# 
+# -p pad ... PAD amount. Values are integer>=0. The default=5
+# 
+# -a area ... AREA of connected components in order to remove small regions. Values 
+# are integer>=0. The default=0.
+# 
+# REQUIREMENTS: Requires Imagemagick 6.8.9-0 or higher for Canny edge detection.
+# 
+# CAVEAT: No guarantee that this script will work on all platforms, 
+# nor that trapping of inconsistent parameters is complete and 
+# foolproof. Use At Your Own Risk. 
+# 
+######
+#
+
+# set default values
+edgewidth=1
+thresh1=10
+thresh2=30
+pad=5
+area=0
+
+# set directory for temporary files
+dir="."    # suggestions are dir="." or dir="/tmp"
+
+
+# set up functions to report Usage and Usage with Description
+PROGNAME=`type $0 | awk '{print $3}'`  # search for executable on path
+PROGDIR=`dirname $PROGNAME`            # extract directory of program
+PROGNAME=`basename $PROGNAME`          # base name of program
+usage1() 
+	{
+	echo >&2 ""
+	echo >&2 "$PROGNAME:" "$@"
+	sed >&2 -e '1,/^####/d;  /^###/g;  /^#/!q;  s/^#//;  s/^ //;  4,$p' "$PROGDIR/$PROGNAME"
+	}
+usage2() 
+	{
+	echo >&2 ""
+	echo >&2 "$PROGNAME:" "$@"
+	sed >&2 -e '1,/^####/d;  /^######/g;  /^#/!q;  s/^#*//;  s/^ //;  4,$p' "$PROGDIR/$PROGNAME"
+	}
+
+
+# function to report error messages
+errMsg()
+	{
+	echo ""
+	echo $1
+	echo ""
+	usage1
+	exit 1
+	}
+
+
+# function to test for minus at start of value of second part of option 1 or 2
+checkMinus()
+	{
+	test=`echo "$1" | grep -c '^-.*$'`   # returns 1 if match; 0 otherwise
+    [ $test -eq 1 ] && errMsg "$errorMsg"
+	}
+
+# test for correct number of arguments and get values
+if [ $# -eq 0 ]
+	then
+	# help information
+   echo ""
+   usage2
+   exit 0
+elif [ $# -gt 12 ]
+	then
+	errMsg "--- TOO MANY ARGUMENTS WERE PROVIDED ---"
+else
+	while [ $# -gt 0 ]
+		do
+			# get parameter values
+			case "$1" in
+		  -h|-help)    # help information
+					   echo ""
+					   usage2
+					   exit 0
+					   ;;
+				-e)    # edgewidth
+					   shift  # to get the next parameter - fuzzval
+					   # test if parameter starts with minus sign 
+					   errorMsg="--- INVALID EDGEWIDTH SPECIFICATION ---"
+					   checkMinus "$1"
+					   edgewidth=`expr "$1" : '\([.0-9]*\)'`
+					   [ "$edgewidth" = "" ] && errMsg "--- EDGEWIDTH=$edgewidth MUST BE A NON-NEGATIVE FLOATING POINT VALUE (with no sign) ---"
+					   edgewidth=`echo "$edgewidth == 0" | bc`
+					   [ $test -eq 1 ] && errMsg "--- EDGEWIDTH=$edgewidth MUST BE A POSITIVE FLOATING POINT VALUE ---"
+					   ;;
+			   -t1)    # get thresh1
+					   shift  # to get the next parameter
+					   # test if parameter starts with minus sign 
+					   errorMsg="--- INVALID THRESH1 SPECIFICATION ---"
+					   checkMinus "$1"
+					   thresh1=`expr "$1" : '\([0-9]*\)'`
+					   [ "$thresh1" = "" ] && errMsg "--- THRESH1=$thresh1 MUST BE A NON-NEGATIVE INTEGER VALUE (with no sign) ---"
+					   test=`echo "$thresh1 > 100" | bc`
+					   [ $test -eq 1 ] && errMsg "--- THRESH1=$thresh1 MUST BE AN INTEGER BETWEEN 0 AND 100 ---"
+					   ;;
+			   -t2)    # get thresh2
+					   shift  # to get the next parameter
+					   # test if parameter starts with minus sign 
+					   errorMsg="--- INVALID THRESH2 SPECIFICATION ---"
+					   checkMinus "$1"
+					   thresh2=`expr "$1" : '\([0-9]*\)'`
+					   [ "$thresh2" = "" ] && errMsg "--- THRESH2=$thresh2 MUST BE A NON-NEGATIVE INTEGER VALUE (with no sign) ---"
+					   test=`echo "$thresh2 > 100" | bc`
+					   [ $test -eq 1 ] && errMsg "--- THRESH2=$thresh2 MUST BE AN INTEGER BETWEEN 0 AND 100 ---"
+					   ;;
+				-p)    # pad
+					   shift  # to get the next parameter - fuzzval
+					   # test if parameter starts with minus sign 
+					   errorMsg="--- INVALID PAD SPECIFICATION ---"
+					   checkMinus "$1"
+					   pad=`expr "$1" : '\([0-9]*\)'`
+					   [ "$pad" = "" ] && errMsg "--- PAD=$pad MUST BE A NON-NEGATIVE INTEGER (with no sign) ---"
+					   ;;
+				-a)    # area
+					   shift  # to get the next parameter - fuzzval
+					   # test if parameter starts with minus sign 
+					   errorMsg="--- INVALID AREA SPECIFICATION ---"
+					   checkMinus "$1"
+					   area=`expr "$1" : '\([0-9]*\)'`
+					   [ "$area" = "" ] && errMsg "--- AREA=$area MUST BE A NON-NEGATIVE INTEGER (with no sign) ---"
+					   ;;
+				 -)    # STDIN and end of arguments
+					   break
+					   ;;
+				-*)    # any other - argument
+					   errMsg "--- UNKNOWN OPTION ---"
+					   ;;
+				*)     # end of arguments
+					   break
+					   ;;
+			esac
+			shift   # next option
+	done
+	#
+	# get infile and outfile
+	infile="$1"
+	outfile="$2"
+fi
+
+
+# test that infile provided
+[ "$infile" = "" ] && errMsg "NO INPUT FILE SPECIFIED"
+
+# test that outfile provided
+[ "$outfile" = "" ] && errMsg "NO OUTPUT FILE SPECIFIED"
+
+# setup temporary images and auto delete upon exit
+# use mpc/cache to hold input image temporarily in memory
+tmpA1="$dir/trim2detail_$$.mpc"
+tmpA2="$dir/trim2detail_$$.cache"
+trap "rm -f $tmpA1 $tmpA2;" 0
+trap "rm -f $tmpA1 $tmpA2; exit 1" 1 2 3 15
+#trap "rm -f $tmpA1 $tmpA2; exit 1" ERR
+
+convert -quiet "$infile" +repage $tmpA1 ||
+	errMsg "--- FILE $infile DOES NOT EXIST OR IS NOT AN ORDINARY FILE, NOT READABLE OR HAS ZERO SIZE  ---"
+
+# get im_version
+im_version=`convert -list configure | \
+	sed '/^LIB_VERSION_NUMBER */!d; s//,/;  s/,/,0/g;  s/,0*\([0-9][0-9]\)/\1/g' | head -n 1`
+
+if [ $area -ne 0 ]; then
+	cropvals=`convert $tmpA1 -canny 0x${edgewidth}+${thresh1}%+${thresh2}% -type bilevel \
+	-define connected-components:mean-color=true \
+	-define connected-components:area-threshold=$area \
+	-connected-components 4 \
+	-format "%@" info:`
+	
+	if [ $pad -ne 0 ]; then
+		cropvals=`echo $cropvals | tr "x" "+"`
+		ww=`echo $cropvals | cut -d+ -f1`
+		hh=`echo $cropvals | cut -d+ -f2`
+		xo=`echo $cropvals | cut -d+ -f3`
+		yo=`echo $cropvals | cut -d+ -f4`
+		ww=$((ww+2*pad))
+		hh=$((hh+2*pad))
+		xo=$((xo-pad))
+		yo=$((yo-pad))
+		cropvals="${ww}x${hh}+${xo}+${yo}"	
+		convert $tmpA1 -crop $cropvals +repage "$outfile"
+	else
+		convert $tmpA1 -crop $cropvals +repage "$outfile"
+	fi
+	
+else
+	cropvals=`convert $tmpA1 -canny 0x${edgewidth}+${thresh1}%+${thresh2}% -format "%@" info:`
+	
+	if [ $pad -ne 0 ]; then
+		cropvals=`echo $cropvals | tr "x" "+"`
+		ww=`echo $cropvals | cut -d+ -f1`
+		hh=`echo $cropvals | cut -d+ -f2`
+		xo=`echo $cropvals | cut -d+ -f3`
+		yo=`echo $cropvals | cut -d+ -f4`
+		ww=$((ww+2*pad))
+		hh=$((hh+2*pad))
+		xo=$((xo-pad))
+		yo=$((yo-pad))
+		cropvals="${ww}x${hh}+${xo}+${yo}"	
+		convert $tmpA1 -crop $cropvals +repage "$outfile"
+	else
+		convert $tmpA1 -crop $cropvals +repage "$outfile"
+	fi
+fi
+
+exit 0
+

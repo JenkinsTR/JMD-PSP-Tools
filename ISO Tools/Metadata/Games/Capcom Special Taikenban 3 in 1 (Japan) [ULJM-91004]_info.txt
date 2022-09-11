@@ -1,0 +1,304 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Capcom Special Taikenban 3 in 1  
+Title ID: ULJM-91004 
+Region: Japan  
+Languages:   
+Volume Creation Date: 2006-05-26 10:37:35 
+Volume Size: 126 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: CAPCOM_TRIAL
+Volume set id: CAPCOM_TRIAL
+Publisher id: CAPCOM
+Data preparer id: CAPCOM
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 64880
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 May 26 2006 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 May 26 2006 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 May 25 2006 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 May 25 2006 [     49 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 May 25 2006 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 May 26 2006 [     22 02] .. 
+-r-xr-xr-x   1    0    0      12764 May 24 2006 [  21392 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        472 May 26 2006 [  21408 00] PARAM.SFO 
+dr-xr-xr-x   1    0    0       2048 May 25 2006 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 May 25 2006 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 May 25 2006 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 May 25 2006 [     23 02] .. 
+-r-xr-xr-x   1    0    0     845736 May 26 2006 [  20976 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0     846080 May 26 2006 [     64 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 May 25 2006 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 May 25 2006 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 May 25 2006 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 May 26 2006 [     27 02] CCC 
+dr-xr-xr-x   1    0    0       2048 May 26 2006 [     28 02] GM 
+dr-xr-xr-x   1    0    0       2048 May 26 2006 [     29 02] LAUNCHER 
+dr-xr-xr-x   1    0    0       2048 May 26 2006 [     30 02] PS 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 May 25 2006 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 May 25 2006 [     24 02] .. 
+-r-xr-xr-x   1    0    0   14809632 May 25 2006 [   4592 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    3951712 May 25 2006 [    496 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       1772 May 25 2006 [    480 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/CCC/
+dr-xr-xr-x   1    0    0       2048 May 26 2006 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 May 25 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0    1571416 May 26 2006 [  21424 00] CCC.PRX 
+dr-xr-xr-x   1    0    0       2048 May 26 2006 [     31 02] COMMON_SOUND 
+-r-xr-xr-x   1    0    0    1083732 May 26 2006 [  22448 00] DATA.DPC 
+dr-xr-xr-x   1    0    0       2048 May 26 2006 [     32 02] KMODULE 
+dr-xr-xr-x   1    0    0       2048 May 26 2006 [     33 02] MODULE 
+dr-xr-xr-x   1    0    0       2048 May 26 2006 [     34 02] PSX_DATA 
+
+Directory listing of /PSP_GAME/USRDIR/GM/
+dr-xr-xr-x   1    0    0       2048 May 26 2006 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 May 25 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0    5544744 May 26 2006 [  52704 00] GM.PRX 
+-r-xr-xr-x   1    0    0   47939584 May 26 2006 [  29296 00] datapack.kpd 
+dr-xr-xr-x   1    0    0       2048 May 25 2006 [     35 02] module 
+dr-xr-xr-x   1    0    0       2048 May 25 2006 [     36 02] movie 
+
+Directory listing of /PSP_GAME/USRDIR/LAUNCHER/
+dr-xr-xr-x   1    0    0       2048 May 26 2006 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 May 25 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0    1738752 May 26 2006 [  56400 00] LAUNCHER.KPD 
+dr-xr-xr-x   1    0    0       2048 May 25 2006 [     37 02] module 
+
+Directory listing of /PSP_GAME/USRDIR/PS/
+dr-xr-xr-x   1    0    0       2048 May 26 2006 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 May 25 2006 [     25 02] .. 
+-r-xr-xr-x   1    0    0    6837480 May 26 2006 [  61536 00] PS.PRX 
+dr-xr-xr-x   1    0    0       2048 May 25 2006 [     38 02] jpn 
+dr-xr-xr-x   1    0    0       2048 May 26 2006 [     39 02] module 
+
+Directory listing of /PSP_GAME/USRDIR/CCC/COMMON_SOUND/
+dr-xr-xr-x   1    0    0       2048 May 26 2006 [     31 02] . 
+dr-xr-xr-x   1    0    0       2048 May 26 2006 [     27 02] .. 
+-r-xr-xr-x   1    0    0     270960 Mar  6 2006 [  22192 00] COMMON_SE.DAT 
+-r-xr-xr-x   1    0    0     197844 Feb 16 2006 [  22336 00] COMMU_BGM.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/CCC/KMODULE/
+dr-xr-xr-x   1    0    0       2048 May 26 2006 [     32 02] . 
+dr-xr-xr-x   1    0    0       2048 May 26 2006 [     27 02] .. 
+-r-xr-xr-x   1    0    0       3264 Dec  8 2005 [  22992 00] AUDIOCODEC.PRX 
+-r-xr-xr-x   1    0    0       5136 Dec  8 2005 [  23008 00] MPEGBASE.PRX 
+-r-xr-xr-x   1    0    0       6864 Dec  8 2005 [  23024 00] SC_SASCORE.PRX 
+-r-xr-xr-x   1    0    0       3440 Dec  8 2005 [  23040 00] VIDEOCODEC.PRX 
+
+Directory listing of /PSP_GAME/USRDIR/CCC/MODULE/
+dr-xr-xr-x   1    0    0       2048 May 26 2006 [     33 02] . 
+dr-xr-xr-x   1    0    0       2048 May 26 2006 [     27 02] .. 
+-r-xr-xr-x   1    0    0      10128 Dec  8 2005 [  23056 00] LIBATRAC3PLUS.PRX 
+-r-xr-xr-x   1    0    0       4416 Dec  8 2005 [  23072 00] LIBDEFLT.PRX 
+-r-xr-xr-x   1    0    0      23488 Dec  8 2005 [  23088 00] LIBFONT.PRX 
+-r-xr-xr-x   1    0    0       1296 Dec  8 2005 [  23104 00] LIBMT19937.PRX 
+-r-xr-xr-x   1    0    0      20976 Dec  8 2005 [  23120 00] MPEG.PRX 
+-r-xr-xr-x   1    0    0       6320 Dec  8 2005 [  23136 00] PSMF.PRX 
+
+Directory listing of /PSP_GAME/USRDIR/CCC/PSX_DATA/
+dr-xr-xr-x   1    0    0       2048 May 26 2006 [     34 02] . 
+dr-xr-xr-x   1    0    0       2048 May 26 2006 [     27 02] .. 
+-r-xr-xr-x   1    0    0       6894 Jul 13 2005 [  23152 00] 43CARD.DEE 
+-r-xr-xr-x   1    0    0       3407 Jul 13 2005 [  23168 00] 43CHAR7.DEE 
+-r-xr-xr-x   1    0    0      54473 Jul 13 2005 [  23184 00] 43LDG.DEE 
+-r-xr-xr-x   1    0    0   10634880 Dec  6 2005 [  23216 00] BGM.DAT 
+-r-xr-xr-x   1    0    0      17924 Jul 13 2005 [  28416 00] CHAR.DEE 
+-r-xr-xr-x   1    0    0       4998 Jul 13 2005 [  28432 00] FONT16.DEE 
+dr-xr-xr-x   1    0    0       2048 May 25 2006 [     40 02] MENU 
+-r-xr-xr-x   1    0    0      27314 Jul 13 2005 [  28560 00] OBJ01.DEE 
+-r-xr-xr-x   1    0    0      24985 Jul 13 2005 [  28576 00] OBJ23.DEE 
+-r-xr-xr-x   1    0    0      28192 Jul 13 2005 [  28592 00] OBJ45.DEE 
+-r-xr-xr-x   1    0    0      29153 Jul 13 2005 [  28608 00] OBJ67.DEE 
+-r-xr-xr-x   1    0    0     522496 Jul 13 2005 [  28624 00] P1943.VAB 
+-r-xr-xr-x   1    0    0      21666 Jul 13 2005 [  28880 00] SCRLL0.DEE 
+-r-xr-xr-x   1    0    0      28277 Jul 13 2005 [  28896 00] SCRLL1.DEE 
+-r-xr-xr-x   1    0    0      28998 Jul 13 2005 [  28912 00] SCRLL2.DEE 
+-r-xr-xr-x   1    0    0      27764 Jul 13 2005 [  28928 00] SCRLL3.DEE 
+-r-xr-xr-x   1    0    0      38789 Jul 13 2005 [  28944 00] SCRLL4.DEE 
+-r-xr-xr-x   1    0    0     519792 Apr 24 2006 [  28976 00] SE.DAT 
+-r-xr-xr-x   1    0    0     121912 Jul 13 2005 [  29232 00] SEQ.PAC 
+
+Directory listing of /PSP_GAME/USRDIR/GM/module/
+dr-xr-xr-x   1    0    0       2048 May 25 2006 [     35 02] . 
+dr-xr-xr-x   1    0    0       2048 May 26 2006 [     28 02] .. 
+-r-xr-xr-x   1    0    0       3264 Dec  8 2005 [  55424 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0      10128 Dec  8 2005 [  55440 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0      35632 Dec  8 2005 [  55456 00] libpsmfplayer.prx 
+-r-xr-xr-x   1    0    0      20976 Dec  8 2005 [  55488 00] mpeg.prx 
+-r-xr-xr-x   1    0    0       5136 Dec  8 2005 [  55504 00] mpegbase.prx 
+-r-xr-xr-x   1    0    0       6320 Dec  8 2005 [  55520 00] psmf.prx 
+-r-xr-xr-x   1    0    0       6864 Dec  8 2005 [  55536 00] sc_sascore.prx 
+-r-xr-xr-x   1    0    0       3440 Dec  8 2005 [  55552 00] videocodec.prx 
+
+Directory listing of /PSP_GAME/USRDIR/GM/movie/
+dr-xr-xr-x   1    0    0       2048 May 25 2006 [     36 02] . 
+dr-xr-xr-x   1    0    0       2048 May 26 2006 [     28 02] .. 
+-r-xr-xr-x   1    0    0    1679360 Apr 21 2006 [  55568 00] mv01.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/LAUNCHER/module/
+dr-xr-xr-x   1    0    0       2048 May 25 2006 [     37 02] . 
+dr-xr-xr-x   1    0    0       2048 May 26 2006 [     29 02] .. 
+-r-xr-xr-x   1    0    0       3264 Dec  8 2005 [  57264 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0      10128 Dec  8 2005 [  57280 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0      35632 Dec  8 2005 [  57296 00] libpsmfplayer.prx 
+-r-xr-xr-x   1    0    0      20976 Dec  8 2005 [  57328 00] mpeg.prx 
+-r-xr-xr-x   1    0    0       5136 Dec  8 2005 [  57344 00] mpegbase.prx 
+-r-xr-xr-x   1    0    0       6320 Dec  8 2005 [  57360 00] psmf.prx 
+-r-xr-xr-x   1    0    0       6864 Dec  8 2005 [  57376 00] sc_sascore.prx 
+-r-xr-xr-x   1    0    0       3440 Dec  8 2005 [  57392 00] videocodec.prx 
+
+Directory listing of /PSP_GAME/USRDIR/PS/jpn/
+dr-xr-xr-x   1    0    0       2048 May 25 2006 [     38 02] . 
+dr-xr-xr-x   1    0    0       2048 May 26 2006 [     30 02] .. 
+dr-xr-xr-x   1    0    0       2048 May 26 2006 [     41 02] data 
+
+Directory listing of /PSP_GAME/USRDIR/PS/module/
+dr-xr-xr-x   1    0    0       2048 May 26 2006 [     39 02] . 
+dr-xr-xr-x   1    0    0       2048 May 26 2006 [     30 02] .. 
+-r-xr-xr-x   1    0    0       3264 Dec  8 2005 [  61472 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0      10128 Dec  8 2005 [  61488 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0      23488 Dec  8 2005 [  61504 00] libfont.prx 
+-r-xr-xr-x   1    0    0       6864 Dec  8 2005 [  61520 00] sc_sascore.prx 
+
+Directory listing of /PSP_GAME/USRDIR/CCC/PSX_DATA/MENU/
+dr-xr-xr-x   1    0    0       2048 May 25 2006 [     40 02] . 
+dr-xr-xr-x   1    0    0       2048 May 26 2006 [     34 02] .. 
+dr-xr-xr-x   1    0    0       2048 May 26 2006 [     42 02] TIM 
+
+Directory listing of /PSP_GAME/USRDIR/PS/jpn/data/
+dr-xr-xr-x   1    0    0       2048 May 26 2006 [     41 02] . 
+dr-xr-xr-x   1    0    0       2048 May 25 2006 [     38 02] .. 
+-r-xr-xr-x   1    0    0     150315 May 22 2006 [  61392 00] pws2_filesystem_j.dat 
+dr-xr-xr-x   1    0    0       2048 May 25 2006 [     43 02] pws2 
+
+Directory listing of /PSP_GAME/USRDIR/CCC/PSX_DATA/MENU/TIM/
+dr-xr-xr-x   1    0    0       2048 May 26 2006 [     42 02] . 
+dr-xr-xr-x   1    0    0       2048 May 25 2006 [     40 02] .. 
+-r-xr-xr-x   1    0    0      11910 Jul 13 2005 [  28448 00] CAPCOM.DEE 
+-r-xr-xr-x   1    0    0      11968 Jul 13 2005 [  28464 00] CAPCOM2.DEE 
+-r-xr-xr-x   1    0    0       1312 Jul 13 2005 [  28480 00] GENR.DEE 
+-r-xr-xr-x   1    0    0       5833 Jul 13 2005 [  28496 00] OP_BACK.DEE 
+-r-xr-xr-x   1    0    0      13374 Jul 13 2005 [  28512 00] OP_BACK2.DEE 
+-r-xr-xr-x   1    0    0      15132 Jul 13 2005 [  28528 00] PSWAR.DEE 
+-r-xr-xr-x   1    0    0       2565 Jul 13 2005 [  28544 00] WINDO2.DEE 
+
+Directory listing of /PSP_GAME/USRDIR/PS/jpn/data/pws2/
+dr-xr-xr-x   1    0    0       2048 May 25 2006 [     43 02] . 
+dr-xr-xr-x   1    0    0       2048 May 26 2006 [     41 02] .. 
+dr-xr-xr-x   1    0    0       2048 May 26 2006 [     44 02] dm2 
+dr-xr-xr-x   1    0    0       4096 May 26 2006 [     45 02] pl2 
+dr-xr-xr-x   1    0    0       2048 May 26 2006 [     47 02] sound 
+dr-xr-xr-x   1    0    0       2048 May 26 2006 [     48 02] stg2 
+
+Directory listing of /PSP_GAME/USRDIR/PS/jpn/data/pws2/dm2/
+dr-xr-xr-x   1    0    0       2048 May 26 2006 [     44 02] . 
+dr-xr-xr-x   1    0    0       2048 May 25 2006 [     43 02] .. 
+-r-xr-xr-x   1    0    0     858912 Apr 21 2006 [  57408 00] dm2_model_vq_09_j.imp 
+-r-xr-xr-x   1    0    0      72704 Apr 21 2006 [  57840 00] dm2_model_vq_09_j.mdl 
+
+Directory listing of /PSP_GAME/USRDIR/PS/jpn/data/pws2/pl2/
+dr-xr-xr-x   1    0    0       4096 May 26 2006 [     45 02] . 
+dr-xr-xr-x   1    0    0       2048 May 25 2006 [     43 02] .. 
+-r-xr-xr-x   1    0    0     858912 Apr 21 2006 [  57888 00] dm2_model_vq_09_j.imp 
+-r-xr-xr-x   1    0    0      66096 Mar 20 2006 [  58320 00] pl2_efmodel_vq_00_j.imp 
+-r-xr-xr-x   1    0    0      60936 Mar 20 2006 [  58368 00] pl2_efmodel_vq_00_j.mdl 
+-r-xr-xr-x   1    0    0      66096 Mar 20 2006 [  58400 00] pl2_efmodel_vq_04_j.imp 
+-r-xr-xr-x   1    0    0      32480 Mar 20 2006 [  58448 00] pl2_efmodel_vq_04_j.mdl 
+-r-xr-xr-x   1    0    0      66096 Mar 20 2006 [  58464 00] pl2_efmodel_vq_06_j.imp 
+-r-xr-xr-x   1    0    0      39064 Mar 20 2006 [  58512 00] pl2_efmodel_vq_06_j.mdl 
+-r-xr-xr-x   1    0    0      66096 Mar 20 2006 [  58544 00] pl2_efmodel_vq_0b_j.imp 
+-r-xr-xr-x   1    0    0      49480 Mar 20 2006 [  58592 00] pl2_efmodel_vq_0b_j.mdl 
+-r-xr-xr-x   1    0    0      32768 Mar 13 2006 [  58624 00] pl2_hitdat_00_j.bin 
+-r-xr-xr-x   1    0    0      32768 Mar 13 2006 [  58640 00] pl2_hitdat_04_j.bin 
+-r-xr-xr-x   1    0    0      32768 Mar 13 2006 [  58656 00] pl2_hitdat_06_j.bin 
+-r-xr-xr-x   1    0    0      32768 Mar 13 2006 [  58672 00] pl2_hitdat_0b_j.bin 
+-r-xr-xr-x   1    0    0       4280 Mar 13 2006 [  58688 00] pl2_hittbl_00_j.bin 
+-r-xr-xr-x   1    0    0       4272 Mar 13 2006 [  58704 00] pl2_hittbl_04_j.bin 
+-r-xr-xr-x   1    0    0       4308 Mar 13 2006 [  58720 00] pl2_hittbl_06_j.bin 
+-r-xr-xr-x   1    0    0       4324 Mar 13 2006 [  58736 00] pl2_hittbl_0b_j.bin 
+-r-xr-xr-x   1    0    0      32832 Mar 20 2006 [  58752 00] pl2_model_a_00_j.imp 
+-r-xr-xr-x   1    0    0     144192 Mar 20 2006 [  58784 00] pl2_model_a_00_j.mdl 
+-r-xr-xr-x   1    0    0      32832 Mar 20 2006 [  58864 00] pl2_model_a_04_j.imp 
+-r-xr-xr-x   1    0    0     146552 Mar 20 2006 [  58896 00] pl2_model_a_04_j.mdl 
+-r-xr-xr-x   1    0    0      32832 Mar 20 2006 [  58976 00] pl2_model_a_06_j.imp 
+-r-xr-xr-x   1    0    0     144728 Mar 20 2006 [  59008 00] pl2_model_a_06_j.mdl 
+-r-xr-xr-x   1    0    0      32832 Mar 20 2006 [  59088 00] pl2_model_a_0b_j.imp 
+-r-xr-xr-x   1    0    0     160360 Mar 20 2006 [  59120 00] pl2_model_a_0b_j.mdl 
+-r-xr-xr-x   1    0    0      32832 Mar 20 2006 [  59200 00] pl2_model_b_00_j.imp 
+-r-xr-xr-x   1    0    0     147360 Mar 20 2006 [  59232 00] pl2_model_b_00_j.mdl 
+-r-xr-xr-x   1    0    0      32832 Mar 20 2006 [  59312 00] pl2_model_b_04_j.imp 
+-r-xr-xr-x   1    0    0     149600 Mar 20 2006 [  59344 00] pl2_model_b_04_j.mdl 
+-r-xr-xr-x   1    0    0      32832 Mar 20 2006 [  59424 00] pl2_model_b_06_j.imp 
+-r-xr-xr-x   1    0    0     141328 Mar 20 2006 [  59456 00] pl2_model_b_06_j.mdl 
+-r-xr-xr-x   1    0    0      32832 Mar 20 2006 [  59536 00] pl2_model_b_0b_j.imp 
+-r-xr-xr-x   1    0    0     134560 Mar 20 2006 [  59568 00] pl2_model_b_0b_j.mdl 
+-r-xr-xr-x   1    0    0     202848 Mar 13 2006 [  59648 00] pl2_mot_00_j.bin 
+-r-xr-xr-x   1    0    0     230756 Mar 13 2006 [  59760 00] pl2_mot_04_j.bin 
+-r-xr-xr-x   1    0    0     226796 Mar 13 2006 [  59888 00] pl2_mot_06_j.bin 
+-r-xr-xr-x   1    0    0     184416 Mar 13 2006 [  60000 00] pl2_mot_0b_j.bin 
+
+Directory listing of /PSP_GAME/USRDIR/PS/jpn/data/pws2/sound/
+dr-xr-xr-x   1    0    0       2048 May 26 2006 [     47 02] . 
+dr-xr-xr-x   1    0    0       2048 May 25 2006 [     43 02] .. 
+-r-xr-xr-x   1    0    0     202800 Nov 14 2005 [  60096 00] ayame_1p.bin 
+-r-xr-xr-x   1    0    0      56444 Oct 31 2005 [  60208 00] cont.at3 
+-r-xr-xr-x   1    0    0     166672 Nov 14 2005 [  60240 00] fokker_1p.bin 
+-r-xr-xr-x   1    0    0     171488 Nov 14 2005 [  60336 00] gunrock_1p.bin 
+-r-xr-xr-x   1    0    0     198480 Nov 14 2005 [  60432 00] kid_1p.bin 
+-r-xr-xr-x   1    0    0      13816 Feb  9 2006 [  60544 00] na_0.at3 
+-r-xr-xr-x   1    0    0       9336 Feb  9 2006 [  60560 00] na_1.at3 
+-r-xr-xr-x   1    0    0     231096 Oct 31 2005 [  60576 00] open.at3 
+-r-xr-xr-x   1    0    0      37336 Oct 31 2005 [  60704 00] over.at3 
+-r-xr-xr-x   1    0    0      56444 Oct 31 2005 [  60736 00] p_sele.at3 
+-r-xr-xr-x   1    0    0      60296 Oct 31 2005 [  60768 00] rank.at3 
+-r-xr-xr-x   1    0    0     104324 Oct 31 2005 [  61056 00] s_sele.at3 
+-r-xr-xr-x   1    0    0      33136 Nov  4 2005 [  60800 00] st05_0.at3 
+-r-xr-xr-x   1    0    0     224444 Oct 31 2005 [  60880 00] st_05_0.at3 
+-r-xr-xr-x   1    0    0      73424 Nov 14 2005 [  60832 00] stg_05.bin 
+-r-xr-xr-x   1    0    0     105096 Oct 31 2005 [  60992 00] sudden.at3 
+-r-xr-xr-x   1    0    0      50284 Oct 31 2005 [  61120 00] tb_win.at3 
+-r-xr-xr-x   1    0    0      64844 Oct 31 2005 [  61152 00] win.at3 
+
+Directory listing of /PSP_GAME/USRDIR/PS/jpn/data/pws2/stg2/
+dr-xr-xr-x   1    0    0       2048 May 26 2006 [     48 02] . 
+dr-xr-xr-x   1    0    0       2048 May 25 2006 [     43 02] .. 
+-r-xr-xr-x   1    0    0      16384 Mar 13 2006 [  61184 00] stg2_hitdat_05.bin 
+-r-xr-xr-x   1    0    0     169184 Mar 20 2006 [  61200 00] stg2_model_vq_05.imp 
+-r-xr-xr-x   1    0    0     171920 Mar 22 2006 [  61296 00] stg2_model_vq_05.mdl 
+=============================================================== 
+Generated on Fri 19/08/2022 at 10:28:30.76 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

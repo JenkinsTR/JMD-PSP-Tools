@@ -1,0 +1,128 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Crash of the Titans   
+Title ID: ULES-00916 
+Region: Europe  
+Languages: Fr,Nl  
+Volume Creation Date: 2007-09-26 14:30:00 
+Volume Size: 1053 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: CRASH
+Volume set id: 1
+Publisher id: VIVENDI GAMES
+Data preparer id: BGOETZ
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 539456
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Sep 26 2007 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 26 2007 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Aug  8 2007 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Aug  8 2007 [     31 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Aug  8 2007 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Sep 26 2007 [     22 02] .. 
+-r-xr-xr-x   1    0    0      16362 Jul 27 2007 [  39520 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        472 Sep 18 2007 [  39504 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     209584 Aug  2 2007 [  39536 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Aug  8 2007 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Aug  8 2007 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Aug  8 2007 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug  8 2007 [     23 02] .. 
+-r-xr-xr-x   1    0    0    7090945 Sep 26 2007 [  24000 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    7091296 Sep 26 2007 [     32 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Aug  8 2007 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Aug  8 2007 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug  8 2007 [     23 02] .. 
+-r-xr-xr-x   1    0    0     228032 Jul  6 2007 [  39648 00] SAVEBG.PNG 
+-r-xr-xr-x   1    0    0      16362 Jul 27 2007 [  39760 00] SAVEICON.PNG 
+-r-xr-xr-x   1    0    0  306516547 Sep 26 2007 [ 112752 00] default.rcf 
+-r-xr-xr-x   1    0    0  284460008 Sep 26 2007 [ 262432 00] dutch.rcf 
+-r-xr-xr-x   1    0    0  282833152 Sep 26 2007 [ 401344 00] french.rcf 
+dr-xr-xr-x   1    0    0       2048 Aug  8 2007 [     27 02] modules 
+dr-xr-xr-x   1    0    0       2048 Aug  8 2007 [     28 02] movies 
+-r-xr-xr-x   1    0    0  149437446 Sep 26 2007 [  39776 00] sound.rcf 
+dr-xr-xr-x   1    0    0       2048 Aug  8 2007 [     29 02] sound 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Aug  8 2007 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug  8 2007 [     24 02] .. 
+-r-xr-xr-x   1    0    0   16332832 Aug  8 2007 [   7616 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5212656 Aug  8 2007 [   3520 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Aug  8 2007 [   3504 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/modules/
+dr-xr-xr-x   1    0    0       2048 Aug  8 2007 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug  8 2007 [     25 02] .. 
+-r-xr-xr-x   1    0    0       3312 Jul  6 2007 [  27472 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0       1088 Jul  6 2007 [  27488 00] libadler.prx 
+-r-xr-xr-x   1    0    0      10928 Jul  6 2007 [  27504 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0       1472 Jul  6 2007 [  27520 00] libbase64.prx 
+-r-xr-xr-x   1    0    0       3520 Jul  6 2007 [  27536 00] libccc.prx 
+-r-xr-xr-x   1    0    0       4416 Jul  6 2007 [  27552 00] libdeflt.prx 
+-r-xr-xr-x   1    0    0      23456 Jul  6 2007 [  27568 00] libfont.prx 
+-r-xr-xr-x   1    0    0       4192 Jul  6 2007 [  27584 00] libfpu.prx 
+-r-xr-xr-x   1    0    0       2400 Jul  6 2007 [  27600 00] libmd5.prx 
+-r-xr-xr-x   1    0    0       1312 Jul  6 2007 [  27616 00] libmt19937.prx 
+-r-xr-xr-x   1    0    0       1952 Jul  6 2007 [  27632 00] libqpcode.prx 
+-r-xr-xr-x   1    0    0       2576 Jul  6 2007 [  27648 00] libsha1.prx 
+-r-xr-xr-x   1    0    0      20096 Jul  6 2007 [  27664 00] mpeg.prx 
+-r-xr-xr-x   1    0    0       5392 Jul  6 2007 [  27680 00] mpegbase.prx 
+-r-xr-xr-x   1    0    0       7440 Jul  6 2007 [  27696 00] psmf.prx 
+-r-xr-xr-x   1    0    0       2448 Jul  6 2007 [  27712 00] pspnet_ap_dialog_dummy.prx 
+-r-xr-xr-x   1    0    0       6832 Jul  6 2007 [  27744 00] sc_sascore.prx 
+-r-xr-xr-x   1    0    0      31792 Jul  6 2007 [  27728 00] scan.prx 
+-r-xr-xr-x   1    0    0      29520 Jul  6 2007 [  27760 00] show_macaddr.prx 
+-r-xr-xr-x   1    0    0      15072 Jul  6 2007 [  27776 00] usbpspcm.prx 
+-r-xr-xr-x   1    0    0       3504 Jul  6 2007 [  27792 00] videocodec.prx 
+
+Directory listing of /PSP_GAME/USRDIR/movies/
+dr-xr-xr-x   1    0    0       2048 Aug  8 2007 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug  8 2007 [     25 02] .. 
+-r-xr-xr-x   1    0    0    8243200 Jul 28 2007 [  27808 00] COTT_attract_2997.pmf 
+-r-xr-xr-x   1    0    0   10520576 Jul 28 2007 [  31840 00] COTT_shadow_puppet_2997.pmf 
+-r-xr-xr-x   1    0    0    1497088 Jul 28 2007 [  36992 00] radical.pmf 
+-r-xr-xr-x   1    0    0     684032 Jul 28 2007 [  37728 00] sierra.pmf 
+-r-xr-xr-x   1    0    0    2912256 Jul 28 2007 [  38064 00] svs.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/sound/
+dr-xr-xr-x   1    0    0       2048 Aug  8 2007 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug  8 2007 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Aug  8 2007 [     30 02] zscripts 
+
+Directory listing of /PSP_GAME/USRDIR/sound/zscripts/
+dr-xr-xr-x   1    0    0       2048 Aug  8 2007 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug  8 2007 [     29 02] .. 
+-r-xr-xr-x   1    0    0      10204 Jul 21 2007 [  39488 00] packages.txt 
+=============================================================== 
+Generated on Tue 09/08/2022 at  5:37:08.38 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

@@ -1,0 +1,169 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Demo Disc for PSP Vol. 1  
+Title ID: UCJB-98001 
+Region: Japan  
+Languages:   
+Volume Creation Date: 2004-11-24 10:54:58 
+Volume Size: 733 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: 
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: SCEI
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 375376
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Nov 24 2004 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 24 2004 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov 24 2004 [     23 02] PSP_GAME 
+dr-xr-xr-x   1    0    0       2048 Nov 24 2004 [     24 02] UMD_VIDEO 
+dr-xr-xr-x   1    0    0       2048 Nov 24 2004 [     25 02] UMD_AUDIO 
+-r-xr-xr-x   1    0    0         48 Nov 24 2004 [   1772 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Nov 24 2004 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 24 2004 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov 24 2004 [     26 02] SYSDIR 
+-r-xr-xr-x   1    0    0        472 Nov  9 2004 [   1776 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     163840 Nov  9 2004 [   1824 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0     129620 Nov  5 2004 [   1904 00] SND0.AT3 
+-r-xr-xr-x   1    0    0       7134 Nov  9 2004 [   1968 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0      79053 Nov 11 2004 [   1984 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0      81593 Nov  8 2004 [   2032 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Nov 24 2004 [     27 02] USRDIR 
+
+Directory listing of /UMD_VIDEO/
+dr-xr-xr-x   1    0    0       2048 Nov 24 2004 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 24 2004 [     22 02] .. 
+-r-xr-xr-x   1    0    0        236 Nov  3 2004 [   1792 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     155648 Nov  9 2004 [   2080 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0     129620 Nov  5 2004 [   2160 00] SND0.AT3 
+-r-xr-xr-x   1    0    0       8037 Nov  9 2004 [   2224 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0      71550 Nov 11 2004 [   2240 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0      78308 Nov  8 2004 [   2288 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Nov 24 2004 [     28 02] RESOURCE 
+-r-xr-xr-x   1    0    0       9190 Nov 16 2004 [  67920 00] PLAYLIST.UMD 
+dr-xr-xr-x   1    0    0       2048 Nov 24 2004 [     29 02] CLIPINF 
+dr-xr-xr-x   1    0    0       2048 Nov 24 2004 [     30 02] STREAM 
+
+Directory listing of /UMD_AUDIO/
+dr-xr-xr-x   1    0    0       2048 Nov 24 2004 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 24 2004 [     22 02] .. 
+-r-xr-xr-x   1    0    0        272 Nov  4 2004 [   1808 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     124928 Nov  9 2004 [   2336 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0     129620 Nov  5 2004 [   2400 00] SND0.AT3 
+-r-xr-xr-x   1    0    0       7679 Nov  2 2004 [   2464 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0      68863 Nov 11 2004 [   2480 00] PIC0.PNG 
+-r-xr-xr-x   1    0    0      80830 Nov  8 2004 [   2528 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Nov 24 2004 [     31 02] RESOURCE 
+-r-xr-xr-x   1    0    0       6518 Nov 16 2004 [ 275440 00] PLAYLIST.UMD 
+dr-xr-xr-x   1    0    0       2048 Nov 24 2004 [     32 02] CLIPINF 
+dr-xr-xr-x   1    0    0       2048 Nov 24 2004 [     33 02] STREAM 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Nov 24 2004 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 24 2004 [     23 02] .. 
+-r-xr-xr-x   1    0    0    3529648 Nov 24 2004 [     48 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0    3529308 Nov 24 2004 [   2576 00] BOOT.BIN 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Nov 24 2004 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 24 2004 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov 24 2004 [     34 02] MODULE 
+dr-xr-xr-x   1    0    0       2048 Nov 24 2004 [     35 02] MOVIE 
+dr-xr-xr-x   1    0    0       2048 Nov 24 2004 [     36 02] SOUND 
+
+Directory listing of /UMD_VIDEO/RESOURCE/
+dr-xr-xr-x   1    0    0       2048 Nov 24 2004 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 24 2004 [     24 02] .. 
+-r-xr-xr-x   1    0    0     322644 Nov 16 2004 [  67760 00] JA100000.RCO 
+
+Directory listing of /UMD_VIDEO/CLIPINF/
+dr-xr-xr-x   1    0    0       2048 Nov 24 2004 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 24 2004 [     24 02] .. 
+-r-xr-xr-x   1    0    0        568 Nov 10 2004 [  67936 00] 00001.CLP 
+-r-xr-xr-x   1    0    0        568 Nov 10 2004 [  67952 00] 00002.CLP 
+-r-xr-xr-x   1    0    0       5658 Nov 16 2004 [  67968 00] 00003.CLP 
+
+Directory listing of /UMD_VIDEO/STREAM/
+dr-xr-xr-x   1    0    0       2048 Nov 24 2004 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 24 2004 [     24 02] .. 
+-r-xr-xr-x   1    0    0   13537280 Nov 10 2004 [  67984 00] 00001.MPS 
+-r-xr-xr-x   1    0    0   13549568 Nov 10 2004 [  74608 00] 00002.MPS 
+-r-xr-xr-x   1    0    0  397529088 Nov 16 2004 [  81232 00] 00003.MPS 
+
+Directory listing of /UMD_AUDIO/RESOURCE/
+dr-xr-xr-x   1    0    0       2048 Nov 24 2004 [     31 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 24 2004 [     25 02] .. 
+-r-xr-xr-x   1    0    0     193776 Nov 10 2004 [ 275344 00] JA100000.RCO 
+
+Directory listing of /UMD_AUDIO/CLIPINF/
+dr-xr-xr-x   1    0    0       2048 Nov 24 2004 [     32 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 24 2004 [     25 02] .. 
+-r-xr-xr-x   1    0    0        618 Nov 10 2004 [ 275456 00] 00001.CLP 
+-r-xr-xr-x   1    0    0       1708 Nov 16 2004 [ 275472 00] 00002.CLP 
+-r-xr-xr-x   1    0    0        448 Nov 16 2004 [ 275488 00] 00003.CLP 
+-r-xr-xr-x   1    0    0        458 Nov 16 2004 [ 275504 00] 00004.CLP 
+-r-xr-xr-x   1    0    0        428 Nov 16 2004 [ 275520 00] 00005.CLP 
+-r-xr-xr-x   1    0    0        448 Nov 16 2004 [ 275536 00] 00006.CLP 
+-r-xr-xr-x   1    0    0        418 Nov 16 2004 [ 275552 00] 00007.CLP 
+
+Directory listing of /UMD_AUDIO/STREAM/
+dr-xr-xr-x   1    0    0       2048 Nov 24 2004 [     33 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 24 2004 [     25 02] .. 
+-r-xr-xr-x   1    0    0   13547520 Nov 10 2004 [ 275568 00] 00001.MPS 
+-r-xr-xr-x   1    0    0   95268864 Nov 16 2004 [ 282192 00] 00002.MPS 
+-r-xr-xr-x   1    0    0   19429376 Nov 16 2004 [ 328720 00] 00003.MPS 
+-r-xr-xr-x   1    0    0   19853312 Nov 16 2004 [ 338208 00] 00004.MPS 
+-r-xr-xr-x   1    0    0   18948096 Nov 16 2004 [ 347904 00] 00005.MPS 
+-r-xr-xr-x   1    0    0   19103744 Nov 16 2004 [ 357168 00] 00006.MPS 
+-r-xr-xr-x   1    0    0   18176000 Nov 16 2004 [ 366496 00] 00007.MPS 
+
+Directory listing of /PSP_GAME/USRDIR/MODULE/
+dr-xr-xr-x   1    0    0       2048 Nov 24 2004 [     34 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 24 2004 [     27 02] .. 
+-r-xr-xr-x   1    0    0       3232 Nov 15 2004 [   4304 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0      19524 Nov 15 2004 [   4320 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0      39624 Nov 15 2004 [   4336 00] mpeg.prx 
+-r-xr-xr-x   1    0    0       4288 Nov 15 2004 [   4368 00] mpegbase.prx 
+-r-xr-xr-x   1    0    0       3824 Nov 15 2004 [   4384 00] videocodec.prx 
+
+Directory listing of /PSP_GAME/USRDIR/MOVIE/
+dr-xr-xr-x   1    0    0       2048 Nov 24 2004 [     35 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 24 2004 [     27 02] .. 
+-r-xr-xr-x   1    0    0  127670272 Nov 15 2004 [   4400 00] tento.pmf 
+-r-xr-xr-x   1    0    0    1230848 Nov 15 2004 [  66752 00] thumbnail.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/SOUND/
+dr-xr-xr-x   1    0    0       2048 Nov 24 2004 [     36 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 24 2004 [     27 02] .. 
+-r-xr-xr-x   1    0    0     805172 Nov 15 2004 [  67360 00] menu_bgm_44khz.at3 
+=============================================================== 
+Generated on Fri 19/08/2022 at 20:35:28.54 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

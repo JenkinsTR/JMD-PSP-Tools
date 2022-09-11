@@ -1,0 +1,99 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: DiRT 2  
+Title ID: ULUS-10471 
+Region: USA  
+Languages:   
+Volume Creation Date: 2009-08-13 10:32:59 
+Volume Size: 348 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 1
+Volume set id: 1
+Publisher id: CODEMASTERS
+Data preparer id: SUMO
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 178240
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Aug 13 2009 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 13 2009 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb  6 2009 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Feb  6 2009 [     30 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Feb  6 2009 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 13 2009 [     22 02] .. 
+-r-xr-xr-x   1    0    0      21837 May 14 2009 [  55520 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        472 Aug 12 2009 [  54400 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     209387 May  7 2009 [  55536 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0     160800 May 27 2009 [  55648 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 Feb  6 2009 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Aug 13 2009 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Feb  6 2009 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb  6 2009 [     23 02] .. 
+-r-xr-xr-x   1    0    0    2230801 Aug  4 2009 [  54416 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    2231152 Aug 13 2009 [     32 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Feb  6 2009 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Aug 13 2009 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb  6 2009 [     23 02] .. 
+-r-xr-xr-x   1    0    0  180551680 Aug 13 2009 [  55728 00] DATA.PSP 
+dr-xr-xr-x   1    0    0       2048 Aug 11 2009 [     27 02] MOVIES 
+dr-xr-xr-x   1    0    0       2048 Aug 11 2009 [     28 02] PRX 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Feb  6 2009 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb  6 2009 [     24 02] .. 
+-r-xr-xr-x   1    0    0   22054496 Feb  6 2009 [   5248 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5476384 Feb  6 2009 [   1152 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Feb  6 2009 [   1136 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/MOVIES/
+dr-xr-xr-x   1    0    0       2048 Aug 11 2009 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 13 2009 [     25 02] .. 
+-r-xr-xr-x   1    0    0     657408 Feb 11 2009 [ 143920 00] CM.PMF 
+-r-xr-xr-x   1    0    0   28872704 Jun  8 2009 [ 144256 00] CREDITS.PMF 
+-r-xr-xr-x   1    0    0   37629952 Mar 25 2009 [ 158368 00] GYMKHAN.PMF 
+-r-xr-xr-x   1    0    0    1638400 Jun 11 2009 [ 176752 00] INTRO.PMF 
+-r-xr-xr-x   1    0    0    1394688 Feb 11 2009 [ 177552 00] SUMO.PMF 
+
+Directory listing of /PSP_GAME/USRDIR/PRX/
+dr-xr-xr-x   1    0    0       2048 Aug 11 2009 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 13 2009 [     25 02] .. 
+dr-xr-xr-x   1    0    0       2048 Aug 11 2009 [     29 02] MODULE 
+
+Directory listing of /PSP_GAME/USRDIR/PRX/MODULE/
+dr-xr-xr-x   1    0    0       2048 Aug 11 2009 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Aug 11 2009 [     28 02] .. 
+-r-xr-xr-x   1    0    0      32128 Jul 21 2009 [ 143888 00] LIBPSMFPLAYER.PRX 
+-r-xr-xr-x   1    0    0       6800 Jul 21 2009 [ 143904 00] PSMF.PRX 
+=============================================================== 
+Generated on Fri 19/08/2022 at 20:59:05.24 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

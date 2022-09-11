@@ -1,0 +1,248 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Spectral vs. Generation   
+Title ID: ULES-00757 
+Region: Europe  
+Languages:   
+Volume Creation Date: 2007-03-29 15:22:29 
+Volume Size: 186 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: MIDAS INTERACTIVE ENTERTAINMENT LTD.
+Data preparer id: ALASDAIR EVANS
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 95728
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Mar 29 2007 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 29 2007 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Mar 29 2007 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Mar 29 2007 [     36 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Mar 29 2007 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 29 2007 [     22 02] .. 
+-r-xr-xr-x   1    0    0      27647 Feb 12 2007 [  24816 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        472 Mar 19 2007 [  24832 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     205152 Feb 12 2007 [  24848 00] PIC1.PNG 
+dr-xr-xr-x   1    0    0       2048 Mar 29 2007 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Mar 29 2007 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Mar 29 2007 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 29 2007 [     23 02] .. 
+-r-xr-xr-x   1    0    0    8716764 Mar 29 2007 [  91456 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    8717104 Mar 29 2007 [     48 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Mar 29 2007 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Mar 29 2007 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 29 2007 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 Mar 29 2007 [     27 02] GAMEDATA 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Mar 29 2007 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 29 2007 [     24 02] .. 
+-r-xr-xr-x   1    0    0   16703024 Mar 29 2007 [   8432 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5174464 Mar 29 2007 [   4336 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Mar 29 2007 [   4320 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/
+dr-xr-xr-x   1    0    0       2048 Mar 29 2007 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 29 2007 [     25 02] .. 
+dr-xr-xr-x   1    0    0       4096 Mar 29 2007 [     28 02] CG 
+-r-xr-xr-x   1    0    0      21371 Feb 12 2007 [  42432 00] EMPTY.PNG 
+-r-xr-xr-x   1    0    0      16384 Feb 12 2007 [  42448 00] ENTRY.DAT 
+-r-xr-xr-x   1    0    0    4366336 Feb 12 2007 [  42464 00] FILE.DAT 
+-r-xr-xr-x   1    0    0      27647 Feb 12 2007 [  44608 00] ICON0.PNG 
+dr-xr-xr-x   1    0    0       2048 Mar 29 2007 [     30 02] MODULES 
+dr-xr-xr-x   1    0    0       2048 Mar 29 2007 [     31 02] MOVIE 
+dr-xr-xr-x   1    0    0       4096 Mar 29 2007 [     32 02] MUSIC 
+-r-xr-xr-x   1    0    0     205152 Feb 12 2007 [  90224 00] PICT1.PNG 
+dr-xr-xr-x   1    0    0       2048 Mar 29 2007 [     34 02] SND 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/CG/
+dr-xr-xr-x   1    0    0       4096 Mar 29 2007 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 29 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0     226452 Feb 13 2007 [  24960 00] BITADR35.CG 
+dr-xr-xr-x   1    0    0       2048 Mar 29 2007 [     35 02] CG 
+-r-xr-xr-x   1    0    0     151552 Apr 20 2006 [  31408 00] MAP0BACK.FNT 
+-r-xr-xr-x   1    0    0     126010 Feb 13 2007 [  31488 00] MAP0BIT.CG 
+-r-xr-xr-x   1    0    0     117760 Apr 20 2006 [  31552 00] MAP1BACK.FNT 
+-r-xr-xr-x   1    0    0     142713 Feb 13 2007 [  31616 00] MAP1BIT.CG 
+-r-xr-xr-x   1    0    0     245760 Apr 20 2006 [  31696 00] MAP2BACK.FNT 
+-r-xr-xr-x   1    0    0     139497 Feb 13 2007 [  31824 00] MAP2BIT.CG 
+-r-xr-xr-x   1    0    0     226304 Apr 20 2006 [  31904 00] MAP3BACK.FNT 
+-r-xr-xr-x   1    0    0     167586 Feb 13 2007 [  32016 00] MAP3BIT.CG 
+-r-xr-xr-x   1    0    0      32768 Apr 20 2006 [  32112 00] MAP4BACK.FNT 
+-r-xr-xr-x   1    0    0     247577 Feb 13 2007 [  32128 00] MAP4BIT.CG 
+-r-xr-xr-x   1    0    0     115712 Apr 20 2006 [  32256 00] MAP5BACK.FNT 
+-r-xr-xr-x   1    0    0     127308 Feb 13 2007 [  32320 00] MAP5BIT.CG 
+-r-xr-xr-x   1    0    0     110592 Apr 20 2006 [  32384 00] MAP6BACK.FNT 
+-r-xr-xr-x   1    0    0     106980 Feb 13 2007 [  32448 00] MAP6BIT.CG 
+-r-xr-xr-x   1    0    0     153600 Apr 20 2006 [  32512 00] MAP7BACK.FNT 
+-r-xr-xr-x   1    0    0      97208 Feb 13 2007 [  32592 00] MAP7BIT.CG 
+-r-xr-xr-x   1    0    0     192512 Apr 20 2006 [  32640 00] MAP8BACK.FNT 
+-r-xr-xr-x   1    0    0     104110 Feb 13 2007 [  32736 00] MAP8BIT.CG 
+-r-xr-xr-x   1    0    0     128000 Apr 20 2006 [  32800 00] MAP9BACK.FNT 
+-r-xr-xr-x   1    0    0     438411 Feb 13 2007 [  32864 00] MAP9BIT.CG 
+-r-xr-xr-x   1    0    0    1145499 Feb 13 2007 [  33088 00] MEN0.CG 
+-r-xr-xr-x   1    0    0     602872 Feb 13 2007 [  33648 00] MEN1.CG 
+-r-xr-xr-x   1    0    0    1191067 Feb 13 2007 [  33952 00] MEN2.CG 
+-r-xr-xr-x   1    0    0    1214414 Feb 13 2007 [  34544 00] MEN3.CG 
+-r-xr-xr-x   1    0    0     892824 Feb 13 2007 [  35152 00] MEN4.CG 
+-r-xr-xr-x   1    0    0     701001 Feb 13 2007 [  35600 00] MEN5.CG 
+-r-xr-xr-x   1    0    0    1177695 Feb 13 2007 [  35952 00] MEN6.CG 
+-r-xr-xr-x   1    0    0    1433687 Feb 13 2007 [  36528 00] MEN7.CG 
+-r-xr-xr-x   1    0    0     806880 Feb 13 2007 [  37232 00] MEN8.CG 
+-r-xr-xr-x   1    0    0    3143115 Feb 13 2007 [  37632 00] MEN9.CG 
+-r-xr-xr-x   1    0    0     512269 Feb 13 2007 [  39168 00] NEWMODES.CG 
+-r-xr-xr-x   1    0    0    1104896 Apr 20 2006 [  39424 00] SYS0_BCK.FNT 
+-r-xr-xr-x   1    0    0      61280 Apr 20 2006 [  39968 00] SYS0_TXT.FNT 
+-r-xr-xr-x   1    0    0    4980325 Feb 13 2007 [  40000 00] SYS_FLY.CG 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/MODULES/
+dr-xr-xr-x   1    0    0       2048 Mar 29 2007 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 29 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0       1088 Feb 12 2007 [  44624 00] libadler.prx 
+-r-xr-xr-x   1    0    0       1472 Feb 12 2007 [  44640 00] libbase64.prx 
+-r-xr-xr-x   1    0    0       3520 Feb 12 2007 [  44656 00] libccc.prx 
+-r-xr-xr-x   1    0    0       4416 Feb 12 2007 [  44672 00] libdeflt.prx 
+-r-xr-xr-x   1    0    0      23456 Feb 12 2007 [  44688 00] libfont.prx 
+-r-xr-xr-x   1    0    0       4192 Feb 12 2007 [  44704 00] libfpu.prx 
+-r-xr-xr-x   1    0    0       3392 Feb 12 2007 [  44720 00] libheap.prx 
+-r-xr-xr-x   1    0    0       2400 Feb 12 2007 [  44736 00] libmd5.prx 
+-r-xr-xr-x   1    0    0       4000 Feb 12 2007 [  44752 00] libmp3.prx 
+-r-xr-xr-x   1    0    0       1312 Feb 12 2007 [  44768 00] libmt19937.prx 
+-r-xr-xr-x   1    0    0      35904 Feb 12 2007 [  44784 00] libpsmfplayer.prx 
+-r-xr-xr-x   1    0    0       1952 Feb 12 2007 [  44816 00] libqpcode.prx 
+-r-xr-xr-x   1    0    0       2576 Feb 12 2007 [  44832 00] libsha0.prx 
+-r-xr-xr-x   1    0    0       2576 Feb 12 2007 [  44848 00] libsha1.prx 
+-r-xr-xr-x   1    0    0       2928 Feb 12 2007 [  44864 00] libsha224.prx 
+-r-xr-xr-x   1    0    0       2928 Feb 12 2007 [  44880 00] libsha256.prx 
+-r-xr-xr-x   1    0    0       4672 Feb 12 2007 [  44896 00] libsha384.prx 
+-r-xr-xr-x   1    0    0       4672 Feb 12 2007 [  44912 00] libsha512.prx 
+-r-xr-xr-x   1    0    0       7440 Feb 12 2007 [  44928 00] psmf.prx 
+-r-xr-xr-x   1    0    0       2448 Feb 12 2007 [  44944 00] pspnet_ap_dialog_dummy.prx 
+-r-xr-xr-x   1    0    0      31792 Feb 12 2007 [  44960 00] scan.prx 
+-r-xr-xr-x   1    0    0      29520 Feb 12 2007 [  44976 00] show_macaddr.prx 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/MOVIE/
+dr-xr-xr-x   1    0    0       2048 Mar 29 2007 [     31 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 29 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0    5537792 Feb 12 2007 [  44992 00] 000.PMF 
+-r-xr-xr-x   1    0    0   22962176 Feb 12 2007 [  47696 00] SVG.PMF 
+-r-xr-xr-x   1    0    0   13633536 Feb 12 2007 [  58912 00] SVGED.pmf 
+-r-xr-xr-x   1    0    0   19333120 Feb 12 2007 [  65584 00] SVGOP.PMF 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/MUSIC/
+dr-xr-xr-x   1    0    0       4096 Mar 29 2007 [     32 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 29 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0     821540 Feb 12 2007 [  75024 00] MUM01.AT3 
+-r-xr-xr-x   1    0    0     821540 Feb 12 2007 [  75440 00] MUM02.AT3 
+-r-xr-xr-x   1    0    0     690596 Feb 12 2007 [  75856 00] MUM03.AT3 
+-r-xr-xr-x   1    0    0     924212 Feb 12 2007 [  76208 00] MUM04.AT3 
+-r-xr-xr-x   1    0    0     770948 Feb 12 2007 [  76672 00] MUM05.AT3 
+-r-xr-xr-x   1    0    0     849812 Feb 12 2007 [  77056 00] MUM06.AT3 
+-r-xr-xr-x   1    0    0    1026884 Feb 12 2007 [  77472 00] MUM07.AT3 
+-r-xr-xr-x   1    0    0     893708 Feb 12 2007 [  77984 00] MUM08.AT3 
+-r-xr-xr-x   1    0    0     622892 Feb 12 2007 [  78432 00] MUM09.AT3 
+-r-xr-xr-x   1    0    0     146732 Feb 12 2007 [  78752 00] MUM10.AT3 
+-r-xr-xr-x   1    0    0     529892 Feb 12 2007 [  78832 00] MUM11.AT3 
+-r-xr-xr-x   1    0    0     906356 Feb 12 2007 [  79104 00] MUM12.AT3 
+-r-xr-xr-x   1    0    0     354308 Feb 12 2007 [  79552 00] MUM13.AT3 
+-r-xr-xr-x   1    0    0     129620 Feb 12 2007 [  79728 00] MUM14.AT3 
+-r-xr-xr-x   1    0    0     482276 Feb 12 2007 [  79792 00] MUM15.AT3 
+-r-xr-xr-x   1    0    0     821540 Feb 12 2007 [  80032 00] MUM16.AT3 
+-r-xr-xr-x   1    0    0     888500 Feb 12 2007 [  80448 00] MUM17.AT3 
+-r-xr-xr-x   1    0    0    1189820 Feb 12 2007 [  80896 00] MUM18.AT3 
+-r-xr-xr-x   1    0    0     503108 Feb 12 2007 [  81488 00] MUM19.AT3 
+-r-xr-xr-x   1    0    0    1782788 Feb 12 2007 [  81744 00] MUM20.AT3 
+-r-xr-xr-x   1    0    0     821540 Feb 12 2007 [  82624 00] MUS01.AT3 
+-r-xr-xr-x   1    0    0     821540 Feb 12 2007 [  83040 00] MUS02.AT3 
+-r-xr-xr-x   1    0    0     690596 Feb 12 2007 [  83456 00] MUS03.AT3 
+-r-xr-xr-x   1    0    0     924212 Feb 12 2007 [  83808 00] MUS04.AT3 
+-r-xr-xr-x   1    0    0     770948 Feb 12 2007 [  84272 00] MUS05.AT3 
+-r-xr-xr-x   1    0    0     849812 Feb 12 2007 [  84656 00] MUS06.AT3 
+-r-xr-xr-x   1    0    0    1026884 Feb 12 2007 [  85072 00] MUS07.AT3 
+-r-xr-xr-x   1    0    0     893708 Feb 12 2007 [  85584 00] MUS08.AT3 
+-r-xr-xr-x   1    0    0     622892 Feb 12 2007 [  86032 00] MUS09.AT3 
+-r-xr-xr-x   1    0    0     146732 Feb 12 2007 [  86352 00] MUS10.AT3 
+-r-xr-xr-x   1    0    0     529892 Feb 12 2007 [  86432 00] MUS11.AT3 
+-r-xr-xr-x   1    0    0     906356 Feb 12 2007 [  86704 00] MUS12.AT3 
+-r-xr-xr-x   1    0    0     354308 Feb 12 2007 [  87152 00] MUS13.AT3 
+-r-xr-xr-x   1    0    0     129620 Feb 12 2007 [  87328 00] MUS14.AT3 
+-r-xr-xr-x   1    0    0     482276 Feb 12 2007 [  87392 00] MUS15.AT3 
+-r-xr-xr-x   1    0    0     821540 Feb 12 2007 [  87632 00] MUS16.AT3 
+-r-xr-xr-x   1    0    0     888500 Feb 12 2007 [  88048 00] MUS17.AT3 
+-r-xr-xr-x   1    0    0    1189820 Feb 12 2007 [  88496 00] MUS18.AT3 
+-r-xr-xr-x   1    0    0     503108 Feb 12 2007 [  89088 00] MUS19.AT3 
+-r-xr-xr-x   1    0    0    1782788 Feb 12 2007 [  89344 00] MUS20.AT3 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/SND/
+dr-xr-xr-x   1    0    0       2048 Mar 29 2007 [     34 02] . 
+dr-xr-xr-x   1    0    0       2048 Mar 29 2007 [     27 02] .. 
+-r-xr-xr-x   1    0    0    2176288 Feb 12 2007 [  90336 00] IGS.PBD 
+-r-xr-xr-x   1    0    0      69840 Feb 12 2007 [  91408 00] IGS.PHD 
+
+Directory listing of /PSP_GAME/USRDIR/GAMEDATA/CG/CG/
+dr-xr-xr-x   1    0    0       2048 Mar 29 2007 [     35 02] . 
+dr-xr-xr-x   1    0    0       4096 Mar 29 2007 [     28 02] .. 
+-r-xr-xr-x   1    0    0     226452 Feb 13 2007 [  25072 00] BITADR35.CG 
+-r-xr-xr-x   1    0    0     151552 Apr 20 2006 [  25184 00] MAP0BACK.FNT 
+-r-xr-xr-x   1    0    0     126010 Feb 13 2007 [  25264 00] MAP0BIT.CG 
+-r-xr-xr-x   1    0    0     117760 Apr 20 2006 [  25328 00] MAP1BACK.FNT 
+-r-xr-xr-x   1    0    0     142713 Feb 13 2007 [  25392 00] MAP1BIT.CG 
+-r-xr-xr-x   1    0    0     245760 Apr 20 2006 [  25472 00] MAP2BACK.FNT 
+-r-xr-xr-x   1    0    0     139497 Feb 13 2007 [  25600 00] MAP2BIT.CG 
+-r-xr-xr-x   1    0    0     226304 Apr 20 2006 [  25680 00] MAP3BACK.FNT 
+-r-xr-xr-x   1    0    0     167586 Feb 13 2007 [  25792 00] MAP3BIT.CG 
+-r-xr-xr-x   1    0    0      32768 Apr 20 2006 [  25888 00] MAP4BACK.FNT 
+-r-xr-xr-x   1    0    0     247577 Feb 13 2007 [  25904 00] MAP4BIT.CG 
+-r-xr-xr-x   1    0    0     115712 Apr 20 2006 [  26032 00] MAP5BACK.FNT 
+-r-xr-xr-x   1    0    0     127308 Feb 13 2007 [  26096 00] MAP5BIT.CG 
+-r-xr-xr-x   1    0    0     110592 Apr 20 2006 [  26160 00] MAP6BACK.FNT 
+-r-xr-xr-x   1    0    0     106980 Feb 13 2007 [  26224 00] MAP6BIT.CG 
+-r-xr-xr-x   1    0    0     153600 Apr 20 2006 [  26288 00] MAP7BACK.FNT 
+-r-xr-xr-x   1    0    0      97208 Feb 13 2007 [  26368 00] MAP7BIT.CG 
+-r-xr-xr-x   1    0    0     192512 Apr 20 2006 [  26416 00] MAP8BACK.FNT 
+-r-xr-xr-x   1    0    0     104110 Feb 13 2007 [  26512 00] MAP8BIT.CG 
+-r-xr-xr-x   1    0    0     128000 Apr 20 2006 [  26576 00] MAP9BACK.FNT 
+-r-xr-xr-x   1    0    0     438411 Feb 13 2007 [  26640 00] MAP9BIT.CG 
+-r-xr-xr-x   1    0    0    1145499 Feb 13 2007 [  26864 00] MEN0.CG 
+-r-xr-xr-x   1    0    0     602872 Feb 13 2007 [  27424 00] MEN1.CG 
+-r-xr-xr-x   1    0    0    1191067 Feb 13 2007 [  27728 00] MEN2.CG 
+-r-xr-xr-x   1    0    0    1214414 Feb 13 2007 [  28320 00] MEN3.CG 
+-r-xr-xr-x   1    0    0     892824 Feb 13 2007 [  28928 00] MEN4.CG 
+-r-xr-xr-x   1    0    0     701001 Feb 13 2007 [  29376 00] MEN5.CG 
+-r-xr-xr-x   1    0    0    1177695 Feb 13 2007 [  29728 00] MEN6.CG 
+-r-xr-xr-x   1    0    0    1433687 Feb 13 2007 [  30304 00] MEN7.CG 
+-r-xr-xr-x   1    0    0     806880 Feb 13 2007 [  31008 00] MEN8.CG 
+=============================================================== 
+Generated on Tue 09/08/2022 at  5:38:30.90 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

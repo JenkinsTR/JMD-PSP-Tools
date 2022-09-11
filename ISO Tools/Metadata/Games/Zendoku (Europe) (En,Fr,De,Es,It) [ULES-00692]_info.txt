@@ -1,0 +1,157 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Zendoku   
+Title ID: ULES-00692 
+Region: Europe  
+Languages: En,Fr,De,Es,It  
+Volume Creation Date: 2007-01-31 11:25:51 
+Volume Size: 72 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: ZOONAMI
+Volume set id: ZOONAMI
+Publisher id: EIDOS
+Data preparer id: ZOONAMI
+Application id: PSP GAME
+Copyright File id: 
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 37168
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Jan 31 2007 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 31 2007 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jan 31 2007 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Jan 31 2007 [     32 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Jan 31 2007 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 31 2007 [     22 02] .. 
+-r-xr-xr-x   1    0    0      16239 Dec 12 2006 [  21744 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        472 Jan 29 2007 [  21728 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0      53371 Dec 12 2006 [  21760 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0     255120 Jan 26 2007 [  21792 00] SND0.AT3 
+dr-xr-xr-x   1    0    0       2048 Jan 31 2007 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Jan 31 2007 [     25 02] USRDIR 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Jan 31 2007 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 31 2007 [     23 02] .. 
+-r-xr-xr-x   1    0    0    2396692 Jan 31 2007 [  35984 00] BOOT.BIN 
+-r-xr-xr-x   1    0    0    2397040 Jan 31 2007 [     48 00] EBOOT.BIN 
+dr-xr-xr-x   1    0    0       2048 Jan 31 2007 [     26 02] UPDATE 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Jan 31 2007 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 31 2007 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 Jan 31 2007 [     27 02] kmodule 
+dr-xr-xr-x   1    0    0       2048 Jan 31 2007 [     28 02] music 
+dr-xr-xr-x   1    0    0       4096 Jan 31 2007 [     29 02] pkg 
+dr-xr-xr-x   1    0    0       2048 Jan 31 2007 [     31 02] share 
+
+Directory listing of /PSP_GAME/SYSDIR/UPDATE/
+dr-xr-xr-x   1    0    0       2048 Jan 31 2007 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 31 2007 [     24 02] .. 
+-r-xr-xr-x   1    0    0   16681232 Jan 31 2007 [   5344 00] DATA.BIN 
+-r-xr-xr-x   1    0    0    5227056 Jan 31 2007 [   1248 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0       2080 Jan 31 2007 [   1232 00] PARAM.SFO 
+
+Directory listing of /PSP_GAME/USRDIR/kmodule/
+dr-xr-xr-x   1    0    0       2048 Jan 31 2007 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 31 2007 [     25 02] .. 
+-r-xr-xr-x   1    0    0       3264 Dec 12 2006 [  21936 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0      10128 Dec 12 2006 [  21952 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0       2448 Dec 12 2006 [  21968 00] pspnet_ap_dialog_dummy.prx 
+-r-xr-xr-x   1    0    0       6864 Dec 12 2006 [  21920 00] sc_sascore.prx 
+
+Directory listing of /PSP_GAME/USRDIR/music/
+dr-xr-xr-x   1    0    0       2048 Jan 31 2007 [     28 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 31 2007 [     25 02] .. 
+-r-xr-xr-x   1    0    0     607564 Dec 12 2006 [  27744 00] attackbo.at3 
+-r-xr-xr-x   1    0    0    1588300 Dec 12 2006 [  28048 00] battle.at3 
+-r-xr-xr-x   1    0    0    1588300 Dec 12 2006 [  28832 00] classic.at3 
+-r-xr-xr-x   1    0    0    1130188 Dec 12 2006 [  29616 00] classicm.at3 
+-r-xr-xr-x   1    0    0    1428940 Dec 12 2006 [  30176 00] coop.at3 
+-r-xr-xr-x   1    0    0     617932 Dec 12 2006 [  30880 00] credits.at3 
+-r-xr-xr-x   1    0    0      84940 Dec 12 2006 [  31184 00] defeat.at3 
+-r-xr-xr-x   1    0    0     317644 Dec 12 2006 [  31232 00] dojo.at3 
+-r-xr-xr-x   1    0    0    1786060 Dec 12 2006 [  31392 00] quest.at3 
+-r-xr-xr-x   1    0    0     102220 Dec 12 2006 [  32272 00] victory.at3 
+-r-xr-xr-x   1    0    0     793036 Dec 12 2006 [  32336 00] zen.at3 
+-r-xr-xr-x   1    0    0     635212 Dec 12 2006 [  32736 00] zendokum.at3 
+
+Directory listing of /PSP_GAME/USRDIR/pkg/
+dr-xr-xr-x   1    0    0       4096 Jan 31 2007 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 31 2007 [     25 02] .. 
+-r-xr-xr-x   1    0    0     201049 Jan 31 2007 [  27632 00] abox_psp.pkg 
+-r-xr-xr-x   1    0    0    1062259 Jan 31 2007 [  22304 00] attacks_psp.pkg 
+-r-xr-xr-x   1    0    0     262786 Jan 31 2007 [  23232 00] ayumi_psp.pkg 
+-r-xr-xr-x   1    0    0     243904 Jan 31 2007 [  24400 00] boomboom_psp.pkg 
+-r-xr-xr-x   1    0    0     271827 Jan 31 2007 [  24528 00] chips_psp.pkg 
+-r-xr-xr-x   1    0    0     299969 Jan 31 2007 [  27472 00] dojo_psp.pkg 
+-r-xr-xr-x   1    0    0    1080282 Jan 31 2007 [  26416 00] frontend_psp.pkg 
+-r-xr-xr-x   1    0    0      70678 Jan 31 2007 [  22944 00] highscore_psp.pkg 
+-r-xr-xr-x   1    0    0     304054 Jan 31 2007 [  21984 00] hiroshi_psp.pkg 
+-r-xr-xr-x   1    0    0     236682 Jan 31 2007 [  24672 00] junjielong_psp.pkg 
+-r-xr-xr-x   1    0    0     291457 Jan 31 2007 [  24800 00] kayerah_psp.pkg 
+-r-xr-xr-x   1    0    0     361243 Jan 31 2007 [  24944 00] kekhmaat_psp.pkg 
+-r-xr-xr-x   1    0    0     262882 Jan 31 2007 [  23376 00] kingkage_psp.pkg 
+-r-xr-xr-x   1    0    0     233984 Jan 31 2007 [  25136 00] lorraine_psp.pkg 
+-r-xr-xr-x   1    0    0      23105 Jan 31 2007 [  22992 00] matchmaking_psp.pkg 
+-r-xr-xr-x   1    0    0     304071 Jan 31 2007 [  22144 00] musashi_psp.pkg 
+-r-xr-xr-x   1    0    0     106033 Jan 31 2007 [  25536 00] quest_ayumi_psp.pkg 
+-r-xr-xr-x   1    0    0      92339 Jan 31 2007 [  26064 00] quest_boomboom_psp.pkg 
+-r-xr-xr-x   1    0    0      77352 Jan 31 2007 [  26112 00] quest_chips_psp.pkg 
+-r-xr-xr-x   1    0    0      77542 Jan 31 2007 [  25424 00] quest_hiroshi_psp.pkg 
+-r-xr-xr-x   1    0    0      65471 Jan 31 2007 [  26160 00] quest_junjielong_psp.pkg 
+-r-xr-xr-x   1    0    0     119149 Jan 31 2007 [  26192 00] quest_kayerah_psp.pkg 
+-r-xr-xr-x   1    0    0      80155 Jan 31 2007 [  26256 00] quest_kekhmaat_psp.pkg 
+-r-xr-xr-x   1    0    0     121423 Jan 31 2007 [  25600 00] quest_kingkage_psp.pkg 
+-r-xr-xr-x   1    0    0     118904 Jan 31 2007 [  26304 00] quest_lorraine_psp.pkg 
+-r-xr-xr-x   1    0    0     126750 Jan 31 2007 [  25472 00] quest_musashi_psp.pkg 
+-r-xr-xr-x   1    0    0     721445 Jan 31 2007 [  27104 00] quest_psp.pkg 
+-r-xr-xr-x   1    0    0     117695 Jan 31 2007 [  25664 00] quest_sakura_psp.pkg 
+-r-xr-xr-x   1    0    0     104180 Jan 31 2007 [  25728 00] quest_sando_psp.pkg 
+-r-xr-xr-x   1    0    0     140667 Jan 31 2007 [  25792 00] quest_shinji_psp.pkg 
+-r-xr-xr-x   1    0    0     144303 Jan 31 2007 [  25872 00] quest_sonny_psp.pkg 
+-r-xr-xr-x   1    0    0      91728 Jan 31 2007 [  25952 00] quest_sonoko_psp.pkg 
+-r-xr-xr-x   1    0    0      80121 Jan 31 2007 [  26368 00] quest_suwedi_psp.pkg 
+-r-xr-xr-x   1    0    0     120204 Jan 31 2007 [  26000 00] quest_yatta_psp.pkg 
+-r-xr-xr-x   1    0    0     265545 Jan 31 2007 [  23520 00] sakura_psp.pkg 
+-r-xr-xr-x   1    0    0     319100 Jan 31 2007 [  23664 00] sando_psp.pkg 
+-r-xr-xr-x   1    0    0     249866 Jan 31 2007 [  23824 00] shinji_psp.pkg 
+-r-xr-xr-x   1    0    0     249373 Jan 31 2007 [  23952 00] sonny_psp.pkg 
+-r-xr-xr-x   1    0    0     367032 Jan 31 2007 [  24080 00] sonoko_psp.pkg 
+-r-xr-xr-x   1    0    0     201480 Jan 31 2007 [  22832 00] sound_psp.pkg 
+-r-xr-xr-x   1    0    0     325231 Jan 31 2007 [  25264 00] suwedi_psp.pkg 
+-r-xr-xr-x   1    0    0     259420 Jan 31 2007 [  24272 00] yatta_psp.pkg 
+-r-xr-xr-x   1    0    0     301491 Jan 31 2007 [  26944 00] zenmode_psp.pkg 
+-r-xr-xr-x   1    0    0     433060 Jan 31 2007 [  23008 00] zmulti_psp.pkg 
+
+Directory listing of /PSP_GAME/USRDIR/share/
+dr-xr-xr-x   1    0    0       2048 Jan 31 2007 [     31 02] . 
+dr-xr-xr-x   1    0    0       2048 Jan 31 2007 [     25 02] .. 
+-r-xr-xr-x   1    0    0    5988624 Jan 31 2007 [  33056 00] gds.dat 
+=============================================================== 
+Generated on Wed 10/08/2022 at 20:04:39.45 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

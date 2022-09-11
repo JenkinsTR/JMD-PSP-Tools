@@ -1,0 +1,590 @@
+=============================================================== 
+                    PSP ISO Reporting Tool 
+            (c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 
+--------------------------------------------------------------- 
+Title: Bleach - Heat the Soul  
+Title ID: UCJS-10008 
+Region: Japan  
+Languages:   
+Volume Creation Date: 2005-02-28 13:05:51 
+Volume Size: 293 MB 
+--------------------------------------------------------------- 
+ 
+--------------------------------------------------------------- 
+ISO Metadata 
+--------------------------------------------------------------- 
+CD-ROM is in ISO 9660 format
+System id: PSP GAME
+Volume id: 
+Volume set id: 
+Publisher id: 
+Data preparer id: 
+Application id: PSP GAME
+Copyright File id: SONY COMPUTER ENTERTAINMENT
+Abstract File id: 
+Bibliographic File id: 
+Volume set size is: 1
+Volume set sequence number is: 1
+Logical block size is: 2048
+Volume size is: 150464
+NO Joliet present
+
+No SUSP/Rock Ridge present
+ 
+--------------------------------------------------------------- 
+ISO File List 
+--------------------------------------------------------------- 
+
+Directory listing of /
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     22 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     23 02] PSP_GAME 
+-r-xr-xr-x   1    0    0         48 Nov 11 2004 [    933 00] UMD_DATA.BIN 
+
+Directory listing of /PSP_GAME/
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     23 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     22 02] .. 
+dr-xr-xr-x   1    0    0       2048 Nov 11 2004 [     24 02] SYSDIR 
+dr-xr-xr-x   1    0    0       2048 Nov 11 2004 [     25 02] USRDIR 
+-r-xr-xr-x   1    0    0     276480 Feb 17 2005 [   1776 00] ICON1.PMF 
+-r-xr-xr-x   1    0    0      24647 Feb 22 2005 [   1920 00] ICON0.PNG 
+-r-xr-xr-x   1    0    0        472 Feb 27 2005 [   1936 00] PARAM.SFO 
+-r-xr-xr-x   1    0    0     303804 Feb 28 2005 [   1952 00] PIC1.PNG 
+-r-xr-xr-x   1    0    0      73525 Feb 26 2005 [   2112 00] PIC0.PNG 
+
+Directory listing of /PSP_GAME/SYSDIR/
+dr-xr-xr-x   1    0    0       2048 Nov 11 2004 [     24 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     23 02] .. 
+-r-xr-xr-x   1    0    0    1746704 Feb 28 2005 [     80 00] EBOOT.BIN 
+-r-xr-xr-x   1    0    0    1746366 Feb 28 2005 [ 149600 00] BOOT.BIN 
+
+Directory listing of /PSP_GAME/USRDIR/
+dr-xr-xr-x   1    0    0       2048 Nov 11 2004 [     25 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     23 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2005 [     26 02] data 
+
+Directory listing of /PSP_GAME/USRDIR/data/
+dr-xr-xr-x   1    0    0       2048 Feb 15 2005 [     26 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov 11 2004 [     25 02] .. 
+dr-xr-xr-x   1    0    0       4096 Nov 18 2004 [     27 02] module 
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     29 02] fpack 
+dr-xr-xr-x   1    0    0       2048 Nov  9 2004 [     30 02] str 
+
+Directory listing of /PSP_GAME/USRDIR/data/module/
+dr-xr-xr-x   1    0    0       4096 Nov 18 2004 [     27 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2005 [     26 02] .. 
+-r-xr-xr-x   1    0    0       3232 Nov 16 2004 [    944 00] audiocodec.prx 
+-r-xr-xr-x   1    0    0      10832 Nov 16 2004 [    960 00] ifhandle.prx 
+-r-xr-xr-x   1    0    0       1488 Nov 16 2004 [    976 00] libadler.prx 
+-r-xr-xr-x   1    0    0      19524 Nov 16 2004 [    992 00] libatrac3plus.prx 
+-r-xr-xr-x   1    0    0       2252 Nov 16 2004 [   1008 00] libbase64.prx 
+-r-xr-xr-x   1    0    0      43188 Nov 16 2004 [   1024 00] libfont.prx 
+-r-xr-xr-x   1    0    0      12192 Nov 16 2004 [   1056 00] libfpu.prx 
+-r-xr-xr-x   1    0    0      79544 Nov 16 2004 [   1072 00] libhttp.prx 
+-r-xr-xr-x   1    0    0       1816 Nov 16 2004 [   1120 00] libmt19937.prx 
+-r-xr-xr-x   1    0    0      20704 Oct 26 2004 [   1136 00] libnetcnf.prx 
+-r-xr-xr-x   1    0    0       5116 Nov 16 2004 [   1152 00] libparse_http.prx 
+-r-xr-xr-x   1    0    0      15488 Nov 16 2004 [   1168 00] libparse_uri.prx 
+-r-xr-xr-x   1    0    0       2924 Nov 16 2004 [   1184 00] libqpcode.prx 
+-r-xr-xr-x   1    0    0      15216 Nov 16 2004 [   1200 00] memab.prx 
+-r-xr-xr-x   1    0    0      39624 Nov 16 2004 [   1216 00] mpeg.prx 
+-r-xr-xr-x   1    0    0       9552 Nov 17 2004 [   1248 00] mpegbase.prx 
+-r-xr-xr-x   1    0    0      60256 Nov 16 2004 [   1264 00] pspnet.prx 
+-r-xr-xr-x   1    0    0      40140 Nov 16 2004 [   1296 00] pspnet_adhoc.prx 
+-r-xr-xr-x   1    0    0      36416 Nov 17 2004 [   1328 00] pspnet_adhocctl.prx 
+-r-xr-xr-x   1    0    0      10816 Nov 16 2004 [   1360 00] pspnet_adhoc_auth.prx 
+-r-xr-xr-x   1    0    0      14316 Nov 16 2004 [   1376 00] pspnet_adhoc_download.prx 
+-r-xr-xr-x   1    0    0      19480 Nov 16 2004 [   1392 00] pspnet_adhoc_matching.prx 
+-r-xr-xr-x   1    0    0      45196 Nov 17 2004 [   1408 00] pspnet_apctl.prx 
+-r-xr-xr-x   1    0    0       4788 Nov 16 2004 [   1440 00] pspnet_ap_dialog_dummy.prx 
+-r-xr-xr-x   1    0    0     247248 Nov 16 2004 [   1456 00] pspnet_inet.prx 
+-r-xr-xr-x   1    0    0      12488 Nov 16 2004 [   1584 00] pspnet_resolver.prx 
+-r-xr-xr-x   1    0    0      85192 Nov 16 2004 [   1600 00] rinit.prx 
+-r-xr-xr-x   1    0    0      67824 Nov 16 2004 [   1648 00] scan.prx 
+-r-xr-xr-x   1    0    0       5920 Nov 16 2004 [   1696 00] sc_sascore.prx 
+-r-xr-xr-x   1    0    0      64004 Nov 16 2004 [   1712 00] show_macaddr.prx 
+-r-xr-xr-x   1    0    0      14528 Nov 16 2004 [   1744 00] usbpspcm.prx 
+-r-xr-xr-x   1    0    0       3808 Nov 16 2004 [   1760 00] videocodec.prx 
+
+Directory listing of /PSP_GAME/USRDIR/data/fpack/
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     29 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2005 [     26 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 26 2005 [     31 02] chr 
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     32 02] cmn 
+dr-xr-xr-x   1    0    0       2048 Feb 26 2005 [     33 02] eft 
+dr-xr-xr-x   1    0    0       8192 Feb 28 2005 [     34 02] game 
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     38 02] mini 
+-r-xr-xr-x   1    0    0     648368 Feb 28 2005 [  44848 00] seq0000.fpk 
+dr-xr-xr-x   1    0    0       2048 Feb 26 2005 [     39 02] sound 
+dr-xr-xr-x   1    0    0       2048 Feb 26 2005 [     40 02] stg 
+dr-xr-xr-x   1    0    0       4096 Feb 28 2005 [     41 02] story 
+
+Directory listing of /PSP_GAME/USRDIR/data/str/
+dr-xr-xr-x   1    0    0       2048 Nov  9 2004 [     30 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 15 2005 [     26 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     43 02] movie 
+
+Directory listing of /PSP_GAME/USRDIR/data/fpack/chr/
+dr-xr-xr-x   1    0    0       2048 Feb 26 2005 [     31 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     29 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     44 02] cha 
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     45 02] cmn 
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     46 02] iti 
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     47 02] ori 
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     48 02] ren 
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     49 02] ruk 
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     50 02] ury 
+
+Directory listing of /PSP_GAME/USRDIR/data/fpack/cmn/
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     32 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     29 02] .. 
+-r-xr-xr-x   1    0    0      11120 Feb 28 2005 [  21552 00] 0000.fpk 
+-r-xr-xr-x   1    0    0      46384 Feb 28 2005 [  21568 00] 3000.fpk 
+
+Directory listing of /PSP_GAME/USRDIR/data/fpack/eft/
+dr-xr-xr-x   1    0    0       2048 Feb 26 2005 [     33 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     29 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     51 02] cha 
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     52 02] cmn 
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     53 02] iti 
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     54 02] ori 
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     55 02] par 
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     56 02] ren 
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     57 02] ruk 
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     58 02] ury 
+
+Directory listing of /PSP_GAME/USRDIR/data/fpack/game/
+dr-xr-xr-x   1    0    0       8192 Feb 28 2005 [     34 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     29 02] .. 
+-r-xr-xr-x   1    0    0     690592 Feb 28 2005 [  21920 00] 0001.fpk 
+-r-xr-xr-x   1    0    0     120144 Feb 28 2005 [  22272 00] 0002.fpk 
+-r-xr-xr-x   1    0    0      82608 Feb 28 2005 [  22336 00] 0003.fpk 
+-r-xr-xr-x   1    0    0     369952 Feb 28 2005 [  22384 00] 0004.fpk 
+-r-xr-xr-x   1    0    0      53872 Feb 28 2005 [  22576 00] 0005.fpk 
+-r-xr-xr-x   1    0    0       8976 Feb 28 2005 [  22608 00] 1000.fpk 
+-r-xr-xr-x   1    0    0     379152 Feb 28 2005 [  22624 00] 1002.fpk 
+-r-xr-xr-x   1    0    0     158144 Feb 28 2005 [  22816 00] 1003.fpk 
+-r-xr-xr-x   1    0    0     370480 Feb 28 2005 [  22896 00] 1004.fpk 
+-r-xr-xr-x   1    0    0     260192 Feb 28 2005 [  23088 00] 1005.fpk 
+-r-xr-xr-x   1    0    0      30832 Feb 28 2005 [  23216 00] 1006.fpk 
+-r-xr-xr-x   1    0    0     144480 Feb 28 2005 [  23232 00] 1007.fpk 
+-r-xr-xr-x   1    0    0    1138544 Feb 28 2005 [  23312 00] 1008.fpk 
+-r-xr-xr-x   1    0    0     883824 Feb 28 2005 [  23872 00] 1009.fpk 
+-r-xr-xr-x   1    0    0      40640 Feb 28 2005 [  24304 00] 1010.fpk 
+-r-xr-xr-x   1    0    0      36672 Feb 28 2005 [  24336 00] 1011.fpk 
+-r-xr-xr-x   1    0    0      27712 Feb 28 2005 [  24368 00] 1012.fpk 
+-r-xr-xr-x   1    0    0      25632 Feb 28 2005 [  24384 00] 1013.fpk 
+-r-xr-xr-x   1    0    0      25760 Feb 28 2005 [  24400 00] 1014.fpk 
+-r-xr-xr-x   1    0    0      26528 Feb 28 2005 [  24416 00] 1015.fpk 
+-r-xr-xr-x   1    0    0      41472 Feb 28 2005 [  24432 00] 1016.fpk 
+-r-xr-xr-x   1    0    0      64832 Feb 28 2005 [  24464 00] 1017.fpk 
+-r-xr-xr-x   1    0    0      83264 Feb 28 2005 [  24496 00] 1099.fpk 
+-r-xr-xr-x   1    0    0     238816 Feb 28 2005 [  24544 00] 1100.fpk 
+-r-xr-xr-x   1    0    0     239888 Feb 28 2005 [  24672 00] 1101.fpk 
+-r-xr-xr-x   1    0    0     239024 Feb 28 2005 [  24800 00] 1102.fpk 
+-r-xr-xr-x   1    0    0     253200 Feb 28 2005 [  24928 00] 1103.fpk 
+-r-xr-xr-x   1    0    0     249328 Feb 28 2005 [  25056 00] 1104.fpk 
+-r-xr-xr-x   1    0    0     255088 Feb 28 2005 [  25184 00] 1105.fpk 
+-r-xr-xr-x   1    0    0     259088 Feb 28 2005 [  25312 00] 1106.fpk 
+-r-xr-xr-x   1    0    0     261568 Feb 28 2005 [  25440 00] 1107.fpk 
+-r-xr-xr-x   1    0    0     238256 Feb 28 2005 [  25568 00] 1108.fpk 
+-r-xr-xr-x   1    0    0     259360 Feb 28 2005 [  25696 00] 1109.fpk 
+-r-xr-xr-x   1    0    0     267328 Feb 28 2005 [  25824 00] 1110.fpk 
+-r-xr-xr-x   1    0    0     253984 Feb 28 2005 [  25968 00] 1111.fpk 
+-r-xr-xr-x   1    0    0     296912 Feb 28 2005 [  26096 00] 1112.fpk 
+-r-xr-xr-x   1    0    0     278656 Feb 28 2005 [  26256 00] 1113.fpk 
+-r-xr-xr-x   1    0    0     267152 Feb 28 2005 [  26400 00] 1114.fpk 
+-r-xr-xr-x   1    0    0     275472 Feb 28 2005 [  26544 00] 1115.fpk 
+-r-xr-xr-x   1    0    0     264032 Feb 28 2005 [  26688 00] 1116.fpk 
+-r-xr-xr-x   1    0    0     268496 Feb 28 2005 [  26832 00] 1117.fpk 
+-r-xr-xr-x   1    0    0     269904 Feb 28 2005 [  26976 00] 1118.fpk 
+-r-xr-xr-x   1    0    0     300592 Feb 28 2005 [  27120 00] 1119.fpk 
+-r-xr-xr-x   1    0    0     325840 Feb 28 2005 [  27280 00] 1120.fpk 
+-r-xr-xr-x   1    0    0     228880 Feb 28 2005 [  27440 00] 1121.fpk 
+-r-xr-xr-x   1    0    0     257360 Feb 28 2005 [  27552 00] 1122.fpk 
+-r-xr-xr-x   1    0    0     227952 Feb 28 2005 [  27680 00] 1123.fpk 
+-r-xr-xr-x   1    0    0     272176 Feb 28 2005 [  27792 00] 1124.fpk 
+-r-xr-xr-x   1    0    0     241776 Feb 28 2005 [  27936 00] 1125.fpk 
+-r-xr-xr-x   1    0    0     230608 Feb 28 2005 [  28064 00] 1126.fpk 
+-r-xr-xr-x   1    0    0     198816 Feb 28 2005 [  28192 00] 1127.fpk 
+-r-xr-xr-x   1    0    0     223824 Feb 28 2005 [  28304 00] 1128.fpk 
+-r-xr-xr-x   1    0    0     235680 Feb 28 2005 [  28416 00] 1129.fpk 
+-r-xr-xr-x   1    0    0     245232 Feb 28 2005 [  28544 00] 1130.fpk 
+-r-xr-xr-x   1    0    0     256944 Feb 28 2005 [  28672 00] 1131.fpk 
+-r-xr-xr-x   1    0    0     247488 Feb 28 2005 [  28800 00] 1132.fpk 
+-r-xr-xr-x   1    0    0     275312 Feb 28 2005 [  28928 00] 1133.fpk 
+-r-xr-xr-x   1    0    0     275072 Feb 28 2005 [  29072 00] 1134.fpk 
+-r-xr-xr-x   1    0    0     255744 Feb 28 2005 [  29216 00] 1135.fpk 
+-r-xr-xr-x   1    0    0     272304 Feb 28 2005 [  29344 00] 1136.fpk 
+-r-xr-xr-x   1    0    0     259120 Feb 28 2005 [  29488 00] 1137.fpk 
+-r-xr-xr-x   1    0    0     262224 Feb 28 2005 [  29616 00] 1138.fpk 
+-r-xr-xr-x   1    0    0     283504 Feb 28 2005 [  29760 00] 1139.fpk 
+-r-xr-xr-x   1    0    0     313440 Feb 28 2005 [  29904 00] 1140.fpk 
+-r-xr-xr-x   1    0    0     105232 Feb 28 2005 [  30064 00] 1141.fpk 
+-r-xr-xr-x   1    0    0     227728 Feb 28 2005 [  30128 00] 1180.fpk 
+-r-xr-xr-x   1    0    0     261248 Feb 28 2005 [  30240 00] 1181.fpk 
+-r-xr-xr-x   1    0    0     241584 Feb 28 2005 [  30368 00] 1182.fpk 
+-r-xr-xr-x   1    0    0     167920 Feb 28 2005 [  30496 00] 1183.fpk 
+-r-xr-xr-x   1    0    0     252576 Feb 28 2005 [  30592 00] 1184.fpk 
+-r-xr-xr-x   1    0    0     227264 Feb 28 2005 [  30720 00] 1185.fpk 
+-r-xr-xr-x   1    0    0     191504 Feb 28 2005 [  30832 00] 1186.fpk 
+-r-xr-xr-x   1    0    0     226064 Feb 28 2005 [  30928 00] 1200.fpk 
+-r-xr-xr-x   1    0    0     103440 Feb 28 2005 [  31040 00] 1201.fpk 
+-r-xr-xr-x   1    0    0     105984 Feb 28 2005 [  31104 00] 1202.fpk 
+-r-xr-xr-x   1    0    0      95680 Feb 28 2005 [  31168 00] 1203.fpk 
+-r-xr-xr-x   1    0    0      94112 Feb 28 2005 [  31216 00] 1204.fpk 
+-r-xr-xr-x   1    0    0     211728 Feb 28 2005 [  31264 00] 1210.fpk 
+-r-xr-xr-x   1    0    0      73280 Feb 28 2005 [  31376 00] 1211.fpk 
+-r-xr-xr-x   1    0    0      69712 Feb 28 2005 [  31424 00] 1212.fpk 
+-r-xr-xr-x   1    0    0      67296 Feb 28 2005 [  31472 00] 1213.fpk 
+-r-xr-xr-x   1    0    0     130512 Feb 28 2005 [  31520 00] 1214.fpk 
+-r-xr-xr-x   1    0    0     241136 Feb 28 2005 [  31584 00] 1220.fpk 
+-r-xr-xr-x   1    0    0     130672 Feb 28 2005 [  31712 00] 1221.fpk 
+-r-xr-xr-x   1    0    0     111008 Feb 28 2005 [  31776 00] 1222.fpk 
+-r-xr-xr-x   1    0    0     213808 Feb 28 2005 [  31840 00] 1230.fpk 
+-r-xr-xr-x   1    0    0      71120 Feb 28 2005 [  31952 00] 1231.fpk 
+-r-xr-xr-x   1    0    0      98896 Feb 28 2005 [  32000 00] 1232.fpk 
+-r-xr-xr-x   1    0    0     215088 Feb 28 2005 [  32064 00] 1240.fpk 
+-r-xr-xr-x   1    0    0      73600 Feb 28 2005 [  32176 00] 1241.fpk 
+-r-xr-xr-x   1    0    0     122016 Feb 28 2005 [  32224 00] 1242.fpk 
+-r-xr-xr-x   1    0    0     227648 Feb 28 2005 [  32288 00] 1250.fpk 
+-r-xr-xr-x   1    0    0      96976 Feb 28 2005 [  32400 00] 1251.fpk 
+-r-xr-xr-x   1    0    0     147712 Feb 28 2005 [  32448 00] 1252.fpk 
+-r-xr-xr-x   1    0    0     121168 Feb 28 2005 [  32528 00] 1260.fpk 
+-r-xr-xr-x   1    0    0     100688 Feb 28 2005 [  32592 00] 1261.fpk 
+-r-xr-xr-x   1    0    0     112560 Feb 28 2005 [  32656 00] 1262.fpk 
+-r-xr-xr-x   1    0    0      96880 Feb 28 2005 [  32720 00] 1263.fpk 
+-r-xr-xr-x   1    0    0      84000 Feb 28 2005 [  32768 00] 1264.fpk 
+-r-xr-xr-x   1    0    0      57744 Feb 28 2005 [  32816 00] 1265.fpk 
+-r-xr-xr-x   1    0    0     111328 Feb 28 2005 [  32848 00] 1270.fpk 
+-r-xr-xr-x   1    0    0     147968 Feb 28 2005 [  32912 00] 1271.fpk 
+-r-xr-xr-x   1    0    0     118848 Feb 28 2005 [  32992 00] 1272.fpk 
+-r-xr-xr-x   1    0    0     147632 Feb 28 2005 [  33056 00] 1273.fpk 
+-r-xr-xr-x   1    0    0     114432 Feb 28 2005 [  33136 00] 1274.fpk 
+-r-xr-xr-x   1    0    0     136928 Feb 28 2005 [  33200 00] 1275.fpk 
+-r-xr-xr-x   1    0    0     129296 Feb 28 2005 [  33280 00] 1276.fpk 
+-r-xr-xr-x   1    0    0     134864 Feb 28 2005 [  33344 00] 1277.fpk 
+-r-xr-xr-x   1    0    0     148752 Feb 28 2005 [  33424 00] 1300.fpk 
+-r-xr-xr-x   1    0    0     277216 Feb 28 2005 [  33504 00] 2000.fpk 
+-r-xr-xr-x   1    0    0      31424 Feb 28 2005 [  33648 00] 2001.fpk 
+-r-xr-xr-x   1    0    0     243824 Feb 28 2005 [  33664 00] 2002.fpk 
+-r-xr-xr-x   1    0    0     592736 Feb 28 2005 [  33792 00] 3000.fpk 
+-r-xr-xr-x   1    0    0     645072 Feb 28 2005 [  34096 00] 3001.fpk 
+-r-xr-xr-x   1    0    0     544784 Feb 28 2005 [  34416 00] 3002.fpk 
+-r-xr-xr-x   1    0    0     561312 Feb 28 2005 [  34688 00] 3003.fpk 
+-r-xr-xr-x   1    0    0     557856 Feb 28 2005 [  34976 00] 3004.fpk 
+-r-xr-xr-x   1    0    0     528736 Feb 28 2005 [  35264 00] 3005.fpk 
+-r-xr-xr-x   1    0    0     610240 Feb 28 2005 [  35536 00] 3006.fpk 
+-r-xr-xr-x   1    0    0     590928 Feb 28 2005 [  35840 00] 3007.fpk 
+-r-xr-xr-x   1    0    0     582224 Feb 28 2005 [  36144 00] 3008.fpk 
+-r-xr-xr-x   1    0    0    1406336 Feb 28 2005 [  36432 00] 3100.fpk 
+-r-xr-xr-x   1    0    0     563376 Feb 28 2005 [  37120 00] 5000.fpk 
+
+Directory listing of /PSP_GAME/USRDIR/data/fpack/mini/
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     38 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     29 02] .. 
+-r-xr-xr-x   1    0    0       6688 Feb 28 2005 [  37408 00] 0000.fpk 
+-r-xr-xr-x   1    0    0     858256 Feb 28 2005 [  37424 00] 3000.fpk 
+-r-xr-xr-x   1    0    0     333088 Feb 28 2005 [  37856 00] 7000.fpk 
+-r-xr-xr-x   1    0    0    2122592 Feb 28 2005 [  38032 00] 8000.fpk 
+-r-xr-xr-x   1    0    0     650528 Feb 28 2005 [  39072 00] 9000.fpk 
+-r-xr-xr-x   1    0    0     476960 Feb 28 2005 [  39392 00] 9100.fpk 
+-r-xr-xr-x   1    0    0     496560 Feb 28 2005 [  39632 00] 9500.fpk 
+-r-xr-xr-x   1    0    0     521888 Feb 28 2005 [  39888 00] 9501.fpk 
+-r-xr-xr-x   1    0    0     469456 Feb 28 2005 [  40144 00] 9502.fpk 
+-r-xr-xr-x   1    0    0     471456 Feb 28 2005 [  40384 00] 9503.fpk 
+-r-xr-xr-x   1    0    0     518816 Feb 28 2005 [  40624 00] 9504.fpk 
+-r-xr-xr-x   1    0    0     483392 Feb 28 2005 [  40880 00] 9505.fpk 
+-r-xr-xr-x   1    0    0     510864 Feb 28 2005 [  41120 00] 9506.fpk 
+-r-xr-xr-x   1    0    0     463584 Feb 28 2005 [  41376 00] 9507.fpk 
+-r-xr-xr-x   1    0    0     473904 Feb 28 2005 [  41616 00] 9508.fpk 
+-r-xr-xr-x   1    0    0     493296 Feb 28 2005 [  41856 00] 9509.fpk 
+-r-xr-xr-x   1    0    0     490608 Feb 28 2005 [  42112 00] 9510.fpk 
+-r-xr-xr-x   1    0    0     464624 Feb 28 2005 [  42352 00] 9511.fpk 
+-r-xr-xr-x   1    0    0     466576 Feb 28 2005 [  42592 00] 9512.fpk 
+-r-xr-xr-x   1    0    0     501520 Feb 28 2005 [  42832 00] 9513.fpk 
+-r-xr-xr-x   1    0    0     482720 Feb 28 2005 [  43088 00] 9514.fpk 
+-r-xr-xr-x   1    0    0     506080 Feb 28 2005 [  43328 00] 9515.fpk 
+-r-xr-xr-x   1    0    0     392848 Feb 28 2005 [  43584 00] 9516.fpk 
+-r-xr-xr-x   1    0    0     465808 Feb 28 2005 [  43776 00] 9517.fpk 
+-r-xr-xr-x   1    0    0     468352 Feb 28 2005 [  44016 00] 9518.fpk 
+-r-xr-xr-x   1    0    0     493488 Feb 28 2005 [  44256 00] 9519.fpk 
+-r-xr-xr-x   1    0    0     425472 Feb 28 2005 [  44512 00] 9520.fpk 
+-r-xr-xr-x   1    0    0     249072 Feb 28 2005 [  44720 00] 9599.fpk 
+
+Directory listing of /PSP_GAME/USRDIR/data/fpack/sound/
+dr-xr-xr-x   1    0    0       2048 Feb 26 2005 [     39 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     29 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 26 2005 [     59 02] bgm 
+
+Directory listing of /PSP_GAME/USRDIR/data/fpack/stg/
+dr-xr-xr-x   1    0    0       2048 Feb 26 2005 [     40 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     29 02] .. 
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     60 02] 001 
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     61 02] 002 
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     62 02] 003 
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     63 02] 004 
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     64 02] 005 
+dr-xr-xr-x   1    0    0       2048 Feb 26 2005 [     65 02] cmn 
+
+Directory listing of /PSP_GAME/USRDIR/data/fpack/story/
+dr-xr-xr-x   1    0    0       4096 Feb 28 2005 [     41 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     29 02] .. 
+-r-xr-xr-x   1    0    0    2129248 Feb 28 2005 [  56176 00] scene1_1.fpk 
+-r-xr-xr-x   1    0    0    1639120 Feb 28 2005 [  57216 00] scene1_2.fpk 
+-r-xr-xr-x   1    0    0    1938768 Feb 28 2005 [  58032 00] scene1_3.fpk 
+-r-xr-xr-x   1    0    0    1714464 Feb 28 2005 [  58992 00] scene1_4.fpk 
+-r-xr-xr-x   1    0    0    1796880 Feb 28 2005 [  59840 00] scene1_5.fpk 
+-r-xr-xr-x   1    0    0    1388096 Feb 28 2005 [  60720 00] scene1_6.fpk 
+-r-xr-xr-x   1    0    0    2202608 Feb 28 2005 [  61408 00] scene2_1.fpk 
+-r-xr-xr-x   1    0    0    2005344 Feb 28 2005 [  62496 00] scene2_2.fpk 
+-r-xr-xr-x   1    0    0    1640816 Feb 28 2005 [  63488 00] scene2_3.fpk 
+-r-xr-xr-x   1    0    0    2172256 Feb 28 2005 [  64304 00] scene2_4.fpk 
+-r-xr-xr-x   1    0    0    1953168 Feb 28 2005 [  65376 00] scene2_5.fpk 
+-r-xr-xr-x   1    0    0    1168496 Feb 28 2005 [  66336 00] scene2_6.fpk 
+-r-xr-xr-x   1    0    0    1864656 Feb 28 2005 [  66912 00] scene3_1.fpk 
+-r-xr-xr-x   1    0    0    2100512 Feb 28 2005 [  67824 00] scene3_2.fpk 
+-r-xr-xr-x   1    0    0    2616848 Feb 28 2005 [  68864 00] scene3_3.fpk 
+-r-xr-xr-x   1    0    0    2086528 Feb 28 2005 [  70144 00] scene3_4.fpk 
+-r-xr-xr-x   1    0    0    1524560 Feb 28 2005 [  71168 00] scene3_5.fpk 
+-r-xr-xr-x   1    0    0    2518560 Feb 28 2005 [  71920 00] scene4_1.fpk 
+-r-xr-xr-x   1    0    0    1850432 Feb 28 2005 [  73152 00] scene4_2.fpk 
+-r-xr-xr-x   1    0    0    2200064 Feb 28 2005 [  74064 00] scene4_3.fpk 
+-r-xr-xr-x   1    0    0    2476720 Feb 28 2005 [  75152 00] scene4_4.fpk 
+-r-xr-xr-x   1    0    0    2234160 Feb 28 2005 [  76368 00] scene4_5.fpk 
+-r-xr-xr-x   1    0    0    2465648 Feb 28 2005 [  77472 00] scene5_1.fpk 
+-r-xr-xr-x   1    0    0    1903440 Feb 28 2005 [  78688 00] scene5_2.fpk 
+-r-xr-xr-x   1    0    0    1817184 Feb 28 2005 [  79632 00] scene5_3.fpk 
+-r-xr-xr-x   1    0    0    1642448 Feb 28 2005 [  80528 00] scene5_4.fpk 
+-r-xr-xr-x   1    0    0    1984160 Feb 28 2005 [  81344 00] scene5_5.fpk 
+-r-xr-xr-x   1    0    0    1287232 Feb 28 2005 [  82320 00] scene5_6.fpk 
+-r-xr-xr-x   1    0    0    1626272 Feb 28 2005 [  82960 00] scene6_1.fpk 
+-r-xr-xr-x   1    0    0    1523584 Feb 28 2005 [  83760 00] scene6_2.fpk 
+-r-xr-xr-x   1    0    0    1254016 Feb 28 2005 [  84512 00] scene6_3.fpk 
+-r-xr-xr-x   1    0    0    1445792 Feb 28 2005 [  85136 00] scene6_4.fpk 
+-r-xr-xr-x   1    0    0    1778640 Feb 28 2005 [  85856 00] scene6_5.fpk 
+-r-xr-xr-x   1    0    0    1255104 Feb 28 2005 [  86736 00] scene6_6.fpk 
+
+Directory listing of /PSP_GAME/USRDIR/data/str/movie/
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     43 02] . 
+dr-xr-xr-x   1    0    0       2048 Nov  9 2004 [     30 02] .. 
+-r-xr-xr-x   1    0    0   13148160 Feb 22 2005 [  87360 00] 0000.pmf 
+-r-xr-xr-x   1    0    0   10082304 Feb 28 2005 [  93792 00] 1000.pmf 
+-r-xr-xr-x   1    0    0    2187264 Feb 28 2005 [  98720 00] 10000.pmf 
+-r-xr-xr-x   1    0    0    2062336 Feb 11 2005 [  99792 00] 11000.pmf 
+-r-xr-xr-x   1    0    0   43376640 Feb 15 2005 [ 100800 00] 12000.pmf 
+-r-xr-xr-x   1    0    0   10082304 Feb 28 2005 [ 121984 00] 2000.pmf 
+-r-xr-xr-x   1    0    0   10082304 Feb 28 2005 [ 126912 00] 3000.pmf 
+-r-xr-xr-x   1    0    0   10082304 Feb 28 2005 [ 131840 00] 4000.pmf 
+-r-xr-xr-x   1    0    0   10082304 Feb 28 2005 [ 136768 00] 5000.pmf 
+-r-xr-xr-x   1    0    0   10082304 Feb 28 2005 [ 141696 00] 6000.pmf 
+-r-xr-xr-x   1    0    0    1943552 Feb 14 2005 [ 146624 00] 7000.pmf 
+-r-xr-xr-x   1    0    0    2033664 Feb 14 2005 [ 147584 00] 8000.pmf 
+-r-xr-xr-x   1    0    0    2056192 Feb 14 2005 [ 148592 00] 9000.pmf 
+
+Directory listing of /PSP_GAME/USRDIR/data/fpack/chr/cha/
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     44 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 26 2005 [     31 02] .. 
+-r-xr-xr-x   1    0    0     251264 Feb 28 2005 [   2160 00] 0000.fpk 
+-r-xr-xr-x   1    0    0     255344 Feb 28 2005 [   2288 00] 0100.fpk 
+-r-xr-xr-x   1    0    0     232544 Feb 28 2005 [   2416 00] 1000.fpk 
+-r-xr-xr-x   1    0    0     304544 Feb 28 2005 [   2544 00] 3000.fpk 
+-r-xr-xr-x   1    0    0     352656 Feb 28 2005 [   2704 00] 4003.fpk 
+-r-xr-xr-x   1    0    0     349008 Feb 28 2005 [   2880 00] 4011.fpk 
+-r-xr-xr-x   1    0    0     370816 Feb 28 2005 [   3056 00] 4016.fpk 
+-r-xr-xr-x   1    0    0     385152 Feb 28 2005 [   3248 00] 4022.fpk 
+-r-xr-xr-x   1    0    0     409776 Feb 28 2005 [   3440 00] 4023.fpk 
+-r-xr-xr-x   1    0    0     403808 Feb 28 2005 [   3648 00] 4024.fpk 
+-r-xr-xr-x   1    0    0     437920 Feb 28 2005 [   3856 00] 4025.fpk 
+-r-xr-xr-x   1    0    0     383456 Feb 28 2005 [   4080 00] 4029.fpk 
+-r-xr-xr-x   1    0    0     350832 Feb 28 2005 [   4272 00] 4037.fpk 
+
+Directory listing of /PSP_GAME/USRDIR/data/fpack/chr/cmn/
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     45 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 26 2005 [     31 02] .. 
+-r-xr-xr-x   1    0    0     135008 Feb 28 2005 [   4448 00] 0000.fpk 
+-r-xr-xr-x   1    0    0        480 Feb 28 2005 [   4528 00] 1000.fpk 
+
+Directory listing of /PSP_GAME/USRDIR/data/fpack/chr/iti/
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     46 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 26 2005 [     31 02] .. 
+-r-xr-xr-x   1    0    0     213840 Feb 28 2005 [   4544 00] 0000.fpk 
+-r-xr-xr-x   1    0    0     213728 Feb 28 2005 [   4656 00] 0100.fpk 
+-r-xr-xr-x   1    0    0     260032 Feb 28 2005 [   4768 00] 1000.fpk 
+-r-xr-xr-x   1    0    0     555888 Feb 28 2005 [   4896 00] 3000.fpk 
+-r-xr-xr-x   1    0    0     618080 Feb 28 2005 [   5168 00] 4002.fpk 
+-r-xr-xr-x   1    0    0     580784 Feb 28 2005 [   5472 00] 4003.fpk 
+-r-xr-xr-x   1    0    0     586080 Feb 28 2005 [   5760 00] 4004.fpk 
+-r-xr-xr-x   1    0    0     600672 Feb 28 2005 [   6048 00] 4005.fpk 
+-r-xr-xr-x   1    0    0     615648 Feb 28 2005 [   6352 00] 4006.fpk 
+-r-xr-xr-x   1    0    0     555680 Feb 28 2005 [   6656 00] 4009.fpk 
+-r-xr-xr-x   1    0    0     526304 Feb 28 2005 [   6928 00] 4013.fpk 
+-r-xr-xr-x   1    0    0     587968 Feb 28 2005 [   7200 00] 4025.fpk 
+-r-xr-xr-x   1    0    0     560384 Feb 28 2005 [   7488 00] 4031.fpk 
+-r-xr-xr-x   1    0    0     561648 Feb 28 2005 [   7776 00] 4039.fpk 
+
+Directory listing of /PSP_GAME/USRDIR/data/fpack/chr/ori/
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     47 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 26 2005 [     31 02] .. 
+-r-xr-xr-x   1    0    0     201680 Feb 28 2005 [   8064 00] 0000.fpk 
+-r-xr-xr-x   1    0    0     201408 Feb 28 2005 [   8176 00] 0100.fpk 
+-r-xr-xr-x   1    0    0     228240 Feb 28 2005 [   8288 00] 1000.fpk 
+-r-xr-xr-x   1    0    0     609536 Feb 28 2005 [   8400 00] 3000.fpk 
+-r-xr-xr-x   1    0    0     605168 Feb 28 2005 [   8704 00] 4004.fpk 
+-r-xr-xr-x   1    0    0     577072 Feb 28 2005 [   9008 00] 4010.fpk 
+-r-xr-xr-x   1    0    0     632240 Feb 28 2005 [   9296 00] 4016.fpk 
+-r-xr-xr-x   1    0    0     654224 Feb 28 2005 [   9616 00] 4017.fpk 
+-r-xr-xr-x   1    0    0     679632 Feb 28 2005 [   9936 00] 4018.fpk 
+-r-xr-xr-x   1    0    0     614560 Feb 28 2005 [  10272 00] 4019.fpk 
+-r-xr-xr-x   1    0    0     600368 Feb 28 2005 [  10576 00] 4022.fpk 
+-r-xr-xr-x   1    0    0     604672 Feb 28 2005 [  10880 00] 4028.fpk 
+-r-xr-xr-x   1    0    0     637328 Feb 28 2005 [  11184 00] 4036.fpk 
+
+Directory listing of /PSP_GAME/USRDIR/data/fpack/chr/ren/
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     48 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 26 2005 [     31 02] .. 
+-r-xr-xr-x   1    0    0     216464 Feb 28 2005 [  11504 00] 0000.fpk 
+-r-xr-xr-x   1    0    0     216752 Feb 28 2005 [  11616 00] 0100.fpk 
+-r-xr-xr-x   1    0    0     234368 Feb 28 2005 [  11728 00] 1000.fpk 
+-r-xr-xr-x   1    0    0     359072 Feb 28 2005 [  11856 00] 3000.fpk 
+-r-xr-xr-x   1    0    0     520560 Feb 28 2005 [  12032 00] 4006.fpk 
+-r-xr-xr-x   1    0    0     540816 Feb 28 2005 [  12288 00] 4012.fpk 
+-r-xr-xr-x   1    0    0     507168 Feb 28 2005 [  12560 00] 4019.fpk 
+-r-xr-xr-x   1    0    0     493872 Feb 28 2005 [  12816 00] 4032.fpk 
+-r-xr-xr-x   1    0    0     551648 Feb 28 2005 [  13072 00] 4035.fpk 
+-r-xr-xr-x   1    0    0     555248 Feb 28 2005 [  13344 00] 4036.fpk 
+-r-xr-xr-x   1    0    0     590016 Feb 28 2005 [  13616 00] 4037.fpk 
+-r-xr-xr-x   1    0    0     542720 Feb 28 2005 [  13920 00] 4038.fpk 
+-r-xr-xr-x   1    0    0     571632 Feb 28 2005 [  14192 00] 4039.fpk 
+
+Directory listing of /PSP_GAME/USRDIR/data/fpack/chr/ruk/
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     49 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 26 2005 [     31 02] .. 
+-r-xr-xr-x   1    0    0     184784 Feb 28 2005 [  14480 00] 0000.fpk 
+-r-xr-xr-x   1    0    0     185120 Feb 28 2005 [  14576 00] 0100.fpk 
+-r-xr-xr-x   1    0    0     253472 Feb 28 2005 [  14672 00] 1000.fpk 
+-r-xr-xr-x   1    0    0     750096 Feb 28 2005 [  14800 00] 3000.fpk 
+-r-xr-xr-x   1    0    0     741408 Feb 28 2005 [  15168 00] 4002.fpk 
+-r-xr-xr-x   1    0    0     770288 Feb 28 2005 [  15536 00] 4009.fpk 
+-r-xr-xr-x   1    0    0     786192 Feb 28 2005 [  15920 00] 4010.fpk 
+-r-xr-xr-x   1    0    0     700448 Feb 28 2005 [  16304 00] 4011.fpk 
+-r-xr-xr-x   1    0    0     720336 Feb 28 2005 [  16656 00] 4012.fpk 
+-r-xr-xr-x   1    0    0     786320 Feb 28 2005 [  17008 00] 4013.fpk 
+-r-xr-xr-x   1    0    0     694912 Feb 28 2005 [  17392 00] 4018.fpk 
+-r-xr-xr-x   1    0    0     696608 Feb 28 2005 [  17744 00] 4024.fpk 
+-r-xr-xr-x   1    0    0     751072 Feb 28 2005 [  18096 00] 4030.fpk 
+-r-xr-xr-x   1    0    0     696432 Feb 28 2005 [  18464 00] 4035.fpk 
+
+Directory listing of /PSP_GAME/USRDIR/data/fpack/chr/ury/
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     50 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 26 2005 [     31 02] .. 
+-r-xr-xr-x   1    0    0     173056 Feb 28 2005 [  18816 00] 0000.fpk 
+-r-xr-xr-x   1    0    0     170496 Feb 28 2005 [  18912 00] 0100.fpk 
+-r-xr-xr-x   1    0    0     275456 Feb 28 2005 [  19008 00] 1000.fpk 
+-r-xr-xr-x   1    0    0     333488 Feb 28 2005 [  19152 00] 3000.fpk 
+-r-xr-xr-x   1    0    0     446400 Feb 28 2005 [  19328 00] 4005.fpk 
+-r-xr-xr-x   1    0    0     477840 Feb 28 2005 [  19552 00] 4017.fpk 
+-r-xr-xr-x   1    0    0     496944 Feb 28 2005 [  19792 00] 4023.fpk 
+-r-xr-xr-x   1    0    0     499856 Feb 28 2005 [  20048 00] 4028.fpk 
+-r-xr-xr-x   1    0    0     497024 Feb 28 2005 [  20304 00] 4029.fpk 
+-r-xr-xr-x   1    0    0     522608 Feb 28 2005 [  20560 00] 4030.fpk 
+-r-xr-xr-x   1    0    0     521168 Feb 28 2005 [  20816 00] 4031.fpk 
+-r-xr-xr-x   1    0    0     513440 Feb 28 2005 [  21072 00] 4032.fpk 
+-r-xr-xr-x   1    0    0     455472 Feb 28 2005 [  21328 00] 4038.fpk 
+
+Directory listing of /PSP_GAME/USRDIR/data/fpack/eft/cha/
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     51 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 26 2005 [     33 02] .. 
+-r-xr-xr-x   1    0    0      24096 Feb 28 2005 [  21600 00] 0000.fpk 
+
+Directory listing of /PSP_GAME/USRDIR/data/fpack/eft/cmn/
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     52 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 26 2005 [     33 02] .. 
+-r-xr-xr-x   1    0    0      63984 Feb 28 2005 [  21616 00] 0000.fpk 
+
+Directory listing of /PSP_GAME/USRDIR/data/fpack/eft/iti/
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     53 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 26 2005 [     33 02] .. 
+-r-xr-xr-x   1    0    0      13728 Feb 28 2005 [  21648 00] 0000.fpk 
+
+Directory listing of /PSP_GAME/USRDIR/data/fpack/eft/ori/
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     54 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 26 2005 [     33 02] .. 
+-r-xr-xr-x   1    0    0      10560 Feb 28 2005 [  21664 00] 0000.fpk 
+
+Directory listing of /PSP_GAME/USRDIR/data/fpack/eft/par/
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     55 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 26 2005 [     33 02] .. 
+-r-xr-xr-x   1    0    0     372384 Feb 28 2005 [  21680 00] 0000.fpk 
+
+Directory listing of /PSP_GAME/USRDIR/data/fpack/eft/ren/
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     56 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 26 2005 [     33 02] .. 
+-r-xr-xr-x   1    0    0      11024 Feb 28 2005 [  21872 00] 0000.fpk 
+
+Directory listing of /PSP_GAME/USRDIR/data/fpack/eft/ruk/
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     57 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 26 2005 [     33 02] .. 
+-r-xr-xr-x   1    0    0      15776 Feb 28 2005 [  21888 00] 0000.fpk 
+
+Directory listing of /PSP_GAME/USRDIR/data/fpack/eft/ury/
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     58 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 26 2005 [     33 02] .. 
+-r-xr-xr-x   1    0    0      11024 Feb 28 2005 [  21904 00] 0000.fpk 
+
+Directory listing of /PSP_GAME/USRDIR/data/fpack/sound/bgm/
+dr-xr-xr-x   1    0    0       2048 Feb 26 2005 [     59 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 26 2005 [     39 02] .. 
+-r-xr-xr-x   1    0    0     938464 Feb 28 2005 [  45168 00] 0000.fpk 
+-r-xr-xr-x   1    0    0    1014112 Feb 28 2005 [  45632 00] 0001.fpk 
+-r-xr-xr-x   1    0    0     113568 Feb 28 2005 [  46128 00] 0002.fpk 
+-r-xr-xr-x   1    0    0    1978720 Feb 28 2005 [  46192 00] 0003.fpk 
+-r-xr-xr-x   1    0    0    1745248 Feb 28 2005 [  47168 00] 0004.fpk 
+-r-xr-xr-x   1    0    0    1917280 Feb 28 2005 [  48032 00] 0005.fpk 
+-r-xr-xr-x   1    0    0    1687648 Feb 28 2005 [  48976 00] 0006.fpk 
+-r-xr-xr-x   1    0    0    1759840 Feb 28 2005 [  49808 00] 0007.fpk 
+-r-xr-xr-x   1    0    0     120864 Feb 28 2005 [  50672 00] 0008.fpk 
+-r-xr-xr-x   1    0    0     197728 Feb 28 2005 [  50736 00] 0009.fpk 
+-r-xr-xr-x   1    0    0    1365472 Feb 28 2005 [  50848 00] 0010.fpk 
+-r-xr-xr-x   1    0    0     993376 Feb 28 2005 [  51520 00] 0011.fpk 
+-r-xr-xr-x   1    0    0     964192 Feb 28 2005 [  52016 00] 0012.fpk 
+-r-xr-xr-x   1    0    0    1267168 Feb 28 2005 [  52496 00] 0013.fpk 
+-r-xr-xr-x   1    0    0    1194976 Feb 28 2005 [  53120 00] 0014.fpk 
+-r-xr-xr-x   1    0    0    1208800 Feb 28 2005 [  53712 00] 0015.fpk 
+-r-xr-xr-x   1    0    0    1305568 Feb 28 2005 [  54304 00] 0016.fpk 
+-r-xr-xr-x   1    0    0    1273312 Feb 28 2005 [  54944 00] 0017.fpk 
+
+Directory listing of /PSP_GAME/USRDIR/data/fpack/stg/001/
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     60 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 26 2005 [     40 02] .. 
+-r-xr-xr-x   1    0    0     238944 Feb 28 2005 [  55568 00] 0000.fpk 
+
+Directory listing of /PSP_GAME/USRDIR/data/fpack/stg/002/
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     61 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 26 2005 [     40 02] .. 
+-r-xr-xr-x   1    0    0     264016 Feb 28 2005 [  55696 00] 0000.fpk 
+
+Directory listing of /PSP_GAME/USRDIR/data/fpack/stg/003/
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     62 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 26 2005 [     40 02] .. 
+-r-xr-xr-x   1    0    0     185408 Feb 28 2005 [  55840 00] 0000.fpk 
+
+Directory listing of /PSP_GAME/USRDIR/data/fpack/stg/004/
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     63 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 26 2005 [     40 02] .. 
+-r-xr-xr-x   1    0    0     277856 Feb 28 2005 [  55936 00] 0000.fpk 
+
+Directory listing of /PSP_GAME/USRDIR/data/fpack/stg/005/
+dr-xr-xr-x   1    0    0       2048 Feb 28 2005 [     64 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 26 2005 [     40 02] .. 
+-r-xr-xr-x   1    0    0     173360 Feb 28 2005 [  56080 00] 0000.fpk 
+
+Directory listing of /PSP_GAME/USRDIR/data/fpack/stg/cmn/
+dr-xr-xr-x   1    0    0       2048 Feb 26 2005 [     65 02] . 
+dr-xr-xr-x   1    0    0       2048 Feb 26 2005 [     40 02] .. 
+=============================================================== 
+Generated on Fri 19/08/2022 at  4:26:36.41 
+PSP ISO Reporting Tool 
+(c)2022 JMDigital. All Rights Reserved. 
+=============================================================== 

@@ -1,0 +1,591 @@
+=============================================================================== 
+Setting up our binary paths . . . 
+ 
+SET DBTOOLS as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty"  
+SET IM_MASTER as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64"  
+SET LAME as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\Lame\lame.exe"  
+SET FFMPEG as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ffmpeg-n5.1-latest-win64-gpl-5.1\bin\ffmpeg.exe"  
+SET HNDBRK as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\HandBrakeCLI-1.5.1-win-x86_64"  
+SET HBCLI as "HandBrakeCLI.exe"  
+SET HBMKV as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\HandBrakeCLI-1.5.1-win-x86_64\HandBrakeCLI.exe"  
+SET FNR as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\fnr.exe"  
+SET SZ as "C:\Program Files\7-Zip\7z.exe"  
+SET DDTBEXE as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\RVDWTools\DateTimeBox.exe"  
+SET DDDBEXE as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\RVDWTools\DropDownBox.exe"  
+SET DINBEXE as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\RVDWTools\InputBox.exe"  
+SET DMGBEXE as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\RVDWTools\MessageBox.exe"  
+SET DOFBEXE as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\RVDWTools\OpenFileBox.exe"  
+SET DODBEXE as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\RVDWTools\OpenFolderBox.exe"  
+SET DPRNEXE as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\RVDWTools\PrinterSelectBox.exe"  
+SET DSVFEXE as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\RVDWTools\SaveFileBox.exe"  
+SET OPTEXE as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\optipng.exe"  
+SET CSHEXE as "C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\pngcrush_1_7_87_w64.exe"  
+SET IM_COMPARE as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\compare.exe"  
+SET IM_COMPOSITE as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\composite.exe"  
+SET IM_CONJURE as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\conjure.exe"  
+SET IM_CONVERT as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\convert.exe"  
+SET IM_DCRAW as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\dcraw.exe"  
+SET IM_FFMPEG as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\ffmpeg.exe"  
+SET IM_HP2XX as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\hp2xx.exe"  
+SET IM_ID as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\identify.exe"  
+SET IM_IMDISP as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\IMDisplay.exe"  
+SET IM_MAGICK as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\magick.exe"  
+SET IM_MOGRIFY as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\mogrify.exe"  
+SET IM_MONTAGE as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\montage.exe"  
+SET IM_STREAM as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\bin\ImageMagick-7.1.0-portable-Q16-HDRI-x64\stream.exe"  
+SET HSBT_WINP as C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\HSBT\winput.exe  
+SET HSBT_WPRO as C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\HSBT\Wprompt.exe  
+SET HSBT_WSEL as C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\HSBT\Wselect.exe  
+SET HSBT_FTO as C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\HSBT\FileToOpen.exe  
+SET HSBT_FTS as C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\HSBT\FileToSave.exe  
+SET HSBT_WBOX as C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\HSBT\Wbox.exe  
+SET HSBT_WBUS as C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\HSBT\Wbusy.exe  
+SET HSBT_WDIR as C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\HSBT\Wfolder.exe  
+SET HSBT_WDIR2 as C:\Program Files (x86)\Jenkins Media\JM Tools\3rdparty\HSBT\Wfolder2.exe  
+SET MKVNOTICE_IMG as explorer "C:\Program Files (x86)\Jenkins Media\JM Tools\Readme\mkvnotice.jpg"  
+ 
+Done  
+ 
+SET JMT_VIDEO_DB as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\pspmc.database.files\pspmc.database.files.videos.csv"  
+SET JMT_AUDIO_DB as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\pspmc.database.files\pspmc.database.files.audio.csv"  
+SET JMT_IMAGE_DB as "K:\GitHub\JMD-PSP-Tools\PSPMediaConverter_src\pspmc.database.files\pspmc.database.files.images.csv"  
+=============================================================================== 
+JMDigital PSP Media Converter [jm_pspmc_v1 - v1.0.0.1 (2022-08-05)]  
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved.  
+=============================================================================== 
+ 
+ 
+ 
+Replacing data... 
+ 
+ 
+Counting lines...  
+ 
+ 
+Running FOR loop on file 
+ 
+Number of lines in selection = 10 
+ 
+If we have 1 line, most likely only 1 file was selected 
+IF 10 EQ 1 GOTO PSPMC_VIDEO_SKIPFNR 
+ 
+We detected more than 1 line in "C:\Users\Jenkins\AppData\Local\Temp\userselectedfiles.tmp" 
+ 
+Continuing... 
+ 
+Replacing data... 
+ 
+Replacing data... 
+ 
+Jenkins, please select your output folder . . .  
+ 
+Your chosen output folder is:  
+H:\_PSP  
+ 
+FILE EXISTS AS P:\TV Series\Animation\Archer\Season 1\S01E01 - Mole Hunt [1080p]_q28.mkv 
+FILED SET AS P:\TV Series\Animation\Archer\Season 1\ 
+FILEN SET AS S01E01 - Mole Hunt [1080p]_q28 
+FILEX SET AS .mkv 
+FILEZ SET AS 741535238 
+ 
+Bytes:    741535238 
+KBytes:    724156 
+SET KBYTES AS 724156 
+MBytes:    708 
+SET MBYTES AS 708 
+ 
+Converting S01E01 - Mole Hunt [1080p]_q28.mkv to S01E01 - Mole Hunt [1080p]_q28_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 23.976  
+"VHEIGHT" = 1080  
+"VWIDTH" = 1918  
+"VDAR" = 1.776  
+"VDUR" = 1292793  
+OUTFILEZKB SET AS 23813274 
+ 
+Bytes:    23813274 
+KBytes:    23256 
+SET OUTKBYTES AS 23256 
+MBytes:    23 
+SET OUTMBYTES AS 23 
+ 
+INSIZEKB = 724156 
+OUTSIZEKB = 724156-23256 = 700900 
+OUTPERCKB = 700900*100 = 70090000 
+OUTPERCKB = 96/724156 = 96 
+ 
+You saved approx. 96%  
+FILENUM IS 2 out of 10 
+ 
+FILENUM1 = 200  
+ 
+TOTALPERC IS 20%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 2 out of 10 (20%) 
+Conversion took 01mins 04secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\Archer\Season 1\S01E02 - Training Day [1080p]_q28.mkv 
+FILED SET AS P:\TV Series\Animation\Archer\Season 1\ 
+FILEN SET AS S01E02 - Training Day [1080p]_q28 
+FILEX SET AS .mkv 
+FILEZ SET AS 720626008 
+ 
+Bytes:    720626008 
+KBytes:    703737 
+SET KBYTES AS 703737 
+MBytes:    688 
+SET MBYTES AS 688 
+ 
+Converting S01E02 - Training Day [1080p]_q28.mkv to S01E02 - Training Day [1080p]_q28_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 23.976  
+"VHEIGHT" = 1080  
+"VWIDTH" = 1920  
+"VDAR" = 1.778  
+"VDUR" = 1292626  
+OUTFILEZKB SET AS 25270686 
+ 
+Bytes:    25270686 
+KBytes:    24679 
+SET OUTKBYTES AS 24679 
+MBytes:    25 
+SET OUTMBYTES AS 25 
+ 
+INSIZEKB = 703737 
+OUTSIZEKB = 703737-24679 = 679058 
+OUTPERCKB = 679058*100 = 67905800 
+OUTPERCKB = 96/703737 = 96 
+ 
+You saved approx. 96%  
+FILENUM IS 4 out of 10 
+ 
+FILENUM1 = 400  
+ 
+TOTALPERC IS 40%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 4 out of 10 (40%) 
+Conversion took 01mins 03secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\Archer\Season 1\S01E03 - Diversity Hire [1080p]_q28.mkv 
+FILED SET AS P:\TV Series\Animation\Archer\Season 1\ 
+FILEN SET AS S01E03 - Diversity Hire [1080p]_q28 
+FILEX SET AS .mkv 
+FILEZ SET AS 692559824 
+ 
+Bytes:    692559824 
+KBytes:    676328 
+SET KBYTES AS 676328 
+MBytes:    661 
+SET MBYTES AS 661 
+ 
+Converting S01E03 - Diversity Hire [1080p]_q28.mkv to S01E03 - Diversity Hire [1080p]_q28_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 23.976  
+"VHEIGHT" = 1080  
+"VWIDTH" = 1920  
+"VDAR" = 1.778  
+"VDUR" = 1242451  
+OUTFILEZKB SET AS 20925696 
+ 
+Bytes:    20925696 
+KBytes:    20436 
+SET OUTKBYTES AS 20436 
+MBytes:    20 
+SET OUTMBYTES AS 20 
+ 
+INSIZEKB = 676328 
+OUTSIZEKB = 676328-20436 = 655892 
+OUTPERCKB = 655892*100 = 65589200 
+OUTPERCKB = 96/676328 = 96 
+ 
+You saved approx. 96%  
+FILENUM IS 6 out of 10 
+ 
+FILENUM1 = 600  
+ 
+TOTALPERC IS 60%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 6 out of 10 (60%) 
+Conversion took 59secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\Archer\Season 1\S01E04 - Killing Utne [1080p]_q28.mkv 
+FILED SET AS P:\TV Series\Animation\Archer\Season 1\ 
+FILEN SET AS S01E04 - Killing Utne [1080p]_q28 
+FILEX SET AS .mkv 
+FILEZ SET AS 688079507 
+ 
+Bytes:    688079507 
+KBytes:    671953 
+SET KBYTES AS 671953 
+MBytes:    657 
+SET MBYTES AS 657 
+ 
+Converting S01E04 - Killing Utne [1080p]_q28.mkv to S01E04 - Killing Utne [1080p]_q28_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 23.976  
+"VHEIGHT" = 1080  
+"VWIDTH" = 1920  
+"VDAR" = 1.778  
+"VDUR" = 1277986  
+OUTFILEZKB SET AS 21741623 
+ 
+Bytes:    21741623 
+KBytes:    21233 
+SET OUTKBYTES AS 21233 
+MBytes:    21 
+SET OUTMBYTES AS 21 
+ 
+INSIZEKB = 671953 
+OUTSIZEKB = 671953-21233 = 650720 
+OUTPERCKB = 650720*100 = 65072000 
+OUTPERCKB = 96/671953 = 96 
+ 
+You saved approx. 96%  
+FILENUM IS 8 out of 10 
+ 
+FILENUM1 = 800  
+ 
+TOTALPERC IS 80%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 8 out of 10 (80%) 
+Conversion took 59secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\Archer\Season 1\S01E05 - Honeypot [1080p]_q28.mkv 
+FILED SET AS P:\TV Series\Animation\Archer\Season 1\ 
+FILEN SET AS S01E05 - Honeypot [1080p]_q28 
+FILEX SET AS .mkv 
+FILEZ SET AS 732158960 
+ 
+Bytes:    732158960 
+KBytes:    714999 
+SET KBYTES AS 714999 
+MBytes:    699 
+SET MBYTES AS 699 
+ 
+Converting S01E05 - Honeypot [1080p]_q28.mkv to S01E05 - Honeypot [1080p]_q28_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 23.976  
+"VHEIGHT" = 1080  
+"VWIDTH" = 1920  
+"VDAR" = 1.778  
+"VDUR" = 1273315  
+OUTFILEZKB SET AS 22725539 
+ 
+Bytes:    22725539 
+KBytes:    22193 
+SET OUTKBYTES AS 22193 
+MBytes:    22 
+SET OUTMBYTES AS 22 
+ 
+INSIZEKB = 714999 
+OUTSIZEKB = 714999-22193 = 692806 
+OUTPERCKB = 692806*100 = 69280600 
+OUTPERCKB = 96/714999 = 96 
+ 
+You saved approx. 96%  
+FILENUM IS 10 out of 10 
+ 
+FILENUM1 = 1000  
+ 
+TOTALPERC IS 100%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 10 out of 10 (100%) 
+Conversion took 01mins 02secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\Archer\Season 1\S01E06 - Skorpio [1080p]_q28.mkv 
+FILED SET AS P:\TV Series\Animation\Archer\Season 1\ 
+FILEN SET AS S01E06 - Skorpio [1080p]_q28 
+FILEX SET AS .mkv 
+FILEZ SET AS 763607891 
+ 
+Bytes:    763607891 
+KBytes:    745711 
+SET KBYTES AS 745711 
+MBytes:    729 
+SET MBYTES AS 729 
+ 
+Converting S01E06 - Skorpio [1080p]_q28.mkv to S01E06 - Skorpio [1080p]_q28_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 23.976  
+"VHEIGHT" = 1080  
+"VWIDTH" = 1920  
+"VDAR" = 1.778  
+"VDUR" = 1281907  
+OUTFILEZKB SET AS 24779806 
+ 
+Bytes:    24779806 
+KBytes:    24200 
+SET OUTKBYTES AS 24200 
+MBytes:    24 
+SET OUTMBYTES AS 24 
+ 
+INSIZEKB = 745711 
+OUTSIZEKB = 745711-24200 = 721511 
+OUTPERCKB = 721511*100 = 72151100 
+OUTPERCKB = 96/745711 = 96 
+ 
+You saved approx. 96%  
+FILENUM IS 12 out of 10 
+ 
+FILENUM1 = 1200  
+ 
+TOTALPERC IS 120%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 12 out of 10 (120%) 
+Conversion took 01mins 02secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\Archer\Season 1\S01E07 - Skytanic [1080p]_q28.mkv 
+FILED SET AS P:\TV Series\Animation\Archer\Season 1\ 
+FILEN SET AS S01E07 - Skytanic [1080p]_q28 
+FILEX SET AS .mkv 
+FILEZ SET AS 744813136 
+ 
+Bytes:    744813136 
+KBytes:    727357 
+SET KBYTES AS 727357 
+MBytes:    711 
+SET MBYTES AS 711 
+ 
+Converting S01E07 - Skytanic [1080p]_q28.mkv to S01E07 - Skytanic [1080p]_q28_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 23.976  
+"VHEIGHT" = 1080  
+"VWIDTH" = 1920  
+"VDAR" = 1.778  
+"VDUR" = 1272648  
+OUTFILEZKB SET AS 22524194 
+ 
+Bytes:    22524194 
+KBytes:    21997 
+SET OUTKBYTES AS 21997 
+MBytes:    22 
+SET OUTMBYTES AS 22 
+ 
+INSIZEKB = 727357 
+OUTSIZEKB = 727357-21997 = 705360 
+OUTPERCKB = 705360*100 = 70536000 
+OUTPERCKB = 96/727357 = 96 
+ 
+You saved approx. 96%  
+FILENUM IS 14 out of 10 
+ 
+FILENUM1 = 1400  
+ 
+TOTALPERC IS 140%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 14 out of 10 (140%) 
+Conversion took 01mins 00secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\Archer\Season 1\S01E08 - The Rock [1080p]_q28.mkv 
+FILED SET AS P:\TV Series\Animation\Archer\Season 1\ 
+FILEN SET AS S01E08 - The Rock [1080p]_q28 
+FILEX SET AS .mkv 
+FILEZ SET AS 721353271 
+ 
+Bytes:    721353271 
+KBytes:    704447 
+SET KBYTES AS 704447 
+MBytes:    688 
+SET MBYTES AS 688 
+ 
+Converting S01E08 - The Rock [1080p]_q28.mkv to S01E08 - The Rock [1080p]_q28_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 23.976  
+"VHEIGHT" = 1080  
+"VWIDTH" = 1920  
+"VDAR" = 1.778  
+"VDUR" = 1261637  
+OUTFILEZKB SET AS 22481934 
+ 
+Bytes:    22481934 
+KBytes:    21956 
+SET OUTKBYTES AS 21956 
+MBytes:    22 
+SET OUTMBYTES AS 22 
+ 
+INSIZEKB = 704447 
+OUTSIZEKB = 704447-21956 = 682491 
+OUTPERCKB = 682491*100 = 68249100 
+OUTPERCKB = 96/704447 = 96 
+ 
+You saved approx. 96%  
+FILENUM IS 16 out of 10 
+ 
+FILENUM1 = 1600  
+ 
+TOTALPERC IS 160%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 16 out of 10 (160%) 
+Conversion took 01mins 01secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\Archer\Season 1\S01E09 - Job Offer [1080p]_q28.mkv 
+FILED SET AS P:\TV Series\Animation\Archer\Season 1\ 
+FILEN SET AS S01E09 - Job Offer [1080p]_q28 
+FILEX SET AS .mkv 
+FILEZ SET AS 713399424 
+ 
+Bytes:    713399424 
+KBytes:    696680 
+SET KBYTES AS 696680 
+MBytes:    681 
+SET MBYTES AS 681 
+ 
+Converting S01E09 - Job Offer [1080p]_q28.mkv to S01E09 - Job Offer [1080p]_q28_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 23.976  
+"VHEIGHT" = 1080  
+"VWIDTH" = 1920  
+"VDAR" = 1.778  
+"VDUR" = 1275192  
+OUTFILEZKB SET AS 22539229 
+ 
+Bytes:    22539229 
+KBytes:    22011 
+SET OUTKBYTES AS 22011 
+MBytes:    22 
+SET OUTMBYTES AS 22 
+ 
+INSIZEKB = 696680 
+OUTSIZEKB = 696680-22011 = 674669 
+OUTPERCKB = 674669*100 = 67466900 
+OUTPERCKB = 96/696680 = 96 
+ 
+You saved approx. 96%  
+FILENUM IS 18 out of 10 
+ 
+FILENUM1 = 1800  
+ 
+TOTALPERC IS 180%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 18 out of 10 (180%) 
+Conversion took 01mins 07secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+FILE EXISTS AS P:\TV Series\Animation\Archer\Season 1\S01E10 - Dial M for Mother [1080p]_q28.mkv 
+FILED SET AS P:\TV Series\Animation\Archer\Season 1\ 
+FILEN SET AS S01E10 - Dial M for Mother [1080p]_q28 
+FILEX SET AS .mkv 
+FILEZ SET AS 738259940 
+ 
+Bytes:    738259940 
+KBytes:    720957 
+SET KBYTES AS 720957 
+MBytes:    705 
+SET MBYTES AS 705 
+ 
+Converting S01E10 - Dial M for Mother [1080p]_q28.mkv to S01E10 - Dial M for Mother [1080p]_q28_JMPSPMC.MP4 . . .  
+  
+"VFRATE2" = 23.976  
+"VHEIGHT" = 1080  
+"VWIDTH" = 1920  
+"VDAR" = 1.778  
+"VDUR" = 1276777  
+OUTFILEZKB SET AS 23565784 
+ 
+Bytes:    23565784 
+KBytes:    23014 
+SET OUTKBYTES AS 23014 
+MBytes:    23 
+SET OUTMBYTES AS 23 
+ 
+INSIZEKB = 720957 
+OUTSIZEKB = 720957-23014 = 697943 
+OUTPERCKB = 697943*100 = 69794300 
+OUTPERCKB = 96/720957 = 96 
+ 
+You saved approx. 96%  
+FILENUM IS 20 out of 10 
+ 
+FILENUM1 = 2000  
+ 
+TOTALPERC IS 200%  
+ 
+0MB remaining...  
+ 
+Process completed. 
+Files Processed: 20 out of 10 (200%) 
+Conversion took 01mins 06secs 
+ 
+ 
+(c)2008-2022 JMDigital/Jenkins Media. All Rights Reserved. 
+www.jmdigital.net.au 
+  
+  
+Finished all files, and finished all supported files. Moving to the end. 
+Renaming files back to their original extension  
+ 
+SET ReturnCode to 1  
+ 
+Jenkins opted to NOT Exit  
+ 
