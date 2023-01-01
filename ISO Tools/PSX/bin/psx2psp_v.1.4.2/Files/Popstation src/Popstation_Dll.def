@@ -1,0 +1,11 @@
+LIBRARY      Popstation
+
+EXPORTS
+convert
+cancel_convert
+extract
+cancel_extract
+popstripInit
+popstripReadBlock
+popstripGetIsoSize
+popstripFinal

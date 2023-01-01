@@ -6,6 +6,7 @@
 
 # Import Libraries
 import sys
+import selenium.common.exceptions
 
 version = (3, 0)
 cur_version = sys.version_info
@@ -42,7 +43,7 @@ args_list = ["keywords", "keywords_from_file", "prefix_keywords", "suffix_keywor
              "exact_size", "aspect_ratio", "type", "time", "time_range", "delay", "url", "single_image",
              "output_directory", "image_directory", "no_directory", "proxy", "similar_images", "specific_site",
              "print_urls", "print_size", "print_paths", "metadata", "extract_metadata", "socket_timeout",
-             "thumbnail", "thumbnail_only", "language", "prefix", "chromedriver", "related_images", "safe_search",
+             "thumbnail", "thumbnail_only", "language", "prefix", "chromedriver", "browser", "related_images", "safe_search",
              "no_numbering",
              "offset", "no_download", "save_source", "silent_mode", "ignore_urls"]
 
@@ -148,6 +149,9 @@ def user_input():
         parser.add_argument('-cd', '--chromedriver',
                             help='specify the path to chromedriver executable in your local machine', type=str,
                             required=False)
+        parser.add_argument('-wb', '--browser',
+                            help='Specify which driver to use', type=str,
+                            required=False)
         parser.add_argument('-ri', '--related_images', default=False,
                             help="Downloads images that are similar to the keyword provided", action="store_true")
         parser.add_argument('-sa', '--safe_search', default=False,
@@ -195,9 +199,18 @@ class googleimagesdownload:
         lines = data.split('\n')
         return json.loads(lines[3])[0][2]
 
-    def _image_objects_from_pack(self, data):
-        image_objects = json.loads(data)[31][-1][12][2]
-        image_objects = [x for x in image_objects if x[0] == 1]
+    @staticmethod
+    def _image_objects_from_pack(data):
+        image_data = json.loads(data)
+        # NOTE: google sometimes changes their format, breaking this. set a breakpoint here to find the correct index
+        grid = image_data[56][-1][0][-1][-1][0]
+        image_objects = []
+        for item in grid:
+            obj = list(item[0][0].values())[0]
+            # ads and carousels will be empty
+            if not obj or not obj[1]:
+                continue
+            image_objects.append(obj)
         return image_objects
 
     # Downloading entire Web Document (Raw Page Content)
@@ -206,7 +219,8 @@ class googleimagesdownload:
         cur_version = sys.version_info
         headers = {}
         headers[
-            'User-Agent'] = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36"
+            # 'User-Agent'] = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36"
+            'User-Agent'] = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
         if cur_version >= version:  # If the Current Version of Python is 3.0 or above
             try:
                 req = urllib.request.Request(url, headers=headers)
@@ -234,11 +248,11 @@ class googleimagesdownload:
             return self._image_objects_from_pack(self._extract_data_pack(respData)), self.get_all_tabs(respData)
         except Exception as e:
             print(e)
-            print('Image objects data unpacking failed. Please leave a comment with the above error at https://github.com/hardikvasa/google-images-download/pull/298')
+            print('Image objects data unpacking failed. Please leave a comment with the above error at https://github.com/Joeclinton1/google-images-download/pull/26')
             sys.exit()
 
     # Download Page for more than 100 images
-    def download_extended_page(self, url, chromedriver):
+    def download_extended_page(self, url, chromedriver, browser):
         from selenium import webdriver
         from selenium.webdriver.common.keys import Keys
         if sys.version_info[0] < 3:
@@ -248,13 +262,16 @@ class googleimagesdownload:
         options.add_argument('--no-sandbox')
         options.add_argument("--headless")
 
-        try:
-            browser = webdriver.Chrome(chromedriver, chrome_options=options)
-        except Exception as e:
-            print("Looks like we cannot locate the path the 'chromedriver' (use the '--chromedriver' "
-                  "argument to specify the path to the executable.) or google chrome browser is not "
-                  "installed on your machine (exception: %s)" % e)
-            sys.exit()
+        if browser == 'Firefox':
+            browser = webdriver.Firefox()
+        else:
+            try:
+                browser = webdriver.Chrome(chromedriver, chrome_options=options)
+            except Exception as e:
+                print("Looks like we cannot locate the path the 'chromedriver' (use the '--chromedriver' "
+                      "argument to specify the path to the executable.) or google chrome browser is not "
+                      "installed on your machine (exception: %s)" % e)
+                sys.exit()
         browser.set_window_size(1024, 768)
 
         # Open the link
@@ -288,6 +305,14 @@ class googleimagesdownload:
         """)
 
         time.sleep(1)
+
+        # Bypass "Before you continue" if it appears
+        try:
+            browser.find_element_by_css_selector("[aria-label='Accept all']").click()
+            time.sleep(1)
+        except selenium.common.exceptions.NoSuchElementException:
+            pass
+
         print("Getting you a lot of images. This may take a few moments...")
 
         element = browser.find_element_by_tag_name("body")
@@ -312,8 +337,8 @@ class googleimagesdownload:
         source = browser.page_source  # page source
         images = self._image_objects_from_pack(self._extract_data_pack_extended(source))
 
-        ajax_data = browser.execute_script("return XMLHttpRequest.prototype._data")
-        for chunk in ajax_data:
+        ajax_data = browser.execute_script("return XMLHttpRequest.prototype._data") # I think this is broken
+        for chunk in ajax_data if ajax_data else []:
             images += self._image_objects_from_pack(self._extract_data_pack_ajax(chunk))
 
         # close the browser
@@ -380,7 +405,7 @@ class googleimagesdownload:
         main = data[3]
         info = data[9]
         if info is None:
-            info = data[11]
+            info = data[22]
         formatted_object = {}
         try:
             formatted_object['image_height'] = main[2]
@@ -796,7 +821,7 @@ class googleimagesdownload:
 
                 # return image name back to calling method to use it for thumbnail downloads
                 download_status = 'success'
-                download_message = "Completed Image ====> " + prefix + str(count) + "." + image_name
+                download_message = "\033[1;32mCompleted Image ====> " + prefix + str(count) + "\033[0m." + image_name
                 return_image_name = prefix + str(count) + "." + image_name
 
                 # image size parameter
@@ -1084,7 +1109,7 @@ class googleimagesdownload:
                     if limit < 101:
                         images, tabs = self.download_page(url)  # download page
                     else:
-                        images, tabs = self.download_extended_page(url, arguments['chromedriver'])
+                        images, tabs = self.download_extended_page(url, arguments['chromedriver'], arguments['browser'])
 
                     if not arguments["silent_mode"]:
                         if arguments['no_download']:
@@ -1115,7 +1140,7 @@ class googleimagesdownload:
                             if limit < 101:
                                 images, _ = self.download_page(value)  # download page
                             else:
-                                images, _ = self.download_extended_page(value, arguments['chromedriver'])
+                                images, _ = self.download_extended_page(value, arguments['chromedriver'], arguments['browser'])
                             self.create_directories(main_directory, final_search_term, arguments['thumbnail'],
                                                     arguments['thumbnail_only'])
                             self._get_all_items(images, main_directory, search_term + " - " + key, limit, arguments)
